@@ -1,0 +1,578 @@
+,group,variable,month,CIRUGIA BUCOMAXILOFACIAL MENOR MENORES DE 5 AÑOS,CIRUGIA BUCOMAXILOFACIAL MENOR MENORES DE 5 AÑOS,CIRUGIA BUCOMAXILOFACIAL MENOR 5 A 13 AÑOS,CIRUGIA BUCOMAXILOFACIAL MENOR 5 A 13 AÑOS,CIRUGIA BUCOMAXILOFACIAL MENOR 14 A 19 AÑOS,CIRUGIA BUCOMAXILOFACIAL MENOR 14 A 19 AÑOS,CIRUGIA BUCOMAXILOFACIAL MENOR 20 A 59 AÑOS,CIRUGIA BUCOMAXILOFACIAL MENOR 20 A 59 AÑOS,CIRUGIA BUCOMAXILOFACIAL MENOR 60 AÑOS Y MAS,CIRUGIA BUCOMAXILOFACIAL MENOR 60 AÑOS Y MAS,CIRUGIA BUCOMAXILOFACIAL MENOR EMB,CIRUGIA BUCOMAXILOFACIAL MENOR EMB,CIRUGIA BUCOMAXILOFACIAL MENOR POST,CIRUGIA BUCOMAXILOFACIAL MENOR POST,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL
+municipality,,,,,,,,,,,,,,,,,,
+ACHACACHI,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,2,5,5,2,2,2,1,0,0,0,0,0,19
+ANZALDO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+ARBIETO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,21,3,0,0,0,0,0,0,0,0,0,0,24
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,1,1,6,2,2,0,0,0,0,0,12
+CABEZAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+CAMIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,1,1,3,8,0,2,3,8,1,0,0,0,0,0,27
+CARACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,2,0,5,6,1,5,1,7,0,0,0,0,0,0,27
+CARAPARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2
+CHARAGUA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,0,10,0,0,0,0,0,0,10
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,4,1,2,0,1,3,1,0,0,0,0,0,12
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,4,2,28,23,1,1,0,0,0,0,59
+COLPA BELGICA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+COLQUECHACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,20,20,10,4,13,0,0,0,0,0,0,67
+CORO CORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,1,21,15,5,3,6,2,1,4,0,0,0,0,58
+COTAGAITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,2,4,2,1,2,6,1,3,0,0,0,0,21
+CUATRO CAÑADAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,1,1,1,3,0,0,0,4,1,1,0,0,0,0,12
+FILADELFIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+GENERAL SAAVEDRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+GUTIERREZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+LA GUARDIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,12,13,6,6,21,32,26,5,0,0,0,0,121
+MACHARETI,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+MECAPACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,1,3,0,1,1,4,1,5,0,0,0,0,16
+MONTERO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,4,4,31,23,4,5,4,26,2,2,0,0,0,0,105
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,6,1,8,8,27,27,61,79,9,14,0,0,0,0,240
+PAILON,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,1,1,4,2,0,0,2,2,1,0,0,0,0,0,13
+PALOS BLANCOS,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+PUERTO QUIJARRO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,1,2,0,0,0,0,0,0,3
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,2,1,0,0,1,0,0,0,0,0,0,4
+QUIRUSILLAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+RIBERALTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,14,19,8,4,8,18,4,4,0,0,0,0,79
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+SAN CARLOS,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,1,3,4,0,2,1,2,0,0,0,0,0,0,13
+SAN IGNACIO,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,1,3,3,0,0,2,6,1,2,0,0,0,0,18
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,7,3,2,5,7,13,3,0,0,0,0,0,40
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,3,8,9,1,1,2,5,1,0,0,0,0,0,30
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,2,5,9,1,2,2,6,4,0,0,0,0,0,0,31
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,1,20,10,13,10,10,14,13,3,0,0,0,0,94
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,5,5,2,0,1,2,1,4,0,0,0,0,20
+UYUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,13,0,3,1,7,0,0,0,0,0,0,24
+VIACHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,1,6,1,3,1,4,1,4,0,0,0,0,0,0,21
+VILLA MONTES,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,1,0,1,3,2,1,0,0,0,0,0,8
+VILLA TUNARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+VILLAZON,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+YACUIBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-01-01,0,0,7,0,0,1,0,1,0,0,0,0,0,0,9
+ACHACACHI,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,2,3,2,0,1,3,0,0,0,0,0,0,11
+ACHOCALLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,1,0,2,1,0,0,0,0,0,0,4
+CAIROMA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3
+CHULUMANI (V. DE LA LIBERTAD),atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+CHUMA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,1,0,0,2,4,2,1,2,0,0,0,0,12
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,8,19,7,2,10,14,1,1,0,0,0,0,62
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,4,3,8,8,31,30,7,6,0,0,0,0,97
+CORO CORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,2,7,5,2,1,5,5,5,1,0,0,0,0,33
+ENTRE RIOS CBBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+LA GUARDIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,1,5,0,0,0,0,0,0,0,0,0,0,6
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,2,0,16,10,18,12,42,44,8,9,0,0,0,0,161
+LAGUNILLAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+LORETO,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,1,0,0,0,0,2,0,0,0,0,0,0,3
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,1,1,5,3,7,2,20,32,2,3,0,0,0,0,76
+PADILLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,0,0,0,4,0,0,0,0,0,0,4
+PALCA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,1,6,2,0,0,11,0,1,0,0,0,0,21
+PAZÑA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,1,0,0,1,1,2,2,3,0,0,0,0,10
+PORONGO,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+POTOSI,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,1,0,5,1,0,3,1,5,0,1,0,0,0,0,17
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,2,0,1,2,0,0,0,0,0,0,5
+RIBERALTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,2,0,1,1,3,8,3,0,0,0,0,0,18
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2
+SAN ANDRES,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,2,2,0,0,5,6,8,5,6,0,0,0,0,0,34
+SAN IGNACIO,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,12,11,7,9,6,19,2,0,0,0,0,0,66
+SAN JAVIER(STC),atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,1,21,6,7,3,5,9,3,3,0,0,0,0,58
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,3,1,29,6,0,0,0,0,0,0,0,0,0,0,39
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,1,9,12,2,1,11,18,1,1,0,0,0,0,56
+SANTA ROSA DEL SARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,0,0,1,3,0,0,0,0,0,0,4
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,2,3,2,2,3,4,0,1,0,0,0,0,17
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,2,1,15,9,2,3,3,9,5,2,0,0,0,0,51
+TIQUIPAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,7,5,0,0,0,0,0,0,0,0,0,0,12
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,6,1,5,3,3,5,0,0,0,0,0,0,23
+TUPIZA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3
+UNCIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,5,0,0,1,8,7,4,0,0,0,0,0,25
+VACAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,3,0,3,4,1,6,8,10,0,1,0,0,0,0,36
+VILLA MONTES,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,0,1,3,2,1,0,0,0,0,0,7
+VILLA SERRANO,atencion odontologica,cirugia bucomaxilofacial menor,2024-02-01,0,0,0,0,1,1,2,5,0,0,0,0,0,0,9
+ACHACACHI,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,2,5,3,0,4,1,1,0,0,0,0,0,16
+ARAMPAMPA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,2,0,0,0,1,14,1,1,0,0,0,0,19
+CAMIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,3,1,1,1,1,1,0,3,0,0,0,0,11
+CARAPARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,15,10,1,1,9,7,4,2,0,0,0,0,49
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,1,1,24,13,11,9,47,59,10,14,0,0,0,0,189
+COLLANA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+COLQUECHACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,0,0,1,0,5,0,0,0,0,0,0,7
+COLQUIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+CORO CORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,13,4,8,0,10,3,6,3,0,0,0,0,47
+CURVA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,1,1,6,12,2,4,10,29,2,0,0,0,0,0,67
+FILADELFIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,1,0,0,2,0,0,2,3,0,1,0,0,0,0,9
+HUANUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,9,0,1,1,7,7,7,6,0,0,0,0,38
+MACHARETI,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,3,2,1,2,3,1,0,0,0,0,0,12
+MIZQUE,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+MORO MORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,1,1,8,8,0,3,3,17,1,2,0,0,0,0,44
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,2,2,17,21,8,14,29,54,9,10,0,0,0,0,166
+PADILLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+PAMPA GRANDE,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+POTOSI,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,2,2,12,10,1,4,3,13,2,1,0,0,0,0,50
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,1,0,1,0,0,0,0,0,0,0,0,3
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,2,0,0,0,0,0,1,1,0,0,0,0,0,0,4
+QUIME,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,2,3,1,1,3,1,0,0,0,0,0,12
+REYES,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,2,0,0,1,0,0,0,0,0,0,0,4
+RIBERALTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,4,1,0,1,2,3,0,0,0,0,0,0,11
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3
+SAN IGNACIO,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2
+SAN JAVIER(STC),atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,2,16,13,3,14,7,23,4,0,0,0,0,0,82
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,2,1,0,10,14,0,3,0,0,0,0,31
+SAN JULIAN,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,2,5,3,2,1,2,10,4,1,0,0,0,0,30
+SAN LUCAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,4,3,2,1,1,15,4,3,0,0,0,0,33
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,3,2,0,1,1,3,3,0,0,0,0,0,13
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,1,1,3,2,5,7,3,7,3,1,0,0,0,0,33
+TARATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,1,2,12,11,13,8,26,17,8,9,0,0,0,0,107
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,1,0,2,6,0,1,2,4,1,0,0,0,0,0,17
+UYUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,3,0,1,4,1,0,0,0,0,0,0,9
+VIACHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,2,9,1,5,1,3,7,0,0,0,0,0,0,28
+VILLA TUNARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,1,0,0,2,0,1,0,0,0,0,0,0,4
+VINTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+YACUIBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-03-01,0,0,5,5,0,0,0,2,0,0,0,0,0,0,12
+ARAMPAMPA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+ARBIETO,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+AYOPAYA (V. DE INDEPENDENCIA),atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,13,3,0,3,10,18,6,8,0,0,0,0,61
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,2,0,0,0,2,0,0,0,0,0,0,4
+CAQUIAVIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+CARACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+CARANAVI,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+CHUQUIHUTA AYLLU JUCUMANI,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,4,3,2,5,0,7,1,6,0,2,0,0,0,0,30
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,1,1,17,11,11,16,37,36,6,5,0,0,0,0,141
+COLCAPIRHUA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+CONCEPCION,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,1,0,6,9,16,12,0,0,0,0,44
+COPACABANA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+CORO CORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,1,0,13,5,0,12,8,7,0,1,0,0,0,0,47
+COTAGAITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,2,0,0,5,1,6,1,0,0,0,0,15
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,10,5,1,0,0,1,3,2,0,0,0,0,22
+GUAYARAMERIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,1,0,4,1,0,0,0,9,2,0,0,0,0,0,17
+HUANUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+INQUISIVI,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,1,1,0,2,1,3,2,0,0,0,0,0,10
+IXIAMAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,2,0,23,18,12,5,24,30,18,13,0,0,0,0,145
+OCURI,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,4,22,21,19,17,51,83,14,7,0,0,0,0,238
+PADILLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+PAMPA GRANDE,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,4,0,0,0,0,2,0,0,0,0,0,0,6
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,1,0,2,1,0,0,0,0,0,4
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,2,0,1,0,0,0,0,0,0,3
+RIBERALTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,2,0,1,4,0,3,5,4,2,0,0,0,0,0,21
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,2,2,17,7,0,0,0,0,0,0,0,0,0,0,28
+SAN RAFAEL,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,1,1,4,7,0,0,2,11,2,1,0,0,0,0,29
+SANTA ROSA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,2,0,2,2,1,7,0,1,0,0,0,0,15
+TARABUCO,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,2,1,4,4,10,11,19,25,7,6,0,0,0,0,89
+TIQUIPAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,2,1,2,0,1,2,2,0,0,0,0,0,10
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,1,1,18,23,5,9,22,46,4,5,0,0,0,0,134
+TUPIZA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,4,4,1,2,10,5,3,0,0,0,0,0,29
+URIONDO (A. CONCEPCION),atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+VILLA MONTES,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,1,0,0,0,0,0,2,0,0,0,0,3
+VILLAZON,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+VINTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+YOCALLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-04-01,0,0,2,2,6,4,4,4,0,0,0,0,0,0,22
+ACHACACHI,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,3,1,1,0,0,0,0,1,0,0,0,0,6
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,1,0,1,0,2,3,1,0,0,0,0,0,8
+CARANAVI,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,2,0,0,2,0,1,0,0,0,0,0,5
+CARAPARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+CHAYANTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,10,9,15,6,13,43,5,1,0,0,0,0,102
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,1,4,16,13,30,33,2,4,0,0,0,0,103
+COLQUECHACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,0,2,3,7,3,0,0,0,0,15
+COLQUIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,7,6,14,17,4,13,42,38,1,0,0,0,0,0,142
+CORO CORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,1,0,8,4,3,2,12,2,6,0,0,0,0,0,38
+COTAGAITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,3,2,0,0,4,1,4,2,0,0,0,0,16
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,10,8,4,2,0,11,0,0,0,0,0,0,35
+EL TORNO,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,2,3,0,5,2,8,15,1,0,0,0,0,36
+GUTIERREZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+LA GUARDIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,2,0,1,0,1,0,4,0,0,0,0,0,0,8
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,2,1,4,3,1,0,5,9,12,5,0,0,0,0,42
+LURIBAY,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+MAIRANA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,3,0,10,6,4,0,0,8,8,1,0,0,0,0,40
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,5,6,6,5,9,21,47,8,5,0,0,0,0,112
+PADILLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+PAMPA GRANDE,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3
+POCONA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2
+POROMA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,1,0,3,0,2,1,2,5,0,1,0,0,0,0,15
+POTOSI,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,5,8,0,0,1,0,0,0,0,0,0,0,14
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,2,0,1,0,0,0,0,0,0,3
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+SAN ANDRES,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,2,3,2,2,6,7,4,4,0,0,0,0,30
+SAN BENITO,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,0,1,0,1,1,0,0,0,0,3
+SAN BORJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,1,5,5,2,3,3,12,0,0,0,0,0,0,31
+SAN CARLOS,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,1,1,0,0,0,2,0,0,0,0,0,0,4
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,5,0,4,13,0,0,0,0,0,0,22
+SAN JOSE DE CHIQUITOS,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,1,0,0,0,1,5,2,1,0,0,0,0,10
+SAN JULIAN,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,13,14,16,9,1,3,17,29,12,4,0,0,0,0,118
+SANTA ROSA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+SICAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+SIPE SIPE,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,4,1,8,17,1,2,10,11,15,17,0,0,0,0,86
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,2,2,1,3,0,8,0,1,0,0,0,0,17
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,4,5,6,7,9,11,13,4,7,2,0,0,0,0,68
+TIRAQUE (CBBA),atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,3,3,0,0,0,0,0,0,0,0,0,0,6
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,13,14,5,5,17,25,2,1,0,0,0,0,82
+TUPIZA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,0,0,8,0,0,0,0,0,0,8
+WARNES,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,1,0,3,2,0,2,2,4,2,1,0,0,0,0,17
+YACUIBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-05-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+ACHACACHI,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,2,3,0,1,0,0,1,2,0,0,0,0,9
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,0,3,0,0,0,0,0,0,3
+CARACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,2,1,2,3,2,2,0,0,0,0,0,12
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,7,3,2,9,13,0,5,0,0,0,0,39
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,5,5,4,5,24,25,6,1,0,0,0,0,75
+COLQUIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,10,0,0,0,0,0,0,0,0,0,10
+CORO CORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,8,5,1,1,9,2,4,0,0,0,0,0,30
+COROICO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+COTAGAITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,4,1,0,2,1,6,4,0,0,0,0,18
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,1,5,7,3,5,11,29,0,4,0,0,0,0,65
+EL PUENTE(TJA),atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,5,4,0,3,5,20,3,0,0,0,0,0,40
+GUTIERREZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,1,0,8,3,12,36,20,2,0,0,0,0,82
+LLALLAGUA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,3,5,0,1,1,7,2,3,0,0,0,0,22
+MONTEAGUDO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,1,1,10,4,0,0,7,8,5,2,0,0,0,0,38
+MONTERO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,1,4,0,0,0,0,0,0,5
+MOROCHATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,1,0,1,2,2,5,4,12,4,1,0,0,0,0,32
+OCURI,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,5,2,3,5,20,23,3,5,0,0,0,0,66
+PADCAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+PADILLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2
+PALCA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,1,0,5,7,1,1,8,19,4,2,0,0,0,0,48
+PUERTO VILLARROEL,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,0,1,2,0,0,0,0,0,3
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+QUIME,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,3,2,0,1,0,2,0,2,0,0,0,0,10
+RIBERALTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2
+RURRENABAQUE,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,2,0,0,0,0,1,3,3,0,2,0,0,0,0,11
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,1,0,3,8,0,0,0,0,0,0,12
+SAN RAFAEL,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,3,3,3,2,0,5,9,1,1,0,0,0,0,27
+SANTA ROSA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,1,1,1,1,0,0,0,0,0,0,0,0,0,0,4
+SANTA ROSA DEL SARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,1,0,2,0,0,0,2,3,0,0,0,0,0,0,8
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,1,1,8,1,0,2,3,6,2,4,0,0,0,0,28
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,2,0,1,1,4,6,8,10,0,0,0,0,32
+TIQUIPAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,4,2,2,0,7,4,4,0,0,0,0,0,0,23
+TORO TORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,4,3,2,1,3,9,0,0,0,0,0,0,22
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,2,0,5,14,3,5,8,11,3,2,0,0,0,0,53
+TUPIZA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,1,3,2,0,5,11,0,5,0,0,0,0,27
+VIACHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+VILLAZON,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,2,0,1,0,19,0,0,0,0,0,0,22
+WARNES,atencion odontologica,cirugia bucomaxilofacial menor,2024-06-01,0,0,0,1,1,2,2,9,0,0,0,0,0,0,15
+APOLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+BELEN DE URMIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,1,0,0,1,1,0,0,0,0,0,0,3
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,1,0,0,0,1,8,0,0,0,0,0,0,10
+CAJUATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+CARACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,3,6,5,2,2,3,1,1,0,0,0,0,23
+CHALLAPATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,2,0,1,9,1,0,0,2,3,3,0,0,0,0,21
+CHARAGUA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,1,1,1,4,1,13,0,0,0,0,0,0,21
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,1,6,9,28,34,2,3,0,0,0,0,83
+COLQUECHACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,1,4,5,3,2,0,1,0,2,0,0,0,0,18
+COROICO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+CUATRO CAÑADAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,1,0,10,10,0,3,4,15,3,5,0,0,0,0,51
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,4,2,0,2,2,0,0,0,0,0,0,0,10
+EL TORNO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,3,0,0,3,5,1,2,0,0,0,0,14
+ENTRE RIOS CBBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,1,0,2,0,1,2,0,0,0,0,0,0,6
+EXALTACION,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+INQUISIVI,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,0,2,2,0,0,0,0,0,0,4
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,2,2,21,14,14,31,4,5,0,0,0,0,93
+LORETO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,2,0,1,0,0,3,2,0,0,0,0,0,8
+MONTERO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,2,0,0,1,0,0,0,0,0,0,3
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,8,1,71,49,23,31,31,77,4,7,0,0,0,0,302
+PADCAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+PADILLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+POROMA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,7,3,2,1,6,15,15,3,0,0,0,0,52
+POTOSI,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,1,10,12,0,0,1,11,0,2,0,0,0,0,37
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+RURRENABAQUE,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,1,1,1,8,0,2,0,0,0,0,13
+SAMAIPATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,3,4,3,2,4,18,0,5,0,0,0,0,39
+SAN MIGUEL DE VELASCO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+SAN RAFAEL,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,14,25,80,70,19,44,75,159,22,14,0,0,0,0,522
+SANTA ROSA DEL SARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,3
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,1,0,7,9,4,7,6,13,6,3,0,0,0,0,56
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,2,0,11,0,4,5,1,1,0,0,0,0,24
+TIQUIPAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,6,1,0,2,0,2,0,0,0,0,0,0,11
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,7,5,1,4,4,8,0,1,0,0,0,0,30
+TUPIZA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,8,1,5,1,7,1,5,7,0,0,0,0,35
+UYUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,3,0,0,4,1,0,2,0,0,0,0,0,10
+VILLA MONTES,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,2,0,0,2,1,1,1,1,0,0,0,0,8
+VILLA SERRANO,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,1,0,0,1,2,3,0,0,0,0,0,7
+VILLA TUNARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,4,3,3,1,2,2,0,1,0,0,0,0,16
+VILLAZON,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+YACUIBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+YAPACANI,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,4,10,0,0,0,0,0,0,0,0,0,0,14
+YOCALLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-07-01,0,0,0,0,0,0,0,3,0,0,0,0,0,0,3
+ACHACACHI,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,2,0,1,1,1,4,0,0,0,0,0,9
+ARAMPAMPA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,2,6,0,0,0,0,0,0,8
+CABEZAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,0,11,0,0,0,0,0,0,11
+CARACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,1,0,4,8,0,1,1,3,2,1,0,0,0,0,21
+CARIPUYO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,6,0,0,0,0,0,0,0,0,0,6
+CHARAGUA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+CHIMORE,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,3,4,5,8,28,45,8,8,0,0,0,0,109
+COLQUECHACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+COTAGAITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,4,0,1,1,2,4,7,0,0,0,0,19
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,1,1,0,1,0,1,14,3,0,2,0,0,0,0,23
+ENTRE RIOS TRJ,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,2,1,2,3,0,0,0,0,0,0,8
+ENTRE RIOS CBBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,1,1,1,0,6,0,0,0,0,0,0,9
+GENERAL SAAVEDRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+HUANUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,1,1,0,0,0,2,0,0,0,0,4
+INQUISIVI,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,2,1,6,0,4,0,0,0,0,13
+JESUS DE MACHACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2
+LA GUARDIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,1,5,1,1,0,0,0,0,8
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,1,5,9,0,0,10,10,2,4,0,0,0,0,41
+MONTEAGUDO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,5,0,0,1,3,2,1,0,0,0,0,0,12
+MONTERO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,1,3,0,1,0,0,0,0,5
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,5,1,23,24,8,23,36,93,7,27,0,0,0,0,247
+POTOSI,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+PUERTO ACOSTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,1,0,5,0,3,0,1,16,6,7,0,0,0,0,39
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,6,3,0,0,0,1,0,0,0,0,0,0,10
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,2,2,3,1,6,11,1,6,0,0,0,0,32
+SAN ANDRES,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,1,10,18,20,15,14,9,6,2,0,0,0,0,95
+SAN ANDRES DE MACHACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,3,1,9,2,1,0,5,2,5,0,0,0,0,28
+SAN CARLOS,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+SAN IGNACIO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,3,1,0,0,0,0,0,0,4
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,2,0,0,1,5,3,0,0,0,0,0,0,11
+SAN JULIAN,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,14,7,1,0,13,26,5,8,0,0,0,0,74
+SAN RAFAEL,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,1,0,0,0,1,1,0,0,0,0,0,3
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,1,0,0,1,2,12,4,0,0,0,0,0,20
+SANTA ROSA DEL SARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,1,1,0,3,0,0,0,0,0,0,5
+SAPAHAQUI,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,1,1,4,3,1,2,9,2,2,0,0,0,0,0,25
+SICA SICA (VILLA AROMA),atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+SORATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,1,1,1,1,3,2,4,12,32,27,0,0,0,0,84
+TARATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,5,0,0,2,5,10,1,0,0,0,0,0,23
+TIQUIPAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,1,0,0,1,3,1,0,0,0,0,0,0,6
+VILLA TUNARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,1,1,4,8,2,8,6,11,0,1,0,0,0,0,42
+VILLAZON,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+VINTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+WARNES,atencion odontologica,cirugia bucomaxilofacial menor,2024-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+AZURDUY,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,1,0,2,8,1,0,22,11,5,3,0,0,0,0,53
+BUENA VISTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,1,2,0,0,0,0,0,0,0,0,0,0,3
+CARAPARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+CHALLAPATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,2,0,0,0,0,0,0,1,2,0,0,0,0,5
+CHULUMANI (V. DE LA LIBERTAD),atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,2,0,1,1,2,9,1,0,0,0,0,0,16
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,1,0,8,9,24,37,19,1,0,0,0,0,99
+COLQUENCHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,5,0,3,4,10,1,1,0,0,0,0,24
+COLQUIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,2,2,1,2,3,0,4,3,0,0,0,0,17
+COTAGAITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,4,2,1,0,6,9,4,7,0,0,0,0,33
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+EL VILLAR,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,2,3,0,0,0,9,2,0,0,0,0,0,16
+ENTRE RIOS TRJ,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+GUAYARAMERIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,1,0,1,2,1,1,0,0,0,0,0,6
+HUANUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,1,1,1,1,6,8,0,0,0,0,0,0,18
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,1,62,45,14,21,42,68,14,11,0,0,0,0,278
+MAGDALENA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,5,0,1,0,0,0,0,0,0,0,0,6
+MECAPACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,2,1,2,3,3,9,0,0,0,0,0,20
+MONTERO,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,1,0,0,1,2,2,0,0,0,0,0,0,6
+MOROCHATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,1,0,3,0,0,3,4,0,0,0,0,0,0,11
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,6,3,5,1,4,12,28,107,9,11,0,0,0,0,186
+PAZÑA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,2,1,0,0,0,0,0,0,0,0,0,3
+PORTACHUELO,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,9,1,0,1,2,8,1,11,0,0,0,0,33
+POTOSI,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,5,0,5,9,9,9,63,65,11,12,0,0,0,0,188
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,1,1,1,0,0,0,0,0,0,3
+RURRENABAQUE,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,3,1,0,0,4,2,0,0,0,0,0,0,10
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+SAN JAVIER(BNI),atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,1,0,1,0,1,3,0,2,0,0,0,0,8
+SAN JULIAN,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+SAN LORENZO(TJA),atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
+SAN RAFAEL,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,2,0,0,0,1,0,0,0,0,0,0,3
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,1,0,0,0,2,3,0,2,0,0,0,0,8
+SANTA ROSA DEL SARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,1,0,2,0,0,0,0,0,0,3
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,1,1,0,2,1,2,46,20,4,42,0,0,0,0,119
+TARABUCO,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,4,6,5,4,3,9,0,1,0,0,0,0,32
+TOCO,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,1,4,2,2,1,4,15,2,19,0,0,0,0,50
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,2,0,2,7,1,2,8,14,3,0,0,0,0,0,39
+UNCIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,0,0,5,0,0,0,0,0,0,5
+VIACHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+VILLA MONTES,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,1,0,1,0,2,0,0,0,0,0,4
+YACUIBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+YAPACANI,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+YOCALLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+YUNCHARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-09-01,0,0,1,0,0,0,0,2,0,0,0,0,0,0,3
+ACHACACHI,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,4,2,0,0,5,0,1,0,0,0,0,12
+ATOCHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,1,0,0,0,1,1,0,0,0,0,0,3
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,2,3,0,0,0,0,0,0,5
+CAJUATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,2,10,0,0,7,1,0,0,0,0,0,0,20
+CAMIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+CARAPARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,4,3,0,0,5,9,1,2,0,0,0,0,24
+CHAYANTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,6,1,3,5,3,2,0,0,0,0,0,20
+CLIZA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,1,1,4,2,3,1,1,6,7,1,0,0,0,0,27
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,2,1,22,7,47,40,12,1,0,0,0,0,132
+COLQUECHACA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,2,3,0,0,2,1,7,8,1,1,0,0,0,0,25
+COMBAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+CORO CORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,1,8,8,1,3,4,9,3,2,0,0,0,0,39
+COROICO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+COTAGAITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,2,0,1,2,0,0,0,0,5
+CULPINA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+EL CHORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,2,0,0,0,1,4,1,0,0,0,0,0,8
+ENTRE RIOS TRJ,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,4,5,3,1,8,16,1,7,0,0,0,0,45
+GENERAL SAAVEDRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,1,0,0,0,1,0,2,0,0,0,0,4
+GUAYARAMERIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,7,1,0,1,0,1,0,0,0,0,0,10
+HUANUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,1,4,8,1,1,3,2,0,1,0,0,0,0,21
+INQUISIVI,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+IRUPANA (VILLA DE LANZA),atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,3,0,11,17,8,3,18,34,1,8,0,0,0,0,103
+LA GUARDIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,1,15,26,1,1,2,1,1,3,0,0,0,0,51
+LORETO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+MONTEAGUDO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,8,3,0,3,2,17,3,1,0,0,0,0,37
+MONTERO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,6,8,7,10,5,2,23,30,4,6,0,0,0,0,101
+PADCAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,1,1,0,1,1,6,0,0,0,0,0,0,10
+PAMPA GRANDE,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,2,0,0,0,0,0,3,0,0,0,0,0,5
+PAZÑA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,1,0,2,0,0,0,0,0,0,0,0,0,3
+POROMA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,1,0,0,1,1,1,0,0,0,0,0,0,0,0,4
+RURRENABAQUE,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,1,0,0,0,0,0,1,2,3,1,0,0,0,0,8
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,1,0,4,12,0,1,0,5,2,0,0,0,0,0,25
+SAN BORJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,3,1,0,3,2,13,9,7,0,0,0,0,38
+SAN PEDRO DE BUENA VISTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,5,0,3,6,3,0,0,0,0,0,17
+SAN PEDRO DE MACHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,1,0,0,3,2,7,4,3,0,0,0,0,20
+SAN RAFAEL,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,1,13,16,1,5,9,9,7,1,0,0,0,0,62
+SANTIAGO DE HUATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+SORATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,7,16,0,0,3,5,0,0,0,0,0,0,31
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,1,1,8,0,0,0,6,14,5,8,0,0,0,0,43
+TAPACARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,3,0,1,3,1,0,2,0,0,0,0,10
+TARABUCO,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,1,0,0,0,4,1,1,0,0,0,0,7
+TARVITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,4,1,1,3,2,2,0,1,0,0,0,0,14
+TIQUIPAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,6,2,0,0,0,4,1,1,0,0,0,0,14
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,2,3,8,9,12,25,6,6,0,0,0,0,71
+UNCIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+UYUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,1,3,12,1,3,3,11,0,0,0,0,0,0,34
+VILLA MONTES,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,3,1,0,0,1,0,1,0,0,0,0,0,6
+VILLA TUNARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+VILLAZON,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,15,6,1,3,6,22,0,9,0,0,0,0,62
+YACUIBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+ARAMPAMPA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+ASCENCION DE GUARAYOS,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,8,11,0,0,0,0,0,0,0,0,0,0,19
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,2,6,0,0,0,0,0,0,8
+CAJUATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,2,5,0,0,3,5,4,0,0,0,0,0,19
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,2,0,2,0,0,0,0,0,0,4
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,1,0,7,10,4,9,35,61,6,3,0,0,0,0,136
+"COLCHA ""K""",atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,10,0,0,0,0,0,0,0,0,0,0,0,10
+COLQUENCHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,3,4,0,0,2,3,2,0,0,0,0,0,14
+COLQUIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,10,7,3,2,9,7,6,1,0,0,0,0,45
+COMBAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,1,3,1,6,4,0,0,0,0,15
+COTAGAITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,1,1,0,0,0,0,1,2,0,0,0,0,5
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,5,4,7,5,1,5,8,24,4,0,0,0,0,0,63
+ENTRE RIOS TRJ,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,2,0,0,2,0,9,0,0,0,0,0,0,13
+GUAYARAMERIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,1,1,3,7,0,5,5,11,1,8,0,0,0,0,42
+GUTIERREZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+IXIAMAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,9,0,0,0,0,0,0,0,0,0,0,0,9
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,1,0,0,0,0,0,2,2,3,3,0,0,0,0,11
+LAGUNILLAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,3,2,0,0,3,6,7,1,0,0,0,0,22
+LAJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,2,2,4,4,4,2,0,0,0,0,18
+MAGDALENA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,2,3,2,5,4,2,0,0,0,0,0,0,18
+MONTERO,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,2,2,3,6,5,10,60,45,1,5,0,0,0,0,139
+PADILLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+PALCA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+POTOSI,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,21,14,2,0,0,0,0,0,37
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+RAVELO,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,1,0,5,1,5,1,4,10,7,3,0,0,0,0,37
+RIBERALTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,1,9,3,1,3,6,14,2,1,0,0,0,0,40
+RURRENABAQUE,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,2,5,0,0,0,0,4,3,2,0,0,0,0,16
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+SAN BORJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+SAN JAVIER(BNI),atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,2,1,0,0,3,1,1,0,0,0,0,0,8
+SAN JAVIER(STC),atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,1,0,11,14,1,2,3,30,4,4,0,0,0,0,70
+SAN JOAQUIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,1,1,0,4,4,1,0,0,0,0,0,11
+SAN RAFAEL,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,1,2,7,15,2,2,3,11,11,3,0,0,0,0,57
+SANTA ROSA DEL SARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+SICA SICA (VILLA AROMA),atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,2,6,2,7,8,18,22,7,5,0,0,0,0,77
+TARABUCO,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,1,0,0,0,0,2,0,0,0,0,0,0,3
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,6,0,0,6,9,11,13,0,0,0,0,45
+TARVITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,4,2,0,4,0,0,0,0,10
+TORO TORO,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+TRINIDAD,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,1,0,10,8,2,3,6,11,1,0,0,0,0,0,42
+TUPIZA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+UMALA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,5,5,0,0,0,0,1,0,0,0,0,0,11
+VIACHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+VILLA MONTES,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,1,0,5,3,0,0,1,0,1,0,0,0,0,0,11
+VILLA TUNARI,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,1,2,1,0,0,0,0,0,0,0,0,0,4
+WARNES,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+YACUIBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+ACHOCALLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,1,9,15,1,2,3,3,0,1,0,0,0,0,35
+ALALAY,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,4,1,2,0,0,1,0,0,0,0,0,0,8
+AYOPAYA (V. DE INDEPENDENCIA),atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+BERMEJO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,2,0,10,0,0,0,0,0,0,12
+BUENA VISTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,2,0,15,6,0,4,5,16,3,1,0,0,0,0,52
+CAJUATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,2,2,0,0,2,1,0,0,0,0,0,0,7
+CAMARGO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,6,17,4,0,8,19,1,1,0,0,0,0,56
+CHIMORE,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,1,0,0,1,3,0,2,0,0,0,0,7
+COBIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,3,0,0,0,2,0,0,0,0,0,0,0,5
+COCHABAMBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,1,12,13,4,26,45,4,1,0,0,0,0,106
+COLQUIRI,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,5,4,1,0,1,8,3,2,0,0,0,0,24
+COTAGAITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,3,0,0,0,2,3,0,4,0,0,0,0,12
+CUATRO CAÑADAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5
+EL ALTO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,1,1,1,0,0,1,0,0,0,0,0,4
+ENTRE RIOS TRJ,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2
+GUANAY,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,1,1,2,1,2,1,7,10,8,0,0,0,0,33
+GUAYARAMERIN,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,1,0,0,0,9,0,0,0,0,0,0,10
+HUANUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,3,0,3,2,1,0,0,0,0,0,0,0,9
+INQUISIVI,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,1,0,0,2,1,8,1,0,0,0,0,0,13
+LA GUARDIA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+LA PAZ,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,1,3,18,11,3,6,3,8,6,2,0,0,0,0,61
+LAJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,1,3,13,19,10,6,10,44,6,6,0,0,0,0,118
+MONTERO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+MOROCHATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,2,3,1,0,5,5,0,2,0,0,0,0,18
+ORURO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,1,0,4,4,10,28,14,27,5,2,0,0,0,0,95
+PADILLA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+PAZÑA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,6,4,0,4,0,2,3,0,0,0,0,0,19
+PELECHUCO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,1,2,1,0,0,4,0,0,0,0,0,0,8
+POOPO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,5,2,0,0,0,0,0,0,0,0,0,0,7
+POROMA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+PORVENIR,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,3,0,0,2,4,4,1,0,0,0,0,0,14
+POTOSI,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,8,0,0,0,0,0,0,8
+PUERTO RICO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4
+PUNATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+QUILLACOLLO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,4,3,0,0,0,0,0,0,7
+RIBERALTA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,1,0,12,14,0,4,7,9,1,2,0,0,0,0,50
+RURRENABAQUE,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,2,0,0,0,0,0,2,0,3,0,0,0,0,7
+SABAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+SACABA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+SAN ANTONIO DE LOMERIO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,1,1,4,1,4,5,4,11,0,0,0,0,0,0,31
+SAN IGNACIO DE VELASCO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+SAN JOSE DE CHIQUITOS,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,1,3,1,4,0,5,0,0,0,0,0,0,14
+SAN LORENZO(TJA),atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+SAN MATIAS,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+SAN PEDRO DE CURAHUARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,4,1,0,1,1,7,2,0,0,0,0,0,16
+SAN RAFAEL,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+SANTA CRUZ DE LA SIERRA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,1,0,1,2,0,0,1,2,1,1,0,0,0,0,9
+SANTA ROSA DEL SARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,2,0,1,1,2,6,0,0,0,0,0,0,12
+SORACACHI,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,5,1,0,0,0,0,0,0,6
+SORATA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+SUCRE,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,2,0,1,6,1,2,0,0,0,0,12
+TARABUCO,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+TARIJA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,1,0,2,6,0,0,0,0,0,0,0,9
+TARVITA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2
+TIQUIPAYA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,2,1,0,1,6,0,0,0,0,0,0,10
+TUPIZA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+UYUNI,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,1,0,0,0,3,0,0,0,0,0,0,0,4
+VIACHA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+VILLAZON,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+YACUIBA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+YUNCHARA,atencion odontologica,cirugia bucomaxilofacial menor,2024-12-01,0,0,2,1,0,0,0,1,0,0,0,0,0,0,4

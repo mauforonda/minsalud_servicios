@@ -1,0 +1,967 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30201,Aiquile,2007,1,Antirrabica humana esquema completo,2
+Cochabamba,30402,Anzaldo,2007,1,Antirrabica humana esquema completo,10
+Santa Cruz,71501,Ascencion De Guarayos,2007,1,Antirrabica humana esquema completo,1
+Santa Cruz,70703,Cabezas,2007,1,Antirrabica humana esquema completo,10
+Cochabamba,30701,Capinota,2007,1,Antirrabica humana esquema completo,1
+Tarija,60302,Carapari,2007,1,Antirrabica humana esquema completo,4
+Cochabamba,30101,Cochabamba,2007,1,Antirrabica humana esquema completo,22
+Cochabamba,30905,Colcapirhua,2007,1,Antirrabica humana esquema completo,1
+Santa Cruz,70102,Cotoca,2007,1,Antirrabica humana esquema completo,2
+Santa Cruz,70105,El Torno,2007,1,Antirrabica humana esquema completo,4
+Tarija,60601,Entre Rios,2007,1,Antirrabica humana esquema completo,1
+Santa Cruz,71004,Fernandez Alonso,2007,1,Antirrabica humana esquema completo,1
+Santa Cruz,70104,La Guardia,2007,1,Antirrabica humana esquema completo,6
+La Paz,20101,La Paz,2007,1,Antirrabica humana esquema completo,68
+La Paz,21202,Laja,2007,1,Antirrabica humana esquema completo,1
+Santa Cruz,70903,Mairana,2007,1,Antirrabica humana esquema completo,1
+Cochabamba,31301,Mizque,2007,1,Antirrabica humana esquema completo,1
+Santa Cruz,71001,Montero,2007,1,Antirrabica humana esquema completo,12
+La Paz,21305,Patacamaya,2007,1,Antirrabica humana esquema completo,1
+Pando,90301,Puerto Gonzalo Moreno,2007,1,Antirrabica humana esquema completo,31
+Cochabamba,30901,Quillacollo,2007,1,Antirrabica humana esquema completo,10
+Santa Cruz,71105,San Antonio De Lomerio,2007,1,Antirrabica humana esquema completo,1
+Tarija,60501,San Lorenzo(tja),2007,1,Antirrabica humana esquema completo,1
+Santa Cruz,71201,San Matias,2007,1,Antirrabica humana esquema completo,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,Antirrabica humana esquema completo,111
+Chuquisaca,10101,Sucre,2007,1,Antirrabica humana esquema completo,39
+Cochabamba,31101,Tapacari,2007,1,Antirrabica humana esquema completo,1
+Chuquisaca,10601,Tarabuco,2007,1,Antirrabica humana esquema completo,1
+Cochabamba,30903,Tiquipaya,2007,1,Antirrabica humana esquema completo,2
+La Paz,20801,Viacha,2007,1,Antirrabica humana esquema completo,1
+Tarija,60303,Villa Montes,2007,1,Antirrabica humana esquema completo,1
+Cochabamba,30904,Vinto,2007,1,Antirrabica humana esquema completo,3
+Potosí,50602,Vitichi,2007,1,Antirrabica humana esquema completo,1
+Santa Cruz,70201,Warnes,2007,1,Antirrabica humana esquema completo,15
+Tarija,60301,Yacuiba,2007,1,Antirrabica humana esquema completo,6
+Cochabamba,30201,Aiquile,2007,2,Antirrabica humana esquema completo,3
+Cochabamba,30101,Cochabamba,2007,2,Antirrabica humana esquema completo,32
+Santa Cruz,70102,Cotoca,2007,2,Antirrabica humana esquema completo,1
+Santa Cruz,71106,Cuatro Cañadas,2007,2,Antirrabica humana esquema completo,3
+La Paz,20105,El Alto,2007,2,Antirrabica humana esquema completo,8
+Santa Cruz,70105,El Torno,2007,2,Antirrabica humana esquema completo,8
+Chuquisaca,10405,El Villar,2007,2,Antirrabica humana esquema completo,3
+Santa Cruz,71004,Fernandez Alonso,2007,2,Antirrabica humana esquema completo,1
+La Paz,20802,Guaqui,2007,2,Antirrabica humana esquema completo,1
+Santa Cruz,70104,La Guardia,2007,2,Antirrabica humana esquema completo,8
+La Paz,20101,La Paz,2007,2,Antirrabica humana esquema completo,63
+Potosí,50203,Llallagua,2007,2,Antirrabica humana esquema completo,3
+Santa Cruz,71001,Montero,2007,2,Antirrabica humana esquema completo,2
+Oruro,40101,Oruro,2007,2,Antirrabica humana esquema completo,42
+Chuquisaca,10401,Padilla,2007,2,Antirrabica humana esquema completo,5
+Cochabamba,31401,Punata,2007,2,Antirrabica humana esquema completo,2
+Cochabamba,30901,Quillacollo,2007,2,Antirrabica humana esquema completo,11
+Cochabamba,31001,Sacaba,2007,2,Antirrabica humana esquema completo,7
+Santa Cruz,71105,San Antonio De Lomerio,2007,2,Antirrabica humana esquema completo,1
+Santa Cruz,70404,San Juan De Yapacani,2007,2,Antirrabica humana esquema completo,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,Antirrabica humana esquema completo,81
+Cochabamba,30702,Santivañes,2007,2,Antirrabica humana esquema completo,1
+Chuquisaca,10101,Sucre,2007,2,Antirrabica humana esquema completo,16
+Cochabamba,30903,Tiquipaya,2007,2,Antirrabica humana esquema completo,2
+Cochabamba,30803,Tolata,2007,2,Antirrabica humana esquema completo,5
+Beni,80101,Trinidad,2007,2,Antirrabica humana esquema completo,4
+Potosí,50801,Tupiza,2007,2,Antirrabica humana esquema completo,3
+Cochabamba,30502,Vacas,2007,2,Antirrabica humana esquema completo,1
+La Paz,20801,Viacha,2007,2,Antirrabica humana esquema completo,3
+Cochabamba,31003,Villa Tunari,2007,2,Antirrabica humana esquema completo,4
+Potosí,51501,Villazon,2007,2,Antirrabica humana esquema completo,3
+Santa Cruz,70201,Warnes,2007,2,Antirrabica humana esquema completo,2
+Tarija,60301,Yacuiba,2007,2,Antirrabica humana esquema completo,12
+La Paz,20104,Achocalla,2007,3,Antirrabica humana esquema completo,7
+Cochabamba,30201,Aiquile,2007,3,Antirrabica humana esquema completo,2
+Cochabamba,31303,Alalay,2007,3,Antirrabica humana esquema completo,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,3,Antirrabica humana esquema completo,1
+Tarija,60302,Carapari,2007,3,Antirrabica humana esquema completo,3
+Cochabamba,31204,Chimore,2007,3,Antirrabica humana esquema completo,3
+Cochabamba,30801,Cliza,2007,3,Antirrabica humana esquema completo,1
+Cochabamba,30101,Cochabamba,2007,3,Antirrabica humana esquema completo,25
+Santa Cruz,71106,Cuatro Cañadas,2007,3,Antirrabica humana esquema completo,2
+La Paz,20105,El Alto,2007,3,Antirrabica humana esquema completo,1
+Tarija,60601,Entre Rios,2007,3,Antirrabica humana esquema completo,1
+Santa Cruz,71004,Fernandez Alonso,2007,3,Antirrabica humana esquema completo,2
+La Paz,20602,Guanay,2007,3,Antirrabica humana esquema completo,1
+La Paz,20802,Guaqui,2007,3,Antirrabica humana esquema completo,1
+Santa Cruz,70104,La Guardia,2007,3,Antirrabica humana esquema completo,7
+La Paz,20101,La Paz,2007,3,Antirrabica humana esquema completo,77
+Santa Cruz,71001,Montero,2007,3,Antirrabica humana esquema completo,5
+Chuquisaca,10401,Padilla,2007,3,Antirrabica humana esquema completo,1
+Cochabamba,31203,Pocona,2007,3,Antirrabica humana esquema completo,3
+Potosí,50101,Potosi,2007,3,Antirrabica humana esquema completo,1
+Cochabamba,30901,Quillacollo,2007,3,Antirrabica humana esquema completo,5
+Cochabamba,31001,Sacaba,2007,3,Antirrabica humana esquema completo,6
+Santa Cruz,71104,San Julian,2007,3,Antirrabica humana esquema completo,3
+Santa Cruz,71201,San Matias,2007,3,Antirrabica humana esquema completo,2
+Beni,80401,Santa Ana,2007,3,Antirrabica humana esquema completo,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,Antirrabica humana esquema completo,106
+Cochabamba,30902,Sipe Sipe,2007,3,Antirrabica humana esquema completo,1
+Chuquisaca,10101,Sucre,2007,3,Antirrabica humana esquema completo,21
+Cochabamba,30401,Tarata,2007,3,Antirrabica humana esquema completo,1
+La Paz,20606,Tipuani,2007,3,Antirrabica humana esquema completo,1
+Cochabamba,30903,Tiquipaya,2007,3,Antirrabica humana esquema completo,3
+Cochabamba,31201,Totora(cbba),2007,3,Antirrabica humana esquema completo,2
+La Paz,20801,Viacha,2007,3,Antirrabica humana esquema completo,2
+Chuquisaca,10801,Villa Serrano,2007,3,Antirrabica humana esquema completo,1
+Potosí,51501,Villazon,2007,3,Antirrabica humana esquema completo,4
+Cochabamba,30904,Vinto,2007,3,Antirrabica humana esquema completo,3
+Santa Cruz,70201,Warnes,2007,3,Antirrabica humana esquema completo,5
+Tarija,60301,Yacuiba,2007,3,Antirrabica humana esquema completo,2
+Santa Cruz,70403,Yapacani,2007,3,Antirrabica humana esquema completo,1
+Chuquisaca,10102,Yotala,2007,3,Antirrabica humana esquema completo,1
+Cochabamba,30201,Aiquile,2007,4,Antirrabica humana esquema completo,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,4,Antirrabica humana esquema completo,1
+Tarija,60202,Bermejo,2007,4,Antirrabica humana esquema completo,1
+Potosí,50301,Betanzos,2007,4,Antirrabica humana esquema completo,1
+Cochabamba,31204,Chimore,2007,4,Antirrabica humana esquema completo,2
+Cochabamba,30101,Cochabamba,2007,4,Antirrabica humana esquema completo,31
+Cochabamba,30905,Colcapirhua,2007,4,Antirrabica humana esquema completo,5
+Santa Cruz,70102,Cotoca,2007,4,Antirrabica humana esquema completo,1
+Santa Cruz,71106,Cuatro Cañadas,2007,4,Antirrabica humana esquema completo,2
+La Paz,20105,El Alto,2007,4,Antirrabica humana esquema completo,5
+Santa Cruz,71004,Fernandez Alonso,2007,4,Antirrabica humana esquema completo,5
+Santa Cruz,71002,General Saavedra,2007,4,Antirrabica humana esquema completo,1
+Santa Cruz,70104,La Guardia,2007,4,Antirrabica humana esquema completo,3
+La Paz,20101,La Paz,2007,4,Antirrabica humana esquema completo,62
+Beni,80601,Loreto,2007,4,Antirrabica humana esquema completo,76
+Santa Cruz,70903,Mairana,2007,4,Antirrabica humana esquema completo,1
+Santa Cruz,71001,Montero,2007,4,Antirrabica humana esquema completo,6
+Santa Cruz,70502,Pailon,2007,4,Antirrabica humana esquema completo,1
+Santa Cruz,70601,Portachuelo,2007,4,Antirrabica humana esquema completo,1
+Santa Cruz,70804,Postrer Valle,2007,4,Antirrabica humana esquema completo,2
+Potosí,50101,Potosi,2007,4,Antirrabica humana esquema completo,1
+Cochabamba,30901,Quillacollo,2007,4,Antirrabica humana esquema completo,1
+Cochabamba,31001,Sacaba,2007,4,Antirrabica humana esquema completo,3
+Santa Cruz,71201,San Matias,2007,4,Antirrabica humana esquema completo,2
+Beni,80401,Santa Ana,2007,4,Antirrabica humana esquema completo,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,Antirrabica humana esquema completo,127
+Chuquisaca,10101,Sucre,2007,4,Antirrabica humana esquema completo,15
+Tarija,60101,Tarija,2007,4,Antirrabica humana esquema completo,68
+Chuquisaca,10202,Tarvita,2007,4,Antirrabica humana esquema completo,2
+La Paz,20606,Tipuani,2007,4,Antirrabica humana esquema completo,1
+Cochabamba,31601,Tiraque (cbba),2007,4,Antirrabica humana esquema completo,1
+Oruro,41001,Toledo,2007,4,Antirrabica humana esquema completo,1
+Potosí,50502,Toro Toro,2007,4,Antirrabica humana esquema completo,2
+Beni,80101,Trinidad,2007,4,Antirrabica humana esquema completo,7
+Tarija,60401,Uriondo (a. Concepcion),2007,4,Antirrabica humana esquema completo,1
+Cochabamba,31003,Villa Tunari,2007,4,Antirrabica humana esquema completo,1
+Cochabamba,30904,Vinto,2007,4,Antirrabica humana esquema completo,4
+Santa Cruz,70201,Warnes,2007,4,Antirrabica humana esquema completo,16
+Tarija,60301,Yacuiba,2007,4,Antirrabica humana esquema completo,2
+Cochabamba,30201,Aiquile,2007,5,Antirrabica humana esquema completo,3
+Santa Cruz,71501,Ascencion De Guarayos,2007,5,Antirrabica humana esquema completo,2
+Chuquisaca,10201,Azurduy,2007,5,Antirrabica humana esquema completo,2
+Oruro,40302,Choque Cota,2007,5,Antirrabica humana esquema completo,1
+Cochabamba,30801,Cliza,2007,5,Antirrabica humana esquema completo,14
+Cochabamba,30101,Cochabamba,2007,5,Antirrabica humana esquema completo,34
+Cochabamba,30905,Colcapirhua,2007,5,Antirrabica humana esquema completo,4
+Santa Cruz,70102,Cotoca,2007,5,Antirrabica humana esquema completo,7
+Santa Cruz,71106,Cuatro Cañadas,2007,5,Antirrabica humana esquema completo,1
+Santa Cruz,70105,El Torno,2007,5,Antirrabica humana esquema completo,4
+Santa Cruz,70104,La Guardia,2007,5,Antirrabica humana esquema completo,4
+La Paz,20101,La Paz,2007,5,Antirrabica humana esquema completo,66
+Potosí,50203,Llallagua,2007,5,Antirrabica humana esquema completo,1
+Santa Cruz,70903,Mairana,2007,5,Antirrabica humana esquema completo,1
+Santa Cruz,71001,Montero,2007,5,Antirrabica humana esquema completo,3
+Santa Cruz,70502,Pailon,2007,5,Antirrabica humana esquema completo,2
+Potosí,50101,Potosi,2007,5,Antirrabica humana esquema completo,7
+Santa Cruz,70904,Quirusillas,2007,5,Antirrabica humana esquema completo,1
+Cochabamba,31001,Sacaba,2007,5,Antirrabica humana esquema completo,7
+Santa Cruz,71201,San Matias,2007,5,Antirrabica humana esquema completo,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,Antirrabica humana esquema completo,159
+Chuquisaca,10101,Sucre,2007,5,Antirrabica humana esquema completo,52
+Cochabamba,30401,Tarata,2007,5,Antirrabica humana esquema completo,5
+Tarija,60101,Tarija,2007,5,Antirrabica humana esquema completo,123
+Cochabamba,30903,Tiquipaya,2007,5,Antirrabica humana esquema completo,2
+Cochabamba,30803,Tolata,2007,5,Antirrabica humana esquema completo,1
+Cochabamba,31003,Villa Tunari,2007,5,Antirrabica humana esquema completo,5
+Potosí,51501,Villazon,2007,5,Antirrabica humana esquema completo,1
+Cochabamba,30904,Vinto,2007,5,Antirrabica humana esquema completo,5
+Santa Cruz,70201,Warnes,2007,5,Antirrabica humana esquema completo,1
+Tarija,60301,Yacuiba,2007,5,Antirrabica humana esquema completo,1
+Cochabamba,30402,Anzaldo,2007,6,Antirrabica humana esquema completo,10
+Cochabamba,30701,Capinota,2007,6,Antirrabica humana esquema completo,1
+La Paz,22001,Caranavi,2007,6,Antirrabica humana esquema completo,1
+Tarija,60302,Carapari,2007,6,Antirrabica humana esquema completo,3
+Cochabamba,30101,Cochabamba,2007,6,Antirrabica humana esquema completo,34
+Cochabamba,31002,Colomi,2007,6,Antirrabica humana esquema completo,1
+Santa Cruz,70102,Cotoca,2007,6,Antirrabica humana esquema completo,1
+Chuquisaca,10902,Culpina,2007,6,Antirrabica humana esquema completo,44
+Santa Cruz,70105,El Torno,2007,6,Antirrabica humana esquema completo,6
+Santa Cruz,71002,General Saavedra,2007,6,Antirrabica humana esquema completo,1
+La Paz,21105,La Asunta,2007,6,Antirrabica humana esquema completo,2
+Santa Cruz,70104,La Guardia,2007,6,Antirrabica humana esquema completo,7
+La Paz,20101,La Paz,2007,6,Antirrabica humana esquema completo,65
+Santa Cruz,71001,Montero,2007,6,Antirrabica humana esquema completo,35
+Santa Cruz,70202,Okinawa,2007,6,Antirrabica humana esquema completo,4
+Cochabamba,30203,Omereque,2007,6,Antirrabica humana esquema completo,1
+Potosí,50403,Pocoata,2007,6,Antirrabica humana esquema completo,1
+Santa Cruz,70601,Portachuelo,2007,6,Antirrabica humana esquema completo,1
+Potosí,50101,Potosi,2007,6,Antirrabica humana esquema completo,5
+Santa Cruz,71402,Puerto Quijarro,2007,6,Antirrabica humana esquema completo,2
+Santa Cruz,71401,Puerto Suarez,2007,6,Antirrabica humana esquema completo,1
+Cochabamba,30901,Quillacollo,2007,6,Antirrabica humana esquema completo,1
+Santa Cruz,70901,Samaipata,2007,6,Antirrabica humana esquema completo,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,6,Antirrabica humana esquema completo,2
+Santa Cruz,71104,San Julian,2007,6,Antirrabica humana esquema completo,5
+Santa Cruz,71201,San Matias,2007,6,Antirrabica humana esquema completo,1
+Santa Cruz,70302,San Miguel De Velasco,2007,6,Antirrabica humana esquema completo,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,Antirrabica humana esquema completo,160
+Cochabamba,30902,Sipe Sipe,2007,6,Antirrabica humana esquema completo,1
+Chuquisaca,10101,Sucre,2007,6,Antirrabica humana esquema completo,76
+Cochabamba,30401,Tarata,2007,6,Antirrabica humana esquema completo,1
+Tarija,60101,Tarija,2007,6,Antirrabica humana esquema completo,21
+Cochabamba,30903,Tiquipaya,2007,6,Antirrabica humana esquema completo,1
+La Paz,20801,Viacha,2007,6,Antirrabica humana esquema completo,1
+Potosí,51501,Villazon,2007,6,Antirrabica humana esquema completo,1
+Cochabamba,30904,Vinto,2007,6,Antirrabica humana esquema completo,4
+Santa Cruz,70201,Warnes,2007,6,Antirrabica humana esquema completo,52
+Tarija,60301,Yacuiba,2007,6,Antirrabica humana esquema completo,16
+Chuquisaca,10301,Zudañez,2007,6,Antirrabica humana esquema completo,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,Antirrabica humana esquema completo,1
+Santa Cruz,70401,Buena Vista,2007,7,Antirrabica humana esquema completo,1
+Cochabamba,31204,Chimore,2007,7,Antirrabica humana esquema completo,2
+Cochabamba,30101,Cochabamba,2007,7,Antirrabica humana esquema completo,36
+Cochabamba,30905,Colcapirhua,2007,7,Antirrabica humana esquema completo,6
+Cochabamba,31002,Colomi,2007,7,Antirrabica humana esquema completo,1
+Santa Cruz,70102,Cotoca,2007,7,Antirrabica humana esquema completo,1
+Santa Cruz,70105,El Torno,2007,7,Antirrabica humana esquema completo,8
+Tarija,60601,Entre Rios,2007,7,Antirrabica humana esquema completo,1
+Santa Cruz,71004,Fernandez Alonso,2007,7,Antirrabica humana esquema completo,2
+Oruro,40701,Huanuni,2007,7,Antirrabica humana esquema completo,1
+Santa Cruz,70104,La Guardia,2007,7,Antirrabica humana esquema completo,5
+La Paz,20101,La Paz,2007,7,Antirrabica humana esquema completo,82
+Potosí,50203,Llallagua,2007,7,Antirrabica humana esquema completo,1
+Santa Cruz,71001,Montero,2007,7,Antirrabica humana esquema completo,22
+Oruro,40101,Oruro,2007,7,Antirrabica humana esquema completo,1
+Cochabamba,31202,Pojo (cbba),2007,7,Antirrabica humana esquema completo,3
+Oruro,40601,Poopo,2007,7,Antirrabica humana esquema completo,1
+Santa Cruz,70103,Porongo,2007,7,Antirrabica humana esquema completo,3
+Potosí,50101,Potosi,2007,7,Antirrabica humana esquema completo,2
+Santa Cruz,71402,Puerto Quijarro,2007,7,Antirrabica humana esquema completo,2
+Santa Cruz,71401,Puerto Suarez,2007,7,Antirrabica humana esquema completo,1
+Cochabamba,31001,Sacaba,2007,7,Antirrabica humana esquema completo,7
+Santa Cruz,70901,Samaipata,2007,7,Antirrabica humana esquema completo,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,7,Antirrabica humana esquema completo,1
+Beni,80702,San Ramon,2007,7,Antirrabica humana esquema completo,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,Antirrabica humana esquema completo,160
+Cochabamba,30702,Santivañes,2007,7,Antirrabica humana esquema completo,3
+Cochabamba,30902,Sipe Sipe,2007,7,Antirrabica humana esquema completo,1
+Chuquisaca,10101,Sucre,2007,7,Antirrabica humana esquema completo,48
+Tarija,60101,Tarija,2007,7,Antirrabica humana esquema completo,7
+Cochabamba,30903,Tiquipaya,2007,7,Antirrabica humana esquema completo,1
+Cochabamba,31601,Tiraque (cbba),2007,7,Antirrabica humana esquema completo,1
+Potosí,50801,Tupiza,2007,7,Antirrabica humana esquema completo,1
+Cochabamba,31003,Villa Tunari,2007,7,Antirrabica humana esquema completo,1
+Potosí,51501,Villazon,2007,7,Antirrabica humana esquema completo,1
+Santa Cruz,70201,Warnes,2007,7,Antirrabica humana esquema completo,23
+Tarija,60301,Yacuiba,2007,7,Antirrabica humana esquema completo,7
+Potosí,51301,Arampampa,2007,8,Antirrabica humana esquema completo,1
+Santa Cruz,70703,Cabezas,2007,8,Antirrabica humana esquema completo,2
+Tarija,60302,Carapari,2007,8,Antirrabica humana esquema completo,5
+Cochabamba,30101,Cochabamba,2007,8,Antirrabica humana esquema completo,98
+Cochabamba,30905,Colcapirhua,2007,8,Antirrabica humana esquema completo,7
+Potosí,50601,Cotagaita,2007,8,Antirrabica humana esquema completo,2
+La Paz,20105,El Alto,2007,8,Antirrabica humana esquema completo,9
+Santa Cruz,70105,El Torno,2007,8,Antirrabica humana esquema completo,4
+Santa Cruz,71004,Fernandez Alonso,2007,8,Antirrabica humana esquema completo,1
+Santa Cruz,71002,General Saavedra,2007,8,Antirrabica humana esquema completo,8
+Oruro,40701,Huanuni,2007,8,Antirrabica humana esquema completo,2
+Santa Cruz,70104,La Guardia,2007,8,Antirrabica humana esquema completo,7
+La Paz,20101,La Paz,2007,8,Antirrabica humana esquema completo,75
+Santa Cruz,71003,Mineros,2007,8,Antirrabica humana esquema completo,1
+Santa Cruz,71001,Montero,2007,8,Antirrabica humana esquema completo,15
+Cochabamba,30302,Morochata,2007,8,Antirrabica humana esquema completo,115
+Santa Cruz,70902,Pampa Grande,2007,8,Antirrabica humana esquema completo,1
+Cochabamba,31202,Pojo (cbba),2007,8,Antirrabica humana esquema completo,1
+Chuquisaca,10103,Poroma,2007,8,Antirrabica humana esquema completo,4
+Santa Cruz,70103,Porongo,2007,8,Antirrabica humana esquema completo,1
+Potosí,50101,Potosi,2007,8,Antirrabica humana esquema completo,1
+Cochabamba,31205,Puerto Villarroel,2007,8,Antirrabica humana esquema completo,1
+Cochabamba,31401,Punata,2007,8,Antirrabica humana esquema completo,1
+Cochabamba,30901,Quillacollo,2007,8,Antirrabica humana esquema completo,8
+Cochabamba,31001,Sacaba,2007,8,Antirrabica humana esquema completo,12
+Santa Cruz,70301,San Ignacio De Velasco,2007,8,Antirrabica humana esquema completo,1
+Santa Cruz,71104,San Julian,2007,8,Antirrabica humana esquema completo,12
+Santa Cruz,71201,San Matias,2007,8,Antirrabica humana esquema completo,1
+Potosí,50501,San Pedro De Buena Vista,2007,8,Antirrabica humana esquema completo,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,Antirrabica humana esquema completo,161
+Santa Cruz,70602,Santa Rosa Del Sara,2007,8,Antirrabica humana esquema completo,1
+Cochabamba,30902,Sipe Sipe,2007,8,Antirrabica humana esquema completo,3
+Chuquisaca,10101,Sucre,2007,8,Antirrabica humana esquema completo,41
+Tarija,60101,Tarija,2007,8,Antirrabica humana esquema completo,275
+Cochabamba,30903,Tiquipaya,2007,8,Antirrabica humana esquema completo,2
+Cochabamba,31601,Tiraque (cbba),2007,8,Antirrabica humana esquema completo,2
+Cochabamba,30802,Toco,2007,8,Antirrabica humana esquema completo,2
+Chuquisaca,10402,Tomina,2007,8,Antirrabica humana esquema completo,2
+Potosí,50502,Toro Toro,2007,8,Antirrabica humana esquema completo,1
+Potosí,50801,Tupiza,2007,8,Antirrabica humana esquema completo,3
+Cochabamba,31003,Villa Tunari,2007,8,Antirrabica humana esquema completo,1
+Santa Cruz,70201,Warnes,2007,8,Antirrabica humana esquema completo,8
+Tarija,60301,Yacuiba,2007,8,Antirrabica humana esquema completo,5
+Cochabamba,30201,Aiquile,2007,9,Antirrabica humana esquema completo,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,9,Antirrabica humana esquema completo,2
+Cochabamba,30701,Capinota,2007,9,Antirrabica humana esquema completo,3
+Cochabamba,31204,Chimore,2007,9,Antirrabica humana esquema completo,1
+Cochabamba,30801,Cliza,2007,9,Antirrabica humana esquema completo,15
+Cochabamba,30101,Cochabamba,2007,9,Antirrabica humana esquema completo,75
+Santa Cruz,70102,Cotoca,2007,9,Antirrabica humana esquema completo,6
+La Paz,20105,El Alto,2007,9,Antirrabica humana esquema completo,1
+Santa Cruz,70105,El Torno,2007,9,Antirrabica humana esquema completo,6
+Tarija,60601,Entre Rios,2007,9,Antirrabica humana esquema completo,3
+Santa Cruz,71004,Fernandez Alonso,2007,9,Antirrabica humana esquema completo,2
+La Paz,20802,Guaqui,2007,9,Antirrabica humana esquema completo,2
+Oruro,40701,Huanuni,2007,9,Antirrabica humana esquema completo,1
+Santa Cruz,70104,La Guardia,2007,9,Antirrabica humana esquema completo,6
+La Paz,20101,La Paz,2007,9,Antirrabica humana esquema completo,74
+Santa Cruz,70903,Mairana,2007,9,Antirrabica humana esquema completo,2
+Santa Cruz,71003,Mineros,2007,9,Antirrabica humana esquema completo,1
+Cochabamba,31301,Mizque,2007,9,Antirrabica humana esquema completo,1
+Santa Cruz,71001,Montero,2007,9,Antirrabica humana esquema completo,3
+Chuquisaca,10103,Poroma,2007,9,Antirrabica humana esquema completo,1
+Santa Cruz,70103,Porongo,2007,9,Antirrabica humana esquema completo,1
+Chuquisaca,10302,Presto,2007,9,Antirrabica humana esquema completo,1
+Potosí,51101,Puna,2007,9,Antirrabica humana esquema completo,4
+Cochabamba,31401,Punata,2007,9,Antirrabica humana esquema completo,10
+Santa Cruz,70904,Quirusillas,2007,9,Antirrabica humana esquema completo,1
+Cochabamba,31001,Sacaba,2007,9,Antirrabica humana esquema completo,10
+Santa Cruz,70901,Samaipata,2007,9,Antirrabica humana esquema completo,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,Antirrabica humana esquema completo,1
+Santa Cruz,70501,San Jose De Chiquitos,2007,9,Antirrabica humana esquema completo,5
+Santa Cruz,71201,San Matias,2007,9,Antirrabica humana esquema completo,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,Antirrabica humana esquema completo,129
+Chuquisaca,10101,Sucre,2007,9,Antirrabica humana esquema completo,35
+Chuquisaca,10601,Tarabuco,2007,9,Antirrabica humana esquema completo,69
+Cochabamba,30401,Tarata,2007,9,Antirrabica humana esquema completo,2
+Tarija,60101,Tarija,2007,9,Antirrabica humana esquema completo,25
+Cochabamba,30903,Tiquipaya,2007,9,Antirrabica humana esquema completo,3
+Cochabamba,31601,Tiraque (cbba),2007,9,Antirrabica humana esquema completo,2
+Potosí,50502,Toro Toro,2007,9,Antirrabica humana esquema completo,1
+Cochabamba,31201,Totora(cbba),2007,9,Antirrabica humana esquema completo,1
+Potosí,50801,Tupiza,2007,9,Antirrabica humana esquema completo,9
+Potosí,51201,Uyuni,2007,9,Antirrabica humana esquema completo,8
+Cochabamba,31003,Villa Tunari,2007,9,Antirrabica humana esquema completo,2
+Potosí,51501,Villazon,2007,9,Antirrabica humana esquema completo,8
+Cochabamba,30904,Vinto,2007,9,Antirrabica humana esquema completo,2
+Santa Cruz,70201,Warnes,2007,9,Antirrabica humana esquema completo,5
+Tarija,60301,Yacuiba,2007,9,Antirrabica humana esquema completo,8
+Potosí,51302,Acacio,2007,10,Antirrabica humana esquema completo,1
+Cochabamba,30601,Arque,2007,10,Antirrabica humana esquema completo,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,10,Antirrabica humana esquema completo,2
+Tarija,60202,Bermejo,2007,10,Antirrabica humana esquema completo,7
+Santa Cruz,70706,Camiri,2007,10,Antirrabica humana esquema completo,1
+Cochabamba,30701,Capinota,2007,10,Antirrabica humana esquema completo,1
+Tarija,60302,Carapari,2007,10,Antirrabica humana esquema completo,10
+Santa Cruz,71403,Carmen Rivero Torrez,2007,10,Antirrabica humana esquema completo,4
+Cochabamba,30101,Cochabamba,2007,10,Antirrabica humana esquema completo,40
+Cochabamba,30905,Colcapirhua,2007,10,Antirrabica humana esquema completo,3
+La Paz,21401,Coroico,2007,10,Antirrabica humana esquema completo,1
+Santa Cruz,70102,Cotoca,2007,10,Antirrabica humana esquema completo,4
+Santa Cruz,71106,Cuatro Cañadas,2007,10,Antirrabica humana esquema completo,9
+La Paz,20105,El Alto,2007,10,Antirrabica humana esquema completo,3
+Santa Cruz,70105,El Torno,2007,10,Antirrabica humana esquema completo,5
+Santa Cruz,71002,General Saavedra,2007,10,Antirrabica humana esquema completo,1
+La Paz,20602,Guanay,2007,10,Antirrabica humana esquema completo,42
+Santa Cruz,70104,La Guardia,2007,10,Antirrabica humana esquema completo,20
+La Paz,20101,La Paz,2007,10,Antirrabica humana esquema completo,71
+Santa Cruz,70903,Mairana,2007,10,Antirrabica humana esquema completo,1
+Santa Cruz,71001,Montero,2007,10,Antirrabica humana esquema completo,12
+Potosí,50404,Ocuri,2007,10,Antirrabica humana esquema completo,1
+Santa Cruz,70502,Pailon,2007,10,Antirrabica humana esquema completo,3
+Potosí,51101,Puna,2007,10,Antirrabica humana esquema completo,9
+Santa Cruz,70904,Quirusillas,2007,10,Antirrabica humana esquema completo,2
+Cochabamba,31001,Sacaba,2007,10,Antirrabica humana esquema completo,7
+Cochabamba,31403,San Benito,2007,10,Antirrabica humana esquema completo,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,10,Antirrabica humana esquema completo,1
+Santa Cruz,71104,San Julian,2007,10,Antirrabica humana esquema completo,2
+Santa Cruz,71201,San Matias,2007,10,Antirrabica humana esquema completo,1
+Potosí,50501,San Pedro De Buena Vista,2007,10,Antirrabica humana esquema completo,2
+Beni,80702,San Ramon,2007,10,Antirrabica humana esquema completo,4
+Beni,80401,Santa Ana,2007,10,Antirrabica humana esquema completo,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,Antirrabica humana esquema completo,185
+Chuquisaca,10101,Sucre,2007,10,Antirrabica humana esquema completo,60
+Tarija,60101,Tarija,2007,10,Antirrabica humana esquema completo,3
+Cochabamba,30903,Tiquipaya,2007,10,Antirrabica humana esquema completo,3
+Oruro,41001,Toledo,2007,10,Antirrabica humana esquema completo,1
+Potosí,51202,Tomave,2007,10,Antirrabica humana esquema completo,1
+Potosí,50502,Toro Toro,2007,10,Antirrabica humana esquema completo,1
+Beni,80101,Trinidad,2007,10,Antirrabica humana esquema completo,1
+Tarija,60401,Uriondo (a. Concepcion),2007,10,Antirrabica humana esquema completo,1
+Potosí,51201,Uyuni,2007,10,Antirrabica humana esquema completo,4
+Cochabamba,31003,Villa Tunari,2007,10,Antirrabica humana esquema completo,1
+Cochabamba,30904,Vinto,2007,10,Antirrabica humana esquema completo,2
+Santa Cruz,70201,Warnes,2007,10,Antirrabica humana esquema completo,8
+Tarija,60301,Yacuiba,2007,10,Antirrabica humana esquema completo,56
+Cochabamba,30201,Aiquile,2007,11,Antirrabica humana esquema completo,1
+La Paz,20701,Apolo,2007,11,Antirrabica humana esquema completo,10
+La Paz,20503,Aucapata,2007,11,Antirrabica humana esquema completo,1
+Cochabamba,30801,Cliza,2007,11,Antirrabica humana esquema completo,9
+Cochabamba,30101,Cochabamba,2007,11,Antirrabica humana esquema completo,95
+Cochabamba,31002,Colomi,2007,11,Antirrabica humana esquema completo,1
+Santa Cruz,71301,Comarapa,2007,11,Antirrabica humana esquema completo,3
+Santa Cruz,70102,Cotoca,2007,11,Antirrabica humana esquema completo,2
+Santa Cruz,70105,El Torno,2007,11,Antirrabica humana esquema completo,7
+Tarija,60601,Entre Rios,2007,11,Antirrabica humana esquema completo,2
+Tarija,60601,Entre Rios,2007,11,Antirrabica humana esquema completo,1
+La Paz,20602,Guanay,2007,11,Antirrabica humana esquema completo,6
+Santa Cruz,70104,La Guardia,2007,11,Antirrabica humana esquema completo,16
+La Paz,20101,La Paz,2007,11,Antirrabica humana esquema completo,73
+Santa Cruz,71001,Montero,2007,11,Antirrabica humana esquema completo,13
+Cochabamba,30302,Morochata,2007,11,Antirrabica humana esquema completo,1
+Santa Cruz,70202,Okinawa,2007,11,Antirrabica humana esquema completo,1
+Potosí,50101,Potosi,2007,11,Antirrabica humana esquema completo,1
+Cochabamba,31401,Punata,2007,11,Antirrabica humana esquema completo,2
+Cochabamba,30901,Quillacollo,2007,11,Antirrabica humana esquema completo,2
+Santa Cruz,70904,Quirusillas,2007,11,Antirrabica humana esquema completo,1
+Beni,80304,Rurrenabaque,2007,11,Antirrabica humana esquema completo,2
+Cochabamba,31001,Sacaba,2007,11,Antirrabica humana esquema completo,6
+Beni,80602,San Andres,2007,11,Antirrabica humana esquema completo,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,Antirrabica humana esquema completo,1
+Santa Cruz,70501,San Jose De Chiquitos,2007,11,Antirrabica humana esquema completo,1
+Santa Cruz,70404,San Juan De Yapacani,2007,11,Antirrabica humana esquema completo,2
+Beni,80702,San Ramon,2007,11,Antirrabica humana esquema completo,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,Antirrabica humana esquema completo,146
+Cochabamba,30902,Sipe Sipe,2007,11,Antirrabica humana esquema completo,2
+Chuquisaca,10101,Sucre,2007,11,Antirrabica humana esquema completo,56
+Cochabamba,30903,Tiquipaya,2007,11,Antirrabica humana esquema completo,8
+Cochabamba,31601,Tiraque (cbba),2007,11,Antirrabica humana esquema completo,1
+Potosí,51202,Tomave,2007,11,Antirrabica humana esquema completo,3
+Beni,80101,Trinidad,2007,11,Antirrabica humana esquema completo,1
+Potosí,50801,Tupiza,2007,11,Antirrabica humana esquema completo,3
+Potosí,51201,Uyuni,2007,11,Antirrabica humana esquema completo,5
+Tarija,60303,Villa Montes,2007,11,Antirrabica humana esquema completo,1
+Cochabamba,31003,Villa Tunari,2007,11,Antirrabica humana esquema completo,3
+Potosí,51501,Villazon,2007,11,Antirrabica humana esquema completo,1
+Cochabamba,30904,Vinto,2007,11,Antirrabica humana esquema completo,1
+Santa Cruz,70201,Warnes,2007,11,Antirrabica humana esquema completo,3
+Tarija,60301,Yacuiba,2007,11,Antirrabica humana esquema completo,30
+Chuquisaca,10102,Yotala,2007,11,Antirrabica humana esquema completo,5
+Cochabamba,30201,Aiquile,2007,12,Antirrabica humana esquema completo,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,12,Antirrabica humana esquema completo,1
+Tarija,60202,Bermejo,2007,12,Antirrabica humana esquema completo,2
+Cochabamba,31501,Bolivar,2007,12,Antirrabica humana esquema completo,1
+La Paz,22001,Caranavi,2007,12,Antirrabica humana esquema completo,4
+La Paz,20501,Chuma,2007,12,Antirrabica humana esquema completo,1
+Cochabamba,30101,Cochabamba,2007,12,Antirrabica humana esquema completo,69
+Cochabamba,30905,Colcapirhua,2007,12,Antirrabica humana esquema completo,8
+La Paz,20105,El Alto,2007,12,Antirrabica humana esquema completo,2
+Santa Cruz,70105,El Torno,2007,12,Antirrabica humana esquema completo,15
+Santa Cruz,71002,General Saavedra,2007,12,Antirrabica humana esquema completo,1
+La Paz,20602,Guanay,2007,12,Antirrabica humana esquema completo,1
+La Paz,20802,Guaqui,2007,12,Antirrabica humana esquema completo,1
+Oruro,40701,Huanuni,2007,12,Antirrabica humana esquema completo,2
+Santa Cruz,70104,La Guardia,2007,12,Antirrabica humana esquema completo,8
+La Paz,20101,La Paz,2007,12,Antirrabica humana esquema completo,61
+Beni,80801,Magdalena,2007,12,Antirrabica humana esquema completo,1
+Santa Cruz,71001,Montero,2007,12,Antirrabica humana esquema completo,8
+Santa Cruz,70103,Porongo,2007,12,Antirrabica humana esquema completo,1
+Santa Cruz,70601,Portachuelo,2007,12,Antirrabica humana esquema completo,12
+Potosí,50101,Potosi,2007,12,Antirrabica humana esquema completo,2
+Cochabamba,31401,Punata,2007,12,Antirrabica humana esquema completo,1
+Cochabamba,30901,Quillacollo,2007,12,Antirrabica humana esquema completo,2
+Santa Cruz,70503,Robore,2007,12,Antirrabica humana esquema completo,5
+Cochabamba,31001,Sacaba,2007,12,Antirrabica humana esquema completo,3
+Beni,80302,San Borja,2007,12,Antirrabica humana esquema completo,3
+Santa Cruz,70402,San Carlos,2007,12,Antirrabica humana esquema completo,2
+Santa Cruz,71104,San Julian,2007,12,Antirrabica humana esquema completo,2
+Santa Cruz,70302,San Miguel De Velasco,2007,12,Antirrabica humana esquema completo,2
+Potosí,50501,San Pedro De Buena Vista,2007,12,Antirrabica humana esquema completo,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,Antirrabica humana esquema completo,159
+Santa Cruz,70602,Santa Rosa Del Sara,2007,12,Antirrabica humana esquema completo,3
+Cochabamba,30902,Sipe Sipe,2007,12,Antirrabica humana esquema completo,1
+La Paz,20601,Sorata,2007,12,Antirrabica humana esquema completo,4
+Chuquisaca,10101,Sucre,2007,12,Antirrabica humana esquema completo,57
+Cochabamba,31101,Tapacari,2007,12,Antirrabica humana esquema completo,6
+Tarija,60101,Tarija,2007,12,Antirrabica humana esquema completo,14
+Cochabamba,30903,Tiquipaya,2007,12,Antirrabica humana esquema completo,2
+Cochabamba,30803,Tolata,2007,12,Antirrabica humana esquema completo,2
+Cochabamba,31201,Totora(cbba),2007,12,Antirrabica humana esquema completo,2
+Tarija,60401,Uriondo (a. Concepcion),2007,12,Antirrabica humana esquema completo,1
+Potosí,51201,Uyuni,2007,12,Antirrabica humana esquema completo,3
+Cochabamba,30502,Vacas,2007,12,Antirrabica humana esquema completo,2
+La Paz,20801,Viacha,2007,12,Antirrabica humana esquema completo,1
+Cochabamba,31003,Villa Tunari,2007,12,Antirrabica humana esquema completo,2
+Santa Cruz,70201,Warnes,2007,12,Antirrabica humana esquema completo,3
+Tarija,60301,Yacuiba,2007,12,Antirrabica humana esquema completo,12
+Santa Cruz,70403,Yapacani,2007,12,Antirrabica humana esquema completo,1
+Cochabamba,30201,Aiquile,2007,1,TOTAL,2
+Cochabamba,30402,Anzaldo,2007,1,TOTAL,10
+Santa Cruz,71501,Ascencion De Guarayos,2007,1,TOTAL,1
+Santa Cruz,70703,Cabezas,2007,1,TOTAL,10
+Cochabamba,30701,Capinota,2007,1,TOTAL,1
+Tarija,60302,Carapari,2007,1,TOTAL,4
+Cochabamba,30101,Cochabamba,2007,1,TOTAL,22
+Cochabamba,30905,Colcapirhua,2007,1,TOTAL,1
+Santa Cruz,70102,Cotoca,2007,1,TOTAL,2
+Santa Cruz,70105,El Torno,2007,1,TOTAL,4
+Tarija,60601,Entre Rios,2007,1,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2007,1,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,1,TOTAL,6
+La Paz,20101,La Paz,2007,1,TOTAL,68
+La Paz,21202,Laja,2007,1,TOTAL,1
+Santa Cruz,70903,Mairana,2007,1,TOTAL,1
+Cochabamba,31301,Mizque,2007,1,TOTAL,1
+Santa Cruz,71001,Montero,2007,1,TOTAL,12
+La Paz,21305,Patacamaya,2007,1,TOTAL,1
+Pando,90301,Puerto Gonzalo Moreno,2007,1,TOTAL,31
+Cochabamba,30901,Quillacollo,2007,1,TOTAL,10
+Santa Cruz,71105,San Antonio De Lomerio,2007,1,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2007,1,TOTAL,1
+Santa Cruz,71201,San Matias,2007,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,TOTAL,111
+Chuquisaca,10101,Sucre,2007,1,TOTAL,39
+Cochabamba,31101,Tapacari,2007,1,TOTAL,1
+Chuquisaca,10601,Tarabuco,2007,1,TOTAL,1
+Cochabamba,30903,Tiquipaya,2007,1,TOTAL,2
+La Paz,20801,Viacha,2007,1,TOTAL,1
+Tarija,60303,Villa Montes,2007,1,TOTAL,1
+Cochabamba,30904,Vinto,2007,1,TOTAL,3
+Potosí,50602,Vitichi,2007,1,TOTAL,1
+Santa Cruz,70201,Warnes,2007,1,TOTAL,15
+Tarija,60301,Yacuiba,2007,1,TOTAL,6
+Cochabamba,30201,Aiquile,2007,2,TOTAL,3
+Cochabamba,30101,Cochabamba,2007,2,TOTAL,32
+Santa Cruz,70102,Cotoca,2007,2,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2007,2,TOTAL,3
+La Paz,20105,El Alto,2007,2,TOTAL,8
+Santa Cruz,70105,El Torno,2007,2,TOTAL,8
+Chuquisaca,10405,El Villar,2007,2,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2007,2,TOTAL,1
+La Paz,20802,Guaqui,2007,2,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,2,TOTAL,8
+La Paz,20101,La Paz,2007,2,TOTAL,63
+Potosí,50203,Llallagua,2007,2,TOTAL,3
+Santa Cruz,71001,Montero,2007,2,TOTAL,2
+Oruro,40101,Oruro,2007,2,TOTAL,42
+Chuquisaca,10401,Padilla,2007,2,TOTAL,5
+Cochabamba,31401,Punata,2007,2,TOTAL,2
+Cochabamba,30901,Quillacollo,2007,2,TOTAL,11
+Cochabamba,31001,Sacaba,2007,2,TOTAL,7
+Santa Cruz,71105,San Antonio De Lomerio,2007,2,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2007,2,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,TOTAL,81
+Cochabamba,30702,Santivañes,2007,2,TOTAL,1
+Chuquisaca,10101,Sucre,2007,2,TOTAL,16
+Cochabamba,30903,Tiquipaya,2007,2,TOTAL,2
+Cochabamba,30803,Tolata,2007,2,TOTAL,5
+Beni,80101,Trinidad,2007,2,TOTAL,4
+Potosí,50801,Tupiza,2007,2,TOTAL,3
+Cochabamba,30502,Vacas,2007,2,TOTAL,1
+La Paz,20801,Viacha,2007,2,TOTAL,3
+Cochabamba,31003,Villa Tunari,2007,2,TOTAL,4
+Potosí,51501,Villazon,2007,2,TOTAL,3
+Santa Cruz,70201,Warnes,2007,2,TOTAL,2
+Tarija,60301,Yacuiba,2007,2,TOTAL,12
+La Paz,20104,Achocalla,2007,3,TOTAL,7
+Cochabamba,30201,Aiquile,2007,3,TOTAL,2
+Cochabamba,31303,Alalay,2007,3,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,3,TOTAL,1
+Tarija,60302,Carapari,2007,3,TOTAL,3
+Cochabamba,31204,Chimore,2007,3,TOTAL,3
+Cochabamba,30801,Cliza,2007,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2007,3,TOTAL,25
+Santa Cruz,71106,Cuatro Cañadas,2007,3,TOTAL,2
+La Paz,20105,El Alto,2007,3,TOTAL,1
+Tarija,60601,Entre Rios,2007,3,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2007,3,TOTAL,2
+La Paz,20602,Guanay,2007,3,TOTAL,1
+La Paz,20802,Guaqui,2007,3,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,3,TOTAL,7
+La Paz,20101,La Paz,2007,3,TOTAL,77
+Santa Cruz,71001,Montero,2007,3,TOTAL,5
+Chuquisaca,10401,Padilla,2007,3,TOTAL,1
+Cochabamba,31203,Pocona,2007,3,TOTAL,3
+Potosí,50101,Potosi,2007,3,TOTAL,1
+Cochabamba,30901,Quillacollo,2007,3,TOTAL,5
+Cochabamba,31001,Sacaba,2007,3,TOTAL,6
+Santa Cruz,71104,San Julian,2007,3,TOTAL,3
+Santa Cruz,71201,San Matias,2007,3,TOTAL,2
+Beni,80401,Santa Ana,2007,3,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL,106
+Cochabamba,30902,Sipe Sipe,2007,3,TOTAL,1
+Chuquisaca,10101,Sucre,2007,3,TOTAL,21
+Cochabamba,30401,Tarata,2007,3,TOTAL,1
+La Paz,20606,Tipuani,2007,3,TOTAL,1
+Cochabamba,30903,Tiquipaya,2007,3,TOTAL,3
+Cochabamba,31201,Totora(cbba),2007,3,TOTAL,2
+La Paz,20801,Viacha,2007,3,TOTAL,2
+Chuquisaca,10801,Villa Serrano,2007,3,TOTAL,1
+Potosí,51501,Villazon,2007,3,TOTAL,4
+Cochabamba,30904,Vinto,2007,3,TOTAL,3
+Santa Cruz,70201,Warnes,2007,3,TOTAL,5
+Tarija,60301,Yacuiba,2007,3,TOTAL,2
+Santa Cruz,70403,Yapacani,2007,3,TOTAL,1
+Chuquisaca,10102,Yotala,2007,3,TOTAL,1
+Cochabamba,30201,Aiquile,2007,4,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,4,TOTAL,1
+Tarija,60202,Bermejo,2007,4,TOTAL,1
+Potosí,50301,Betanzos,2007,4,TOTAL,1
+Cochabamba,31204,Chimore,2007,4,TOTAL,2
+Cochabamba,30101,Cochabamba,2007,4,TOTAL,31
+Cochabamba,30905,Colcapirhua,2007,4,TOTAL,5
+Santa Cruz,70102,Cotoca,2007,4,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2007,4,TOTAL,2
+La Paz,20105,El Alto,2007,4,TOTAL,5
+Santa Cruz,71004,Fernandez Alonso,2007,4,TOTAL,5
+Santa Cruz,71002,General Saavedra,2007,4,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,4,TOTAL,3
+La Paz,20101,La Paz,2007,4,TOTAL,62
+Beni,80601,Loreto,2007,4,TOTAL,76
+Santa Cruz,70903,Mairana,2007,4,TOTAL,1
+Santa Cruz,71001,Montero,2007,4,TOTAL,6
+Santa Cruz,70502,Pailon,2007,4,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,4,TOTAL,1
+Santa Cruz,70804,Postrer Valle,2007,4,TOTAL,2
+Potosí,50101,Potosi,2007,4,TOTAL,1
+Cochabamba,30901,Quillacollo,2007,4,TOTAL,1
+Cochabamba,31001,Sacaba,2007,4,TOTAL,3
+Santa Cruz,71201,San Matias,2007,4,TOTAL,2
+Beni,80401,Santa Ana,2007,4,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,TOTAL,127
+Chuquisaca,10101,Sucre,2007,4,TOTAL,15
+Tarija,60101,Tarija,2007,4,TOTAL,68
+Chuquisaca,10202,Tarvita,2007,4,TOTAL,2
+La Paz,20606,Tipuani,2007,4,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2007,4,TOTAL,1
+Oruro,41001,Toledo,2007,4,TOTAL,1
+Potosí,50502,Toro Toro,2007,4,TOTAL,2
+Beni,80101,Trinidad,2007,4,TOTAL,7
+Tarija,60401,Uriondo (a. Concepcion),2007,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,4,TOTAL,1
+Cochabamba,30904,Vinto,2007,4,TOTAL,4
+Santa Cruz,70201,Warnes,2007,4,TOTAL,16
+Tarija,60301,Yacuiba,2007,4,TOTAL,2
+Cochabamba,30201,Aiquile,2007,5,TOTAL,3
+Santa Cruz,71501,Ascencion De Guarayos,2007,5,TOTAL,2
+Chuquisaca,10201,Azurduy,2007,5,TOTAL,2
+Oruro,40302,Choque Cota,2007,5,TOTAL,1
+Cochabamba,30801,Cliza,2007,5,TOTAL,14
+Cochabamba,30101,Cochabamba,2007,5,TOTAL,34
+Cochabamba,30905,Colcapirhua,2007,5,TOTAL,4
+Santa Cruz,70102,Cotoca,2007,5,TOTAL,7
+Santa Cruz,71106,Cuatro Cañadas,2007,5,TOTAL,1
+Santa Cruz,70105,El Torno,2007,5,TOTAL,4
+Santa Cruz,70104,La Guardia,2007,5,TOTAL,4
+La Paz,20101,La Paz,2007,5,TOTAL,66
+Potosí,50203,Llallagua,2007,5,TOTAL,1
+Santa Cruz,70903,Mairana,2007,5,TOTAL,1
+Santa Cruz,71001,Montero,2007,5,TOTAL,3
+Santa Cruz,70502,Pailon,2007,5,TOTAL,2
+Potosí,50101,Potosi,2007,5,TOTAL,7
+Santa Cruz,70904,Quirusillas,2007,5,TOTAL,1
+Cochabamba,31001,Sacaba,2007,5,TOTAL,7
+Santa Cruz,71201,San Matias,2007,5,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,TOTAL,159
+Chuquisaca,10101,Sucre,2007,5,TOTAL,52
+Cochabamba,30401,Tarata,2007,5,TOTAL,5
+Tarija,60101,Tarija,2007,5,TOTAL,123
+Cochabamba,30903,Tiquipaya,2007,5,TOTAL,2
+Cochabamba,30803,Tolata,2007,5,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,5,TOTAL,5
+Potosí,51501,Villazon,2007,5,TOTAL,1
+Cochabamba,30904,Vinto,2007,5,TOTAL,5
+Santa Cruz,70201,Warnes,2007,5,TOTAL,1
+Tarija,60301,Yacuiba,2007,5,TOTAL,1
+Cochabamba,30402,Anzaldo,2007,6,TOTAL,10
+Cochabamba,30701,Capinota,2007,6,TOTAL,1
+La Paz,22001,Caranavi,2007,6,TOTAL,1
+Tarija,60302,Carapari,2007,6,TOTAL,3
+Cochabamba,30101,Cochabamba,2007,6,TOTAL,34
+Cochabamba,31002,Colomi,2007,6,TOTAL,1
+Santa Cruz,70102,Cotoca,2007,6,TOTAL,1
+Chuquisaca,10902,Culpina,2007,6,TOTAL,44
+Santa Cruz,70105,El Torno,2007,6,TOTAL,6
+Santa Cruz,71002,General Saavedra,2007,6,TOTAL,1
+La Paz,21105,La Asunta,2007,6,TOTAL,2
+Santa Cruz,70104,La Guardia,2007,6,TOTAL,7
+La Paz,20101,La Paz,2007,6,TOTAL,65
+Santa Cruz,71001,Montero,2007,6,TOTAL,35
+Santa Cruz,70202,Okinawa,2007,6,TOTAL,4
+Cochabamba,30203,Omereque,2007,6,TOTAL,1
+Potosí,50403,Pocoata,2007,6,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,6,TOTAL,1
+Potosí,50101,Potosi,2007,6,TOTAL,5
+Santa Cruz,71402,Puerto Quijarro,2007,6,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2007,6,TOTAL,1
+Cochabamba,30901,Quillacollo,2007,6,TOTAL,1
+Santa Cruz,70901,Samaipata,2007,6,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,6,TOTAL,2
+Santa Cruz,71104,San Julian,2007,6,TOTAL,5
+Santa Cruz,71201,San Matias,2007,6,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2007,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,TOTAL,160
+Cochabamba,30902,Sipe Sipe,2007,6,TOTAL,1
+Chuquisaca,10101,Sucre,2007,6,TOTAL,76
+Cochabamba,30401,Tarata,2007,6,TOTAL,1
+Tarija,60101,Tarija,2007,6,TOTAL,21
+Cochabamba,30903,Tiquipaya,2007,6,TOTAL,1
+La Paz,20801,Viacha,2007,6,TOTAL,1
+Potosí,51501,Villazon,2007,6,TOTAL,1
+Cochabamba,30904,Vinto,2007,6,TOTAL,4
+Santa Cruz,70201,Warnes,2007,6,TOTAL,52
+Tarija,60301,Yacuiba,2007,6,TOTAL,16
+Chuquisaca,10301,Zudañez,2007,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,TOTAL,1
+Santa Cruz,70401,Buena Vista,2007,7,TOTAL,1
+Cochabamba,31204,Chimore,2007,7,TOTAL,2
+Cochabamba,30101,Cochabamba,2007,7,TOTAL,36
+Cochabamba,30905,Colcapirhua,2007,7,TOTAL,6
+Cochabamba,31002,Colomi,2007,7,TOTAL,1
+Santa Cruz,70102,Cotoca,2007,7,TOTAL,1
+Santa Cruz,70105,El Torno,2007,7,TOTAL,8
+Tarija,60601,Entre Rios,2007,7,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2007,7,TOTAL,2
+Oruro,40701,Huanuni,2007,7,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,7,TOTAL,5
+La Paz,20101,La Paz,2007,7,TOTAL,82
+Potosí,50203,Llallagua,2007,7,TOTAL,1
+Santa Cruz,71001,Montero,2007,7,TOTAL,22
+Oruro,40101,Oruro,2007,7,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2007,7,TOTAL,3
+Oruro,40601,Poopo,2007,7,TOTAL,1
+Santa Cruz,70103,Porongo,2007,7,TOTAL,3
+Potosí,50101,Potosi,2007,7,TOTAL,2
+Santa Cruz,71402,Puerto Quijarro,2007,7,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2007,7,TOTAL,1
+Cochabamba,31001,Sacaba,2007,7,TOTAL,7
+Santa Cruz,70901,Samaipata,2007,7,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,7,TOTAL,1
+Beni,80702,San Ramon,2007,7,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,TOTAL,160
+Cochabamba,30702,Santivañes,2007,7,TOTAL,3
+Cochabamba,30902,Sipe Sipe,2007,7,TOTAL,1
+Chuquisaca,10101,Sucre,2007,7,TOTAL,48
+Tarija,60101,Tarija,2007,7,TOTAL,7
+Cochabamba,30903,Tiquipaya,2007,7,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2007,7,TOTAL,1
+Potosí,50801,Tupiza,2007,7,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,7,TOTAL,1
+Potosí,51501,Villazon,2007,7,TOTAL,1
+Santa Cruz,70201,Warnes,2007,7,TOTAL,23
+Tarija,60301,Yacuiba,2007,7,TOTAL,7
+Potosí,51301,Arampampa,2007,8,TOTAL,1
+Santa Cruz,70703,Cabezas,2007,8,TOTAL,2
+Tarija,60302,Carapari,2007,8,TOTAL,5
+Cochabamba,30101,Cochabamba,2007,8,TOTAL,98
+Cochabamba,30905,Colcapirhua,2007,8,TOTAL,7
+Potosí,50601,Cotagaita,2007,8,TOTAL,2
+La Paz,20105,El Alto,2007,8,TOTAL,9
+Santa Cruz,70105,El Torno,2007,8,TOTAL,4
+Santa Cruz,71004,Fernandez Alonso,2007,8,TOTAL,1
+Santa Cruz,71002,General Saavedra,2007,8,TOTAL,8
+Oruro,40701,Huanuni,2007,8,TOTAL,2
+Santa Cruz,70104,La Guardia,2007,8,TOTAL,7
+La Paz,20101,La Paz,2007,8,TOTAL,75
+Santa Cruz,71003,Mineros,2007,8,TOTAL,1
+Santa Cruz,71001,Montero,2007,8,TOTAL,15
+Cochabamba,30302,Morochata,2007,8,TOTAL,115
+Santa Cruz,70902,Pampa Grande,2007,8,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2007,8,TOTAL,1
+Chuquisaca,10103,Poroma,2007,8,TOTAL,4
+Santa Cruz,70103,Porongo,2007,8,TOTAL,1
+Potosí,50101,Potosi,2007,8,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2007,8,TOTAL,1
+Cochabamba,31401,Punata,2007,8,TOTAL,1
+Cochabamba,30901,Quillacollo,2007,8,TOTAL,8
+Cochabamba,31001,Sacaba,2007,8,TOTAL,12
+Santa Cruz,70301,San Ignacio De Velasco,2007,8,TOTAL,1
+Santa Cruz,71104,San Julian,2007,8,TOTAL,12
+Santa Cruz,71201,San Matias,2007,8,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2007,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,TOTAL,161
+Santa Cruz,70602,Santa Rosa Del Sara,2007,8,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2007,8,TOTAL,3
+Chuquisaca,10101,Sucre,2007,8,TOTAL,41
+Tarija,60101,Tarija,2007,8,TOTAL,275
+Cochabamba,30903,Tiquipaya,2007,8,TOTAL,2
+Cochabamba,31601,Tiraque (cbba),2007,8,TOTAL,2
+Cochabamba,30802,Toco,2007,8,TOTAL,2
+Chuquisaca,10402,Tomina,2007,8,TOTAL,2
+Potosí,50502,Toro Toro,2007,8,TOTAL,1
+Potosí,50801,Tupiza,2007,8,TOTAL,3
+Cochabamba,31003,Villa Tunari,2007,8,TOTAL,1
+Santa Cruz,70201,Warnes,2007,8,TOTAL,8
+Tarija,60301,Yacuiba,2007,8,TOTAL,5
+Cochabamba,30201,Aiquile,2007,9,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,9,TOTAL,2
+Cochabamba,30701,Capinota,2007,9,TOTAL,3
+Cochabamba,31204,Chimore,2007,9,TOTAL,1
+Cochabamba,30801,Cliza,2007,9,TOTAL,15
+Cochabamba,30101,Cochabamba,2007,9,TOTAL,75
+Santa Cruz,70102,Cotoca,2007,9,TOTAL,6
+La Paz,20105,El Alto,2007,9,TOTAL,1
+Santa Cruz,70105,El Torno,2007,9,TOTAL,6
+Tarija,60601,Entre Rios,2007,9,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2007,9,TOTAL,2
+La Paz,20802,Guaqui,2007,9,TOTAL,2
+Oruro,40701,Huanuni,2007,9,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,9,TOTAL,6
+La Paz,20101,La Paz,2007,9,TOTAL,74
+Santa Cruz,70903,Mairana,2007,9,TOTAL,2
+Santa Cruz,71003,Mineros,2007,9,TOTAL,1
+Cochabamba,31301,Mizque,2007,9,TOTAL,1
+Santa Cruz,71001,Montero,2007,9,TOTAL,3
+Chuquisaca,10103,Poroma,2007,9,TOTAL,1
+Santa Cruz,70103,Porongo,2007,9,TOTAL,1
+Chuquisaca,10302,Presto,2007,9,TOTAL,1
+Potosí,51101,Puna,2007,9,TOTAL,4
+Cochabamba,31401,Punata,2007,9,TOTAL,10
+Santa Cruz,70904,Quirusillas,2007,9,TOTAL,1
+Cochabamba,31001,Sacaba,2007,9,TOTAL,10
+Santa Cruz,70901,Samaipata,2007,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2007,9,TOTAL,5
+Santa Cruz,71201,San Matias,2007,9,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,TOTAL,129
+Chuquisaca,10101,Sucre,2007,9,TOTAL,35
+Chuquisaca,10601,Tarabuco,2007,9,TOTAL,69
+Cochabamba,30401,Tarata,2007,9,TOTAL,2
+Tarija,60101,Tarija,2007,9,TOTAL,25
+Cochabamba,30903,Tiquipaya,2007,9,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2007,9,TOTAL,2
+Potosí,50502,Toro Toro,2007,9,TOTAL,1
+Cochabamba,31201,Totora(cbba),2007,9,TOTAL,1
+Potosí,50801,Tupiza,2007,9,TOTAL,9
+Potosí,51201,Uyuni,2007,9,TOTAL,8
+Cochabamba,31003,Villa Tunari,2007,9,TOTAL,2
+Potosí,51501,Villazon,2007,9,TOTAL,8
+Cochabamba,30904,Vinto,2007,9,TOTAL,2
+Santa Cruz,70201,Warnes,2007,9,TOTAL,5
+Tarija,60301,Yacuiba,2007,9,TOTAL,8
+Potosí,51302,Acacio,2007,10,TOTAL,1
+Cochabamba,30601,Arque,2007,10,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,10,TOTAL,2
+Tarija,60202,Bermejo,2007,10,TOTAL,7
+Santa Cruz,70706,Camiri,2007,10,TOTAL,1
+Cochabamba,30701,Capinota,2007,10,TOTAL,1
+Tarija,60302,Carapari,2007,10,TOTAL,10
+Santa Cruz,71403,Carmen Rivero Torrez,2007,10,TOTAL,4
+Cochabamba,30101,Cochabamba,2007,10,TOTAL,40
+Cochabamba,30905,Colcapirhua,2007,10,TOTAL,3
+La Paz,21401,Coroico,2007,10,TOTAL,1
+Santa Cruz,70102,Cotoca,2007,10,TOTAL,4
+Santa Cruz,71106,Cuatro Cañadas,2007,10,TOTAL,9
+La Paz,20105,El Alto,2007,10,TOTAL,3
+Santa Cruz,70105,El Torno,2007,10,TOTAL,5
+Santa Cruz,71002,General Saavedra,2007,10,TOTAL,1
+La Paz,20602,Guanay,2007,10,TOTAL,42
+Santa Cruz,70104,La Guardia,2007,10,TOTAL,20
+La Paz,20101,La Paz,2007,10,TOTAL,71
+Santa Cruz,70903,Mairana,2007,10,TOTAL,1
+Santa Cruz,71001,Montero,2007,10,TOTAL,12
+Potosí,50404,Ocuri,2007,10,TOTAL,1
+Santa Cruz,70502,Pailon,2007,10,TOTAL,3
+Potosí,51101,Puna,2007,10,TOTAL,9
+Santa Cruz,70904,Quirusillas,2007,10,TOTAL,2
+Cochabamba,31001,Sacaba,2007,10,TOTAL,7
+Cochabamba,31403,San Benito,2007,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,10,TOTAL,1
+Santa Cruz,71104,San Julian,2007,10,TOTAL,2
+Santa Cruz,71201,San Matias,2007,10,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2007,10,TOTAL,2
+Beni,80702,San Ramon,2007,10,TOTAL,4
+Beni,80401,Santa Ana,2007,10,TOTAL,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,TOTAL,185
+Chuquisaca,10101,Sucre,2007,10,TOTAL,60
+Tarija,60101,Tarija,2007,10,TOTAL,3
+Cochabamba,30903,Tiquipaya,2007,10,TOTAL,3
+Oruro,41001,Toledo,2007,10,TOTAL,1
+Potosí,51202,Tomave,2007,10,TOTAL,1
+Potosí,50502,Toro Toro,2007,10,TOTAL,1
+Beni,80101,Trinidad,2007,10,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2007,10,TOTAL,1
+Potosí,51201,Uyuni,2007,10,TOTAL,4
+Cochabamba,31003,Villa Tunari,2007,10,TOTAL,1
+Cochabamba,30904,Vinto,2007,10,TOTAL,2
+Santa Cruz,70201,Warnes,2007,10,TOTAL,8
+Tarija,60301,Yacuiba,2007,10,TOTAL,56
+Cochabamba,30201,Aiquile,2007,11,TOTAL,1
+La Paz,20701,Apolo,2007,11,TOTAL,10
+La Paz,20503,Aucapata,2007,11,TOTAL,1
+Cochabamba,30801,Cliza,2007,11,TOTAL,9
+Cochabamba,30101,Cochabamba,2007,11,TOTAL,95
+Cochabamba,31002,Colomi,2007,11,TOTAL,1
+Santa Cruz,71301,Comarapa,2007,11,TOTAL,3
+Santa Cruz,70102,Cotoca,2007,11,TOTAL,2
+Santa Cruz,70105,El Torno,2007,11,TOTAL,7
+Tarija,60601,Entre Rios,2007,11,TOTAL,2
+Tarija,60601,Entre Rios,2007,11,TOTAL,1
+La Paz,20602,Guanay,2007,11,TOTAL,6
+Santa Cruz,70104,La Guardia,2007,11,TOTAL,16
+La Paz,20101,La Paz,2007,11,TOTAL,73
+Santa Cruz,71001,Montero,2007,11,TOTAL,13
+Cochabamba,30302,Morochata,2007,11,TOTAL,1
+Santa Cruz,70202,Okinawa,2007,11,TOTAL,1
+Potosí,50101,Potosi,2007,11,TOTAL,1
+Cochabamba,31401,Punata,2007,11,TOTAL,2
+Cochabamba,30901,Quillacollo,2007,11,TOTAL,2
+Santa Cruz,70904,Quirusillas,2007,11,TOTAL,1
+Beni,80304,Rurrenabaque,2007,11,TOTAL,2
+Cochabamba,31001,Sacaba,2007,11,TOTAL,6
+Beni,80602,San Andres,2007,11,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2007,11,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2007,11,TOTAL,2
+Beni,80702,San Ramon,2007,11,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,TOTAL,146
+Cochabamba,30902,Sipe Sipe,2007,11,TOTAL,2
+Chuquisaca,10101,Sucre,2007,11,TOTAL,56
+Cochabamba,30903,Tiquipaya,2007,11,TOTAL,8
+Cochabamba,31601,Tiraque (cbba),2007,11,TOTAL,1
+Potosí,51202,Tomave,2007,11,TOTAL,3
+Beni,80101,Trinidad,2007,11,TOTAL,1
+Potosí,50801,Tupiza,2007,11,TOTAL,3
+Potosí,51201,Uyuni,2007,11,TOTAL,5
+Tarija,60303,Villa Montes,2007,11,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,11,TOTAL,3
+Potosí,51501,Villazon,2007,11,TOTAL,1
+Cochabamba,30904,Vinto,2007,11,TOTAL,1
+Santa Cruz,70201,Warnes,2007,11,TOTAL,3
+Tarija,60301,Yacuiba,2007,11,TOTAL,30
+Chuquisaca,10102,Yotala,2007,11,TOTAL,5
+Cochabamba,30201,Aiquile,2007,12,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,12,TOTAL,1
+Tarija,60202,Bermejo,2007,12,TOTAL,2
+Cochabamba,31501,Bolivar,2007,12,TOTAL,1
+La Paz,22001,Caranavi,2007,12,TOTAL,4
+La Paz,20501,Chuma,2007,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2007,12,TOTAL,69
+Cochabamba,30905,Colcapirhua,2007,12,TOTAL,8
+La Paz,20105,El Alto,2007,12,TOTAL,2
+Santa Cruz,70105,El Torno,2007,12,TOTAL,15
+Santa Cruz,71002,General Saavedra,2007,12,TOTAL,1
+La Paz,20602,Guanay,2007,12,TOTAL,1
+La Paz,20802,Guaqui,2007,12,TOTAL,1
+Oruro,40701,Huanuni,2007,12,TOTAL,2
+Santa Cruz,70104,La Guardia,2007,12,TOTAL,8
+La Paz,20101,La Paz,2007,12,TOTAL,61
+Beni,80801,Magdalena,2007,12,TOTAL,1
+Santa Cruz,71001,Montero,2007,12,TOTAL,8
+Santa Cruz,70103,Porongo,2007,12,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,12,TOTAL,12
+Potosí,50101,Potosi,2007,12,TOTAL,2
+Cochabamba,31401,Punata,2007,12,TOTAL,1
+Cochabamba,30901,Quillacollo,2007,12,TOTAL,2
+Santa Cruz,70503,Robore,2007,12,TOTAL,5
+Cochabamba,31001,Sacaba,2007,12,TOTAL,3
+Beni,80302,San Borja,2007,12,TOTAL,3
+Santa Cruz,70402,San Carlos,2007,12,TOTAL,2
+Santa Cruz,71104,San Julian,2007,12,TOTAL,2
+Santa Cruz,70302,San Miguel De Velasco,2007,12,TOTAL,2
+Potosí,50501,San Pedro De Buena Vista,2007,12,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL,159
+Santa Cruz,70602,Santa Rosa Del Sara,2007,12,TOTAL,3
+Cochabamba,30902,Sipe Sipe,2007,12,TOTAL,1
+La Paz,20601,Sorata,2007,12,TOTAL,4
+Chuquisaca,10101,Sucre,2007,12,TOTAL,57
+Cochabamba,31101,Tapacari,2007,12,TOTAL,6
+Tarija,60101,Tarija,2007,12,TOTAL,14
+Cochabamba,30903,Tiquipaya,2007,12,TOTAL,2
+Cochabamba,30803,Tolata,2007,12,TOTAL,2
+Cochabamba,31201,Totora(cbba),2007,12,TOTAL,2
+Tarija,60401,Uriondo (a. Concepcion),2007,12,TOTAL,1
+Potosí,51201,Uyuni,2007,12,TOTAL,3
+Cochabamba,30502,Vacas,2007,12,TOTAL,2
+La Paz,20801,Viacha,2007,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,12,TOTAL,2
+Santa Cruz,70201,Warnes,2007,12,TOTAL,3
+Tarija,60301,Yacuiba,2007,12,TOTAL,12
+Santa Cruz,70403,Yapacani,2007,12,TOTAL,1

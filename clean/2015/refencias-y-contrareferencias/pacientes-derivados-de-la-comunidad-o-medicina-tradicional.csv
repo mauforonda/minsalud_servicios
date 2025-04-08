@@ -1,0 +1,471 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,51302,Acacio,2015,1,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,22001,Caranavi,2015,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,30101,Cochabamba,2015,1,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,71106,Cuatro Cañadas,2015,1,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20105,El Alto,2015,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11003,Machareti,2015,1,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60201,Padcaya,2015,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,71302,Saipina,2015,1,Pacientes derivados de la comunidad o medicina tradicional,10
+Santa Cruz,70501,San Jose De Chiquitos,2015,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70404,San Juan De Yapacani,2015,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,71104,San Julian,2015,1,Pacientes derivados de la comunidad o medicina tradicional,24
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,1,Pacientes derivados de la comunidad o medicina tradicional,27
+Cochabamba,31602,Shinaota,2015,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,30903,Tiquipaya,2015,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,31003,Villa Tunari,2015,1,Pacientes derivados de la comunidad o medicina tradicional,36
+Cochabamba,30904,Vinto,2015,1,Pacientes derivados de la comunidad o medicina tradicional,48
+Santa Cruz,70403,Yapacani,2015,1,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,21304,Calamarca,2015,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70706,Camiri,2015,2,Pacientes derivados de la comunidad o medicina tradicional,16
+Potosí,50202,Chayanta,2015,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2015,2,Pacientes derivados de la comunidad o medicina tradicional,2
+La Paz,20105,El Alto,2015,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Oruro,40103,El Choro,2015,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70105,El Torno,2015,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Beni,80202,Guayaramerin,2015,2,Pacientes derivados de la comunidad o medicina tradicional,21
+Santa Cruz,70104,La Guardia,2015,2,Pacientes derivados de la comunidad o medicina tradicional,3
+La Paz,20101,La Paz,2015,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Oruro,40101,Oruro,2015,2,Pacientes derivados de la comunidad o medicina tradicional,5
+Pando,90201,Puerto Rico,2015,2,Pacientes derivados de la comunidad o medicina tradicional,7
+Santa Cruz,71401,Puerto Suarez,2015,2,Pacientes derivados de la comunidad o medicina tradicional,7
+Santa Cruz,71302,Saipina,2015,2,Pacientes derivados de la comunidad o medicina tradicional,12
+Beni,80501,San Ignacio,2015,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70301,San Ignacio De Velasco,2015,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71104,San Julian,2015,2,Pacientes derivados de la comunidad o medicina tradicional,16
+Beni,80401,Santa Ana,2015,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,2,Pacientes derivados de la comunidad o medicina tradicional,30
+Tarija,60101,Tarija,2015,2,Pacientes derivados de la comunidad o medicina tradicional,6
+Potosí,50102,Tinguipaya,2015,2,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70706,Camiri,2015,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30701,Capinota,2015,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,50702,Caripuyo,2015,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2015,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2015,3,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20105,El Alto,2015,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Oruro,40103,El Choro,2015,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70105,El Torno,2015,3,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,3,Pacientes derivados de la comunidad o medicina tradicional,14
+La Paz,20101,La Paz,2015,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11003,Machareti,2015,3,Pacientes derivados de la comunidad o medicina tradicional,14
+Oruro,40101,Oruro,2015,3,Pacientes derivados de la comunidad o medicina tradicional,7
+Potosí,50101,Potosi,2015,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Pando,90201,Puerto Rico,2015,3,Pacientes derivados de la comunidad o medicina tradicional,6
+Santa Cruz,71401,Puerto Suarez,2015,3,Pacientes derivados de la comunidad o medicina tradicional,7
+Santa Cruz,71302,Saipina,2015,3,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10702,San Lucas,2015,3,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,71103,San Ramon Scz,2015,3,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,3,Pacientes derivados de la comunidad o medicina tradicional,18
+Chuquisaca,10101,Sucre,2015,3,Pacientes derivados de la comunidad o medicina tradicional,3
+Potosí,50102,Tinguipaya,2015,3,Pacientes derivados de la comunidad o medicina tradicional,4
+Potosí,50801,Tupiza,2015,3,Pacientes derivados de la comunidad o medicina tradicional,4
+La Paz,20801,Viacha,2015,3,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2015,4,Pacientes derivados de la comunidad o medicina tradicional,30
+Potosí,50301,Betanzos,2015,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70401,Buena Vista,2015,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70702,Charagua,2015,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2015,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70102,Cotoca,2015,4,Pacientes derivados de la comunidad o medicina tradicional,14
+La Paz,20105,El Alto,2015,4,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,70105,El Torno,2015,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,4,Pacientes derivados de la comunidad o medicina tradicional,19
+Chuquisaca,10304,Icla,2015,4,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,11003,Machareti,2015,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70803,Moro Moro,2015,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71401,Puerto Suarez,2015,4,Pacientes derivados de la comunidad o medicina tradicional,4
+Cochabamba,31401,Punata,2015,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71302,Saipina,2015,4,Pacientes derivados de la comunidad o medicina tradicional,11
+Santa Cruz,70404,San Juan De Yapacani,2015,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10702,San Lucas,2015,4,Pacientes derivados de la comunidad o medicina tradicional,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,Pacientes derivados de la comunidad o medicina tradicional,24
+La Paz,21301,Sica Sica (villa Aroma),2015,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,50102,Tinguipaya,2015,4,Pacientes derivados de la comunidad o medicina tradicional,14
+Oruro,41001,Toledo,2015,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Potosí,50801,Tupiza,2015,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,71501,Ascencion De Guarayos,2015,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70703,Cabezas,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10701,Camargo,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70706,Camiri,2015,5,Pacientes derivados de la comunidad o medicina tradicional,4
+Cochabamba,30701,Capinota,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30303,Cocapata,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2015,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,30905,Colcapirhua,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20105,El Alto,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,5,Pacientes derivados de la comunidad o medicina tradicional,10
+Santa Cruz,70104,La Guardia,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11003,Machareti,2015,5,Pacientes derivados de la comunidad o medicina tradicional,20
+Oruro,40101,Oruro,2015,5,Pacientes derivados de la comunidad o medicina tradicional,5
+Tarija,60201,Padcaya,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71302,Saipina,2015,5,Pacientes derivados de la comunidad o medicina tradicional,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,5,Pacientes derivados de la comunidad o medicina tradicional,40
+Chuquisaca,10101,Sucre,2015,5,Pacientes derivados de la comunidad o medicina tradicional,223
+Tarija,60101,Tarija,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,50102,Tinguipaya,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,51202,Tomave,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Beni,80101,Trinidad,2015,5,Pacientes derivados de la comunidad o medicina tradicional,69
+Potosí,50801,Tupiza,2015,5,Pacientes derivados de la comunidad o medicina tradicional,70
+Chuquisaca,10801,Villa Serrano,2015,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,30904,Vinto,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20903,Yaco,2015,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,51302,Acacio,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10404,Alcala,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Beni,80802,Baures,2015,6,Pacientes derivados de la comunidad o medicina tradicional,25
+Cochabamba,30303,Cocapata,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2015,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,71101,Concepcion,2015,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,71106,Cuatro Cañadas,2015,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10902,Culpina,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20105,El Alto,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70105,El Torno,2015,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,6,Pacientes derivados de la comunidad o medicina tradicional,16
+La Paz,20101,La Paz,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11003,Machareti,2015,6,Pacientes derivados de la comunidad o medicina tradicional,20
+Oruro,40101,Oruro,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70502,Pailon,2015,6,Pacientes derivados de la comunidad o medicina tradicional,5
+Cochabamba,31001,Sacaba,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71302,Saipina,2015,6,Pacientes derivados de la comunidad o medicina tradicional,6
+Santa Cruz,71104,San Julian,2015,6,Pacientes derivados de la comunidad o medicina tradicional,16
+Potosí,50501,San Pedro De Buena Vista,2015,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,6,Pacientes derivados de la comunidad o medicina tradicional,23
+Cochabamba,30703,Sicaya,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10101,Sucre,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60101,Tarija,2015,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Potosí,50102,Tinguipaya,2015,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,50801,Tupiza,2015,6,Pacientes derivados de la comunidad o medicina tradicional,32
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,6,Pacientes derivados de la comunidad o medicina tradicional,4
+Potosí,51302,Acacio,2015,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Beni,80802,Baures,2015,7,Pacientes derivados de la comunidad o medicina tradicional,10
+Potosí,50301,Betanzos,2015,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2015,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70102,Cotoca,2015,7,Pacientes derivados de la comunidad o medicina tradicional,56
+Santa Cruz,71106,Cuatro Cañadas,2015,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,7,Pacientes derivados de la comunidad o medicina tradicional,8
+Cochabamba,31301,Mizque,2015,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Oruro,40101,Oruro,2015,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60201,Padcaya,2015,7,Pacientes derivados de la comunidad o medicina tradicional,4
+Santa Cruz,70805,Pucara,2015,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70503,Robore,2015,7,Pacientes derivados de la comunidad o medicina tradicional,5
+Santa Cruz,71302,Saipina,2015,7,Pacientes derivados de la comunidad o medicina tradicional,7
+Santa Cruz,71104,San Julian,2015,7,Pacientes derivados de la comunidad o medicina tradicional,15
+Chuquisaca,10702,San Lucas,2015,7,Pacientes derivados de la comunidad o medicina tradicional,4
+Santa Cruz,71103,San Ramon Scz,2015,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10101,Sucre,2015,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60303,Villa Montes,2015,7,Pacientes derivados de la comunidad o medicina tradicional,9
+Tarija,60301,Yacuiba,2015,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Beni,80802,Baures,2015,8,Pacientes derivados de la comunidad o medicina tradicional,9
+Cochabamba,30101,Cochabamba,2015,8,Pacientes derivados de la comunidad o medicina tradicional,3
+La Paz,20105,El Alto,2015,8,Pacientes derivados de la comunidad o medicina tradicional,4
+Santa Cruz,70105,El Torno,2015,8,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,8,Pacientes derivados de la comunidad o medicina tradicional,22
+Chuquisaca,10501,Monteagudo,2015,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Oruro,40101,Oruro,2015,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60201,Padcaya,2015,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10103,Poroma,2015,8,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,71302,Saipina,2015,8,Pacientes derivados de la comunidad o medicina tradicional,8
+Santa Cruz,71105,San Antonio De Lomerio,2015,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70404,San Juan De Yapacani,2015,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71104,San Julian,2015,8,Pacientes derivados de la comunidad o medicina tradicional,15
+Tarija,60501,San Lorenzo(tja),2015,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,8,Pacientes derivados de la comunidad o medicina tradicional,17
+Cochabamba,30401,Tarata,2015,8,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20803,Tiawanacu,2015,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,50102,Tinguipaya,2015,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Potosí,51202,Tomave,2015,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71403,Carmen Rivero Torrez,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20105,El Alto,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10304,Icla,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20101,La Paz,2015,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,30203,Omereque,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Oruro,40101,Oruro,2015,9,Pacientes derivados de la comunidad o medicina tradicional,3
+Tarija,60201,Padcaya,2015,9,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,70902,Pampa Grande,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70503,Robore,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,31001,Sacaba,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60501,San Lorenzo(tja),2015,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,9,Pacientes derivados de la comunidad o medicina tradicional,32
+Oruro,40202,Santuario De Quillacas,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10101,Sucre,2015,9,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20803,Tiawanacu,2015,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Potosí,50102,Tinguipaya,2015,9,Pacientes derivados de la comunidad o medicina tradicional,13
+Santa Cruz,71501,Ascencion De Guarayos,2015,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2015,10,Pacientes derivados de la comunidad o medicina tradicional,7
+Santa Cruz,71106,Cuatro Cañadas,2015,10,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20105,El Alto,2015,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Oruro,40701,Huanuni,2015,10,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20101,La Paz,2015,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70701,Lagunillas,2015,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11003,Machareti,2015,10,Pacientes derivados de la comunidad o medicina tradicional,6
+Santa Cruz,71001,Montero,2015,10,Pacientes derivados de la comunidad o medicina tradicional,9
+Oruro,40101,Oruro,2015,10,Pacientes derivados de la comunidad o medicina tradicional,8
+Beni,80302,San Borja,2015,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,71104,San Julian,2015,10,Pacientes derivados de la comunidad o medicina tradicional,15
+Tarija,60501,San Lorenzo(tja),2015,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,10,Pacientes derivados de la comunidad o medicina tradicional,10
+Potosí,50102,Tinguipaya,2015,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,30903,Tiquipaya,2015,10,Pacientes derivados de la comunidad o medicina tradicional,68
+Cochabamba,31201,Totora(cbba),2015,10,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,21304,Calamarca,2015,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2015,11,Pacientes derivados de la comunidad o medicina tradicional,29
+Santa Cruz,71106,Cuatro Cañadas,2015,11,Pacientes derivados de la comunidad o medicina tradicional,2
+La Paz,20105,El Alto,2015,11,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60502,El Puente(tja),2015,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Beni,80202,Guayaramerin,2015,11,Pacientes derivados de la comunidad o medicina tradicional,13
+Santa Cruz,70705,Gutierrez,2015,11,Pacientes derivados de la comunidad o medicina tradicional,5
+Oruro,40701,Huanuni,2015,11,Pacientes derivados de la comunidad o medicina tradicional,3
+La Paz,20101,La Paz,2015,11,Pacientes derivados de la comunidad o medicina tradicional,11
+Oruro,40101,Oruro,2015,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70502,Pailon,2015,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,31205,Puerto Villarroel,2015,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60101,Tarija,2015,11,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70201,Warnes,2015,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60301,Yacuiba,2015,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10201,Azurduy,2015,12,Pacientes derivados de la comunidad o medicina tradicional,2
+Beni,80802,Baures,2015,12,Pacientes derivados de la comunidad o medicina tradicional,7
+Cochabamba,31204,Chimore,2015,12,Pacientes derivados de la comunidad o medicina tradicional,3
+Cochabamba,30101,Cochabamba,2015,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2015,12,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20101,La Paz,2015,12,Pacientes derivados de la comunidad o medicina tradicional,2
+Beni,80601,Loreto,2015,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Oruro,40101,Oruro,2015,12,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,71104,San Julian,2015,12,Pacientes derivados de la comunidad o medicina tradicional,18
+Santa Cruz,70303,San Rafael,2015,12,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,12,Pacientes derivados de la comunidad o medicina tradicional,23
+Chuquisaca,10101,Sucre,2015,12,Pacientes derivados de la comunidad o medicina tradicional,2
+Potosí,50102,Tinguipaya,2015,12,Pacientes derivados de la comunidad o medicina tradicional,3
+Potosí,51302,Acacio,2015,1,TOTAL,1
+La Paz,22001,Caranavi,2015,1,TOTAL,2
+Cochabamba,30101,Cochabamba,2015,1,TOTAL,3
+Santa Cruz,71106,Cuatro Cañadas,2015,1,TOTAL,1
+La Paz,20105,El Alto,2015,1,TOTAL,1
+Chuquisaca,11003,Machareti,2015,1,TOTAL,6
+Tarija,60201,Padcaya,2015,1,TOTAL,2
+Santa Cruz,71302,Saipina,2015,1,TOTAL,10
+Santa Cruz,70501,San Jose De Chiquitos,2015,1,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2015,1,TOTAL,2
+Santa Cruz,71104,San Julian,2015,1,TOTAL,24
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,1,TOTAL,27
+Cochabamba,31602,Shinaota,2015,1,TOTAL,2
+Cochabamba,30903,Tiquipaya,2015,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2015,1,TOTAL,36
+Cochabamba,30904,Vinto,2015,1,TOTAL,48
+Santa Cruz,70403,Yapacani,2015,1,TOTAL,1
+La Paz,21304,Calamarca,2015,2,TOTAL,1
+Santa Cruz,70706,Camiri,2015,2,TOTAL,16
+Potosí,50202,Chayanta,2015,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,2,TOTAL,2
+La Paz,20105,El Alto,2015,2,TOTAL,1
+Oruro,40103,El Choro,2015,2,TOTAL,1
+Santa Cruz,70105,El Torno,2015,2,TOTAL,1
+Beni,80202,Guayaramerin,2015,2,TOTAL,21
+Santa Cruz,70104,La Guardia,2015,2,TOTAL,3
+La Paz,20101,La Paz,2015,2,TOTAL,1
+Oruro,40101,Oruro,2015,2,TOTAL,5
+Pando,90201,Puerto Rico,2015,2,TOTAL,7
+Santa Cruz,71401,Puerto Suarez,2015,2,TOTAL,7
+Santa Cruz,71302,Saipina,2015,2,TOTAL,12
+Beni,80501,San Ignacio,2015,2,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2015,2,TOTAL,1
+Santa Cruz,71104,San Julian,2015,2,TOTAL,16
+Beni,80401,Santa Ana,2015,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,2,TOTAL,30
+Tarija,60101,Tarija,2015,2,TOTAL,6
+Potosí,50102,Tinguipaya,2015,2,TOTAL,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,2,TOTAL,2
+Santa Cruz,70706,Camiri,2015,3,TOTAL,1
+Cochabamba,30701,Capinota,2015,3,TOTAL,1
+Potosí,50702,Caripuyo,2015,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,3,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2015,3,TOTAL,1
+La Paz,20105,El Alto,2015,3,TOTAL,1
+Oruro,40103,El Choro,2015,3,TOTAL,1
+Santa Cruz,70105,El Torno,2015,3,TOTAL,4
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,3,TOTAL,14
+La Paz,20101,La Paz,2015,3,TOTAL,1
+Chuquisaca,11003,Machareti,2015,3,TOTAL,14
+Oruro,40101,Oruro,2015,3,TOTAL,7
+Potosí,50101,Potosi,2015,3,TOTAL,1
+Pando,90201,Puerto Rico,2015,3,TOTAL,6
+Santa Cruz,71401,Puerto Suarez,2015,3,TOTAL,7
+Santa Cruz,71302,Saipina,2015,3,TOTAL,8
+Chuquisaca,10702,San Lucas,2015,3,TOTAL,3
+Santa Cruz,71103,San Ramon Scz,2015,3,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,3,TOTAL,18
+Chuquisaca,10101,Sucre,2015,3,TOTAL,3
+Potosí,50102,Tinguipaya,2015,3,TOTAL,4
+Potosí,50801,Tupiza,2015,3,TOTAL,4
+La Paz,20801,Viacha,2015,3,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2015,4,TOTAL,30
+Potosí,50301,Betanzos,2015,4,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,4,TOTAL,1
+Santa Cruz,70702,Charagua,2015,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,4,TOTAL,2
+Santa Cruz,70102,Cotoca,2015,4,TOTAL,14
+La Paz,20105,El Alto,2015,4,TOTAL,3
+Santa Cruz,70105,El Torno,2015,4,TOTAL,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,4,TOTAL,19
+Chuquisaca,10304,Icla,2015,4,TOTAL,5
+Chuquisaca,11003,Machareti,2015,4,TOTAL,2
+Santa Cruz,70803,Moro Moro,2015,4,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2015,4,TOTAL,4
+Cochabamba,31401,Punata,2015,4,TOTAL,1
+Santa Cruz,71302,Saipina,2015,4,TOTAL,11
+Santa Cruz,70404,San Juan De Yapacani,2015,4,TOTAL,2
+Chuquisaca,10702,San Lucas,2015,4,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,TOTAL,24
+La Paz,21301,Sica Sica (villa Aroma),2015,4,TOTAL,1
+Potosí,50102,Tinguipaya,2015,4,TOTAL,14
+Oruro,41001,Toledo,2015,4,TOTAL,2
+Potosí,50801,Tupiza,2015,4,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2015,5,TOTAL,2
+Santa Cruz,70703,Cabezas,2015,5,TOTAL,1
+Chuquisaca,10701,Camargo,2015,5,TOTAL,1
+Santa Cruz,70706,Camiri,2015,5,TOTAL,4
+Cochabamba,30701,Capinota,2015,5,TOTAL,1
+Cochabamba,30303,Cocapata,2015,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,5,TOTAL,2
+Cochabamba,30905,Colcapirhua,2015,5,TOTAL,1
+La Paz,20105,El Alto,2015,5,TOTAL,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,5,TOTAL,10
+Santa Cruz,70104,La Guardia,2015,5,TOTAL,1
+Chuquisaca,11003,Machareti,2015,5,TOTAL,20
+Oruro,40101,Oruro,2015,5,TOTAL,5
+Tarija,60201,Padcaya,2015,5,TOTAL,1
+Santa Cruz,71302,Saipina,2015,5,TOTAL,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,5,TOTAL,40
+Chuquisaca,10101,Sucre,2015,5,TOTAL,223
+Tarija,60101,Tarija,2015,5,TOTAL,1
+Potosí,50102,Tinguipaya,2015,5,TOTAL,1
+Potosí,51202,Tomave,2015,5,TOTAL,1
+Beni,80101,Trinidad,2015,5,TOTAL,69
+Potosí,50801,Tupiza,2015,5,TOTAL,70
+Chuquisaca,10801,Villa Serrano,2015,5,TOTAL,2
+Cochabamba,30904,Vinto,2015,5,TOTAL,1
+La Paz,20903,Yaco,2015,5,TOTAL,1
+Potosí,51302,Acacio,2015,6,TOTAL,1
+Chuquisaca,10404,Alcala,2015,6,TOTAL,1
+Beni,80802,Baures,2015,6,TOTAL,25
+Cochabamba,30303,Cocapata,2015,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,6,TOTAL,2
+Santa Cruz,71101,Concepcion,2015,6,TOTAL,2
+Santa Cruz,71106,Cuatro Cañadas,2015,6,TOTAL,2
+Chuquisaca,10902,Culpina,2015,6,TOTAL,1
+La Paz,20105,El Alto,2015,6,TOTAL,1
+Santa Cruz,70105,El Torno,2015,6,TOTAL,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,6,TOTAL,16
+La Paz,20101,La Paz,2015,6,TOTAL,1
+Chuquisaca,11003,Machareti,2015,6,TOTAL,20
+Oruro,40101,Oruro,2015,6,TOTAL,1
+Santa Cruz,70502,Pailon,2015,6,TOTAL,5
+Cochabamba,31001,Sacaba,2015,6,TOTAL,1
+Santa Cruz,71302,Saipina,2015,6,TOTAL,6
+Santa Cruz,71104,San Julian,2015,6,TOTAL,16
+Potosí,50501,San Pedro De Buena Vista,2015,6,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,6,TOTAL,23
+Cochabamba,30703,Sicaya,2015,6,TOTAL,1
+Chuquisaca,10101,Sucre,2015,6,TOTAL,1
+Tarija,60101,Tarija,2015,6,TOTAL,2
+Potosí,50102,Tinguipaya,2015,6,TOTAL,1
+Potosí,50801,Tupiza,2015,6,TOTAL,32
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,6,TOTAL,4
+Potosí,51302,Acacio,2015,7,TOTAL,1
+Beni,80802,Baures,2015,7,TOTAL,10
+Potosí,50301,Betanzos,2015,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,7,TOTAL,2
+Santa Cruz,70102,Cotoca,2015,7,TOTAL,56
+Santa Cruz,71106,Cuatro Cañadas,2015,7,TOTAL,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,7,TOTAL,8
+Cochabamba,31301,Mizque,2015,7,TOTAL,1
+Oruro,40101,Oruro,2015,7,TOTAL,2
+Tarija,60201,Padcaya,2015,7,TOTAL,4
+Santa Cruz,70805,Pucara,2015,7,TOTAL,1
+Santa Cruz,70503,Robore,2015,7,TOTAL,5
+Santa Cruz,71302,Saipina,2015,7,TOTAL,7
+Santa Cruz,71104,San Julian,2015,7,TOTAL,15
+Chuquisaca,10702,San Lucas,2015,7,TOTAL,4
+Santa Cruz,71103,San Ramon Scz,2015,7,TOTAL,2
+Chuquisaca,10101,Sucre,2015,7,TOTAL,1
+Tarija,60303,Villa Montes,2015,7,TOTAL,9
+Tarija,60301,Yacuiba,2015,7,TOTAL,1
+Beni,80802,Baures,2015,8,TOTAL,9
+Cochabamba,30101,Cochabamba,2015,8,TOTAL,3
+La Paz,20105,El Alto,2015,8,TOTAL,4
+Santa Cruz,70105,El Torno,2015,8,TOTAL,4
+Chuquisaca,11002,Huacaya (villa De Huacaya),2015,8,TOTAL,22
+Chuquisaca,10501,Monteagudo,2015,8,TOTAL,1
+Oruro,40101,Oruro,2015,8,TOTAL,2
+Tarija,60201,Padcaya,2015,8,TOTAL,2
+Chuquisaca,10103,Poroma,2015,8,TOTAL,3
+Santa Cruz,71302,Saipina,2015,8,TOTAL,8
+Santa Cruz,71105,San Antonio De Lomerio,2015,8,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2015,8,TOTAL,1
+Santa Cruz,71104,San Julian,2015,8,TOTAL,15
+Tarija,60501,San Lorenzo(tja),2015,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,8,TOTAL,17
+Cochabamba,30401,Tarata,2015,8,TOTAL,1
+La Paz,20803,Tiawanacu,2015,8,TOTAL,1
+Potosí,50102,Tinguipaya,2015,8,TOTAL,2
+Potosí,51202,Tomave,2015,8,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2015,9,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2015,9,TOTAL,1
+La Paz,20105,El Alto,2015,9,TOTAL,1
+Chuquisaca,10304,Icla,2015,9,TOTAL,1
+La Paz,20101,La Paz,2015,9,TOTAL,2
+Cochabamba,30203,Omereque,2015,9,TOTAL,1
+Oruro,40101,Oruro,2015,9,TOTAL,3
+Tarija,60201,Padcaya,2015,9,TOTAL,3
+Santa Cruz,70902,Pampa Grande,2015,9,TOTAL,1
+Santa Cruz,70503,Robore,2015,9,TOTAL,1
+Cochabamba,31001,Sacaba,2015,9,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2015,9,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,9,TOTAL,32
+Oruro,40202,Santuario De Quillacas,2015,9,TOTAL,1
+Chuquisaca,10101,Sucre,2015,9,TOTAL,1
+La Paz,20803,Tiawanacu,2015,9,TOTAL,2
+Potosí,50102,Tinguipaya,2015,9,TOTAL,13
+Santa Cruz,71501,Ascencion De Guarayos,2015,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,10,TOTAL,7
+Santa Cruz,71106,Cuatro Cañadas,2015,10,TOTAL,1
+La Paz,20105,El Alto,2015,10,TOTAL,2
+Oruro,40701,Huanuni,2015,10,TOTAL,1
+La Paz,20101,La Paz,2015,10,TOTAL,2
+Santa Cruz,70701,Lagunillas,2015,10,TOTAL,1
+Chuquisaca,11003,Machareti,2015,10,TOTAL,6
+Santa Cruz,71001,Montero,2015,10,TOTAL,9
+Oruro,40101,Oruro,2015,10,TOTAL,8
+Beni,80302,San Borja,2015,10,TOTAL,2
+Santa Cruz,71104,San Julian,2015,10,TOTAL,15
+Tarija,60501,San Lorenzo(tja),2015,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,10,TOTAL,10
+Potosí,50102,Tinguipaya,2015,10,TOTAL,2
+Cochabamba,30903,Tiquipaya,2015,10,TOTAL,68
+Cochabamba,31201,Totora(cbba),2015,10,TOTAL,1
+La Paz,21304,Calamarca,2015,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,11,TOTAL,29
+Santa Cruz,71106,Cuatro Cañadas,2015,11,TOTAL,2
+La Paz,20105,El Alto,2015,11,TOTAL,2
+Tarija,60502,El Puente(tja),2015,11,TOTAL,1
+Beni,80202,Guayaramerin,2015,11,TOTAL,13
+Santa Cruz,70705,Gutierrez,2015,11,TOTAL,5
+Oruro,40701,Huanuni,2015,11,TOTAL,3
+La Paz,20101,La Paz,2015,11,TOTAL,11
+Oruro,40101,Oruro,2015,11,TOTAL,1
+Santa Cruz,70502,Pailon,2015,11,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2015,11,TOTAL,1
+Tarija,60101,Tarija,2015,11,TOTAL,2
+Santa Cruz,70201,Warnes,2015,11,TOTAL,1
+Tarija,60301,Yacuiba,2015,11,TOTAL,1
+Chuquisaca,10201,Azurduy,2015,12,TOTAL,2
+Beni,80802,Baures,2015,12,TOTAL,7
+Cochabamba,31204,Chimore,2015,12,TOTAL,3
+Cochabamba,30101,Cochabamba,2015,12,TOTAL,1
+Chuquisaca,10405,El Villar,2015,12,TOTAL,1
+La Paz,20101,La Paz,2015,12,TOTAL,2
+Beni,80601,Loreto,2015,12,TOTAL,1
+Oruro,40101,Oruro,2015,12,TOTAL,3
+Santa Cruz,71104,San Julian,2015,12,TOTAL,18
+Santa Cruz,70303,San Rafael,2015,12,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,12,TOTAL,23
+Chuquisaca,10101,Sucre,2015,12,TOTAL,2
+Potosí,50102,Tinguipaya,2015,12,TOTAL,3

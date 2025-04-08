@@ -1,0 +1,439 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,50202,Chayanta,2016,1,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,1,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20105,El Alto,2016,1,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,1,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,1,Numero de mujeres con estudios mamaograficos positivos,0
+Tarija,60202,Bermejo,2016,2,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,2,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,2,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,2,Numero de mujeres con estudios mamaograficos positivos,0
+Tarija,60101,Tarija,2016,2,Numero de mujeres con estudios mamaograficos positivos,0
+Potosí,50801,Tupiza,2016,2,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,3,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,3,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20102,Palca,2016,3,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,31205,Puerto Villarroel,2016,3,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,3,Numero de mujeres con estudios mamaograficos positivos,0
+Tarija,60101,Tarija,2016,3,Numero de mujeres con estudios mamaograficos positivos,0
+Beni,80101,Trinidad,2016,3,Numero de mujeres con estudios mamaograficos positivos,0
+Tarija,60202,Bermejo,2016,4,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,4,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,4,Numero de mujeres con estudios mamaograficos positivos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,4,Numero de mujeres con estudios mamaograficos positivos,0
+Potosí,50801,Tupiza,2016,4,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,5,Numero de mujeres con estudios mamaograficos positivos,0
+Potosí,50601,Cotagaita,2016,5,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,5,Numero de mujeres con estudios mamaograficos positivos,0
+Potosí,50701,Sacaca,2016,5,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70301,San Ignacio De Velasco,2016,5,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,5,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30801,Cliza,2016,6,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,6,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,6,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,6,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,7,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,7,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,71402,Puerto Quijarro,2016,7,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,7,Numero de mujeres con estudios mamaograficos positivos,0
+Tarija,60202,Bermejo,2016,8,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,8,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70105,El Torno,2016,8,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,8,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,8,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,8,Numero de mujeres con estudios mamaograficos positivos,0
+Tarija,60301,Yacuiba,2016,8,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,9,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70105,El Torno,2016,9,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,9,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,10,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20105,El Alto,2016,10,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,10,Numero de mujeres con estudios mamaograficos positivos,0
+Potosí,50101,Potosi,2016,10,Numero de mujeres con estudios mamaograficos positivos,0
+Beni,80201,Riberalta,2016,10,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,10,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,11,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20105,El Alto,2016,11,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,11,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,11,Numero de mujeres con estudios mamaograficos positivos,0
+Cochabamba,30101,Cochabamba,2016,12,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20105,El Alto,2016,12,Numero de mujeres con estudios mamaograficos positivos,0
+La Paz,20101,La Paz,2016,12,Numero de mujeres con estudios mamaograficos positivos,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,Numero de mujeres con estudios mamaograficos positivos,0
+Chuquisaca,10101,Sucre,2016,12,Numero de mujeres con estudios mamaograficos positivos,0
+Tarija,60101,Tarija,2016,12,Numero de mujeres con estudios mamaograficos positivos,0
+Potosí,50202,Chayanta,2016,1,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30101,Cochabamba,2016,1,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20105,El Alto,2016,1,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,1,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,Numero de mujeres con estudios mamaograficos positivos1,4
+Chuquisaca,10101,Sucre,2016,1,Numero de mujeres con estudios mamaograficos positivos1,0
+Tarija,60202,Bermejo,2016,2,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30101,Cochabamba,2016,2,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,2,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,Numero de mujeres con estudios mamaograficos positivos1,1
+Chuquisaca,10101,Sucre,2016,2,Numero de mujeres con estudios mamaograficos positivos1,0
+Tarija,60101,Tarija,2016,2,Numero de mujeres con estudios mamaograficos positivos1,0
+Potosí,50801,Tupiza,2016,2,Numero de mujeres con estudios mamaograficos positivos1,1
+Cochabamba,30101,Cochabamba,2016,3,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,3,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20102,Palca,2016,3,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,31205,Puerto Villarroel,2016,3,Numero de mujeres con estudios mamaograficos positivos1,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,Numero de mujeres con estudios mamaograficos positivos1,4
+Chuquisaca,10101,Sucre,2016,3,Numero de mujeres con estudios mamaograficos positivos1,0
+Tarija,60101,Tarija,2016,3,Numero de mujeres con estudios mamaograficos positivos1,0
+Beni,80101,Trinidad,2016,3,Numero de mujeres con estudios mamaograficos positivos1,0
+Tarija,60202,Bermejo,2016,4,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30101,Cochabamba,2016,4,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,4,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,Numero de mujeres con estudios mamaograficos positivos1,0
+Chuquisaca,10101,Sucre,2016,4,Numero de mujeres con estudios mamaograficos positivos1,0
+Potosí,50801,Tupiza,2016,4,Numero de mujeres con estudios mamaograficos positivos1,2
+Cochabamba,30101,Cochabamba,2016,5,Numero de mujeres con estudios mamaograficos positivos1,0
+Potosí,50601,Cotagaita,2016,5,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,5,Numero de mujeres con estudios mamaograficos positivos1,0
+Potosí,50701,Sacaca,2016,5,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70301,San Ignacio De Velasco,2016,5,Numero de mujeres con estudios mamaograficos positivos1,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,Numero de mujeres con estudios mamaograficos positivos1,0
+Chuquisaca,10101,Sucre,2016,5,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30801,Cliza,2016,6,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30101,Cochabamba,2016,6,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,6,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,Numero de mujeres con estudios mamaograficos positivos1,0
+Chuquisaca,10101,Sucre,2016,6,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30101,Cochabamba,2016,7,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,7,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,71402,Puerto Quijarro,2016,7,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,Numero de mujeres con estudios mamaograficos positivos1,0
+Chuquisaca,10101,Sucre,2016,7,Numero de mujeres con estudios mamaograficos positivos1,0
+Tarija,60202,Bermejo,2016,8,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30101,Cochabamba,2016,8,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70105,El Torno,2016,8,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,8,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,8,Numero de mujeres con estudios mamaograficos positivos1,0
+Chuquisaca,10101,Sucre,2016,8,Numero de mujeres con estudios mamaograficos positivos1,0
+Tarija,60301,Yacuiba,2016,8,Numero de mujeres con estudios mamaograficos positivos1,11
+Cochabamba,30101,Cochabamba,2016,9,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70105,El Torno,2016,9,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,Numero de mujeres con estudios mamaograficos positivos1,0
+Chuquisaca,10101,Sucre,2016,9,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30101,Cochabamba,2016,10,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20105,El Alto,2016,10,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,10,Numero de mujeres con estudios mamaograficos positivos1,0
+Potosí,50101,Potosi,2016,10,Numero de mujeres con estudios mamaograficos positivos1,0
+Beni,80201,Riberalta,2016,10,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,Numero de mujeres con estudios mamaograficos positivos1,0
+Chuquisaca,10101,Sucre,2016,10,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30101,Cochabamba,2016,11,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20105,El Alto,2016,11,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,11,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,Numero de mujeres con estudios mamaograficos positivos1,3
+Chuquisaca,10101,Sucre,2016,11,Numero de mujeres con estudios mamaograficos positivos1,0
+Cochabamba,30101,Cochabamba,2016,12,Numero de mujeres con estudios mamaograficos positivos1,1
+La Paz,20105,El Alto,2016,12,Numero de mujeres con estudios mamaograficos positivos1,0
+La Paz,20101,La Paz,2016,12,Numero de mujeres con estudios mamaograficos positivos1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,Numero de mujeres con estudios mamaograficos positivos1,0
+Chuquisaca,10101,Sucre,2016,12,Numero de mujeres con estudios mamaograficos positivos1,0
+Tarija,60101,Tarija,2016,12,Numero de mujeres con estudios mamaograficos positivos1,0
+Potosí,50202,Chayanta,2016,1,Numero de mujeres con estudios mamaograficos positivos2,0
+Cochabamba,30101,Cochabamba,2016,1,Numero de mujeres con estudios mamaograficos positivos2,4
+La Paz,20105,El Alto,2016,1,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20101,La Paz,2016,1,Numero de mujeres con estudios mamaograficos positivos2,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,Numero de mujeres con estudios mamaograficos positivos2,9
+Chuquisaca,10101,Sucre,2016,1,Numero de mujeres con estudios mamaograficos positivos2,4
+Tarija,60202,Bermejo,2016,2,Numero de mujeres con estudios mamaograficos positivos2,0
+Cochabamba,30101,Cochabamba,2016,2,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20101,La Paz,2016,2,Numero de mujeres con estudios mamaograficos positivos2,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,Numero de mujeres con estudios mamaograficos positivos2,1
+Chuquisaca,10101,Sucre,2016,2,Numero de mujeres con estudios mamaograficos positivos2,0
+Tarija,60101,Tarija,2016,2,Numero de mujeres con estudios mamaograficos positivos2,0
+Potosí,50801,Tupiza,2016,2,Numero de mujeres con estudios mamaograficos positivos2,8
+Cochabamba,30101,Cochabamba,2016,3,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20101,La Paz,2016,3,Numero de mujeres con estudios mamaograficos positivos2,1
+La Paz,20102,Palca,2016,3,Numero de mujeres con estudios mamaograficos positivos2,3
+Cochabamba,31205,Puerto Villarroel,2016,3,Numero de mujeres con estudios mamaograficos positivos2,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,Numero de mujeres con estudios mamaograficos positivos2,10
+Chuquisaca,10101,Sucre,2016,3,Numero de mujeres con estudios mamaograficos positivos2,1
+Tarija,60101,Tarija,2016,3,Numero de mujeres con estudios mamaograficos positivos2,0
+Beni,80101,Trinidad,2016,3,Numero de mujeres con estudios mamaograficos positivos2,1
+Tarija,60202,Bermejo,2016,4,Numero de mujeres con estudios mamaograficos positivos2,0
+Cochabamba,30101,Cochabamba,2016,4,Numero de mujeres con estudios mamaograficos positivos2,1
+La Paz,20101,La Paz,2016,4,Numero de mujeres con estudios mamaograficos positivos2,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,Numero de mujeres con estudios mamaograficos positivos2,0
+Chuquisaca,10101,Sucre,2016,4,Numero de mujeres con estudios mamaograficos positivos2,0
+Potosí,50801,Tupiza,2016,4,Numero de mujeres con estudios mamaograficos positivos2,7
+Cochabamba,30101,Cochabamba,2016,5,Numero de mujeres con estudios mamaograficos positivos2,0
+Potosí,50601,Cotagaita,2016,5,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20101,La Paz,2016,5,Numero de mujeres con estudios mamaograficos positivos2,1
+Potosí,50701,Sacaca,2016,5,Numero de mujeres con estudios mamaograficos positivos2,0
+Santa Cruz,70301,San Ignacio De Velasco,2016,5,Numero de mujeres con estudios mamaograficos positivos2,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,Numero de mujeres con estudios mamaograficos positivos2,0
+Chuquisaca,10101,Sucre,2016,5,Numero de mujeres con estudios mamaograficos positivos2,2
+Cochabamba,30801,Cliza,2016,6,Numero de mujeres con estudios mamaograficos positivos2,1
+Cochabamba,30101,Cochabamba,2016,6,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20101,La Paz,2016,6,Numero de mujeres con estudios mamaograficos positivos2,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,Numero de mujeres con estudios mamaograficos positivos2,2
+Chuquisaca,10101,Sucre,2016,6,Numero de mujeres con estudios mamaograficos positivos2,1
+Cochabamba,30101,Cochabamba,2016,7,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20101,La Paz,2016,7,Numero de mujeres con estudios mamaograficos positivos2,4
+Santa Cruz,71402,Puerto Quijarro,2016,7,Numero de mujeres con estudios mamaograficos positivos2,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,Numero de mujeres con estudios mamaograficos positivos2,0
+Chuquisaca,10101,Sucre,2016,7,Numero de mujeres con estudios mamaograficos positivos2,1
+Tarija,60202,Bermejo,2016,8,Numero de mujeres con estudios mamaograficos positivos2,1
+Cochabamba,30101,Cochabamba,2016,8,Numero de mujeres con estudios mamaograficos positivos2,0
+Santa Cruz,70105,El Torno,2016,8,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20101,La Paz,2016,8,Numero de mujeres con estudios mamaograficos positivos2,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,8,Numero de mujeres con estudios mamaograficos positivos2,2
+Chuquisaca,10101,Sucre,2016,8,Numero de mujeres con estudios mamaograficos positivos2,1
+Tarija,60301,Yacuiba,2016,8,Numero de mujeres con estudios mamaograficos positivos2,30
+Cochabamba,30101,Cochabamba,2016,9,Numero de mujeres con estudios mamaograficos positivos2,0
+Santa Cruz,70105,El Torno,2016,9,Numero de mujeres con estudios mamaograficos positivos2,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,Numero de mujeres con estudios mamaograficos positivos2,0
+Chuquisaca,10101,Sucre,2016,9,Numero de mujeres con estudios mamaograficos positivos2,2
+Cochabamba,30101,Cochabamba,2016,10,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20105,El Alto,2016,10,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20101,La Paz,2016,10,Numero de mujeres con estudios mamaograficos positivos2,0
+Potosí,50101,Potosi,2016,10,Numero de mujeres con estudios mamaograficos positivos2,0
+Beni,80201,Riberalta,2016,10,Numero de mujeres con estudios mamaograficos positivos2,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,Numero de mujeres con estudios mamaograficos positivos2,0
+Chuquisaca,10101,Sucre,2016,10,Numero de mujeres con estudios mamaograficos positivos2,3
+Cochabamba,30101,Cochabamba,2016,11,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20105,El Alto,2016,11,Numero de mujeres con estudios mamaograficos positivos2,0
+La Paz,20101,La Paz,2016,11,Numero de mujeres con estudios mamaograficos positivos2,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,Numero de mujeres con estudios mamaograficos positivos2,31
+Chuquisaca,10101,Sucre,2016,11,Numero de mujeres con estudios mamaograficos positivos2,1
+Cochabamba,30101,Cochabamba,2016,12,Numero de mujeres con estudios mamaograficos positivos2,7
+La Paz,20105,El Alto,2016,12,Numero de mujeres con estudios mamaograficos positivos2,1
+La Paz,20101,La Paz,2016,12,Numero de mujeres con estudios mamaograficos positivos2,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,Numero de mujeres con estudios mamaograficos positivos2,0
+Chuquisaca,10101,Sucre,2016,12,Numero de mujeres con estudios mamaograficos positivos2,5
+Tarija,60101,Tarija,2016,12,Numero de mujeres con estudios mamaograficos positivos2,0
+Potosí,50202,Chayanta,2016,1,Numero de mujeres con estudios mamaograficos positivos3,12
+Cochabamba,30101,Cochabamba,2016,1,Numero de mujeres con estudios mamaograficos positivos3,5
+La Paz,20105,El Alto,2016,1,Numero de mujeres con estudios mamaograficos positivos3,0
+La Paz,20101,La Paz,2016,1,Numero de mujeres con estudios mamaograficos positivos3,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,Numero de mujeres con estudios mamaograficos positivos3,1
+Chuquisaca,10101,Sucre,2016,1,Numero de mujeres con estudios mamaograficos positivos3,25
+Tarija,60202,Bermejo,2016,2,Numero de mujeres con estudios mamaograficos positivos3,0
+Cochabamba,30101,Cochabamba,2016,2,Numero de mujeres con estudios mamaograficos positivos3,1
+La Paz,20101,La Paz,2016,2,Numero de mujeres con estudios mamaograficos positivos3,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,Numero de mujeres con estudios mamaograficos positivos3,0
+Chuquisaca,10101,Sucre,2016,2,Numero de mujeres con estudios mamaograficos positivos3,2
+Tarija,60101,Tarija,2016,2,Numero de mujeres con estudios mamaograficos positivos3,0
+Potosí,50801,Tupiza,2016,2,Numero de mujeres con estudios mamaograficos positivos3,5
+Cochabamba,30101,Cochabamba,2016,3,Numero de mujeres con estudios mamaograficos positivos3,2
+La Paz,20101,La Paz,2016,3,Numero de mujeres con estudios mamaograficos positivos3,24
+La Paz,20102,Palca,2016,3,Numero de mujeres con estudios mamaograficos positivos3,0
+Cochabamba,31205,Puerto Villarroel,2016,3,Numero de mujeres con estudios mamaograficos positivos3,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,Numero de mujeres con estudios mamaograficos positivos3,1
+Chuquisaca,10101,Sucre,2016,3,Numero de mujeres con estudios mamaograficos positivos3,6
+Tarija,60101,Tarija,2016,3,Numero de mujeres con estudios mamaograficos positivos3,2
+Beni,80101,Trinidad,2016,3,Numero de mujeres con estudios mamaograficos positivos3,0
+Tarija,60202,Bermejo,2016,4,Numero de mujeres con estudios mamaograficos positivos3,1
+Cochabamba,30101,Cochabamba,2016,4,Numero de mujeres con estudios mamaograficos positivos3,19
+La Paz,20101,La Paz,2016,4,Numero de mujeres con estudios mamaograficos positivos3,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,Numero de mujeres con estudios mamaograficos positivos3,0
+Chuquisaca,10101,Sucre,2016,4,Numero de mujeres con estudios mamaograficos positivos3,20
+Potosí,50801,Tupiza,2016,4,Numero de mujeres con estudios mamaograficos positivos3,1
+Cochabamba,30101,Cochabamba,2016,5,Numero de mujeres con estudios mamaograficos positivos3,0
+Potosí,50601,Cotagaita,2016,5,Numero de mujeres con estudios mamaograficos positivos3,3
+La Paz,20101,La Paz,2016,5,Numero de mujeres con estudios mamaograficos positivos3,22
+Potosí,50701,Sacaca,2016,5,Numero de mujeres con estudios mamaograficos positivos3,0
+Santa Cruz,70301,San Ignacio De Velasco,2016,5,Numero de mujeres con estudios mamaograficos positivos3,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,Numero de mujeres con estudios mamaograficos positivos3,1
+Chuquisaca,10101,Sucre,2016,5,Numero de mujeres con estudios mamaograficos positivos3,14
+Cochabamba,30801,Cliza,2016,6,Numero de mujeres con estudios mamaograficos positivos3,0
+Cochabamba,30101,Cochabamba,2016,6,Numero de mujeres con estudios mamaograficos positivos3,0
+La Paz,20101,La Paz,2016,6,Numero de mujeres con estudios mamaograficos positivos3,22
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,Numero de mujeres con estudios mamaograficos positivos3,18
+Chuquisaca,10101,Sucre,2016,6,Numero de mujeres con estudios mamaograficos positivos3,16
+Cochabamba,30101,Cochabamba,2016,7,Numero de mujeres con estudios mamaograficos positivos3,48
+La Paz,20101,La Paz,2016,7,Numero de mujeres con estudios mamaograficos positivos3,24
+Santa Cruz,71402,Puerto Quijarro,2016,7,Numero de mujeres con estudios mamaograficos positivos3,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,Numero de mujeres con estudios mamaograficos positivos3,4
+Chuquisaca,10101,Sucre,2016,7,Numero de mujeres con estudios mamaograficos positivos3,12
+Tarija,60202,Bermejo,2016,8,Numero de mujeres con estudios mamaograficos positivos3,0
+Cochabamba,30101,Cochabamba,2016,8,Numero de mujeres con estudios mamaograficos positivos3,0
+Santa Cruz,70105,El Torno,2016,8,Numero de mujeres con estudios mamaograficos positivos3,1
+La Paz,20101,La Paz,2016,8,Numero de mujeres con estudios mamaograficos positivos3,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,8,Numero de mujeres con estudios mamaograficos positivos3,1
+Chuquisaca,10101,Sucre,2016,8,Numero de mujeres con estudios mamaograficos positivos3,7
+Tarija,60301,Yacuiba,2016,8,Numero de mujeres con estudios mamaograficos positivos3,4
+Cochabamba,30101,Cochabamba,2016,9,Numero de mujeres con estudios mamaograficos positivos3,0
+Santa Cruz,70105,El Torno,2016,9,Numero de mujeres con estudios mamaograficos positivos3,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,Numero de mujeres con estudios mamaograficos positivos3,1
+Chuquisaca,10101,Sucre,2016,9,Numero de mujeres con estudios mamaograficos positivos3,2
+Cochabamba,30101,Cochabamba,2016,10,Numero de mujeres con estudios mamaograficos positivos3,1
+La Paz,20105,El Alto,2016,10,Numero de mujeres con estudios mamaograficos positivos3,0
+La Paz,20101,La Paz,2016,10,Numero de mujeres con estudios mamaograficos positivos3,18
+Potosí,50101,Potosi,2016,10,Numero de mujeres con estudios mamaograficos positivos3,1
+Beni,80201,Riberalta,2016,10,Numero de mujeres con estudios mamaograficos positivos3,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,Numero de mujeres con estudios mamaograficos positivos3,0
+Chuquisaca,10101,Sucre,2016,10,Numero de mujeres con estudios mamaograficos positivos3,8
+Cochabamba,30101,Cochabamba,2016,11,Numero de mujeres con estudios mamaograficos positivos3,2
+La Paz,20105,El Alto,2016,11,Numero de mujeres con estudios mamaograficos positivos3,0
+La Paz,20101,La Paz,2016,11,Numero de mujeres con estudios mamaograficos positivos3,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,Numero de mujeres con estudios mamaograficos positivos3,387
+Chuquisaca,10101,Sucre,2016,11,Numero de mujeres con estudios mamaograficos positivos3,15
+Cochabamba,30101,Cochabamba,2016,12,Numero de mujeres con estudios mamaograficos positivos3,46
+La Paz,20105,El Alto,2016,12,Numero de mujeres con estudios mamaograficos positivos3,1
+La Paz,20101,La Paz,2016,12,Numero de mujeres con estudios mamaograficos positivos3,45
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,Numero de mujeres con estudios mamaograficos positivos3,1
+Chuquisaca,10101,Sucre,2016,12,Numero de mujeres con estudios mamaograficos positivos3,12
+Tarija,60101,Tarija,2016,12,Numero de mujeres con estudios mamaograficos positivos3,0
+Potosí,50202,Chayanta,2016,1,Numero de mujeres con estudios mamaograficos positivos4,0
+Cochabamba,30101,Cochabamba,2016,1,Numero de mujeres con estudios mamaograficos positivos4,1
+La Paz,20105,El Alto,2016,1,Numero de mujeres con estudios mamaograficos positivos4,1
+La Paz,20101,La Paz,2016,1,Numero de mujeres con estudios mamaograficos positivos4,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,Numero de mujeres con estudios mamaograficos positivos4,0
+Chuquisaca,10101,Sucre,2016,1,Numero de mujeres con estudios mamaograficos positivos4,17
+Tarija,60202,Bermejo,2016,2,Numero de mujeres con estudios mamaograficos positivos4,1
+Cochabamba,30101,Cochabamba,2016,2,Numero de mujeres con estudios mamaograficos positivos4,1
+La Paz,20101,La Paz,2016,2,Numero de mujeres con estudios mamaograficos positivos4,39
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,Numero de mujeres con estudios mamaograficos positivos4,0
+Chuquisaca,10101,Sucre,2016,2,Numero de mujeres con estudios mamaograficos positivos4,4
+Tarija,60101,Tarija,2016,2,Numero de mujeres con estudios mamaograficos positivos4,1
+Potosí,50801,Tupiza,2016,2,Numero de mujeres con estudios mamaograficos positivos4,1
+Cochabamba,30101,Cochabamba,2016,3,Numero de mujeres con estudios mamaograficos positivos4,0
+La Paz,20101,La Paz,2016,3,Numero de mujeres con estudios mamaograficos positivos4,40
+La Paz,20102,Palca,2016,3,Numero de mujeres con estudios mamaograficos positivos4,0
+Cochabamba,31205,Puerto Villarroel,2016,3,Numero de mujeres con estudios mamaograficos positivos4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,Numero de mujeres con estudios mamaograficos positivos4,0
+Chuquisaca,10101,Sucre,2016,3,Numero de mujeres con estudios mamaograficos positivos4,6
+Tarija,60101,Tarija,2016,3,Numero de mujeres con estudios mamaograficos positivos4,1
+Beni,80101,Trinidad,2016,3,Numero de mujeres con estudios mamaograficos positivos4,0
+Tarija,60202,Bermejo,2016,4,Numero de mujeres con estudios mamaograficos positivos4,1
+Cochabamba,30101,Cochabamba,2016,4,Numero de mujeres con estudios mamaograficos positivos4,53
+La Paz,20101,La Paz,2016,4,Numero de mujeres con estudios mamaograficos positivos4,20
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,Numero de mujeres con estudios mamaograficos positivos4,2
+Chuquisaca,10101,Sucre,2016,4,Numero de mujeres con estudios mamaograficos positivos4,35
+Potosí,50801,Tupiza,2016,4,Numero de mujeres con estudios mamaograficos positivos4,0
+Cochabamba,30101,Cochabamba,2016,5,Numero de mujeres con estudios mamaograficos positivos4,3
+Potosí,50601,Cotagaita,2016,5,Numero de mujeres con estudios mamaograficos positivos4,0
+La Paz,20101,La Paz,2016,5,Numero de mujeres con estudios mamaograficos positivos4,30
+Potosí,50701,Sacaca,2016,5,Numero de mujeres con estudios mamaograficos positivos4,4
+Santa Cruz,70301,San Ignacio De Velasco,2016,5,Numero de mujeres con estudios mamaograficos positivos4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,Numero de mujeres con estudios mamaograficos positivos4,2
+Chuquisaca,10101,Sucre,2016,5,Numero de mujeres con estudios mamaograficos positivos4,25
+Cochabamba,30801,Cliza,2016,6,Numero de mujeres con estudios mamaograficos positivos4,0
+Cochabamba,30101,Cochabamba,2016,6,Numero de mujeres con estudios mamaograficos positivos4,8
+La Paz,20101,La Paz,2016,6,Numero de mujeres con estudios mamaograficos positivos4,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,Numero de mujeres con estudios mamaograficos positivos4,11
+Chuquisaca,10101,Sucre,2016,6,Numero de mujeres con estudios mamaograficos positivos4,27
+Cochabamba,30101,Cochabamba,2016,7,Numero de mujeres con estudios mamaograficos positivos4,74
+La Paz,20101,La Paz,2016,7,Numero de mujeres con estudios mamaograficos positivos4,37
+Santa Cruz,71402,Puerto Quijarro,2016,7,Numero de mujeres con estudios mamaograficos positivos4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,Numero de mujeres con estudios mamaograficos positivos4,2
+Chuquisaca,10101,Sucre,2016,7,Numero de mujeres con estudios mamaograficos positivos4,19
+Tarija,60202,Bermejo,2016,8,Numero de mujeres con estudios mamaograficos positivos4,1
+Cochabamba,30101,Cochabamba,2016,8,Numero de mujeres con estudios mamaograficos positivos4,6
+Santa Cruz,70105,El Torno,2016,8,Numero de mujeres con estudios mamaograficos positivos4,0
+La Paz,20101,La Paz,2016,8,Numero de mujeres con estudios mamaograficos positivos4,36
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,8,Numero de mujeres con estudios mamaograficos positivos4,1
+Chuquisaca,10101,Sucre,2016,8,Numero de mujeres con estudios mamaograficos positivos4,21
+Tarija,60301,Yacuiba,2016,8,Numero de mujeres con estudios mamaograficos positivos4,0
+Cochabamba,30101,Cochabamba,2016,9,Numero de mujeres con estudios mamaograficos positivos4,6
+Santa Cruz,70105,El Torno,2016,9,Numero de mujeres con estudios mamaograficos positivos4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,Numero de mujeres con estudios mamaograficos positivos4,0
+Chuquisaca,10101,Sucre,2016,9,Numero de mujeres con estudios mamaograficos positivos4,13
+Cochabamba,30101,Cochabamba,2016,10,Numero de mujeres con estudios mamaograficos positivos4,1
+La Paz,20105,El Alto,2016,10,Numero de mujeres con estudios mamaograficos positivos4,1
+La Paz,20101,La Paz,2016,10,Numero de mujeres con estudios mamaograficos positivos4,15
+Potosí,50101,Potosi,2016,10,Numero de mujeres con estudios mamaograficos positivos4,0
+Beni,80201,Riberalta,2016,10,Numero de mujeres con estudios mamaograficos positivos4,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,Numero de mujeres con estudios mamaograficos positivos4,1
+Chuquisaca,10101,Sucre,2016,10,Numero de mujeres con estudios mamaograficos positivos4,4
+Cochabamba,30101,Cochabamba,2016,11,Numero de mujeres con estudios mamaograficos positivos4,4
+La Paz,20105,El Alto,2016,11,Numero de mujeres con estudios mamaograficos positivos4,1
+La Paz,20101,La Paz,2016,11,Numero de mujeres con estudios mamaograficos positivos4,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,Numero de mujeres con estudios mamaograficos positivos4,0
+Chuquisaca,10101,Sucre,2016,11,Numero de mujeres con estudios mamaograficos positivos4,13
+Cochabamba,30101,Cochabamba,2016,12,Numero de mujeres con estudios mamaograficos positivos4,85
+La Paz,20105,El Alto,2016,12,Numero de mujeres con estudios mamaograficos positivos4,2
+La Paz,20101,La Paz,2016,12,Numero de mujeres con estudios mamaograficos positivos4,24
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,Numero de mujeres con estudios mamaograficos positivos4,2
+Chuquisaca,10101,Sucre,2016,12,Numero de mujeres con estudios mamaograficos positivos4,11
+Tarija,60101,Tarija,2016,12,Numero de mujeres con estudios mamaograficos positivos4,1
+Potosí,50202,Chayanta,2016,1,TOTAL,12
+Cochabamba,30101,Cochabamba,2016,1,TOTAL,10
+La Paz,20105,El Alto,2016,1,TOTAL,1
+La Paz,20101,La Paz,2016,1,TOTAL,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,TOTAL,14
+Chuquisaca,10101,Sucre,2016,1,TOTAL,46
+Tarija,60202,Bermejo,2016,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,2,TOTAL,2
+La Paz,20101,La Paz,2016,2,TOTAL,52
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,TOTAL,2
+Chuquisaca,10101,Sucre,2016,2,TOTAL,6
+Tarija,60101,Tarija,2016,2,TOTAL,1
+Potosí,50801,Tupiza,2016,2,TOTAL,15
+Cochabamba,30101,Cochabamba,2016,3,TOTAL,2
+La Paz,20101,La Paz,2016,3,TOTAL,65
+La Paz,20102,Palca,2016,3,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2016,3,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,TOTAL,15
+Chuquisaca,10101,Sucre,2016,3,TOTAL,13
+Tarija,60101,Tarija,2016,3,TOTAL,3
+Beni,80101,Trinidad,2016,3,TOTAL,1
+Tarija,60202,Bermejo,2016,4,TOTAL,2
+Cochabamba,30101,Cochabamba,2016,4,TOTAL,73
+La Paz,20101,La Paz,2016,4,TOTAL,40
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,TOTAL,2
+Chuquisaca,10101,Sucre,2016,4,TOTAL,55
+Potosí,50801,Tupiza,2016,4,TOTAL,10
+Cochabamba,30101,Cochabamba,2016,5,TOTAL,3
+Potosí,50601,Cotagaita,2016,5,TOTAL,3
+La Paz,20101,La Paz,2016,5,TOTAL,53
+Potosí,50701,Sacaca,2016,5,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2016,5,TOTAL,23
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,TOTAL,3
+Chuquisaca,10101,Sucre,2016,5,TOTAL,41
+Cochabamba,30801,Cliza,2016,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,6,TOTAL,8
+La Paz,20101,La Paz,2016,6,TOTAL,46
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,TOTAL,31
+Chuquisaca,10101,Sucre,2016,6,TOTAL,44
+Cochabamba,30101,Cochabamba,2016,7,TOTAL,122
+La Paz,20101,La Paz,2016,7,TOTAL,65
+Santa Cruz,71402,Puerto Quijarro,2016,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,TOTAL,6
+Chuquisaca,10101,Sucre,2016,7,TOTAL,32
+Tarija,60202,Bermejo,2016,8,TOTAL,2
+Cochabamba,30101,Cochabamba,2016,8,TOTAL,6
+Santa Cruz,70105,El Torno,2016,8,TOTAL,1
+La Paz,20101,La Paz,2016,8,TOTAL,64
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,8,TOTAL,4
+Chuquisaca,10101,Sucre,2016,8,TOTAL,29
+Tarija,60301,Yacuiba,2016,8,TOTAL,45
+Cochabamba,30101,Cochabamba,2016,9,TOTAL,6
+Santa Cruz,70105,El Torno,2016,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,TOTAL,1
+Chuquisaca,10101,Sucre,2016,9,TOTAL,17
+Cochabamba,30101,Cochabamba,2016,10,TOTAL,2
+La Paz,20105,El Alto,2016,10,TOTAL,1
+La Paz,20101,La Paz,2016,10,TOTAL,33
+Potosí,50101,Potosi,2016,10,TOTAL,1
+Beni,80201,Riberalta,2016,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,TOTAL,1
+Chuquisaca,10101,Sucre,2016,10,TOTAL,15
+Cochabamba,30101,Cochabamba,2016,11,TOTAL,6
+La Paz,20105,El Alto,2016,11,TOTAL,1
+La Paz,20101,La Paz,2016,11,TOTAL,33
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,TOTAL,421
+Chuquisaca,10101,Sucre,2016,11,TOTAL,29
+Cochabamba,30101,Cochabamba,2016,12,TOTAL,139
+La Paz,20105,El Alto,2016,12,TOTAL,4
+La Paz,20101,La Paz,2016,12,TOTAL,76
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,TOTAL,3
+Chuquisaca,10101,Sucre,2016,12,TOTAL,28
+Tarija,60101,Tarija,2016,12,TOTAL,1

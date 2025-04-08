@@ -1,0 +1,31 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,71101,Concepcion,2018,1,Partos atendidos por partera en servicio,1
+Oruro,40401,Curahuara De Carangas,2018,3,Partos atendidos por partera en servicio,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,3,Partos atendidos por partera en servicio,21
+Potosí,50401,Colquechaca,2018,4,Partos atendidos por partera en servicio,1
+Beni,80501,San Ignacio,2018,4,Partos atendidos por partera en servicio,1
+La Paz,20901,Luribay,2018,7,Partos atendidos por partera en servicio,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,8,Partos atendidos por partera en servicio,4
+Santa Cruz,70706,Camiri,2018,9,Partos atendidos por partera en servicio,32
+Potosí,50801,Tupiza,2018,9,Partos atendidos por partera en servicio,26
+Potosí,51102,"Caiza ""d""",2018,10,Partos atendidos por partera en servicio,3
+Santa Cruz,70706,Camiri,2018,11,Partos atendidos por partera en servicio,28
+Beni,80501,San Ignacio,2018,11,Partos atendidos por partera en servicio,1
+Santa Cruz,70706,Camiri,2018,12,Partos atendidos por partera en servicio,25
+Potosí,50601,Cotagaita,2018,12,Partos atendidos por partera en servicio,1
+La Paz,21105,La Asunta,2018,12,Partos atendidos por partera en servicio,1
+Santa Cruz,71101,Concepcion,2018,1,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2018,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,3,TOTAL,21
+Potosí,50401,Colquechaca,2018,4,TOTAL,1
+Beni,80501,San Ignacio,2018,4,TOTAL,1
+La Paz,20901,Luribay,2018,7,TOTAL,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,8,TOTAL,4
+Santa Cruz,70706,Camiri,2018,9,TOTAL,32
+Potosí,50801,Tupiza,2018,9,TOTAL,26
+Potosí,51102,"Caiza ""d""",2018,10,TOTAL,3
+Santa Cruz,70706,Camiri,2018,11,TOTAL,28
+Beni,80501,San Ignacio,2018,11,TOTAL,1
+Santa Cruz,70706,Camiri,2018,12,TOTAL,25
+Potosí,50601,Cotagaita,2018,12,TOTAL,1
+La Paz,21105,La Asunta,2018,12,TOTAL,1

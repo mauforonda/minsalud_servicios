@@ -1,0 +1,2617 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20201,Achacachi,2008,1,DIU: Usuarias nuevas,2
+Cochabamba,30201,Aiquile,2008,1,DIU: Usuarias nuevas,3
+Oruro,40603,Antequera,2008,1,DIU: Usuarias nuevas,2
+Cochabamba,30501,Arani,2008,1,DIU: Usuarias nuevas,2
+Tarija,60202,Bermejo,2008,1,DIU: Usuarias nuevas,13
+Potosí,50301,Betanzos,2008,1,DIU: Usuarias nuevas,2
+Chuquisaca,10701,Camargo,2008,1,DIU: Usuarias nuevas,3
+Santa Cruz,70706,Camiri,2008,1,DIU: Usuarias nuevas,2
+Cochabamba,30701,Capinota,2008,1,DIU: Usuarias nuevas,3
+La Paz,22001,Caranavi,2008,1,DIU: Usuarias nuevas,8
+Oruro,40201,Challapata,2008,1,DIU: Usuarias nuevas,3
+Cochabamba,30801,Cliza,2008,1,DIU: Usuarias nuevas,2
+Pando,90101,Cobija,2008,1,DIU: Usuarias nuevas,7
+Cochabamba,30101,Cochabamba,2008,1,DIU: Usuarias nuevas,152
+Cochabamba,30905,Colcapirhua,2008,1,DIU: Usuarias nuevas,10
+Cochabamba,31002,Colomi,2008,1,DIU: Usuarias nuevas,2
+Santa Cruz,70603,Colpa Belgica,2008,1,DIU: Usuarias nuevas,1
+La Paz,21004,Colquiri,2008,1,DIU: Usuarias nuevas,1
+Santa Cruz,71301,Comarapa,2008,1,DIU: Usuarias nuevas,2
+La Paz,21701,Copacabana,2008,1,DIU: Usuarias nuevas,1
+La Paz,21402,Coripata,2008,1,DIU: Usuarias nuevas,2
+Potosí,50601,Cotagaita,2008,1,DIU: Usuarias nuevas,2
+Santa Cruz,70102,Cotoca,2008,1,DIU: Usuarias nuevas,10
+Santa Cruz,71106,Cuatro Cañadas,2008,1,DIU: Usuarias nuevas,5
+Chuquisaca,10902,Culpina,2008,1,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,1,DIU: Usuarias nuevas,123
+Santa Cruz,71503,El Puente(stc),2008,1,DIU: Usuarias nuevas,1
+Santa Cruz,70105,El Torno,2008,1,DIU: Usuarias nuevas,23
+Santa Cruz,71004,Fernandez Alonso,2008,1,DIU: Usuarias nuevas,1
+Santa Cruz,71002,General Saavedra,2008,1,DIU: Usuarias nuevas,1
+La Paz,20602,Guanay,2008,1,DIU: Usuarias nuevas,1
+Beni,80202,Guayaramerin,2008,1,DIU: Usuarias nuevas,7
+Oruro,40701,Huanuni,2008,1,DIU: Usuarias nuevas,5
+Chuquisaca,10703,Incahuasi,2008,1,DIU: Usuarias nuevas,1
+La Paz,20806,Jesus De Machaca,2008,1,DIU: Usuarias nuevas,1
+La Paz,21105,La Asunta,2008,1,DIU: Usuarias nuevas,1
+Santa Cruz,70104,La Guardia,2008,1,DIU: Usuarias nuevas,12
+La Paz,20101,La Paz,2008,1,DIU: Usuarias nuevas,296
+Chuquisaca,10903,Las Carreras,2008,1,DIU: Usuarias nuevas,1
+La Paz,21006,Licoma Pampa,2008,1,DIU: Usuarias nuevas,1
+Potosí,50203,Llallagua,2008,1,DIU: Usuarias nuevas,3
+La Paz,20901,Luribay,2008,1,DIU: Usuarias nuevas,1
+Beni,80801,Magdalena,2008,1,DIU: Usuarias nuevas,1
+Santa Cruz,70903,Mairana,2008,1,DIU: Usuarias nuevas,6
+La Paz,20607,Mapiri,2008,1,DIU: Usuarias nuevas,1
+Cochabamba,31301,Mizque,2008,1,DIU: Usuarias nuevas,5
+Chuquisaca,10501,Monteagudo,2008,1,DIU: Usuarias nuevas,7
+Santa Cruz,71001,Montero,2008,1,DIU: Usuarias nuevas,17
+Santa Cruz,70202,Okinawa,2008,1,DIU: Usuarias nuevas,4
+Oruro,40101,Oruro,2008,1,DIU: Usuarias nuevas,47
+Tarija,60201,Padcaya,2008,1,DIU: Usuarias nuevas,2
+Chuquisaca,10401,Padilla,2008,1,DIU: Usuarias nuevas,3
+Santa Cruz,70502,Pailon,2008,1,DIU: Usuarias nuevas,3
+Santa Cruz,70902,Pampa Grande,2008,1,DIU: Usuarias nuevas,2
+Cochabamba,31202,Pojo (cbba),2008,1,DIU: Usuarias nuevas,1
+Santa Cruz,70804,Postrer Valle,2008,1,DIU: Usuarias nuevas,1
+Potosí,50101,Potosi,2008,1,DIU: Usuarias nuevas,32
+Santa Cruz,71402,Puerto Quijarro,2008,1,DIU: Usuarias nuevas,2
+Cochabamba,31205,Puerto Villarroel,2008,1,DIU: Usuarias nuevas,7
+Cochabamba,31401,Punata,2008,1,DIU: Usuarias nuevas,11
+Cochabamba,30901,Quillacollo,2008,1,DIU: Usuarias nuevas,18
+La Paz,21002,Quime,2008,1,DIU: Usuarias nuevas,2
+Beni,80301,Reyes,2008,1,DIU: Usuarias nuevas,2
+Beni,80201,Riberalta,2008,1,DIU: Usuarias nuevas,4
+Santa Cruz,70503,Robore,2008,1,DIU: Usuarias nuevas,1
+Beni,80304,Rurrenabaque,2008,1,DIU: Usuarias nuevas,1
+Cochabamba,31001,Sacaba,2008,1,DIU: Usuarias nuevas,30
+Santa Cruz,70901,Samaipata,2008,1,DIU: Usuarias nuevas,1
+Beni,80602,San Andres,2008,1,DIU: Usuarias nuevas,1
+Cochabamba,31403,San Benito,2008,1,DIU: Usuarias nuevas,1
+Beni,80302,San Borja,2008,1,DIU: Usuarias nuevas,4
+La Paz,21502,San Buena Ventura,2008,1,DIU: Usuarias nuevas,1
+Santa Cruz,70402,San Carlos,2008,1,DIU: Usuarias nuevas,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,1,DIU: Usuarias nuevas,9
+Santa Cruz,71102,San Javier(stc),2008,1,DIU: Usuarias nuevas,2
+Santa Cruz,70501,San Jose De Chiquitos,2008,1,DIU: Usuarias nuevas,2
+Santa Cruz,70404,San Juan De Yapacani,2008,1,DIU: Usuarias nuevas,4
+Santa Cruz,71104,San Julian,2008,1,DIU: Usuarias nuevas,4
+Tarija,60501,San Lorenzo(tja),2008,1,DIU: Usuarias nuevas,1
+Chuquisaca,10702,San Lucas,2008,1,DIU: Usuarias nuevas,4
+Santa Cruz,71201,San Matias,2008,1,DIU: Usuarias nuevas,1
+Beni,80702,San Ramon,2008,1,DIU: Usuarias nuevas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,DIU: Usuarias nuevas,296
+Beni,80303,Santa Rosa,2008,1,DIU: Usuarias nuevas,2
+Santa Cruz,70602,Santa Rosa Del Sara,2008,1,DIU: Usuarias nuevas,4
+Cochabamba,30902,Sipe Sipe,2008,1,DIU: Usuarias nuevas,16
+Chuquisaca,10101,Sucre,2008,1,DIU: Usuarias nuevas,118
+Tarija,60101,Tarija,2008,1,DIU: Usuarias nuevas,83
+Cochabamba,30903,Tiquipaya,2008,1,DIU: Usuarias nuevas,19
+Cochabamba,30802,Toco,2008,1,DIU: Usuarias nuevas,1
+Cochabamba,31201,Totora(cbba),2008,1,DIU: Usuarias nuevas,2
+Santa Cruz,70802,Trigal,2008,1,DIU: Usuarias nuevas,1
+Beni,80101,Trinidad,2008,1,DIU: Usuarias nuevas,24
+Potosí,50801,Tupiza,2008,1,DIU: Usuarias nuevas,6
+Tarija,60401,Uriondo (a. Concepcion),2008,1,DIU: Usuarias nuevas,3
+Santa Cruz,71502,Urubicha,2008,1,DIU: Usuarias nuevas,1
+Potosí,51201,Uyuni,2008,1,DIU: Usuarias nuevas,2
+Santa Cruz,70801,Vallegrande,2008,1,DIU: Usuarias nuevas,6
+La Paz,20801,Viacha,2008,1,DIU: Usuarias nuevas,4
+Tarija,60303,Villa Montes,2008,1,DIU: Usuarias nuevas,5
+Cochabamba,31402,Villa Rivero,2008,1,DIU: Usuarias nuevas,1
+Cochabamba,31003,Villa Tunari,2008,1,DIU: Usuarias nuevas,6
+Potosí,51501,Villazon,2008,1,DIU: Usuarias nuevas,2
+Cochabamba,30904,Vinto,2008,1,DIU: Usuarias nuevas,4
+Santa Cruz,70201,Warnes,2008,1,DIU: Usuarias nuevas,15
+Tarija,60301,Yacuiba,2008,1,DIU: Usuarias nuevas,8
+Santa Cruz,70403,Yapacani,2008,1,DIU: Usuarias nuevas,7
+La Paz,20104,Achocalla,2008,2,DIU: Usuarias nuevas,1
+Cochabamba,30201,Aiquile,2008,2,DIU: Usuarias nuevas,6
+Oruro,40603,Antequera,2008,2,DIU: Usuarias nuevas,1
+Cochabamba,30402,Anzaldo,2008,2,DIU: Usuarias nuevas,1
+Cochabamba,30501,Arani,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,2,DIU: Usuarias nuevas,1
+Potosí,50802,Atocha,2008,2,DIU: Usuarias nuevas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,2,DIU: Usuarias nuevas,2
+La Paz,21203,Batallas,2008,2,DIU: Usuarias nuevas,1
+Beni,80802,Baures,2008,2,DIU: Usuarias nuevas,1
+Tarija,60202,Bermejo,2008,2,DIU: Usuarias nuevas,6
+Santa Cruz,70401,Buena Vista,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,70703,Cabezas,2008,2,DIU: Usuarias nuevas,1
+Chuquisaca,10701,Camargo,2008,2,DIU: Usuarias nuevas,7
+Santa Cruz,70706,Camiri,2008,2,DIU: Usuarias nuevas,3
+Cochabamba,30701,Capinota,2008,2,DIU: Usuarias nuevas,1
+La Paz,22001,Caranavi,2008,2,DIU: Usuarias nuevas,4
+Santa Cruz,70702,Charagua,2008,2,DIU: Usuarias nuevas,1
+Potosí,50202,Chayanta,2008,2,DIU: Usuarias nuevas,1
+Cochabamba,31204,Chimore,2008,2,DIU: Usuarias nuevas,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,2,DIU: Usuarias nuevas,1
+Cochabamba,30801,Cliza,2008,2,DIU: Usuarias nuevas,1
+Pando,90101,Cobija,2008,2,DIU: Usuarias nuevas,3
+Cochabamba,30101,Cochabamba,2008,2,DIU: Usuarias nuevas,146
+Cochabamba,30905,Colcapirhua,2008,2,DIU: Usuarias nuevas,2
+Cochabamba,31002,Colomi,2008,2,DIU: Usuarias nuevas,2
+Santa Cruz,70603,Colpa Belgica,2008,2,DIU: Usuarias nuevas,1
+La Paz,21306,Colquencha,2008,2,DIU: Usuarias nuevas,1
+La Paz,21004,Colquiri,2008,2,DIU: Usuarias nuevas,3
+Santa Cruz,71301,Comarapa,2008,2,DIU: Usuarias nuevas,2
+La Paz,21402,Coripata,2008,2,DIU: Usuarias nuevas,1
+Potosí,50601,Cotagaita,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,70102,Cotoca,2008,2,DIU: Usuarias nuevas,4
+Santa Cruz,71106,Cuatro Cañadas,2008,2,DIU: Usuarias nuevas,3
+Chuquisaca,10902,Culpina,2008,2,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,2,DIU: Usuarias nuevas,123
+Santa Cruz,71503,El Puente(stc),2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,70105,El Torno,2008,2,DIU: Usuarias nuevas,16
+Chuquisaca,10405,El Villar,2008,2,DIU: Usuarias nuevas,1
+Tarija,60601,Entre Rios,2008,2,DIU: Usuarias nuevas,2
+Santa Cruz,71004,Fernandez Alonso,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,71002,General Saavedra,2008,2,DIU: Usuarias nuevas,5
+Beni,80202,Guayaramerin,2008,2,DIU: Usuarias nuevas,13
+Chuquisaca,10502,Huacareta,2008,2,DIU: Usuarias nuevas,1
+Oruro,40501,Huachacalla,2008,2,DIU: Usuarias nuevas,1
+Oruro,40701,Huanuni,2008,2,DIU: Usuarias nuevas,2
+Chuquisaca,10703,Incahuasi,2008,2,DIU: Usuarias nuevas,1
+La Paz,21102,Irupana (villa De Lanza),2008,2,DIU: Usuarias nuevas,2
+La Paz,21501,Ixiamas,2008,2,DIU: Usuarias nuevas,1
+La Paz,21105,La Asunta,2008,2,DIU: Usuarias nuevas,2
+Santa Cruz,70104,La Guardia,2008,2,DIU: Usuarias nuevas,11
+La Paz,20101,La Paz,2008,2,DIU: Usuarias nuevas,200
+Potosí,50203,Llallagua,2008,2,DIU: Usuarias nuevas,1
+Chuquisaca,11003,Machareti,2008,2,DIU: Usuarias nuevas,1
+Beni,80801,Magdalena,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,70903,Mairana,2008,2,DIU: Usuarias nuevas,1
+La Paz,20607,Mapiri,2008,2,DIU: Usuarias nuevas,1
+La Paz,20103,Mecapaca,2008,2,DIU: Usuarias nuevas,1
+Cochabamba,31301,Mizque,2008,2,DIU: Usuarias nuevas,3
+Chuquisaca,10501,Monteagudo,2008,2,DIU: Usuarias nuevas,7
+Santa Cruz,71001,Montero,2008,2,DIU: Usuarias nuevas,13
+Santa Cruz,70202,Okinawa,2008,2,DIU: Usuarias nuevas,1
+Oruro,40101,Oruro,2008,2,DIU: Usuarias nuevas,30
+Tarija,60201,Padcaya,2008,2,DIU: Usuarias nuevas,1
+Chuquisaca,10401,Padilla,2008,2,DIU: Usuarias nuevas,4
+Santa Cruz,70502,Pailon,2008,2,DIU: Usuarias nuevas,6
+La Paz,21104,Palos Blancos,2008,2,DIU: Usuarias nuevas,2
+Santa Cruz,70902,Pampa Grande,2008,2,DIU: Usuarias nuevas,1
+Chuquisaca,10103,Poroma,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,70601,Portachuelo,2008,2,DIU: Usuarias nuevas,6
+Santa Cruz,70804,Postrer Valle,2008,2,DIU: Usuarias nuevas,2
+Potosí,50101,Potosi,2008,2,DIU: Usuarias nuevas,21
+Cochabamba,31205,Puerto Villarroel,2008,2,DIU: Usuarias nuevas,6
+Cochabamba,31401,Punata,2008,2,DIU: Usuarias nuevas,8
+Cochabamba,30901,Quillacollo,2008,2,DIU: Usuarias nuevas,10
+Beni,80201,Riberalta,2008,2,DIU: Usuarias nuevas,4
+Beni,80304,Rurrenabaque,2008,2,DIU: Usuarias nuevas,3
+Cochabamba,31001,Sacaba,2008,2,DIU: Usuarias nuevas,18
+Beni,80302,San Borja,2008,2,DIU: Usuarias nuevas,5
+Santa Cruz,70402,San Carlos,2008,2,DIU: Usuarias nuevas,4
+Santa Cruz,70301,San Ignacio De Velasco,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,71102,San Javier(stc),2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,2,DIU: Usuarias nuevas,5
+Santa Cruz,70404,San Juan De Yapacani,2008,2,DIU: Usuarias nuevas,4
+Santa Cruz,71104,San Julian,2008,2,DIU: Usuarias nuevas,4
+Tarija,60501,San Lorenzo(tja),2008,2,DIU: Usuarias nuevas,5
+Chuquisaca,10702,San Lucas,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,71201,San Matias,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,71005,San Pedro,2008,2,DIU: Usuarias nuevas,1
+Beni,80401,Santa Ana,2008,2,DIU: Usuarias nuevas,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,DIU: Usuarias nuevas,252
+Santa Cruz,70602,Santa Rosa Del Sara,2008,2,DIU: Usuarias nuevas,7
+Cochabamba,30902,Sipe Sipe,2008,2,DIU: Usuarias nuevas,11
+Chuquisaca,10101,Sucre,2008,2,DIU: Usuarias nuevas,126
+Cochabamba,30401,Tarata,2008,2,DIU: Usuarias nuevas,1
+Tarija,60101,Tarija,2008,2,DIU: Usuarias nuevas,81
+Cochabamba,30903,Tiquipaya,2008,2,DIU: Usuarias nuevas,11
+Cochabamba,31601,Tiraque (cbba),2008,2,DIU: Usuarias nuevas,3
+Beni,80101,Trinidad,2008,2,DIU: Usuarias nuevas,21
+Potosí,50801,Tupiza,2008,2,DIU: Usuarias nuevas,6
+Tarija,60401,Uriondo (a. Concepcion),2008,2,DIU: Usuarias nuevas,2
+Santa Cruz,71502,Urubicha,2008,2,DIU: Usuarias nuevas,3
+Potosí,51201,Uyuni,2008,2,DIU: Usuarias nuevas,1
+Santa Cruz,70801,Vallegrande,2008,2,DIU: Usuarias nuevas,5
+La Paz,20801,Viacha,2008,2,DIU: Usuarias nuevas,9
+Tarija,60303,Villa Montes,2008,2,DIU: Usuarias nuevas,7
+Cochabamba,31402,Villa Rivero,2008,2,DIU: Usuarias nuevas,2
+Cochabamba,31003,Villa Tunari,2008,2,DIU: Usuarias nuevas,6
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,2,DIU: Usuarias nuevas,2
+Potosí,51501,Villazon,2008,2,DIU: Usuarias nuevas,1
+Cochabamba,30904,Vinto,2008,2,DIU: Usuarias nuevas,6
+Santa Cruz,70201,Warnes,2008,2,DIU: Usuarias nuevas,5
+Tarija,60301,Yacuiba,2008,2,DIU: Usuarias nuevas,7
+Santa Cruz,70403,Yapacani,2008,2,DIU: Usuarias nuevas,2
+La Paz,20201,Achacachi,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,30201,Aiquile,2008,3,DIU: Usuarias nuevas,4
+La Paz,20701,Apolo,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,3,DIU: Usuarias nuevas,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,3,DIU: Usuarias nuevas,2
+Tarija,60202,Bermejo,2008,3,DIU: Usuarias nuevas,14
+La Paz,21003,Cajuata,2008,3,DIU: Usuarias nuevas,1
+Chuquisaca,10701,Camargo,2008,3,DIU: Usuarias nuevas,5
+Santa Cruz,70706,Camiri,2008,3,DIU: Usuarias nuevas,6
+Cochabamba,30701,Capinota,2008,3,DIU: Usuarias nuevas,4
+La Paz,22001,Caranavi,2008,3,DIU: Usuarias nuevas,3
+Oruro,40201,Challapata,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,70702,Charagua,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,30801,Cliza,2008,3,DIU: Usuarias nuevas,5
+Pando,90101,Cobija,2008,3,DIU: Usuarias nuevas,6
+Cochabamba,30101,Cochabamba,2008,3,DIU: Usuarias nuevas,237
+Cochabamba,30905,Colcapirhua,2008,3,DIU: Usuarias nuevas,3
+Cochabamba,31002,Colomi,2008,3,DIU: Usuarias nuevas,3
+Santa Cruz,70603,Colpa Belgica,2008,3,DIU: Usuarias nuevas,5
+La Paz,21004,Colquiri,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,71301,Comarapa,2008,3,DIU: Usuarias nuevas,2
+La Paz,21402,Coripata,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,70102,Cotoca,2008,3,DIU: Usuarias nuevas,5
+Santa Cruz,71106,Cuatro Cañadas,2008,3,DIU: Usuarias nuevas,3
+La Paz,20105,El Alto,2008,3,DIU: Usuarias nuevas,136
+Santa Cruz,71503,El Puente(stc),2008,3,DIU: Usuarias nuevas,4
+Santa Cruz,70105,El Torno,2008,3,DIU: Usuarias nuevas,13
+Tarija,60601,Entre Rios,2008,3,DIU: Usuarias nuevas,4
+Santa Cruz,71002,General Saavedra,2008,3,DIU: Usuarias nuevas,1
+Beni,80202,Guayaramerin,2008,3,DIU: Usuarias nuevas,3
+Chuquisaca,10502,Huacareta,2008,3,DIU: Usuarias nuevas,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2008,3,DIU: Usuarias nuevas,9
+Oruro,40501,Huachacalla,2008,3,DIU: Usuarias nuevas,1
+Oruro,40701,Huanuni,2008,3,DIU: Usuarias nuevas,4
+La Paz,21102,Irupana (villa De Lanza),2008,3,DIU: Usuarias nuevas,3
+Santa Cruz,70104,La Guardia,2008,3,DIU: Usuarias nuevas,18
+La Paz,20101,La Paz,2008,3,DIU: Usuarias nuevas,255
+Potosí,50203,Llallagua,2008,3,DIU: Usuarias nuevas,2
+Chuquisaca,11003,Machareti,2008,3,DIU: Usuarias nuevas,3
+Santa Cruz,70903,Mairana,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,31301,Mizque,2008,3,DIU: Usuarias nuevas,4
+Chuquisaca,10501,Monteagudo,2008,3,DIU: Usuarias nuevas,9
+Santa Cruz,71001,Montero,2008,3,DIU: Usuarias nuevas,17
+Santa Cruz,70803,Moro Moro,2008,3,DIU: Usuarias nuevas,1
+Oruro,40101,Oruro,2008,3,DIU: Usuarias nuevas,42
+Chuquisaca,10401,Padilla,2008,3,DIU: Usuarias nuevas,9
+Santa Cruz,70502,Pailon,2008,3,DIU: Usuarias nuevas,4
+La Paz,21305,Patacamaya,2008,3,DIU: Usuarias nuevas,2
+Oruro,40602,Pazña,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,31202,Pojo (cbba),2008,3,DIU: Usuarias nuevas,2
+Chuquisaca,10103,Poroma,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,70601,Portachuelo,2008,3,DIU: Usuarias nuevas,5
+Potosí,50101,Potosi,2008,3,DIU: Usuarias nuevas,31
+Santa Cruz,70805,Pucara,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,71402,Puerto Quijarro,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,71401,Puerto Suarez,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,31205,Puerto Villarroel,2008,3,DIU: Usuarias nuevas,5
+Potosí,51101,Puna,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,31401,Punata,2008,3,DIU: Usuarias nuevas,4
+Cochabamba,30901,Quillacollo,2008,3,DIU: Usuarias nuevas,9
+La Paz,21002,Quime,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,70904,Quirusillas,2008,3,DIU: Usuarias nuevas,1
+Beni,80201,Riberalta,2008,3,DIU: Usuarias nuevas,2
+Santa Cruz,70503,Robore,2008,3,DIU: Usuarias nuevas,1
+Beni,80304,Rurrenabaque,2008,3,DIU: Usuarias nuevas,2
+Cochabamba,31001,Sacaba,2008,3,DIU: Usuarias nuevas,28
+Santa Cruz,70901,Samaipata,2008,3,DIU: Usuarias nuevas,2
+Cochabamba,31403,San Benito,2008,3,DIU: Usuarias nuevas,2
+Beni,80302,San Borja,2008,3,DIU: Usuarias nuevas,8
+La Paz,21502,San Buena Ventura,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,70402,San Carlos,2008,3,DIU: Usuarias nuevas,4
+Beni,80501,San Ignacio,2008,3,DIU: Usuarias nuevas,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,3,DIU: Usuarias nuevas,8
+Santa Cruz,71102,San Javier(stc),2008,3,DIU: Usuarias nuevas,5
+Santa Cruz,70501,San Jose De Chiquitos,2008,3,DIU: Usuarias nuevas,5
+Santa Cruz,70404,San Juan De Yapacani,2008,3,DIU: Usuarias nuevas,6
+Santa Cruz,71104,San Julian,2008,3,DIU: Usuarias nuevas,5
+Chuquisaca,10702,San Lucas,2008,3,DIU: Usuarias nuevas,1
+Beni,80702,San Ramon,2008,3,DIU: Usuarias nuevas,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,DIU: Usuarias nuevas,321
+Santa Cruz,70602,Santa Rosa Del Sara,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,30902,Sipe Sipe,2008,3,DIU: Usuarias nuevas,10
+Chuquisaca,10101,Sucre,2008,3,DIU: Usuarias nuevas,94
+Tarija,60101,Tarija,2008,3,DIU: Usuarias nuevas,65
+La Paz,20606,Tipuani,2008,3,DIU: Usuarias nuevas,2
+Cochabamba,30903,Tiquipaya,2008,3,DIU: Usuarias nuevas,17
+Cochabamba,31601,Tiraque (cbba),2008,3,DIU: Usuarias nuevas,2
+Cochabamba,30802,Toco,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,31201,Totora(cbba),2008,3,DIU: Usuarias nuevas,2
+Beni,80101,Trinidad,2008,3,DIU: Usuarias nuevas,22
+Potosí,50801,Tupiza,2008,3,DIU: Usuarias nuevas,11
+Tarija,60401,Uriondo (a. Concepcion),2008,3,DIU: Usuarias nuevas,2
+Santa Cruz,70801,Vallegrande,2008,3,DIU: Usuarias nuevas,5
+La Paz,20801,Viacha,2008,3,DIU: Usuarias nuevas,5
+Tarija,60303,Villa Montes,2008,3,DIU: Usuarias nuevas,6
+Cochabamba,31402,Villa Rivero,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,31003,Villa Tunari,2008,3,DIU: Usuarias nuevas,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,3,DIU: Usuarias nuevas,6
+Potosí,51501,Villazon,2008,3,DIU: Usuarias nuevas,1
+Cochabamba,30904,Vinto,2008,3,DIU: Usuarias nuevas,4
+Santa Cruz,70201,Warnes,2008,3,DIU: Usuarias nuevas,9
+Tarija,60301,Yacuiba,2008,3,DIU: Usuarias nuevas,16
+Santa Cruz,70403,Yapacani,2008,3,DIU: Usuarias nuevas,7
+Potosí,51302,Acacio,2008,4,DIU: Usuarias nuevas,1
+Cochabamba,30201,Aiquile,2008,4,DIU: Usuarias nuevas,4
+La Paz,20701,Apolo,2008,4,DIU: Usuarias nuevas,2
+Cochabamba,30601,Arque,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,4,DIU: Usuarias nuevas,2
+Potosí,50802,Atocha,2008,4,DIU: Usuarias nuevas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,4,DIU: Usuarias nuevas,2
+Chuquisaca,10201,Azurduy,2008,4,DIU: Usuarias nuevas,1
+Tarija,60202,Bermejo,2008,4,DIU: Usuarias nuevas,6
+Santa Cruz,70707,Boyuibe,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,70401,Buena Vista,2008,4,DIU: Usuarias nuevas,2
+Chuquisaca,10701,Camargo,2008,4,DIU: Usuarias nuevas,4
+Santa Cruz,70706,Camiri,2008,4,DIU: Usuarias nuevas,3
+Cochabamba,30701,Capinota,2008,4,DIU: Usuarias nuevas,2
+La Paz,20302,Caquiaviri,2008,4,DIU: Usuarias nuevas,1
+La Paz,22001,Caranavi,2008,4,DIU: Usuarias nuevas,8
+Oruro,40201,Challapata,2008,4,DIU: Usuarias nuevas,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,4,DIU: Usuarias nuevas,1
+Cochabamba,30801,Cliza,2008,4,DIU: Usuarias nuevas,2
+Pando,90101,Cobija,2008,4,DIU: Usuarias nuevas,5
+Cochabamba,30101,Cochabamba,2008,4,DIU: Usuarias nuevas,154
+Cochabamba,30905,Colcapirhua,2008,4,DIU: Usuarias nuevas,3
+Cochabamba,31002,Colomi,2008,4,DIU: Usuarias nuevas,2
+Santa Cruz,70603,Colpa Belgica,2008,4,DIU: Usuarias nuevas,1
+La Paz,21004,Colquiri,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,71301,Comarapa,2008,4,DIU: Usuarias nuevas,1
+La Paz,21402,Coripata,2008,4,DIU: Usuarias nuevas,3
+Santa Cruz,70102,Cotoca,2008,4,DIU: Usuarias nuevas,4
+Santa Cruz,71106,Cuatro Cañadas,2008,4,DIU: Usuarias nuevas,1
+Chuquisaca,10902,Culpina,2008,4,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,4,DIU: Usuarias nuevas,120
+Santa Cruz,71503,El Puente(stc),2008,4,DIU: Usuarias nuevas,1
+Tarija,60502,El Puente(tja),2008,4,DIU: Usuarias nuevas,3
+Santa Cruz,70105,El Torno,2008,4,DIU: Usuarias nuevas,30
+Tarija,60601,Entre Rios,2008,4,DIU: Usuarias nuevas,4
+Santa Cruz,71004,Fernandez Alonso,2008,4,DIU: Usuarias nuevas,2
+Beni,80202,Guayaramerin,2008,4,DIU: Usuarias nuevas,4
+Chuquisaca,10502,Huacareta,2008,4,DIU: Usuarias nuevas,1
+Oruro,40501,Huachacalla,2008,4,DIU: Usuarias nuevas,1
+Oruro,40701,Huanuni,2008,4,DIU: Usuarias nuevas,6
+Chuquisaca,10703,Incahuasi,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,70104,La Guardia,2008,4,DIU: Usuarias nuevas,14
+La Paz,20101,La Paz,2008,4,DIU: Usuarias nuevas,240
+Santa Cruz,70701,Lagunillas,2008,4,DIU: Usuarias nuevas,1
+Potosí,50203,Llallagua,2008,4,DIU: Usuarias nuevas,1
+Chuquisaca,11003,Machareti,2008,4,DIU: Usuarias nuevas,5
+Santa Cruz,70903,Mairana,2008,4,DIU: Usuarias nuevas,3
+Santa Cruz,71003,Mineros,2008,4,DIU: Usuarias nuevas,2
+Cochabamba,31301,Mizque,2008,4,DIU: Usuarias nuevas,1
+Chuquisaca,10303,Mojocoya,2008,4,DIU: Usuarias nuevas,1
+Chuquisaca,10501,Monteagudo,2008,4,DIU: Usuarias nuevas,4
+Santa Cruz,71001,Montero,2008,4,DIU: Usuarias nuevas,6
+Santa Cruz,70803,Moro Moro,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,70202,Okinawa,2008,4,DIU: Usuarias nuevas,1
+Oruro,40101,Oruro,2008,4,DIU: Usuarias nuevas,53
+Chuquisaca,10401,Padilla,2008,4,DIU: Usuarias nuevas,8
+Santa Cruz,70502,Pailon,2008,4,DIU: Usuarias nuevas,5
+La Paz,21305,Patacamaya,2008,4,DIU: Usuarias nuevas,1
+Cochabamba,31202,Pojo (cbba),2008,4,DIU: Usuarias nuevas,2
+Chuquisaca,10103,Poroma,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,70103,Porongo,2008,4,DIU: Usuarias nuevas,3
+Santa Cruz,70601,Portachuelo,2008,4,DIU: Usuarias nuevas,8
+Santa Cruz,70804,Postrer Valle,2008,4,DIU: Usuarias nuevas,1
+Potosí,50101,Potosi,2008,4,DIU: Usuarias nuevas,24
+La Paz,21201,Pucarani,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,71401,Puerto Suarez,2008,4,DIU: Usuarias nuevas,3
+Cochabamba,31205,Puerto Villarroel,2008,4,DIU: Usuarias nuevas,2
+Cochabamba,31401,Punata,2008,4,DIU: Usuarias nuevas,7
+Cochabamba,30901,Quillacollo,2008,4,DIU: Usuarias nuevas,3
+La Paz,21002,Quime,2008,4,DIU: Usuarias nuevas,1
+Beni,80201,Riberalta,2008,4,DIU: Usuarias nuevas,1
+Beni,80304,Rurrenabaque,2008,4,DIU: Usuarias nuevas,3
+Cochabamba,31001,Sacaba,2008,4,DIU: Usuarias nuevas,19
+Santa Cruz,71302,Saipina,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,70901,Samaipata,2008,4,DIU: Usuarias nuevas,4
+Beni,80302,San Borja,2008,4,DIU: Usuarias nuevas,17
+Santa Cruz,70402,San Carlos,2008,4,DIU: Usuarias nuevas,7
+Beni,80501,San Ignacio,2008,4,DIU: Usuarias nuevas,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,4,DIU: Usuarias nuevas,4
+Santa Cruz,70501,San Jose De Chiquitos,2008,4,DIU: Usuarias nuevas,5
+Santa Cruz,70404,San Juan De Yapacani,2008,4,DIU: Usuarias nuevas,6
+Santa Cruz,71104,San Julian,2008,4,DIU: Usuarias nuevas,4
+Tarija,60501,San Lorenzo(tja),2008,4,DIU: Usuarias nuevas,2
+Santa Cruz,71005,San Pedro,2008,4,DIU: Usuarias nuevas,1
+Beni,80702,San Ramon,2008,4,DIU: Usuarias nuevas,3
+Beni,80702,San Ramon,2008,4,DIU: Usuarias nuevas,1
+Beni,80401,Santa Ana,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,DIU: Usuarias nuevas,278
+Santa Cruz,70602,Santa Rosa Del Sara,2008,4,DIU: Usuarias nuevas,2
+Cochabamba,30702,Santivañes,2008,4,DIU: Usuarias nuevas,1
+La Paz,21301,Sica Sica (villa Aroma),2008,4,DIU: Usuarias nuevas,41
+Cochabamba,30902,Sipe Sipe,2008,4,DIU: Usuarias nuevas,10
+Chuquisaca,10101,Sucre,2008,4,DIU: Usuarias nuevas,87
+Cochabamba,31101,Tapacari,2008,4,DIU: Usuarias nuevas,1
+Tarija,60101,Tarija,2008,4,DIU: Usuarias nuevas,84
+La Paz,20606,Tipuani,2008,4,DIU: Usuarias nuevas,2
+Cochabamba,30903,Tiquipaya,2008,4,DIU: Usuarias nuevas,12
+Cochabamba,31601,Tiraque (cbba),2008,4,DIU: Usuarias nuevas,1
+Cochabamba,30802,Toco,2008,4,DIU: Usuarias nuevas,1
+Cochabamba,31201,Totora(cbba),2008,4,DIU: Usuarias nuevas,2
+Beni,80101,Trinidad,2008,4,DIU: Usuarias nuevas,24
+Potosí,50801,Tupiza,2008,4,DIU: Usuarias nuevas,7
+Tarija,60401,Uriondo (a. Concepcion),2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,71502,Urubicha,2008,4,DIU: Usuarias nuevas,1
+Potosí,51201,Uyuni,2008,4,DIU: Usuarias nuevas,1
+Santa Cruz,70801,Vallegrande,2008,4,DIU: Usuarias nuevas,1
+La Paz,20801,Viacha,2008,4,DIU: Usuarias nuevas,11
+Tarija,60303,Villa Montes,2008,4,DIU: Usuarias nuevas,13
+Cochabamba,31402,Villa Rivero,2008,4,DIU: Usuarias nuevas,1
+Cochabamba,31003,Villa Tunari,2008,4,DIU: Usuarias nuevas,8
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,4,DIU: Usuarias nuevas,1
+Potosí,51501,Villazon,2008,4,DIU: Usuarias nuevas,1
+Cochabamba,30904,Vinto,2008,4,DIU: Usuarias nuevas,2
+Santa Cruz,70201,Warnes,2008,4,DIU: Usuarias nuevas,11
+Tarija,60301,Yacuiba,2008,4,DIU: Usuarias nuevas,15
+Santa Cruz,70403,Yapacani,2008,4,DIU: Usuarias nuevas,3
+La Paz,20104,Achocalla,2008,5,DIU: Usuarias nuevas,1
+La Paz,20202,Ancoraimes,2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,5,DIU: Usuarias nuevas,1
+Potosí,50802,Atocha,2008,5,DIU: Usuarias nuevas,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,5,DIU: Usuarias nuevas,4
+Tarija,60202,Bermejo,2008,5,DIU: Usuarias nuevas,8
+Santa Cruz,70401,Buena Vista,2008,5,DIU: Usuarias nuevas,3
+Santa Cruz,70703,Cabezas,2008,5,DIU: Usuarias nuevas,2
+Chuquisaca,10701,Camargo,2008,5,DIU: Usuarias nuevas,3
+Santa Cruz,70706,Camiri,2008,5,DIU: Usuarias nuevas,8
+Cochabamba,30701,Capinota,2008,5,DIU: Usuarias nuevas,4
+La Paz,22001,Caranavi,2008,5,DIU: Usuarias nuevas,12
+Oruro,40201,Challapata,2008,5,DIU: Usuarias nuevas,4
+Cochabamba,31204,Chimore,2008,5,DIU: Usuarias nuevas,2
+Cochabamba,30801,Cliza,2008,5,DIU: Usuarias nuevas,1
+Pando,90101,Cobija,2008,5,DIU: Usuarias nuevas,6
+Cochabamba,30101,Cochabamba,2008,5,DIU: Usuarias nuevas,164
+Cochabamba,30905,Colcapirhua,2008,5,DIU: Usuarias nuevas,2
+Cochabamba,31002,Colomi,2008,5,DIU: Usuarias nuevas,6
+Santa Cruz,70603,Colpa Belgica,2008,5,DIU: Usuarias nuevas,3
+La Paz,21402,Coripata,2008,5,DIU: Usuarias nuevas,2
+Potosí,50601,Cotagaita,2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,70102,Cotoca,2008,5,DIU: Usuarias nuevas,3
+Santa Cruz,71106,Cuatro Cañadas,2008,5,DIU: Usuarias nuevas,1
+Chuquisaca,10902,Culpina,2008,5,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,5,DIU: Usuarias nuevas,137
+Tarija,60502,El Puente(tja),2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,70105,El Torno,2008,5,DIU: Usuarias nuevas,28
+Tarija,60601,Entre Rios,2008,5,DIU: Usuarias nuevas,4
+Tarija,60601,Entre Rios,2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,71004,Fernandez Alonso,2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,71002,General Saavedra,2008,5,DIU: Usuarias nuevas,2
+La Paz,20602,Guanay,2008,5,DIU: Usuarias nuevas,2
+Beni,80202,Guayaramerin,2008,5,DIU: Usuarias nuevas,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2008,5,DIU: Usuarias nuevas,2
+Oruro,40701,Huanuni,2008,5,DIU: Usuarias nuevas,3
+La Paz,21102,Irupana (villa De Lanza),2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,70104,La Guardia,2008,5,DIU: Usuarias nuevas,16
+La Paz,20101,La Paz,2008,5,DIU: Usuarias nuevas,225
+Santa Cruz,70701,Lagunillas,2008,5,DIU: Usuarias nuevas,1
+Potosí,50203,Llallagua,2008,5,DIU: Usuarias nuevas,1
+Chuquisaca,11003,Machareti,2008,5,DIU: Usuarias nuevas,1
+Beni,80801,Magdalena,2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,70903,Mairana,2008,5,DIU: Usuarias nuevas,3
+La Paz,20607,Mapiri,2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,71003,Mineros,2008,5,DIU: Usuarias nuevas,1
+Cochabamba,31301,Mizque,2008,5,DIU: Usuarias nuevas,4
+Chuquisaca,10501,Monteagudo,2008,5,DIU: Usuarias nuevas,4
+Santa Cruz,71001,Montero,2008,5,DIU: Usuarias nuevas,16
+Cochabamba,30302,Morochata,2008,5,DIU: Usuarias nuevas,1
+Oruro,40101,Oruro,2008,5,DIU: Usuarias nuevas,31
+Chuquisaca,10401,Padilla,2008,5,DIU: Usuarias nuevas,2
+Santa Cruz,70502,Pailon,2008,5,DIU: Usuarias nuevas,2
+La Paz,21104,Palos Blancos,2008,5,DIU: Usuarias nuevas,4
+La Paz,21305,Patacamaya,2008,5,DIU: Usuarias nuevas,5
+Chuquisaca,10103,Poroma,2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,70103,Porongo,2008,5,DIU: Usuarias nuevas,2
+Santa Cruz,70601,Portachuelo,2008,5,DIU: Usuarias nuevas,5
+Potosí,50101,Potosi,2008,5,DIU: Usuarias nuevas,34
+Santa Cruz,71401,Puerto Suarez,2008,5,DIU: Usuarias nuevas,4
+Cochabamba,31205,Puerto Villarroel,2008,5,DIU: Usuarias nuevas,5
+Cochabamba,31401,Punata,2008,5,DIU: Usuarias nuevas,6
+Cochabamba,30901,Quillacollo,2008,5,DIU: Usuarias nuevas,11
+Beni,80301,Reyes,2008,5,DIU: Usuarias nuevas,1
+Beni,80201,Riberalta,2008,5,DIU: Usuarias nuevas,5
+Beni,80304,Rurrenabaque,2008,5,DIU: Usuarias nuevas,2
+Cochabamba,31001,Sacaba,2008,5,DIU: Usuarias nuevas,20
+Beni,80302,San Borja,2008,5,DIU: Usuarias nuevas,4
+La Paz,21502,San Buena Ventura,2008,5,DIU: Usuarias nuevas,2
+Santa Cruz,70402,San Carlos,2008,5,DIU: Usuarias nuevas,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,5,DIU: Usuarias nuevas,3
+Santa Cruz,71102,San Javier(stc),2008,5,DIU: Usuarias nuevas,3
+Santa Cruz,70501,San Jose De Chiquitos,2008,5,DIU: Usuarias nuevas,4
+Santa Cruz,70404,San Juan De Yapacani,2008,5,DIU: Usuarias nuevas,8
+Santa Cruz,71104,San Julian,2008,5,DIU: Usuarias nuevas,6
+Santa Cruz,71201,San Matias,2008,5,DIU: Usuarias nuevas,1
+Santa Cruz,71005,San Pedro,2008,5,DIU: Usuarias nuevas,1
+Beni,80702,San Ramon,2008,5,DIU: Usuarias nuevas,1
+Beni,80401,Santa Ana,2008,5,DIU: Usuarias nuevas,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,DIU: Usuarias nuevas,245
+Beni,80303,Santa Rosa,2008,5,DIU: Usuarias nuevas,4
+Santa Cruz,70602,Santa Rosa Del Sara,2008,5,DIU: Usuarias nuevas,1
+Cochabamba,30902,Sipe Sipe,2008,5,DIU: Usuarias nuevas,5
+Chuquisaca,10101,Sucre,2008,5,DIU: Usuarias nuevas,96
+Cochabamba,30401,Tarata,2008,5,DIU: Usuarias nuevas,1
+Tarija,60101,Tarija,2008,5,DIU: Usuarias nuevas,51
+La Paz,20606,Tipuani,2008,5,DIU: Usuarias nuevas,1
+Cochabamba,30903,Tiquipaya,2008,5,DIU: Usuarias nuevas,14
+Cochabamba,31601,Tiraque (cbba),2008,5,DIU: Usuarias nuevas,3
+Cochabamba,30802,Toco,2008,5,DIU: Usuarias nuevas,1
+Chuquisaca,10402,Tomina,2008,5,DIU: Usuarias nuevas,1
+Beni,80101,Trinidad,2008,5,DIU: Usuarias nuevas,29
+Potosí,50801,Tupiza,2008,5,DIU: Usuarias nuevas,10
+Potosí,50201,Uncia,2008,5,DIU: Usuarias nuevas,2
+Tarija,60401,Uriondo (a. Concepcion),2008,5,DIU: Usuarias nuevas,2
+Santa Cruz,71502,Urubicha,2008,5,DIU: Usuarias nuevas,1
+Potosí,51201,Uyuni,2008,5,DIU: Usuarias nuevas,2
+Santa Cruz,70801,Vallegrande,2008,5,DIU: Usuarias nuevas,10
+La Paz,20801,Viacha,2008,5,DIU: Usuarias nuevas,7
+Tarija,60303,Villa Montes,2008,5,DIU: Usuarias nuevas,5
+Cochabamba,31003,Villa Tunari,2008,5,DIU: Usuarias nuevas,8
+Potosí,51501,Villazon,2008,5,DIU: Usuarias nuevas,3
+Cochabamba,30904,Vinto,2008,5,DIU: Usuarias nuevas,3
+Santa Cruz,70201,Warnes,2008,5,DIU: Usuarias nuevas,5
+Tarija,60301,Yacuiba,2008,5,DIU: Usuarias nuevas,4
+Santa Cruz,70403,Yapacani,2008,5,DIU: Usuarias nuevas,3
+Cochabamba,30201,Aiquile,2008,6,DIU: Usuarias nuevas,5
+Oruro,40603,Antequera,2008,6,DIU: Usuarias nuevas,1
+La Paz,20701,Apolo,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,6,DIU: Usuarias nuevas,10
+Potosí,50802,Atocha,2008,6,DIU: Usuarias nuevas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,6,DIU: Usuarias nuevas,1
+Chuquisaca,10201,Azurduy,2008,6,DIU: Usuarias nuevas,1
+La Paz,21203,Batallas,2008,6,DIU: Usuarias nuevas,1
+Tarija,60202,Bermejo,2008,6,DIU: Usuarias nuevas,10
+Santa Cruz,70401,Buena Vista,2008,6,DIU: Usuarias nuevas,1
+Chuquisaca,10701,Camargo,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70706,Camiri,2008,6,DIU: Usuarias nuevas,9
+La Paz,20302,Caquiaviri,2008,6,DIU: Usuarias nuevas,1
+La Paz,22001,Caranavi,2008,6,DIU: Usuarias nuevas,4
+Oruro,40201,Challapata,2008,6,DIU: Usuarias nuevas,2
+Santa Cruz,70702,Charagua,2008,6,DIU: Usuarias nuevas,1
+Cochabamba,31204,Chimore,2008,6,DIU: Usuarias nuevas,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,6,DIU: Usuarias nuevas,1
+Cochabamba,30801,Cliza,2008,6,DIU: Usuarias nuevas,2
+Pando,90101,Cobija,2008,6,DIU: Usuarias nuevas,5
+Cochabamba,30101,Cochabamba,2008,6,DIU: Usuarias nuevas,179
+Cochabamba,30905,Colcapirhua,2008,6,DIU: Usuarias nuevas,3
+Cochabamba,31002,Colomi,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70603,Colpa Belgica,2008,6,DIU: Usuarias nuevas,1
+La Paz,21004,Colquiri,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,71101,Concepcion,2008,6,DIU: Usuarias nuevas,1
+La Paz,21701,Copacabana,2008,6,DIU: Usuarias nuevas,1
+La Paz,21401,Coroico,2008,6,DIU: Usuarias nuevas,1
+Potosí,50601,Cotagaita,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70102,Cotoca,2008,6,DIU: Usuarias nuevas,7
+Oruro,40401,Curahuara De Carangas,2008,6,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,6,DIU: Usuarias nuevas,115
+Santa Cruz,71503,El Puente(stc),2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70105,El Torno,2008,6,DIU: Usuarias nuevas,18
+Tarija,60601,Entre Rios,2008,6,DIU: Usuarias nuevas,3
+Santa Cruz,71004,Fernandez Alonso,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,71002,General Saavedra,2008,6,DIU: Usuarias nuevas,7
+La Paz,21601,Gral. J.j. Perez (charazani),2008,6,DIU: Usuarias nuevas,1
+La Paz,20602,Guanay,2008,6,DIU: Usuarias nuevas,4
+Beni,80202,Guayaramerin,2008,6,DIU: Usuarias nuevas,4
+Chuquisaca,10502,Huacareta,2008,6,DIU: Usuarias nuevas,2
+Oruro,40501,Huachacalla,2008,6,DIU: Usuarias nuevas,2
+Oruro,40701,Huanuni,2008,6,DIU: Usuarias nuevas,7
+Chuquisaca,10703,Incahuasi,2008,6,DIU: Usuarias nuevas,1
+La Paz,21105,La Asunta,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70104,La Guardia,2008,6,DIU: Usuarias nuevas,14
+La Paz,20101,La Paz,2008,6,DIU: Usuarias nuevas,303
+La Paz,20901,Luribay,2008,6,DIU: Usuarias nuevas,1
+Chuquisaca,11003,Machareti,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70903,Mairana,2008,6,DIU: Usuarias nuevas,1
+La Paz,20607,Mapiri,2008,6,DIU: Usuarias nuevas,3
+Santa Cruz,71003,Mineros,2008,6,DIU: Usuarias nuevas,3
+Cochabamba,31301,Mizque,2008,6,DIU: Usuarias nuevas,3
+Chuquisaca,10501,Monteagudo,2008,6,DIU: Usuarias nuevas,15
+Santa Cruz,71001,Montero,2008,6,DIU: Usuarias nuevas,21
+Potosí,50404,Ocuri,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70202,Okinawa,2008,6,DIU: Usuarias nuevas,2
+Oruro,40101,Oruro,2008,6,DIU: Usuarias nuevas,38
+Tarija,60201,Padcaya,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70502,Pailon,2008,6,DIU: Usuarias nuevas,4
+La Paz,21104,Palos Blancos,2008,6,DIU: Usuarias nuevas,1
+Cochabamba,31202,Pojo (cbba),2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70601,Portachuelo,2008,6,DIU: Usuarias nuevas,3
+Potosí,50101,Potosi,2008,6,DIU: Usuarias nuevas,29
+Santa Cruz,71401,Puerto Suarez,2008,6,DIU: Usuarias nuevas,2
+Cochabamba,31205,Puerto Villarroel,2008,6,DIU: Usuarias nuevas,5
+Potosí,51101,Puna,2008,6,DIU: Usuarias nuevas,1
+Cochabamba,31401,Punata,2008,6,DIU: Usuarias nuevas,8
+Cochabamba,30901,Quillacollo,2008,6,DIU: Usuarias nuevas,4
+Beni,80201,Riberalta,2008,6,DIU: Usuarias nuevas,8
+Santa Cruz,70503,Robore,2008,6,DIU: Usuarias nuevas,1
+Beni,80304,Rurrenabaque,2008,6,DIU: Usuarias nuevas,2
+Cochabamba,31001,Sacaba,2008,6,DIU: Usuarias nuevas,22
+Santa Cruz,70901,Samaipata,2008,6,DIU: Usuarias nuevas,3
+Beni,80602,San Andres,2008,6,DIU: Usuarias nuevas,2
+Beni,80302,San Borja,2008,6,DIU: Usuarias nuevas,5
+La Paz,21502,San Buena Ventura,2008,6,DIU: Usuarias nuevas,4
+Santa Cruz,70402,San Carlos,2008,6,DIU: Usuarias nuevas,9
+Beni,80501,San Ignacio,2008,6,DIU: Usuarias nuevas,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,6,DIU: Usuarias nuevas,10
+Santa Cruz,71102,San Javier(stc),2008,6,DIU: Usuarias nuevas,4
+Santa Cruz,70501,San Jose De Chiquitos,2008,6,DIU: Usuarias nuevas,5
+Santa Cruz,70404,San Juan De Yapacani,2008,6,DIU: Usuarias nuevas,5
+Santa Cruz,71104,San Julian,2008,6,DIU: Usuarias nuevas,5
+Tarija,60501,San Lorenzo(tja),2008,6,DIU: Usuarias nuevas,2
+Chuquisaca,10702,San Lucas,2008,6,DIU: Usuarias nuevas,3
+Santa Cruz,71201,San Matias,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,71005,San Pedro,2008,6,DIU: Usuarias nuevas,2
+Beni,80702,San Ramon,2008,6,DIU: Usuarias nuevas,1
+Beni,80401,Santa Ana,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,DIU: Usuarias nuevas,221
+Beni,80303,Santa Rosa,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70602,Santa Rosa Del Sara,2008,6,DIU: Usuarias nuevas,1
+Cochabamba,30902,Sipe Sipe,2008,6,DIU: Usuarias nuevas,13
+Chuquisaca,10101,Sucre,2008,6,DIU: Usuarias nuevas,94
+Cochabamba,31101,Tapacari,2008,6,DIU: Usuarias nuevas,1
+Cochabamba,30401,Tarata,2008,6,DIU: Usuarias nuevas,3
+Tarija,60101,Tarija,2008,6,DIU: Usuarias nuevas,55
+La Paz,20606,Tipuani,2008,6,DIU: Usuarias nuevas,1
+Cochabamba,30903,Tiquipaya,2008,6,DIU: Usuarias nuevas,10
+Cochabamba,31601,Tiraque (cbba),2008,6,DIU: Usuarias nuevas,1
+Cochabamba,30802,Toco,2008,6,DIU: Usuarias nuevas,2
+Cochabamba,31201,Totora(cbba),2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70802,Trigal,2008,6,DIU: Usuarias nuevas,1
+Beni,80101,Trinidad,2008,6,DIU: Usuarias nuevas,37
+Potosí,50801,Tupiza,2008,6,DIU: Usuarias nuevas,9
+Potosí,50201,Uncia,2008,6,DIU: Usuarias nuevas,1
+Tarija,60401,Uriondo (a. Concepcion),2008,6,DIU: Usuarias nuevas,4
+Santa Cruz,71502,Urubicha,2008,6,DIU: Usuarias nuevas,2
+Potosí,51201,Uyuni,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70801,Vallegrande,2008,6,DIU: Usuarias nuevas,3
+La Paz,20801,Viacha,2008,6,DIU: Usuarias nuevas,3
+Tarija,60303,Villa Montes,2008,6,DIU: Usuarias nuevas,8
+Cochabamba,31402,Villa Rivero,2008,6,DIU: Usuarias nuevas,2
+Cochabamba,31003,Villa Tunari,2008,6,DIU: Usuarias nuevas,12
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,6,DIU: Usuarias nuevas,1
+Potosí,51501,Villazon,2008,6,DIU: Usuarias nuevas,2
+Cochabamba,30904,Vinto,2008,6,DIU: Usuarias nuevas,3
+Santa Cruz,70201,Warnes,2008,6,DIU: Usuarias nuevas,13
+Tarija,60301,Yacuiba,2008,6,DIU: Usuarias nuevas,10
+La Paz,21103,Yanacachi,2008,6,DIU: Usuarias nuevas,1
+Santa Cruz,70403,Yapacani,2008,6,DIU: Usuarias nuevas,2
+Cochabamba,30201,Aiquile,2008,7,DIU: Usuarias nuevas,2
+Chuquisaca,10404,Alcala,2008,7,DIU: Usuarias nuevas,1
+La Paz,20701,Apolo,2008,7,DIU: Usuarias nuevas,2
+Santa Cruz,71501,Ascencion De Guarayos,2008,7,DIU: Usuarias nuevas,8
+Potosí,50802,Atocha,2008,7,DIU: Usuarias nuevas,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,7,DIU: Usuarias nuevas,2
+La Paz,21203,Batallas,2008,7,DIU: Usuarias nuevas,1
+Tarija,60202,Bermejo,2008,7,DIU: Usuarias nuevas,9
+Santa Cruz,70707,Boyuibe,2008,7,DIU: Usuarias nuevas,2
+Santa Cruz,70401,Buena Vista,2008,7,DIU: Usuarias nuevas,6
+La Paz,21003,Cajuata,2008,7,DIU: Usuarias nuevas,2
+Chuquisaca,10701,Camargo,2008,7,DIU: Usuarias nuevas,7
+Santa Cruz,70706,Camiri,2008,7,DIU: Usuarias nuevas,4
+Cochabamba,30701,Capinota,2008,7,DIU: Usuarias nuevas,4
+La Paz,22001,Caranavi,2008,7,DIU: Usuarias nuevas,4
+Oruro,40201,Challapata,2008,7,DIU: Usuarias nuevas,1
+Santa Cruz,70702,Charagua,2008,7,DIU: Usuarias nuevas,1
+Cochabamba,31204,Chimore,2008,7,DIU: Usuarias nuevas,2
+Cochabamba,30801,Cliza,2008,7,DIU: Usuarias nuevas,1
+Pando,90101,Cobija,2008,7,DIU: Usuarias nuevas,10
+Cochabamba,30101,Cochabamba,2008,7,DIU: Usuarias nuevas,179
+Cochabamba,30905,Colcapirhua,2008,7,DIU: Usuarias nuevas,3
+Cochabamba,31002,Colomi,2008,7,DIU: Usuarias nuevas,1
+La Paz,21004,Colquiri,2008,7,DIU: Usuarias nuevas,1
+La Paz,21701,Copacabana,2008,7,DIU: Usuarias nuevas,1
+La Paz,21401,Coroico,2008,7,DIU: Usuarias nuevas,1
+Santa Cruz,70102,Cotoca,2008,7,DIU: Usuarias nuevas,7
+Santa Cruz,71106,Cuatro Cañadas,2008,7,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,7,DIU: Usuarias nuevas,104
+Tarija,60502,El Puente(tja),2008,7,DIU: Usuarias nuevas,2
+Santa Cruz,70105,El Torno,2008,7,DIU: Usuarias nuevas,24
+Tarija,60601,Entre Rios,2008,7,DIU: Usuarias nuevas,3
+Tarija,60601,Entre Rios,2008,7,DIU: Usuarias nuevas,1
+Santa Cruz,71004,Fernandez Alonso,2008,7,DIU: Usuarias nuevas,2
+Santa Cruz,71002,General Saavedra,2008,7,DIU: Usuarias nuevas,3
+La Paz,20602,Guanay,2008,7,DIU: Usuarias nuevas,4
+Beni,80202,Guayaramerin,2008,7,DIU: Usuarias nuevas,12
+Chuquisaca,10502,Huacareta,2008,7,DIU: Usuarias nuevas,2
+Oruro,40701,Huanuni,2008,7,DIU: Usuarias nuevas,5
+La Paz,21102,Irupana (villa De Lanza),2008,7,DIU: Usuarias nuevas,2
+Santa Cruz,70104,La Guardia,2008,7,DIU: Usuarias nuevas,15
+La Paz,20101,La Paz,2008,7,DIU: Usuarias nuevas,305
+Chuquisaca,10903,Las Carreras,2008,7,DIU: Usuarias nuevas,1
+Oruro,40702,Machacamarca,2008,7,DIU: Usuarias nuevas,1
+Chuquisaca,11003,Machareti,2008,7,DIU: Usuarias nuevas,1
+Santa Cruz,70903,Mairana,2008,7,DIU: Usuarias nuevas,2
+La Paz,20607,Mapiri,2008,7,DIU: Usuarias nuevas,4
+Santa Cruz,71003,Mineros,2008,7,DIU: Usuarias nuevas,4
+Cochabamba,31301,Mizque,2008,7,DIU: Usuarias nuevas,5
+Chuquisaca,10501,Monteagudo,2008,7,DIU: Usuarias nuevas,7
+Santa Cruz,71001,Montero,2008,7,DIU: Usuarias nuevas,13
+Santa Cruz,70202,Okinawa,2008,7,DIU: Usuarias nuevas,15
+Oruro,40101,Oruro,2008,7,DIU: Usuarias nuevas,32
+Chuquisaca,10401,Padilla,2008,7,DIU: Usuarias nuevas,4
+Santa Cruz,70502,Pailon,2008,7,DIU: Usuarias nuevas,1
+La Paz,21104,Palos Blancos,2008,7,DIU: Usuarias nuevas,2
+Santa Cruz,70902,Pampa Grande,2008,7,DIU: Usuarias nuevas,5
+La Paz,21305,Patacamaya,2008,7,DIU: Usuarias nuevas,2
+Cochabamba,31202,Pojo (cbba),2008,7,DIU: Usuarias nuevas,5
+Santa Cruz,70103,Porongo,2008,7,DIU: Usuarias nuevas,2
+Santa Cruz,70601,Portachuelo,2008,7,DIU: Usuarias nuevas,6
+Santa Cruz,70804,Postrer Valle,2008,7,DIU: Usuarias nuevas,1
+Potosí,50101,Potosi,2008,7,DIU: Usuarias nuevas,53
+Santa Cruz,71402,Puerto Quijarro,2008,7,DIU: Usuarias nuevas,2
+Santa Cruz,71401,Puerto Suarez,2008,7,DIU: Usuarias nuevas,1
+Cochabamba,31205,Puerto Villarroel,2008,7,DIU: Usuarias nuevas,5
+Cochabamba,31401,Punata,2008,7,DIU: Usuarias nuevas,7
+Cochabamba,30901,Quillacollo,2008,7,DIU: Usuarias nuevas,10
+La Paz,21002,Quime,2008,7,DIU: Usuarias nuevas,1
+Beni,80201,Riberalta,2008,7,DIU: Usuarias nuevas,1
+Santa Cruz,70503,Robore,2008,7,DIU: Usuarias nuevas,1
+Beni,80304,Rurrenabaque,2008,7,DIU: Usuarias nuevas,1
+Cochabamba,31001,Sacaba,2008,7,DIU: Usuarias nuevas,21
+Santa Cruz,70901,Samaipata,2008,7,DIU: Usuarias nuevas,1
+Beni,80302,San Borja,2008,7,DIU: Usuarias nuevas,5
+La Paz,21502,San Buena Ventura,2008,7,DIU: Usuarias nuevas,3
+Santa Cruz,70402,San Carlos,2008,7,DIU: Usuarias nuevas,1
+Beni,80501,San Ignacio,2008,7,DIU: Usuarias nuevas,4
+Santa Cruz,70301,San Ignacio De Velasco,2008,7,DIU: Usuarias nuevas,14
+Santa Cruz,71102,San Javier(stc),2008,7,DIU: Usuarias nuevas,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,7,DIU: Usuarias nuevas,3
+Santa Cruz,70404,San Juan De Yapacani,2008,7,DIU: Usuarias nuevas,5
+Santa Cruz,71104,San Julian,2008,7,DIU: Usuarias nuevas,4
+Tarija,60501,San Lorenzo(tja),2008,7,DIU: Usuarias nuevas,1
+Chuquisaca,10702,San Lucas,2008,7,DIU: Usuarias nuevas,2
+Santa Cruz,70302,San Miguel De Velasco,2008,7,DIU: Usuarias nuevas,1
+La Paz,21702,San Pedro De Tiquina,2008,7,DIU: Usuarias nuevas,1
+Beni,80401,Santa Ana,2008,7,DIU: Usuarias nuevas,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,DIU: Usuarias nuevas,372
+Santa Cruz,70602,Santa Rosa Del Sara,2008,7,DIU: Usuarias nuevas,5
+Cochabamba,30902,Sipe Sipe,2008,7,DIU: Usuarias nuevas,6
+Chuquisaca,10101,Sucre,2008,7,DIU: Usuarias nuevas,89
+Cochabamba,31101,Tapacari,2008,7,DIU: Usuarias nuevas,1
+Cochabamba,30401,Tarata,2008,7,DIU: Usuarias nuevas,1
+Tarija,60101,Tarija,2008,7,DIU: Usuarias nuevas,76
+La Paz,20608,Teoponte,2008,7,DIU: Usuarias nuevas,1
+Cochabamba,30903,Tiquipaya,2008,7,DIU: Usuarias nuevas,19
+Cochabamba,31601,Tiraque (cbba),2008,7,DIU: Usuarias nuevas,3
+Potosí,50502,Toro Toro,2008,7,DIU: Usuarias nuevas,2
+Cochabamba,31201,Totora(cbba),2008,7,DIU: Usuarias nuevas,2
+Beni,80101,Trinidad,2008,7,DIU: Usuarias nuevas,27
+Potosí,50801,Tupiza,2008,7,DIU: Usuarias nuevas,4
+Santa Cruz,71502,Urubicha,2008,7,DIU: Usuarias nuevas,3
+Potosí,51201,Uyuni,2008,7,DIU: Usuarias nuevas,1
+Santa Cruz,70801,Vallegrande,2008,7,DIU: Usuarias nuevas,4
+La Paz,20801,Viacha,2008,7,DIU: Usuarias nuevas,4
+Tarija,60303,Villa Montes,2008,7,DIU: Usuarias nuevas,11
+Cochabamba,31003,Villa Tunari,2008,7,DIU: Usuarias nuevas,8
+Cochabamba,30904,Vinto,2008,7,DIU: Usuarias nuevas,8
+Santa Cruz,70201,Warnes,2008,7,DIU: Usuarias nuevas,16
+Tarija,60301,Yacuiba,2008,7,DIU: Usuarias nuevas,14
+Santa Cruz,70403,Yapacani,2008,7,DIU: Usuarias nuevas,6
+Cochabamba,30201,Aiquile,2008,8,DIU: Usuarias nuevas,5
+Oruro,41201,Andamarca,2008,8,DIU: Usuarias nuevas,1
+Cochabamba,30501,Arani,2008,8,DIU: Usuarias nuevas,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,8,DIU: Usuarias nuevas,20
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,8,DIU: Usuarias nuevas,3
+La Paz,21203,Batallas,2008,8,DIU: Usuarias nuevas,2
+Tarija,60202,Bermejo,2008,8,DIU: Usuarias nuevas,8
+Santa Cruz,70401,Buena Vista,2008,8,DIU: Usuarias nuevas,1
+Chuquisaca,10701,Camargo,2008,8,DIU: Usuarias nuevas,5
+Santa Cruz,70706,Camiri,2008,8,DIU: Usuarias nuevas,10
+Cochabamba,30701,Capinota,2008,8,DIU: Usuarias nuevas,1
+La Paz,22001,Caranavi,2008,8,DIU: Usuarias nuevas,8
+Santa Cruz,70702,Charagua,2008,8,DIU: Usuarias nuevas,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,8,DIU: Usuarias nuevas,1
+Cochabamba,30801,Cliza,2008,8,DIU: Usuarias nuevas,6
+Pando,90101,Cobija,2008,8,DIU: Usuarias nuevas,10
+Cochabamba,30101,Cochabamba,2008,8,DIU: Usuarias nuevas,148
+Cochabamba,30905,Colcapirhua,2008,8,DIU: Usuarias nuevas,2
+Cochabamba,31002,Colomi,2008,8,DIU: Usuarias nuevas,1
+Santa Cruz,70603,Colpa Belgica,2008,8,DIU: Usuarias nuevas,2
+La Paz,21004,Colquiri,2008,8,DIU: Usuarias nuevas,1
+La Paz,21701,Copacabana,2008,8,DIU: Usuarias nuevas,1
+La Paz,21402,Coripata,2008,8,DIU: Usuarias nuevas,4
+Potosí,50601,Cotagaita,2008,8,DIU: Usuarias nuevas,2
+Santa Cruz,70102,Cotoca,2008,8,DIU: Usuarias nuevas,4
+La Paz,20105,El Alto,2008,8,DIU: Usuarias nuevas,118
+Santa Cruz,71503,El Puente(stc),2008,8,DIU: Usuarias nuevas,1
+Santa Cruz,70105,El Torno,2008,8,DIU: Usuarias nuevas,22
+Tarija,60601,Entre Rios,2008,8,DIU: Usuarias nuevas,2
+Tarija,60601,Entre Rios,2008,8,DIU: Usuarias nuevas,3
+Santa Cruz,71004,Fernandez Alonso,2008,8,DIU: Usuarias nuevas,3
+Santa Cruz,71002,General Saavedra,2008,8,DIU: Usuarias nuevas,1
+La Paz,20602,Guanay,2008,8,DIU: Usuarias nuevas,1
+Beni,80202,Guayaramerin,2008,8,DIU: Usuarias nuevas,12
+Oruro,40701,Huanuni,2008,8,DIU: Usuarias nuevas,1
+Chuquisaca,10703,Incahuasi,2008,8,DIU: Usuarias nuevas,1
+La Paz,21501,Ixiamas,2008,8,DIU: Usuarias nuevas,1
+Santa Cruz,70104,La Guardia,2008,8,DIU: Usuarias nuevas,21
+La Paz,20101,La Paz,2008,8,DIU: Usuarias nuevas,238
+Potosí,50203,Llallagua,2008,8,DIU: Usuarias nuevas,3
+Chuquisaca,11003,Machareti,2008,8,DIU: Usuarias nuevas,1
+Santa Cruz,70903,Mairana,2008,8,DIU: Usuarias nuevas,3
+La Paz,20607,Mapiri,2008,8,DIU: Usuarias nuevas,1
+Santa Cruz,71003,Mineros,2008,8,DIU: Usuarias nuevas,4
+Cochabamba,31301,Mizque,2008,8,DIU: Usuarias nuevas,2
+Chuquisaca,10501,Monteagudo,2008,8,DIU: Usuarias nuevas,3
+Santa Cruz,71001,Montero,2008,8,DIU: Usuarias nuevas,13
+Cochabamba,30302,Morochata,2008,8,DIU: Usuarias nuevas,2
+Santa Cruz,70202,Okinawa,2008,8,DIU: Usuarias nuevas,2
+Oruro,40101,Oruro,2008,8,DIU: Usuarias nuevas,47
+Tarija,60201,Padcaya,2008,8,DIU: Usuarias nuevas,1
+Chuquisaca,10401,Padilla,2008,8,DIU: Usuarias nuevas,2
+Santa Cruz,70502,Pailon,2008,8,DIU: Usuarias nuevas,6
+Santa Cruz,70902,Pampa Grande,2008,8,DIU: Usuarias nuevas,2
+Cochabamba,31203,Pocona,2008,8,DIU: Usuarias nuevas,1
+Cochabamba,31202,Pojo (cbba),2008,8,DIU: Usuarias nuevas,2
+Chuquisaca,10103,Poroma,2008,8,DIU: Usuarias nuevas,1
+Santa Cruz,70103,Porongo,2008,8,DIU: Usuarias nuevas,1
+Santa Cruz,70601,Portachuelo,2008,8,DIU: Usuarias nuevas,4
+Santa Cruz,70804,Postrer Valle,2008,8,DIU: Usuarias nuevas,1
+Potosí,50101,Potosi,2008,8,DIU: Usuarias nuevas,28
+Santa Cruz,71402,Puerto Quijarro,2008,8,DIU: Usuarias nuevas,1
+Santa Cruz,71401,Puerto Suarez,2008,8,DIU: Usuarias nuevas,3
+Cochabamba,31205,Puerto Villarroel,2008,8,DIU: Usuarias nuevas,4
+Cochabamba,31401,Punata,2008,8,DIU: Usuarias nuevas,1
+Cochabamba,30901,Quillacollo,2008,8,DIU: Usuarias nuevas,15
+La Paz,21002,Quime,2008,8,DIU: Usuarias nuevas,1
+Potosí,50402,Ravelo,2008,8,DIU: Usuarias nuevas,1
+Beni,80201,Riberalta,2008,8,DIU: Usuarias nuevas,4
+Santa Cruz,70503,Robore,2008,8,DIU: Usuarias nuevas,1
+Cochabamba,31001,Sacaba,2008,8,DIU: Usuarias nuevas,25
+Santa Cruz,70901,Samaipata,2008,8,DIU: Usuarias nuevas,1
+Beni,80302,San Borja,2008,8,DIU: Usuarias nuevas,14
+Santa Cruz,70402,San Carlos,2008,8,DIU: Usuarias nuevas,4
+Beni,80501,San Ignacio,2008,8,DIU: Usuarias nuevas,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,8,DIU: Usuarias nuevas,6
+Santa Cruz,71102,San Javier(stc),2008,8,DIU: Usuarias nuevas,2
+Santa Cruz,70501,San Jose De Chiquitos,2008,8,DIU: Usuarias nuevas,3
+Santa Cruz,70404,San Juan De Yapacani,2008,8,DIU: Usuarias nuevas,3
+Santa Cruz,71104,San Julian,2008,8,DIU: Usuarias nuevas,2
+Santa Cruz,71201,San Matias,2008,8,DIU: Usuarias nuevas,1
+Beni,80702,San Ramon,2008,8,DIU: Usuarias nuevas,2
+Beni,80401,Santa Ana,2008,8,DIU: Usuarias nuevas,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,DIU: Usuarias nuevas,285
+Santa Cruz,70602,Santa Rosa Del Sara,2008,8,DIU: Usuarias nuevas,1
+Cochabamba,30902,Sipe Sipe,2008,8,DIU: Usuarias nuevas,7
+Chuquisaca,10101,Sucre,2008,8,DIU: Usuarias nuevas,110
+Tarija,60101,Tarija,2008,8,DIU: Usuarias nuevas,69
+La Paz,20606,Tipuani,2008,8,DIU: Usuarias nuevas,1
+Cochabamba,30903,Tiquipaya,2008,8,DIU: Usuarias nuevas,15
+Cochabamba,31601,Tiraque (cbba),2008,8,DIU: Usuarias nuevas,3
+Chuquisaca,10402,Tomina,2008,8,DIU: Usuarias nuevas,1
+Cochabamba,31201,Totora(cbba),2008,8,DIU: Usuarias nuevas,2
+Beni,80101,Trinidad,2008,8,DIU: Usuarias nuevas,26
+Potosí,50801,Tupiza,2008,8,DIU: Usuarias nuevas,7
+Potosí,50201,Uncia,2008,8,DIU: Usuarias nuevas,1
+Tarija,60401,Uriondo (a. Concepcion),2008,8,DIU: Usuarias nuevas,2
+Potosí,51201,Uyuni,2008,8,DIU: Usuarias nuevas,3
+Santa Cruz,70801,Vallegrande,2008,8,DIU: Usuarias nuevas,3
+La Paz,20801,Viacha,2008,8,DIU: Usuarias nuevas,2
+Tarija,60303,Villa Montes,2008,8,DIU: Usuarias nuevas,3
+Cochabamba,31003,Villa Tunari,2008,8,DIU: Usuarias nuevas,10
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,8,DIU: Usuarias nuevas,1
+Potosí,51501,Villazon,2008,8,DIU: Usuarias nuevas,7
+Cochabamba,30904,Vinto,2008,8,DIU: Usuarias nuevas,9
+Santa Cruz,70201,Warnes,2008,8,DIU: Usuarias nuevas,8
+Tarija,60301,Yacuiba,2008,8,DIU: Usuarias nuevas,8
+Santa Cruz,70403,Yapacani,2008,8,DIU: Usuarias nuevas,5
+Potosí,51302,Acacio,2008,9,DIU: Usuarias nuevas,1
+La Paz,20104,Achocalla,2008,9,DIU: Usuarias nuevas,1
+Cochabamba,30201,Aiquile,2008,9,DIU: Usuarias nuevas,5
+Cochabamba,30501,Arani,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,9,DIU: Usuarias nuevas,10
+Potosí,50802,Atocha,2008,9,DIU: Usuarias nuevas,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,9,DIU: Usuarias nuevas,3
+Tarija,60202,Bermejo,2008,9,DIU: Usuarias nuevas,4
+Santa Cruz,70703,Cabezas,2008,9,DIU: Usuarias nuevas,1
+Chuquisaca,10701,Camargo,2008,9,DIU: Usuarias nuevas,4
+Santa Cruz,70706,Camiri,2008,9,DIU: Usuarias nuevas,9
+Cochabamba,30701,Capinota,2008,9,DIU: Usuarias nuevas,4
+La Paz,22001,Caranavi,2008,9,DIU: Usuarias nuevas,3
+Oruro,40201,Challapata,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,70702,Charagua,2008,9,DIU: Usuarias nuevas,1
+Cochabamba,31204,Chimore,2008,9,DIU: Usuarias nuevas,4
+Cochabamba,30801,Cliza,2008,9,DIU: Usuarias nuevas,1
+Pando,90101,Cobija,2008,9,DIU: Usuarias nuevas,4
+Cochabamba,30101,Cochabamba,2008,9,DIU: Usuarias nuevas,205
+Cochabamba,30905,Colcapirhua,2008,9,DIU: Usuarias nuevas,7
+Cochabamba,31002,Colomi,2008,9,DIU: Usuarias nuevas,2
+Santa Cruz,70603,Colpa Belgica,2008,9,DIU: Usuarias nuevas,2
+La Paz,21004,Colquiri,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,71301,Comarapa,2008,9,DIU: Usuarias nuevas,3
+Santa Cruz,71101,Concepcion,2008,9,DIU: Usuarias nuevas,1
+La Paz,21701,Copacabana,2008,9,DIU: Usuarias nuevas,1
+La Paz,21402,Coripata,2008,9,DIU: Usuarias nuevas,2
+Santa Cruz,70102,Cotoca,2008,9,DIU: Usuarias nuevas,4
+Chuquisaca,10902,Culpina,2008,9,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,9,DIU: Usuarias nuevas,132
+Tarija,60502,El Puente(tja),2008,9,DIU: Usuarias nuevas,2
+Santa Cruz,70105,El Torno,2008,9,DIU: Usuarias nuevas,10
+Tarija,60601,Entre Rios,2008,9,DIU: Usuarias nuevas,7
+Santa Cruz,71002,General Saavedra,2008,9,DIU: Usuarias nuevas,2
+La Paz,20602,Guanay,2008,9,DIU: Usuarias nuevas,1
+Beni,80202,Guayaramerin,2008,9,DIU: Usuarias nuevas,7
+Chuquisaca,10502,Huacareta,2008,9,DIU: Usuarias nuevas,1
+Chuquisaca,10703,Incahuasi,2008,9,DIU: Usuarias nuevas,1
+La Paz,21001,Inquisivi,2008,9,DIU: Usuarias nuevas,1
+La Paz,21102,Irupana (villa De Lanza),2008,9,DIU: Usuarias nuevas,1
+La Paz,21501,Ixiamas,2008,9,DIU: Usuarias nuevas,3
+Santa Cruz,70104,La Guardia,2008,9,DIU: Usuarias nuevas,21
+La Paz,20101,La Paz,2008,9,DIU: Usuarias nuevas,234
+Santa Cruz,70903,Mairana,2008,9,DIU: Usuarias nuevas,1
+La Paz,20607,Mapiri,2008,9,DIU: Usuarias nuevas,2
+Santa Cruz,71003,Mineros,2008,9,DIU: Usuarias nuevas,1
+Chuquisaca,10501,Monteagudo,2008,9,DIU: Usuarias nuevas,10
+Santa Cruz,71001,Montero,2008,9,DIU: Usuarias nuevas,13
+Santa Cruz,70803,Moro Moro,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,70202,Okinawa,2008,9,DIU: Usuarias nuevas,1
+Oruro,40101,Oruro,2008,9,DIU: Usuarias nuevas,46
+Tarija,60201,Padcaya,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,70502,Pailon,2008,9,DIU: Usuarias nuevas,5
+La Paz,21305,Patacamaya,2008,9,DIU: Usuarias nuevas,1
+Cochabamba,31203,Pocona,2008,9,DIU: Usuarias nuevas,1
+Cochabamba,31202,Pojo (cbba),2008,9,DIU: Usuarias nuevas,1
+Chuquisaca,10103,Poroma,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,70601,Portachuelo,2008,9,DIU: Usuarias nuevas,6
+Potosí,50101,Potosi,2008,9,DIU: Usuarias nuevas,43
+Santa Cruz,71402,Puerto Quijarro,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,71401,Puerto Suarez,2008,9,DIU: Usuarias nuevas,4
+Cochabamba,31205,Puerto Villarroel,2008,9,DIU: Usuarias nuevas,5
+Cochabamba,31401,Punata,2008,9,DIU: Usuarias nuevas,4
+Cochabamba,30901,Quillacollo,2008,9,DIU: Usuarias nuevas,6
+La Paz,21002,Quime,2008,9,DIU: Usuarias nuevas,2
+Beni,80301,Reyes,2008,9,DIU: Usuarias nuevas,2
+Beni,80201,Riberalta,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,70503,Robore,2008,9,DIU: Usuarias nuevas,4
+Cochabamba,31001,Sacaba,2008,9,DIU: Usuarias nuevas,37
+Cochabamba,30404,Sacabamba,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,71302,Saipina,2008,9,DIU: Usuarias nuevas,1
+Beni,80302,San Borja,2008,9,DIU: Usuarias nuevas,12
+Santa Cruz,70402,San Carlos,2008,9,DIU: Usuarias nuevas,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,9,DIU: Usuarias nuevas,7
+Santa Cruz,71102,San Javier(stc),2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,9,DIU: Usuarias nuevas,4
+Santa Cruz,70404,San Juan De Yapacani,2008,9,DIU: Usuarias nuevas,2
+Santa Cruz,71104,San Julian,2008,9,DIU: Usuarias nuevas,3
+Tarija,60501,San Lorenzo(tja),2008,9,DIU: Usuarias nuevas,3
+Chuquisaca,10702,San Lucas,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,71201,San Matias,2008,9,DIU: Usuarias nuevas,2
+Beni,80401,Santa Ana,2008,9,DIU: Usuarias nuevas,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,DIU: Usuarias nuevas,272
+Beni,80303,Santa Rosa,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,70602,Santa Rosa Del Sara,2008,9,DIU: Usuarias nuevas,1
+Cochabamba,30902,Sipe Sipe,2008,9,DIU: Usuarias nuevas,9
+Chuquisaca,10101,Sucre,2008,9,DIU: Usuarias nuevas,86
+Cochabamba,30401,Tarata,2008,9,DIU: Usuarias nuevas,1
+Tarija,60101,Tarija,2008,9,DIU: Usuarias nuevas,60
+Cochabamba,30903,Tiquipaya,2008,9,DIU: Usuarias nuevas,15
+Cochabamba,31601,Tiraque (cbba),2008,9,DIU: Usuarias nuevas,2
+Chuquisaca,10402,Tomina,2008,9,DIU: Usuarias nuevas,1
+Beni,80101,Trinidad,2008,9,DIU: Usuarias nuevas,17
+Potosí,50801,Tupiza,2008,9,DIU: Usuarias nuevas,4
+Potosí,50201,Uncia,2008,9,DIU: Usuarias nuevas,1
+Tarija,60401,Uriondo (a. Concepcion),2008,9,DIU: Usuarias nuevas,5
+Santa Cruz,71502,Urubicha,2008,9,DIU: Usuarias nuevas,1
+Potosí,51201,Uyuni,2008,9,DIU: Usuarias nuevas,2
+Santa Cruz,70801,Vallegrande,2008,9,DIU: Usuarias nuevas,6
+Tarija,60303,Villa Montes,2008,9,DIU: Usuarias nuevas,3
+Cochabamba,31003,Villa Tunari,2008,9,DIU: Usuarias nuevas,1
+Potosí,51501,Villazon,2008,9,DIU: Usuarias nuevas,2
+Cochabamba,30904,Vinto,2008,9,DIU: Usuarias nuevas,3
+Santa Cruz,70201,Warnes,2008,9,DIU: Usuarias nuevas,16
+Tarija,60301,Yacuiba,2008,9,DIU: Usuarias nuevas,8
+La Paz,21103,Yanacachi,2008,9,DIU: Usuarias nuevas,1
+Santa Cruz,70403,Yapacani,2008,9,DIU: Usuarias nuevas,2
+Cochabamba,30201,Aiquile,2008,10,DIU: Usuarias nuevas,2
+Cochabamba,30501,Arani,2008,10,DIU: Usuarias nuevas,2
+Potosí,50802,Atocha,2008,10,DIU: Usuarias nuevas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,10,DIU: Usuarias nuevas,1
+Chuquisaca,10201,Azurduy,2008,10,DIU: Usuarias nuevas,1
+La Paz,21203,Batallas,2008,10,DIU: Usuarias nuevas,1
+Beni,80802,Baures,2008,10,DIU: Usuarias nuevas,1
+Tarija,60202,Bermejo,2008,10,DIU: Usuarias nuevas,26
+Santa Cruz,70401,Buena Vista,2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,70703,Cabezas,2008,10,DIU: Usuarias nuevas,1
+La Paz,20905,Cairoma,2008,10,DIU: Usuarias nuevas,1
+La Paz,21003,Cajuata,2008,10,DIU: Usuarias nuevas,1
+Chuquisaca,10701,Camargo,2008,10,DIU: Usuarias nuevas,3
+Santa Cruz,70706,Camiri,2008,10,DIU: Usuarias nuevas,6
+Cochabamba,30701,Capinota,2008,10,DIU: Usuarias nuevas,5
+Oruro,40102,Caracollo,2008,10,DIU: Usuarias nuevas,1
+La Paz,22001,Caranavi,2008,10,DIU: Usuarias nuevas,1
+Tarija,60302,Carapari,2008,10,DIU: Usuarias nuevas,4
+Santa Cruz,70702,Charagua,2008,10,DIU: Usuarias nuevas,4
+Pando,90101,Cobija,2008,10,DIU: Usuarias nuevas,6
+Cochabamba,30101,Cochabamba,2008,10,DIU: Usuarias nuevas,217
+Cochabamba,30905,Colcapirhua,2008,10,DIU: Usuarias nuevas,4
+Cochabamba,31002,Colomi,2008,10,DIU: Usuarias nuevas,4
+La Paz,21306,Colquencha,2008,10,DIU: Usuarias nuevas,1
+La Paz,21004,Colquiri,2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,71301,Comarapa,2008,10,DIU: Usuarias nuevas,2
+La Paz,21701,Copacabana,2008,10,DIU: Usuarias nuevas,1
+La Paz,21402,Coripata,2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,70102,Cotoca,2008,10,DIU: Usuarias nuevas,4
+Santa Cruz,71106,Cuatro Cañadas,2008,10,DIU: Usuarias nuevas,3
+Chuquisaca,10902,Culpina,2008,10,DIU: Usuarias nuevas,3
+Oruro,40401,Curahuara De Carangas,2008,10,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,10,DIU: Usuarias nuevas,123
+Santa Cruz,71503,El Puente(stc),2008,10,DIU: Usuarias nuevas,1
+Tarija,60502,El Puente(tja),2008,10,DIU: Usuarias nuevas,2
+Santa Cruz,70105,El Torno,2008,10,DIU: Usuarias nuevas,23
+Tarija,60601,Entre Rios,2008,10,DIU: Usuarias nuevas,7
+Santa Cruz,71004,Fernandez Alonso,2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,71002,General Saavedra,2008,10,DIU: Usuarias nuevas,2
+La Paz,20602,Guanay,2008,10,DIU: Usuarias nuevas,1
+Beni,80202,Guayaramerin,2008,10,DIU: Usuarias nuevas,8
+Oruro,40701,Huanuni,2008,10,DIU: Usuarias nuevas,6
+Chuquisaca,10703,Incahuasi,2008,10,DIU: Usuarias nuevas,1
+La Paz,21102,Irupana (villa De Lanza),2008,10,DIU: Usuarias nuevas,2
+La Paz,21105,La Asunta,2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,70104,La Guardia,2008,10,DIU: Usuarias nuevas,13
+La Paz,20101,La Paz,2008,10,DIU: Usuarias nuevas,243
+Santa Cruz,70903,Mairana,2008,10,DIU: Usuarias nuevas,2
+Santa Cruz,71003,Mineros,2008,10,DIU: Usuarias nuevas,2
+Cochabamba,31301,Mizque,2008,10,DIU: Usuarias nuevas,4
+Chuquisaca,10303,Mojocoya,2008,10,DIU: Usuarias nuevas,1
+Chuquisaca,10501,Monteagudo,2008,10,DIU: Usuarias nuevas,11
+Santa Cruz,71001,Montero,2008,10,DIU: Usuarias nuevas,17
+Santa Cruz,70202,Okinawa,2008,10,DIU: Usuarias nuevas,1
+Oruro,40101,Oruro,2008,10,DIU: Usuarias nuevas,48
+Chuquisaca,10401,Padilla,2008,10,DIU: Usuarias nuevas,3
+Santa Cruz,70502,Pailon,2008,10,DIU: Usuarias nuevas,5
+Santa Cruz,70902,Pampa Grande,2008,10,DIU: Usuarias nuevas,2
+Santa Cruz,70103,Porongo,2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,70601,Portachuelo,2008,10,DIU: Usuarias nuevas,3
+Potosí,50101,Potosi,2008,10,DIU: Usuarias nuevas,29
+La Paz,21201,Pucarani,2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,71401,Puerto Suarez,2008,10,DIU: Usuarias nuevas,2
+Cochabamba,31205,Puerto Villarroel,2008,10,DIU: Usuarias nuevas,10
+Potosí,51101,Puna,2008,10,DIU: Usuarias nuevas,1
+Cochabamba,31401,Punata,2008,10,DIU: Usuarias nuevas,4
+Cochabamba,30901,Quillacollo,2008,10,DIU: Usuarias nuevas,17
+Beni,80201,Riberalta,2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,70503,Robore,2008,10,DIU: Usuarias nuevas,2
+Beni,80304,Rurrenabaque,2008,10,DIU: Usuarias nuevas,1
+Cochabamba,31001,Sacaba,2008,10,DIU: Usuarias nuevas,33
+Cochabamba,30404,Sacabamba,2008,10,DIU: Usuarias nuevas,1
+Potosí,50701,Sacaca,2008,10,DIU: Usuarias nuevas,1
+Beni,80302,San Borja,2008,10,DIU: Usuarias nuevas,5
+La Paz,21502,San Buena Ventura,2008,10,DIU: Usuarias nuevas,2
+Santa Cruz,70402,San Carlos,2008,10,DIU: Usuarias nuevas,2
+Beni,80501,San Ignacio,2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,10,DIU: Usuarias nuevas,10
+Santa Cruz,71102,San Javier(stc),2008,10,DIU: Usuarias nuevas,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,10,DIU: Usuarias nuevas,3
+Santa Cruz,70404,San Juan De Yapacani,2008,10,DIU: Usuarias nuevas,4
+Santa Cruz,71104,San Julian,2008,10,DIU: Usuarias nuevas,3
+Tarija,60501,San Lorenzo(tja),2008,10,DIU: Usuarias nuevas,3
+Santa Cruz,70303,San Rafael,2008,10,DIU: Usuarias nuevas,3
+Beni,80702,San Ramon,2008,10,DIU: Usuarias nuevas,1
+Beni,80702,San Ramon,2008,10,DIU: Usuarias nuevas,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,DIU: Usuarias nuevas,450
+Beni,80303,Santa Rosa,2008,10,DIU: Usuarias nuevas,2
+Oruro,41401,Santiago De Huari,2008,10,DIU: Usuarias nuevas,1
+Cochabamba,30902,Sipe Sipe,2008,10,DIU: Usuarias nuevas,11
+Chuquisaca,10101,Sucre,2008,10,DIU: Usuarias nuevas,97
+Cochabamba,31101,Tapacari,2008,10,DIU: Usuarias nuevas,1
+Tarija,60101,Tarija,2008,10,DIU: Usuarias nuevas,75
+Cochabamba,30903,Tiquipaya,2008,10,DIU: Usuarias nuevas,17
+Cochabamba,31601,Tiraque (cbba),2008,10,DIU: Usuarias nuevas,2
+Cochabamba,31201,Totora(cbba),2008,10,DIU: Usuarias nuevas,2
+Beni,80101,Trinidad,2008,10,DIU: Usuarias nuevas,31
+Potosí,50801,Tupiza,2008,10,DIU: Usuarias nuevas,15
+Potosí,50201,Uncia,2008,10,DIU: Usuarias nuevas,2
+Tarija,60401,Uriondo (a. Concepcion),2008,10,DIU: Usuarias nuevas,4
+Santa Cruz,71502,Urubicha,2008,10,DIU: Usuarias nuevas,1
+Potosí,51201,Uyuni,2008,10,DIU: Usuarias nuevas,2
+Santa Cruz,70801,Vallegrande,2008,10,DIU: Usuarias nuevas,5
+La Paz,20801,Viacha,2008,10,DIU: Usuarias nuevas,4
+Tarija,60303,Villa Montes,2008,10,DIU: Usuarias nuevas,8
+Cochabamba,31003,Villa Tunari,2008,10,DIU: Usuarias nuevas,1
+Potosí,51501,Villazon,2008,10,DIU: Usuarias nuevas,6
+Cochabamba,30904,Vinto,2008,10,DIU: Usuarias nuevas,3
+Santa Cruz,70201,Warnes,2008,10,DIU: Usuarias nuevas,30
+Tarija,60301,Yacuiba,2008,10,DIU: Usuarias nuevas,11
+Santa Cruz,70403,Yapacani,2008,10,DIU: Usuarias nuevas,1
+La Paz,20104,Achocalla,2008,11,DIU: Usuarias nuevas,2
+Cochabamba,30201,Aiquile,2008,11,DIU: Usuarias nuevas,2
+La Paz,20202,Ancoraimes,2008,11,DIU: Usuarias nuevas,1
+Cochabamba,30402,Anzaldo,2008,11,DIU: Usuarias nuevas,2
+Cochabamba,30501,Arani,2008,11,DIU: Usuarias nuevas,2
+Santa Cruz,71501,Ascencion De Guarayos,2008,11,DIU: Usuarias nuevas,2
+Potosí,50802,Atocha,2008,11,DIU: Usuarias nuevas,5
+Tarija,60202,Bermejo,2008,11,DIU: Usuarias nuevas,3
+Santa Cruz,70401,Buena Vista,2008,11,DIU: Usuarias nuevas,3
+Santa Cruz,70703,Cabezas,2008,11,DIU: Usuarias nuevas,1
+Chuquisaca,10701,Camargo,2008,11,DIU: Usuarias nuevas,2
+Santa Cruz,70706,Camiri,2008,11,DIU: Usuarias nuevas,3
+Cochabamba,30701,Capinota,2008,11,DIU: Usuarias nuevas,3
+Tarija,60302,Carapari,2008,11,DIU: Usuarias nuevas,4
+Oruro,40201,Challapata,2008,11,DIU: Usuarias nuevas,3
+Santa Cruz,70702,Charagua,2008,11,DIU: Usuarias nuevas,1
+Cochabamba,30801,Cliza,2008,11,DIU: Usuarias nuevas,6
+Pando,90101,Cobija,2008,11,DIU: Usuarias nuevas,6
+Cochabamba,30101,Cochabamba,2008,11,DIU: Usuarias nuevas,148
+Cochabamba,30905,Colcapirhua,2008,11,DIU: Usuarias nuevas,4
+Cochabamba,31002,Colomi,2008,11,DIU: Usuarias nuevas,1
+La Paz,21004,Colquiri,2008,11,DIU: Usuarias nuevas,5
+Santa Cruz,71301,Comarapa,2008,11,DIU: Usuarias nuevas,2
+La Paz,21701,Copacabana,2008,11,DIU: Usuarias nuevas,1
+La Paz,21402,Coripata,2008,11,DIU: Usuarias nuevas,3
+Santa Cruz,70102,Cotoca,2008,11,DIU: Usuarias nuevas,5
+Santa Cruz,71106,Cuatro Cañadas,2008,11,DIU: Usuarias nuevas,1
+Chuquisaca,10902,Culpina,2008,11,DIU: Usuarias nuevas,2
+Oruro,40401,Curahuara De Carangas,2008,11,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,11,DIU: Usuarias nuevas,130
+Santa Cruz,70105,El Torno,2008,11,DIU: Usuarias nuevas,7
+Tarija,60601,Entre Rios,2008,11,DIU: Usuarias nuevas,4
+Santa Cruz,71004,Fernandez Alonso,2008,11,DIU: Usuarias nuevas,1
+Santa Cruz,71002,General Saavedra,2008,11,DIU: Usuarias nuevas,2
+Beni,80202,Guayaramerin,2008,11,DIU: Usuarias nuevas,2
+Oruro,40701,Huanuni,2008,11,DIU: Usuarias nuevas,4
+La Paz,21501,Ixiamas,2008,11,DIU: Usuarias nuevas,1
+Santa Cruz,70104,La Guardia,2008,11,DIU: Usuarias nuevas,14
+La Paz,20101,La Paz,2008,11,DIU: Usuarias nuevas,249
+Chuquisaca,10903,Las Carreras,2008,11,DIU: Usuarias nuevas,1
+Potosí,50203,Llallagua,2008,11,DIU: Usuarias nuevas,3
+Oruro,40702,Machacamarca,2008,11,DIU: Usuarias nuevas,1
+Chuquisaca,11003,Machareti,2008,11,DIU: Usuarias nuevas,1
+Beni,80801,Magdalena,2008,11,DIU: Usuarias nuevas,2
+Santa Cruz,70903,Mairana,2008,11,DIU: Usuarias nuevas,1
+La Paz,20607,Mapiri,2008,11,DIU: Usuarias nuevas,1
+Santa Cruz,71003,Mineros,2008,11,DIU: Usuarias nuevas,3
+Cochabamba,31301,Mizque,2008,11,DIU: Usuarias nuevas,4
+Chuquisaca,10501,Monteagudo,2008,11,DIU: Usuarias nuevas,13
+Santa Cruz,71001,Montero,2008,11,DIU: Usuarias nuevas,17
+Santa Cruz,70202,Okinawa,2008,11,DIU: Usuarias nuevas,2
+Oruro,40101,Oruro,2008,11,DIU: Usuarias nuevas,43
+Santa Cruz,70502,Pailon,2008,11,DIU: Usuarias nuevas,2
+La Paz,21305,Patacamaya,2008,11,DIU: Usuarias nuevas,2
+Cochabamba,31202,Pojo (cbba),2008,11,DIU: Usuarias nuevas,1
+Santa Cruz,70601,Portachuelo,2008,11,DIU: Usuarias nuevas,1
+Potosí,50101,Potosi,2008,11,DIU: Usuarias nuevas,26
+Santa Cruz,71401,Puerto Suarez,2008,11,DIU: Usuarias nuevas,5
+Cochabamba,31205,Puerto Villarroel,2008,11,DIU: Usuarias nuevas,4
+Potosí,51101,Puna,2008,11,DIU: Usuarias nuevas,2
+Cochabamba,31401,Punata,2008,11,DIU: Usuarias nuevas,4
+Cochabamba,30901,Quillacollo,2008,11,DIU: Usuarias nuevas,5
+Beni,80301,Reyes,2008,11,DIU: Usuarias nuevas,3
+Beni,80201,Riberalta,2008,11,DIU: Usuarias nuevas,1
+Santa Cruz,70503,Robore,2008,11,DIU: Usuarias nuevas,1
+Beni,80304,Rurrenabaque,2008,11,DIU: Usuarias nuevas,4
+Cochabamba,31001,Sacaba,2008,11,DIU: Usuarias nuevas,22
+Beni,80602,San Andres,2008,11,DIU: Usuarias nuevas,1
+Beni,80302,San Borja,2008,11,DIU: Usuarias nuevas,8
+La Paz,21502,San Buena Ventura,2008,11,DIU: Usuarias nuevas,1
+Santa Cruz,70402,San Carlos,2008,11,DIU: Usuarias nuevas,1
+Beni,80501,San Ignacio,2008,11,DIU: Usuarias nuevas,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,11,DIU: Usuarias nuevas,5
+Santa Cruz,71102,San Javier(stc),2008,11,DIU: Usuarias nuevas,4
+Santa Cruz,70501,San Jose De Chiquitos,2008,11,DIU: Usuarias nuevas,3
+Santa Cruz,70404,San Juan De Yapacani,2008,11,DIU: Usuarias nuevas,3
+Santa Cruz,71104,San Julian,2008,11,DIU: Usuarias nuevas,1
+Tarija,60501,San Lorenzo(tja),2008,11,DIU: Usuarias nuevas,3
+Santa Cruz,71201,San Matias,2008,11,DIU: Usuarias nuevas,1
+Santa Cruz,70302,San Miguel De Velasco,2008,11,DIU: Usuarias nuevas,3
+Santa Cruz,71005,San Pedro,2008,11,DIU: Usuarias nuevas,2
+Santa Cruz,70303,San Rafael,2008,11,DIU: Usuarias nuevas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,DIU: Usuarias nuevas,244
+Santa Cruz,70602,Santa Rosa Del Sara,2008,11,DIU: Usuarias nuevas,5
+Cochabamba,30902,Sipe Sipe,2008,11,DIU: Usuarias nuevas,7
+Chuquisaca,10101,Sucre,2008,11,DIU: Usuarias nuevas,114
+Cochabamba,31101,Tapacari,2008,11,DIU: Usuarias nuevas,2
+Cochabamba,30401,Tarata,2008,11,DIU: Usuarias nuevas,1
+Tarija,60101,Tarija,2008,11,DIU: Usuarias nuevas,67
+Cochabamba,30903,Tiquipaya,2008,11,DIU: Usuarias nuevas,8
+Cochabamba,31601,Tiraque (cbba),2008,11,DIU: Usuarias nuevas,3
+Oruro,41001,Toledo,2008,11,DIU: Usuarias nuevas,1
+Cochabamba,31201,Totora(cbba),2008,11,DIU: Usuarias nuevas,4
+Santa Cruz,70802,Trigal,2008,11,DIU: Usuarias nuevas,1
+Beni,80101,Trinidad,2008,11,DIU: Usuarias nuevas,37
+Potosí,50801,Tupiza,2008,11,DIU: Usuarias nuevas,13
+Potosí,50201,Uncia,2008,11,DIU: Usuarias nuevas,2
+Tarija,60401,Uriondo (a. Concepcion),2008,11,DIU: Usuarias nuevas,3
+Potosí,51201,Uyuni,2008,11,DIU: Usuarias nuevas,4
+Santa Cruz,70801,Vallegrande,2008,11,DIU: Usuarias nuevas,9
+La Paz,20801,Viacha,2008,11,DIU: Usuarias nuevas,4
+Tarija,60303,Villa Montes,2008,11,DIU: Usuarias nuevas,4
+Cochabamba,31003,Villa Tunari,2008,11,DIU: Usuarias nuevas,4
+Potosí,51501,Villazon,2008,11,DIU: Usuarias nuevas,4
+Cochabamba,30904,Vinto,2008,11,DIU: Usuarias nuevas,2
+Santa Cruz,70201,Warnes,2008,11,DIU: Usuarias nuevas,1
+Tarija,60301,Yacuiba,2008,11,DIU: Usuarias nuevas,3
+Santa Cruz,70403,Yapacani,2008,11,DIU: Usuarias nuevas,2
+Tarija,60402,Yunchara,2008,11,DIU: Usuarias nuevas,1
+Cochabamba,30201,Aiquile,2008,12,DIU: Usuarias nuevas,2
+Santa Cruz,71501,Ascencion De Guarayos,2008,12,DIU: Usuarias nuevas,6
+Potosí,50802,Atocha,2008,12,DIU: Usuarias nuevas,2
+Beni,80802,Baures,2008,12,DIU: Usuarias nuevas,4
+Tarija,60202,Bermejo,2008,12,DIU: Usuarias nuevas,2
+Santa Cruz,70401,Buena Vista,2008,12,DIU: Usuarias nuevas,2
+Chuquisaca,10701,Camargo,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,70706,Camiri,2008,12,DIU: Usuarias nuevas,8
+Cochabamba,30701,Capinota,2008,12,DIU: Usuarias nuevas,3
+Tarija,60302,Carapari,2008,12,DIU: Usuarias nuevas,3
+Oruro,40201,Challapata,2008,12,DIU: Usuarias nuevas,2
+Santa Cruz,70702,Charagua,2008,12,DIU: Usuarias nuevas,1
+Cochabamba,31204,Chimore,2008,12,DIU: Usuarias nuevas,3
+Cochabamba,30801,Cliza,2008,12,DIU: Usuarias nuevas,2
+Pando,90101,Cobija,2008,12,DIU: Usuarias nuevas,3
+Cochabamba,30101,Cochabamba,2008,12,DIU: Usuarias nuevas,158
+Cochabamba,30905,Colcapirhua,2008,12,DIU: Usuarias nuevas,3
+Cochabamba,31002,Colomi,2008,12,DIU: Usuarias nuevas,2
+La Paz,21004,Colquiri,2008,12,DIU: Usuarias nuevas,2
+Santa Cruz,71301,Comarapa,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,70102,Cotoca,2008,12,DIU: Usuarias nuevas,4
+Chuquisaca,10902,Culpina,2008,12,DIU: Usuarias nuevas,1
+Oruro,40401,Curahuara De Carangas,2008,12,DIU: Usuarias nuevas,1
+La Paz,20105,El Alto,2008,12,DIU: Usuarias nuevas,96
+Santa Cruz,70105,El Torno,2008,12,DIU: Usuarias nuevas,18
+Chuquisaca,10405,El Villar,2008,12,DIU: Usuarias nuevas,1
+Tarija,60601,Entre Rios,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,71002,General Saavedra,2008,12,DIU: Usuarias nuevas,3
+Beni,80202,Guayaramerin,2008,12,DIU: Usuarias nuevas,5
+Oruro,40501,Huachacalla,2008,12,DIU: Usuarias nuevas,1
+Oruro,40701,Huanuni,2008,12,DIU: Usuarias nuevas,4
+La Paz,21102,Irupana (villa De Lanza),2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,70104,La Guardia,2008,12,DIU: Usuarias nuevas,8
+La Paz,20101,La Paz,2008,12,DIU: Usuarias nuevas,195
+Oruro,40702,Machacamarca,2008,12,DIU: Usuarias nuevas,1
+Chuquisaca,11003,Machareti,2008,12,DIU: Usuarias nuevas,3
+Santa Cruz,70903,Mairana,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,71003,Mineros,2008,12,DIU: Usuarias nuevas,3
+Cochabamba,31301,Mizque,2008,12,DIU: Usuarias nuevas,7
+Chuquisaca,10303,Mojocoya,2008,12,DIU: Usuarias nuevas,1
+Chuquisaca,10501,Monteagudo,2008,12,DIU: Usuarias nuevas,11
+Santa Cruz,71001,Montero,2008,12,DIU: Usuarias nuevas,11
+Oruro,40101,Oruro,2008,12,DIU: Usuarias nuevas,69
+Tarija,60201,Padcaya,2008,12,DIU: Usuarias nuevas,3
+Chuquisaca,10401,Padilla,2008,12,DIU: Usuarias nuevas,3
+Santa Cruz,70502,Pailon,2008,12,DIU: Usuarias nuevas,6
+Cochabamba,31203,Pocona,2008,12,DIU: Usuarias nuevas,2
+Cochabamba,31202,Pojo (cbba),2008,12,DIU: Usuarias nuevas,3
+Santa Cruz,70103,Porongo,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,70601,Portachuelo,2008,12,DIU: Usuarias nuevas,4
+Potosí,50101,Potosi,2008,12,DIU: Usuarias nuevas,39
+Pando,90201,Puerto Rico,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,71401,Puerto Suarez,2008,12,DIU: Usuarias nuevas,2
+Cochabamba,31205,Puerto Villarroel,2008,12,DIU: Usuarias nuevas,3
+Potosí,51101,Puna,2008,12,DIU: Usuarias nuevas,1
+Cochabamba,31401,Punata,2008,12,DIU: Usuarias nuevas,9
+Cochabamba,30901,Quillacollo,2008,12,DIU: Usuarias nuevas,14
+La Paz,21002,Quime,2008,12,DIU: Usuarias nuevas,1
+Beni,80301,Reyes,2008,12,DIU: Usuarias nuevas,1
+Beni,80201,Riberalta,2008,12,DIU: Usuarias nuevas,2
+Cochabamba,31001,Sacaba,2008,12,DIU: Usuarias nuevas,34
+Santa Cruz,70901,Samaipata,2008,12,DIU: Usuarias nuevas,1
+Beni,80602,San Andres,2008,12,DIU: Usuarias nuevas,1
+Beni,80302,San Borja,2008,12,DIU: Usuarias nuevas,7
+La Paz,21502,San Buena Ventura,2008,12,DIU: Usuarias nuevas,4
+Beni,80501,San Ignacio,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,12,DIU: Usuarias nuevas,6
+Santa Cruz,71102,San Javier(stc),2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,12,DIU: Usuarias nuevas,10
+Santa Cruz,70404,San Juan De Yapacani,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,71104,San Julian,2008,12,DIU: Usuarias nuevas,3
+Tarija,60501,San Lorenzo(tja),2008,12,DIU: Usuarias nuevas,3
+Santa Cruz,70302,San Miguel De Velasco,2008,12,DIU: Usuarias nuevas,1
+Beni,80702,San Ramon,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,DIU: Usuarias nuevas,271
+Santa Cruz,70602,Santa Rosa Del Sara,2008,12,DIU: Usuarias nuevas,1
+Cochabamba,30902,Sipe Sipe,2008,12,DIU: Usuarias nuevas,8
+Chuquisaca,10101,Sucre,2008,12,DIU: Usuarias nuevas,88
+Cochabamba,30401,Tarata,2008,12,DIU: Usuarias nuevas,1
+Tarija,60101,Tarija,2008,12,DIU: Usuarias nuevas,80
+Cochabamba,30903,Tiquipaya,2008,12,DIU: Usuarias nuevas,17
+Cochabamba,31201,Totora(cbba),2008,12,DIU: Usuarias nuevas,1
+Beni,80101,Trinidad,2008,12,DIU: Usuarias nuevas,12
+Potosí,50801,Tupiza,2008,12,DIU: Usuarias nuevas,3
+Potosí,50201,Uncia,2008,12,DIU: Usuarias nuevas,3
+Tarija,60401,Uriondo (a. Concepcion),2008,12,DIU: Usuarias nuevas,2
+Santa Cruz,71502,Urubicha,2008,12,DIU: Usuarias nuevas,1
+Potosí,51201,Uyuni,2008,12,DIU: Usuarias nuevas,1
+Santa Cruz,70801,Vallegrande,2008,12,DIU: Usuarias nuevas,6
+Tarija,60303,Villa Montes,2008,12,DIU: Usuarias nuevas,2
+Cochabamba,31003,Villa Tunari,2008,12,DIU: Usuarias nuevas,2
+Santa Cruz,70201,Warnes,2008,12,DIU: Usuarias nuevas,1
+Tarija,60301,Yacuiba,2008,12,DIU: Usuarias nuevas,11
+La Paz,20201,Achacachi,2008,1,TOTAL,2
+Cochabamba,30201,Aiquile,2008,1,TOTAL,3
+Oruro,40603,Antequera,2008,1,TOTAL,2
+Cochabamba,30501,Arani,2008,1,TOTAL,2
+Tarija,60202,Bermejo,2008,1,TOTAL,13
+Potosí,50301,Betanzos,2008,1,TOTAL,2
+Chuquisaca,10701,Camargo,2008,1,TOTAL,3
+Santa Cruz,70706,Camiri,2008,1,TOTAL,2
+Cochabamba,30701,Capinota,2008,1,TOTAL,3
+La Paz,22001,Caranavi,2008,1,TOTAL,8
+Oruro,40201,Challapata,2008,1,TOTAL,3
+Cochabamba,30801,Cliza,2008,1,TOTAL,2
+Pando,90101,Cobija,2008,1,TOTAL,7
+Cochabamba,30101,Cochabamba,2008,1,TOTAL,152
+Cochabamba,30905,Colcapirhua,2008,1,TOTAL,10
+Cochabamba,31002,Colomi,2008,1,TOTAL,2
+Santa Cruz,70603,Colpa Belgica,2008,1,TOTAL,1
+La Paz,21004,Colquiri,2008,1,TOTAL,1
+Santa Cruz,71301,Comarapa,2008,1,TOTAL,2
+La Paz,21701,Copacabana,2008,1,TOTAL,1
+La Paz,21402,Coripata,2008,1,TOTAL,2
+Potosí,50601,Cotagaita,2008,1,TOTAL,2
+Santa Cruz,70102,Cotoca,2008,1,TOTAL,10
+Santa Cruz,71106,Cuatro Cañadas,2008,1,TOTAL,5
+Chuquisaca,10902,Culpina,2008,1,TOTAL,1
+La Paz,20105,El Alto,2008,1,TOTAL,123
+Santa Cruz,71503,El Puente(stc),2008,1,TOTAL,1
+Santa Cruz,70105,El Torno,2008,1,TOTAL,23
+Santa Cruz,71004,Fernandez Alonso,2008,1,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,1,TOTAL,1
+La Paz,20602,Guanay,2008,1,TOTAL,1
+Beni,80202,Guayaramerin,2008,1,TOTAL,7
+Oruro,40701,Huanuni,2008,1,TOTAL,5
+Chuquisaca,10703,Incahuasi,2008,1,TOTAL,1
+La Paz,20806,Jesus De Machaca,2008,1,TOTAL,1
+La Paz,21105,La Asunta,2008,1,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,1,TOTAL,12
+La Paz,20101,La Paz,2008,1,TOTAL,296
+Chuquisaca,10903,Las Carreras,2008,1,TOTAL,1
+La Paz,21006,Licoma Pampa,2008,1,TOTAL,1
+Potosí,50203,Llallagua,2008,1,TOTAL,3
+La Paz,20901,Luribay,2008,1,TOTAL,1
+Beni,80801,Magdalena,2008,1,TOTAL,1
+Santa Cruz,70903,Mairana,2008,1,TOTAL,6
+La Paz,20607,Mapiri,2008,1,TOTAL,1
+Cochabamba,31301,Mizque,2008,1,TOTAL,5
+Chuquisaca,10501,Monteagudo,2008,1,TOTAL,7
+Santa Cruz,71001,Montero,2008,1,TOTAL,17
+Santa Cruz,70202,Okinawa,2008,1,TOTAL,4
+Oruro,40101,Oruro,2008,1,TOTAL,47
+Tarija,60201,Padcaya,2008,1,TOTAL,2
+Chuquisaca,10401,Padilla,2008,1,TOTAL,3
+Santa Cruz,70502,Pailon,2008,1,TOTAL,3
+Santa Cruz,70902,Pampa Grande,2008,1,TOTAL,2
+Cochabamba,31202,Pojo (cbba),2008,1,TOTAL,1
+Santa Cruz,70804,Postrer Valle,2008,1,TOTAL,1
+Potosí,50101,Potosi,2008,1,TOTAL,32
+Santa Cruz,71402,Puerto Quijarro,2008,1,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2008,1,TOTAL,7
+Cochabamba,31401,Punata,2008,1,TOTAL,11
+Cochabamba,30901,Quillacollo,2008,1,TOTAL,18
+La Paz,21002,Quime,2008,1,TOTAL,2
+Beni,80301,Reyes,2008,1,TOTAL,2
+Beni,80201,Riberalta,2008,1,TOTAL,4
+Santa Cruz,70503,Robore,2008,1,TOTAL,1
+Beni,80304,Rurrenabaque,2008,1,TOTAL,1
+Cochabamba,31001,Sacaba,2008,1,TOTAL,30
+Santa Cruz,70901,Samaipata,2008,1,TOTAL,1
+Beni,80602,San Andres,2008,1,TOTAL,1
+Cochabamba,31403,San Benito,2008,1,TOTAL,1
+Beni,80302,San Borja,2008,1,TOTAL,4
+La Paz,21502,San Buena Ventura,2008,1,TOTAL,1
+Santa Cruz,70402,San Carlos,2008,1,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,1,TOTAL,9
+Santa Cruz,71102,San Javier(stc),2008,1,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2008,1,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2008,1,TOTAL,4
+Santa Cruz,71104,San Julian,2008,1,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2008,1,TOTAL,1
+Chuquisaca,10702,San Lucas,2008,1,TOTAL,4
+Santa Cruz,71201,San Matias,2008,1,TOTAL,1
+Beni,80702,San Ramon,2008,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTAL,296
+Beni,80303,Santa Rosa,2008,1,TOTAL,2
+Santa Cruz,70602,Santa Rosa Del Sara,2008,1,TOTAL,4
+Cochabamba,30902,Sipe Sipe,2008,1,TOTAL,16
+Chuquisaca,10101,Sucre,2008,1,TOTAL,118
+Tarija,60101,Tarija,2008,1,TOTAL,83
+Cochabamba,30903,Tiquipaya,2008,1,TOTAL,19
+Cochabamba,30802,Toco,2008,1,TOTAL,1
+Cochabamba,31201,Totora(cbba),2008,1,TOTAL,2
+Santa Cruz,70802,Trigal,2008,1,TOTAL,1
+Beni,80101,Trinidad,2008,1,TOTAL,24
+Potosí,50801,Tupiza,2008,1,TOTAL,6
+Tarija,60401,Uriondo (a. Concepcion),2008,1,TOTAL,3
+Santa Cruz,71502,Urubicha,2008,1,TOTAL,1
+Potosí,51201,Uyuni,2008,1,TOTAL,2
+Santa Cruz,70801,Vallegrande,2008,1,TOTAL,6
+La Paz,20801,Viacha,2008,1,TOTAL,4
+Tarija,60303,Villa Montes,2008,1,TOTAL,5
+Cochabamba,31402,Villa Rivero,2008,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,1,TOTAL,6
+Potosí,51501,Villazon,2008,1,TOTAL,2
+Cochabamba,30904,Vinto,2008,1,TOTAL,4
+Santa Cruz,70201,Warnes,2008,1,TOTAL,15
+Tarija,60301,Yacuiba,2008,1,TOTAL,8
+Santa Cruz,70403,Yapacani,2008,1,TOTAL,7
+La Paz,20104,Achocalla,2008,2,TOTAL,1
+Cochabamba,30201,Aiquile,2008,2,TOTAL,6
+Oruro,40603,Antequera,2008,2,TOTAL,1
+Cochabamba,30402,Anzaldo,2008,2,TOTAL,1
+Cochabamba,30501,Arani,2008,2,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,2,TOTAL,1
+Potosí,50802,Atocha,2008,2,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,2,TOTAL,2
+La Paz,21203,Batallas,2008,2,TOTAL,1
+Beni,80802,Baures,2008,2,TOTAL,1
+Tarija,60202,Bermejo,2008,2,TOTAL,6
+Santa Cruz,70401,Buena Vista,2008,2,TOTAL,1
+Santa Cruz,70703,Cabezas,2008,2,TOTAL,1
+Chuquisaca,10701,Camargo,2008,2,TOTAL,7
+Santa Cruz,70706,Camiri,2008,2,TOTAL,3
+Cochabamba,30701,Capinota,2008,2,TOTAL,1
+La Paz,22001,Caranavi,2008,2,TOTAL,4
+Santa Cruz,70702,Charagua,2008,2,TOTAL,1
+Potosí,50202,Chayanta,2008,2,TOTAL,1
+Cochabamba,31204,Chimore,2008,2,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,2,TOTAL,1
+Cochabamba,30801,Cliza,2008,2,TOTAL,1
+Pando,90101,Cobija,2008,2,TOTAL,3
+Cochabamba,30101,Cochabamba,2008,2,TOTAL,146
+Cochabamba,30905,Colcapirhua,2008,2,TOTAL,2
+Cochabamba,31002,Colomi,2008,2,TOTAL,2
+Santa Cruz,70603,Colpa Belgica,2008,2,TOTAL,1
+La Paz,21306,Colquencha,2008,2,TOTAL,1
+La Paz,21004,Colquiri,2008,2,TOTAL,3
+Santa Cruz,71301,Comarapa,2008,2,TOTAL,2
+La Paz,21402,Coripata,2008,2,TOTAL,1
+Potosí,50601,Cotagaita,2008,2,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,2,TOTAL,4
+Santa Cruz,71106,Cuatro Cañadas,2008,2,TOTAL,3
+Chuquisaca,10902,Culpina,2008,2,TOTAL,1
+La Paz,20105,El Alto,2008,2,TOTAL,123
+Santa Cruz,71503,El Puente(stc),2008,2,TOTAL,1
+Santa Cruz,70105,El Torno,2008,2,TOTAL,16
+Chuquisaca,10405,El Villar,2008,2,TOTAL,1
+Tarija,60601,Entre Rios,2008,2,TOTAL,2
+Santa Cruz,71004,Fernandez Alonso,2008,2,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,2,TOTAL,5
+Beni,80202,Guayaramerin,2008,2,TOTAL,13
+Chuquisaca,10502,Huacareta,2008,2,TOTAL,1
+Oruro,40501,Huachacalla,2008,2,TOTAL,1
+Oruro,40701,Huanuni,2008,2,TOTAL,2
+Chuquisaca,10703,Incahuasi,2008,2,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2008,2,TOTAL,2
+La Paz,21501,Ixiamas,2008,2,TOTAL,1
+La Paz,21105,La Asunta,2008,2,TOTAL,2
+Santa Cruz,70104,La Guardia,2008,2,TOTAL,11
+La Paz,20101,La Paz,2008,2,TOTAL,200
+Potosí,50203,Llallagua,2008,2,TOTAL,1
+Chuquisaca,11003,Machareti,2008,2,TOTAL,1
+Beni,80801,Magdalena,2008,2,TOTAL,1
+Santa Cruz,70903,Mairana,2008,2,TOTAL,1
+La Paz,20607,Mapiri,2008,2,TOTAL,1
+La Paz,20103,Mecapaca,2008,2,TOTAL,1
+Cochabamba,31301,Mizque,2008,2,TOTAL,3
+Chuquisaca,10501,Monteagudo,2008,2,TOTAL,7
+Santa Cruz,71001,Montero,2008,2,TOTAL,13
+Santa Cruz,70202,Okinawa,2008,2,TOTAL,1
+Oruro,40101,Oruro,2008,2,TOTAL,30
+Tarija,60201,Padcaya,2008,2,TOTAL,1
+Chuquisaca,10401,Padilla,2008,2,TOTAL,4
+Santa Cruz,70502,Pailon,2008,2,TOTAL,6
+La Paz,21104,Palos Blancos,2008,2,TOTAL,2
+Santa Cruz,70902,Pampa Grande,2008,2,TOTAL,1
+Chuquisaca,10103,Poroma,2008,2,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,2,TOTAL,6
+Santa Cruz,70804,Postrer Valle,2008,2,TOTAL,2
+Potosí,50101,Potosi,2008,2,TOTAL,21
+Cochabamba,31205,Puerto Villarroel,2008,2,TOTAL,6
+Cochabamba,31401,Punata,2008,2,TOTAL,8
+Cochabamba,30901,Quillacollo,2008,2,TOTAL,10
+Beni,80201,Riberalta,2008,2,TOTAL,4
+Beni,80304,Rurrenabaque,2008,2,TOTAL,3
+Cochabamba,31001,Sacaba,2008,2,TOTAL,18
+Beni,80302,San Borja,2008,2,TOTAL,5
+Santa Cruz,70402,San Carlos,2008,2,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2008,2,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2008,2,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,2,TOTAL,5
+Santa Cruz,70404,San Juan De Yapacani,2008,2,TOTAL,4
+Santa Cruz,71104,San Julian,2008,2,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2008,2,TOTAL,5
+Chuquisaca,10702,San Lucas,2008,2,TOTAL,1
+Santa Cruz,71201,San Matias,2008,2,TOTAL,1
+Santa Cruz,71005,San Pedro,2008,2,TOTAL,1
+Beni,80401,Santa Ana,2008,2,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,TOTAL,252
+Santa Cruz,70602,Santa Rosa Del Sara,2008,2,TOTAL,7
+Cochabamba,30902,Sipe Sipe,2008,2,TOTAL,11
+Chuquisaca,10101,Sucre,2008,2,TOTAL,126
+Cochabamba,30401,Tarata,2008,2,TOTAL,1
+Tarija,60101,Tarija,2008,2,TOTAL,81
+Cochabamba,30903,Tiquipaya,2008,2,TOTAL,11
+Cochabamba,31601,Tiraque (cbba),2008,2,TOTAL,3
+Beni,80101,Trinidad,2008,2,TOTAL,21
+Potosí,50801,Tupiza,2008,2,TOTAL,6
+Tarija,60401,Uriondo (a. Concepcion),2008,2,TOTAL,2
+Santa Cruz,71502,Urubicha,2008,2,TOTAL,3
+Potosí,51201,Uyuni,2008,2,TOTAL,1
+Santa Cruz,70801,Vallegrande,2008,2,TOTAL,5
+La Paz,20801,Viacha,2008,2,TOTAL,9
+Tarija,60303,Villa Montes,2008,2,TOTAL,7
+Cochabamba,31402,Villa Rivero,2008,2,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,2,TOTAL,6
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,2,TOTAL,2
+Potosí,51501,Villazon,2008,2,TOTAL,1
+Cochabamba,30904,Vinto,2008,2,TOTAL,6
+Santa Cruz,70201,Warnes,2008,2,TOTAL,5
+Tarija,60301,Yacuiba,2008,2,TOTAL,7
+Santa Cruz,70403,Yapacani,2008,2,TOTAL,2
+La Paz,20201,Achacachi,2008,3,TOTAL,1
+Cochabamba,30201,Aiquile,2008,3,TOTAL,4
+La Paz,20701,Apolo,2008,3,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,3,TOTAL,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,3,TOTAL,2
+Tarija,60202,Bermejo,2008,3,TOTAL,14
+La Paz,21003,Cajuata,2008,3,TOTAL,1
+Chuquisaca,10701,Camargo,2008,3,TOTAL,5
+Santa Cruz,70706,Camiri,2008,3,TOTAL,6
+Cochabamba,30701,Capinota,2008,3,TOTAL,4
+La Paz,22001,Caranavi,2008,3,TOTAL,3
+Oruro,40201,Challapata,2008,3,TOTAL,1
+Santa Cruz,70702,Charagua,2008,3,TOTAL,1
+Cochabamba,30801,Cliza,2008,3,TOTAL,5
+Pando,90101,Cobija,2008,3,TOTAL,6
+Cochabamba,30101,Cochabamba,2008,3,TOTAL,237
+Cochabamba,30905,Colcapirhua,2008,3,TOTAL,3
+Cochabamba,31002,Colomi,2008,3,TOTAL,3
+Santa Cruz,70603,Colpa Belgica,2008,3,TOTAL,5
+La Paz,21004,Colquiri,2008,3,TOTAL,1
+Santa Cruz,71301,Comarapa,2008,3,TOTAL,2
+La Paz,21402,Coripata,2008,3,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,3,TOTAL,5
+Santa Cruz,71106,Cuatro Cañadas,2008,3,TOTAL,3
+La Paz,20105,El Alto,2008,3,TOTAL,136
+Santa Cruz,71503,El Puente(stc),2008,3,TOTAL,4
+Santa Cruz,70105,El Torno,2008,3,TOTAL,13
+Tarija,60601,Entre Rios,2008,3,TOTAL,4
+Santa Cruz,71002,General Saavedra,2008,3,TOTAL,1
+Beni,80202,Guayaramerin,2008,3,TOTAL,3
+Chuquisaca,10502,Huacareta,2008,3,TOTAL,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2008,3,TOTAL,9
+Oruro,40501,Huachacalla,2008,3,TOTAL,1
+Oruro,40701,Huanuni,2008,3,TOTAL,4
+La Paz,21102,Irupana (villa De Lanza),2008,3,TOTAL,3
+Santa Cruz,70104,La Guardia,2008,3,TOTAL,18
+La Paz,20101,La Paz,2008,3,TOTAL,255
+Potosí,50203,Llallagua,2008,3,TOTAL,2
+Chuquisaca,11003,Machareti,2008,3,TOTAL,3
+Santa Cruz,70903,Mairana,2008,3,TOTAL,1
+Cochabamba,31301,Mizque,2008,3,TOTAL,4
+Chuquisaca,10501,Monteagudo,2008,3,TOTAL,9
+Santa Cruz,71001,Montero,2008,3,TOTAL,17
+Santa Cruz,70803,Moro Moro,2008,3,TOTAL,1
+Oruro,40101,Oruro,2008,3,TOTAL,42
+Chuquisaca,10401,Padilla,2008,3,TOTAL,9
+Santa Cruz,70502,Pailon,2008,3,TOTAL,4
+La Paz,21305,Patacamaya,2008,3,TOTAL,2
+Oruro,40602,Pazña,2008,3,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2008,3,TOTAL,2
+Chuquisaca,10103,Poroma,2008,3,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,3,TOTAL,5
+Potosí,50101,Potosi,2008,3,TOTAL,31
+Santa Cruz,70805,Pucara,2008,3,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2008,3,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,3,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,3,TOTAL,5
+Potosí,51101,Puna,2008,3,TOTAL,1
+Cochabamba,31401,Punata,2008,3,TOTAL,4
+Cochabamba,30901,Quillacollo,2008,3,TOTAL,9
+La Paz,21002,Quime,2008,3,TOTAL,1
+Santa Cruz,70904,Quirusillas,2008,3,TOTAL,1
+Beni,80201,Riberalta,2008,3,TOTAL,2
+Santa Cruz,70503,Robore,2008,3,TOTAL,1
+Beni,80304,Rurrenabaque,2008,3,TOTAL,2
+Cochabamba,31001,Sacaba,2008,3,TOTAL,28
+Santa Cruz,70901,Samaipata,2008,3,TOTAL,2
+Cochabamba,31403,San Benito,2008,3,TOTAL,2
+Beni,80302,San Borja,2008,3,TOTAL,8
+La Paz,21502,San Buena Ventura,2008,3,TOTAL,1
+Santa Cruz,70402,San Carlos,2008,3,TOTAL,4
+Beni,80501,San Ignacio,2008,3,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,3,TOTAL,8
+Santa Cruz,71102,San Javier(stc),2008,3,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2008,3,TOTAL,5
+Santa Cruz,70404,San Juan De Yapacani,2008,3,TOTAL,6
+Santa Cruz,71104,San Julian,2008,3,TOTAL,5
+Chuquisaca,10702,San Lucas,2008,3,TOTAL,1
+Beni,80702,San Ramon,2008,3,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTAL,321
+Santa Cruz,70602,Santa Rosa Del Sara,2008,3,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2008,3,TOTAL,10
+Chuquisaca,10101,Sucre,2008,3,TOTAL,94
+Tarija,60101,Tarija,2008,3,TOTAL,65
+La Paz,20606,Tipuani,2008,3,TOTAL,2
+Cochabamba,30903,Tiquipaya,2008,3,TOTAL,17
+Cochabamba,31601,Tiraque (cbba),2008,3,TOTAL,2
+Cochabamba,30802,Toco,2008,3,TOTAL,1
+Cochabamba,31201,Totora(cbba),2008,3,TOTAL,2
+Beni,80101,Trinidad,2008,3,TOTAL,22
+Potosí,50801,Tupiza,2008,3,TOTAL,11
+Tarija,60401,Uriondo (a. Concepcion),2008,3,TOTAL,2
+Santa Cruz,70801,Vallegrande,2008,3,TOTAL,5
+La Paz,20801,Viacha,2008,3,TOTAL,5
+Tarija,60303,Villa Montes,2008,3,TOTAL,6
+Cochabamba,31402,Villa Rivero,2008,3,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,3,TOTAL,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,3,TOTAL,6
+Potosí,51501,Villazon,2008,3,TOTAL,1
+Cochabamba,30904,Vinto,2008,3,TOTAL,4
+Santa Cruz,70201,Warnes,2008,3,TOTAL,9
+Tarija,60301,Yacuiba,2008,3,TOTAL,16
+Santa Cruz,70403,Yapacani,2008,3,TOTAL,7
+Potosí,51302,Acacio,2008,4,TOTAL,1
+Cochabamba,30201,Aiquile,2008,4,TOTAL,4
+La Paz,20701,Apolo,2008,4,TOTAL,2
+Cochabamba,30601,Arque,2008,4,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,4,TOTAL,2
+Potosí,50802,Atocha,2008,4,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,4,TOTAL,2
+Chuquisaca,10201,Azurduy,2008,4,TOTAL,1
+Tarija,60202,Bermejo,2008,4,TOTAL,6
+Santa Cruz,70707,Boyuibe,2008,4,TOTAL,1
+Santa Cruz,70401,Buena Vista,2008,4,TOTAL,2
+Chuquisaca,10701,Camargo,2008,4,TOTAL,4
+Santa Cruz,70706,Camiri,2008,4,TOTAL,3
+Cochabamba,30701,Capinota,2008,4,TOTAL,2
+La Paz,20302,Caquiaviri,2008,4,TOTAL,1
+La Paz,22001,Caranavi,2008,4,TOTAL,8
+Oruro,40201,Challapata,2008,4,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,4,TOTAL,1
+Cochabamba,30801,Cliza,2008,4,TOTAL,2
+Pando,90101,Cobija,2008,4,TOTAL,5
+Cochabamba,30101,Cochabamba,2008,4,TOTAL,154
+Cochabamba,30905,Colcapirhua,2008,4,TOTAL,3
+Cochabamba,31002,Colomi,2008,4,TOTAL,2
+Santa Cruz,70603,Colpa Belgica,2008,4,TOTAL,1
+La Paz,21004,Colquiri,2008,4,TOTAL,1
+Santa Cruz,71301,Comarapa,2008,4,TOTAL,1
+La Paz,21402,Coripata,2008,4,TOTAL,3
+Santa Cruz,70102,Cotoca,2008,4,TOTAL,4
+Santa Cruz,71106,Cuatro Cañadas,2008,4,TOTAL,1
+Chuquisaca,10902,Culpina,2008,4,TOTAL,1
+La Paz,20105,El Alto,2008,4,TOTAL,120
+Santa Cruz,71503,El Puente(stc),2008,4,TOTAL,1
+Tarija,60502,El Puente(tja),2008,4,TOTAL,3
+Santa Cruz,70105,El Torno,2008,4,TOTAL,30
+Tarija,60601,Entre Rios,2008,4,TOTAL,4
+Santa Cruz,71004,Fernandez Alonso,2008,4,TOTAL,2
+Beni,80202,Guayaramerin,2008,4,TOTAL,4
+Chuquisaca,10502,Huacareta,2008,4,TOTAL,1
+Oruro,40501,Huachacalla,2008,4,TOTAL,1
+Oruro,40701,Huanuni,2008,4,TOTAL,6
+Chuquisaca,10703,Incahuasi,2008,4,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,4,TOTAL,14
+La Paz,20101,La Paz,2008,4,TOTAL,240
+Santa Cruz,70701,Lagunillas,2008,4,TOTAL,1
+Potosí,50203,Llallagua,2008,4,TOTAL,1
+Chuquisaca,11003,Machareti,2008,4,TOTAL,5
+Santa Cruz,70903,Mairana,2008,4,TOTAL,3
+Santa Cruz,71003,Mineros,2008,4,TOTAL,2
+Cochabamba,31301,Mizque,2008,4,TOTAL,1
+Chuquisaca,10303,Mojocoya,2008,4,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,4,TOTAL,4
+Santa Cruz,71001,Montero,2008,4,TOTAL,6
+Santa Cruz,70803,Moro Moro,2008,4,TOTAL,1
+Santa Cruz,70202,Okinawa,2008,4,TOTAL,1
+Oruro,40101,Oruro,2008,4,TOTAL,53
+Chuquisaca,10401,Padilla,2008,4,TOTAL,8
+Santa Cruz,70502,Pailon,2008,4,TOTAL,5
+La Paz,21305,Patacamaya,2008,4,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2008,4,TOTAL,2
+Chuquisaca,10103,Poroma,2008,4,TOTAL,1
+Santa Cruz,70103,Porongo,2008,4,TOTAL,3
+Santa Cruz,70601,Portachuelo,2008,4,TOTAL,8
+Santa Cruz,70804,Postrer Valle,2008,4,TOTAL,1
+Potosí,50101,Potosi,2008,4,TOTAL,24
+La Paz,21201,Pucarani,2008,4,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,4,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2008,4,TOTAL,2
+Cochabamba,31401,Punata,2008,4,TOTAL,7
+Cochabamba,30901,Quillacollo,2008,4,TOTAL,3
+La Paz,21002,Quime,2008,4,TOTAL,1
+Beni,80201,Riberalta,2008,4,TOTAL,1
+Beni,80304,Rurrenabaque,2008,4,TOTAL,3
+Cochabamba,31001,Sacaba,2008,4,TOTAL,19
+Santa Cruz,71302,Saipina,2008,4,TOTAL,1
+Santa Cruz,70901,Samaipata,2008,4,TOTAL,4
+Beni,80302,San Borja,2008,4,TOTAL,17
+Santa Cruz,70402,San Carlos,2008,4,TOTAL,7
+Beni,80501,San Ignacio,2008,4,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,4,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2008,4,TOTAL,5
+Santa Cruz,70404,San Juan De Yapacani,2008,4,TOTAL,6
+Santa Cruz,71104,San Julian,2008,4,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2008,4,TOTAL,2
+Santa Cruz,71005,San Pedro,2008,4,TOTAL,1
+Beni,80702,San Ramon,2008,4,TOTAL,3
+Beni,80702,San Ramon,2008,4,TOTAL,1
+Beni,80401,Santa Ana,2008,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTAL,278
+Santa Cruz,70602,Santa Rosa Del Sara,2008,4,TOTAL,2
+Cochabamba,30702,Santivañes,2008,4,TOTAL,1
+La Paz,21301,Sica Sica (villa Aroma),2008,4,TOTAL,41
+Cochabamba,30902,Sipe Sipe,2008,4,TOTAL,10
+Chuquisaca,10101,Sucre,2008,4,TOTAL,87
+Cochabamba,31101,Tapacari,2008,4,TOTAL,1
+Tarija,60101,Tarija,2008,4,TOTAL,84
+La Paz,20606,Tipuani,2008,4,TOTAL,2
+Cochabamba,30903,Tiquipaya,2008,4,TOTAL,12
+Cochabamba,31601,Tiraque (cbba),2008,4,TOTAL,1
+Cochabamba,30802,Toco,2008,4,TOTAL,1
+Cochabamba,31201,Totora(cbba),2008,4,TOTAL,2
+Beni,80101,Trinidad,2008,4,TOTAL,24
+Potosí,50801,Tupiza,2008,4,TOTAL,7
+Tarija,60401,Uriondo (a. Concepcion),2008,4,TOTAL,1
+Santa Cruz,71502,Urubicha,2008,4,TOTAL,1
+Potosí,51201,Uyuni,2008,4,TOTAL,1
+Santa Cruz,70801,Vallegrande,2008,4,TOTAL,1
+La Paz,20801,Viacha,2008,4,TOTAL,11
+Tarija,60303,Villa Montes,2008,4,TOTAL,13
+Cochabamba,31402,Villa Rivero,2008,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,4,TOTAL,8
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,4,TOTAL,1
+Potosí,51501,Villazon,2008,4,TOTAL,1
+Cochabamba,30904,Vinto,2008,4,TOTAL,2
+Santa Cruz,70201,Warnes,2008,4,TOTAL,11
+Tarija,60301,Yacuiba,2008,4,TOTAL,15
+Santa Cruz,70403,Yapacani,2008,4,TOTAL,3
+La Paz,20104,Achocalla,2008,5,TOTAL,1
+La Paz,20202,Ancoraimes,2008,5,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,5,TOTAL,1
+Potosí,50802,Atocha,2008,5,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,5,TOTAL,4
+Tarija,60202,Bermejo,2008,5,TOTAL,8
+Santa Cruz,70401,Buena Vista,2008,5,TOTAL,3
+Santa Cruz,70703,Cabezas,2008,5,TOTAL,2
+Chuquisaca,10701,Camargo,2008,5,TOTAL,3
+Santa Cruz,70706,Camiri,2008,5,TOTAL,8
+Cochabamba,30701,Capinota,2008,5,TOTAL,4
+La Paz,22001,Caranavi,2008,5,TOTAL,12
+Oruro,40201,Challapata,2008,5,TOTAL,4
+Cochabamba,31204,Chimore,2008,5,TOTAL,2
+Cochabamba,30801,Cliza,2008,5,TOTAL,1
+Pando,90101,Cobija,2008,5,TOTAL,6
+Cochabamba,30101,Cochabamba,2008,5,TOTAL,164
+Cochabamba,30905,Colcapirhua,2008,5,TOTAL,2
+Cochabamba,31002,Colomi,2008,5,TOTAL,6
+Santa Cruz,70603,Colpa Belgica,2008,5,TOTAL,3
+La Paz,21402,Coripata,2008,5,TOTAL,2
+Potosí,50601,Cotagaita,2008,5,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,5,TOTAL,3
+Santa Cruz,71106,Cuatro Cañadas,2008,5,TOTAL,1
+Chuquisaca,10902,Culpina,2008,5,TOTAL,1
+La Paz,20105,El Alto,2008,5,TOTAL,137
+Tarija,60502,El Puente(tja),2008,5,TOTAL,1
+Santa Cruz,70105,El Torno,2008,5,TOTAL,28
+Tarija,60601,Entre Rios,2008,5,TOTAL,4
+Tarija,60601,Entre Rios,2008,5,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2008,5,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,5,TOTAL,2
+La Paz,20602,Guanay,2008,5,TOTAL,2
+Beni,80202,Guayaramerin,2008,5,TOTAL,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2008,5,TOTAL,2
+Oruro,40701,Huanuni,2008,5,TOTAL,3
+La Paz,21102,Irupana (villa De Lanza),2008,5,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,5,TOTAL,16
+La Paz,20101,La Paz,2008,5,TOTAL,225
+Santa Cruz,70701,Lagunillas,2008,5,TOTAL,1
+Potosí,50203,Llallagua,2008,5,TOTAL,1
+Chuquisaca,11003,Machareti,2008,5,TOTAL,1
+Beni,80801,Magdalena,2008,5,TOTAL,1
+Santa Cruz,70903,Mairana,2008,5,TOTAL,3
+La Paz,20607,Mapiri,2008,5,TOTAL,1
+Santa Cruz,71003,Mineros,2008,5,TOTAL,1
+Cochabamba,31301,Mizque,2008,5,TOTAL,4
+Chuquisaca,10501,Monteagudo,2008,5,TOTAL,4
+Santa Cruz,71001,Montero,2008,5,TOTAL,16
+Cochabamba,30302,Morochata,2008,5,TOTAL,1
+Oruro,40101,Oruro,2008,5,TOTAL,31
+Chuquisaca,10401,Padilla,2008,5,TOTAL,2
+Santa Cruz,70502,Pailon,2008,5,TOTAL,2
+La Paz,21104,Palos Blancos,2008,5,TOTAL,4
+La Paz,21305,Patacamaya,2008,5,TOTAL,5
+Chuquisaca,10103,Poroma,2008,5,TOTAL,1
+Santa Cruz,70103,Porongo,2008,5,TOTAL,2
+Santa Cruz,70601,Portachuelo,2008,5,TOTAL,5
+Potosí,50101,Potosi,2008,5,TOTAL,34
+Santa Cruz,71401,Puerto Suarez,2008,5,TOTAL,4
+Cochabamba,31205,Puerto Villarroel,2008,5,TOTAL,5
+Cochabamba,31401,Punata,2008,5,TOTAL,6
+Cochabamba,30901,Quillacollo,2008,5,TOTAL,11
+Beni,80301,Reyes,2008,5,TOTAL,1
+Beni,80201,Riberalta,2008,5,TOTAL,5
+Beni,80304,Rurrenabaque,2008,5,TOTAL,2
+Cochabamba,31001,Sacaba,2008,5,TOTAL,20
+Beni,80302,San Borja,2008,5,TOTAL,4
+La Paz,21502,San Buena Ventura,2008,5,TOTAL,2
+Santa Cruz,70402,San Carlos,2008,5,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,5,TOTAL,3
+Santa Cruz,71102,San Javier(stc),2008,5,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2008,5,TOTAL,4
+Santa Cruz,70404,San Juan De Yapacani,2008,5,TOTAL,8
+Santa Cruz,71104,San Julian,2008,5,TOTAL,6
+Santa Cruz,71201,San Matias,2008,5,TOTAL,1
+Santa Cruz,71005,San Pedro,2008,5,TOTAL,1
+Beni,80702,San Ramon,2008,5,TOTAL,1
+Beni,80401,Santa Ana,2008,5,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTAL,245
+Beni,80303,Santa Rosa,2008,5,TOTAL,4
+Santa Cruz,70602,Santa Rosa Del Sara,2008,5,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2008,5,TOTAL,5
+Chuquisaca,10101,Sucre,2008,5,TOTAL,96
+Cochabamba,30401,Tarata,2008,5,TOTAL,1
+Tarija,60101,Tarija,2008,5,TOTAL,51
+La Paz,20606,Tipuani,2008,5,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,5,TOTAL,14
+Cochabamba,31601,Tiraque (cbba),2008,5,TOTAL,3
+Cochabamba,30802,Toco,2008,5,TOTAL,1
+Chuquisaca,10402,Tomina,2008,5,TOTAL,1
+Beni,80101,Trinidad,2008,5,TOTAL,29
+Potosí,50801,Tupiza,2008,5,TOTAL,10
+Potosí,50201,Uncia,2008,5,TOTAL,2
+Tarija,60401,Uriondo (a. Concepcion),2008,5,TOTAL,2
+Santa Cruz,71502,Urubicha,2008,5,TOTAL,1
+Potosí,51201,Uyuni,2008,5,TOTAL,2
+Santa Cruz,70801,Vallegrande,2008,5,TOTAL,10
+La Paz,20801,Viacha,2008,5,TOTAL,7
+Tarija,60303,Villa Montes,2008,5,TOTAL,5
+Cochabamba,31003,Villa Tunari,2008,5,TOTAL,8
+Potosí,51501,Villazon,2008,5,TOTAL,3
+Cochabamba,30904,Vinto,2008,5,TOTAL,3
+Santa Cruz,70201,Warnes,2008,5,TOTAL,5
+Tarija,60301,Yacuiba,2008,5,TOTAL,4
+Santa Cruz,70403,Yapacani,2008,5,TOTAL,3
+Cochabamba,30201,Aiquile,2008,6,TOTAL,5
+Oruro,40603,Antequera,2008,6,TOTAL,1
+La Paz,20701,Apolo,2008,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,6,TOTAL,10
+Potosí,50802,Atocha,2008,6,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,6,TOTAL,1
+Chuquisaca,10201,Azurduy,2008,6,TOTAL,1
+La Paz,21203,Batallas,2008,6,TOTAL,1
+Tarija,60202,Bermejo,2008,6,TOTAL,10
+Santa Cruz,70401,Buena Vista,2008,6,TOTAL,1
+Chuquisaca,10701,Camargo,2008,6,TOTAL,1
+Santa Cruz,70706,Camiri,2008,6,TOTAL,9
+La Paz,20302,Caquiaviri,2008,6,TOTAL,1
+La Paz,22001,Caranavi,2008,6,TOTAL,4
+Oruro,40201,Challapata,2008,6,TOTAL,2
+Santa Cruz,70702,Charagua,2008,6,TOTAL,1
+Cochabamba,31204,Chimore,2008,6,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,6,TOTAL,1
+Cochabamba,30801,Cliza,2008,6,TOTAL,2
+Pando,90101,Cobija,2008,6,TOTAL,5
+Cochabamba,30101,Cochabamba,2008,6,TOTAL,179
+Cochabamba,30905,Colcapirhua,2008,6,TOTAL,3
+Cochabamba,31002,Colomi,2008,6,TOTAL,1
+Santa Cruz,70603,Colpa Belgica,2008,6,TOTAL,1
+La Paz,21004,Colquiri,2008,6,TOTAL,1
+Santa Cruz,71101,Concepcion,2008,6,TOTAL,1
+La Paz,21701,Copacabana,2008,6,TOTAL,1
+La Paz,21401,Coroico,2008,6,TOTAL,1
+Potosí,50601,Cotagaita,2008,6,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,6,TOTAL,7
+Oruro,40401,Curahuara De Carangas,2008,6,TOTAL,1
+La Paz,20105,El Alto,2008,6,TOTAL,115
+Santa Cruz,71503,El Puente(stc),2008,6,TOTAL,1
+Santa Cruz,70105,El Torno,2008,6,TOTAL,18
+Tarija,60601,Entre Rios,2008,6,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2008,6,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,6,TOTAL,7
+La Paz,21601,Gral. J.j. Perez (charazani),2008,6,TOTAL,1
+La Paz,20602,Guanay,2008,6,TOTAL,4
+Beni,80202,Guayaramerin,2008,6,TOTAL,4
+Chuquisaca,10502,Huacareta,2008,6,TOTAL,2
+Oruro,40501,Huachacalla,2008,6,TOTAL,2
+Oruro,40701,Huanuni,2008,6,TOTAL,7
+Chuquisaca,10703,Incahuasi,2008,6,TOTAL,1
+La Paz,21105,La Asunta,2008,6,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,6,TOTAL,14
+La Paz,20101,La Paz,2008,6,TOTAL,303
+La Paz,20901,Luribay,2008,6,TOTAL,1
+Chuquisaca,11003,Machareti,2008,6,TOTAL,1
+Santa Cruz,70903,Mairana,2008,6,TOTAL,1
+La Paz,20607,Mapiri,2008,6,TOTAL,3
+Santa Cruz,71003,Mineros,2008,6,TOTAL,3
+Cochabamba,31301,Mizque,2008,6,TOTAL,3
+Chuquisaca,10501,Monteagudo,2008,6,TOTAL,15
+Santa Cruz,71001,Montero,2008,6,TOTAL,21
+Potosí,50404,Ocuri,2008,6,TOTAL,1
+Santa Cruz,70202,Okinawa,2008,6,TOTAL,2
+Oruro,40101,Oruro,2008,6,TOTAL,38
+Tarija,60201,Padcaya,2008,6,TOTAL,1
+Santa Cruz,70502,Pailon,2008,6,TOTAL,4
+La Paz,21104,Palos Blancos,2008,6,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2008,6,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,6,TOTAL,3
+Potosí,50101,Potosi,2008,6,TOTAL,29
+Santa Cruz,71401,Puerto Suarez,2008,6,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2008,6,TOTAL,5
+Potosí,51101,Puna,2008,6,TOTAL,1
+Cochabamba,31401,Punata,2008,6,TOTAL,8
+Cochabamba,30901,Quillacollo,2008,6,TOTAL,4
+Beni,80201,Riberalta,2008,6,TOTAL,8
+Santa Cruz,70503,Robore,2008,6,TOTAL,1
+Beni,80304,Rurrenabaque,2008,6,TOTAL,2
+Cochabamba,31001,Sacaba,2008,6,TOTAL,22
+Santa Cruz,70901,Samaipata,2008,6,TOTAL,3
+Beni,80602,San Andres,2008,6,TOTAL,2
+Beni,80302,San Borja,2008,6,TOTAL,5
+La Paz,21502,San Buena Ventura,2008,6,TOTAL,4
+Santa Cruz,70402,San Carlos,2008,6,TOTAL,9
+Beni,80501,San Ignacio,2008,6,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,6,TOTAL,10
+Santa Cruz,71102,San Javier(stc),2008,6,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2008,6,TOTAL,5
+Santa Cruz,70404,San Juan De Yapacani,2008,6,TOTAL,5
+Santa Cruz,71104,San Julian,2008,6,TOTAL,5
+Tarija,60501,San Lorenzo(tja),2008,6,TOTAL,2
+Chuquisaca,10702,San Lucas,2008,6,TOTAL,3
+Santa Cruz,71201,San Matias,2008,6,TOTAL,1
+Santa Cruz,71005,San Pedro,2008,6,TOTAL,2
+Beni,80702,San Ramon,2008,6,TOTAL,1
+Beni,80401,Santa Ana,2008,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTAL,221
+Beni,80303,Santa Rosa,2008,6,TOTAL,1
+Santa Cruz,70602,Santa Rosa Del Sara,2008,6,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2008,6,TOTAL,13
+Chuquisaca,10101,Sucre,2008,6,TOTAL,94
+Cochabamba,31101,Tapacari,2008,6,TOTAL,1
+Cochabamba,30401,Tarata,2008,6,TOTAL,3
+Tarija,60101,Tarija,2008,6,TOTAL,55
+La Paz,20606,Tipuani,2008,6,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,6,TOTAL,10
+Cochabamba,31601,Tiraque (cbba),2008,6,TOTAL,1
+Cochabamba,30802,Toco,2008,6,TOTAL,2
+Cochabamba,31201,Totora(cbba),2008,6,TOTAL,1
+Santa Cruz,70802,Trigal,2008,6,TOTAL,1
+Beni,80101,Trinidad,2008,6,TOTAL,37
+Potosí,50801,Tupiza,2008,6,TOTAL,9
+Potosí,50201,Uncia,2008,6,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2008,6,TOTAL,4
+Santa Cruz,71502,Urubicha,2008,6,TOTAL,2
+Potosí,51201,Uyuni,2008,6,TOTAL,1
+Santa Cruz,70801,Vallegrande,2008,6,TOTAL,3
+La Paz,20801,Viacha,2008,6,TOTAL,3
+Tarija,60303,Villa Montes,2008,6,TOTAL,8
+Cochabamba,31402,Villa Rivero,2008,6,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,6,TOTAL,12
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,6,TOTAL,1
+Potosí,51501,Villazon,2008,6,TOTAL,2
+Cochabamba,30904,Vinto,2008,6,TOTAL,3
+Santa Cruz,70201,Warnes,2008,6,TOTAL,13
+Tarija,60301,Yacuiba,2008,6,TOTAL,10
+La Paz,21103,Yanacachi,2008,6,TOTAL,1
+Santa Cruz,70403,Yapacani,2008,6,TOTAL,2
+Cochabamba,30201,Aiquile,2008,7,TOTAL,2
+Chuquisaca,10404,Alcala,2008,7,TOTAL,1
+La Paz,20701,Apolo,2008,7,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2008,7,TOTAL,8
+Potosí,50802,Atocha,2008,7,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,7,TOTAL,2
+La Paz,21203,Batallas,2008,7,TOTAL,1
+Tarija,60202,Bermejo,2008,7,TOTAL,9
+Santa Cruz,70707,Boyuibe,2008,7,TOTAL,2
+Santa Cruz,70401,Buena Vista,2008,7,TOTAL,6
+La Paz,21003,Cajuata,2008,7,TOTAL,2
+Chuquisaca,10701,Camargo,2008,7,TOTAL,7
+Santa Cruz,70706,Camiri,2008,7,TOTAL,4
+Cochabamba,30701,Capinota,2008,7,TOTAL,4
+La Paz,22001,Caranavi,2008,7,TOTAL,4
+Oruro,40201,Challapata,2008,7,TOTAL,1
+Santa Cruz,70702,Charagua,2008,7,TOTAL,1
+Cochabamba,31204,Chimore,2008,7,TOTAL,2
+Cochabamba,30801,Cliza,2008,7,TOTAL,1
+Pando,90101,Cobija,2008,7,TOTAL,10
+Cochabamba,30101,Cochabamba,2008,7,TOTAL,179
+Cochabamba,30905,Colcapirhua,2008,7,TOTAL,3
+Cochabamba,31002,Colomi,2008,7,TOTAL,1
+La Paz,21004,Colquiri,2008,7,TOTAL,1
+La Paz,21701,Copacabana,2008,7,TOTAL,1
+La Paz,21401,Coroico,2008,7,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,7,TOTAL,7
+Santa Cruz,71106,Cuatro Cañadas,2008,7,TOTAL,1
+La Paz,20105,El Alto,2008,7,TOTAL,104
+Tarija,60502,El Puente(tja),2008,7,TOTAL,2
+Santa Cruz,70105,El Torno,2008,7,TOTAL,24
+Tarija,60601,Entre Rios,2008,7,TOTAL,3
+Tarija,60601,Entre Rios,2008,7,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2008,7,TOTAL,2
+Santa Cruz,71002,General Saavedra,2008,7,TOTAL,3
+La Paz,20602,Guanay,2008,7,TOTAL,4
+Beni,80202,Guayaramerin,2008,7,TOTAL,12
+Chuquisaca,10502,Huacareta,2008,7,TOTAL,2
+Oruro,40701,Huanuni,2008,7,TOTAL,5
+La Paz,21102,Irupana (villa De Lanza),2008,7,TOTAL,2
+Santa Cruz,70104,La Guardia,2008,7,TOTAL,15
+La Paz,20101,La Paz,2008,7,TOTAL,305
+Chuquisaca,10903,Las Carreras,2008,7,TOTAL,1
+Oruro,40702,Machacamarca,2008,7,TOTAL,1
+Chuquisaca,11003,Machareti,2008,7,TOTAL,1
+Santa Cruz,70903,Mairana,2008,7,TOTAL,2
+La Paz,20607,Mapiri,2008,7,TOTAL,4
+Santa Cruz,71003,Mineros,2008,7,TOTAL,4
+Cochabamba,31301,Mizque,2008,7,TOTAL,5
+Chuquisaca,10501,Monteagudo,2008,7,TOTAL,7
+Santa Cruz,71001,Montero,2008,7,TOTAL,13
+Santa Cruz,70202,Okinawa,2008,7,TOTAL,15
+Oruro,40101,Oruro,2008,7,TOTAL,32
+Chuquisaca,10401,Padilla,2008,7,TOTAL,4
+Santa Cruz,70502,Pailon,2008,7,TOTAL,1
+La Paz,21104,Palos Blancos,2008,7,TOTAL,2
+Santa Cruz,70902,Pampa Grande,2008,7,TOTAL,5
+La Paz,21305,Patacamaya,2008,7,TOTAL,2
+Cochabamba,31202,Pojo (cbba),2008,7,TOTAL,5
+Santa Cruz,70103,Porongo,2008,7,TOTAL,2
+Santa Cruz,70601,Portachuelo,2008,7,TOTAL,6
+Santa Cruz,70804,Postrer Valle,2008,7,TOTAL,1
+Potosí,50101,Potosi,2008,7,TOTAL,53
+Santa Cruz,71402,Puerto Quijarro,2008,7,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2008,7,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,7,TOTAL,5
+Cochabamba,31401,Punata,2008,7,TOTAL,7
+Cochabamba,30901,Quillacollo,2008,7,TOTAL,10
+La Paz,21002,Quime,2008,7,TOTAL,1
+Beni,80201,Riberalta,2008,7,TOTAL,1
+Santa Cruz,70503,Robore,2008,7,TOTAL,1
+Beni,80304,Rurrenabaque,2008,7,TOTAL,1
+Cochabamba,31001,Sacaba,2008,7,TOTAL,21
+Santa Cruz,70901,Samaipata,2008,7,TOTAL,1
+Beni,80302,San Borja,2008,7,TOTAL,5
+La Paz,21502,San Buena Ventura,2008,7,TOTAL,3
+Santa Cruz,70402,San Carlos,2008,7,TOTAL,1
+Beni,80501,San Ignacio,2008,7,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2008,7,TOTAL,14
+Santa Cruz,71102,San Javier(stc),2008,7,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,7,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2008,7,TOTAL,5
+Santa Cruz,71104,San Julian,2008,7,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2008,7,TOTAL,1
+Chuquisaca,10702,San Lucas,2008,7,TOTAL,2
+Santa Cruz,70302,San Miguel De Velasco,2008,7,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2008,7,TOTAL,1
+Beni,80401,Santa Ana,2008,7,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTAL,372
+Santa Cruz,70602,Santa Rosa Del Sara,2008,7,TOTAL,5
+Cochabamba,30902,Sipe Sipe,2008,7,TOTAL,6
+Chuquisaca,10101,Sucre,2008,7,TOTAL,89
+Cochabamba,31101,Tapacari,2008,7,TOTAL,1
+Cochabamba,30401,Tarata,2008,7,TOTAL,1
+Tarija,60101,Tarija,2008,7,TOTAL,76
+La Paz,20608,Teoponte,2008,7,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,7,TOTAL,19
+Cochabamba,31601,Tiraque (cbba),2008,7,TOTAL,3
+Potosí,50502,Toro Toro,2008,7,TOTAL,2
+Cochabamba,31201,Totora(cbba),2008,7,TOTAL,2
+Beni,80101,Trinidad,2008,7,TOTAL,27
+Potosí,50801,Tupiza,2008,7,TOTAL,4
+Santa Cruz,71502,Urubicha,2008,7,TOTAL,3
+Potosí,51201,Uyuni,2008,7,TOTAL,1
+Santa Cruz,70801,Vallegrande,2008,7,TOTAL,4
+La Paz,20801,Viacha,2008,7,TOTAL,4
+Tarija,60303,Villa Montes,2008,7,TOTAL,11
+Cochabamba,31003,Villa Tunari,2008,7,TOTAL,8
+Cochabamba,30904,Vinto,2008,7,TOTAL,8
+Santa Cruz,70201,Warnes,2008,7,TOTAL,16
+Tarija,60301,Yacuiba,2008,7,TOTAL,14
+Santa Cruz,70403,Yapacani,2008,7,TOTAL,6
+Cochabamba,30201,Aiquile,2008,8,TOTAL,5
+Oruro,41201,Andamarca,2008,8,TOTAL,1
+Cochabamba,30501,Arani,2008,8,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,8,TOTAL,20
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,8,TOTAL,3
+La Paz,21203,Batallas,2008,8,TOTAL,2
+Tarija,60202,Bermejo,2008,8,TOTAL,8
+Santa Cruz,70401,Buena Vista,2008,8,TOTAL,1
+Chuquisaca,10701,Camargo,2008,8,TOTAL,5
+Santa Cruz,70706,Camiri,2008,8,TOTAL,10
+Cochabamba,30701,Capinota,2008,8,TOTAL,1
+La Paz,22001,Caranavi,2008,8,TOTAL,8
+Santa Cruz,70702,Charagua,2008,8,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,8,TOTAL,1
+Cochabamba,30801,Cliza,2008,8,TOTAL,6
+Pando,90101,Cobija,2008,8,TOTAL,10
+Cochabamba,30101,Cochabamba,2008,8,TOTAL,148
+Cochabamba,30905,Colcapirhua,2008,8,TOTAL,2
+Cochabamba,31002,Colomi,2008,8,TOTAL,1
+Santa Cruz,70603,Colpa Belgica,2008,8,TOTAL,2
+La Paz,21004,Colquiri,2008,8,TOTAL,1
+La Paz,21701,Copacabana,2008,8,TOTAL,1
+La Paz,21402,Coripata,2008,8,TOTAL,4
+Potosí,50601,Cotagaita,2008,8,TOTAL,2
+Santa Cruz,70102,Cotoca,2008,8,TOTAL,4
+La Paz,20105,El Alto,2008,8,TOTAL,118
+Santa Cruz,71503,El Puente(stc),2008,8,TOTAL,1
+Santa Cruz,70105,El Torno,2008,8,TOTAL,22
+Tarija,60601,Entre Rios,2008,8,TOTAL,2
+Tarija,60601,Entre Rios,2008,8,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2008,8,TOTAL,3
+Santa Cruz,71002,General Saavedra,2008,8,TOTAL,1
+La Paz,20602,Guanay,2008,8,TOTAL,1
+Beni,80202,Guayaramerin,2008,8,TOTAL,12
+Oruro,40701,Huanuni,2008,8,TOTAL,1
+Chuquisaca,10703,Incahuasi,2008,8,TOTAL,1
+La Paz,21501,Ixiamas,2008,8,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,8,TOTAL,21
+La Paz,20101,La Paz,2008,8,TOTAL,238
+Potosí,50203,Llallagua,2008,8,TOTAL,3
+Chuquisaca,11003,Machareti,2008,8,TOTAL,1
+Santa Cruz,70903,Mairana,2008,8,TOTAL,3
+La Paz,20607,Mapiri,2008,8,TOTAL,1
+Santa Cruz,71003,Mineros,2008,8,TOTAL,4
+Cochabamba,31301,Mizque,2008,8,TOTAL,2
+Chuquisaca,10501,Monteagudo,2008,8,TOTAL,3
+Santa Cruz,71001,Montero,2008,8,TOTAL,13
+Cochabamba,30302,Morochata,2008,8,TOTAL,2
+Santa Cruz,70202,Okinawa,2008,8,TOTAL,2
+Oruro,40101,Oruro,2008,8,TOTAL,47
+Tarija,60201,Padcaya,2008,8,TOTAL,1
+Chuquisaca,10401,Padilla,2008,8,TOTAL,2
+Santa Cruz,70502,Pailon,2008,8,TOTAL,6
+Santa Cruz,70902,Pampa Grande,2008,8,TOTAL,2
+Cochabamba,31203,Pocona,2008,8,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2008,8,TOTAL,2
+Chuquisaca,10103,Poroma,2008,8,TOTAL,1
+Santa Cruz,70103,Porongo,2008,8,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,8,TOTAL,4
+Santa Cruz,70804,Postrer Valle,2008,8,TOTAL,1
+Potosí,50101,Potosi,2008,8,TOTAL,28
+Santa Cruz,71402,Puerto Quijarro,2008,8,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,8,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2008,8,TOTAL,4
+Cochabamba,31401,Punata,2008,8,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,8,TOTAL,15
+La Paz,21002,Quime,2008,8,TOTAL,1
+Potosí,50402,Ravelo,2008,8,TOTAL,1
+Beni,80201,Riberalta,2008,8,TOTAL,4
+Santa Cruz,70503,Robore,2008,8,TOTAL,1
+Cochabamba,31001,Sacaba,2008,8,TOTAL,25
+Santa Cruz,70901,Samaipata,2008,8,TOTAL,1
+Beni,80302,San Borja,2008,8,TOTAL,14
+Santa Cruz,70402,San Carlos,2008,8,TOTAL,4
+Beni,80501,San Ignacio,2008,8,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,8,TOTAL,6
+Santa Cruz,71102,San Javier(stc),2008,8,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2008,8,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2008,8,TOTAL,3
+Santa Cruz,71104,San Julian,2008,8,TOTAL,2
+Santa Cruz,71201,San Matias,2008,8,TOTAL,1
+Beni,80702,San Ramon,2008,8,TOTAL,2
+Beni,80401,Santa Ana,2008,8,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTAL,285
+Santa Cruz,70602,Santa Rosa Del Sara,2008,8,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2008,8,TOTAL,7
+Chuquisaca,10101,Sucre,2008,8,TOTAL,110
+Tarija,60101,Tarija,2008,8,TOTAL,69
+La Paz,20606,Tipuani,2008,8,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,8,TOTAL,15
+Cochabamba,31601,Tiraque (cbba),2008,8,TOTAL,3
+Chuquisaca,10402,Tomina,2008,8,TOTAL,1
+Cochabamba,31201,Totora(cbba),2008,8,TOTAL,2
+Beni,80101,Trinidad,2008,8,TOTAL,26
+Potosí,50801,Tupiza,2008,8,TOTAL,7
+Potosí,50201,Uncia,2008,8,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2008,8,TOTAL,2
+Potosí,51201,Uyuni,2008,8,TOTAL,3
+Santa Cruz,70801,Vallegrande,2008,8,TOTAL,3
+La Paz,20801,Viacha,2008,8,TOTAL,2
+Tarija,60303,Villa Montes,2008,8,TOTAL,3
+Cochabamba,31003,Villa Tunari,2008,8,TOTAL,10
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,8,TOTAL,1
+Potosí,51501,Villazon,2008,8,TOTAL,7
+Cochabamba,30904,Vinto,2008,8,TOTAL,9
+Santa Cruz,70201,Warnes,2008,8,TOTAL,8
+Tarija,60301,Yacuiba,2008,8,TOTAL,8
+Santa Cruz,70403,Yapacani,2008,8,TOTAL,5
+Potosí,51302,Acacio,2008,9,TOTAL,1
+La Paz,20104,Achocalla,2008,9,TOTAL,1
+Cochabamba,30201,Aiquile,2008,9,TOTAL,5
+Cochabamba,30501,Arani,2008,9,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,9,TOTAL,10
+Potosí,50802,Atocha,2008,9,TOTAL,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,9,TOTAL,3
+Tarija,60202,Bermejo,2008,9,TOTAL,4
+Santa Cruz,70703,Cabezas,2008,9,TOTAL,1
+Chuquisaca,10701,Camargo,2008,9,TOTAL,4
+Santa Cruz,70706,Camiri,2008,9,TOTAL,9
+Cochabamba,30701,Capinota,2008,9,TOTAL,4
+La Paz,22001,Caranavi,2008,9,TOTAL,3
+Oruro,40201,Challapata,2008,9,TOTAL,1
+Santa Cruz,70702,Charagua,2008,9,TOTAL,1
+Cochabamba,31204,Chimore,2008,9,TOTAL,4
+Cochabamba,30801,Cliza,2008,9,TOTAL,1
+Pando,90101,Cobija,2008,9,TOTAL,4
+Cochabamba,30101,Cochabamba,2008,9,TOTAL,205
+Cochabamba,30905,Colcapirhua,2008,9,TOTAL,7
+Cochabamba,31002,Colomi,2008,9,TOTAL,2
+Santa Cruz,70603,Colpa Belgica,2008,9,TOTAL,2
+La Paz,21004,Colquiri,2008,9,TOTAL,1
+Santa Cruz,71301,Comarapa,2008,9,TOTAL,3
+Santa Cruz,71101,Concepcion,2008,9,TOTAL,1
+La Paz,21701,Copacabana,2008,9,TOTAL,1
+La Paz,21402,Coripata,2008,9,TOTAL,2
+Santa Cruz,70102,Cotoca,2008,9,TOTAL,4
+Chuquisaca,10902,Culpina,2008,9,TOTAL,1
+La Paz,20105,El Alto,2008,9,TOTAL,132
+Tarija,60502,El Puente(tja),2008,9,TOTAL,2
+Santa Cruz,70105,El Torno,2008,9,TOTAL,10
+Tarija,60601,Entre Rios,2008,9,TOTAL,7
+Santa Cruz,71002,General Saavedra,2008,9,TOTAL,2
+La Paz,20602,Guanay,2008,9,TOTAL,1
+Beni,80202,Guayaramerin,2008,9,TOTAL,7
+Chuquisaca,10502,Huacareta,2008,9,TOTAL,1
+Chuquisaca,10703,Incahuasi,2008,9,TOTAL,1
+La Paz,21001,Inquisivi,2008,9,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2008,9,TOTAL,1
+La Paz,21501,Ixiamas,2008,9,TOTAL,3
+Santa Cruz,70104,La Guardia,2008,9,TOTAL,21
+La Paz,20101,La Paz,2008,9,TOTAL,234
+Santa Cruz,70903,Mairana,2008,9,TOTAL,1
+La Paz,20607,Mapiri,2008,9,TOTAL,2
+Santa Cruz,71003,Mineros,2008,9,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,9,TOTAL,10
+Santa Cruz,71001,Montero,2008,9,TOTAL,13
+Santa Cruz,70803,Moro Moro,2008,9,TOTAL,1
+Santa Cruz,70202,Okinawa,2008,9,TOTAL,1
+Oruro,40101,Oruro,2008,9,TOTAL,46
+Tarija,60201,Padcaya,2008,9,TOTAL,1
+Santa Cruz,70502,Pailon,2008,9,TOTAL,5
+La Paz,21305,Patacamaya,2008,9,TOTAL,1
+Cochabamba,31203,Pocona,2008,9,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2008,9,TOTAL,1
+Chuquisaca,10103,Poroma,2008,9,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,9,TOTAL,6
+Potosí,50101,Potosi,2008,9,TOTAL,43
+Santa Cruz,71402,Puerto Quijarro,2008,9,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,9,TOTAL,4
+Cochabamba,31205,Puerto Villarroel,2008,9,TOTAL,5
+Cochabamba,31401,Punata,2008,9,TOTAL,4
+Cochabamba,30901,Quillacollo,2008,9,TOTAL,6
+La Paz,21002,Quime,2008,9,TOTAL,2
+Beni,80301,Reyes,2008,9,TOTAL,2
+Beni,80201,Riberalta,2008,9,TOTAL,1
+Santa Cruz,70503,Robore,2008,9,TOTAL,4
+Cochabamba,31001,Sacaba,2008,9,TOTAL,37
+Cochabamba,30404,Sacabamba,2008,9,TOTAL,1
+Santa Cruz,71302,Saipina,2008,9,TOTAL,1
+Beni,80302,San Borja,2008,9,TOTAL,12
+Santa Cruz,70402,San Carlos,2008,9,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,9,TOTAL,7
+Santa Cruz,71102,San Javier(stc),2008,9,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,9,TOTAL,4
+Santa Cruz,70404,San Juan De Yapacani,2008,9,TOTAL,2
+Santa Cruz,71104,San Julian,2008,9,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2008,9,TOTAL,3
+Chuquisaca,10702,San Lucas,2008,9,TOTAL,1
+Santa Cruz,71201,San Matias,2008,9,TOTAL,2
+Beni,80401,Santa Ana,2008,9,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTAL,272
+Beni,80303,Santa Rosa,2008,9,TOTAL,1
+Santa Cruz,70602,Santa Rosa Del Sara,2008,9,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2008,9,TOTAL,9
+Chuquisaca,10101,Sucre,2008,9,TOTAL,86
+Cochabamba,30401,Tarata,2008,9,TOTAL,1
+Tarija,60101,Tarija,2008,9,TOTAL,60
+Cochabamba,30903,Tiquipaya,2008,9,TOTAL,15
+Cochabamba,31601,Tiraque (cbba),2008,9,TOTAL,2
+Chuquisaca,10402,Tomina,2008,9,TOTAL,1
+Beni,80101,Trinidad,2008,9,TOTAL,17
+Potosí,50801,Tupiza,2008,9,TOTAL,4
+Potosí,50201,Uncia,2008,9,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2008,9,TOTAL,5
+Santa Cruz,71502,Urubicha,2008,9,TOTAL,1
+Potosí,51201,Uyuni,2008,9,TOTAL,2
+Santa Cruz,70801,Vallegrande,2008,9,TOTAL,6
+Tarija,60303,Villa Montes,2008,9,TOTAL,3
+Cochabamba,31003,Villa Tunari,2008,9,TOTAL,1
+Potosí,51501,Villazon,2008,9,TOTAL,2
+Cochabamba,30904,Vinto,2008,9,TOTAL,3
+Santa Cruz,70201,Warnes,2008,9,TOTAL,16
+Tarija,60301,Yacuiba,2008,9,TOTAL,8
+La Paz,21103,Yanacachi,2008,9,TOTAL,1
+Santa Cruz,70403,Yapacani,2008,9,TOTAL,2
+Cochabamba,30201,Aiquile,2008,10,TOTAL,2
+Cochabamba,30501,Arani,2008,10,TOTAL,2
+Potosí,50802,Atocha,2008,10,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,10,TOTAL,1
+Chuquisaca,10201,Azurduy,2008,10,TOTAL,1
+La Paz,21203,Batallas,2008,10,TOTAL,1
+Beni,80802,Baures,2008,10,TOTAL,1
+Tarija,60202,Bermejo,2008,10,TOTAL,26
+Santa Cruz,70401,Buena Vista,2008,10,TOTAL,1
+Santa Cruz,70703,Cabezas,2008,10,TOTAL,1
+La Paz,20905,Cairoma,2008,10,TOTAL,1
+La Paz,21003,Cajuata,2008,10,TOTAL,1
+Chuquisaca,10701,Camargo,2008,10,TOTAL,3
+Santa Cruz,70706,Camiri,2008,10,TOTAL,6
+Cochabamba,30701,Capinota,2008,10,TOTAL,5
+Oruro,40102,Caracollo,2008,10,TOTAL,1
+La Paz,22001,Caranavi,2008,10,TOTAL,1
+Tarija,60302,Carapari,2008,10,TOTAL,4
+Santa Cruz,70702,Charagua,2008,10,TOTAL,4
+Pando,90101,Cobija,2008,10,TOTAL,6
+Cochabamba,30101,Cochabamba,2008,10,TOTAL,217
+Cochabamba,30905,Colcapirhua,2008,10,TOTAL,4
+Cochabamba,31002,Colomi,2008,10,TOTAL,4
+La Paz,21306,Colquencha,2008,10,TOTAL,1
+La Paz,21004,Colquiri,2008,10,TOTAL,1
+Santa Cruz,71301,Comarapa,2008,10,TOTAL,2
+La Paz,21701,Copacabana,2008,10,TOTAL,1
+La Paz,21402,Coripata,2008,10,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,10,TOTAL,4
+Santa Cruz,71106,Cuatro Cañadas,2008,10,TOTAL,3
+Chuquisaca,10902,Culpina,2008,10,TOTAL,3
+Oruro,40401,Curahuara De Carangas,2008,10,TOTAL,1
+La Paz,20105,El Alto,2008,10,TOTAL,123
+Santa Cruz,71503,El Puente(stc),2008,10,TOTAL,1
+Tarija,60502,El Puente(tja),2008,10,TOTAL,2
+Santa Cruz,70105,El Torno,2008,10,TOTAL,23
+Tarija,60601,Entre Rios,2008,10,TOTAL,7
+Santa Cruz,71004,Fernandez Alonso,2008,10,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,10,TOTAL,2
+La Paz,20602,Guanay,2008,10,TOTAL,1
+Beni,80202,Guayaramerin,2008,10,TOTAL,8
+Oruro,40701,Huanuni,2008,10,TOTAL,6
+Chuquisaca,10703,Incahuasi,2008,10,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2008,10,TOTAL,2
+La Paz,21105,La Asunta,2008,10,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,10,TOTAL,13
+La Paz,20101,La Paz,2008,10,TOTAL,243
+Santa Cruz,70903,Mairana,2008,10,TOTAL,2
+Santa Cruz,71003,Mineros,2008,10,TOTAL,2
+Cochabamba,31301,Mizque,2008,10,TOTAL,4
+Chuquisaca,10303,Mojocoya,2008,10,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,10,TOTAL,11
+Santa Cruz,71001,Montero,2008,10,TOTAL,17
+Santa Cruz,70202,Okinawa,2008,10,TOTAL,1
+Oruro,40101,Oruro,2008,10,TOTAL,48
+Chuquisaca,10401,Padilla,2008,10,TOTAL,3
+Santa Cruz,70502,Pailon,2008,10,TOTAL,5
+Santa Cruz,70902,Pampa Grande,2008,10,TOTAL,2
+Santa Cruz,70103,Porongo,2008,10,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,10,TOTAL,3
+Potosí,50101,Potosi,2008,10,TOTAL,29
+La Paz,21201,Pucarani,2008,10,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,10,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2008,10,TOTAL,10
+Potosí,51101,Puna,2008,10,TOTAL,1
+Cochabamba,31401,Punata,2008,10,TOTAL,4
+Cochabamba,30901,Quillacollo,2008,10,TOTAL,17
+Beni,80201,Riberalta,2008,10,TOTAL,1
+Santa Cruz,70503,Robore,2008,10,TOTAL,2
+Beni,80304,Rurrenabaque,2008,10,TOTAL,1
+Cochabamba,31001,Sacaba,2008,10,TOTAL,33
+Cochabamba,30404,Sacabamba,2008,10,TOTAL,1
+Potosí,50701,Sacaca,2008,10,TOTAL,1
+Beni,80302,San Borja,2008,10,TOTAL,5
+La Paz,21502,San Buena Ventura,2008,10,TOTAL,2
+Santa Cruz,70402,San Carlos,2008,10,TOTAL,2
+Beni,80501,San Ignacio,2008,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,10,TOTAL,10
+Santa Cruz,71102,San Javier(stc),2008,10,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,10,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2008,10,TOTAL,4
+Santa Cruz,71104,San Julian,2008,10,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2008,10,TOTAL,3
+Santa Cruz,70303,San Rafael,2008,10,TOTAL,3
+Beni,80702,San Ramon,2008,10,TOTAL,1
+Beni,80702,San Ramon,2008,10,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTAL,450
+Beni,80303,Santa Rosa,2008,10,TOTAL,2
+Oruro,41401,Santiago De Huari,2008,10,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2008,10,TOTAL,11
+Chuquisaca,10101,Sucre,2008,10,TOTAL,97
+Cochabamba,31101,Tapacari,2008,10,TOTAL,1
+Tarija,60101,Tarija,2008,10,TOTAL,75
+Cochabamba,30903,Tiquipaya,2008,10,TOTAL,17
+Cochabamba,31601,Tiraque (cbba),2008,10,TOTAL,2
+Cochabamba,31201,Totora(cbba),2008,10,TOTAL,2
+Beni,80101,Trinidad,2008,10,TOTAL,31
+Potosí,50801,Tupiza,2008,10,TOTAL,15
+Potosí,50201,Uncia,2008,10,TOTAL,2
+Tarija,60401,Uriondo (a. Concepcion),2008,10,TOTAL,4
+Santa Cruz,71502,Urubicha,2008,10,TOTAL,1
+Potosí,51201,Uyuni,2008,10,TOTAL,2
+Santa Cruz,70801,Vallegrande,2008,10,TOTAL,5
+La Paz,20801,Viacha,2008,10,TOTAL,4
+Tarija,60303,Villa Montes,2008,10,TOTAL,8
+Cochabamba,31003,Villa Tunari,2008,10,TOTAL,1
+Potosí,51501,Villazon,2008,10,TOTAL,6
+Cochabamba,30904,Vinto,2008,10,TOTAL,3
+Santa Cruz,70201,Warnes,2008,10,TOTAL,30
+Tarija,60301,Yacuiba,2008,10,TOTAL,11
+Santa Cruz,70403,Yapacani,2008,10,TOTAL,1
+La Paz,20104,Achocalla,2008,11,TOTAL,2
+Cochabamba,30201,Aiquile,2008,11,TOTAL,2
+La Paz,20202,Ancoraimes,2008,11,TOTAL,1
+Cochabamba,30402,Anzaldo,2008,11,TOTAL,2
+Cochabamba,30501,Arani,2008,11,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2008,11,TOTAL,2
+Potosí,50802,Atocha,2008,11,TOTAL,5
+Tarija,60202,Bermejo,2008,11,TOTAL,3
+Santa Cruz,70401,Buena Vista,2008,11,TOTAL,3
+Santa Cruz,70703,Cabezas,2008,11,TOTAL,1
+Chuquisaca,10701,Camargo,2008,11,TOTAL,2
+Santa Cruz,70706,Camiri,2008,11,TOTAL,3
+Cochabamba,30701,Capinota,2008,11,TOTAL,3
+Tarija,60302,Carapari,2008,11,TOTAL,4
+Oruro,40201,Challapata,2008,11,TOTAL,3
+Santa Cruz,70702,Charagua,2008,11,TOTAL,1
+Cochabamba,30801,Cliza,2008,11,TOTAL,6
+Pando,90101,Cobija,2008,11,TOTAL,6
+Cochabamba,30101,Cochabamba,2008,11,TOTAL,148
+Cochabamba,30905,Colcapirhua,2008,11,TOTAL,4
+Cochabamba,31002,Colomi,2008,11,TOTAL,1
+La Paz,21004,Colquiri,2008,11,TOTAL,5
+Santa Cruz,71301,Comarapa,2008,11,TOTAL,2
+La Paz,21701,Copacabana,2008,11,TOTAL,1
+La Paz,21402,Coripata,2008,11,TOTAL,3
+Santa Cruz,70102,Cotoca,2008,11,TOTAL,5
+Santa Cruz,71106,Cuatro Cañadas,2008,11,TOTAL,1
+Chuquisaca,10902,Culpina,2008,11,TOTAL,2
+Oruro,40401,Curahuara De Carangas,2008,11,TOTAL,1
+La Paz,20105,El Alto,2008,11,TOTAL,130
+Santa Cruz,70105,El Torno,2008,11,TOTAL,7
+Tarija,60601,Entre Rios,2008,11,TOTAL,4
+Santa Cruz,71004,Fernandez Alonso,2008,11,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,11,TOTAL,2
+Beni,80202,Guayaramerin,2008,11,TOTAL,2
+Oruro,40701,Huanuni,2008,11,TOTAL,4
+La Paz,21501,Ixiamas,2008,11,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,11,TOTAL,14
+La Paz,20101,La Paz,2008,11,TOTAL,249
+Chuquisaca,10903,Las Carreras,2008,11,TOTAL,1
+Potosí,50203,Llallagua,2008,11,TOTAL,3
+Oruro,40702,Machacamarca,2008,11,TOTAL,1
+Chuquisaca,11003,Machareti,2008,11,TOTAL,1
+Beni,80801,Magdalena,2008,11,TOTAL,2
+Santa Cruz,70903,Mairana,2008,11,TOTAL,1
+La Paz,20607,Mapiri,2008,11,TOTAL,1
+Santa Cruz,71003,Mineros,2008,11,TOTAL,3
+Cochabamba,31301,Mizque,2008,11,TOTAL,4
+Chuquisaca,10501,Monteagudo,2008,11,TOTAL,13
+Santa Cruz,71001,Montero,2008,11,TOTAL,17
+Santa Cruz,70202,Okinawa,2008,11,TOTAL,2
+Oruro,40101,Oruro,2008,11,TOTAL,43
+Santa Cruz,70502,Pailon,2008,11,TOTAL,2
+La Paz,21305,Patacamaya,2008,11,TOTAL,2
+Cochabamba,31202,Pojo (cbba),2008,11,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,11,TOTAL,1
+Potosí,50101,Potosi,2008,11,TOTAL,26
+Santa Cruz,71401,Puerto Suarez,2008,11,TOTAL,5
+Cochabamba,31205,Puerto Villarroel,2008,11,TOTAL,4
+Potosí,51101,Puna,2008,11,TOTAL,2
+Cochabamba,31401,Punata,2008,11,TOTAL,4
+Cochabamba,30901,Quillacollo,2008,11,TOTAL,5
+Beni,80301,Reyes,2008,11,TOTAL,3
+Beni,80201,Riberalta,2008,11,TOTAL,1
+Santa Cruz,70503,Robore,2008,11,TOTAL,1
+Beni,80304,Rurrenabaque,2008,11,TOTAL,4
+Cochabamba,31001,Sacaba,2008,11,TOTAL,22
+Beni,80602,San Andres,2008,11,TOTAL,1
+Beni,80302,San Borja,2008,11,TOTAL,8
+La Paz,21502,San Buena Ventura,2008,11,TOTAL,1
+Santa Cruz,70402,San Carlos,2008,11,TOTAL,1
+Beni,80501,San Ignacio,2008,11,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,11,TOTAL,5
+Santa Cruz,71102,San Javier(stc),2008,11,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2008,11,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2008,11,TOTAL,3
+Santa Cruz,71104,San Julian,2008,11,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2008,11,TOTAL,3
+Santa Cruz,71201,San Matias,2008,11,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2008,11,TOTAL,3
+Santa Cruz,71005,San Pedro,2008,11,TOTAL,2
+Santa Cruz,70303,San Rafael,2008,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTAL,244
+Santa Cruz,70602,Santa Rosa Del Sara,2008,11,TOTAL,5
+Cochabamba,30902,Sipe Sipe,2008,11,TOTAL,7
+Chuquisaca,10101,Sucre,2008,11,TOTAL,114
+Cochabamba,31101,Tapacari,2008,11,TOTAL,2
+Cochabamba,30401,Tarata,2008,11,TOTAL,1
+Tarija,60101,Tarija,2008,11,TOTAL,67
+Cochabamba,30903,Tiquipaya,2008,11,TOTAL,8
+Cochabamba,31601,Tiraque (cbba),2008,11,TOTAL,3
+Oruro,41001,Toledo,2008,11,TOTAL,1
+Cochabamba,31201,Totora(cbba),2008,11,TOTAL,4
+Santa Cruz,70802,Trigal,2008,11,TOTAL,1
+Beni,80101,Trinidad,2008,11,TOTAL,37
+Potosí,50801,Tupiza,2008,11,TOTAL,13
+Potosí,50201,Uncia,2008,11,TOTAL,2
+Tarija,60401,Uriondo (a. Concepcion),2008,11,TOTAL,3
+Potosí,51201,Uyuni,2008,11,TOTAL,4
+Santa Cruz,70801,Vallegrande,2008,11,TOTAL,9
+La Paz,20801,Viacha,2008,11,TOTAL,4
+Tarija,60303,Villa Montes,2008,11,TOTAL,4
+Cochabamba,31003,Villa Tunari,2008,11,TOTAL,4
+Potosí,51501,Villazon,2008,11,TOTAL,4
+Cochabamba,30904,Vinto,2008,11,TOTAL,2
+Santa Cruz,70201,Warnes,2008,11,TOTAL,1
+Tarija,60301,Yacuiba,2008,11,TOTAL,3
+Santa Cruz,70403,Yapacani,2008,11,TOTAL,2
+Tarija,60402,Yunchara,2008,11,TOTAL,1
+Cochabamba,30201,Aiquile,2008,12,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2008,12,TOTAL,6
+Potosí,50802,Atocha,2008,12,TOTAL,2
+Beni,80802,Baures,2008,12,TOTAL,4
+Tarija,60202,Bermejo,2008,12,TOTAL,2
+Santa Cruz,70401,Buena Vista,2008,12,TOTAL,2
+Chuquisaca,10701,Camargo,2008,12,TOTAL,1
+Santa Cruz,70706,Camiri,2008,12,TOTAL,8
+Cochabamba,30701,Capinota,2008,12,TOTAL,3
+Tarija,60302,Carapari,2008,12,TOTAL,3
+Oruro,40201,Challapata,2008,12,TOTAL,2
+Santa Cruz,70702,Charagua,2008,12,TOTAL,1
+Cochabamba,31204,Chimore,2008,12,TOTAL,3
+Cochabamba,30801,Cliza,2008,12,TOTAL,2
+Pando,90101,Cobija,2008,12,TOTAL,3
+Cochabamba,30101,Cochabamba,2008,12,TOTAL,158
+Cochabamba,30905,Colcapirhua,2008,12,TOTAL,3
+Cochabamba,31002,Colomi,2008,12,TOTAL,2
+La Paz,21004,Colquiri,2008,12,TOTAL,2
+Santa Cruz,71301,Comarapa,2008,12,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,12,TOTAL,4
+Chuquisaca,10902,Culpina,2008,12,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2008,12,TOTAL,1
+La Paz,20105,El Alto,2008,12,TOTAL,96
+Santa Cruz,70105,El Torno,2008,12,TOTAL,18
+Chuquisaca,10405,El Villar,2008,12,TOTAL,1
+Tarija,60601,Entre Rios,2008,12,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,12,TOTAL,3
+Beni,80202,Guayaramerin,2008,12,TOTAL,5
+Oruro,40501,Huachacalla,2008,12,TOTAL,1
+Oruro,40701,Huanuni,2008,12,TOTAL,4
+La Paz,21102,Irupana (villa De Lanza),2008,12,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,12,TOTAL,8
+La Paz,20101,La Paz,2008,12,TOTAL,195
+Oruro,40702,Machacamarca,2008,12,TOTAL,1
+Chuquisaca,11003,Machareti,2008,12,TOTAL,3
+Santa Cruz,70903,Mairana,2008,12,TOTAL,1
+Santa Cruz,71003,Mineros,2008,12,TOTAL,3
+Cochabamba,31301,Mizque,2008,12,TOTAL,7
+Chuquisaca,10303,Mojocoya,2008,12,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,12,TOTAL,11
+Santa Cruz,71001,Montero,2008,12,TOTAL,11
+Oruro,40101,Oruro,2008,12,TOTAL,69
+Tarija,60201,Padcaya,2008,12,TOTAL,3
+Chuquisaca,10401,Padilla,2008,12,TOTAL,3
+Santa Cruz,70502,Pailon,2008,12,TOTAL,6
+Cochabamba,31203,Pocona,2008,12,TOTAL,2
+Cochabamba,31202,Pojo (cbba),2008,12,TOTAL,3
+Santa Cruz,70103,Porongo,2008,12,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,12,TOTAL,4
+Potosí,50101,Potosi,2008,12,TOTAL,39
+Pando,90201,Puerto Rico,2008,12,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,12,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2008,12,TOTAL,3
+Potosí,51101,Puna,2008,12,TOTAL,1
+Cochabamba,31401,Punata,2008,12,TOTAL,9
+Cochabamba,30901,Quillacollo,2008,12,TOTAL,14
+La Paz,21002,Quime,2008,12,TOTAL,1
+Beni,80301,Reyes,2008,12,TOTAL,1
+Beni,80201,Riberalta,2008,12,TOTAL,2
+Cochabamba,31001,Sacaba,2008,12,TOTAL,34
+Santa Cruz,70901,Samaipata,2008,12,TOTAL,1
+Beni,80602,San Andres,2008,12,TOTAL,1
+Beni,80302,San Borja,2008,12,TOTAL,7
+La Paz,21502,San Buena Ventura,2008,12,TOTAL,4
+Beni,80501,San Ignacio,2008,12,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,12,TOTAL,6
+Santa Cruz,71102,San Javier(stc),2008,12,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,12,TOTAL,10
+Santa Cruz,70404,San Juan De Yapacani,2008,12,TOTAL,1
+Santa Cruz,71104,San Julian,2008,12,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2008,12,TOTAL,3
+Santa Cruz,70302,San Miguel De Velasco,2008,12,TOTAL,1
+Beni,80702,San Ramon,2008,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,TOTAL,271
+Santa Cruz,70602,Santa Rosa Del Sara,2008,12,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2008,12,TOTAL,8
+Chuquisaca,10101,Sucre,2008,12,TOTAL,88
+Cochabamba,30401,Tarata,2008,12,TOTAL,1
+Tarija,60101,Tarija,2008,12,TOTAL,80
+Cochabamba,30903,Tiquipaya,2008,12,TOTAL,17
+Cochabamba,31201,Totora(cbba),2008,12,TOTAL,1
+Beni,80101,Trinidad,2008,12,TOTAL,12
+Potosí,50801,Tupiza,2008,12,TOTAL,3
+Potosí,50201,Uncia,2008,12,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2008,12,TOTAL,2
+Santa Cruz,71502,Urubicha,2008,12,TOTAL,1
+Potosí,51201,Uyuni,2008,12,TOTAL,1
+Santa Cruz,70801,Vallegrande,2008,12,TOTAL,6
+Tarija,60303,Villa Montes,2008,12,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,12,TOTAL,2
+Santa Cruz,70201,Warnes,2008,12,TOTAL,1
+Tarija,60301,Yacuiba,2008,12,TOTAL,11

@@ -1,0 +1,355 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80802,Baures,2005,1,Muestras tomadas por agente comunario,58
+Tarija,60302,Carapari,2005,1,Muestras tomadas por agente comunario,57
+Tarija,60601,Entre Rios,2005,1,Muestras tomadas por agente comunario,17
+Beni,80801,Magdalena,2005,1,Muestras tomadas por agente comunario,165
+Chuquisaca,10501,Monteagudo,2005,1,Muestras tomadas por agente comunario,7
+La Paz,21104,Palos Blancos,2005,1,Muestras tomadas por agente comunario,7
+Cochabamba,31302,Vila Vila,2005,1,Muestras tomadas por agente comunario,2
+Tarija,60303,Villa Montes,2005,1,Muestras tomadas por agente comunario,33
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,1,Muestras tomadas por agente comunario,12
+Beni,80802,Baures,2005,2,Muestras tomadas por agente comunario,46
+Tarija,60302,Carapari,2005,2,Muestras tomadas por agente comunario,39
+Tarija,60601,Entre Rios,2005,2,Muestras tomadas por agente comunario,40
+Beni,80803,Huaracaje,2005,2,Muestras tomadas por agente comunario,4
+Beni,80801,Magdalena,2005,2,Muestras tomadas por agente comunario,167
+La Paz,20607,Mapiri,2005,2,Muestras tomadas por agente comunario,5
+Cochabamba,31301,Mizque,2005,2,Muestras tomadas por agente comunario,1
+Chuquisaca,10501,Monteagudo,2005,2,Muestras tomadas por agente comunario,8
+La Paz,21104,Palos Blancos,2005,2,Muestras tomadas por agente comunario,6
+Cochabamba,31302,Vila Vila,2005,2,Muestras tomadas por agente comunario,1
+Tarija,60303,Villa Montes,2005,2,Muestras tomadas por agente comunario,19
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,2,Muestras tomadas por agente comunario,11
+Beni,80802,Baures,2005,3,Muestras tomadas por agente comunario,35
+Tarija,60302,Carapari,2005,3,Muestras tomadas por agente comunario,61
+Tarija,60601,Entre Rios,2005,3,Muestras tomadas por agente comunario,38
+Beni,80803,Huaracaje,2005,3,Muestras tomadas por agente comunario,23
+Beni,80801,Magdalena,2005,3,Muestras tomadas por agente comunario,143
+Chuquisaca,10501,Monteagudo,2005,3,Muestras tomadas por agente comunario,11
+Tarija,60303,Villa Montes,2005,3,Muestras tomadas por agente comunario,41
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,3,Muestras tomadas por agente comunario,5
+Beni,80802,Baures,2005,4,Muestras tomadas por agente comunario,98
+Tarija,60202,Bermejo,2005,4,Muestras tomadas por agente comunario,5
+La Paz,22001,Caranavi,2005,4,Muestras tomadas por agente comunario,1
+Tarija,60302,Carapari,2005,4,Muestras tomadas por agente comunario,17
+Tarija,60601,Entre Rios,2005,4,Muestras tomadas por agente comunario,23
+La Paz,20602,Guanay,2005,4,Muestras tomadas por agente comunario,4
+Beni,80202,Guayaramerin,2005,4,Muestras tomadas por agente comunario,4
+Beni,80803,Huaracaje,2005,4,Muestras tomadas por agente comunario,7
+La Paz,21105,La Asunta,2005,4,Muestras tomadas por agente comunario,103
+Beni,80801,Magdalena,2005,4,Muestras tomadas por agente comunario,172
+Chuquisaca,10501,Monteagudo,2005,4,Muestras tomadas por agente comunario,26
+Cochabamba,30202,Pasorapa,2005,4,Muestras tomadas por agente comunario,1
+Chuquisaca,10402,Tomina,2005,4,Muestras tomadas por agente comunario,7
+Tarija,60303,Villa Montes,2005,4,Muestras tomadas por agente comunario,29
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,4,Muestras tomadas por agente comunario,7
+Beni,80802,Baures,2005,5,Muestras tomadas por agente comunario,74
+Tarija,60302,Carapari,2005,5,Muestras tomadas por agente comunario,29
+Tarija,60601,Entre Rios,2005,5,Muestras tomadas por agente comunario,14
+Beni,80202,Guayaramerin,2005,5,Muestras tomadas por agente comunario,6
+Chuquisaca,10502,Huacareta,2005,5,Muestras tomadas por agente comunario,1
+Beni,80803,Huaracaje,2005,5,Muestras tomadas por agente comunario,8
+La Paz,21105,La Asunta,2005,5,Muestras tomadas por agente comunario,49
+Beni,80801,Magdalena,2005,5,Muestras tomadas por agente comunario,184
+Chuquisaca,10501,Monteagudo,2005,5,Muestras tomadas por agente comunario,4
+Chuquisaca,10402,Tomina,2005,5,Muestras tomadas por agente comunario,3
+Cochabamba,31302,Vila Vila,2005,5,Muestras tomadas por agente comunario,7
+Tarija,60303,Villa Montes,2005,5,Muestras tomadas por agente comunario,13
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,5,Muestras tomadas por agente comunario,7
+Tarija,60301,Yacuiba,2005,5,Muestras tomadas por agente comunario,22
+Beni,80802,Baures,2005,6,Muestras tomadas por agente comunario,65
+Tarija,60202,Bermejo,2005,6,Muestras tomadas por agente comunario,26
+Tarija,60302,Carapari,2005,6,Muestras tomadas por agente comunario,23
+Chuquisaca,10902,Culpina,2005,6,Muestras tomadas por agente comunario,49
+Tarija,60601,Entre Rios,2005,6,Muestras tomadas por agente comunario,13
+Beni,80202,Guayaramerin,2005,6,Muestras tomadas por agente comunario,10
+Beni,80803,Huaracaje,2005,6,Muestras tomadas por agente comunario,6
+Beni,80801,Magdalena,2005,6,Muestras tomadas por agente comunario,250
+La Paz,20607,Mapiri,2005,6,Muestras tomadas por agente comunario,5
+Chuquisaca,10501,Monteagudo,2005,6,Muestras tomadas por agente comunario,3
+Tarija,60201,Padcaya,2005,6,Muestras tomadas por agente comunario,5
+La Paz,21104,Palos Blancos,2005,6,Muestras tomadas por agente comunario,1
+Cochabamba,30202,Pasorapa,2005,6,Muestras tomadas por agente comunario,6
+Beni,80201,Riberalta,2005,6,Muestras tomadas por agente comunario,2
+Pando,90303,Sena,2005,6,Muestras tomadas por agente comunario,15
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,6,Muestras tomadas por agente comunario,14
+Chuquisaca,10201,Azurduy,2005,7,Muestras tomadas por agente comunario,1
+Beni,80802,Baures,2005,7,Muestras tomadas por agente comunario,67
+Tarija,60202,Bermejo,2005,7,Muestras tomadas por agente comunario,7
+Santa Cruz,70401,Buena Vista,2005,7,Muestras tomadas por agente comunario,1
+Tarija,60302,Carapari,2005,7,Muestras tomadas por agente comunario,13
+Tarija,60601,Entre Rios,2005,7,Muestras tomadas por agente comunario,27
+Beni,80202,Guayaramerin,2005,7,Muestras tomadas por agente comunario,12
+Beni,80803,Huaracaje,2005,7,Muestras tomadas por agente comunario,11
+Beni,80801,Magdalena,2005,7,Muestras tomadas por agente comunario,197
+La Paz,20607,Mapiri,2005,7,Muestras tomadas por agente comunario,1
+Chuquisaca,10501,Monteagudo,2005,7,Muestras tomadas por agente comunario,6
+Tarija,60201,Padcaya,2005,7,Muestras tomadas por agente comunario,2
+Beni,80201,Riberalta,2005,7,Muestras tomadas por agente comunario,8
+Pando,90303,Sena,2005,7,Muestras tomadas por agente comunario,11
+Tarija,60301,Yacuiba,2005,7,Muestras tomadas por agente comunario,3
+Chuquisaca,10201,Azurduy,2005,8,Muestras tomadas por agente comunario,1
+Beni,80802,Baures,2005,8,Muestras tomadas por agente comunario,71
+Tarija,60302,Carapari,2005,8,Muestras tomadas por agente comunario,18
+Tarija,60601,Entre Rios,2005,8,Muestras tomadas por agente comunario,12
+Pando,90503,Eureka (santos Mercado),2005,8,Muestras tomadas por agente comunario,5
+Beni,80202,Guayaramerin,2005,8,Muestras tomadas por agente comunario,19
+Beni,80803,Huaracaje,2005,8,Muestras tomadas por agente comunario,10
+Beni,80801,Magdalena,2005,8,Muestras tomadas por agente comunario,202
+Tarija,60201,Padcaya,2005,8,Muestras tomadas por agente comunario,4
+La Paz,21104,Palos Blancos,2005,8,Muestras tomadas por agente comunario,3
+Pando,90102,Porvenir,2005,8,Muestras tomadas por agente comunario,2
+Beni,80201,Riberalta,2005,8,Muestras tomadas por agente comunario,5
+Santa Cruz,70301,San Ignacio De Velasco,2005,8,Muestras tomadas por agente comunario,10
+Tarija,60501,San Lorenzo(tja),2005,8,Muestras tomadas por agente comunario,2
+La Paz,20608,Teoponte,2005,8,Muestras tomadas por agente comunario,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,8,Muestras tomadas por agente comunario,2
+Beni,80802,Baures,2005,9,Muestras tomadas por agente comunario,55
+Tarija,60202,Bermejo,2005,9,Muestras tomadas por agente comunario,2
+La Paz,22001,Caranavi,2005,9,Muestras tomadas por agente comunario,1
+Tarija,60302,Carapari,2005,9,Muestras tomadas por agente comunario,12
+Pando,90101,Cobija,2005,9,Muestras tomadas por agente comunario,3
+Tarija,60601,Entre Rios,2005,9,Muestras tomadas por agente comunario,10
+Pando,90503,Eureka (santos Mercado),2005,9,Muestras tomadas por agente comunario,2
+Beni,80202,Guayaramerin,2005,9,Muestras tomadas por agente comunario,16
+Beni,80803,Huaracaje,2005,9,Muestras tomadas por agente comunario,12
+La Paz,21105,La Asunta,2005,9,Muestras tomadas por agente comunario,4
+Beni,80801,Magdalena,2005,9,Muestras tomadas por agente comunario,232
+Chuquisaca,10501,Monteagudo,2005,9,Muestras tomadas por agente comunario,16
+Tarija,60201,Padcaya,2005,9,Muestras tomadas por agente comunario,6
+La Paz,21104,Palos Blancos,2005,9,Muestras tomadas por agente comunario,6
+Santa Cruz,71302,Saipina,2005,9,Muestras tomadas por agente comunario,1
+Pando,90303,Sena,2005,9,Muestras tomadas por agente comunario,80
+La Paz,20608,Teoponte,2005,9,Muestras tomadas por agente comunario,1
+Cochabamba,31302,Vila Vila,2005,9,Muestras tomadas por agente comunario,1
+Tarija,60303,Villa Montes,2005,9,Muestras tomadas por agente comunario,21
+Tarija,60301,Yacuiba,2005,9,Muestras tomadas por agente comunario,5
+Chuquisaca,10201,Azurduy,2005,10,Muestras tomadas por agente comunario,2
+Beni,80802,Baures,2005,10,Muestras tomadas por agente comunario,71
+Tarija,60202,Bermejo,2005,10,Muestras tomadas por agente comunario,29
+Santa Cruz,70401,Buena Vista,2005,10,Muestras tomadas por agente comunario,2
+Tarija,60302,Carapari,2005,10,Muestras tomadas por agente comunario,16
+Tarija,60601,Entre Rios,2005,10,Muestras tomadas por agente comunario,6
+Beni,80202,Guayaramerin,2005,10,Muestras tomadas por agente comunario,20
+Beni,80803,Huaracaje,2005,10,Muestras tomadas por agente comunario,15
+Beni,80801,Magdalena,2005,10,Muestras tomadas por agente comunario,194
+La Paz,20607,Mapiri,2005,10,Muestras tomadas por agente comunario,15
+Chuquisaca,10501,Monteagudo,2005,10,Muestras tomadas por agente comunario,3
+Tarija,60201,Padcaya,2005,10,Muestras tomadas por agente comunario,5
+La Paz,21104,Palos Blancos,2005,10,Muestras tomadas por agente comunario,5
+Beni,80201,Riberalta,2005,10,Muestras tomadas por agente comunario,9
+Pando,90302,San Lorenzo(pnd),2005,10,Muestras tomadas por agente comunario,36
+Pando,90303,Sena,2005,10,Muestras tomadas por agente comunario,39
+Tarija,60303,Villa Montes,2005,10,Muestras tomadas por agente comunario,24
+Tarija,60301,Yacuiba,2005,10,Muestras tomadas por agente comunario,2
+Chuquisaca,10201,Azurduy,2005,11,Muestras tomadas por agente comunario,3
+Beni,80802,Baures,2005,11,Muestras tomadas por agente comunario,96
+Tarija,60202,Bermejo,2005,11,Muestras tomadas por agente comunario,4
+Tarija,60302,Carapari,2005,11,Muestras tomadas por agente comunario,15
+Tarija,60601,Entre Rios,2005,11,Muestras tomadas por agente comunario,20
+Beni,80202,Guayaramerin,2005,11,Muestras tomadas por agente comunario,34
+Beni,80803,Huaracaje,2005,11,Muestras tomadas por agente comunario,12
+Beni,80801,Magdalena,2005,11,Muestras tomadas por agente comunario,244
+Chuquisaca,10501,Monteagudo,2005,11,Muestras tomadas por agente comunario,2
+La Paz,21104,Palos Blancos,2005,11,Muestras tomadas por agente comunario,26
+Pando,90201,Puerto Rico,2005,11,Muestras tomadas por agente comunario,5
+Pando,90302,San Lorenzo(pnd),2005,11,Muestras tomadas por agente comunario,4
+Pando,90303,Sena,2005,11,Muestras tomadas por agente comunario,11
+Cochabamba,31302,Vila Vila,2005,11,Muestras tomadas por agente comunario,2
+Tarija,60303,Villa Montes,2005,11,Muestras tomadas por agente comunario,15
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,11,Muestras tomadas por agente comunario,560
+La Paz,20701,Apolo,2005,12,Muestras tomadas por agente comunario,17
+Chuquisaca,10201,Azurduy,2005,12,Muestras tomadas por agente comunario,1
+Beni,80802,Baures,2005,12,Muestras tomadas por agente comunario,58
+Tarija,60202,Bermejo,2005,12,Muestras tomadas por agente comunario,22
+Tarija,60302,Carapari,2005,12,Muestras tomadas por agente comunario,9
+Tarija,60601,Entre Rios,2005,12,Muestras tomadas por agente comunario,10
+Beni,80202,Guayaramerin,2005,12,Muestras tomadas por agente comunario,17
+Beni,80803,Huaracaje,2005,12,Muestras tomadas por agente comunario,10
+Beni,80801,Magdalena,2005,12,Muestras tomadas por agente comunario,103
+La Paz,20607,Mapiri,2005,12,Muestras tomadas por agente comunario,12
+Chuquisaca,10501,Monteagudo,2005,12,Muestras tomadas por agente comunario,3
+Pando,90102,Porvenir,2005,12,Muestras tomadas por agente comunario,6
+Pando,90301,Puerto Gonzalo Moreno,2005,12,Muestras tomadas por agente comunario,8
+Santa Cruz,71302,Saipina,2005,12,Muestras tomadas por agente comunario,9
+Pando,90302,San Lorenzo(pnd),2005,12,Muestras tomadas por agente comunario,31
+Pando,90303,Sena,2005,12,Muestras tomadas por agente comunario,24
+Tarija,60303,Villa Montes,2005,12,Muestras tomadas por agente comunario,14
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,12,Muestras tomadas por agente comunario,28
+Beni,80802,Baures,2005,1,TOTAL,58
+Tarija,60302,Carapari,2005,1,TOTAL,57
+Tarija,60601,Entre Rios,2005,1,TOTAL,17
+Beni,80801,Magdalena,2005,1,TOTAL,165
+Chuquisaca,10501,Monteagudo,2005,1,TOTAL,7
+La Paz,21104,Palos Blancos,2005,1,TOTAL,7
+Cochabamba,31302,Vila Vila,2005,1,TOTAL,2
+Tarija,60303,Villa Montes,2005,1,TOTAL,33
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,1,TOTAL,12
+Beni,80802,Baures,2005,2,TOTAL,46
+Tarija,60302,Carapari,2005,2,TOTAL,39
+Tarija,60601,Entre Rios,2005,2,TOTAL,40
+Beni,80803,Huaracaje,2005,2,TOTAL,4
+Beni,80801,Magdalena,2005,2,TOTAL,167
+La Paz,20607,Mapiri,2005,2,TOTAL,5
+Cochabamba,31301,Mizque,2005,2,TOTAL,1
+Chuquisaca,10501,Monteagudo,2005,2,TOTAL,8
+La Paz,21104,Palos Blancos,2005,2,TOTAL,6
+Cochabamba,31302,Vila Vila,2005,2,TOTAL,1
+Tarija,60303,Villa Montes,2005,2,TOTAL,19
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,2,TOTAL,11
+Beni,80802,Baures,2005,3,TOTAL,35
+Tarija,60302,Carapari,2005,3,TOTAL,61
+Tarija,60601,Entre Rios,2005,3,TOTAL,38
+Beni,80803,Huaracaje,2005,3,TOTAL,23
+Beni,80801,Magdalena,2005,3,TOTAL,143
+Chuquisaca,10501,Monteagudo,2005,3,TOTAL,11
+Tarija,60303,Villa Montes,2005,3,TOTAL,41
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,3,TOTAL,5
+Beni,80802,Baures,2005,4,TOTAL,98
+Tarija,60202,Bermejo,2005,4,TOTAL,5
+La Paz,22001,Caranavi,2005,4,TOTAL,1
+Tarija,60302,Carapari,2005,4,TOTAL,17
+Tarija,60601,Entre Rios,2005,4,TOTAL,23
+La Paz,20602,Guanay,2005,4,TOTAL,4
+Beni,80202,Guayaramerin,2005,4,TOTAL,4
+Beni,80803,Huaracaje,2005,4,TOTAL,7
+La Paz,21105,La Asunta,2005,4,TOTAL,103
+Beni,80801,Magdalena,2005,4,TOTAL,172
+Chuquisaca,10501,Monteagudo,2005,4,TOTAL,26
+Cochabamba,30202,Pasorapa,2005,4,TOTAL,1
+Chuquisaca,10402,Tomina,2005,4,TOTAL,7
+Tarija,60303,Villa Montes,2005,4,TOTAL,29
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,4,TOTAL,7
+Beni,80802,Baures,2005,5,TOTAL,74
+Tarija,60302,Carapari,2005,5,TOTAL,29
+Tarija,60601,Entre Rios,2005,5,TOTAL,14
+Beni,80202,Guayaramerin,2005,5,TOTAL,6
+Chuquisaca,10502,Huacareta,2005,5,TOTAL,1
+Beni,80803,Huaracaje,2005,5,TOTAL,8
+La Paz,21105,La Asunta,2005,5,TOTAL,49
+Beni,80801,Magdalena,2005,5,TOTAL,184
+Chuquisaca,10501,Monteagudo,2005,5,TOTAL,4
+Chuquisaca,10402,Tomina,2005,5,TOTAL,3
+Cochabamba,31302,Vila Vila,2005,5,TOTAL,7
+Tarija,60303,Villa Montes,2005,5,TOTAL,13
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,5,TOTAL,7
+Tarija,60301,Yacuiba,2005,5,TOTAL,22
+Beni,80802,Baures,2005,6,TOTAL,65
+Tarija,60202,Bermejo,2005,6,TOTAL,26
+Tarija,60302,Carapari,2005,6,TOTAL,23
+Chuquisaca,10902,Culpina,2005,6,TOTAL,49
+Tarija,60601,Entre Rios,2005,6,TOTAL,13
+Beni,80202,Guayaramerin,2005,6,TOTAL,10
+Beni,80803,Huaracaje,2005,6,TOTAL,6
+Beni,80801,Magdalena,2005,6,TOTAL,250
+La Paz,20607,Mapiri,2005,6,TOTAL,5
+Chuquisaca,10501,Monteagudo,2005,6,TOTAL,3
+Tarija,60201,Padcaya,2005,6,TOTAL,5
+La Paz,21104,Palos Blancos,2005,6,TOTAL,1
+Cochabamba,30202,Pasorapa,2005,6,TOTAL,6
+Beni,80201,Riberalta,2005,6,TOTAL,2
+Pando,90303,Sena,2005,6,TOTAL,15
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,6,TOTAL,14
+Chuquisaca,10201,Azurduy,2005,7,TOTAL,1
+Beni,80802,Baures,2005,7,TOTAL,67
+Tarija,60202,Bermejo,2005,7,TOTAL,7
+Santa Cruz,70401,Buena Vista,2005,7,TOTAL,1
+Tarija,60302,Carapari,2005,7,TOTAL,13
+Tarija,60601,Entre Rios,2005,7,TOTAL,27
+Beni,80202,Guayaramerin,2005,7,TOTAL,12
+Beni,80803,Huaracaje,2005,7,TOTAL,11
+Beni,80801,Magdalena,2005,7,TOTAL,197
+La Paz,20607,Mapiri,2005,7,TOTAL,1
+Chuquisaca,10501,Monteagudo,2005,7,TOTAL,6
+Tarija,60201,Padcaya,2005,7,TOTAL,2
+Beni,80201,Riberalta,2005,7,TOTAL,8
+Pando,90303,Sena,2005,7,TOTAL,11
+Tarija,60301,Yacuiba,2005,7,TOTAL,3
+Chuquisaca,10201,Azurduy,2005,8,TOTAL,1
+Beni,80802,Baures,2005,8,TOTAL,71
+Tarija,60302,Carapari,2005,8,TOTAL,18
+Tarija,60601,Entre Rios,2005,8,TOTAL,12
+Pando,90503,Eureka (santos Mercado),2005,8,TOTAL,5
+Beni,80202,Guayaramerin,2005,8,TOTAL,19
+Beni,80803,Huaracaje,2005,8,TOTAL,10
+Beni,80801,Magdalena,2005,8,TOTAL,202
+Tarija,60201,Padcaya,2005,8,TOTAL,4
+La Paz,21104,Palos Blancos,2005,8,TOTAL,3
+Pando,90102,Porvenir,2005,8,TOTAL,2
+Beni,80201,Riberalta,2005,8,TOTAL,5
+Santa Cruz,70301,San Ignacio De Velasco,2005,8,TOTAL,10
+Tarija,60501,San Lorenzo(tja),2005,8,TOTAL,2
+La Paz,20608,Teoponte,2005,8,TOTAL,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,8,TOTAL,2
+Beni,80802,Baures,2005,9,TOTAL,55
+Tarija,60202,Bermejo,2005,9,TOTAL,2
+La Paz,22001,Caranavi,2005,9,TOTAL,1
+Tarija,60302,Carapari,2005,9,TOTAL,12
+Pando,90101,Cobija,2005,9,TOTAL,3
+Tarija,60601,Entre Rios,2005,9,TOTAL,10
+Pando,90503,Eureka (santos Mercado),2005,9,TOTAL,2
+Beni,80202,Guayaramerin,2005,9,TOTAL,16
+Beni,80803,Huaracaje,2005,9,TOTAL,12
+La Paz,21105,La Asunta,2005,9,TOTAL,4
+Beni,80801,Magdalena,2005,9,TOTAL,232
+Chuquisaca,10501,Monteagudo,2005,9,TOTAL,16
+Tarija,60201,Padcaya,2005,9,TOTAL,6
+La Paz,21104,Palos Blancos,2005,9,TOTAL,6
+Santa Cruz,71302,Saipina,2005,9,TOTAL,1
+Pando,90303,Sena,2005,9,TOTAL,80
+La Paz,20608,Teoponte,2005,9,TOTAL,1
+Cochabamba,31302,Vila Vila,2005,9,TOTAL,1
+Tarija,60303,Villa Montes,2005,9,TOTAL,21
+Tarija,60301,Yacuiba,2005,9,TOTAL,5
+Chuquisaca,10201,Azurduy,2005,10,TOTAL,2
+Beni,80802,Baures,2005,10,TOTAL,71
+Tarija,60202,Bermejo,2005,10,TOTAL,29
+Santa Cruz,70401,Buena Vista,2005,10,TOTAL,2
+Tarija,60302,Carapari,2005,10,TOTAL,16
+Tarija,60601,Entre Rios,2005,10,TOTAL,6
+Beni,80202,Guayaramerin,2005,10,TOTAL,20
+Beni,80803,Huaracaje,2005,10,TOTAL,15
+Beni,80801,Magdalena,2005,10,TOTAL,194
+La Paz,20607,Mapiri,2005,10,TOTAL,15
+Chuquisaca,10501,Monteagudo,2005,10,TOTAL,3
+Tarija,60201,Padcaya,2005,10,TOTAL,5
+La Paz,21104,Palos Blancos,2005,10,TOTAL,5
+Beni,80201,Riberalta,2005,10,TOTAL,9
+Pando,90302,San Lorenzo(pnd),2005,10,TOTAL,36
+Pando,90303,Sena,2005,10,TOTAL,39
+Tarija,60303,Villa Montes,2005,10,TOTAL,24
+Tarija,60301,Yacuiba,2005,10,TOTAL,2
+Chuquisaca,10201,Azurduy,2005,11,TOTAL,3
+Beni,80802,Baures,2005,11,TOTAL,96
+Tarija,60202,Bermejo,2005,11,TOTAL,4
+Tarija,60302,Carapari,2005,11,TOTAL,15
+Tarija,60601,Entre Rios,2005,11,TOTAL,20
+Beni,80202,Guayaramerin,2005,11,TOTAL,34
+Beni,80803,Huaracaje,2005,11,TOTAL,12
+Beni,80801,Magdalena,2005,11,TOTAL,244
+Chuquisaca,10501,Monteagudo,2005,11,TOTAL,2
+La Paz,21104,Palos Blancos,2005,11,TOTAL,26
+Pando,90201,Puerto Rico,2005,11,TOTAL,5
+Pando,90302,San Lorenzo(pnd),2005,11,TOTAL,4
+Pando,90303,Sena,2005,11,TOTAL,11
+Cochabamba,31302,Vila Vila,2005,11,TOTAL,2
+Tarija,60303,Villa Montes,2005,11,TOTAL,15
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,11,TOTAL,560
+La Paz,20701,Apolo,2005,12,TOTAL,17
+Chuquisaca,10201,Azurduy,2005,12,TOTAL,1
+Beni,80802,Baures,2005,12,TOTAL,58
+Tarija,60202,Bermejo,2005,12,TOTAL,22
+Tarija,60302,Carapari,2005,12,TOTAL,9
+Tarija,60601,Entre Rios,2005,12,TOTAL,10
+Beni,80202,Guayaramerin,2005,12,TOTAL,17
+Beni,80803,Huaracaje,2005,12,TOTAL,10
+Beni,80801,Magdalena,2005,12,TOTAL,103
+La Paz,20607,Mapiri,2005,12,TOTAL,12
+Chuquisaca,10501,Monteagudo,2005,12,TOTAL,3
+Pando,90102,Porvenir,2005,12,TOTAL,6
+Pando,90301,Puerto Gonzalo Moreno,2005,12,TOTAL,8
+Santa Cruz,71302,Saipina,2005,12,TOTAL,9
+Pando,90302,San Lorenzo(pnd),2005,12,TOTAL,31
+Pando,90303,Sena,2005,12,TOTAL,24
+Tarija,60303,Villa Montes,2005,12,TOTAL,14
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,12,TOTAL,28

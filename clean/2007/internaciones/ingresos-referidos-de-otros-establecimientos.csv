@@ -1,0 +1,2455 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30201,Aiquile,2007,1,Ingresos referidos de otros establecimientos,10
+Cochabamba,31303,Alalay,2007,1,Ingresos referidos de otros establecimientos,1
+La Paz,20701,Apolo,2007,1,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,1,Ingresos referidos de otros establecimientos,22
+Potosí,50802,Atocha,2007,1,Ingresos referidos de otros establecimientos,19
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,1,Ingresos referidos de otros establecimientos,5
+Tarija,60202,Bermejo,2007,1,Ingresos referidos de otros establecimientos,1
+Potosí,50301,Betanzos,2007,1,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70707,Boyuibe,2007,1,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70401,Buena Vista,2007,1,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10701,Camargo,2007,1,Ingresos referidos de otros establecimientos,8
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,1,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70706,Camiri,2007,1,Ingresos referidos de otros establecimientos,11
+La Paz,22001,Caranavi,2007,1,Ingresos referidos de otros establecimientos,26
+Oruro,40201,Challapata,2007,1,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70702,Charagua,2007,1,Ingresos referidos de otros establecimientos,15
+Potosí,50202,Chayanta,2007,1,Ingresos referidos de otros establecimientos,1
+La Paz,21101,Chulumani (v. De La Libertad),2007,1,Ingresos referidos de otros establecimientos,8
+Pando,90101,Cobija,2007,1,Ingresos referidos de otros establecimientos,63
+Cochabamba,30101,Cochabamba,2007,1,Ingresos referidos de otros establecimientos,19
+Cochabamba,31002,Colomi,2007,1,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71101,Concepcion,2007,1,Ingresos referidos de otros establecimientos,4
+La Paz,20301,Coro Coro,2007,1,Ingresos referidos de otros establecimientos,1
+La Paz,21401,Coroico,2007,1,Ingresos referidos de otros establecimientos,6
+Potosí,50601,Cotagaita,2007,1,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70102,Cotoca,2007,1,Ingresos referidos de otros establecimientos,34
+Santa Cruz,71106,Cuatro Cañadas,2007,1,Ingresos referidos de otros establecimientos,6
+Oruro,40401,Curahuara De Carangas,2007,1,Ingresos referidos de otros establecimientos,1
+La Paz,20105,El Alto,2007,1,Ingresos referidos de otros establecimientos,212
+Santa Cruz,70105,El Torno,2007,1,Ingresos referidos de otros establecimientos,6
+Oruro,41101,Eucaliptus,2007,1,Ingresos referidos de otros establecimientos,1
+La Paz,20602,Guanay,2007,1,Ingresos referidos de otros establecimientos,2
+Beni,80202,Guayaramerin,2007,1,Ingresos referidos de otros establecimientos,17
+Santa Cruz,70705,Gutierrez,2007,1,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10502,Huacareta,2007,1,Ingresos referidos de otros establecimientos,4
+Oruro,40501,Huachacalla,2007,1,Ingresos referidos de otros establecimientos,2
+La Paz,21005,Ichoca,2007,1,Ingresos referidos de otros establecimientos,1
+La Paz,21105,La Asunta,2007,1,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70104,La Guardia,2007,1,Ingresos referidos de otros establecimientos,6
+La Paz,20101,La Paz,2007,1,Ingresos referidos de otros establecimientos,1449
+Potosí,50203,Llallagua,2007,1,Ingresos referidos de otros establecimientos,22
+Chuquisaca,11003,Machareti,2007,1,Ingresos referidos de otros establecimientos,5
+Beni,80801,Magdalena,2007,1,Ingresos referidos de otros establecimientos,13
+Santa Cruz,70903,Mairana,2007,1,Ingresos referidos de otros establecimientos,11
+La Paz,20607,Mapiri,2007,1,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71003,Mineros,2007,1,Ingresos referidos de otros establecimientos,1
+Cochabamba,31301,Mizque,2007,1,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10303,Mojocoya,2007,1,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10501,Monteagudo,2007,1,Ingresos referidos de otros establecimientos,22
+Santa Cruz,71001,Montero,2007,1,Ingresos referidos de otros establecimientos,91
+Potosí,50404,Ocuri,2007,1,Ingresos referidos de otros establecimientos,2
+Oruro,40101,Oruro,2007,1,Ingresos referidos de otros establecimientos,146
+Chuquisaca,10401,Padilla,2007,1,Ingresos referidos de otros establecimientos,28
+Santa Cruz,70502,Pailon,2007,1,Ingresos referidos de otros establecimientos,3
+La Paz,21305,Patacamaya,2007,1,Ingresos referidos de otros establecimientos,2
+Cochabamba,31202,Pojo (cbba),2007,1,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70601,Portachuelo,2007,1,Ingresos referidos de otros establecimientos,12
+La Paz,20401,Puerto Acosta,2007,1,Ingresos referidos de otros establecimientos,4
+Santa Cruz,71401,Puerto Suarez,2007,1,Ingresos referidos de otros establecimientos,10
+Cochabamba,31205,Puerto Villarroel,2007,1,Ingresos referidos de otros establecimientos,5
+Cochabamba,31401,Punata,2007,1,Ingresos referidos de otros establecimientos,44
+Cochabamba,30901,Quillacollo,2007,1,Ingresos referidos de otros establecimientos,28
+Beni,80301,Reyes,2007,1,Ingresos referidos de otros establecimientos,4
+Beni,80201,Riberalta,2007,1,Ingresos referidos de otros establecimientos,122
+Beni,80304,Rurrenabaque,2007,1,Ingresos referidos de otros establecimientos,16
+Cochabamba,31001,Sacaba,2007,1,Ingresos referidos de otros establecimientos,8
+Cochabamba,30404,Sacabamba,2007,1,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70901,Samaipata,2007,1,Ingresos referidos de otros establecimientos,1
+Cochabamba,31403,San Benito,2007,1,Ingresos referidos de otros establecimientos,2
+Beni,80302,San Borja,2007,1,Ingresos referidos de otros establecimientos,1
+La Paz,21502,San Buena Ventura,2007,1,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70402,San Carlos,2007,1,Ingresos referidos de otros establecimientos,18
+Beni,80501,San Ignacio,2007,1,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,Ingresos referidos de otros establecimientos,16
+Santa Cruz,70501,San Jose De Chiquitos,2007,1,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70404,San Juan De Yapacani,2007,1,Ingresos referidos de otros establecimientos,5
+Santa Cruz,71104,San Julian,2007,1,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10702,San Lucas,2007,1,Ingresos referidos de otros establecimientos,11
+Beni,80702,San Ramon,2007,1,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,Ingresos referidos de otros establecimientos,161
+Beni,80303,Santa Rosa,2007,1,Ingresos referidos de otros establecimientos,10
+Chuquisaca,10403,Sopachuy,2007,1,Ingresos referidos de otros establecimientos,2
+La Paz,20601,Sorata,2007,1,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10101,Sucre,2007,1,Ingresos referidos de otros establecimientos,59
+Chuquisaca,10601,Tarabuco,2007,1,Ingresos referidos de otros establecimientos,10
+Tarija,60101,Tarija,2007,1,Ingresos referidos de otros establecimientos,236
+Chuquisaca,10202,Tarvita,2007,1,Ingresos referidos de otros establecimientos,1
+La Paz,20606,Tipuani,2007,1,Ingresos referidos de otros establecimientos,1
+Cochabamba,31201,Totora(cbba),2007,1,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70802,Trigal,2007,1,Ingresos referidos de otros establecimientos,1
+Beni,80101,Trinidad,2007,1,Ingresos referidos de otros establecimientos,20
+Potosí,50801,Tupiza,2007,1,Ingresos referidos de otros establecimientos,8
+Potosí,50201,Uncia,2007,1,Ingresos referidos de otros establecimientos,4
+Tarija,60401,Uriondo (a. Concepcion),2007,1,Ingresos referidos de otros establecimientos,1
+Potosí,51201,Uyuni,2007,1,Ingresos referidos de otros establecimientos,3
+Cochabamba,30502,Vacas,2007,1,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70801,Vallegrande,2007,1,Ingresos referidos de otros establecimientos,3
+Tarija,60303,Villa Montes,2007,1,Ingresos referidos de otros establecimientos,7
+Cochabamba,31003,Villa Tunari,2007,1,Ingresos referidos de otros establecimientos,56
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,1,Ingresos referidos de otros establecimientos,1
+Potosí,51501,Villazon,2007,1,Ingresos referidos de otros establecimientos,8
+Santa Cruz,70201,Warnes,2007,1,Ingresos referidos de otros establecimientos,1
+Tarija,60301,Yacuiba,2007,1,Ingresos referidos de otros establecimientos,16
+Santa Cruz,70403,Yapacani,2007,1,Ingresos referidos de otros establecimientos,6
+Potosí,50103,Yocalla,2007,1,Ingresos referidos de otros establecimientos,2
+Cochabamba,30201,Aiquile,2007,2,Ingresos referidos de otros establecimientos,4
+Cochabamba,31303,Alalay,2007,2,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,Ingresos referidos de otros establecimientos,17
+Potosí,50802,Atocha,2007,2,Ingresos referidos de otros establecimientos,35
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,2,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10201,Azurduy,2007,2,Ingresos referidos de otros establecimientos,1
+Potosí,50301,Betanzos,2007,2,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10701,Camargo,2007,2,Ingresos referidos de otros establecimientos,8
+Santa Cruz,70706,Camiri,2007,2,Ingresos referidos de otros establecimientos,22
+La Paz,22001,Caranavi,2007,2,Ingresos referidos de otros establecimientos,22
+Oruro,40201,Challapata,2007,2,Ingresos referidos de otros establecimientos,55
+Santa Cruz,70702,Charagua,2007,2,Ingresos referidos de otros establecimientos,9
+La Paz,21101,Chulumani (v. De La Libertad),2007,2,Ingresos referidos de otros establecimientos,3
+Pando,90101,Cobija,2007,2,Ingresos referidos de otros establecimientos,15
+Cochabamba,30101,Cochabamba,2007,2,Ingresos referidos de otros establecimientos,16
+Cochabamba,31002,Colomi,2007,2,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71301,Comarapa,2007,2,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71101,Concepcion,2007,2,Ingresos referidos de otros establecimientos,6
+La Paz,20301,Coro Coro,2007,2,Ingresos referidos de otros establecimientos,1
+La Paz,21401,Coroico,2007,2,Ingresos referidos de otros establecimientos,10
+Potosí,50601,Cotagaita,2007,2,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70102,Cotoca,2007,2,Ingresos referidos de otros establecimientos,13
+Santa Cruz,71106,Cuatro Cañadas,2007,2,Ingresos referidos de otros establecimientos,2
+La Paz,20105,El Alto,2007,2,Ingresos referidos de otros establecimientos,169
+Santa Cruz,70105,El Torno,2007,2,Ingresos referidos de otros establecimientos,2
+Tarija,60601,Entre Rios,2007,2,Ingresos referidos de otros establecimientos,1
+La Paz,20602,Guanay,2007,2,Ingresos referidos de otros establecimientos,3
+Beni,80202,Guayaramerin,2007,2,Ingresos referidos de otros establecimientos,23
+Santa Cruz,70705,Gutierrez,2007,2,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10502,Huacareta,2007,2,Ingresos referidos de otros establecimientos,1
+La Paz,21001,Inquisivi,2007,2,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70104,La Guardia,2007,2,Ingresos referidos de otros establecimientos,2
+La Paz,20101,La Paz,2007,2,Ingresos referidos de otros establecimientos,1519
+Potosí,50203,Llallagua,2007,2,Ingresos referidos de otros establecimientos,17
+La Paz,20901,Luribay,2007,2,Ingresos referidos de otros establecimientos,1
+Chuquisaca,11003,Machareti,2007,2,Ingresos referidos de otros establecimientos,1
+Beni,80801,Magdalena,2007,2,Ingresos referidos de otros establecimientos,12
+Santa Cruz,70903,Mairana,2007,2,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71003,Mineros,2007,2,Ingresos referidos de otros establecimientos,1
+Cochabamba,31301,Mizque,2007,2,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10501,Monteagudo,2007,2,Ingresos referidos de otros establecimientos,18
+Santa Cruz,71001,Montero,2007,2,Ingresos referidos de otros establecimientos,68
+Potosí,50404,Ocuri,2007,2,Ingresos referidos de otros establecimientos,1
+Oruro,40101,Oruro,2007,2,Ingresos referidos de otros establecimientos,144
+Chuquisaca,10401,Padilla,2007,2,Ingresos referidos de otros establecimientos,20
+Santa Cruz,70502,Pailon,2007,2,Ingresos referidos de otros establecimientos,62
+La Paz,21104,Palos Blancos,2007,2,Ingresos referidos de otros establecimientos,3
+La Paz,21305,Patacamaya,2007,2,Ingresos referidos de otros establecimientos,2
+Potosí,50403,Pocoata,2007,2,Ingresos referidos de otros establecimientos,1
+Cochabamba,31202,Pojo (cbba),2007,2,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10103,Poroma,2007,2,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70601,Portachuelo,2007,2,Ingresos referidos de otros establecimientos,11
+La Paz,20401,Puerto Acosta,2007,2,Ingresos referidos de otros establecimientos,7
+Santa Cruz,71401,Puerto Suarez,2007,2,Ingresos referidos de otros establecimientos,5
+Cochabamba,31205,Puerto Villarroel,2007,2,Ingresos referidos de otros establecimientos,9
+Cochabamba,31401,Punata,2007,2,Ingresos referidos de otros establecimientos,48
+Cochabamba,30901,Quillacollo,2007,2,Ingresos referidos de otros establecimientos,24
+Beni,80301,Reyes,2007,2,Ingresos referidos de otros establecimientos,4
+Beni,80201,Riberalta,2007,2,Ingresos referidos de otros establecimientos,45
+Beni,80304,Rurrenabaque,2007,2,Ingresos referidos de otros establecimientos,11
+Cochabamba,31001,Sacaba,2007,2,Ingresos referidos de otros establecimientos,24
+Cochabamba,30404,Sacabamba,2007,2,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71105,San Antonio De Lomerio,2007,2,Ingresos referidos de otros establecimientos,1
+Cochabamba,31403,San Benito,2007,2,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70402,San Carlos,2007,2,Ingresos referidos de otros establecimientos,30
+Santa Cruz,70301,San Ignacio De Velasco,2007,2,Ingresos referidos de otros establecimientos,13
+Santa Cruz,70404,San Juan De Yapacani,2007,2,Ingresos referidos de otros establecimientos,4
+Santa Cruz,71104,San Julian,2007,2,Ingresos referidos de otros establecimientos,11
+Chuquisaca,10702,San Lucas,2007,2,Ingresos referidos de otros establecimientos,12
+Santa Cruz,71201,San Matias,2007,2,Ingresos referidos de otros establecimientos,1
+Potosí,50501,San Pedro De Buena Vista,2007,2,Ingresos referidos de otros establecimientos,2
+Beni,80702,San Ramon,2007,2,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,Ingresos referidos de otros establecimientos,58
+Beni,80303,Santa Rosa,2007,2,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10403,Sopachuy,2007,2,Ingresos referidos de otros establecimientos,3
+La Paz,20601,Sorata,2007,2,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10101,Sucre,2007,2,Ingresos referidos de otros establecimientos,58
+Cochabamba,31101,Tapacari,2007,2,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10601,Tarabuco,2007,2,Ingresos referidos de otros establecimientos,13
+Cochabamba,30401,Tarata,2007,2,Ingresos referidos de otros establecimientos,1
+Tarija,60101,Tarija,2007,2,Ingresos referidos de otros establecimientos,130
+Chuquisaca,10202,Tarvita,2007,2,Ingresos referidos de otros establecimientos,3
+La Paz,20606,Tipuani,2007,2,Ingresos referidos de otros establecimientos,2
+Cochabamba,31601,Tiraque (cbba),2007,2,Ingresos referidos de otros establecimientos,6
+Potosí,50801,Tupiza,2007,2,Ingresos referidos de otros establecimientos,51
+Potosí,50201,Uncia,2007,2,Ingresos referidos de otros establecimientos,11
+Potosí,51201,Uyuni,2007,2,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70801,Vallegrande,2007,2,Ingresos referidos de otros establecimientos,2
+Tarija,60303,Villa Montes,2007,2,Ingresos referidos de otros establecimientos,14
+Chuquisaca,10801,Villa Serrano,2007,2,Ingresos referidos de otros establecimientos,9
+Cochabamba,31003,Villa Tunari,2007,2,Ingresos referidos de otros establecimientos,30
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,2,Ingresos referidos de otros establecimientos,3
+Potosí,51501,Villazon,2007,2,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70201,Warnes,2007,2,Ingresos referidos de otros establecimientos,3
+Tarija,60301,Yacuiba,2007,2,Ingresos referidos de otros establecimientos,24
+Santa Cruz,70403,Yapacani,2007,2,Ingresos referidos de otros establecimientos,8
+Chuquisaca,10102,Yotala,2007,2,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10301,Zudañez,2007,2,Ingresos referidos de otros establecimientos,2
+Potosí,51302,Acacio,2007,3,Ingresos referidos de otros establecimientos,6
+Cochabamba,30201,Aiquile,2007,3,Ingresos referidos de otros establecimientos,4
+La Paz,20701,Apolo,2007,3,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,3,Ingresos referidos de otros establecimientos,10
+Potosí,50802,Atocha,2007,3,Ingresos referidos de otros establecimientos,40
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,3,Ingresos referidos de otros establecimientos,7
+Chuquisaca,10201,Azurduy,2007,3,Ingresos referidos de otros establecimientos,5
+Potosí,50301,Betanzos,2007,3,Ingresos referidos de otros establecimientos,7
+Santa Cruz,70707,Boyuibe,2007,3,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70401,Buena Vista,2007,3,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70703,Cabezas,2007,3,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10701,Camargo,2007,3,Ingresos referidos de otros establecimientos,9
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,3,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70706,Camiri,2007,3,Ingresos referidos de otros establecimientos,22
+La Paz,22001,Caranavi,2007,3,Ingresos referidos de otros establecimientos,23
+Oruro,40201,Challapata,2007,3,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70702,Charagua,2007,3,Ingresos referidos de otros establecimientos,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,3,Ingresos referidos de otros establecimientos,5
+Pando,90101,Cobija,2007,3,Ingresos referidos de otros establecimientos,12
+Cochabamba,30101,Cochabamba,2007,3,Ingresos referidos de otros establecimientos,33
+Cochabamba,31002,Colomi,2007,3,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71301,Comarapa,2007,3,Ingresos referidos de otros establecimientos,2
+La Paz,21401,Coroico,2007,3,Ingresos referidos de otros establecimientos,6
+Potosí,50601,Cotagaita,2007,3,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70102,Cotoca,2007,3,Ingresos referidos de otros establecimientos,10
+Santa Cruz,71106,Cuatro Cañadas,2007,3,Ingresos referidos de otros establecimientos,2
+Oruro,40401,Curahuara De Carangas,2007,3,Ingresos referidos de otros establecimientos,1
+La Paz,20105,El Alto,2007,3,Ingresos referidos de otros establecimientos,203
+Santa Cruz,70105,El Torno,2007,3,Ingresos referidos de otros establecimientos,5
+La Paz,20602,Guanay,2007,3,Ingresos referidos de otros establecimientos,2
+Beni,80202,Guayaramerin,2007,3,Ingresos referidos de otros establecimientos,15
+Santa Cruz,70705,Gutierrez,2007,3,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10502,Huacareta,2007,3,Ingresos referidos de otros establecimientos,1
+Oruro,40701,Huanuni,2007,3,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10304,Icla,2007,3,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70104,La Guardia,2007,3,Ingresos referidos de otros establecimientos,3
+La Paz,20101,La Paz,2007,3,Ingresos referidos de otros establecimientos,1580
+Potosí,50203,Llallagua,2007,3,Ingresos referidos de otros establecimientos,16
+La Paz,20901,Luribay,2007,3,Ingresos referidos de otros establecimientos,1
+Chuquisaca,11003,Machareti,2007,3,Ingresos referidos de otros establecimientos,1
+Beni,80801,Magdalena,2007,3,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70903,Mairana,2007,3,Ingresos referidos de otros establecimientos,3
+La Paz,20607,Mapiri,2007,3,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71003,Mineros,2007,3,Ingresos referidos de otros establecimientos,1
+Cochabamba,31301,Mizque,2007,3,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10303,Mojocoya,2007,3,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10501,Monteagudo,2007,3,Ingresos referidos de otros establecimientos,18
+Santa Cruz,71001,Montero,2007,3,Ingresos referidos de otros establecimientos,59
+Potosí,50404,Ocuri,2007,3,Ingresos referidos de otros establecimientos,1
+Oruro,40101,Oruro,2007,3,Ingresos referidos de otros establecimientos,136
+Chuquisaca,10401,Padilla,2007,3,Ingresos referidos de otros establecimientos,26
+Santa Cruz,70502,Pailon,2007,3,Ingresos referidos de otros establecimientos,2
+La Paz,21104,Palos Blancos,2007,3,Ingresos referidos de otros establecimientos,3
+Cochabamba,30202,Pasorapa,2007,3,Ingresos referidos de otros establecimientos,1
+La Paz,21305,Patacamaya,2007,3,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70601,Portachuelo,2007,3,Ingresos referidos de otros establecimientos,8
+Santa Cruz,70804,Postrer Valle,2007,3,Ingresos referidos de otros establecimientos,1
+La Paz,20401,Puerto Acosta,2007,3,Ingresos referidos de otros establecimientos,5
+Pando,90201,Puerto Rico,2007,3,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71401,Puerto Suarez,2007,3,Ingresos referidos de otros establecimientos,11
+Cochabamba,31205,Puerto Villarroel,2007,3,Ingresos referidos de otros establecimientos,5
+Cochabamba,31401,Punata,2007,3,Ingresos referidos de otros establecimientos,68
+Cochabamba,30901,Quillacollo,2007,3,Ingresos referidos de otros establecimientos,22
+Beni,80301,Reyes,2007,3,Ingresos referidos de otros establecimientos,5
+Beni,80201,Riberalta,2007,3,Ingresos referidos de otros establecimientos,126
+Beni,80304,Rurrenabaque,2007,3,Ingresos referidos de otros establecimientos,12
+Cochabamba,31001,Sacaba,2007,3,Ingresos referidos de otros establecimientos,13
+Potosí,50701,Sacaca,2007,3,Ingresos referidos de otros establecimientos,1
+Cochabamba,31403,San Benito,2007,3,Ingresos referidos de otros establecimientos,1
+La Paz,21502,San Buena Ventura,2007,3,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70402,San Carlos,2007,3,Ingresos referidos de otros establecimientos,26
+Santa Cruz,70301,San Ignacio De Velasco,2007,3,Ingresos referidos de otros establecimientos,12
+Santa Cruz,71102,San Javier(stc),2007,3,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70501,San Jose De Chiquitos,2007,3,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70404,San Juan De Yapacani,2007,3,Ingresos referidos de otros establecimientos,5
+Santa Cruz,71104,San Julian,2007,3,Ingresos referidos de otros establecimientos,8
+Chuquisaca,10702,San Lucas,2007,3,Ingresos referidos de otros establecimientos,6
+Santa Cruz,71201,San Matias,2007,3,Ingresos referidos de otros establecimientos,1
+Beni,80401,Santa Ana,2007,3,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,Ingresos referidos de otros establecimientos,154
+Beni,80303,Santa Rosa,2007,3,Ingresos referidos de otros establecimientos,13
+Santa Cruz,70602,Santa Rosa Del Sara,2007,3,Ingresos referidos de otros establecimientos,1
+Pando,90303,Sena,2007,3,Ingresos referidos de otros establecimientos,3
+Cochabamba,30902,Sipe Sipe,2007,3,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10403,Sopachuy,2007,3,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10101,Sucre,2007,3,Ingresos referidos de otros establecimientos,71
+Chuquisaca,10601,Tarabuco,2007,3,Ingresos referidos de otros establecimientos,18
+Tarija,60101,Tarija,2007,3,Ingresos referidos de otros establecimientos,150
+La Paz,20606,Tipuani,2007,3,Ingresos referidos de otros establecimientos,3
+Cochabamba,30803,Tolata,2007,3,Ingresos referidos de otros establecimientos,1
+Cochabamba,31201,Totora(cbba),2007,3,Ingresos referidos de otros establecimientos,1
+Potosí,50801,Tupiza,2007,3,Ingresos referidos de otros establecimientos,53
+Potosí,50201,Uncia,2007,3,Ingresos referidos de otros establecimientos,4
+Cochabamba,30502,Vacas,2007,3,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70801,Vallegrande,2007,3,Ingresos referidos de otros establecimientos,6
+Tarija,60303,Villa Montes,2007,3,Ingresos referidos de otros establecimientos,9
+Cochabamba,31003,Villa Tunari,2007,3,Ingresos referidos de otros establecimientos,21
+Potosí,51501,Villazon,2007,3,Ingresos referidos de otros establecimientos,7
+Santa Cruz,70201,Warnes,2007,3,Ingresos referidos de otros establecimientos,6
+Tarija,60301,Yacuiba,2007,3,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70403,Yapacani,2007,3,Ingresos referidos de otros establecimientos,8
+Chuquisaca,10102,Yotala,2007,3,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10301,Zudañez,2007,3,Ingresos referidos de otros establecimientos,1
+Cochabamba,30201,Aiquile,2007,4,Ingresos referidos de otros establecimientos,9
+La Paz,20701,Apolo,2007,4,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,4,Ingresos referidos de otros establecimientos,15
+Potosí,50802,Atocha,2007,4,Ingresos referidos de otros establecimientos,30
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,4,Ingresos referidos de otros establecimientos,14
+Chuquisaca,10201,Azurduy,2007,4,Ingresos referidos de otros establecimientos,1
+Tarija,60202,Bermejo,2007,4,Ingresos referidos de otros establecimientos,1
+Potosí,50301,Betanzos,2007,4,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70707,Boyuibe,2007,4,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70401,Buena Vista,2007,4,Ingresos referidos de otros establecimientos,28
+Santa Cruz,70703,Cabezas,2007,4,Ingresos referidos de otros establecimientos,6
+Chuquisaca,10701,Camargo,2007,4,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70706,Camiri,2007,4,Ingresos referidos de otros establecimientos,22
+La Paz,22001,Caranavi,2007,4,Ingresos referidos de otros establecimientos,28
+Oruro,40201,Challapata,2007,4,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70702,Charagua,2007,4,Ingresos referidos de otros establecimientos,10
+La Paz,21101,Chulumani (v. De La Libertad),2007,4,Ingresos referidos de otros establecimientos,3
+Pando,90101,Cobija,2007,4,Ingresos referidos de otros establecimientos,39
+Cochabamba,30101,Cochabamba,2007,4,Ingresos referidos de otros establecimientos,25
+Cochabamba,31002,Colomi,2007,4,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71101,Concepcion,2007,4,Ingresos referidos de otros establecimientos,2
+La Paz,21701,Copacabana,2007,4,Ingresos referidos de otros establecimientos,1
+La Paz,21401,Coroico,2007,4,Ingresos referidos de otros establecimientos,11
+Potosí,50601,Cotagaita,2007,4,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70102,Cotoca,2007,4,Ingresos referidos de otros establecimientos,11
+Santa Cruz,71106,Cuatro Cañadas,2007,4,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70704,Cuevo,2007,4,Ingresos referidos de otros establecimientos,1
+La Paz,20105,El Alto,2007,4,Ingresos referidos de otros establecimientos,258
+Santa Cruz,70105,El Torno,2007,4,Ingresos referidos de otros establecimientos,5
+Tarija,60601,Entre Rios,2007,4,Ingresos referidos de otros establecimientos,1
+La Paz,20602,Guanay,2007,4,Ingresos referidos de otros establecimientos,3
+Beni,80202,Guayaramerin,2007,4,Ingresos referidos de otros establecimientos,16
+Santa Cruz,70104,La Guardia,2007,4,Ingresos referidos de otros establecimientos,10
+La Paz,20101,La Paz,2007,4,Ingresos referidos de otros establecimientos,1543
+Santa Cruz,70701,Lagunillas,2007,4,Ingresos referidos de otros establecimientos,1
+Potosí,50203,Llallagua,2007,4,Ingresos referidos de otros establecimientos,14
+Chuquisaca,11003,Machareti,2007,4,Ingresos referidos de otros establecimientos,4
+Beni,80801,Magdalena,2007,4,Ingresos referidos de otros establecimientos,7
+Santa Cruz,70903,Mairana,2007,4,Ingresos referidos de otros establecimientos,7
+La Paz,20607,Mapiri,2007,4,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71003,Mineros,2007,4,Ingresos referidos de otros establecimientos,1
+Cochabamba,31301,Mizque,2007,4,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10501,Monteagudo,2007,4,Ingresos referidos de otros establecimientos,20
+Santa Cruz,71001,Montero,2007,4,Ingresos referidos de otros establecimientos,101
+Potosí,50404,Ocuri,2007,4,Ingresos referidos de otros establecimientos,4
+Cochabamba,30203,Omereque,2007,4,Ingresos referidos de otros establecimientos,1
+Oruro,40101,Oruro,2007,4,Ingresos referidos de otros establecimientos,142
+Chuquisaca,10401,Padilla,2007,4,Ingresos referidos de otros establecimientos,30
+Santa Cruz,70502,Pailon,2007,4,Ingresos referidos de otros establecimientos,2
+La Paz,21104,Palos Blancos,2007,4,Ingresos referidos de otros establecimientos,18
+La Paz,21305,Patacamaya,2007,4,Ingresos referidos de otros establecimientos,5
+Potosí,50403,Pocoata,2007,4,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70601,Portachuelo,2007,4,Ingresos referidos de otros establecimientos,13
+Chuquisaca,10302,Presto,2007,4,Ingresos referidos de otros establecimientos,1
+La Paz,20401,Puerto Acosta,2007,4,Ingresos referidos de otros establecimientos,9
+Pando,90301,Puerto Gonzalo Moreno,2007,4,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71402,Puerto Quijarro,2007,4,Ingresos referidos de otros establecimientos,1
+Pando,90201,Puerto Rico,2007,4,Ingresos referidos de otros establecimientos,9
+Santa Cruz,71401,Puerto Suarez,2007,4,Ingresos referidos de otros establecimientos,9
+Cochabamba,31205,Puerto Villarroel,2007,4,Ingresos referidos de otros establecimientos,6
+Cochabamba,31401,Punata,2007,4,Ingresos referidos de otros establecimientos,13
+Cochabamba,30901,Quillacollo,2007,4,Ingresos referidos de otros establecimientos,47
+Beni,80301,Reyes,2007,4,Ingresos referidos de otros establecimientos,1
+Beni,80201,Riberalta,2007,4,Ingresos referidos de otros establecimientos,197
+Beni,80304,Rurrenabaque,2007,4,Ingresos referidos de otros establecimientos,7
+Cochabamba,30404,Sacabamba,2007,4,Ingresos referidos de otros establecimientos,1
+Potosí,50701,Sacaca,2007,4,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70901,Samaipata,2007,4,Ingresos referidos de otros establecimientos,1
+La Paz,21502,San Buena Ventura,2007,4,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70402,San Carlos,2007,4,Ingresos referidos de otros establecimientos,93
+Santa Cruz,70301,San Ignacio De Velasco,2007,4,Ingresos referidos de otros establecimientos,14
+Santa Cruz,70404,San Juan De Yapacani,2007,4,Ingresos referidos de otros establecimientos,4
+Santa Cruz,71104,San Julian,2007,4,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10702,San Lucas,2007,4,Ingresos referidos de otros establecimientos,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,Ingresos referidos de otros establecimientos,243
+Beni,80303,Santa Rosa,2007,4,Ingresos referidos de otros establecimientos,7
+Santa Cruz,70602,Santa Rosa Del Sara,2007,4,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10403,Sopachuy,2007,4,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10101,Sucre,2007,4,Ingresos referidos de otros establecimientos,77
+Cochabamba,31101,Tapacari,2007,4,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10601,Tarabuco,2007,4,Ingresos referidos de otros establecimientos,15
+Tarija,60101,Tarija,2007,4,Ingresos referidos de otros establecimientos,172
+Chuquisaca,10202,Tarvita,2007,4,Ingresos referidos de otros establecimientos,3
+La Paz,20606,Tipuani,2007,4,Ingresos referidos de otros establecimientos,1
+Potosí,50801,Tupiza,2007,4,Ingresos referidos de otros establecimientos,49
+Potosí,50201,Uncia,2007,4,Ingresos referidos de otros establecimientos,5
+Tarija,60401,Uriondo (a. Concepcion),2007,4,Ingresos referidos de otros establecimientos,1
+Potosí,51201,Uyuni,2007,4,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70801,Vallegrande,2007,4,Ingresos referidos de otros establecimientos,4
+Tarija,60303,Villa Montes,2007,4,Ingresos referidos de otros establecimientos,14
+Chuquisaca,10801,Villa Serrano,2007,4,Ingresos referidos de otros establecimientos,3
+Cochabamba,31003,Villa Tunari,2007,4,Ingresos referidos de otros establecimientos,17
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,4,Ingresos referidos de otros establecimientos,1
+Potosí,51501,Villazon,2007,4,Ingresos referidos de otros establecimientos,14
+Santa Cruz,70201,Warnes,2007,4,Ingresos referidos de otros establecimientos,3
+Tarija,60301,Yacuiba,2007,4,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70403,Yapacani,2007,4,Ingresos referidos de otros establecimientos,15
+Chuquisaca,10301,Zudañez,2007,4,Ingresos referidos de otros establecimientos,1
+Cochabamba,30201,Aiquile,2007,5,Ingresos referidos de otros establecimientos,10
+La Paz,20701,Apolo,2007,5,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,5,Ingresos referidos de otros establecimientos,3
+Potosí,50802,Atocha,2007,5,Ingresos referidos de otros establecimientos,47
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,5,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10201,Azurduy,2007,5,Ingresos referidos de otros establecimientos,6
+Potosí,50301,Betanzos,2007,5,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70703,Cabezas,2007,5,Ingresos referidos de otros establecimientos,7
+Chuquisaca,10701,Camargo,2007,5,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70706,Camiri,2007,5,Ingresos referidos de otros establecimientos,56
+Cochabamba,30701,Capinota,2007,5,Ingresos referidos de otros establecimientos,2
+La Paz,22001,Caranavi,2007,5,Ingresos referidos de otros establecimientos,15
+Oruro,40201,Challapata,2007,5,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70702,Charagua,2007,5,Ingresos referidos de otros establecimientos,4
+Potosí,50202,Chayanta,2007,5,Ingresos referidos de otros establecimientos,4
+La Paz,21101,Chulumani (v. De La Libertad),2007,5,Ingresos referidos de otros establecimientos,2
+Pando,90101,Cobija,2007,5,Ingresos referidos de otros establecimientos,50
+Cochabamba,30101,Cochabamba,2007,5,Ingresos referidos de otros establecimientos,26
+Cochabamba,31002,Colomi,2007,5,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71301,Comarapa,2007,5,Ingresos referidos de otros establecimientos,3
+La Paz,21401,Coroico,2007,5,Ingresos referidos de otros establecimientos,7
+Potosí,50601,Cotagaita,2007,5,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70102,Cotoca,2007,5,Ingresos referidos de otros establecimientos,8
+Santa Cruz,70704,Cuevo,2007,5,Ingresos referidos de otros establecimientos,1
+Oruro,40401,Curahuara De Carangas,2007,5,Ingresos referidos de otros establecimientos,1
+La Paz,20105,El Alto,2007,5,Ingresos referidos de otros establecimientos,114
+Santa Cruz,70105,El Torno,2007,5,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10405,El Villar,2007,5,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71004,Fernandez Alonso,2007,5,Ingresos referidos de otros establecimientos,1
+La Paz,20602,Guanay,2007,5,Ingresos referidos de otros establecimientos,5
+Beni,80202,Guayaramerin,2007,5,Ingresos referidos de otros establecimientos,23
+Santa Cruz,70705,Gutierrez,2007,5,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10502,Huacareta,2007,5,Ingresos referidos de otros establecimientos,1
+Oruro,40701,Huanuni,2007,5,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10304,Icla,2007,5,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10703,Incahuasi,2007,5,Ingresos referidos de otros establecimientos,3
+La Paz,20806,Jesus De Machaca,2007,5,Ingresos referidos de otros establecimientos,22
+Santa Cruz,70104,La Guardia,2007,5,Ingresos referidos de otros establecimientos,8
+La Paz,20101,La Paz,2007,5,Ingresos referidos de otros establecimientos,1695
+Potosí,50203,Llallagua,2007,5,Ingresos referidos de otros establecimientos,18
+Beni,80801,Magdalena,2007,5,Ingresos referidos de otros establecimientos,7
+Santa Cruz,70903,Mairana,2007,5,Ingresos referidos de otros establecimientos,5
+La Paz,20607,Mapiri,2007,5,Ingresos referidos de otros establecimientos,2
+Cochabamba,31301,Mizque,2007,5,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10501,Monteagudo,2007,5,Ingresos referidos de otros establecimientos,19
+Santa Cruz,71001,Montero,2007,5,Ingresos referidos de otros establecimientos,99
+Potosí,50404,Ocuri,2007,5,Ingresos referidos de otros establecimientos,1
+Oruro,40101,Oruro,2007,5,Ingresos referidos de otros establecimientos,193
+Chuquisaca,10401,Padilla,2007,5,Ingresos referidos de otros establecimientos,15
+Santa Cruz,70502,Pailon,2007,5,Ingresos referidos de otros establecimientos,1
+La Paz,21104,Palos Blancos,2007,5,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70601,Portachuelo,2007,5,Ingresos referidos de otros establecimientos,14
+La Paz,20401,Puerto Acosta,2007,5,Ingresos referidos de otros establecimientos,11
+Santa Cruz,71402,Puerto Quijarro,2007,5,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71401,Puerto Suarez,2007,5,Ingresos referidos de otros establecimientos,6
+Cochabamba,31205,Puerto Villarroel,2007,5,Ingresos referidos de otros establecimientos,2
+Potosí,51101,Puna,2007,5,Ingresos referidos de otros establecimientos,4
+Cochabamba,31401,Punata,2007,5,Ingresos referidos de otros establecimientos,56
+Cochabamba,30901,Quillacollo,2007,5,Ingresos referidos de otros establecimientos,29
+Beni,80301,Reyes,2007,5,Ingresos referidos de otros establecimientos,5
+Beni,80201,Riberalta,2007,5,Ingresos referidos de otros establecimientos,100
+Santa Cruz,70503,Robore,2007,5,Ingresos referidos de otros establecimientos,2
+Beni,80304,Rurrenabaque,2007,5,Ingresos referidos de otros establecimientos,6
+Cochabamba,31001,Sacaba,2007,5,Ingresos referidos de otros establecimientos,6
+Cochabamba,30404,Sacabamba,2007,5,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70901,Samaipata,2007,5,Ingresos referidos de otros establecimientos,2
+Potosí,51601,San Agustin,2007,5,Ingresos referidos de otros establecimientos,1
+La Paz,21502,San Buena Ventura,2007,5,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70402,San Carlos,2007,5,Ingresos referidos de otros establecimientos,22
+Beni,80501,San Ignacio,2007,5,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,5,Ingresos referidos de otros establecimientos,18
+Beni,80701,San Joaquin,2007,5,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70404,San Juan De Yapacani,2007,5,Ingresos referidos de otros establecimientos,5
+Santa Cruz,71104,San Julian,2007,5,Ingresos referidos de otros establecimientos,9
+Chuquisaca,10702,San Lucas,2007,5,Ingresos referidos de otros establecimientos,12
+Santa Cruz,70303,San Rafael,2007,5,Ingresos referidos de otros establecimientos,9
+Beni,80702,San Ramon,2007,5,Ingresos referidos de otros establecimientos,1
+Beni,80401,Santa Ana,2007,5,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,Ingresos referidos de otros establecimientos,197
+Beni,80303,Santa Rosa,2007,5,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70602,Santa Rosa Del Sara,2007,5,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10403,Sopachuy,2007,5,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10101,Sucre,2007,5,Ingresos referidos de otros establecimientos,67
+Cochabamba,31101,Tapacari,2007,5,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10601,Tarabuco,2007,5,Ingresos referidos de otros establecimientos,14
+Tarija,60101,Tarija,2007,5,Ingresos referidos de otros establecimientos,156
+Potosí,50102,Tinguipaya,2007,5,Ingresos referidos de otros establecimientos,1
+La Paz,20606,Tipuani,2007,5,Ingresos referidos de otros establecimientos,1
+Cochabamba,31201,Totora(cbba),2007,5,Ingresos referidos de otros establecimientos,2
+Potosí,50801,Tupiza,2007,5,Ingresos referidos de otros establecimientos,51
+Potosí,50201,Uncia,2007,5,Ingresos referidos de otros establecimientos,4
+Santa Cruz,71502,Urubicha,2007,5,Ingresos referidos de otros establecimientos,1
+Cochabamba,30502,Vacas,2007,5,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70801,Vallegrande,2007,5,Ingresos referidos de otros establecimientos,4
+Tarija,60303,Villa Montes,2007,5,Ingresos referidos de otros establecimientos,15
+Cochabamba,31003,Villa Tunari,2007,5,Ingresos referidos de otros establecimientos,18
+Potosí,51501,Villazon,2007,5,Ingresos referidos de otros establecimientos,15
+Santa Cruz,70201,Warnes,2007,5,Ingresos referidos de otros establecimientos,1
+Tarija,60301,Yacuiba,2007,5,Ingresos referidos de otros establecimientos,3
+La Paz,21103,Yanacachi,2007,5,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70403,Yapacani,2007,5,Ingresos referidos de otros establecimientos,7
+Chuquisaca,10301,Zudañez,2007,5,Ingresos referidos de otros establecimientos,4
+Potosí,51302,Acacio,2007,6,Ingresos referidos de otros establecimientos,2
+Cochabamba,30201,Aiquile,2007,6,Ingresos referidos de otros establecimientos,8
+La Paz,20701,Apolo,2007,6,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,Ingresos referidos de otros establecimientos,4
+Potosí,50802,Atocha,2007,6,Ingresos referidos de otros establecimientos,58
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,6,Ingresos referidos de otros establecimientos,6
+Potosí,50301,Betanzos,2007,6,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70707,Boyuibe,2007,6,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70401,Buena Vista,2007,6,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70703,Cabezas,2007,6,Ingresos referidos de otros establecimientos,10
+Chuquisaca,10701,Camargo,2007,6,Ingresos referidos de otros establecimientos,12
+Santa Cruz,70706,Camiri,2007,6,Ingresos referidos de otros establecimientos,29
+Cochabamba,30701,Capinota,2007,6,Ingresos referidos de otros establecimientos,6
+La Paz,22001,Caranavi,2007,6,Ingresos referidos de otros establecimientos,26
+Santa Cruz,71403,Carmen Rivero Torrez,2007,6,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70702,Charagua,2007,6,Ingresos referidos de otros establecimientos,4
+La Paz,21101,Chulumani (v. De La Libertad),2007,6,Ingresos referidos de otros establecimientos,4
+Pando,90101,Cobija,2007,6,Ingresos referidos de otros establecimientos,64
+Cochabamba,30101,Cochabamba,2007,6,Ingresos referidos de otros establecimientos,18
+Cochabamba,31002,Colomi,2007,6,Ingresos referidos de otros establecimientos,4
+Santa Cruz,71301,Comarapa,2007,6,Ingresos referidos de otros establecimientos,1
+La Paz,21701,Copacabana,2007,6,Ingresos referidos de otros establecimientos,1
+La Paz,21401,Coroico,2007,6,Ingresos referidos de otros establecimientos,6
+Potosí,50601,Cotagaita,2007,6,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70102,Cotoca,2007,6,Ingresos referidos de otros establecimientos,14
+La Paz,20105,El Alto,2007,6,Ingresos referidos de otros establecimientos,138
+Tarija,60502,El Puente(tja),2007,6,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70105,El Torno,2007,6,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10405,El Villar,2007,6,Ingresos referidos de otros establecimientos,2
+Tarija,60601,Entre Rios,2007,6,Ingresos referidos de otros establecimientos,7
+La Paz,20602,Guanay,2007,6,Ingresos referidos de otros establecimientos,6
+Beni,80202,Guayaramerin,2007,6,Ingresos referidos de otros establecimientos,27
+Santa Cruz,70705,Gutierrez,2007,6,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10502,Huacareta,2007,6,Ingresos referidos de otros establecimientos,2
+La Paz,21005,Ichoca,2007,6,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10304,Icla,2007,6,Ingresos referidos de otros establecimientos,2
+La Paz,21102,Irupana (villa De Lanza),2007,6,Ingresos referidos de otros establecimientos,1
+La Paz,20806,Jesus De Machaca,2007,6,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70104,La Guardia,2007,6,Ingresos referidos de otros establecimientos,3
+La Paz,20101,La Paz,2007,6,Ingresos referidos de otros establecimientos,1604
+Chuquisaca,10903,Las Carreras,2007,6,Ingresos referidos de otros establecimientos,1
+Potosí,50203,Llallagua,2007,6,Ingresos referidos de otros establecimientos,31
+Chuquisaca,11003,Machareti,2007,6,Ingresos referidos de otros establecimientos,1
+Beni,80801,Magdalena,2007,6,Ingresos referidos de otros establecimientos,9
+Santa Cruz,70903,Mairana,2007,6,Ingresos referidos de otros establecimientos,4
+Santa Cruz,71003,Mineros,2007,6,Ingresos referidos de otros establecimientos,1
+Cochabamba,31301,Mizque,2007,6,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10501,Monteagudo,2007,6,Ingresos referidos de otros establecimientos,19
+Santa Cruz,71001,Montero,2007,6,Ingresos referidos de otros establecimientos,108
+Oruro,40101,Oruro,2007,6,Ingresos referidos de otros establecimientos,128
+Chuquisaca,10401,Padilla,2007,6,Ingresos referidos de otros establecimientos,17
+La Paz,21104,Palos Blancos,2007,6,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70902,Pampa Grande,2007,6,Ingresos referidos de otros establecimientos,2
+La Paz,21305,Patacamaya,2007,6,Ingresos referidos de otros establecimientos,4
+Potosí,50403,Pocoata,2007,6,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10103,Poroma,2007,6,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70601,Portachuelo,2007,6,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10302,Presto,2007,6,Ingresos referidos de otros establecimientos,2
+La Paz,20401,Puerto Acosta,2007,6,Ingresos referidos de otros establecimientos,9
+La Paz,20403,Puerto Carabuco,2007,6,Ingresos referidos de otros establecimientos,1
+Pando,90201,Puerto Rico,2007,6,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71401,Puerto Suarez,2007,6,Ingresos referidos de otros establecimientos,13
+Cochabamba,31205,Puerto Villarroel,2007,6,Ingresos referidos de otros establecimientos,10
+Potosí,51101,Puna,2007,6,Ingresos referidos de otros establecimientos,3
+Cochabamba,31401,Punata,2007,6,Ingresos referidos de otros establecimientos,59
+Cochabamba,30901,Quillacollo,2007,6,Ingresos referidos de otros establecimientos,24
+Beni,80301,Reyes,2007,6,Ingresos referidos de otros establecimientos,4
+Beni,80201,Riberalta,2007,6,Ingresos referidos de otros establecimientos,152
+Santa Cruz,70503,Robore,2007,6,Ingresos referidos de otros establecimientos,2
+Beni,80304,Rurrenabaque,2007,6,Ingresos referidos de otros establecimientos,11
+Cochabamba,31001,Sacaba,2007,6,Ingresos referidos de otros establecimientos,7
+Potosí,50701,Sacaca,2007,6,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70901,Samaipata,2007,6,Ingresos referidos de otros establecimientos,1
+Potosí,51601,San Agustin,2007,6,Ingresos referidos de otros establecimientos,1
+Beni,80302,San Borja,2007,6,Ingresos referidos de otros establecimientos,3
+La Paz,21502,San Buena Ventura,2007,6,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70402,San Carlos,2007,6,Ingresos referidos de otros establecimientos,17
+Santa Cruz,70301,San Ignacio De Velasco,2007,6,Ingresos referidos de otros establecimientos,19
+Santa Cruz,70501,San Jose De Chiquitos,2007,6,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70404,San Juan De Yapacani,2007,6,Ingresos referidos de otros establecimientos,5
+Santa Cruz,71104,San Julian,2007,6,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10702,San Lucas,2007,6,Ingresos referidos de otros establecimientos,22
+Santa Cruz,71201,San Matias,2007,6,Ingresos referidos de otros establecimientos,5
+Beni,80702,San Ramon,2007,6,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,Ingresos referidos de otros establecimientos,214
+Beni,80303,Santa Rosa,2007,6,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70602,Santa Rosa Del Sara,2007,6,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10403,Sopachuy,2007,6,Ingresos referidos de otros establecimientos,6
+Chuquisaca,10101,Sucre,2007,6,Ingresos referidos de otros establecimientos,79
+La Paz,20603,Tacacoma,2007,6,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10601,Tarabuco,2007,6,Ingresos referidos de otros establecimientos,13
+Tarija,60101,Tarija,2007,6,Ingresos referidos de otros establecimientos,123
+Chuquisaca,10202,Tarvita,2007,6,Ingresos referidos de otros establecimientos,4
+La Paz,20608,Teoponte,2007,6,Ingresos referidos de otros establecimientos,3
+La Paz,20606,Tipuani,2007,6,Ingresos referidos de otros establecimientos,1
+Cochabamba,31201,Totora(cbba),2007,6,Ingresos referidos de otros establecimientos,2
+Potosí,50801,Tupiza,2007,6,Ingresos referidos de otros establecimientos,38
+Potosí,50201,Uncia,2007,6,Ingresos referidos de otros establecimientos,8
+Santa Cruz,70801,Vallegrande,2007,6,Ingresos referidos de otros establecimientos,3
+Tarija,60303,Villa Montes,2007,6,Ingresos referidos de otros establecimientos,13
+Cochabamba,31003,Villa Tunari,2007,6,Ingresos referidos de otros establecimientos,31
+Potosí,51501,Villazon,2007,6,Ingresos referidos de otros establecimientos,15
+Potosí,50602,Vitichi,2007,6,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70201,Warnes,2007,6,Ingresos referidos de otros establecimientos,8
+Tarija,60301,Yacuiba,2007,6,Ingresos referidos de otros establecimientos,18
+Santa Cruz,70403,Yapacani,2007,6,Ingresos referidos de otros establecimientos,8
+Chuquisaca,10102,Yotala,2007,6,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10301,Zudañez,2007,6,Ingresos referidos de otros establecimientos,3
+Cochabamba,30201,Aiquile,2007,7,Ingresos referidos de otros establecimientos,6
+La Paz,20701,Apolo,2007,7,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,Ingresos referidos de otros establecimientos,18
+Potosí,50802,Atocha,2007,7,Ingresos referidos de otros establecimientos,46
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,7,Ingresos referidos de otros establecimientos,8
+Chuquisaca,10201,Azurduy,2007,7,Ingresos referidos de otros establecimientos,1
+Tarija,60202,Bermejo,2007,7,Ingresos referidos de otros establecimientos,7
+Potosí,50301,Betanzos,2007,7,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70703,Cabezas,2007,7,Ingresos referidos de otros establecimientos,6
+Chuquisaca,10701,Camargo,2007,7,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,7,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70706,Camiri,2007,7,Ingresos referidos de otros establecimientos,10
+La Paz,22001,Caranavi,2007,7,Ingresos referidos de otros establecimientos,31
+Oruro,40201,Challapata,2007,7,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70702,Charagua,2007,7,Ingresos referidos de otros establecimientos,2
+La Paz,21101,Chulumani (v. De La Libertad),2007,7,Ingresos referidos de otros establecimientos,3
+Pando,90101,Cobija,2007,7,Ingresos referidos de otros establecimientos,105
+Cochabamba,30101,Cochabamba,2007,7,Ingresos referidos de otros establecimientos,18
+Cochabamba,30905,Colcapirhua,2007,7,Ingresos referidos de otros establecimientos,2
+Cochabamba,31002,Colomi,2007,7,Ingresos referidos de otros establecimientos,4
+La Paz,20301,Coro Coro,2007,7,Ingresos referidos de otros establecimientos,1
+La Paz,21401,Coroico,2007,7,Ingresos referidos de otros establecimientos,12
+Potosí,50601,Cotagaita,2007,7,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70102,Cotoca,2007,7,Ingresos referidos de otros establecimientos,11
+La Paz,20105,El Alto,2007,7,Ingresos referidos de otros establecimientos,171
+Santa Cruz,70105,El Torno,2007,7,Ingresos referidos de otros establecimientos,7
+Tarija,60601,Entre Rios,2007,7,Ingresos referidos de otros establecimientos,6
+La Paz,21601,Gral. J.j. Perez (charazani),2007,7,Ingresos referidos de otros establecimientos,1
+La Paz,20602,Guanay,2007,7,Ingresos referidos de otros establecimientos,1
+Beni,80202,Guayaramerin,2007,7,Ingresos referidos de otros establecimientos,19
+Santa Cruz,70705,Gutierrez,2007,7,Ingresos referidos de otros establecimientos,3
+La Paz,21005,Ichoca,2007,7,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70104,La Guardia,2007,7,Ingresos referidos de otros establecimientos,5
+La Paz,20101,La Paz,2007,7,Ingresos referidos de otros establecimientos,2049
+La Paz,21202,Laja,2007,7,Ingresos referidos de otros establecimientos,7
+Potosí,50203,Llallagua,2007,7,Ingresos referidos de otros establecimientos,28
+Chuquisaca,11003,Machareti,2007,7,Ingresos referidos de otros establecimientos,1
+Beni,80801,Magdalena,2007,7,Ingresos referidos de otros establecimientos,14
+Santa Cruz,70903,Mairana,2007,7,Ingresos referidos de otros establecimientos,7
+La Paz,20607,Mapiri,2007,7,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10501,Monteagudo,2007,7,Ingresos referidos de otros establecimientos,17
+Santa Cruz,71001,Montero,2007,7,Ingresos referidos de otros establecimientos,106
+Cochabamba,30302,Morochata,2007,7,Ingresos referidos de otros establecimientos,3
+Oruro,40101,Oruro,2007,7,Ingresos referidos de otros establecimientos,136
+Chuquisaca,10401,Padilla,2007,7,Ingresos referidos de otros establecimientos,25
+La Paz,21104,Palos Blancos,2007,7,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70902,Pampa Grande,2007,7,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70601,Portachuelo,2007,7,Ingresos referidos de otros establecimientos,10
+Potosí,50101,Potosi,2007,7,Ingresos referidos de otros establecimientos,44
+Chuquisaca,10302,Presto,2007,7,Ingresos referidos de otros establecimientos,1
+La Paz,20401,Puerto Acosta,2007,7,Ingresos referidos de otros establecimientos,10
+Santa Cruz,71402,Puerto Quijarro,2007,7,Ingresos referidos de otros establecimientos,2
+Pando,90201,Puerto Rico,2007,7,Ingresos referidos de otros establecimientos,3
+Santa Cruz,71401,Puerto Suarez,2007,7,Ingresos referidos de otros establecimientos,21
+Cochabamba,31205,Puerto Villarroel,2007,7,Ingresos referidos de otros establecimientos,8
+Potosí,51101,Puna,2007,7,Ingresos referidos de otros establecimientos,1
+Cochabamba,31401,Punata,2007,7,Ingresos referidos de otros establecimientos,47
+Cochabamba,30901,Quillacollo,2007,7,Ingresos referidos de otros establecimientos,32
+Beni,80301,Reyes,2007,7,Ingresos referidos de otros establecimientos,3
+Beni,80201,Riberalta,2007,7,Ingresos referidos de otros establecimientos,172
+Beni,80304,Rurrenabaque,2007,7,Ingresos referidos de otros establecimientos,19
+Cochabamba,31001,Sacaba,2007,7,Ingresos referidos de otros establecimientos,3
+Potosí,50701,Sacaca,2007,7,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70901,Samaipata,2007,7,Ingresos referidos de otros establecimientos,2
+Cochabamba,31403,San Benito,2007,7,Ingresos referidos de otros establecimientos,1
+La Paz,21502,San Buena Ventura,2007,7,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70402,San Carlos,2007,7,Ingresos referidos de otros establecimientos,16
+Beni,80501,San Ignacio,2007,7,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70301,San Ignacio De Velasco,2007,7,Ingresos referidos de otros establecimientos,21
+Santa Cruz,70404,San Juan De Yapacani,2007,7,Ingresos referidos de otros establecimientos,8
+Santa Cruz,71104,San Julian,2007,7,Ingresos referidos de otros establecimientos,8
+Chuquisaca,10702,San Lucas,2007,7,Ingresos referidos de otros establecimientos,19
+Santa Cruz,71201,San Matias,2007,7,Ingresos referidos de otros establecimientos,3
+Potosí,50501,San Pedro De Buena Vista,2007,7,Ingresos referidos de otros establecimientos,3
+Beni,80702,San Ramon,2007,7,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,Ingresos referidos de otros establecimientos,91
+Beni,80303,Santa Rosa,2007,7,Ingresos referidos de otros establecimientos,4
+Pando,90303,Sena,2007,7,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10403,Sopachuy,2007,7,Ingresos referidos de otros establecimientos,8
+Chuquisaca,10101,Sucre,2007,7,Ingresos referidos de otros establecimientos,78
+Cochabamba,30602,Tacopaya,2007,7,Ingresos referidos de otros establecimientos,1
+Cochabamba,31101,Tapacari,2007,7,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10601,Tarabuco,2007,7,Ingresos referidos de otros establecimientos,20
+Tarija,60101,Tarija,2007,7,Ingresos referidos de otros establecimientos,128
+Chuquisaca,10202,Tarvita,2007,7,Ingresos referidos de otros establecimientos,1
+La Paz,20608,Teoponte,2007,7,Ingresos referidos de otros establecimientos,1
+Cochabamba,31201,Totora(cbba),2007,7,Ingresos referidos de otros establecimientos,1
+Potosí,50801,Tupiza,2007,7,Ingresos referidos de otros establecimientos,49
+Potosí,50201,Uncia,2007,7,Ingresos referidos de otros establecimientos,18
+Potosí,51201,Uyuni,2007,7,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70801,Vallegrande,2007,7,Ingresos referidos de otros establecimientos,3
+Tarija,60303,Villa Montes,2007,7,Ingresos referidos de otros establecimientos,12
+Cochabamba,31003,Villa Tunari,2007,7,Ingresos referidos de otros establecimientos,31
+Potosí,51501,Villazon,2007,7,Ingresos referidos de otros establecimientos,14
+Potosí,50602,Vitichi,2007,7,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70201,Warnes,2007,7,Ingresos referidos de otros establecimientos,5
+Tarija,60301,Yacuiba,2007,7,Ingresos referidos de otros establecimientos,12
+Santa Cruz,70403,Yapacani,2007,7,Ingresos referidos de otros establecimientos,5
+Potosí,51302,Acacio,2007,8,Ingresos referidos de otros establecimientos,1
+Cochabamba,30201,Aiquile,2007,8,Ingresos referidos de otros establecimientos,3
+La Paz,20701,Apolo,2007,8,Ingresos referidos de otros establecimientos,2
+Cochabamba,30501,Arani,2007,8,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,Ingresos referidos de otros establecimientos,12
+Potosí,50802,Atocha,2007,8,Ingresos referidos de otros establecimientos,37
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,8,Ingresos referidos de otros establecimientos,9
+Tarija,60202,Bermejo,2007,8,Ingresos referidos de otros establecimientos,4
+Potosí,50301,Betanzos,2007,8,Ingresos referidos de otros establecimientos,7
+Santa Cruz,70401,Buena Vista,2007,8,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70703,Cabezas,2007,8,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10701,Camargo,2007,8,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,8,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70706,Camiri,2007,8,Ingresos referidos de otros establecimientos,8
+Cochabamba,30701,Capinota,2007,8,Ingresos referidos de otros establecimientos,16
+La Paz,22001,Caranavi,2007,8,Ingresos referidos de otros establecimientos,26
+Santa Cruz,71403,Carmen Rivero Torrez,2007,8,Ingresos referidos de otros establecimientos,3
+Oruro,40201,Challapata,2007,8,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70702,Charagua,2007,8,Ingresos referidos de otros establecimientos,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,8,Ingresos referidos de otros establecimientos,2
+La Paz,20501,Chuma,2007,8,Ingresos referidos de otros establecimientos,2
+Pando,90101,Cobija,2007,8,Ingresos referidos de otros establecimientos,98
+Cochabamba,30101,Cochabamba,2007,8,Ingresos referidos de otros establecimientos,36
+Cochabamba,31002,Colomi,2007,8,Ingresos referidos de otros establecimientos,5
+Santa Cruz,71301,Comarapa,2007,8,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71101,Concepcion,2007,8,Ingresos referidos de otros establecimientos,2
+La Paz,21401,Coroico,2007,8,Ingresos referidos de otros establecimientos,5
+Potosí,50601,Cotagaita,2007,8,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70102,Cotoca,2007,8,Ingresos referidos de otros establecimientos,14
+Santa Cruz,71106,Cuatro Cañadas,2007,8,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10902,Culpina,2007,8,Ingresos referidos de otros establecimientos,2
+La Paz,20105,El Alto,2007,8,Ingresos referidos de otros establecimientos,188
+Santa Cruz,70105,El Torno,2007,8,Ingresos referidos de otros establecimientos,5
+Pando,90203,Filadelfia,2007,8,Ingresos referidos de otros establecimientos,1
+La Paz,20602,Guanay,2007,8,Ingresos referidos de otros establecimientos,3
+Beni,80202,Guayaramerin,2007,8,Ingresos referidos de otros establecimientos,22
+Santa Cruz,70705,Gutierrez,2007,8,Ingresos referidos de otros establecimientos,3
+Oruro,40701,Huanuni,2007,8,Ingresos referidos de otros establecimientos,1
+Beni,80803,Huaracaje,2007,8,Ingresos referidos de otros establecimientos,2
+La Paz,21005,Ichoca,2007,8,Ingresos referidos de otros establecimientos,1
+La Paz,21102,Irupana (villa De Lanza),2007,8,Ingresos referidos de otros establecimientos,1
+La Paz,20806,Jesus De Machaca,2007,8,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70104,La Guardia,2007,8,Ingresos referidos de otros establecimientos,5
+La Paz,20101,La Paz,2007,8,Ingresos referidos de otros establecimientos,1699
+Potosí,50203,Llallagua,2007,8,Ingresos referidos de otros establecimientos,16
+Chuquisaca,11003,Machareti,2007,8,Ingresos referidos de otros establecimientos,2
+Beni,80801,Magdalena,2007,8,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70903,Mairana,2007,8,Ingresos referidos de otros establecimientos,3
+Santa Cruz,71003,Mineros,2007,8,Ingresos referidos de otros establecimientos,2
+Cochabamba,31301,Mizque,2007,8,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10501,Monteagudo,2007,8,Ingresos referidos de otros establecimientos,24
+Santa Cruz,71001,Montero,2007,8,Ingresos referidos de otros establecimientos,60
+Cochabamba,30302,Morochata,2007,8,Ingresos referidos de otros establecimientos,2
+Oruro,40101,Oruro,2007,8,Ingresos referidos de otros establecimientos,134
+Chuquisaca,10401,Padilla,2007,8,Ingresos referidos de otros establecimientos,19
+Santa Cruz,70502,Pailon,2007,8,Ingresos referidos de otros establecimientos,1
+La Paz,21104,Palos Blancos,2007,8,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70902,Pampa Grande,2007,8,Ingresos referidos de otros establecimientos,1
+Cochabamba,31202,Pojo (cbba),2007,8,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70103,Porongo,2007,8,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70601,Portachuelo,2007,8,Ingresos referidos de otros establecimientos,7
+Potosí,50101,Potosi,2007,8,Ingresos referidos de otros establecimientos,20
+Chuquisaca,10302,Presto,2007,8,Ingresos referidos de otros establecimientos,1
+La Paz,20401,Puerto Acosta,2007,8,Ingresos referidos de otros establecimientos,7
+Santa Cruz,71402,Puerto Quijarro,2007,8,Ingresos referidos de otros establecimientos,2
+Pando,90201,Puerto Rico,2007,8,Ingresos referidos de otros establecimientos,3
+Santa Cruz,71401,Puerto Suarez,2007,8,Ingresos referidos de otros establecimientos,23
+Cochabamba,31205,Puerto Villarroel,2007,8,Ingresos referidos de otros establecimientos,7
+Potosí,51101,Puna,2007,8,Ingresos referidos de otros establecimientos,1
+Cochabamba,31401,Punata,2007,8,Ingresos referidos de otros establecimientos,67
+Cochabamba,30901,Quillacollo,2007,8,Ingresos referidos de otros establecimientos,38
+Beni,80301,Reyes,2007,8,Ingresos referidos de otros establecimientos,4
+Beni,80201,Riberalta,2007,8,Ingresos referidos de otros establecimientos,106
+Santa Cruz,70503,Robore,2007,8,Ingresos referidos de otros establecimientos,2
+Beni,80304,Rurrenabaque,2007,8,Ingresos referidos de otros establecimientos,14
+Cochabamba,31001,Sacaba,2007,8,Ingresos referidos de otros establecimientos,19
+Potosí,50701,Sacaca,2007,8,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70901,Samaipata,2007,8,Ingresos referidos de otros establecimientos,3
+Santa Cruz,71105,San Antonio De Lomerio,2007,8,Ingresos referidos de otros establecimientos,1
+Beni,80302,San Borja,2007,8,Ingresos referidos de otros establecimientos,2
+La Paz,21502,San Buena Ventura,2007,8,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70402,San Carlos,2007,8,Ingresos referidos de otros establecimientos,10
+Santa Cruz,70301,San Ignacio De Velasco,2007,8,Ingresos referidos de otros establecimientos,25
+Santa Cruz,71102,San Javier(stc),2007,8,Ingresos referidos de otros establecimientos,1
+Beni,80701,San Joaquin,2007,8,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70501,San Jose De Chiquitos,2007,8,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70404,San Juan De Yapacani,2007,8,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71104,San Julian,2007,8,Ingresos referidos de otros establecimientos,9
+Chuquisaca,10702,San Lucas,2007,8,Ingresos referidos de otros establecimientos,14
+Beni,80702,San Ramon,2007,8,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,Ingresos referidos de otros establecimientos,64
+Beni,80303,Santa Rosa,2007,8,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10403,Sopachuy,2007,8,Ingresos referidos de otros establecimientos,10
+Chuquisaca,10101,Sucre,2007,8,Ingresos referidos de otros establecimientos,91
+Cochabamba,31101,Tapacari,2007,8,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10601,Tarabuco,2007,8,Ingresos referidos de otros establecimientos,20
+Tarija,60101,Tarija,2007,8,Ingresos referidos de otros establecimientos,97
+Chuquisaca,10202,Tarvita,2007,8,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10402,Tomina,2007,8,Ingresos referidos de otros establecimientos,3
+Cochabamba,31201,Totora(cbba),2007,8,Ingresos referidos de otros establecimientos,1
+Beni,80101,Trinidad,2007,8,Ingresos referidos de otros establecimientos,6
+Potosí,50801,Tupiza,2007,8,Ingresos referidos de otros establecimientos,32
+Potosí,50201,Uncia,2007,8,Ingresos referidos de otros establecimientos,44
+Potosí,51201,Uyuni,2007,8,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70801,Vallegrande,2007,8,Ingresos referidos de otros establecimientos,6
+Tarija,60303,Villa Montes,2007,8,Ingresos referidos de otros establecimientos,21
+Cochabamba,31003,Villa Tunari,2007,8,Ingresos referidos de otros establecimientos,27
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,8,Ingresos referidos de otros establecimientos,3
+Potosí,51501,Villazon,2007,8,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70201,Warnes,2007,8,Ingresos referidos de otros establecimientos,9
+Tarija,60301,Yacuiba,2007,8,Ingresos referidos de otros establecimientos,12
+Santa Cruz,70403,Yapacani,2007,8,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10102,Yotala,2007,8,Ingresos referidos de otros establecimientos,1
+Cochabamba,30201,Aiquile,2007,9,Ingresos referidos de otros establecimientos,13
+Chuquisaca,10404,Alcala,2007,9,Ingresos referidos de otros establecimientos,2
+La Paz,20701,Apolo,2007,9,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,9,Ingresos referidos de otros establecimientos,8
+Potosí,50802,Atocha,2007,9,Ingresos referidos de otros establecimientos,62
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,9,Ingresos referidos de otros establecimientos,7
+Potosí,50301,Betanzos,2007,9,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70707,Boyuibe,2007,9,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70703,Cabezas,2007,9,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10701,Camargo,2007,9,Ingresos referidos de otros establecimientos,7
+Santa Cruz,70706,Camiri,2007,9,Ingresos referidos de otros establecimientos,23
+Cochabamba,30701,Capinota,2007,9,Ingresos referidos de otros establecimientos,6
+La Paz,22001,Caranavi,2007,9,Ingresos referidos de otros establecimientos,18
+Oruro,40201,Challapata,2007,9,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70702,Charagua,2007,9,Ingresos referidos de otros establecimientos,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,9,Ingresos referidos de otros establecimientos,2
+Pando,90101,Cobija,2007,9,Ingresos referidos de otros establecimientos,70
+Cochabamba,30101,Cochabamba,2007,9,Ingresos referidos de otros establecimientos,29
+Cochabamba,31002,Colomi,2007,9,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71301,Comarapa,2007,9,Ingresos referidos de otros establecimientos,3
+Santa Cruz,71101,Concepcion,2007,9,Ingresos referidos de otros establecimientos,3
+La Paz,21401,Coroico,2007,9,Ingresos referidos de otros establecimientos,12
+Potosí,50601,Cotagaita,2007,9,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70102,Cotoca,2007,9,Ingresos referidos de otros establecimientos,65
+La Paz,20105,El Alto,2007,9,Ingresos referidos de otros establecimientos,126
+Santa Cruz,70105,El Torno,2007,9,Ingresos referidos de otros establecimientos,5
+Tarija,60601,Entre Rios,2007,9,Ingresos referidos de otros establecimientos,3
+La Paz,21601,Gral. J.j. Perez (charazani),2007,9,Ingresos referidos de otros establecimientos,1
+La Paz,20602,Guanay,2007,9,Ingresos referidos de otros establecimientos,3
+Beni,80202,Guayaramerin,2007,9,Ingresos referidos de otros establecimientos,21
+La Paz,21501,Ixiamas,2007,9,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70104,La Guardia,2007,9,Ingresos referidos de otros establecimientos,3
+La Paz,20101,La Paz,2007,9,Ingresos referidos de otros establecimientos,1596
+Santa Cruz,70701,Lagunillas,2007,9,Ingresos referidos de otros establecimientos,1
+Potosí,50203,Llallagua,2007,9,Ingresos referidos de otros establecimientos,19
+Chuquisaca,11003,Machareti,2007,9,Ingresos referidos de otros establecimientos,3
+Beni,80801,Magdalena,2007,9,Ingresos referidos de otros establecimientos,7
+Santa Cruz,70903,Mairana,2007,9,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71003,Mineros,2007,9,Ingresos referidos de otros establecimientos,1
+Cochabamba,31301,Mizque,2007,9,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10501,Monteagudo,2007,9,Ingresos referidos de otros establecimientos,18
+Santa Cruz,71001,Montero,2007,9,Ingresos referidos de otros establecimientos,110
+Cochabamba,30302,Morochata,2007,9,Ingresos referidos de otros establecimientos,3
+Potosí,50404,Ocuri,2007,9,Ingresos referidos de otros establecimientos,3
+Cochabamba,30203,Omereque,2007,9,Ingresos referidos de otros establecimientos,1
+Oruro,40101,Oruro,2007,9,Ingresos referidos de otros establecimientos,133
+Chuquisaca,10401,Padilla,2007,9,Ingresos referidos de otros establecimientos,29
+Santa Cruz,70502,Pailon,2007,9,Ingresos referidos de otros establecimientos,2
+La Paz,21104,Palos Blancos,2007,9,Ingresos referidos de otros establecimientos,5
+La Paz,21305,Patacamaya,2007,9,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10103,Poroma,2007,9,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70601,Portachuelo,2007,9,Ingresos referidos de otros establecimientos,14
+Potosí,50101,Potosi,2007,9,Ingresos referidos de otros establecimientos,54
+La Paz,20401,Puerto Acosta,2007,9,Ingresos referidos de otros establecimientos,16
+Santa Cruz,71401,Puerto Suarez,2007,9,Ingresos referidos de otros establecimientos,25
+Cochabamba,31205,Puerto Villarroel,2007,9,Ingresos referidos de otros establecimientos,3
+Cochabamba,31401,Punata,2007,9,Ingresos referidos de otros establecimientos,35
+Beni,80301,Reyes,2007,9,Ingresos referidos de otros establecimientos,4
+Beni,80201,Riberalta,2007,9,Ingresos referidos de otros establecimientos,197
+Santa Cruz,70503,Robore,2007,9,Ingresos referidos de otros establecimientos,1
+Beni,80304,Rurrenabaque,2007,9,Ingresos referidos de otros establecimientos,18
+Cochabamba,31001,Sacaba,2007,9,Ingresos referidos de otros establecimientos,2
+Cochabamba,30404,Sacabamba,2007,9,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71302,Saipina,2007,9,Ingresos referidos de otros establecimientos,1
+La Paz,21502,San Buena Ventura,2007,9,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70402,San Carlos,2007,9,Ingresos referidos de otros establecimientos,13
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,Ingresos referidos de otros establecimientos,16
+Beni,80701,San Joaquin,2007,9,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,9,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70404,San Juan De Yapacani,2007,9,Ingresos referidos de otros establecimientos,7
+Santa Cruz,71104,San Julian,2007,9,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10702,San Lucas,2007,9,Ingresos referidos de otros establecimientos,11
+Santa Cruz,71201,San Matias,2007,9,Ingresos referidos de otros establecimientos,8
+Beni,80702,San Ramon,2007,9,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,Ingresos referidos de otros establecimientos,73
+Beni,80303,Santa Rosa,2007,9,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70602,Santa Rosa Del Sara,2007,9,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10403,Sopachuy,2007,9,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10101,Sucre,2007,9,Ingresos referidos de otros establecimientos,104
+Cochabamba,31101,Tapacari,2007,9,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10601,Tarabuco,2007,9,Ingresos referidos de otros establecimientos,13
+Cochabamba,30401,Tarata,2007,9,Ingresos referidos de otros establecimientos,4
+Tarija,60101,Tarija,2007,9,Ingresos referidos de otros establecimientos,108
+Chuquisaca,10202,Tarvita,2007,9,Ingresos referidos de otros establecimientos,1
+Cochabamba,31201,Totora(cbba),2007,9,Ingresos referidos de otros establecimientos,2
+Beni,80101,Trinidad,2007,9,Ingresos referidos de otros establecimientos,11
+Potosí,50801,Tupiza,2007,9,Ingresos referidos de otros establecimientos,44
+Potosí,50201,Uncia,2007,9,Ingresos referidos de otros establecimientos,29
+Tarija,60401,Uriondo (a. Concepcion),2007,9,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70801,Vallegrande,2007,9,Ingresos referidos de otros establecimientos,2
+Tarija,60303,Villa Montes,2007,9,Ingresos referidos de otros establecimientos,12
+Cochabamba,31003,Villa Tunari,2007,9,Ingresos referidos de otros establecimientos,12
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,9,Ingresos referidos de otros establecimientos,1
+Potosí,51501,Villazon,2007,9,Ingresos referidos de otros establecimientos,14
+Santa Cruz,70201,Warnes,2007,9,Ingresos referidos de otros establecimientos,2
+Tarija,60301,Yacuiba,2007,9,Ingresos referidos de otros establecimientos,31
+Santa Cruz,70403,Yapacani,2007,9,Ingresos referidos de otros establecimientos,12
+Chuquisaca,10102,Yotala,2007,9,Ingresos referidos de otros establecimientos,1
+Potosí,51302,Acacio,2007,10,Ingresos referidos de otros establecimientos,3
+Cochabamba,30201,Aiquile,2007,10,Ingresos referidos de otros establecimientos,4
+Santa Cruz,71501,Ascencion De Guarayos,2007,10,Ingresos referidos de otros establecimientos,3
+Potosí,50802,Atocha,2007,10,Ingresos referidos de otros establecimientos,58
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,10,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10201,Azurduy,2007,10,Ingresos referidos de otros establecimientos,1
+Tarija,60202,Bermejo,2007,10,Ingresos referidos de otros establecimientos,6
+Potosí,50301,Betanzos,2007,10,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70703,Cabezas,2007,10,Ingresos referidos de otros establecimientos,6
+Chuquisaca,10701,Camargo,2007,10,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,10,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70706,Camiri,2007,10,Ingresos referidos de otros establecimientos,16
+Cochabamba,30701,Capinota,2007,10,Ingresos referidos de otros establecimientos,21
+Oruro,40102,Caracollo,2007,10,Ingresos referidos de otros establecimientos,1
+La Paz,22001,Caranavi,2007,10,Ingresos referidos de otros establecimientos,16
+Santa Cruz,71403,Carmen Rivero Torrez,2007,10,Ingresos referidos de otros establecimientos,1
+Oruro,40201,Challapata,2007,10,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70702,Charagua,2007,10,Ingresos referidos de otros establecimientos,6
+La Paz,21101,Chulumani (v. De La Libertad),2007,10,Ingresos referidos de otros establecimientos,2
+Pando,90101,Cobija,2007,10,Ingresos referidos de otros establecimientos,94
+Cochabamba,30101,Cochabamba,2007,10,Ingresos referidos de otros establecimientos,26
+Santa Cruz,71301,Comarapa,2007,10,Ingresos referidos de otros establecimientos,3
+La Paz,21401,Coroico,2007,10,Ingresos referidos de otros establecimientos,7
+Potosí,50601,Cotagaita,2007,10,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70102,Cotoca,2007,10,Ingresos referidos de otros establecimientos,18
+Santa Cruz,70704,Cuevo,2007,10,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10902,Culpina,2007,10,Ingresos referidos de otros establecimientos,1
+La Paz,20105,El Alto,2007,10,Ingresos referidos de otros establecimientos,180
+Oruro,40103,El Choro,2007,10,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70105,El Torno,2007,10,Ingresos referidos de otros establecimientos,5
+Tarija,60601,Entre Rios,2007,10,Ingresos referidos de otros establecimientos,4
+La Paz,20602,Guanay,2007,10,Ingresos referidos de otros establecimientos,3
+Beni,80202,Guayaramerin,2007,10,Ingresos referidos de otros establecimientos,26
+Santa Cruz,70705,Gutierrez,2007,10,Ingresos referidos de otros establecimientos,1
+La Paz,21005,Ichoca,2007,10,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10703,Incahuasi,2007,10,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70104,La Guardia,2007,10,Ingresos referidos de otros establecimientos,6
+La Paz,20101,La Paz,2007,10,Ingresos referidos de otros establecimientos,1785
+Potosí,50203,Llallagua,2007,10,Ingresos referidos de otros establecimientos,16
+Chuquisaca,11003,Machareti,2007,10,Ingresos referidos de otros establecimientos,1
+Beni,80801,Magdalena,2007,10,Ingresos referidos de otros establecimientos,8
+Santa Cruz,70903,Mairana,2007,10,Ingresos referidos de otros establecimientos,4
+La Paz,20607,Mapiri,2007,10,Ingresos referidos de otros establecimientos,1
+Cochabamba,31301,Mizque,2007,10,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10303,Mojocoya,2007,10,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10501,Monteagudo,2007,10,Ingresos referidos de otros establecimientos,15
+Santa Cruz,71001,Montero,2007,10,Ingresos referidos de otros establecimientos,67
+Potosí,50404,Ocuri,2007,10,Ingresos referidos de otros establecimientos,8
+Oruro,40101,Oruro,2007,10,Ingresos referidos de otros establecimientos,146
+Chuquisaca,10401,Padilla,2007,10,Ingresos referidos de otros establecimientos,17
+Santa Cruz,70502,Pailon,2007,10,Ingresos referidos de otros establecimientos,2
+La Paz,21104,Palos Blancos,2007,10,Ingresos referidos de otros establecimientos,3
+La Paz,21305,Patacamaya,2007,10,Ingresos referidos de otros establecimientos,4
+Oruro,40602,Pazña,2007,10,Ingresos referidos de otros establecimientos,1
+Cochabamba,31202,Pojo (cbba),2007,10,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10103,Poroma,2007,10,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70601,Portachuelo,2007,10,Ingresos referidos de otros establecimientos,98
+Potosí,50101,Potosi,2007,10,Ingresos referidos de otros establecimientos,43
+La Paz,20401,Puerto Acosta,2007,10,Ingresos referidos de otros establecimientos,47
+Santa Cruz,71401,Puerto Suarez,2007,10,Ingresos referidos de otros establecimientos,14
+Cochabamba,31205,Puerto Villarroel,2007,10,Ingresos referidos de otros establecimientos,4
+Cochabamba,31401,Punata,2007,10,Ingresos referidos de otros establecimientos,39
+Cochabamba,30901,Quillacollo,2007,10,Ingresos referidos de otros establecimientos,57
+Beni,80301,Reyes,2007,10,Ingresos referidos de otros establecimientos,3
+Beni,80201,Riberalta,2007,10,Ingresos referidos de otros establecimientos,232
+Santa Cruz,70503,Robore,2007,10,Ingresos referidos de otros establecimientos,1
+Beni,80304,Rurrenabaque,2007,10,Ingresos referidos de otros establecimientos,22
+Cochabamba,31001,Sacaba,2007,10,Ingresos referidos de otros establecimientos,2
+Potosí,50701,Sacaca,2007,10,Ingresos referidos de otros establecimientos,1
+La Paz,21502,San Buena Ventura,2007,10,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70402,San Carlos,2007,10,Ingresos referidos de otros establecimientos,22
+Santa Cruz,70301,San Ignacio De Velasco,2007,10,Ingresos referidos de otros establecimientos,19
+Beni,80701,San Joaquin,2007,10,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70404,San Juan De Yapacani,2007,10,Ingresos referidos de otros establecimientos,7
+Santa Cruz,71104,San Julian,2007,10,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10702,San Lucas,2007,10,Ingresos referidos de otros establecimientos,10
+Santa Cruz,71201,San Matias,2007,10,Ingresos referidos de otros establecimientos,7
+Beni,80702,San Ramon,2007,10,Ingresos referidos de otros establecimientos,2
+Beni,80401,Santa Ana,2007,10,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,Ingresos referidos de otros establecimientos,99
+Beni,80303,Santa Rosa,2007,10,Ingresos referidos de otros establecimientos,7
+Chuquisaca,10403,Sopachuy,2007,10,Ingresos referidos de otros establecimientos,6
+Chuquisaca,10101,Sucre,2007,10,Ingresos referidos de otros establecimientos,78
+Chuquisaca,10601,Tarabuco,2007,10,Ingresos referidos de otros establecimientos,16
+Tarija,60101,Tarija,2007,10,Ingresos referidos de otros establecimientos,212
+La Paz,20803,Tiawanacu,2007,10,Ingresos referidos de otros establecimientos,1
+La Paz,20606,Tipuani,2007,10,Ingresos referidos de otros establecimientos,1
+Cochabamba,30903,Tiquipaya,2007,10,Ingresos referidos de otros establecimientos,3
+Cochabamba,31201,Totora(cbba),2007,10,Ingresos referidos de otros establecimientos,3
+Potosí,50801,Tupiza,2007,10,Ingresos referidos de otros establecimientos,71
+Potosí,50201,Uncia,2007,10,Ingresos referidos de otros establecimientos,2
+Potosí,51201,Uyuni,2007,10,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70801,Vallegrande,2007,10,Ingresos referidos de otros establecimientos,5
+Tarija,60303,Villa Montes,2007,10,Ingresos referidos de otros establecimientos,23
+Chuquisaca,10801,Villa Serrano,2007,10,Ingresos referidos de otros establecimientos,3
+Cochabamba,31003,Villa Tunari,2007,10,Ingresos referidos de otros establecimientos,14
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,10,Ingresos referidos de otros establecimientos,1
+Potosí,51501,Villazon,2007,10,Ingresos referidos de otros establecimientos,18
+Potosí,50602,Vitichi,2007,10,Ingresos referidos de otros establecimientos,3
+Santa Cruz,70201,Warnes,2007,10,Ingresos referidos de otros establecimientos,4
+Tarija,60301,Yacuiba,2007,10,Ingresos referidos de otros establecimientos,19
+Santa Cruz,70403,Yapacani,2007,10,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10102,Yotala,2007,10,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10301,Zudañez,2007,10,Ingresos referidos de otros establecimientos,2
+Potosí,51302,Acacio,2007,11,Ingresos referidos de otros establecimientos,5
+Cochabamba,30201,Aiquile,2007,11,Ingresos referidos de otros establecimientos,12
+La Paz,20701,Apolo,2007,11,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,11,Ingresos referidos de otros establecimientos,7
+Potosí,50802,Atocha,2007,11,Ingresos referidos de otros establecimientos,35
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,11,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10201,Azurduy,2007,11,Ingresos referidos de otros establecimientos,3
+Tarija,60202,Bermejo,2007,11,Ingresos referidos de otros establecimientos,4
+Potosí,50301,Betanzos,2007,11,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70707,Boyuibe,2007,11,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70703,Cabezas,2007,11,Ingresos referidos de otros establecimientos,1
+La Paz,21003,Cajuata,2007,11,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10701,Camargo,2007,11,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70706,Camiri,2007,11,Ingresos referidos de otros establecimientos,28
+Cochabamba,30701,Capinota,2007,11,Ingresos referidos de otros establecimientos,4
+La Paz,22001,Caranavi,2007,11,Ingresos referidos de otros establecimientos,30
+Oruro,40201,Challapata,2007,11,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70702,Charagua,2007,11,Ingresos referidos de otros establecimientos,8
+La Paz,20305,Charaña,2007,11,Ingresos referidos de otros establecimientos,1
+La Paz,21101,Chulumani (v. De La Libertad),2007,11,Ingresos referidos de otros establecimientos,2
+Pando,90101,Cobija,2007,11,Ingresos referidos de otros establecimientos,91
+Cochabamba,30101,Cochabamba,2007,11,Ingresos referidos de otros establecimientos,22
+Cochabamba,31002,Colomi,2007,11,Ingresos referidos de otros establecimientos,3
+Santa Cruz,71101,Concepcion,2007,11,Ingresos referidos de otros establecimientos,1
+La Paz,21401,Coroico,2007,11,Ingresos referidos de otros establecimientos,2
+Potosí,50601,Cotagaita,2007,11,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70102,Cotoca,2007,11,Ingresos referidos de otros establecimientos,15
+Santa Cruz,71106,Cuatro Cañadas,2007,11,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70704,Cuevo,2007,11,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10902,Culpina,2007,11,Ingresos referidos de otros establecimientos,1
+La Paz,20105,El Alto,2007,11,Ingresos referidos de otros establecimientos,169
+Santa Cruz,70105,El Torno,2007,11,Ingresos referidos de otros establecimientos,5
+Beni,80402,Exaltacion,2007,11,Ingresos referidos de otros establecimientos,1
+La Paz,20602,Guanay,2007,11,Ingresos referidos de otros establecimientos,2
+Beni,80202,Guayaramerin,2007,11,Ingresos referidos de otros establecimientos,24
+Santa Cruz,70705,Gutierrez,2007,11,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10502,Huacareta,2007,11,Ingresos referidos de otros establecimientos,10
+Santa Cruz,70104,La Guardia,2007,11,Ingresos referidos de otros establecimientos,2
+La Paz,20101,La Paz,2007,11,Ingresos referidos de otros establecimientos,1836
+Potosí,50203,Llallagua,2007,11,Ingresos referidos de otros establecimientos,13
+Chuquisaca,11003,Machareti,2007,11,Ingresos referidos de otros establecimientos,2
+Beni,80801,Magdalena,2007,11,Ingresos referidos de otros establecimientos,8
+Santa Cruz,70903,Mairana,2007,11,Ingresos referidos de otros establecimientos,5
+La Paz,20607,Mapiri,2007,11,Ingresos referidos de otros establecimientos,1
+Cochabamba,31301,Mizque,2007,11,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10501,Monteagudo,2007,11,Ingresos referidos de otros establecimientos,16
+Santa Cruz,71001,Montero,2007,11,Ingresos referidos de otros establecimientos,61
+Potosí,50404,Ocuri,2007,11,Ingresos referidos de otros establecimientos,8
+Cochabamba,30203,Omereque,2007,11,Ingresos referidos de otros establecimientos,1
+Oruro,40101,Oruro,2007,11,Ingresos referidos de otros establecimientos,216
+Chuquisaca,10401,Padilla,2007,11,Ingresos referidos de otros establecimientos,24
+La Paz,21104,Palos Blancos,2007,11,Ingresos referidos de otros establecimientos,4
+La Paz,21305,Patacamaya,2007,11,Ingresos referidos de otros establecimientos,1
+Potosí,50403,Pocoata,2007,11,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70601,Portachuelo,2007,11,Ingresos referidos de otros establecimientos,7
+Potosí,50101,Potosi,2007,11,Ingresos referidos de otros establecimientos,49
+La Paz,20401,Puerto Acosta,2007,11,Ingresos referidos de otros establecimientos,42
+Beni,80703,Puerto Siles,2007,11,Ingresos referidos de otros establecimientos,3
+Santa Cruz,71401,Puerto Suarez,2007,11,Ingresos referidos de otros establecimientos,13
+Cochabamba,31205,Puerto Villarroel,2007,11,Ingresos referidos de otros establecimientos,12
+Potosí,51101,Puna,2007,11,Ingresos referidos de otros establecimientos,2
+Cochabamba,31401,Punata,2007,11,Ingresos referidos de otros establecimientos,25
+Cochabamba,30901,Quillacollo,2007,11,Ingresos referidos de otros establecimientos,7
+Beni,80301,Reyes,2007,11,Ingresos referidos de otros establecimientos,2
+Beni,80201,Riberalta,2007,11,Ingresos referidos de otros establecimientos,79
+Beni,80304,Rurrenabaque,2007,11,Ingresos referidos de otros establecimientos,18
+Potosí,50701,Sacaca,2007,11,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70901,Samaipata,2007,11,Ingresos referidos de otros establecimientos,1
+La Paz,21502,San Buena Ventura,2007,11,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70402,San Carlos,2007,11,Ingresos referidos de otros establecimientos,26
+Beni,80501,San Ignacio,2007,11,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,Ingresos referidos de otros establecimientos,12
+Beni,80701,San Joaquin,2007,11,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,11,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70404,San Juan De Yapacani,2007,11,Ingresos referidos de otros establecimientos,2
+Santa Cruz,71104,San Julian,2007,11,Ingresos referidos de otros establecimientos,6
+Chuquisaca,10702,San Lucas,2007,11,Ingresos referidos de otros establecimientos,10
+Beni,80702,San Ramon,2007,11,Ingresos referidos de otros establecimientos,1
+Beni,80702,San Ramon,2007,11,Ingresos referidos de otros establecimientos,2
+Beni,80401,Santa Ana,2007,11,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,Ingresos referidos de otros establecimientos,75
+Beni,80303,Santa Rosa,2007,11,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70602,Santa Rosa Del Sara,2007,11,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10403,Sopachuy,2007,11,Ingresos referidos de otros establecimientos,13
+La Paz,20601,Sorata,2007,11,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10101,Sucre,2007,11,Ingresos referidos de otros establecimientos,81
+Chuquisaca,10601,Tarabuco,2007,11,Ingresos referidos de otros establecimientos,12
+Tarija,60101,Tarija,2007,11,Ingresos referidos de otros establecimientos,162
+Potosí,50801,Tupiza,2007,11,Ingresos referidos de otros establecimientos,27
+Potosí,50201,Uncia,2007,11,Ingresos referidos de otros establecimientos,29
+Potosí,51201,Uyuni,2007,11,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70801,Vallegrande,2007,11,Ingresos referidos de otros establecimientos,2
+Tarija,60303,Villa Montes,2007,11,Ingresos referidos de otros establecimientos,22
+Cochabamba,31003,Villa Tunari,2007,11,Ingresos referidos de otros establecimientos,15
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,11,Ingresos referidos de otros establecimientos,1
+Potosí,51501,Villazon,2007,11,Ingresos referidos de otros establecimientos,7
+Potosí,50602,Vitichi,2007,11,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70201,Warnes,2007,11,Ingresos referidos de otros establecimientos,12
+Tarija,60301,Yacuiba,2007,11,Ingresos referidos de otros establecimientos,96
+Santa Cruz,70403,Yapacani,2007,11,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10102,Yotala,2007,11,Ingresos referidos de otros establecimientos,2
+Chuquisaca,10301,Zudañez,2007,11,Ingresos referidos de otros establecimientos,1
+Cochabamba,30201,Aiquile,2007,12,Ingresos referidos de otros establecimientos,4
+La Paz,20701,Apolo,2007,12,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,Ingresos referidos de otros establecimientos,8
+Potosí,50802,Atocha,2007,12,Ingresos referidos de otros establecimientos,47
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,12,Ingresos referidos de otros establecimientos,3
+Beni,80802,Baures,2007,12,Ingresos referidos de otros establecimientos,1
+Tarija,60202,Bermejo,2007,12,Ingresos referidos de otros establecimientos,8
+Potosí,50301,Betanzos,2007,12,Ingresos referidos de otros establecimientos,5
+Santa Cruz,70703,Cabezas,2007,12,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,12,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70706,Camiri,2007,12,Ingresos referidos de otros establecimientos,13
+Cochabamba,30701,Capinota,2007,12,Ingresos referidos de otros establecimientos,3
+La Paz,22001,Caranavi,2007,12,Ingresos referidos de otros establecimientos,20
+Oruro,40201,Challapata,2007,12,Ingresos referidos de otros establecimientos,4
+Santa Cruz,70702,Charagua,2007,12,Ingresos referidos de otros establecimientos,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,12,Ingresos referidos de otros establecimientos,5
+Pando,90101,Cobija,2007,12,Ingresos referidos de otros establecimientos,71
+Cochabamba,30101,Cochabamba,2007,12,Ingresos referidos de otros establecimientos,39
+Cochabamba,30905,Colcapirhua,2007,12,Ingresos referidos de otros establecimientos,3
+Santa Cruz,71301,Comarapa,2007,12,Ingresos referidos de otros establecimientos,2
+La Paz,21701,Copacabana,2007,12,Ingresos referidos de otros establecimientos,1
+La Paz,21402,Coripata,2007,12,Ingresos referidos de otros establecimientos,1
+La Paz,21401,Coroico,2007,12,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70102,Cotoca,2007,12,Ingresos referidos de otros establecimientos,14
+La Paz,20105,El Alto,2007,12,Ingresos referidos de otros establecimientos,165
+Santa Cruz,70105,El Torno,2007,12,Ingresos referidos de otros establecimientos,5
+Chuquisaca,10405,El Villar,2007,12,Ingresos referidos de otros establecimientos,1
+Oruro,41101,Eucaliptus,2007,12,Ingresos referidos de otros establecimientos,1
+Beni,80202,Guayaramerin,2007,12,Ingresos referidos de otros establecimientos,11
+Santa Cruz,70705,Gutierrez,2007,12,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10502,Huacareta,2007,12,Ingresos referidos de otros establecimientos,2
+Oruro,40701,Huanuni,2007,12,Ingresos referidos de otros establecimientos,1
+La Paz,21105,La Asunta,2007,12,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70104,La Guardia,2007,12,Ingresos referidos de otros establecimientos,7
+La Paz,20101,La Paz,2007,12,Ingresos referidos de otros establecimientos,1623
+Potosí,50203,Llallagua,2007,12,Ingresos referidos de otros establecimientos,11
+Potosí,51401,Llica,2007,12,Ingresos referidos de otros establecimientos,1
+Beni,80801,Magdalena,2007,12,Ingresos referidos de otros establecimientos,8
+Santa Cruz,70903,Mairana,2007,12,Ingresos referidos de otros establecimientos,4
+La Paz,20607,Mapiri,2007,12,Ingresos referidos de otros establecimientos,1
+Cochabamba,31301,Mizque,2007,12,Ingresos referidos de otros establecimientos,4
+Chuquisaca,10501,Monteagudo,2007,12,Ingresos referidos de otros establecimientos,11
+Santa Cruz,71001,Montero,2007,12,Ingresos referidos de otros establecimientos,74
+Potosí,50404,Ocuri,2007,12,Ingresos referidos de otros establecimientos,14
+Cochabamba,30203,Omereque,2007,12,Ingresos referidos de otros establecimientos,1
+Oruro,40101,Oruro,2007,12,Ingresos referidos de otros establecimientos,128
+Chuquisaca,10401,Padilla,2007,12,Ingresos referidos de otros establecimientos,31
+Santa Cruz,70502,Pailon,2007,12,Ingresos referidos de otros establecimientos,4
+La Paz,21104,Palos Blancos,2007,12,Ingresos referidos de otros establecimientos,4
+Potosí,50403,Pocoata,2007,12,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70601,Portachuelo,2007,12,Ingresos referidos de otros establecimientos,4
+Potosí,50101,Potosi,2007,12,Ingresos referidos de otros establecimientos,53
+Chuquisaca,10302,Presto,2007,12,Ingresos referidos de otros establecimientos,1
+La Paz,20401,Puerto Acosta,2007,12,Ingresos referidos de otros establecimientos,42
+Pando,90201,Puerto Rico,2007,12,Ingresos referidos de otros establecimientos,2
+Beni,80703,Puerto Siles,2007,12,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71401,Puerto Suarez,2007,12,Ingresos referidos de otros establecimientos,18
+Cochabamba,31205,Puerto Villarroel,2007,12,Ingresos referidos de otros establecimientos,20
+Cochabamba,31401,Punata,2007,12,Ingresos referidos de otros establecimientos,18
+Cochabamba,30901,Quillacollo,2007,12,Ingresos referidos de otros establecimientos,23
+Beni,80201,Riberalta,2007,12,Ingresos referidos de otros establecimientos,293
+Beni,80304,Rurrenabaque,2007,12,Ingresos referidos de otros establecimientos,14
+Cochabamba,31001,Sacaba,2007,12,Ingresos referidos de otros establecimientos,1
+Potosí,50701,Sacaca,2007,12,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70901,Samaipata,2007,12,Ingresos referidos de otros establecimientos,1
+Beni,80302,San Borja,2007,12,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70402,San Carlos,2007,12,Ingresos referidos de otros establecimientos,15
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,Ingresos referidos de otros establecimientos,10
+Beni,80701,San Joaquin,2007,12,Ingresos referidos de otros establecimientos,1
+Santa Cruz,71104,San Julian,2007,12,Ingresos referidos de otros establecimientos,6
+Tarija,60501,San Lorenzo(tja),2007,12,Ingresos referidos de otros establecimientos,3
+Chuquisaca,10702,San Lucas,2007,12,Ingresos referidos de otros establecimientos,8
+Santa Cruz,70303,San Rafael,2007,12,Ingresos referidos de otros establecimientos,1
+Beni,80702,San Ramon,2007,12,Ingresos referidos de otros establecimientos,3
+Beni,80401,Santa Ana,2007,12,Ingresos referidos de otros establecimientos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,Ingresos referidos de otros establecimientos,119
+Beni,80303,Santa Rosa,2007,12,Ingresos referidos de otros establecimientos,1
+Chuquisaca,10403,Sopachuy,2007,12,Ingresos referidos de otros establecimientos,11
+Chuquisaca,10101,Sucre,2007,12,Ingresos referidos de otros establecimientos,77
+Chuquisaca,10601,Tarabuco,2007,12,Ingresos referidos de otros establecimientos,13
+Cochabamba,30401,Tarata,2007,12,Ingresos referidos de otros establecimientos,1
+Tarija,60101,Tarija,2007,12,Ingresos referidos de otros establecimientos,155
+La Paz,20606,Tipuani,2007,12,Ingresos referidos de otros establecimientos,3
+Cochabamba,31201,Totora(cbba),2007,12,Ingresos referidos de otros establecimientos,2
+Potosí,50801,Tupiza,2007,12,Ingresos referidos de otros establecimientos,53
+Potosí,50201,Uncia,2007,12,Ingresos referidos de otros establecimientos,1
+Potosí,51201,Uyuni,2007,12,Ingresos referidos de otros establecimientos,6
+Santa Cruz,70801,Vallegrande,2007,12,Ingresos referidos de otros establecimientos,3
+Tarija,60303,Villa Montes,2007,12,Ingresos referidos de otros establecimientos,17
+Chuquisaca,10801,Villa Serrano,2007,12,Ingresos referidos de otros establecimientos,1
+Cochabamba,31003,Villa Tunari,2007,12,Ingresos referidos de otros establecimientos,9
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,12,Ingresos referidos de otros establecimientos,3
+Potosí,51501,Villazon,2007,12,Ingresos referidos de otros establecimientos,8
+Potosí,50602,Vitichi,2007,12,Ingresos referidos de otros establecimientos,1
+Santa Cruz,70201,Warnes,2007,12,Ingresos referidos de otros establecimientos,11
+Tarija,60301,Yacuiba,2007,12,Ingresos referidos de otros establecimientos,9
+Santa Cruz,70403,Yapacani,2007,12,Ingresos referidos de otros establecimientos,6
+Chuquisaca,10102,Yotala,2007,12,Ingresos referidos de otros establecimientos,3
+Cochabamba,30201,Aiquile,2007,1,TOTAL,10
+Cochabamba,31303,Alalay,2007,1,TOTAL,1
+La Paz,20701,Apolo,2007,1,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,1,TOTAL,22
+Potosí,50802,Atocha,2007,1,TOTAL,19
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,1,TOTAL,5
+Tarija,60202,Bermejo,2007,1,TOTAL,1
+Potosí,50301,Betanzos,2007,1,TOTAL,6
+Santa Cruz,70707,Boyuibe,2007,1,TOTAL,3
+Santa Cruz,70401,Buena Vista,2007,1,TOTAL,1
+Chuquisaca,10701,Camargo,2007,1,TOTAL,8
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,1,TOTAL,1
+Santa Cruz,70706,Camiri,2007,1,TOTAL,11
+La Paz,22001,Caranavi,2007,1,TOTAL,26
+Oruro,40201,Challapata,2007,1,TOTAL,2
+Santa Cruz,70702,Charagua,2007,1,TOTAL,15
+Potosí,50202,Chayanta,2007,1,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2007,1,TOTAL,8
+Pando,90101,Cobija,2007,1,TOTAL,63
+Cochabamba,30101,Cochabamba,2007,1,TOTAL,19
+Cochabamba,31002,Colomi,2007,1,TOTAL,2
+Santa Cruz,71101,Concepcion,2007,1,TOTAL,4
+La Paz,20301,Coro Coro,2007,1,TOTAL,1
+La Paz,21401,Coroico,2007,1,TOTAL,6
+Potosí,50601,Cotagaita,2007,1,TOTAL,2
+Santa Cruz,70102,Cotoca,2007,1,TOTAL,34
+Santa Cruz,71106,Cuatro Cañadas,2007,1,TOTAL,6
+Oruro,40401,Curahuara De Carangas,2007,1,TOTAL,1
+La Paz,20105,El Alto,2007,1,TOTAL,212
+Santa Cruz,70105,El Torno,2007,1,TOTAL,6
+Oruro,41101,Eucaliptus,2007,1,TOTAL,1
+La Paz,20602,Guanay,2007,1,TOTAL,2
+Beni,80202,Guayaramerin,2007,1,TOTAL,17
+Santa Cruz,70705,Gutierrez,2007,1,TOTAL,2
+Chuquisaca,10502,Huacareta,2007,1,TOTAL,4
+Oruro,40501,Huachacalla,2007,1,TOTAL,2
+La Paz,21005,Ichoca,2007,1,TOTAL,1
+La Paz,21105,La Asunta,2007,1,TOTAL,2
+Santa Cruz,70104,La Guardia,2007,1,TOTAL,6
+La Paz,20101,La Paz,2007,1,TOTAL,1449
+Potosí,50203,Llallagua,2007,1,TOTAL,22
+Chuquisaca,11003,Machareti,2007,1,TOTAL,5
+Beni,80801,Magdalena,2007,1,TOTAL,13
+Santa Cruz,70903,Mairana,2007,1,TOTAL,11
+La Paz,20607,Mapiri,2007,1,TOTAL,1
+Santa Cruz,71003,Mineros,2007,1,TOTAL,1
+Cochabamba,31301,Mizque,2007,1,TOTAL,3
+Chuquisaca,10303,Mojocoya,2007,1,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,1,TOTAL,22
+Santa Cruz,71001,Montero,2007,1,TOTAL,91
+Potosí,50404,Ocuri,2007,1,TOTAL,2
+Oruro,40101,Oruro,2007,1,TOTAL,146
+Chuquisaca,10401,Padilla,2007,1,TOTAL,28
+Santa Cruz,70502,Pailon,2007,1,TOTAL,3
+La Paz,21305,Patacamaya,2007,1,TOTAL,2
+Cochabamba,31202,Pojo (cbba),2007,1,TOTAL,2
+Santa Cruz,70601,Portachuelo,2007,1,TOTAL,12
+La Paz,20401,Puerto Acosta,2007,1,TOTAL,4
+Santa Cruz,71401,Puerto Suarez,2007,1,TOTAL,10
+Cochabamba,31205,Puerto Villarroel,2007,1,TOTAL,5
+Cochabamba,31401,Punata,2007,1,TOTAL,44
+Cochabamba,30901,Quillacollo,2007,1,TOTAL,28
+Beni,80301,Reyes,2007,1,TOTAL,4
+Beni,80201,Riberalta,2007,1,TOTAL,122
+Beni,80304,Rurrenabaque,2007,1,TOTAL,16
+Cochabamba,31001,Sacaba,2007,1,TOTAL,8
+Cochabamba,30404,Sacabamba,2007,1,TOTAL,1
+Santa Cruz,70901,Samaipata,2007,1,TOTAL,1
+Cochabamba,31403,San Benito,2007,1,TOTAL,2
+Beni,80302,San Borja,2007,1,TOTAL,1
+La Paz,21502,San Buena Ventura,2007,1,TOTAL,1
+Santa Cruz,70402,San Carlos,2007,1,TOTAL,18
+Beni,80501,San Ignacio,2007,1,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,TOTAL,16
+Santa Cruz,70501,San Jose De Chiquitos,2007,1,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2007,1,TOTAL,5
+Santa Cruz,71104,San Julian,2007,1,TOTAL,4
+Chuquisaca,10702,San Lucas,2007,1,TOTAL,11
+Beni,80702,San Ramon,2007,1,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,TOTAL,161
+Beni,80303,Santa Rosa,2007,1,TOTAL,10
+Chuquisaca,10403,Sopachuy,2007,1,TOTAL,2
+La Paz,20601,Sorata,2007,1,TOTAL,1
+Chuquisaca,10101,Sucre,2007,1,TOTAL,59
+Chuquisaca,10601,Tarabuco,2007,1,TOTAL,10
+Tarija,60101,Tarija,2007,1,TOTAL,236
+Chuquisaca,10202,Tarvita,2007,1,TOTAL,1
+La Paz,20606,Tipuani,2007,1,TOTAL,1
+Cochabamba,31201,Totora(cbba),2007,1,TOTAL,5
+Santa Cruz,70802,Trigal,2007,1,TOTAL,1
+Beni,80101,Trinidad,2007,1,TOTAL,20
+Potosí,50801,Tupiza,2007,1,TOTAL,8
+Potosí,50201,Uncia,2007,1,TOTAL,4
+Tarija,60401,Uriondo (a. Concepcion),2007,1,TOTAL,1
+Potosí,51201,Uyuni,2007,1,TOTAL,3
+Cochabamba,30502,Vacas,2007,1,TOTAL,1
+Santa Cruz,70801,Vallegrande,2007,1,TOTAL,3
+Tarija,60303,Villa Montes,2007,1,TOTAL,7
+Cochabamba,31003,Villa Tunari,2007,1,TOTAL,56
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,1,TOTAL,1
+Potosí,51501,Villazon,2007,1,TOTAL,8
+Santa Cruz,70201,Warnes,2007,1,TOTAL,1
+Tarija,60301,Yacuiba,2007,1,TOTAL,16
+Santa Cruz,70403,Yapacani,2007,1,TOTAL,6
+Potosí,50103,Yocalla,2007,1,TOTAL,2
+Cochabamba,30201,Aiquile,2007,2,TOTAL,4
+Cochabamba,31303,Alalay,2007,2,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,TOTAL,17
+Potosí,50802,Atocha,2007,2,TOTAL,35
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,2,TOTAL,4
+Chuquisaca,10201,Azurduy,2007,2,TOTAL,1
+Potosí,50301,Betanzos,2007,2,TOTAL,3
+Chuquisaca,10701,Camargo,2007,2,TOTAL,8
+Santa Cruz,70706,Camiri,2007,2,TOTAL,22
+La Paz,22001,Caranavi,2007,2,TOTAL,22
+Oruro,40201,Challapata,2007,2,TOTAL,55
+Santa Cruz,70702,Charagua,2007,2,TOTAL,9
+La Paz,21101,Chulumani (v. De La Libertad),2007,2,TOTAL,3
+Pando,90101,Cobija,2007,2,TOTAL,15
+Cochabamba,30101,Cochabamba,2007,2,TOTAL,16
+Cochabamba,31002,Colomi,2007,2,TOTAL,1
+Santa Cruz,71301,Comarapa,2007,2,TOTAL,1
+Santa Cruz,71101,Concepcion,2007,2,TOTAL,6
+La Paz,20301,Coro Coro,2007,2,TOTAL,1
+La Paz,21401,Coroico,2007,2,TOTAL,10
+Potosí,50601,Cotagaita,2007,2,TOTAL,5
+Santa Cruz,70102,Cotoca,2007,2,TOTAL,13
+Santa Cruz,71106,Cuatro Cañadas,2007,2,TOTAL,2
+La Paz,20105,El Alto,2007,2,TOTAL,169
+Santa Cruz,70105,El Torno,2007,2,TOTAL,2
+Tarija,60601,Entre Rios,2007,2,TOTAL,1
+La Paz,20602,Guanay,2007,2,TOTAL,3
+Beni,80202,Guayaramerin,2007,2,TOTAL,23
+Santa Cruz,70705,Gutierrez,2007,2,TOTAL,3
+Chuquisaca,10502,Huacareta,2007,2,TOTAL,1
+La Paz,21001,Inquisivi,2007,2,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,2,TOTAL,2
+La Paz,20101,La Paz,2007,2,TOTAL,1519
+Potosí,50203,Llallagua,2007,2,TOTAL,17
+La Paz,20901,Luribay,2007,2,TOTAL,1
+Chuquisaca,11003,Machareti,2007,2,TOTAL,1
+Beni,80801,Magdalena,2007,2,TOTAL,12
+Santa Cruz,70903,Mairana,2007,2,TOTAL,2
+Santa Cruz,71003,Mineros,2007,2,TOTAL,1
+Cochabamba,31301,Mizque,2007,2,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,2,TOTAL,18
+Santa Cruz,71001,Montero,2007,2,TOTAL,68
+Potosí,50404,Ocuri,2007,2,TOTAL,1
+Oruro,40101,Oruro,2007,2,TOTAL,144
+Chuquisaca,10401,Padilla,2007,2,TOTAL,20
+Santa Cruz,70502,Pailon,2007,2,TOTAL,62
+La Paz,21104,Palos Blancos,2007,2,TOTAL,3
+La Paz,21305,Patacamaya,2007,2,TOTAL,2
+Potosí,50403,Pocoata,2007,2,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2007,2,TOTAL,4
+Chuquisaca,10103,Poroma,2007,2,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,2,TOTAL,11
+La Paz,20401,Puerto Acosta,2007,2,TOTAL,7
+Santa Cruz,71401,Puerto Suarez,2007,2,TOTAL,5
+Cochabamba,31205,Puerto Villarroel,2007,2,TOTAL,9
+Cochabamba,31401,Punata,2007,2,TOTAL,48
+Cochabamba,30901,Quillacollo,2007,2,TOTAL,24
+Beni,80301,Reyes,2007,2,TOTAL,4
+Beni,80201,Riberalta,2007,2,TOTAL,45
+Beni,80304,Rurrenabaque,2007,2,TOTAL,11
+Cochabamba,31001,Sacaba,2007,2,TOTAL,24
+Cochabamba,30404,Sacabamba,2007,2,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2007,2,TOTAL,1
+Cochabamba,31403,San Benito,2007,2,TOTAL,4
+Santa Cruz,70402,San Carlos,2007,2,TOTAL,30
+Santa Cruz,70301,San Ignacio De Velasco,2007,2,TOTAL,13
+Santa Cruz,70404,San Juan De Yapacani,2007,2,TOTAL,4
+Santa Cruz,71104,San Julian,2007,2,TOTAL,11
+Chuquisaca,10702,San Lucas,2007,2,TOTAL,12
+Santa Cruz,71201,San Matias,2007,2,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2007,2,TOTAL,2
+Beni,80702,San Ramon,2007,2,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,TOTAL,58
+Beni,80303,Santa Rosa,2007,2,TOTAL,4
+Chuquisaca,10403,Sopachuy,2007,2,TOTAL,3
+La Paz,20601,Sorata,2007,2,TOTAL,1
+Chuquisaca,10101,Sucre,2007,2,TOTAL,58
+Cochabamba,31101,Tapacari,2007,2,TOTAL,1
+Chuquisaca,10601,Tarabuco,2007,2,TOTAL,13
+Cochabamba,30401,Tarata,2007,2,TOTAL,1
+Tarija,60101,Tarija,2007,2,TOTAL,130
+Chuquisaca,10202,Tarvita,2007,2,TOTAL,3
+La Paz,20606,Tipuani,2007,2,TOTAL,2
+Cochabamba,31601,Tiraque (cbba),2007,2,TOTAL,6
+Potosí,50801,Tupiza,2007,2,TOTAL,51
+Potosí,50201,Uncia,2007,2,TOTAL,11
+Potosí,51201,Uyuni,2007,2,TOTAL,2
+Santa Cruz,70801,Vallegrande,2007,2,TOTAL,2
+Tarija,60303,Villa Montes,2007,2,TOTAL,14
+Chuquisaca,10801,Villa Serrano,2007,2,TOTAL,9
+Cochabamba,31003,Villa Tunari,2007,2,TOTAL,30
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,2,TOTAL,3
+Potosí,51501,Villazon,2007,2,TOTAL,6
+Santa Cruz,70201,Warnes,2007,2,TOTAL,3
+Tarija,60301,Yacuiba,2007,2,TOTAL,24
+Santa Cruz,70403,Yapacani,2007,2,TOTAL,8
+Chuquisaca,10102,Yotala,2007,2,TOTAL,1
+Chuquisaca,10301,Zudañez,2007,2,TOTAL,2
+Potosí,51302,Acacio,2007,3,TOTAL,6
+Cochabamba,30201,Aiquile,2007,3,TOTAL,4
+La Paz,20701,Apolo,2007,3,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,3,TOTAL,10
+Potosí,50802,Atocha,2007,3,TOTAL,40
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,3,TOTAL,7
+Chuquisaca,10201,Azurduy,2007,3,TOTAL,5
+Potosí,50301,Betanzos,2007,3,TOTAL,7
+Santa Cruz,70707,Boyuibe,2007,3,TOTAL,1
+Santa Cruz,70401,Buena Vista,2007,3,TOTAL,4
+Santa Cruz,70703,Cabezas,2007,3,TOTAL,5
+Chuquisaca,10701,Camargo,2007,3,TOTAL,9
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,3,TOTAL,2
+Santa Cruz,70706,Camiri,2007,3,TOTAL,22
+La Paz,22001,Caranavi,2007,3,TOTAL,23
+Oruro,40201,Challapata,2007,3,TOTAL,4
+Santa Cruz,70702,Charagua,2007,3,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,3,TOTAL,5
+Pando,90101,Cobija,2007,3,TOTAL,12
+Cochabamba,30101,Cochabamba,2007,3,TOTAL,33
+Cochabamba,31002,Colomi,2007,3,TOTAL,1
+Santa Cruz,71301,Comarapa,2007,3,TOTAL,2
+La Paz,21401,Coroico,2007,3,TOTAL,6
+Potosí,50601,Cotagaita,2007,3,TOTAL,2
+Santa Cruz,70102,Cotoca,2007,3,TOTAL,10
+Santa Cruz,71106,Cuatro Cañadas,2007,3,TOTAL,2
+Oruro,40401,Curahuara De Carangas,2007,3,TOTAL,1
+La Paz,20105,El Alto,2007,3,TOTAL,203
+Santa Cruz,70105,El Torno,2007,3,TOTAL,5
+La Paz,20602,Guanay,2007,3,TOTAL,2
+Beni,80202,Guayaramerin,2007,3,TOTAL,15
+Santa Cruz,70705,Gutierrez,2007,3,TOTAL,5
+Chuquisaca,10502,Huacareta,2007,3,TOTAL,1
+Oruro,40701,Huanuni,2007,3,TOTAL,1
+Chuquisaca,10304,Icla,2007,3,TOTAL,2
+Santa Cruz,70104,La Guardia,2007,3,TOTAL,3
+La Paz,20101,La Paz,2007,3,TOTAL,1580
+Potosí,50203,Llallagua,2007,3,TOTAL,16
+La Paz,20901,Luribay,2007,3,TOTAL,1
+Chuquisaca,11003,Machareti,2007,3,TOTAL,1
+Beni,80801,Magdalena,2007,3,TOTAL,4
+Santa Cruz,70903,Mairana,2007,3,TOTAL,3
+La Paz,20607,Mapiri,2007,3,TOTAL,2
+Santa Cruz,71003,Mineros,2007,3,TOTAL,1
+Cochabamba,31301,Mizque,2007,3,TOTAL,1
+Chuquisaca,10303,Mojocoya,2007,3,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,3,TOTAL,18
+Santa Cruz,71001,Montero,2007,3,TOTAL,59
+Potosí,50404,Ocuri,2007,3,TOTAL,1
+Oruro,40101,Oruro,2007,3,TOTAL,136
+Chuquisaca,10401,Padilla,2007,3,TOTAL,26
+Santa Cruz,70502,Pailon,2007,3,TOTAL,2
+La Paz,21104,Palos Blancos,2007,3,TOTAL,3
+Cochabamba,30202,Pasorapa,2007,3,TOTAL,1
+La Paz,21305,Patacamaya,2007,3,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,3,TOTAL,8
+Santa Cruz,70804,Postrer Valle,2007,3,TOTAL,1
+La Paz,20401,Puerto Acosta,2007,3,TOTAL,5
+Pando,90201,Puerto Rico,2007,3,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2007,3,TOTAL,11
+Cochabamba,31205,Puerto Villarroel,2007,3,TOTAL,5
+Cochabamba,31401,Punata,2007,3,TOTAL,68
+Cochabamba,30901,Quillacollo,2007,3,TOTAL,22
+Beni,80301,Reyes,2007,3,TOTAL,5
+Beni,80201,Riberalta,2007,3,TOTAL,126
+Beni,80304,Rurrenabaque,2007,3,TOTAL,12
+Cochabamba,31001,Sacaba,2007,3,TOTAL,13
+Potosí,50701,Sacaca,2007,3,TOTAL,1
+Cochabamba,31403,San Benito,2007,3,TOTAL,1
+La Paz,21502,San Buena Ventura,2007,3,TOTAL,1
+Santa Cruz,70402,San Carlos,2007,3,TOTAL,26
+Santa Cruz,70301,San Ignacio De Velasco,2007,3,TOTAL,12
+Santa Cruz,71102,San Javier(stc),2007,3,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2007,3,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2007,3,TOTAL,5
+Santa Cruz,71104,San Julian,2007,3,TOTAL,8
+Chuquisaca,10702,San Lucas,2007,3,TOTAL,6
+Santa Cruz,71201,San Matias,2007,3,TOTAL,1
+Beni,80401,Santa Ana,2007,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL,154
+Beni,80303,Santa Rosa,2007,3,TOTAL,13
+Santa Cruz,70602,Santa Rosa Del Sara,2007,3,TOTAL,1
+Pando,90303,Sena,2007,3,TOTAL,3
+Cochabamba,30902,Sipe Sipe,2007,3,TOTAL,1
+Chuquisaca,10403,Sopachuy,2007,3,TOTAL,1
+Chuquisaca,10101,Sucre,2007,3,TOTAL,71
+Chuquisaca,10601,Tarabuco,2007,3,TOTAL,18
+Tarija,60101,Tarija,2007,3,TOTAL,150
+La Paz,20606,Tipuani,2007,3,TOTAL,3
+Cochabamba,30803,Tolata,2007,3,TOTAL,1
+Cochabamba,31201,Totora(cbba),2007,3,TOTAL,1
+Potosí,50801,Tupiza,2007,3,TOTAL,53
+Potosí,50201,Uncia,2007,3,TOTAL,4
+Cochabamba,30502,Vacas,2007,3,TOTAL,1
+Santa Cruz,70801,Vallegrande,2007,3,TOTAL,6
+Tarija,60303,Villa Montes,2007,3,TOTAL,9
+Cochabamba,31003,Villa Tunari,2007,3,TOTAL,21
+Potosí,51501,Villazon,2007,3,TOTAL,7
+Santa Cruz,70201,Warnes,2007,3,TOTAL,6
+Tarija,60301,Yacuiba,2007,3,TOTAL,5
+Santa Cruz,70403,Yapacani,2007,3,TOTAL,8
+Chuquisaca,10102,Yotala,2007,3,TOTAL,1
+Chuquisaca,10301,Zudañez,2007,3,TOTAL,1
+Cochabamba,30201,Aiquile,2007,4,TOTAL,9
+La Paz,20701,Apolo,2007,4,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,4,TOTAL,15
+Potosí,50802,Atocha,2007,4,TOTAL,30
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,4,TOTAL,14
+Chuquisaca,10201,Azurduy,2007,4,TOTAL,1
+Tarija,60202,Bermejo,2007,4,TOTAL,1
+Potosí,50301,Betanzos,2007,4,TOTAL,4
+Santa Cruz,70707,Boyuibe,2007,4,TOTAL,1
+Santa Cruz,70401,Buena Vista,2007,4,TOTAL,28
+Santa Cruz,70703,Cabezas,2007,4,TOTAL,6
+Chuquisaca,10701,Camargo,2007,4,TOTAL,6
+Santa Cruz,70706,Camiri,2007,4,TOTAL,22
+La Paz,22001,Caranavi,2007,4,TOTAL,28
+Oruro,40201,Challapata,2007,4,TOTAL,5
+Santa Cruz,70702,Charagua,2007,4,TOTAL,10
+La Paz,21101,Chulumani (v. De La Libertad),2007,4,TOTAL,3
+Pando,90101,Cobija,2007,4,TOTAL,39
+Cochabamba,30101,Cochabamba,2007,4,TOTAL,25
+Cochabamba,31002,Colomi,2007,4,TOTAL,2
+Santa Cruz,71101,Concepcion,2007,4,TOTAL,2
+La Paz,21701,Copacabana,2007,4,TOTAL,1
+La Paz,21401,Coroico,2007,4,TOTAL,11
+Potosí,50601,Cotagaita,2007,4,TOTAL,6
+Santa Cruz,70102,Cotoca,2007,4,TOTAL,11
+Santa Cruz,71106,Cuatro Cañadas,2007,4,TOTAL,3
+Santa Cruz,70704,Cuevo,2007,4,TOTAL,1
+La Paz,20105,El Alto,2007,4,TOTAL,258
+Santa Cruz,70105,El Torno,2007,4,TOTAL,5
+Tarija,60601,Entre Rios,2007,4,TOTAL,1
+La Paz,20602,Guanay,2007,4,TOTAL,3
+Beni,80202,Guayaramerin,2007,4,TOTAL,16
+Santa Cruz,70104,La Guardia,2007,4,TOTAL,10
+La Paz,20101,La Paz,2007,4,TOTAL,1543
+Santa Cruz,70701,Lagunillas,2007,4,TOTAL,1
+Potosí,50203,Llallagua,2007,4,TOTAL,14
+Chuquisaca,11003,Machareti,2007,4,TOTAL,4
+Beni,80801,Magdalena,2007,4,TOTAL,7
+Santa Cruz,70903,Mairana,2007,4,TOTAL,7
+La Paz,20607,Mapiri,2007,4,TOTAL,1
+Santa Cruz,71003,Mineros,2007,4,TOTAL,1
+Cochabamba,31301,Mizque,2007,4,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,4,TOTAL,20
+Santa Cruz,71001,Montero,2007,4,TOTAL,101
+Potosí,50404,Ocuri,2007,4,TOTAL,4
+Cochabamba,30203,Omereque,2007,4,TOTAL,1
+Oruro,40101,Oruro,2007,4,TOTAL,142
+Chuquisaca,10401,Padilla,2007,4,TOTAL,30
+Santa Cruz,70502,Pailon,2007,4,TOTAL,2
+La Paz,21104,Palos Blancos,2007,4,TOTAL,18
+La Paz,21305,Patacamaya,2007,4,TOTAL,5
+Potosí,50403,Pocoata,2007,4,TOTAL,2
+Santa Cruz,70601,Portachuelo,2007,4,TOTAL,13
+Chuquisaca,10302,Presto,2007,4,TOTAL,1
+La Paz,20401,Puerto Acosta,2007,4,TOTAL,9
+Pando,90301,Puerto Gonzalo Moreno,2007,4,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2007,4,TOTAL,1
+Pando,90201,Puerto Rico,2007,4,TOTAL,9
+Santa Cruz,71401,Puerto Suarez,2007,4,TOTAL,9
+Cochabamba,31205,Puerto Villarroel,2007,4,TOTAL,6
+Cochabamba,31401,Punata,2007,4,TOTAL,13
+Cochabamba,30901,Quillacollo,2007,4,TOTAL,47
+Beni,80301,Reyes,2007,4,TOTAL,1
+Beni,80201,Riberalta,2007,4,TOTAL,197
+Beni,80304,Rurrenabaque,2007,4,TOTAL,7
+Cochabamba,30404,Sacabamba,2007,4,TOTAL,1
+Potosí,50701,Sacaca,2007,4,TOTAL,2
+Santa Cruz,70901,Samaipata,2007,4,TOTAL,1
+La Paz,21502,San Buena Ventura,2007,4,TOTAL,1
+Santa Cruz,70402,San Carlos,2007,4,TOTAL,93
+Santa Cruz,70301,San Ignacio De Velasco,2007,4,TOTAL,14
+Santa Cruz,70404,San Juan De Yapacani,2007,4,TOTAL,4
+Santa Cruz,71104,San Julian,2007,4,TOTAL,2
+Chuquisaca,10702,San Lucas,2007,4,TOTAL,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,TOTAL,243
+Beni,80303,Santa Rosa,2007,4,TOTAL,7
+Santa Cruz,70602,Santa Rosa Del Sara,2007,4,TOTAL,1
+Chuquisaca,10403,Sopachuy,2007,4,TOTAL,3
+Chuquisaca,10101,Sucre,2007,4,TOTAL,77
+Cochabamba,31101,Tapacari,2007,4,TOTAL,1
+Chuquisaca,10601,Tarabuco,2007,4,TOTAL,15
+Tarija,60101,Tarija,2007,4,TOTAL,172
+Chuquisaca,10202,Tarvita,2007,4,TOTAL,3
+La Paz,20606,Tipuani,2007,4,TOTAL,1
+Potosí,50801,Tupiza,2007,4,TOTAL,49
+Potosí,50201,Uncia,2007,4,TOTAL,5
+Tarija,60401,Uriondo (a. Concepcion),2007,4,TOTAL,1
+Potosí,51201,Uyuni,2007,4,TOTAL,1
+Santa Cruz,70801,Vallegrande,2007,4,TOTAL,4
+Tarija,60303,Villa Montes,2007,4,TOTAL,14
+Chuquisaca,10801,Villa Serrano,2007,4,TOTAL,3
+Cochabamba,31003,Villa Tunari,2007,4,TOTAL,17
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,4,TOTAL,1
+Potosí,51501,Villazon,2007,4,TOTAL,14
+Santa Cruz,70201,Warnes,2007,4,TOTAL,3
+Tarija,60301,Yacuiba,2007,4,TOTAL,6
+Santa Cruz,70403,Yapacani,2007,4,TOTAL,15
+Chuquisaca,10301,Zudañez,2007,4,TOTAL,1
+Cochabamba,30201,Aiquile,2007,5,TOTAL,10
+La Paz,20701,Apolo,2007,5,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,5,TOTAL,3
+Potosí,50802,Atocha,2007,5,TOTAL,47
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,5,TOTAL,5
+Chuquisaca,10201,Azurduy,2007,5,TOTAL,6
+Potosí,50301,Betanzos,2007,5,TOTAL,3
+Santa Cruz,70703,Cabezas,2007,5,TOTAL,7
+Chuquisaca,10701,Camargo,2007,5,TOTAL,6
+Santa Cruz,70706,Camiri,2007,5,TOTAL,56
+Cochabamba,30701,Capinota,2007,5,TOTAL,2
+La Paz,22001,Caranavi,2007,5,TOTAL,15
+Oruro,40201,Challapata,2007,5,TOTAL,2
+Santa Cruz,70702,Charagua,2007,5,TOTAL,4
+Potosí,50202,Chayanta,2007,5,TOTAL,4
+La Paz,21101,Chulumani (v. De La Libertad),2007,5,TOTAL,2
+Pando,90101,Cobija,2007,5,TOTAL,50
+Cochabamba,30101,Cochabamba,2007,5,TOTAL,26
+Cochabamba,31002,Colomi,2007,5,TOTAL,2
+Santa Cruz,71301,Comarapa,2007,5,TOTAL,3
+La Paz,21401,Coroico,2007,5,TOTAL,7
+Potosí,50601,Cotagaita,2007,5,TOTAL,1
+Santa Cruz,70102,Cotoca,2007,5,TOTAL,8
+Santa Cruz,70704,Cuevo,2007,5,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2007,5,TOTAL,1
+La Paz,20105,El Alto,2007,5,TOTAL,114
+Santa Cruz,70105,El Torno,2007,5,TOTAL,5
+Chuquisaca,10405,El Villar,2007,5,TOTAL,2
+Santa Cruz,71004,Fernandez Alonso,2007,5,TOTAL,1
+La Paz,20602,Guanay,2007,5,TOTAL,5
+Beni,80202,Guayaramerin,2007,5,TOTAL,23
+Santa Cruz,70705,Gutierrez,2007,5,TOTAL,3
+Chuquisaca,10502,Huacareta,2007,5,TOTAL,1
+Oruro,40701,Huanuni,2007,5,TOTAL,2
+Chuquisaca,10304,Icla,2007,5,TOTAL,2
+Chuquisaca,10703,Incahuasi,2007,5,TOTAL,3
+La Paz,20806,Jesus De Machaca,2007,5,TOTAL,22
+Santa Cruz,70104,La Guardia,2007,5,TOTAL,8
+La Paz,20101,La Paz,2007,5,TOTAL,1695
+Potosí,50203,Llallagua,2007,5,TOTAL,18
+Beni,80801,Magdalena,2007,5,TOTAL,7
+Santa Cruz,70903,Mairana,2007,5,TOTAL,5
+La Paz,20607,Mapiri,2007,5,TOTAL,2
+Cochabamba,31301,Mizque,2007,5,TOTAL,4
+Chuquisaca,10501,Monteagudo,2007,5,TOTAL,19
+Santa Cruz,71001,Montero,2007,5,TOTAL,99
+Potosí,50404,Ocuri,2007,5,TOTAL,1
+Oruro,40101,Oruro,2007,5,TOTAL,193
+Chuquisaca,10401,Padilla,2007,5,TOTAL,15
+Santa Cruz,70502,Pailon,2007,5,TOTAL,1
+La Paz,21104,Palos Blancos,2007,5,TOTAL,4
+Santa Cruz,70601,Portachuelo,2007,5,TOTAL,14
+La Paz,20401,Puerto Acosta,2007,5,TOTAL,11
+Santa Cruz,71402,Puerto Quijarro,2007,5,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2007,5,TOTAL,6
+Cochabamba,31205,Puerto Villarroel,2007,5,TOTAL,2
+Potosí,51101,Puna,2007,5,TOTAL,4
+Cochabamba,31401,Punata,2007,5,TOTAL,56
+Cochabamba,30901,Quillacollo,2007,5,TOTAL,29
+Beni,80301,Reyes,2007,5,TOTAL,5
+Beni,80201,Riberalta,2007,5,TOTAL,100
+Santa Cruz,70503,Robore,2007,5,TOTAL,2
+Beni,80304,Rurrenabaque,2007,5,TOTAL,6
+Cochabamba,31001,Sacaba,2007,5,TOTAL,6
+Cochabamba,30404,Sacabamba,2007,5,TOTAL,1
+Santa Cruz,70901,Samaipata,2007,5,TOTAL,2
+Potosí,51601,San Agustin,2007,5,TOTAL,1
+La Paz,21502,San Buena Ventura,2007,5,TOTAL,4
+Santa Cruz,70402,San Carlos,2007,5,TOTAL,22
+Beni,80501,San Ignacio,2007,5,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,5,TOTAL,18
+Beni,80701,San Joaquin,2007,5,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2007,5,TOTAL,5
+Santa Cruz,71104,San Julian,2007,5,TOTAL,9
+Chuquisaca,10702,San Lucas,2007,5,TOTAL,12
+Santa Cruz,70303,San Rafael,2007,5,TOTAL,9
+Beni,80702,San Ramon,2007,5,TOTAL,1
+Beni,80401,Santa Ana,2007,5,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,TOTAL,197
+Beni,80303,Santa Rosa,2007,5,TOTAL,5
+Santa Cruz,70602,Santa Rosa Del Sara,2007,5,TOTAL,1
+Chuquisaca,10403,Sopachuy,2007,5,TOTAL,2
+Chuquisaca,10101,Sucre,2007,5,TOTAL,67
+Cochabamba,31101,Tapacari,2007,5,TOTAL,2
+Chuquisaca,10601,Tarabuco,2007,5,TOTAL,14
+Tarija,60101,Tarija,2007,5,TOTAL,156
+Potosí,50102,Tinguipaya,2007,5,TOTAL,1
+La Paz,20606,Tipuani,2007,5,TOTAL,1
+Cochabamba,31201,Totora(cbba),2007,5,TOTAL,2
+Potosí,50801,Tupiza,2007,5,TOTAL,51
+Potosí,50201,Uncia,2007,5,TOTAL,4
+Santa Cruz,71502,Urubicha,2007,5,TOTAL,1
+Cochabamba,30502,Vacas,2007,5,TOTAL,1
+Santa Cruz,70801,Vallegrande,2007,5,TOTAL,4
+Tarija,60303,Villa Montes,2007,5,TOTAL,15
+Cochabamba,31003,Villa Tunari,2007,5,TOTAL,18
+Potosí,51501,Villazon,2007,5,TOTAL,15
+Santa Cruz,70201,Warnes,2007,5,TOTAL,1
+Tarija,60301,Yacuiba,2007,5,TOTAL,3
+La Paz,21103,Yanacachi,2007,5,TOTAL,1
+Santa Cruz,70403,Yapacani,2007,5,TOTAL,7
+Chuquisaca,10301,Zudañez,2007,5,TOTAL,4
+Potosí,51302,Acacio,2007,6,TOTAL,2
+Cochabamba,30201,Aiquile,2007,6,TOTAL,8
+La Paz,20701,Apolo,2007,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,TOTAL,4
+Potosí,50802,Atocha,2007,6,TOTAL,58
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,6,TOTAL,6
+Potosí,50301,Betanzos,2007,6,TOTAL,3
+Santa Cruz,70707,Boyuibe,2007,6,TOTAL,1
+Santa Cruz,70401,Buena Vista,2007,6,TOTAL,3
+Santa Cruz,70703,Cabezas,2007,6,TOTAL,10
+Chuquisaca,10701,Camargo,2007,6,TOTAL,12
+Santa Cruz,70706,Camiri,2007,6,TOTAL,29
+Cochabamba,30701,Capinota,2007,6,TOTAL,6
+La Paz,22001,Caranavi,2007,6,TOTAL,26
+Santa Cruz,71403,Carmen Rivero Torrez,2007,6,TOTAL,1
+Santa Cruz,70702,Charagua,2007,6,TOTAL,4
+La Paz,21101,Chulumani (v. De La Libertad),2007,6,TOTAL,4
+Pando,90101,Cobija,2007,6,TOTAL,64
+Cochabamba,30101,Cochabamba,2007,6,TOTAL,18
+Cochabamba,31002,Colomi,2007,6,TOTAL,4
+Santa Cruz,71301,Comarapa,2007,6,TOTAL,1
+La Paz,21701,Copacabana,2007,6,TOTAL,1
+La Paz,21401,Coroico,2007,6,TOTAL,6
+Potosí,50601,Cotagaita,2007,6,TOTAL,3
+Santa Cruz,70102,Cotoca,2007,6,TOTAL,14
+La Paz,20105,El Alto,2007,6,TOTAL,138
+Tarija,60502,El Puente(tja),2007,6,TOTAL,1
+Santa Cruz,70105,El Torno,2007,6,TOTAL,4
+Chuquisaca,10405,El Villar,2007,6,TOTAL,2
+Tarija,60601,Entre Rios,2007,6,TOTAL,7
+La Paz,20602,Guanay,2007,6,TOTAL,6
+Beni,80202,Guayaramerin,2007,6,TOTAL,27
+Santa Cruz,70705,Gutierrez,2007,6,TOTAL,5
+Chuquisaca,10502,Huacareta,2007,6,TOTAL,2
+La Paz,21005,Ichoca,2007,6,TOTAL,1
+Chuquisaca,10304,Icla,2007,6,TOTAL,2
+La Paz,21102,Irupana (villa De Lanza),2007,6,TOTAL,1
+La Paz,20806,Jesus De Machaca,2007,6,TOTAL,3
+Santa Cruz,70104,La Guardia,2007,6,TOTAL,3
+La Paz,20101,La Paz,2007,6,TOTAL,1604
+Chuquisaca,10903,Las Carreras,2007,6,TOTAL,1
+Potosí,50203,Llallagua,2007,6,TOTAL,31
+Chuquisaca,11003,Machareti,2007,6,TOTAL,1
+Beni,80801,Magdalena,2007,6,TOTAL,9
+Santa Cruz,70903,Mairana,2007,6,TOTAL,4
+Santa Cruz,71003,Mineros,2007,6,TOTAL,1
+Cochabamba,31301,Mizque,2007,6,TOTAL,4
+Chuquisaca,10501,Monteagudo,2007,6,TOTAL,19
+Santa Cruz,71001,Montero,2007,6,TOTAL,108
+Oruro,40101,Oruro,2007,6,TOTAL,128
+Chuquisaca,10401,Padilla,2007,6,TOTAL,17
+La Paz,21104,Palos Blancos,2007,6,TOTAL,2
+Santa Cruz,70902,Pampa Grande,2007,6,TOTAL,2
+La Paz,21305,Patacamaya,2007,6,TOTAL,4
+Potosí,50403,Pocoata,2007,6,TOTAL,1
+Chuquisaca,10103,Poroma,2007,6,TOTAL,3
+Santa Cruz,70601,Portachuelo,2007,6,TOTAL,5
+Chuquisaca,10302,Presto,2007,6,TOTAL,2
+La Paz,20401,Puerto Acosta,2007,6,TOTAL,9
+La Paz,20403,Puerto Carabuco,2007,6,TOTAL,1
+Pando,90201,Puerto Rico,2007,6,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2007,6,TOTAL,13
+Cochabamba,31205,Puerto Villarroel,2007,6,TOTAL,10
+Potosí,51101,Puna,2007,6,TOTAL,3
+Cochabamba,31401,Punata,2007,6,TOTAL,59
+Cochabamba,30901,Quillacollo,2007,6,TOTAL,24
+Beni,80301,Reyes,2007,6,TOTAL,4
+Beni,80201,Riberalta,2007,6,TOTAL,152
+Santa Cruz,70503,Robore,2007,6,TOTAL,2
+Beni,80304,Rurrenabaque,2007,6,TOTAL,11
+Cochabamba,31001,Sacaba,2007,6,TOTAL,7
+Potosí,50701,Sacaca,2007,6,TOTAL,1
+Santa Cruz,70901,Samaipata,2007,6,TOTAL,1
+Potosí,51601,San Agustin,2007,6,TOTAL,1
+Beni,80302,San Borja,2007,6,TOTAL,3
+La Paz,21502,San Buena Ventura,2007,6,TOTAL,2
+Santa Cruz,70402,San Carlos,2007,6,TOTAL,17
+Santa Cruz,70301,San Ignacio De Velasco,2007,6,TOTAL,19
+Santa Cruz,70501,San Jose De Chiquitos,2007,6,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2007,6,TOTAL,5
+Santa Cruz,71104,San Julian,2007,6,TOTAL,4
+Chuquisaca,10702,San Lucas,2007,6,TOTAL,22
+Santa Cruz,71201,San Matias,2007,6,TOTAL,5
+Beni,80702,San Ramon,2007,6,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,TOTAL,214
+Beni,80303,Santa Rosa,2007,6,TOTAL,4
+Santa Cruz,70602,Santa Rosa Del Sara,2007,6,TOTAL,1
+Chuquisaca,10403,Sopachuy,2007,6,TOTAL,6
+Chuquisaca,10101,Sucre,2007,6,TOTAL,79
+La Paz,20603,Tacacoma,2007,6,TOTAL,1
+Chuquisaca,10601,Tarabuco,2007,6,TOTAL,13
+Tarija,60101,Tarija,2007,6,TOTAL,123
+Chuquisaca,10202,Tarvita,2007,6,TOTAL,4
+La Paz,20608,Teoponte,2007,6,TOTAL,3
+La Paz,20606,Tipuani,2007,6,TOTAL,1
+Cochabamba,31201,Totora(cbba),2007,6,TOTAL,2
+Potosí,50801,Tupiza,2007,6,TOTAL,38
+Potosí,50201,Uncia,2007,6,TOTAL,8
+Santa Cruz,70801,Vallegrande,2007,6,TOTAL,3
+Tarija,60303,Villa Montes,2007,6,TOTAL,13
+Cochabamba,31003,Villa Tunari,2007,6,TOTAL,31
+Potosí,51501,Villazon,2007,6,TOTAL,15
+Potosí,50602,Vitichi,2007,6,TOTAL,2
+Santa Cruz,70201,Warnes,2007,6,TOTAL,8
+Tarija,60301,Yacuiba,2007,6,TOTAL,18
+Santa Cruz,70403,Yapacani,2007,6,TOTAL,8
+Chuquisaca,10102,Yotala,2007,6,TOTAL,1
+Chuquisaca,10301,Zudañez,2007,6,TOTAL,3
+Cochabamba,30201,Aiquile,2007,7,TOTAL,6
+La Paz,20701,Apolo,2007,7,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,TOTAL,18
+Potosí,50802,Atocha,2007,7,TOTAL,46
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,7,TOTAL,8
+Chuquisaca,10201,Azurduy,2007,7,TOTAL,1
+Tarija,60202,Bermejo,2007,7,TOTAL,7
+Potosí,50301,Betanzos,2007,7,TOTAL,4
+Santa Cruz,70703,Cabezas,2007,7,TOTAL,6
+Chuquisaca,10701,Camargo,2007,7,TOTAL,4
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,7,TOTAL,1
+Santa Cruz,70706,Camiri,2007,7,TOTAL,10
+La Paz,22001,Caranavi,2007,7,TOTAL,31
+Oruro,40201,Challapata,2007,7,TOTAL,3
+Santa Cruz,70702,Charagua,2007,7,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2007,7,TOTAL,3
+Pando,90101,Cobija,2007,7,TOTAL,105
+Cochabamba,30101,Cochabamba,2007,7,TOTAL,18
+Cochabamba,30905,Colcapirhua,2007,7,TOTAL,2
+Cochabamba,31002,Colomi,2007,7,TOTAL,4
+La Paz,20301,Coro Coro,2007,7,TOTAL,1
+La Paz,21401,Coroico,2007,7,TOTAL,12
+Potosí,50601,Cotagaita,2007,7,TOTAL,4
+Santa Cruz,70102,Cotoca,2007,7,TOTAL,11
+La Paz,20105,El Alto,2007,7,TOTAL,171
+Santa Cruz,70105,El Torno,2007,7,TOTAL,7
+Tarija,60601,Entre Rios,2007,7,TOTAL,6
+La Paz,21601,Gral. J.j. Perez (charazani),2007,7,TOTAL,1
+La Paz,20602,Guanay,2007,7,TOTAL,1
+Beni,80202,Guayaramerin,2007,7,TOTAL,19
+Santa Cruz,70705,Gutierrez,2007,7,TOTAL,3
+La Paz,21005,Ichoca,2007,7,TOTAL,2
+Santa Cruz,70104,La Guardia,2007,7,TOTAL,5
+La Paz,20101,La Paz,2007,7,TOTAL,2049
+La Paz,21202,Laja,2007,7,TOTAL,7
+Potosí,50203,Llallagua,2007,7,TOTAL,28
+Chuquisaca,11003,Machareti,2007,7,TOTAL,1
+Beni,80801,Magdalena,2007,7,TOTAL,14
+Santa Cruz,70903,Mairana,2007,7,TOTAL,7
+La Paz,20607,Mapiri,2007,7,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,7,TOTAL,17
+Santa Cruz,71001,Montero,2007,7,TOTAL,106
+Cochabamba,30302,Morochata,2007,7,TOTAL,3
+Oruro,40101,Oruro,2007,7,TOTAL,136
+Chuquisaca,10401,Padilla,2007,7,TOTAL,25
+La Paz,21104,Palos Blancos,2007,7,TOTAL,6
+Santa Cruz,70902,Pampa Grande,2007,7,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,7,TOTAL,10
+Potosí,50101,Potosi,2007,7,TOTAL,44
+Chuquisaca,10302,Presto,2007,7,TOTAL,1
+La Paz,20401,Puerto Acosta,2007,7,TOTAL,10
+Santa Cruz,71402,Puerto Quijarro,2007,7,TOTAL,2
+Pando,90201,Puerto Rico,2007,7,TOTAL,3
+Santa Cruz,71401,Puerto Suarez,2007,7,TOTAL,21
+Cochabamba,31205,Puerto Villarroel,2007,7,TOTAL,8
+Potosí,51101,Puna,2007,7,TOTAL,1
+Cochabamba,31401,Punata,2007,7,TOTAL,47
+Cochabamba,30901,Quillacollo,2007,7,TOTAL,32
+Beni,80301,Reyes,2007,7,TOTAL,3
+Beni,80201,Riberalta,2007,7,TOTAL,172
+Beni,80304,Rurrenabaque,2007,7,TOTAL,19
+Cochabamba,31001,Sacaba,2007,7,TOTAL,3
+Potosí,50701,Sacaca,2007,7,TOTAL,3
+Santa Cruz,70901,Samaipata,2007,7,TOTAL,2
+Cochabamba,31403,San Benito,2007,7,TOTAL,1
+La Paz,21502,San Buena Ventura,2007,7,TOTAL,2
+Santa Cruz,70402,San Carlos,2007,7,TOTAL,16
+Beni,80501,San Ignacio,2007,7,TOTAL,5
+Santa Cruz,70301,San Ignacio De Velasco,2007,7,TOTAL,21
+Santa Cruz,70404,San Juan De Yapacani,2007,7,TOTAL,8
+Santa Cruz,71104,San Julian,2007,7,TOTAL,8
+Chuquisaca,10702,San Lucas,2007,7,TOTAL,19
+Santa Cruz,71201,San Matias,2007,7,TOTAL,3
+Potosí,50501,San Pedro De Buena Vista,2007,7,TOTAL,3
+Beni,80702,San Ramon,2007,7,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,TOTAL,91
+Beni,80303,Santa Rosa,2007,7,TOTAL,4
+Pando,90303,Sena,2007,7,TOTAL,2
+Chuquisaca,10403,Sopachuy,2007,7,TOTAL,8
+Chuquisaca,10101,Sucre,2007,7,TOTAL,78
+Cochabamba,30602,Tacopaya,2007,7,TOTAL,1
+Cochabamba,31101,Tapacari,2007,7,TOTAL,3
+Chuquisaca,10601,Tarabuco,2007,7,TOTAL,20
+Tarija,60101,Tarija,2007,7,TOTAL,128
+Chuquisaca,10202,Tarvita,2007,7,TOTAL,1
+La Paz,20608,Teoponte,2007,7,TOTAL,1
+Cochabamba,31201,Totora(cbba),2007,7,TOTAL,1
+Potosí,50801,Tupiza,2007,7,TOTAL,49
+Potosí,50201,Uncia,2007,7,TOTAL,18
+Potosí,51201,Uyuni,2007,7,TOTAL,1
+Santa Cruz,70801,Vallegrande,2007,7,TOTAL,3
+Tarija,60303,Villa Montes,2007,7,TOTAL,12
+Cochabamba,31003,Villa Tunari,2007,7,TOTAL,31
+Potosí,51501,Villazon,2007,7,TOTAL,14
+Potosí,50602,Vitichi,2007,7,TOTAL,1
+Santa Cruz,70201,Warnes,2007,7,TOTAL,5
+Tarija,60301,Yacuiba,2007,7,TOTAL,12
+Santa Cruz,70403,Yapacani,2007,7,TOTAL,5
+Potosí,51302,Acacio,2007,8,TOTAL,1
+Cochabamba,30201,Aiquile,2007,8,TOTAL,3
+La Paz,20701,Apolo,2007,8,TOTAL,2
+Cochabamba,30501,Arani,2007,8,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,TOTAL,12
+Potosí,50802,Atocha,2007,8,TOTAL,37
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,8,TOTAL,9
+Tarija,60202,Bermejo,2007,8,TOTAL,4
+Potosí,50301,Betanzos,2007,8,TOTAL,7
+Santa Cruz,70401,Buena Vista,2007,8,TOTAL,3
+Santa Cruz,70703,Cabezas,2007,8,TOTAL,2
+Chuquisaca,10701,Camargo,2007,8,TOTAL,2
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,8,TOTAL,4
+Santa Cruz,70706,Camiri,2007,8,TOTAL,8
+Cochabamba,30701,Capinota,2007,8,TOTAL,16
+La Paz,22001,Caranavi,2007,8,TOTAL,26
+Santa Cruz,71403,Carmen Rivero Torrez,2007,8,TOTAL,3
+Oruro,40201,Challapata,2007,8,TOTAL,5
+Santa Cruz,70702,Charagua,2007,8,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,8,TOTAL,2
+La Paz,20501,Chuma,2007,8,TOTAL,2
+Pando,90101,Cobija,2007,8,TOTAL,98
+Cochabamba,30101,Cochabamba,2007,8,TOTAL,36
+Cochabamba,31002,Colomi,2007,8,TOTAL,5
+Santa Cruz,71301,Comarapa,2007,8,TOTAL,1
+Santa Cruz,71101,Concepcion,2007,8,TOTAL,2
+La Paz,21401,Coroico,2007,8,TOTAL,5
+Potosí,50601,Cotagaita,2007,8,TOTAL,3
+Santa Cruz,70102,Cotoca,2007,8,TOTAL,14
+Santa Cruz,71106,Cuatro Cañadas,2007,8,TOTAL,1
+Chuquisaca,10902,Culpina,2007,8,TOTAL,2
+La Paz,20105,El Alto,2007,8,TOTAL,188
+Santa Cruz,70105,El Torno,2007,8,TOTAL,5
+Pando,90203,Filadelfia,2007,8,TOTAL,1
+La Paz,20602,Guanay,2007,8,TOTAL,3
+Beni,80202,Guayaramerin,2007,8,TOTAL,22
+Santa Cruz,70705,Gutierrez,2007,8,TOTAL,3
+Oruro,40701,Huanuni,2007,8,TOTAL,1
+Beni,80803,Huaracaje,2007,8,TOTAL,2
+La Paz,21005,Ichoca,2007,8,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2007,8,TOTAL,1
+La Paz,20806,Jesus De Machaca,2007,8,TOTAL,2
+Santa Cruz,70104,La Guardia,2007,8,TOTAL,5
+La Paz,20101,La Paz,2007,8,TOTAL,1699
+Potosí,50203,Llallagua,2007,8,TOTAL,16
+Chuquisaca,11003,Machareti,2007,8,TOTAL,2
+Beni,80801,Magdalena,2007,8,TOTAL,6
+Santa Cruz,70903,Mairana,2007,8,TOTAL,3
+Santa Cruz,71003,Mineros,2007,8,TOTAL,2
+Cochabamba,31301,Mizque,2007,8,TOTAL,2
+Chuquisaca,10501,Monteagudo,2007,8,TOTAL,24
+Santa Cruz,71001,Montero,2007,8,TOTAL,60
+Cochabamba,30302,Morochata,2007,8,TOTAL,2
+Oruro,40101,Oruro,2007,8,TOTAL,134
+Chuquisaca,10401,Padilla,2007,8,TOTAL,19
+Santa Cruz,70502,Pailon,2007,8,TOTAL,1
+La Paz,21104,Palos Blancos,2007,8,TOTAL,4
+Santa Cruz,70902,Pampa Grande,2007,8,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2007,8,TOTAL,1
+Santa Cruz,70103,Porongo,2007,8,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,8,TOTAL,7
+Potosí,50101,Potosi,2007,8,TOTAL,20
+Chuquisaca,10302,Presto,2007,8,TOTAL,1
+La Paz,20401,Puerto Acosta,2007,8,TOTAL,7
+Santa Cruz,71402,Puerto Quijarro,2007,8,TOTAL,2
+Pando,90201,Puerto Rico,2007,8,TOTAL,3
+Santa Cruz,71401,Puerto Suarez,2007,8,TOTAL,23
+Cochabamba,31205,Puerto Villarroel,2007,8,TOTAL,7
+Potosí,51101,Puna,2007,8,TOTAL,1
+Cochabamba,31401,Punata,2007,8,TOTAL,67
+Cochabamba,30901,Quillacollo,2007,8,TOTAL,38
+Beni,80301,Reyes,2007,8,TOTAL,4
+Beni,80201,Riberalta,2007,8,TOTAL,106
+Santa Cruz,70503,Robore,2007,8,TOTAL,2
+Beni,80304,Rurrenabaque,2007,8,TOTAL,14
+Cochabamba,31001,Sacaba,2007,8,TOTAL,19
+Potosí,50701,Sacaca,2007,8,TOTAL,2
+Santa Cruz,70901,Samaipata,2007,8,TOTAL,3
+Santa Cruz,71105,San Antonio De Lomerio,2007,8,TOTAL,1
+Beni,80302,San Borja,2007,8,TOTAL,2
+La Paz,21502,San Buena Ventura,2007,8,TOTAL,1
+Santa Cruz,70402,San Carlos,2007,8,TOTAL,10
+Santa Cruz,70301,San Ignacio De Velasco,2007,8,TOTAL,25
+Santa Cruz,71102,San Javier(stc),2007,8,TOTAL,1
+Beni,80701,San Joaquin,2007,8,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2007,8,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2007,8,TOTAL,2
+Santa Cruz,71104,San Julian,2007,8,TOTAL,9
+Chuquisaca,10702,San Lucas,2007,8,TOTAL,14
+Beni,80702,San Ramon,2007,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,TOTAL,64
+Beni,80303,Santa Rosa,2007,8,TOTAL,3
+Chuquisaca,10403,Sopachuy,2007,8,TOTAL,10
+Chuquisaca,10101,Sucre,2007,8,TOTAL,91
+Cochabamba,31101,Tapacari,2007,8,TOTAL,1
+Chuquisaca,10601,Tarabuco,2007,8,TOTAL,20
+Tarija,60101,Tarija,2007,8,TOTAL,97
+Chuquisaca,10202,Tarvita,2007,8,TOTAL,3
+Chuquisaca,10402,Tomina,2007,8,TOTAL,3
+Cochabamba,31201,Totora(cbba),2007,8,TOTAL,1
+Beni,80101,Trinidad,2007,8,TOTAL,6
+Potosí,50801,Tupiza,2007,8,TOTAL,32
+Potosí,50201,Uncia,2007,8,TOTAL,44
+Potosí,51201,Uyuni,2007,8,TOTAL,5
+Santa Cruz,70801,Vallegrande,2007,8,TOTAL,6
+Tarija,60303,Villa Montes,2007,8,TOTAL,21
+Cochabamba,31003,Villa Tunari,2007,8,TOTAL,27
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,8,TOTAL,3
+Potosí,51501,Villazon,2007,8,TOTAL,5
+Santa Cruz,70201,Warnes,2007,8,TOTAL,9
+Tarija,60301,Yacuiba,2007,8,TOTAL,12
+Santa Cruz,70403,Yapacani,2007,8,TOTAL,5
+Chuquisaca,10102,Yotala,2007,8,TOTAL,1
+Cochabamba,30201,Aiquile,2007,9,TOTAL,13
+Chuquisaca,10404,Alcala,2007,9,TOTAL,2
+La Paz,20701,Apolo,2007,9,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,9,TOTAL,8
+Potosí,50802,Atocha,2007,9,TOTAL,62
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,9,TOTAL,7
+Potosí,50301,Betanzos,2007,9,TOTAL,6
+Santa Cruz,70707,Boyuibe,2007,9,TOTAL,3
+Santa Cruz,70703,Cabezas,2007,9,TOTAL,3
+Chuquisaca,10701,Camargo,2007,9,TOTAL,7
+Santa Cruz,70706,Camiri,2007,9,TOTAL,23
+Cochabamba,30701,Capinota,2007,9,TOTAL,6
+La Paz,22001,Caranavi,2007,9,TOTAL,18
+Oruro,40201,Challapata,2007,9,TOTAL,1
+Santa Cruz,70702,Charagua,2007,9,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,9,TOTAL,2
+Pando,90101,Cobija,2007,9,TOTAL,70
+Cochabamba,30101,Cochabamba,2007,9,TOTAL,29
+Cochabamba,31002,Colomi,2007,9,TOTAL,2
+Santa Cruz,71301,Comarapa,2007,9,TOTAL,3
+Santa Cruz,71101,Concepcion,2007,9,TOTAL,3
+La Paz,21401,Coroico,2007,9,TOTAL,12
+Potosí,50601,Cotagaita,2007,9,TOTAL,3
+Santa Cruz,70102,Cotoca,2007,9,TOTAL,65
+La Paz,20105,El Alto,2007,9,TOTAL,126
+Santa Cruz,70105,El Torno,2007,9,TOTAL,5
+Tarija,60601,Entre Rios,2007,9,TOTAL,3
+La Paz,21601,Gral. J.j. Perez (charazani),2007,9,TOTAL,1
+La Paz,20602,Guanay,2007,9,TOTAL,3
+Beni,80202,Guayaramerin,2007,9,TOTAL,21
+La Paz,21501,Ixiamas,2007,9,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,9,TOTAL,3
+La Paz,20101,La Paz,2007,9,TOTAL,1596
+Santa Cruz,70701,Lagunillas,2007,9,TOTAL,1
+Potosí,50203,Llallagua,2007,9,TOTAL,19
+Chuquisaca,11003,Machareti,2007,9,TOTAL,3
+Beni,80801,Magdalena,2007,9,TOTAL,7
+Santa Cruz,70903,Mairana,2007,9,TOTAL,1
+Santa Cruz,71003,Mineros,2007,9,TOTAL,1
+Cochabamba,31301,Mizque,2007,9,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,9,TOTAL,18
+Santa Cruz,71001,Montero,2007,9,TOTAL,110
+Cochabamba,30302,Morochata,2007,9,TOTAL,3
+Potosí,50404,Ocuri,2007,9,TOTAL,3
+Cochabamba,30203,Omereque,2007,9,TOTAL,1
+Oruro,40101,Oruro,2007,9,TOTAL,133
+Chuquisaca,10401,Padilla,2007,9,TOTAL,29
+Santa Cruz,70502,Pailon,2007,9,TOTAL,2
+La Paz,21104,Palos Blancos,2007,9,TOTAL,5
+La Paz,21305,Patacamaya,2007,9,TOTAL,2
+Chuquisaca,10103,Poroma,2007,9,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,9,TOTAL,14
+Potosí,50101,Potosi,2007,9,TOTAL,54
+La Paz,20401,Puerto Acosta,2007,9,TOTAL,16
+Santa Cruz,71401,Puerto Suarez,2007,9,TOTAL,25
+Cochabamba,31205,Puerto Villarroel,2007,9,TOTAL,3
+Cochabamba,31401,Punata,2007,9,TOTAL,35
+Beni,80301,Reyes,2007,9,TOTAL,4
+Beni,80201,Riberalta,2007,9,TOTAL,197
+Santa Cruz,70503,Robore,2007,9,TOTAL,1
+Beni,80304,Rurrenabaque,2007,9,TOTAL,18
+Cochabamba,31001,Sacaba,2007,9,TOTAL,2
+Cochabamba,30404,Sacabamba,2007,9,TOTAL,1
+Santa Cruz,71302,Saipina,2007,9,TOTAL,1
+La Paz,21502,San Buena Ventura,2007,9,TOTAL,2
+Santa Cruz,70402,San Carlos,2007,9,TOTAL,13
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,TOTAL,16
+Beni,80701,San Joaquin,2007,9,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,9,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2007,9,TOTAL,7
+Santa Cruz,71104,San Julian,2007,9,TOTAL,4
+Chuquisaca,10702,San Lucas,2007,9,TOTAL,11
+Santa Cruz,71201,San Matias,2007,9,TOTAL,8
+Beni,80702,San Ramon,2007,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,TOTAL,73
+Beni,80303,Santa Rosa,2007,9,TOTAL,5
+Santa Cruz,70602,Santa Rosa Del Sara,2007,9,TOTAL,1
+Chuquisaca,10403,Sopachuy,2007,9,TOTAL,4
+Chuquisaca,10101,Sucre,2007,9,TOTAL,104
+Cochabamba,31101,Tapacari,2007,9,TOTAL,1
+Chuquisaca,10601,Tarabuco,2007,9,TOTAL,13
+Cochabamba,30401,Tarata,2007,9,TOTAL,4
+Tarija,60101,Tarija,2007,9,TOTAL,108
+Chuquisaca,10202,Tarvita,2007,9,TOTAL,1
+Cochabamba,31201,Totora(cbba),2007,9,TOTAL,2
+Beni,80101,Trinidad,2007,9,TOTAL,11
+Potosí,50801,Tupiza,2007,9,TOTAL,44
+Potosí,50201,Uncia,2007,9,TOTAL,29
+Tarija,60401,Uriondo (a. Concepcion),2007,9,TOTAL,3
+Santa Cruz,70801,Vallegrande,2007,9,TOTAL,2
+Tarija,60303,Villa Montes,2007,9,TOTAL,12
+Cochabamba,31003,Villa Tunari,2007,9,TOTAL,12
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,9,TOTAL,1
+Potosí,51501,Villazon,2007,9,TOTAL,14
+Santa Cruz,70201,Warnes,2007,9,TOTAL,2
+Tarija,60301,Yacuiba,2007,9,TOTAL,31
+Santa Cruz,70403,Yapacani,2007,9,TOTAL,12
+Chuquisaca,10102,Yotala,2007,9,TOTAL,1
+Potosí,51302,Acacio,2007,10,TOTAL,3
+Cochabamba,30201,Aiquile,2007,10,TOTAL,4
+Santa Cruz,71501,Ascencion De Guarayos,2007,10,TOTAL,3
+Potosí,50802,Atocha,2007,10,TOTAL,58
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,10,TOTAL,4
+Chuquisaca,10201,Azurduy,2007,10,TOTAL,1
+Tarija,60202,Bermejo,2007,10,TOTAL,6
+Potosí,50301,Betanzos,2007,10,TOTAL,5
+Santa Cruz,70703,Cabezas,2007,10,TOTAL,6
+Chuquisaca,10701,Camargo,2007,10,TOTAL,3
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,10,TOTAL,2
+Santa Cruz,70706,Camiri,2007,10,TOTAL,16
+Cochabamba,30701,Capinota,2007,10,TOTAL,21
+Oruro,40102,Caracollo,2007,10,TOTAL,1
+La Paz,22001,Caranavi,2007,10,TOTAL,16
+Santa Cruz,71403,Carmen Rivero Torrez,2007,10,TOTAL,1
+Oruro,40201,Challapata,2007,10,TOTAL,2
+Santa Cruz,70702,Charagua,2007,10,TOTAL,6
+La Paz,21101,Chulumani (v. De La Libertad),2007,10,TOTAL,2
+Pando,90101,Cobija,2007,10,TOTAL,94
+Cochabamba,30101,Cochabamba,2007,10,TOTAL,26
+Santa Cruz,71301,Comarapa,2007,10,TOTAL,3
+La Paz,21401,Coroico,2007,10,TOTAL,7
+Potosí,50601,Cotagaita,2007,10,TOTAL,5
+Santa Cruz,70102,Cotoca,2007,10,TOTAL,18
+Santa Cruz,70704,Cuevo,2007,10,TOTAL,1
+Chuquisaca,10902,Culpina,2007,10,TOTAL,1
+La Paz,20105,El Alto,2007,10,TOTAL,180
+Oruro,40103,El Choro,2007,10,TOTAL,3
+Santa Cruz,70105,El Torno,2007,10,TOTAL,5
+Tarija,60601,Entre Rios,2007,10,TOTAL,4
+La Paz,20602,Guanay,2007,10,TOTAL,3
+Beni,80202,Guayaramerin,2007,10,TOTAL,26
+Santa Cruz,70705,Gutierrez,2007,10,TOTAL,1
+La Paz,21005,Ichoca,2007,10,TOTAL,1
+Chuquisaca,10703,Incahuasi,2007,10,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,10,TOTAL,6
+La Paz,20101,La Paz,2007,10,TOTAL,1785
+Potosí,50203,Llallagua,2007,10,TOTAL,16
+Chuquisaca,11003,Machareti,2007,10,TOTAL,1
+Beni,80801,Magdalena,2007,10,TOTAL,8
+Santa Cruz,70903,Mairana,2007,10,TOTAL,4
+La Paz,20607,Mapiri,2007,10,TOTAL,1
+Cochabamba,31301,Mizque,2007,10,TOTAL,3
+Chuquisaca,10303,Mojocoya,2007,10,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,10,TOTAL,15
+Santa Cruz,71001,Montero,2007,10,TOTAL,67
+Potosí,50404,Ocuri,2007,10,TOTAL,8
+Oruro,40101,Oruro,2007,10,TOTAL,146
+Chuquisaca,10401,Padilla,2007,10,TOTAL,17
+Santa Cruz,70502,Pailon,2007,10,TOTAL,2
+La Paz,21104,Palos Blancos,2007,10,TOTAL,3
+La Paz,21305,Patacamaya,2007,10,TOTAL,4
+Oruro,40602,Pazña,2007,10,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2007,10,TOTAL,1
+Chuquisaca,10103,Poroma,2007,10,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,10,TOTAL,98
+Potosí,50101,Potosi,2007,10,TOTAL,43
+La Paz,20401,Puerto Acosta,2007,10,TOTAL,47
+Santa Cruz,71401,Puerto Suarez,2007,10,TOTAL,14
+Cochabamba,31205,Puerto Villarroel,2007,10,TOTAL,4
+Cochabamba,31401,Punata,2007,10,TOTAL,39
+Cochabamba,30901,Quillacollo,2007,10,TOTAL,57
+Beni,80301,Reyes,2007,10,TOTAL,3
+Beni,80201,Riberalta,2007,10,TOTAL,232
+Santa Cruz,70503,Robore,2007,10,TOTAL,1
+Beni,80304,Rurrenabaque,2007,10,TOTAL,22
+Cochabamba,31001,Sacaba,2007,10,TOTAL,2
+Potosí,50701,Sacaca,2007,10,TOTAL,1
+La Paz,21502,San Buena Ventura,2007,10,TOTAL,5
+Santa Cruz,70402,San Carlos,2007,10,TOTAL,22
+Santa Cruz,70301,San Ignacio De Velasco,2007,10,TOTAL,19
+Beni,80701,San Joaquin,2007,10,TOTAL,4
+Santa Cruz,70404,San Juan De Yapacani,2007,10,TOTAL,7
+Santa Cruz,71104,San Julian,2007,10,TOTAL,5
+Chuquisaca,10702,San Lucas,2007,10,TOTAL,10
+Santa Cruz,71201,San Matias,2007,10,TOTAL,7
+Beni,80702,San Ramon,2007,10,TOTAL,2
+Beni,80401,Santa Ana,2007,10,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,TOTAL,99
+Beni,80303,Santa Rosa,2007,10,TOTAL,7
+Chuquisaca,10403,Sopachuy,2007,10,TOTAL,6
+Chuquisaca,10101,Sucre,2007,10,TOTAL,78
+Chuquisaca,10601,Tarabuco,2007,10,TOTAL,16
+Tarija,60101,Tarija,2007,10,TOTAL,212
+La Paz,20803,Tiawanacu,2007,10,TOTAL,1
+La Paz,20606,Tipuani,2007,10,TOTAL,1
+Cochabamba,30903,Tiquipaya,2007,10,TOTAL,3
+Cochabamba,31201,Totora(cbba),2007,10,TOTAL,3
+Potosí,50801,Tupiza,2007,10,TOTAL,71
+Potosí,50201,Uncia,2007,10,TOTAL,2
+Potosí,51201,Uyuni,2007,10,TOTAL,1
+Santa Cruz,70801,Vallegrande,2007,10,TOTAL,5
+Tarija,60303,Villa Montes,2007,10,TOTAL,23
+Chuquisaca,10801,Villa Serrano,2007,10,TOTAL,3
+Cochabamba,31003,Villa Tunari,2007,10,TOTAL,14
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,10,TOTAL,1
+Potosí,51501,Villazon,2007,10,TOTAL,18
+Potosí,50602,Vitichi,2007,10,TOTAL,3
+Santa Cruz,70201,Warnes,2007,10,TOTAL,4
+Tarija,60301,Yacuiba,2007,10,TOTAL,19
+Santa Cruz,70403,Yapacani,2007,10,TOTAL,5
+Chuquisaca,10102,Yotala,2007,10,TOTAL,1
+Chuquisaca,10301,Zudañez,2007,10,TOTAL,2
+Potosí,51302,Acacio,2007,11,TOTAL,5
+Cochabamba,30201,Aiquile,2007,11,TOTAL,12
+La Paz,20701,Apolo,2007,11,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2007,11,TOTAL,7
+Potosí,50802,Atocha,2007,11,TOTAL,35
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,11,TOTAL,3
+Chuquisaca,10201,Azurduy,2007,11,TOTAL,3
+Tarija,60202,Bermejo,2007,11,TOTAL,4
+Potosí,50301,Betanzos,2007,11,TOTAL,6
+Santa Cruz,70707,Boyuibe,2007,11,TOTAL,1
+Santa Cruz,70703,Cabezas,2007,11,TOTAL,1
+La Paz,21003,Cajuata,2007,11,TOTAL,1
+Chuquisaca,10701,Camargo,2007,11,TOTAL,4
+Santa Cruz,70706,Camiri,2007,11,TOTAL,28
+Cochabamba,30701,Capinota,2007,11,TOTAL,4
+La Paz,22001,Caranavi,2007,11,TOTAL,30
+Oruro,40201,Challapata,2007,11,TOTAL,4
+Santa Cruz,70702,Charagua,2007,11,TOTAL,8
+La Paz,20305,Charaña,2007,11,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2007,11,TOTAL,2
+Pando,90101,Cobija,2007,11,TOTAL,91
+Cochabamba,30101,Cochabamba,2007,11,TOTAL,22
+Cochabamba,31002,Colomi,2007,11,TOTAL,3
+Santa Cruz,71101,Concepcion,2007,11,TOTAL,1
+La Paz,21401,Coroico,2007,11,TOTAL,2
+Potosí,50601,Cotagaita,2007,11,TOTAL,2
+Santa Cruz,70102,Cotoca,2007,11,TOTAL,15
+Santa Cruz,71106,Cuatro Cañadas,2007,11,TOTAL,1
+Santa Cruz,70704,Cuevo,2007,11,TOTAL,1
+Chuquisaca,10902,Culpina,2007,11,TOTAL,1
+La Paz,20105,El Alto,2007,11,TOTAL,169
+Santa Cruz,70105,El Torno,2007,11,TOTAL,5
+Beni,80402,Exaltacion,2007,11,TOTAL,1
+La Paz,20602,Guanay,2007,11,TOTAL,2
+Beni,80202,Guayaramerin,2007,11,TOTAL,24
+Santa Cruz,70705,Gutierrez,2007,11,TOTAL,1
+Chuquisaca,10502,Huacareta,2007,11,TOTAL,10
+Santa Cruz,70104,La Guardia,2007,11,TOTAL,2
+La Paz,20101,La Paz,2007,11,TOTAL,1836
+Potosí,50203,Llallagua,2007,11,TOTAL,13
+Chuquisaca,11003,Machareti,2007,11,TOTAL,2
+Beni,80801,Magdalena,2007,11,TOTAL,8
+Santa Cruz,70903,Mairana,2007,11,TOTAL,5
+La Paz,20607,Mapiri,2007,11,TOTAL,1
+Cochabamba,31301,Mizque,2007,11,TOTAL,4
+Chuquisaca,10501,Monteagudo,2007,11,TOTAL,16
+Santa Cruz,71001,Montero,2007,11,TOTAL,61
+Potosí,50404,Ocuri,2007,11,TOTAL,8
+Cochabamba,30203,Omereque,2007,11,TOTAL,1
+Oruro,40101,Oruro,2007,11,TOTAL,216
+Chuquisaca,10401,Padilla,2007,11,TOTAL,24
+La Paz,21104,Palos Blancos,2007,11,TOTAL,4
+La Paz,21305,Patacamaya,2007,11,TOTAL,1
+Potosí,50403,Pocoata,2007,11,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,11,TOTAL,7
+Potosí,50101,Potosi,2007,11,TOTAL,49
+La Paz,20401,Puerto Acosta,2007,11,TOTAL,42
+Beni,80703,Puerto Siles,2007,11,TOTAL,3
+Santa Cruz,71401,Puerto Suarez,2007,11,TOTAL,13
+Cochabamba,31205,Puerto Villarroel,2007,11,TOTAL,12
+Potosí,51101,Puna,2007,11,TOTAL,2
+Cochabamba,31401,Punata,2007,11,TOTAL,25
+Cochabamba,30901,Quillacollo,2007,11,TOTAL,7
+Beni,80301,Reyes,2007,11,TOTAL,2
+Beni,80201,Riberalta,2007,11,TOTAL,79
+Beni,80304,Rurrenabaque,2007,11,TOTAL,18
+Potosí,50701,Sacaca,2007,11,TOTAL,2
+Santa Cruz,70901,Samaipata,2007,11,TOTAL,1
+La Paz,21502,San Buena Ventura,2007,11,TOTAL,2
+Santa Cruz,70402,San Carlos,2007,11,TOTAL,26
+Beni,80501,San Ignacio,2007,11,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,TOTAL,12
+Beni,80701,San Joaquin,2007,11,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,11,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2007,11,TOTAL,2
+Santa Cruz,71104,San Julian,2007,11,TOTAL,6
+Chuquisaca,10702,San Lucas,2007,11,TOTAL,10
+Beni,80702,San Ramon,2007,11,TOTAL,1
+Beni,80702,San Ramon,2007,11,TOTAL,2
+Beni,80401,Santa Ana,2007,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,TOTAL,75
+Beni,80303,Santa Rosa,2007,11,TOTAL,1
+Santa Cruz,70602,Santa Rosa Del Sara,2007,11,TOTAL,2
+Chuquisaca,10403,Sopachuy,2007,11,TOTAL,13
+La Paz,20601,Sorata,2007,11,TOTAL,2
+Chuquisaca,10101,Sucre,2007,11,TOTAL,81
+Chuquisaca,10601,Tarabuco,2007,11,TOTAL,12
+Tarija,60101,Tarija,2007,11,TOTAL,162
+Potosí,50801,Tupiza,2007,11,TOTAL,27
+Potosí,50201,Uncia,2007,11,TOTAL,29
+Potosí,51201,Uyuni,2007,11,TOTAL,2
+Santa Cruz,70801,Vallegrande,2007,11,TOTAL,2
+Tarija,60303,Villa Montes,2007,11,TOTAL,22
+Cochabamba,31003,Villa Tunari,2007,11,TOTAL,15
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,11,TOTAL,1
+Potosí,51501,Villazon,2007,11,TOTAL,7
+Potosí,50602,Vitichi,2007,11,TOTAL,1
+Santa Cruz,70201,Warnes,2007,11,TOTAL,12
+Tarija,60301,Yacuiba,2007,11,TOTAL,96
+Santa Cruz,70403,Yapacani,2007,11,TOTAL,2
+Chuquisaca,10102,Yotala,2007,11,TOTAL,2
+Chuquisaca,10301,Zudañez,2007,11,TOTAL,1
+Cochabamba,30201,Aiquile,2007,12,TOTAL,4
+La Paz,20701,Apolo,2007,12,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,TOTAL,8
+Potosí,50802,Atocha,2007,12,TOTAL,47
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,12,TOTAL,3
+Beni,80802,Baures,2007,12,TOTAL,1
+Tarija,60202,Bermejo,2007,12,TOTAL,8
+Potosí,50301,Betanzos,2007,12,TOTAL,5
+Santa Cruz,70703,Cabezas,2007,12,TOTAL,4
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,12,TOTAL,1
+Santa Cruz,70706,Camiri,2007,12,TOTAL,13
+Cochabamba,30701,Capinota,2007,12,TOTAL,3
+La Paz,22001,Caranavi,2007,12,TOTAL,20
+Oruro,40201,Challapata,2007,12,TOTAL,4
+Santa Cruz,70702,Charagua,2007,12,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,12,TOTAL,5
+Pando,90101,Cobija,2007,12,TOTAL,71
+Cochabamba,30101,Cochabamba,2007,12,TOTAL,39
+Cochabamba,30905,Colcapirhua,2007,12,TOTAL,3
+Santa Cruz,71301,Comarapa,2007,12,TOTAL,2
+La Paz,21701,Copacabana,2007,12,TOTAL,1
+La Paz,21402,Coripata,2007,12,TOTAL,1
+La Paz,21401,Coroico,2007,12,TOTAL,6
+Santa Cruz,70102,Cotoca,2007,12,TOTAL,14
+La Paz,20105,El Alto,2007,12,TOTAL,165
+Santa Cruz,70105,El Torno,2007,12,TOTAL,5
+Chuquisaca,10405,El Villar,2007,12,TOTAL,1
+Oruro,41101,Eucaliptus,2007,12,TOTAL,1
+Beni,80202,Guayaramerin,2007,12,TOTAL,11
+Santa Cruz,70705,Gutierrez,2007,12,TOTAL,3
+Chuquisaca,10502,Huacareta,2007,12,TOTAL,2
+Oruro,40701,Huanuni,2007,12,TOTAL,1
+La Paz,21105,La Asunta,2007,12,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,12,TOTAL,7
+La Paz,20101,La Paz,2007,12,TOTAL,1623
+Potosí,50203,Llallagua,2007,12,TOTAL,11
+Potosí,51401,Llica,2007,12,TOTAL,1
+Beni,80801,Magdalena,2007,12,TOTAL,8
+Santa Cruz,70903,Mairana,2007,12,TOTAL,4
+La Paz,20607,Mapiri,2007,12,TOTAL,1
+Cochabamba,31301,Mizque,2007,12,TOTAL,4
+Chuquisaca,10501,Monteagudo,2007,12,TOTAL,11
+Santa Cruz,71001,Montero,2007,12,TOTAL,74
+Potosí,50404,Ocuri,2007,12,TOTAL,14
+Cochabamba,30203,Omereque,2007,12,TOTAL,1
+Oruro,40101,Oruro,2007,12,TOTAL,128
+Chuquisaca,10401,Padilla,2007,12,TOTAL,31
+Santa Cruz,70502,Pailon,2007,12,TOTAL,4
+La Paz,21104,Palos Blancos,2007,12,TOTAL,4
+Potosí,50403,Pocoata,2007,12,TOTAL,1
+Santa Cruz,70601,Portachuelo,2007,12,TOTAL,4
+Potosí,50101,Potosi,2007,12,TOTAL,53
+Chuquisaca,10302,Presto,2007,12,TOTAL,1
+La Paz,20401,Puerto Acosta,2007,12,TOTAL,42
+Pando,90201,Puerto Rico,2007,12,TOTAL,2
+Beni,80703,Puerto Siles,2007,12,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2007,12,TOTAL,18
+Cochabamba,31205,Puerto Villarroel,2007,12,TOTAL,20
+Cochabamba,31401,Punata,2007,12,TOTAL,18
+Cochabamba,30901,Quillacollo,2007,12,TOTAL,23
+Beni,80201,Riberalta,2007,12,TOTAL,293
+Beni,80304,Rurrenabaque,2007,12,TOTAL,14
+Cochabamba,31001,Sacaba,2007,12,TOTAL,1
+Potosí,50701,Sacaca,2007,12,TOTAL,1
+Santa Cruz,70901,Samaipata,2007,12,TOTAL,1
+Beni,80302,San Borja,2007,12,TOTAL,2
+Santa Cruz,70402,San Carlos,2007,12,TOTAL,15
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,TOTAL,10
+Beni,80701,San Joaquin,2007,12,TOTAL,1
+Santa Cruz,71104,San Julian,2007,12,TOTAL,6
+Tarija,60501,San Lorenzo(tja),2007,12,TOTAL,3
+Chuquisaca,10702,San Lucas,2007,12,TOTAL,8
+Santa Cruz,70303,San Rafael,2007,12,TOTAL,1
+Beni,80702,San Ramon,2007,12,TOTAL,3
+Beni,80401,Santa Ana,2007,12,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL,119
+Beni,80303,Santa Rosa,2007,12,TOTAL,1
+Chuquisaca,10403,Sopachuy,2007,12,TOTAL,11
+Chuquisaca,10101,Sucre,2007,12,TOTAL,77
+Chuquisaca,10601,Tarabuco,2007,12,TOTAL,13
+Cochabamba,30401,Tarata,2007,12,TOTAL,1
+Tarija,60101,Tarija,2007,12,TOTAL,155
+La Paz,20606,Tipuani,2007,12,TOTAL,3
+Cochabamba,31201,Totora(cbba),2007,12,TOTAL,2
+Potosí,50801,Tupiza,2007,12,TOTAL,53
+Potosí,50201,Uncia,2007,12,TOTAL,1
+Potosí,51201,Uyuni,2007,12,TOTAL,6
+Santa Cruz,70801,Vallegrande,2007,12,TOTAL,3
+Tarija,60303,Villa Montes,2007,12,TOTAL,17
+Chuquisaca,10801,Villa Serrano,2007,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,12,TOTAL,9
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,12,TOTAL,3
+Potosí,51501,Villazon,2007,12,TOTAL,8
+Potosí,50602,Vitichi,2007,12,TOTAL,1
+Santa Cruz,70201,Warnes,2007,12,TOTAL,11
+Tarija,60301,Yacuiba,2007,12,TOTAL,9
+Santa Cruz,70403,Yapacani,2007,12,TOTAL,6
+Chuquisaca,10102,Yotala,2007,12,TOTAL,3

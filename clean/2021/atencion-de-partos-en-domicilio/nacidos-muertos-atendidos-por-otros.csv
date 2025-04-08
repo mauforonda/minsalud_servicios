@@ -1,0 +1,65 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70105,El Torno,2021,1,Nacidos muertos atendidos por otros,1
+Potosí,50201,Uncia,2021,1,Nacidos muertos atendidos por otros,1
+Cochabamba,31001,Sacaba,2021,3,Nacidos muertos atendidos por otros,1
+Pando,90203,Filadelfia,2021,4,Nacidos muertos atendidos por otros,1
+Santa Cruz,70501,San Jose De Chiquitos,2021,4,Nacidos muertos atendidos por otros,2
+Santa Cruz,71201,San Matias,2021,4,Nacidos muertos atendidos por otros,2
+La Paz,20404,Humanata,2021,5,Nacidos muertos atendidos por otros,1
+Beni,80301,Reyes,2021,5,Nacidos muertos atendidos por otros,1
+Beni,80302,San Borja,2021,5,Nacidos muertos atendidos por otros,1
+La Paz,20105,El Alto,2021,6,Nacidos muertos atendidos por otros,2
+La Paz,20403,Puerto Carabuco,2021,6,Nacidos muertos atendidos por otros,1
+Potosí,51201,Uyuni,2021,6,Nacidos muertos atendidos por otros,1
+Cochabamba,31003,Villa Tunari,2021,6,Nacidos muertos atendidos por otros,1
+La Paz,20701,Apolo,2021,7,Nacidos muertos atendidos por otros,1
+Oruro,40101,Oruro,2021,7,Nacidos muertos atendidos por otros,2
+Cochabamba,31201,Totora(cbba),2021,8,Nacidos muertos atendidos por otros,1
+La Paz,20306,Waldo Ballivian,2021,8,Nacidos muertos atendidos por otros,1
+Oruro,40701,Huanuni,2021,9,Nacidos muertos atendidos por otros,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,Nacidos muertos atendidos por otros,1
+Chuquisaca,10702,San Lucas,2021,9,Nacidos muertos atendidos por otros,1
+La Paz,20301,Coro Coro,2021,10,Nacidos muertos atendidos por otros,1
+Cochabamba,31206,Entre Rios Cbba,2021,10,Nacidos muertos atendidos por otros,3
+La Paz,20403,Puerto Carabuco,2021,10,Nacidos muertos atendidos por otros,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,10,Nacidos muertos atendidos por otros,1
+Cochabamba,30701,Capinota,2021,11,Nacidos muertos atendidos por otros,1
+Potosí,50404,Ocuri,2021,11,Nacidos muertos atendidos por otros,1
+Santa Cruz,70303,San Rafael,2021,11,Nacidos muertos atendidos por otros,1
+Potosí,50303,Tacobamba,2021,11,Nacidos muertos atendidos por otros,1
+Potosí,50801,Tupiza,2021,11,Nacidos muertos atendidos por otros,1
+Cochabamba,30302,Morochata,2021,12,Nacidos muertos atendidos por otros,1
+Cochabamba,31201,Totora(cbba),2021,12,Nacidos muertos atendidos por otros,1
+Tarija,60402,Yunchara,2021,12,Nacidos muertos atendidos por otros,1
+Santa Cruz,70105,El Torno,2021,1,TOTAL,1
+Potosí,50201,Uncia,2021,1,TOTAL,1
+Cochabamba,31001,Sacaba,2021,3,TOTAL,1
+Pando,90203,Filadelfia,2021,4,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2021,4,TOTAL,2
+Santa Cruz,71201,San Matias,2021,4,TOTAL,2
+La Paz,20404,Humanata,2021,5,TOTAL,1
+Beni,80301,Reyes,2021,5,TOTAL,1
+Beni,80302,San Borja,2021,5,TOTAL,1
+La Paz,20105,El Alto,2021,6,TOTAL,2
+La Paz,20403,Puerto Carabuco,2021,6,TOTAL,1
+Potosí,51201,Uyuni,2021,6,TOTAL,1
+Cochabamba,31003,Villa Tunari,2021,6,TOTAL,1
+La Paz,20701,Apolo,2021,7,TOTAL,1
+Oruro,40101,Oruro,2021,7,TOTAL,2
+Cochabamba,31201,Totora(cbba),2021,8,TOTAL,1
+La Paz,20306,Waldo Ballivian,2021,8,TOTAL,1
+Oruro,40701,Huanuni,2021,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,9,TOTAL,1
+La Paz,20301,Coro Coro,2021,10,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2021,10,TOTAL,3
+La Paz,20403,Puerto Carabuco,2021,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,10,TOTAL,1
+Cochabamba,30701,Capinota,2021,11,TOTAL,1
+Potosí,50404,Ocuri,2021,11,TOTAL,1
+Santa Cruz,70303,San Rafael,2021,11,TOTAL,1
+Potosí,50303,Tacobamba,2021,11,TOTAL,1
+Potosí,50801,Tupiza,2021,11,TOTAL,1
+Cochabamba,30302,Morochata,2021,12,TOTAL,1
+Cochabamba,31201,Totora(cbba),2021,12,TOTAL,1
+Tarija,60402,Yunchara,2021,12,TOTAL,1

@@ -1,0 +1,3435 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,51302,Acacio,2021,1,RN con alojamiento conjunto,3
+La Paz,20201,Achacachi,2021,1,RN con alojamiento conjunto,34
+Cochabamba,30201,Aiquile,2021,1,RN con alojamiento conjunto,26
+Chuquisaca,10404,Alcala,2021,1,RN con alojamiento conjunto,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,1,RN con alojamiento conjunto,42
+Potosí,50802,Atocha,2021,1,RN con alojamiento conjunto,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,1,RN con alojamiento conjunto,10
+Beni,80802,Baures,2021,1,RN con alojamiento conjunto,3
+Tarija,60202,Bermejo,2021,1,RN con alojamiento conjunto,40
+Potosí,50301,Betanzos,2021,1,RN con alojamiento conjunto,21
+Santa Cruz,70707,Boyuibe,2021,1,RN con alojamiento conjunto,2
+Santa Cruz,70401,Buena Vista,2021,1,RN con alojamiento conjunto,9
+Santa Cruz,70703,Cabezas,2021,1,RN con alojamiento conjunto,13
+Potosí,51102,"Caiza ""d""",2021,1,RN con alojamiento conjunto,6
+Chuquisaca,10701,Camargo,2021,1,RN con alojamiento conjunto,14
+Santa Cruz,70706,Camiri,2021,1,RN con alojamiento conjunto,7
+Cochabamba,30701,Capinota,2021,1,RN con alojamiento conjunto,9
+Oruro,40102,Caracollo,2021,1,RN con alojamiento conjunto,10
+La Paz,22001,Caranavi,2021,1,RN con alojamiento conjunto,60
+Tarija,60302,Carapari,2021,1,RN con alojamiento conjunto,2
+Potosí,50702,Caripuyo,2021,1,RN con alojamiento conjunto,1
+Santa Cruz,71403,Carmen Rivero Torrez,2021,1,RN con alojamiento conjunto,4
+Oruro,40201,Challapata,2021,1,RN con alojamiento conjunto,34
+Potosí,50302,Chaqui,2021,1,RN con alojamiento conjunto,3
+Santa Cruz,70702,Charagua,2021,1,RN con alojamiento conjunto,3
+Potosí,50202,Chayanta,2021,1,RN con alojamiento conjunto,4
+La Paz,21101,Chulumani (v. De La Libertad),2021,1,RN con alojamiento conjunto,11
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,1,RN con alojamiento conjunto,8
+Potosí,51103,Ckochas,2021,1,RN con alojamiento conjunto,3
+Cochabamba,30801,Cliza,2021,1,RN con alojamiento conjunto,35
+Pando,90101,Cobija,2021,1,RN con alojamiento conjunto,93
+Cochabamba,30101,Cochabamba,2021,1,RN con alojamiento conjunto,729
+Cochabamba,30905,Colcapirhua,2021,1,RN con alojamiento conjunto,25
+Potosí,50901,"Colcha ""k""",2021,1,RN con alojamiento conjunto,1
+Santa Cruz,71301,Comarapa,2021,1,RN con alojamiento conjunto,30
+Santa Cruz,71101,Concepcion,2021,1,RN con alojamiento conjunto,32
+La Paz,21401,Coroico,2021,1,RN con alojamiento conjunto,10
+Potosí,50601,Cotagaita,2021,1,RN con alojamiento conjunto,1
+Santa Cruz,70102,Cotoca,2021,1,RN con alojamiento conjunto,52
+Santa Cruz,71106,Cuatro Cañadas,2021,1,RN con alojamiento conjunto,25
+Chuquisaca,10902,Culpina,2021,1,RN con alojamiento conjunto,4
+La Paz,20105,El Alto,2021,1,RN con alojamiento conjunto,721
+Santa Cruz,71503,El Puente(stc),2021,1,RN con alojamiento conjunto,2
+Santa Cruz,70105,El Torno,2021,1,RN con alojamiento conjunto,96
+Chuquisaca,10405,El Villar,2021,1,RN con alojamiento conjunto,5
+Tarija,60601,Entre Rios Trj,2021,1,RN con alojamiento conjunto,11
+Cochabamba,31206,Entre Rios Cbba,2021,1,RN con alojamiento conjunto,5
+La Paz,20405,Escoma,2021,1,RN con alojamiento conjunto,2
+Santa Cruz,71004,Fernandez Alonso,2021,1,RN con alojamiento conjunto,2
+Pando,90203,Filadelfia,2021,1,RN con alojamiento conjunto,1
+Beni,80202,Guayaramerin,2021,1,RN con alojamiento conjunto,71
+Oruro,40701,Huanuni,2021,1,RN con alojamiento conjunto,13
+Beni,80803,Huaracaje,2021,1,RN con alojamiento conjunto,1
+Santa Cruz,70104,La Guardia,2021,1,RN con alojamiento conjunto,47
+La Paz,20101,La Paz,2021,1,RN con alojamiento conjunto,764
+Santa Cruz,70701,Lagunillas,2021,1,RN con alojamiento conjunto,1
+Chuquisaca,10903,Las Carreras,2021,1,RN con alojamiento conjunto,1
+Potosí,50203,Llallagua,2021,1,RN con alojamiento conjunto,39
+Potosí,51401,Llica,2021,1,RN con alojamiento conjunto,8
+Beni,80601,Loreto,2021,1,RN con alojamiento conjunto,1
+Beni,80801,Magdalena,2021,1,RN con alojamiento conjunto,8
+Santa Cruz,70903,Mairana,2021,1,RN con alojamiento conjunto,7
+Cochabamba,31301,Mizque,2021,1,RN con alojamiento conjunto,13
+Chuquisaca,10501,Monteagudo,2021,1,RN con alojamiento conjunto,30
+Santa Cruz,71001,Montero,2021,1,RN con alojamiento conjunto,286
+Potosí,50404,Ocuri,2021,1,RN con alojamiento conjunto,4
+Oruro,40101,Oruro,2021,1,RN con alojamiento conjunto,351
+Chuquisaca,10401,Padilla,2021,1,RN con alojamiento conjunto,13
+Santa Cruz,70502,Pailon,2021,1,RN con alojamiento conjunto,40
+Santa Cruz,70902,Pampa Grande,2021,1,RN con alojamiento conjunto,4
+La Paz,21305,Patacamaya,2021,1,RN con alojamiento conjunto,30
+Potosí,51203,Porco,2021,1,RN con alojamiento conjunto,8
+Santa Cruz,70601,Portachuelo,2021,1,RN con alojamiento conjunto,17
+Pando,90102,Porvenir,2021,1,RN con alojamiento conjunto,2
+Potosí,50101,Potosi,2021,1,RN con alojamiento conjunto,307
+Santa Cruz,71402,Puerto Quijarro,2021,1,RN con alojamiento conjunto,10
+Pando,90201,Puerto Rico,2021,1,RN con alojamiento conjunto,11
+Santa Cruz,71401,Puerto Suarez,2021,1,RN con alojamiento conjunto,33
+Cochabamba,31205,Puerto Villarroel,2021,1,RN con alojamiento conjunto,104
+Cochabamba,31401,Punata,2021,1,RN con alojamiento conjunto,62
+Cochabamba,30901,Quillacollo,2021,1,RN con alojamiento conjunto,160
+Beni,80301,Reyes,2021,1,RN con alojamiento conjunto,11
+Beni,80201,Riberalta,2021,1,RN con alojamiento conjunto,222
+Santa Cruz,70503,Robore,2021,1,RN con alojamiento conjunto,21
+Beni,80304,Rurrenabaque,2021,1,RN con alojamiento conjunto,35
+Cochabamba,31001,Sacaba,2021,1,RN con alojamiento conjunto,185
+Potosí,50701,Sacaca,2021,1,RN con alojamiento conjunto,13
+Santa Cruz,71302,Saipina,2021,1,RN con alojamiento conjunto,2
+Beni,80602,San Andres,2021,1,RN con alojamiento conjunto,1
+Beni,80302,San Borja,2021,1,RN con alojamiento conjunto,49
+Santa Cruz,70402,San Carlos,2021,1,RN con alojamiento conjunto,8
+Beni,80501,San Ignacio,2021,1,RN con alojamiento conjunto,20
+Santa Cruz,70301,San Ignacio De Velasco,2021,1,RN con alojamiento conjunto,39
+Santa Cruz,71102,San Javier(stc),2021,1,RN con alojamiento conjunto,29
+Beni,80701,San Joaquin,2021,1,RN con alojamiento conjunto,6
+Santa Cruz,70501,San Jose De Chiquitos,2021,1,RN con alojamiento conjunto,17
+Santa Cruz,70404,San Juan De Yapacani,2021,1,RN con alojamiento conjunto,1
+Santa Cruz,71104,San Julian,2021,1,RN con alojamiento conjunto,46
+Pando,90302,San Lorenzo(pnd),2021,1,RN con alojamiento conjunto,4
+Tarija,60501,San Lorenzo(tja),2021,1,RN con alojamiento conjunto,12
+Chuquisaca,10702,San Lucas,2021,1,RN con alojamiento conjunto,26
+Santa Cruz,71201,San Matias,2021,1,RN con alojamiento conjunto,15
+Santa Cruz,70302,San Miguel De Velasco,2021,1,RN con alojamiento conjunto,15
+Santa Cruz,70303,San Rafael,2021,1,RN con alojamiento conjunto,12
+Beni,80702,San Ramon Beni,2021,1,RN con alojamiento conjunto,6
+Santa Cruz,71103,San Ramon Scz,2021,1,RN con alojamiento conjunto,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,1,RN con alojamiento conjunto,1495
+Beni,80303,Santa Rosa,2021,1,RN con alojamiento conjunto,9
+Santa Cruz,70602,Santa Rosa Del Sara,2021,1,RN con alojamiento conjunto,6
+Oruro,40202,Santuario De Quillacas,2021,1,RN con alojamiento conjunto,4
+Pando,90303,Sena,2021,1,RN con alojamiento conjunto,11
+Chuquisaca,10403,Sopachuy,2021,1,RN con alojamiento conjunto,9
+Chuquisaca,10101,Sucre,2021,1,RN con alojamiento conjunto,213
+Chuquisaca,10601,Tarabuco,2021,1,RN con alojamiento conjunto,7
+Tarija,60101,Tarija,2021,1,RN con alojamiento conjunto,293
+Cochabamba,30903,Tiquipaya,2021,1,RN con alojamiento conjunto,37
+Potosí,51202,Tomave,2021,1,RN con alojamiento conjunto,3
+Chuquisaca,10402,Tomina,2021,1,RN con alojamiento conjunto,6
+Cochabamba,31201,Totora(cbba),2021,1,RN con alojamiento conjunto,24
+Beni,80101,Trinidad,2021,1,RN con alojamiento conjunto,189
+Potosí,50801,Tupiza,2021,1,RN con alojamiento conjunto,36
+Potosí,50201,Uncia,2021,1,RN con alojamiento conjunto,6
+Santa Cruz,71502,Urubicha,2021,1,RN con alojamiento conjunto,3
+Potosí,51201,Uyuni,2021,1,RN con alojamiento conjunto,23
+Santa Cruz,70801,Vallegrande,2021,1,RN con alojamiento conjunto,15
+La Paz,20801,Viacha,2021,1,RN con alojamiento conjunto,35
+Tarija,60303,Villa Montes,2021,1,RN con alojamiento conjunto,63
+Chuquisaca,10801,Villa Serrano,2021,1,RN con alojamiento conjunto,2
+Cochabamba,31003,Villa Tunari,2021,1,RN con alojamiento conjunto,84
+Potosí,51501,Villazon,2021,1,RN con alojamiento conjunto,34
+Cochabamba,30904,Vinto,2021,1,RN con alojamiento conjunto,34
+Potosí,50602,Vitichi,2021,1,RN con alojamiento conjunto,5
+Santa Cruz,70201,Warnes,2021,1,RN con alojamiento conjunto,13
+Tarija,60301,Yacuiba,2021,1,RN con alojamiento conjunto,101
+Santa Cruz,70403,Yapacani,2021,1,RN con alojamiento conjunto,69
+Potosí,51302,Acacio,2021,2,RN con alojamiento conjunto,1
+La Paz,20201,Achacachi,2021,2,RN con alojamiento conjunto,34
+Cochabamba,30201,Aiquile,2021,2,RN con alojamiento conjunto,31
+Chuquisaca,10404,Alcala,2021,2,RN con alojamiento conjunto,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,2,RN con alojamiento conjunto,46
+Potosí,50802,Atocha,2021,2,RN con alojamiento conjunto,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,2,RN con alojamiento conjunto,14
+Beni,80802,Baures,2021,2,RN con alojamiento conjunto,5
+Pando,90104,Bella Flor,2021,2,RN con alojamiento conjunto,3
+Tarija,60202,Bermejo,2021,2,RN con alojamiento conjunto,44
+Potosí,50301,Betanzos,2021,2,RN con alojamiento conjunto,21
+Pando,90103,Bolpebra,2021,2,RN con alojamiento conjunto,2
+Santa Cruz,70707,Boyuibe,2021,2,RN con alojamiento conjunto,1
+Santa Cruz,70401,Buena Vista,2021,2,RN con alojamiento conjunto,7
+Santa Cruz,70703,Cabezas,2021,2,RN con alojamiento conjunto,21
+Potosí,51102,"Caiza ""d""",2021,2,RN con alojamiento conjunto,4
+Chuquisaca,10701,Camargo,2021,2,RN con alojamiento conjunto,23
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,2,RN con alojamiento conjunto,5
+Santa Cruz,70706,Camiri,2021,2,RN con alojamiento conjunto,9
+Cochabamba,30701,Capinota,2021,2,RN con alojamiento conjunto,13
+Oruro,40102,Caracollo,2021,2,RN con alojamiento conjunto,14
+La Paz,22001,Caranavi,2021,2,RN con alojamiento conjunto,56
+Tarija,60302,Carapari,2021,2,RN con alojamiento conjunto,2
+Potosí,50702,Caripuyo,2021,2,RN con alojamiento conjunto,5
+Santa Cruz,71403,Carmen Rivero Torrez,2021,2,RN con alojamiento conjunto,5
+Oruro,40201,Challapata,2021,2,RN con alojamiento conjunto,36
+Potosí,50302,Chaqui,2021,2,RN con alojamiento conjunto,3
+Santa Cruz,70702,Charagua,2021,2,RN con alojamiento conjunto,2
+La Paz,21101,Chulumani (v. De La Libertad),2021,2,RN con alojamiento conjunto,13
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,2,RN con alojamiento conjunto,2
+Potosí,51103,Ckochas,2021,2,RN con alojamiento conjunto,1
+Cochabamba,30801,Cliza,2021,2,RN con alojamiento conjunto,25
+Pando,90101,Cobija,2021,2,RN con alojamiento conjunto,92
+Cochabamba,30101,Cochabamba,2021,2,RN con alojamiento conjunto,669
+Cochabamba,30905,Colcapirhua,2021,2,RN con alojamiento conjunto,32
+Potosí,50901,"Colcha ""k""",2021,2,RN con alojamiento conjunto,6
+Santa Cruz,71301,Comarapa,2021,2,RN con alojamiento conjunto,24
+Santa Cruz,71101,Concepcion,2021,2,RN con alojamiento conjunto,33
+La Paz,21401,Coroico,2021,2,RN con alojamiento conjunto,14
+Potosí,50601,Cotagaita,2021,2,RN con alojamiento conjunto,1
+Santa Cruz,70102,Cotoca,2021,2,RN con alojamiento conjunto,58
+Santa Cruz,71106,Cuatro Cañadas,2021,2,RN con alojamiento conjunto,16
+Chuquisaca,10902,Culpina,2021,2,RN con alojamiento conjunto,3
+La Paz,20105,El Alto,2021,2,RN con alojamiento conjunto,749
+Santa Cruz,71503,El Puente(stc),2021,2,RN con alojamiento conjunto,11
+Santa Cruz,70105,El Torno,2021,2,RN con alojamiento conjunto,76
+Chuquisaca,10405,El Villar,2021,2,RN con alojamiento conjunto,2
+Cochabamba,31206,Entre Rios Cbba,2021,2,RN con alojamiento conjunto,22
+La Paz,20405,Escoma,2021,2,RN con alojamiento conjunto,5
+Santa Cruz,71004,Fernandez Alonso,2021,2,RN con alojamiento conjunto,8
+Pando,90203,Filadelfia,2021,2,RN con alojamiento conjunto,3
+Beni,80202,Guayaramerin,2021,2,RN con alojamiento conjunto,34
+Oruro,40501,Huachacalla,2021,2,RN con alojamiento conjunto,1
+Oruro,40701,Huanuni,2021,2,RN con alojamiento conjunto,19
+Beni,80803,Huaracaje,2021,2,RN con alojamiento conjunto,1
+Pando,90402,Ingavi (humaita),2021,2,RN con alojamiento conjunto,1
+Santa Cruz,70104,La Guardia,2021,2,RN con alojamiento conjunto,64
+La Paz,20101,La Paz,2021,2,RN con alojamiento conjunto,697
+Santa Cruz,70701,Lagunillas,2021,2,RN con alojamiento conjunto,4
+Chuquisaca,10903,Las Carreras,2021,2,RN con alojamiento conjunto,2
+Potosí,50203,Llallagua,2021,2,RN con alojamiento conjunto,32
+Potosí,51401,Llica,2021,2,RN con alojamiento conjunto,3
+Chuquisaca,11003,Machareti,2021,2,RN con alojamiento conjunto,1
+Beni,80801,Magdalena,2021,2,RN con alojamiento conjunto,8
+Santa Cruz,70903,Mairana,2021,2,RN con alojamiento conjunto,8
+Cochabamba,31301,Mizque,2021,2,RN con alojamiento conjunto,9
+Chuquisaca,10501,Monteagudo,2021,2,RN con alojamiento conjunto,27
+Santa Cruz,71001,Montero,2021,2,RN con alojamiento conjunto,178
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,2,RN con alojamiento conjunto,3
+Potosí,50404,Ocuri,2021,2,RN con alojamiento conjunto,6
+Oruro,40101,Oruro,2021,2,RN con alojamiento conjunto,342
+Chuquisaca,10401,Padilla,2021,2,RN con alojamiento conjunto,11
+Santa Cruz,70502,Pailon,2021,2,RN con alojamiento conjunto,34
+Santa Cruz,70902,Pampa Grande,2021,2,RN con alojamiento conjunto,3
+La Paz,21305,Patacamaya,2021,2,RN con alojamiento conjunto,24
+Potosí,51203,Porco,2021,2,RN con alojamiento conjunto,9
+Chuquisaca,10103,Poroma,2021,2,RN con alojamiento conjunto,1
+Santa Cruz,70103,Porongo,2021,2,RN con alojamiento conjunto,2
+Santa Cruz,70601,Portachuelo,2021,2,RN con alojamiento conjunto,26
+Pando,90102,Porvenir,2021,2,RN con alojamiento conjunto,1
+Potosí,50101,Potosi,2021,2,RN con alojamiento conjunto,282
+Pando,90301,Puerto Gonzalo Moreno,2021,2,RN con alojamiento conjunto,1
+Santa Cruz,71402,Puerto Quijarro,2021,2,RN con alojamiento conjunto,9
+Pando,90201,Puerto Rico,2021,2,RN con alojamiento conjunto,3
+Beni,80703,Puerto Siles,2021,2,RN con alojamiento conjunto,1
+Santa Cruz,71401,Puerto Suarez,2021,2,RN con alojamiento conjunto,41
+Cochabamba,31205,Puerto Villarroel,2021,2,RN con alojamiento conjunto,94
+Cochabamba,31401,Punata,2021,2,RN con alojamiento conjunto,64
+Cochabamba,30901,Quillacollo,2021,2,RN con alojamiento conjunto,170
+Beni,80301,Reyes,2021,2,RN con alojamiento conjunto,12
+Beni,80201,Riberalta,2021,2,RN con alojamiento conjunto,189
+Santa Cruz,70503,Robore,2021,2,RN con alojamiento conjunto,25
+Beni,80304,Rurrenabaque,2021,2,RN con alojamiento conjunto,34
+Cochabamba,31001,Sacaba,2021,2,RN con alojamiento conjunto,183
+Santa Cruz,71302,Saipina,2021,2,RN con alojamiento conjunto,2
+Beni,80302,San Borja,2021,2,RN con alojamiento conjunto,55
+Santa Cruz,70402,San Carlos,2021,2,RN con alojamiento conjunto,2
+Beni,80501,San Ignacio,2021,2,RN con alojamiento conjunto,23
+Santa Cruz,70301,San Ignacio De Velasco,2021,2,RN con alojamiento conjunto,64
+Santa Cruz,71102,San Javier(stc),2021,2,RN con alojamiento conjunto,20
+Beni,80701,San Joaquin,2021,2,RN con alojamiento conjunto,8
+Santa Cruz,70501,San Jose De Chiquitos,2021,2,RN con alojamiento conjunto,38
+Santa Cruz,70404,San Juan De Yapacani,2021,2,RN con alojamiento conjunto,5
+Santa Cruz,71104,San Julian,2021,2,RN con alojamiento conjunto,45
+Pando,90302,San Lorenzo(pnd),2021,2,RN con alojamiento conjunto,1
+Tarija,60501,San Lorenzo(tja),2021,2,RN con alojamiento conjunto,9
+Chuquisaca,10702,San Lucas,2021,2,RN con alojamiento conjunto,21
+Santa Cruz,71201,San Matias,2021,2,RN con alojamiento conjunto,3
+Santa Cruz,70302,San Miguel De Velasco,2021,2,RN con alojamiento conjunto,14
+Santa Cruz,70303,San Rafael,2021,2,RN con alojamiento conjunto,6
+Beni,80702,San Ramon Beni,2021,2,RN con alojamiento conjunto,7
+Santa Cruz,71103,San Ramon Scz,2021,2,RN con alojamiento conjunto,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,2,RN con alojamiento conjunto,1460
+Beni,80303,Santa Rosa,2021,2,RN con alojamiento conjunto,18
+Santa Cruz,70602,Santa Rosa Del Sara,2021,2,RN con alojamiento conjunto,6
+Pando,90303,Sena,2021,2,RN con alojamiento conjunto,4
+Chuquisaca,10403,Sopachuy,2021,2,RN con alojamiento conjunto,9
+Chuquisaca,10101,Sucre,2021,2,RN con alojamiento conjunto,216
+Chuquisaca,10601,Tarabuco,2021,2,RN con alojamiento conjunto,10
+Tarija,60101,Tarija,2021,2,RN con alojamiento conjunto,288
+Cochabamba,30903,Tiquipaya,2021,2,RN con alojamiento conjunto,61
+Potosí,51202,Tomave,2021,2,RN con alojamiento conjunto,4
+Chuquisaca,10402,Tomina,2021,2,RN con alojamiento conjunto,5
+Cochabamba,31201,Totora(cbba),2021,2,RN con alojamiento conjunto,14
+Oruro,41301,Totora(orr),2021,2,RN con alojamiento conjunto,1
+Beni,80101,Trinidad,2021,2,RN con alojamiento conjunto,201
+Potosí,50801,Tupiza,2021,2,RN con alojamiento conjunto,49
+Potosí,50201,Uncia,2021,2,RN con alojamiento conjunto,9
+Santa Cruz,71502,Urubicha,2021,2,RN con alojamiento conjunto,4
+Potosí,51201,Uyuni,2021,2,RN con alojamiento conjunto,24
+Santa Cruz,70801,Vallegrande,2021,2,RN con alojamiento conjunto,14
+La Paz,20801,Viacha,2021,2,RN con alojamiento conjunto,29
+Tarija,60303,Villa Montes,2021,2,RN con alojamiento conjunto,70
+Chuquisaca,10801,Villa Serrano,2021,2,RN con alojamiento conjunto,3
+Cochabamba,31003,Villa Tunari,2021,2,RN con alojamiento conjunto,67
+Potosí,51501,Villazon,2021,2,RN con alojamiento conjunto,24
+Cochabamba,30904,Vinto,2021,2,RN con alojamiento conjunto,40
+Potosí,50602,Vitichi,2021,2,RN con alojamiento conjunto,3
+Santa Cruz,70201,Warnes,2021,2,RN con alojamiento conjunto,14
+Tarija,60301,Yacuiba,2021,2,RN con alojamiento conjunto,110
+Santa Cruz,70403,Yapacani,2021,2,RN con alojamiento conjunto,73
+Potosí,51302,Acacio,2021,3,RN con alojamiento conjunto,3
+La Paz,20201,Achacachi,2021,3,RN con alojamiento conjunto,36
+Cochabamba,30201,Aiquile,2021,3,RN con alojamiento conjunto,24
+Chuquisaca,10404,Alcala,2021,3,RN con alojamiento conjunto,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,3,RN con alojamiento conjunto,62
+Potosí,50802,Atocha,2021,3,RN con alojamiento conjunto,4
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,3,RN con alojamiento conjunto,12
+Beni,80802,Baures,2021,3,RN con alojamiento conjunto,5
+Pando,90104,Bella Flor,2021,3,RN con alojamiento conjunto,3
+Tarija,60202,Bermejo,2021,3,RN con alojamiento conjunto,37
+Potosí,50301,Betanzos,2021,3,RN con alojamiento conjunto,20
+Santa Cruz,70707,Boyuibe,2021,3,RN con alojamiento conjunto,5
+Santa Cruz,70401,Buena Vista,2021,3,RN con alojamiento conjunto,6
+Santa Cruz,70703,Cabezas,2021,3,RN con alojamiento conjunto,14
+Potosí,51102,"Caiza ""d""",2021,3,RN con alojamiento conjunto,5
+Chuquisaca,10701,Camargo,2021,3,RN con alojamiento conjunto,9
+Santa Cruz,70706,Camiri,2021,3,RN con alojamiento conjunto,11
+Cochabamba,30701,Capinota,2021,3,RN con alojamiento conjunto,22
+Oruro,40102,Caracollo,2021,3,RN con alojamiento conjunto,13
+La Paz,22001,Caranavi,2021,3,RN con alojamiento conjunto,71
+Tarija,60302,Carapari,2021,3,RN con alojamiento conjunto,1
+Potosí,50702,Caripuyo,2021,3,RN con alojamiento conjunto,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,3,RN con alojamiento conjunto,6
+Oruro,40201,Challapata,2021,3,RN con alojamiento conjunto,40
+Potosí,50302,Chaqui,2021,3,RN con alojamiento conjunto,3
+Santa Cruz,70702,Charagua,2021,3,RN con alojamiento conjunto,1
+Potosí,50202,Chayanta,2021,3,RN con alojamiento conjunto,8
+La Paz,21101,Chulumani (v. De La Libertad),2021,3,RN con alojamiento conjunto,21
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,3,RN con alojamiento conjunto,3
+Cochabamba,30801,Cliza,2021,3,RN con alojamiento conjunto,32
+Pando,90101,Cobija,2021,3,RN con alojamiento conjunto,85
+Cochabamba,30101,Cochabamba,2021,3,RN con alojamiento conjunto,772
+Cochabamba,30905,Colcapirhua,2021,3,RN con alojamiento conjunto,27
+Potosí,50901,"Colcha ""k""",2021,3,RN con alojamiento conjunto,5
+Santa Cruz,71301,Comarapa,2021,3,RN con alojamiento conjunto,24
+Santa Cruz,71101,Concepcion,2021,3,RN con alojamiento conjunto,33
+La Paz,21401,Coroico,2021,3,RN con alojamiento conjunto,19
+Potosí,50601,Cotagaita,2021,3,RN con alojamiento conjunto,11
+Santa Cruz,70102,Cotoca,2021,3,RN con alojamiento conjunto,55
+Santa Cruz,71106,Cuatro Cañadas,2021,3,RN con alojamiento conjunto,25
+Chuquisaca,10902,Culpina,2021,3,RN con alojamiento conjunto,1
+La Paz,20105,El Alto,2021,3,RN con alojamiento conjunto,876
+Santa Cruz,71503,El Puente(stc),2021,3,RN con alojamiento conjunto,6
+Santa Cruz,70105,El Torno,2021,3,RN con alojamiento conjunto,104
+Chuquisaca,10405,El Villar,2021,3,RN con alojamiento conjunto,2
+Tarija,60601,Entre Rios Trj,2021,3,RN con alojamiento conjunto,10
+Cochabamba,31206,Entre Rios Cbba,2021,3,RN con alojamiento conjunto,26
+La Paz,20405,Escoma,2021,3,RN con alojamiento conjunto,3
+Santa Cruz,71004,Fernandez Alonso,2021,3,RN con alojamiento conjunto,12
+Pando,90203,Filadelfia,2021,3,RN con alojamiento conjunto,3
+Beni,80202,Guayaramerin,2021,3,RN con alojamiento conjunto,54
+Oruro,40701,Huanuni,2021,3,RN con alojamiento conjunto,19
+Beni,80803,Huaracaje,2021,3,RN con alojamiento conjunto,6
+Chuquisaca,10703,Incahuasi,2021,3,RN con alojamiento conjunto,5
+Pando,90402,Ingavi (humaita),2021,3,RN con alojamiento conjunto,1
+Santa Cruz,70104,La Guardia,2021,3,RN con alojamiento conjunto,61
+La Paz,20101,La Paz,2021,3,RN con alojamiento conjunto,820
+Santa Cruz,70701,Lagunillas,2021,3,RN con alojamiento conjunto,7
+Chuquisaca,10903,Las Carreras,2021,3,RN con alojamiento conjunto,1
+Potosí,50203,Llallagua,2021,3,RN con alojamiento conjunto,35
+Potosí,51401,Llica,2021,3,RN con alojamiento conjunto,1
+Beni,80601,Loreto,2021,3,RN con alojamiento conjunto,3
+Chuquisaca,11003,Machareti,2021,3,RN con alojamiento conjunto,1
+Beni,80801,Magdalena,2021,3,RN con alojamiento conjunto,16
+Santa Cruz,70903,Mairana,2021,3,RN con alojamiento conjunto,18
+Cochabamba,31301,Mizque,2021,3,RN con alojamiento conjunto,15
+Chuquisaca,10501,Monteagudo,2021,3,RN con alojamiento conjunto,32
+Santa Cruz,71001,Montero,2021,3,RN con alojamiento conjunto,178
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,3,RN con alojamiento conjunto,1
+Potosí,50404,Ocuri,2021,3,RN con alojamiento conjunto,10
+Oruro,40101,Oruro,2021,3,RN con alojamiento conjunto,366
+Chuquisaca,10401,Padilla,2021,3,RN con alojamiento conjunto,17
+Santa Cruz,70502,Pailon,2021,3,RN con alojamiento conjunto,37
+Santa Cruz,70902,Pampa Grande,2021,3,RN con alojamiento conjunto,6
+La Paz,21305,Patacamaya,2021,3,RN con alojamiento conjunto,32
+Potosí,51203,Porco,2021,3,RN con alojamiento conjunto,7
+Santa Cruz,70103,Porongo,2021,3,RN con alojamiento conjunto,6
+Santa Cruz,70601,Portachuelo,2021,3,RN con alojamiento conjunto,20
+Pando,90102,Porvenir,2021,3,RN con alojamiento conjunto,3
+Potosí,50101,Potosi,2021,3,RN con alojamiento conjunto,339
+Santa Cruz,71402,Puerto Quijarro,2021,3,RN con alojamiento conjunto,8
+Pando,90201,Puerto Rico,2021,3,RN con alojamiento conjunto,7
+Beni,80703,Puerto Siles,2021,3,RN con alojamiento conjunto,1
+Santa Cruz,71401,Puerto Suarez,2021,3,RN con alojamiento conjunto,32
+Cochabamba,31205,Puerto Villarroel,2021,3,RN con alojamiento conjunto,142
+Cochabamba,31401,Punata,2021,3,RN con alojamiento conjunto,76
+Cochabamba,30901,Quillacollo,2021,3,RN con alojamiento conjunto,188
+Beni,80301,Reyes,2021,3,RN con alojamiento conjunto,14
+Beni,80201,Riberalta,2021,3,RN con alojamiento conjunto,222
+Santa Cruz,70503,Robore,2021,3,RN con alojamiento conjunto,27
+Beni,80304,Rurrenabaque,2021,3,RN con alojamiento conjunto,43
+Cochabamba,31001,Sacaba,2021,3,RN con alojamiento conjunto,197
+Potosí,50701,Sacaca,2021,3,RN con alojamiento conjunto,3
+Santa Cruz,71302,Saipina,2021,3,RN con alojamiento conjunto,4
+Oruro,40801,Salinas De Garci Mendoza,2021,3,RN con alojamiento conjunto,3
+Santa Cruz,71105,San Antonio De Lomerio,2021,3,RN con alojamiento conjunto,10
+Beni,80302,San Borja,2021,3,RN con alojamiento conjunto,66
+Santa Cruz,70402,San Carlos,2021,3,RN con alojamiento conjunto,5
+Beni,80501,San Ignacio,2021,3,RN con alojamiento conjunto,29
+Santa Cruz,70301,San Ignacio De Velasco,2021,3,RN con alojamiento conjunto,40
+Santa Cruz,71102,San Javier(stc),2021,3,RN con alojamiento conjunto,29
+Beni,80701,San Joaquin,2021,3,RN con alojamiento conjunto,7
+Santa Cruz,70501,San Jose De Chiquitos,2021,3,RN con alojamiento conjunto,35
+Santa Cruz,70404,San Juan De Yapacani,2021,3,RN con alojamiento conjunto,3
+Santa Cruz,71104,San Julian,2021,3,RN con alojamiento conjunto,44
+Pando,90302,San Lorenzo(pnd),2021,3,RN con alojamiento conjunto,2
+Tarija,60501,San Lorenzo(tja),2021,3,RN con alojamiento conjunto,5
+Chuquisaca,10702,San Lucas,2021,3,RN con alojamiento conjunto,27
+Santa Cruz,71201,San Matias,2021,3,RN con alojamiento conjunto,3
+Santa Cruz,70302,San Miguel De Velasco,2021,3,RN con alojamiento conjunto,13
+Santa Cruz,70303,San Rafael,2021,3,RN con alojamiento conjunto,8
+Beni,80702,San Ramon Beni,2021,3,RN con alojamiento conjunto,4
+Santa Cruz,71103,San Ramon Scz,2021,3,RN con alojamiento conjunto,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,RN con alojamiento conjunto,1745
+Beni,80303,Santa Rosa,2021,3,RN con alojamiento conjunto,9
+Santa Cruz,70602,Santa Rosa Del Sara,2021,3,RN con alojamiento conjunto,8
+Pando,90303,Sena,2021,3,RN con alojamiento conjunto,3
+Chuquisaca,10403,Sopachuy,2021,3,RN con alojamiento conjunto,10
+Chuquisaca,10101,Sucre,2021,3,RN con alojamiento conjunto,211
+Chuquisaca,10601,Tarabuco,2021,3,RN con alojamiento conjunto,9
+Tarija,60101,Tarija,2021,3,RN con alojamiento conjunto,270
+Chuquisaca,10202,Tarvita,2021,3,RN con alojamiento conjunto,2
+Cochabamba,30903,Tiquipaya,2021,3,RN con alojamiento conjunto,59
+Potosí,51202,Tomave,2021,3,RN con alojamiento conjunto,6
+Chuquisaca,10402,Tomina,2021,3,RN con alojamiento conjunto,7
+Cochabamba,31201,Totora(cbba),2021,3,RN con alojamiento conjunto,15
+Oruro,41301,Totora(orr),2021,3,RN con alojamiento conjunto,1
+Beni,80101,Trinidad,2021,3,RN con alojamiento conjunto,267
+Potosí,50801,Tupiza,2021,3,RN con alojamiento conjunto,39
+Potosí,50201,Uncia,2021,3,RN con alojamiento conjunto,8
+Santa Cruz,71502,Urubicha,2021,3,RN con alojamiento conjunto,10
+Potosí,51201,Uyuni,2021,3,RN con alojamiento conjunto,31
+Santa Cruz,70801,Vallegrande,2021,3,RN con alojamiento conjunto,25
+La Paz,20801,Viacha,2021,3,RN con alojamiento conjunto,31
+Tarija,60303,Villa Montes,2021,3,RN con alojamiento conjunto,79
+Pando,90502,Villa Nueva (loma Alta),2021,3,RN con alojamiento conjunto,1
+Chuquisaca,10801,Villa Serrano,2021,3,RN con alojamiento conjunto,3
+Cochabamba,31003,Villa Tunari,2021,3,RN con alojamiento conjunto,75
+Potosí,51501,Villazon,2021,3,RN con alojamiento conjunto,41
+Cochabamba,30904,Vinto,2021,3,RN con alojamiento conjunto,39
+Potosí,50602,Vitichi,2021,3,RN con alojamiento conjunto,4
+Santa Cruz,70201,Warnes,2021,3,RN con alojamiento conjunto,12
+Tarija,60301,Yacuiba,2021,3,RN con alojamiento conjunto,123
+Santa Cruz,70403,Yapacani,2021,3,RN con alojamiento conjunto,103
+Potosí,51302,Acacio,2021,4,RN con alojamiento conjunto,2
+La Paz,20201,Achacachi,2021,4,RN con alojamiento conjunto,33
+Cochabamba,30201,Aiquile,2021,4,RN con alojamiento conjunto,25
+Chuquisaca,10404,Alcala,2021,4,RN con alojamiento conjunto,2
+Santa Cruz,71501,Ascencion De Guarayos,2021,4,RN con alojamiento conjunto,77
+Potosí,50802,Atocha,2021,4,RN con alojamiento conjunto,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,4,RN con alojamiento conjunto,14
+Beni,80802,Baures,2021,4,RN con alojamiento conjunto,2
+Potosí,50104,Belen De Urmiri,2021,4,RN con alojamiento conjunto,1
+Tarija,60202,Bermejo,2021,4,RN con alojamiento conjunto,41
+Potosí,50301,Betanzos,2021,4,RN con alojamiento conjunto,15
+Pando,90103,Bolpebra,2021,4,RN con alojamiento conjunto,1
+Santa Cruz,70707,Boyuibe,2021,4,RN con alojamiento conjunto,2
+Santa Cruz,70401,Buena Vista,2021,4,RN con alojamiento conjunto,1
+Santa Cruz,70703,Cabezas,2021,4,RN con alojamiento conjunto,15
+Potosí,51102,"Caiza ""d""",2021,4,RN con alojamiento conjunto,2
+Chuquisaca,10701,Camargo,2021,4,RN con alojamiento conjunto,8
+Santa Cruz,70706,Camiri,2021,4,RN con alojamiento conjunto,17
+Cochabamba,30701,Capinota,2021,4,RN con alojamiento conjunto,13
+Oruro,40102,Caracollo,2021,4,RN con alojamiento conjunto,12
+La Paz,22001,Caranavi,2021,4,RN con alojamiento conjunto,66
+Tarija,60302,Carapari,2021,4,RN con alojamiento conjunto,4
+Potosí,50702,Caripuyo,2021,4,RN con alojamiento conjunto,1
+Santa Cruz,71403,Carmen Rivero Torrez,2021,4,RN con alojamiento conjunto,3
+Oruro,40201,Challapata,2021,4,RN con alojamiento conjunto,24
+Potosí,50302,Chaqui,2021,4,RN con alojamiento conjunto,3
+Santa Cruz,70702,Charagua,2021,4,RN con alojamiento conjunto,16
+Potosí,50202,Chayanta,2021,4,RN con alojamiento conjunto,11
+La Paz,21101,Chulumani (v. De La Libertad),2021,4,RN con alojamiento conjunto,18
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,4,RN con alojamiento conjunto,5
+Potosí,51103,Ckochas,2021,4,RN con alojamiento conjunto,1
+Cochabamba,30801,Cliza,2021,4,RN con alojamiento conjunto,30
+Pando,90101,Cobija,2021,4,RN con alojamiento conjunto,78
+Cochabamba,30101,Cochabamba,2021,4,RN con alojamiento conjunto,639
+Cochabamba,30905,Colcapirhua,2021,4,RN con alojamiento conjunto,22
+Potosí,50901,"Colcha ""k""",2021,4,RN con alojamiento conjunto,6
+Potosí,50401,Colquechaca,2021,4,RN con alojamiento conjunto,16
+Santa Cruz,71301,Comarapa,2021,4,RN con alojamiento conjunto,33
+Santa Cruz,71101,Concepcion,2021,4,RN con alojamiento conjunto,51
+La Paz,21401,Coroico,2021,4,RN con alojamiento conjunto,33
+Potosí,50601,Cotagaita,2021,4,RN con alojamiento conjunto,2
+Santa Cruz,70102,Cotoca,2021,4,RN con alojamiento conjunto,57
+Santa Cruz,71106,Cuatro Cañadas,2021,4,RN con alojamiento conjunto,23
+Chuquisaca,10902,Culpina,2021,4,RN con alojamiento conjunto,17
+La Paz,20105,El Alto,2021,4,RN con alojamiento conjunto,898
+Santa Cruz,71503,El Puente(stc),2021,4,RN con alojamiento conjunto,12
+Santa Cruz,70105,El Torno,2021,4,RN con alojamiento conjunto,64
+Tarija,60601,Entre Rios Trj,2021,4,RN con alojamiento conjunto,9
+Cochabamba,31206,Entre Rios Cbba,2021,4,RN con alojamiento conjunto,21
+La Paz,20405,Escoma,2021,4,RN con alojamiento conjunto,4
+Santa Cruz,71004,Fernandez Alonso,2021,4,RN con alojamiento conjunto,3
+Pando,90203,Filadelfia,2021,4,RN con alojamiento conjunto,1
+Beni,80202,Guayaramerin,2021,4,RN con alojamiento conjunto,41
+Oruro,40701,Huanuni,2021,4,RN con alojamiento conjunto,20
+Beni,80803,Huaracaje,2021,4,RN con alojamiento conjunto,3
+La Paz,20404,Humanata,2021,4,RN con alojamiento conjunto,1
+Chuquisaca,10703,Incahuasi,2021,4,RN con alojamiento conjunto,5
+Pando,90402,Ingavi (humaita),2021,4,RN con alojamiento conjunto,2
+Santa Cruz,70104,La Guardia,2021,4,RN con alojamiento conjunto,77
+La Paz,20101,La Paz,2021,4,RN con alojamiento conjunto,758
+Santa Cruz,70701,Lagunillas,2021,4,RN con alojamiento conjunto,1
+Potosí,50203,Llallagua,2021,4,RN con alojamiento conjunto,48
+Potosí,51401,Llica,2021,4,RN con alojamiento conjunto,5
+Beni,80601,Loreto,2021,4,RN con alojamiento conjunto,1
+Chuquisaca,11003,Machareti,2021,4,RN con alojamiento conjunto,1
+Beni,80801,Magdalena,2021,4,RN con alojamiento conjunto,8
+Santa Cruz,70903,Mairana,2021,4,RN con alojamiento conjunto,13
+Cochabamba,31301,Mizque,2021,4,RN con alojamiento conjunto,14
+La Paz,20402,Mocomoco,2021,4,RN con alojamiento conjunto,1
+Chuquisaca,10501,Monteagudo,2021,4,RN con alojamiento conjunto,30
+Santa Cruz,71001,Montero,2021,4,RN con alojamiento conjunto,429
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,4,RN con alojamiento conjunto,1
+Potosí,50404,Ocuri,2021,4,RN con alojamiento conjunto,11
+Oruro,40101,Oruro,2021,4,RN con alojamiento conjunto,340
+Chuquisaca,10401,Padilla,2021,4,RN con alojamiento conjunto,15
+Santa Cruz,70502,Pailon,2021,4,RN con alojamiento conjunto,35
+Santa Cruz,70902,Pampa Grande,2021,4,RN con alojamiento conjunto,3
+La Paz,21305,Patacamaya,2021,4,RN con alojamiento conjunto,25
+Potosí,51203,Porco,2021,4,RN con alojamiento conjunto,9
+Santa Cruz,70601,Portachuelo,2021,4,RN con alojamiento conjunto,32
+Potosí,50101,Potosi,2021,4,RN con alojamiento conjunto,305
+Santa Cruz,71402,Puerto Quijarro,2021,4,RN con alojamiento conjunto,12
+Pando,90201,Puerto Rico,2021,4,RN con alojamiento conjunto,5
+Santa Cruz,71401,Puerto Suarez,2021,4,RN con alojamiento conjunto,33
+Cochabamba,31205,Puerto Villarroel,2021,4,RN con alojamiento conjunto,127
+Cochabamba,31401,Punata,2021,4,RN con alojamiento conjunto,60
+Cochabamba,30901,Quillacollo,2021,4,RN con alojamiento conjunto,177
+Beni,80301,Reyes,2021,4,RN con alojamiento conjunto,19
+Beni,80201,Riberalta,2021,4,RN con alojamiento conjunto,204
+Santa Cruz,70503,Robore,2021,4,RN con alojamiento conjunto,31
+Beni,80304,Rurrenabaque,2021,4,RN con alojamiento conjunto,29
+Cochabamba,31001,Sacaba,2021,4,RN con alojamiento conjunto,191
+Potosí,50701,Sacaca,2021,4,RN con alojamiento conjunto,3
+Santa Cruz,71302,Saipina,2021,4,RN con alojamiento conjunto,10
+Santa Cruz,70901,Samaipata,2021,4,RN con alojamiento conjunto,2
+Santa Cruz,71105,San Antonio De Lomerio,2021,4,RN con alojamiento conjunto,2
+Beni,80302,San Borja,2021,4,RN con alojamiento conjunto,59
+Santa Cruz,70402,San Carlos,2021,4,RN con alojamiento conjunto,8
+Beni,80501,San Ignacio,2021,4,RN con alojamiento conjunto,26
+Santa Cruz,70301,San Ignacio De Velasco,2021,4,RN con alojamiento conjunto,65
+Santa Cruz,71102,San Javier(stc),2021,4,RN con alojamiento conjunto,25
+Beni,80701,San Joaquin,2021,4,RN con alojamiento conjunto,13
+Santa Cruz,70501,San Jose De Chiquitos,2021,4,RN con alojamiento conjunto,27
+Santa Cruz,70404,San Juan De Yapacani,2021,4,RN con alojamiento conjunto,6
+Santa Cruz,71104,San Julian,2021,4,RN con alojamiento conjunto,54
+Pando,90302,San Lorenzo(pnd),2021,4,RN con alojamiento conjunto,1
+Tarija,60501,San Lorenzo(tja),2021,4,RN con alojamiento conjunto,6
+Chuquisaca,10702,San Lucas,2021,4,RN con alojamiento conjunto,18
+Santa Cruz,71201,San Matias,2021,4,RN con alojamiento conjunto,21
+Santa Cruz,70302,San Miguel De Velasco,2021,4,RN con alojamiento conjunto,16
+Santa Cruz,71005,San Pedro,2021,4,RN con alojamiento conjunto,2
+Potosí,50405,San Pedro De Macha,2021,4,RN con alojamiento conjunto,4
+Santa Cruz,70303,San Rafael,2021,4,RN con alojamiento conjunto,7
+Beni,80702,San Ramon Beni,2021,4,RN con alojamiento conjunto,7
+Santa Cruz,71103,San Ramon Scz,2021,4,RN con alojamiento conjunto,18
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,RN con alojamiento conjunto,1404
+Beni,80303,Santa Rosa,2021,4,RN con alojamiento conjunto,11
+Santa Cruz,70602,Santa Rosa Del Sara,2021,4,RN con alojamiento conjunto,7
+Pando,90303,Sena,2021,4,RN con alojamiento conjunto,5
+Chuquisaca,10403,Sopachuy,2021,4,RN con alojamiento conjunto,5
+Chuquisaca,10101,Sucre,2021,4,RN con alojamiento conjunto,180
+Chuquisaca,10601,Tarabuco,2021,4,RN con alojamiento conjunto,9
+Tarija,60101,Tarija,2021,4,RN con alojamiento conjunto,287
+Chuquisaca,10202,Tarvita,2021,4,RN con alojamiento conjunto,2
+Cochabamba,30903,Tiquipaya,2021,4,RN con alojamiento conjunto,60
+Potosí,51202,Tomave,2021,4,RN con alojamiento conjunto,6
+Chuquisaca,10402,Tomina,2021,4,RN con alojamiento conjunto,4
+Cochabamba,31201,Totora(cbba),2021,4,RN con alojamiento conjunto,20
+Oruro,41301,Totora(orr),2021,4,RN con alojamiento conjunto,1
+Beni,80101,Trinidad,2021,4,RN con alojamiento conjunto,311
+Potosí,50801,Tupiza,2021,4,RN con alojamiento conjunto,37
+Potosí,50201,Uncia,2021,4,RN con alojamiento conjunto,8
+Santa Cruz,71502,Urubicha,2021,4,RN con alojamiento conjunto,6
+Potosí,51201,Uyuni,2021,4,RN con alojamiento conjunto,21
+Santa Cruz,70801,Vallegrande,2021,4,RN con alojamiento conjunto,30
+La Paz,20801,Viacha,2021,4,RN con alojamiento conjunto,40
+Cochabamba,31302,Vila Vila,2021,4,RN con alojamiento conjunto,2
+Tarija,60303,Villa Montes,2021,4,RN con alojamiento conjunto,49
+Pando,90502,Villa Nueva (loma Alta),2021,4,RN con alojamiento conjunto,1
+Chuquisaca,10801,Villa Serrano,2021,4,RN con alojamiento conjunto,6
+Cochabamba,31003,Villa Tunari,2021,4,RN con alojamiento conjunto,84
+Potosí,51501,Villazon,2021,4,RN con alojamiento conjunto,43
+Cochabamba,30904,Vinto,2021,4,RN con alojamiento conjunto,51
+Potosí,50602,Vitichi,2021,4,RN con alojamiento conjunto,4
+Santa Cruz,70201,Warnes,2021,4,RN con alojamiento conjunto,12
+Tarija,60301,Yacuiba,2021,4,RN con alojamiento conjunto,116
+Santa Cruz,70403,Yapacani,2021,4,RN con alojamiento conjunto,96
+Potosí,51302,Acacio,2021,5,RN con alojamiento conjunto,2
+La Paz,20201,Achacachi,2021,5,RN con alojamiento conjunto,22
+Cochabamba,30201,Aiquile,2021,5,RN con alojamiento conjunto,14
+Santa Cruz,71501,Ascencion De Guarayos,2021,5,RN con alojamiento conjunto,52
+Potosí,50802,Atocha,2021,5,RN con alojamiento conjunto,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,5,RN con alojamiento conjunto,12
+Beni,80802,Baures,2021,5,RN con alojamiento conjunto,7
+Pando,90104,Bella Flor,2021,5,RN con alojamiento conjunto,2
+Tarija,60202,Bermejo,2021,5,RN con alojamiento conjunto,11
+Potosí,50301,Betanzos,2021,5,RN con alojamiento conjunto,15
+Santa Cruz,70707,Boyuibe,2021,5,RN con alojamiento conjunto,1
+Santa Cruz,70401,Buena Vista,2021,5,RN con alojamiento conjunto,7
+Santa Cruz,70703,Cabezas,2021,5,RN con alojamiento conjunto,13
+Potosí,51102,"Caiza ""d""",2021,5,RN con alojamiento conjunto,1
+Chuquisaca,10701,Camargo,2021,5,RN con alojamiento conjunto,18
+Santa Cruz,70706,Camiri,2021,5,RN con alojamiento conjunto,12
+Cochabamba,30701,Capinota,2021,5,RN con alojamiento conjunto,21
+Oruro,40102,Caracollo,2021,5,RN con alojamiento conjunto,10
+La Paz,22001,Caranavi,2021,5,RN con alojamiento conjunto,87
+Tarija,60302,Carapari,2021,5,RN con alojamiento conjunto,2
+Potosí,50702,Caripuyo,2021,5,RN con alojamiento conjunto,1
+Santa Cruz,71403,Carmen Rivero Torrez,2021,5,RN con alojamiento conjunto,2
+Oruro,40201,Challapata,2021,5,RN con alojamiento conjunto,43
+Potosí,50302,Chaqui,2021,5,RN con alojamiento conjunto,5
+Santa Cruz,70702,Charagua,2021,5,RN con alojamiento conjunto,2
+Potosí,50202,Chayanta,2021,5,RN con alojamiento conjunto,6
+La Paz,21101,Chulumani (v. De La Libertad),2021,5,RN con alojamiento conjunto,22
+Potosí,51103,Ckochas,2021,5,RN con alojamiento conjunto,6
+Cochabamba,30801,Cliza,2021,5,RN con alojamiento conjunto,44
+Pando,90101,Cobija,2021,5,RN con alojamiento conjunto,113
+Cochabamba,30101,Cochabamba,2021,5,RN con alojamiento conjunto,808
+Cochabamba,30905,Colcapirhua,2021,5,RN con alojamiento conjunto,25
+Potosí,50901,"Colcha ""k""",2021,5,RN con alojamiento conjunto,4
+Santa Cruz,71301,Comarapa,2021,5,RN con alojamiento conjunto,37
+Santa Cruz,71101,Concepcion,2021,5,RN con alojamiento conjunto,41
+La Paz,21401,Coroico,2021,5,RN con alojamiento conjunto,16
+Potosí,50601,Cotagaita,2021,5,RN con alojamiento conjunto,1
+Santa Cruz,70102,Cotoca,2021,5,RN con alojamiento conjunto,83
+Santa Cruz,71106,Cuatro Cañadas,2021,5,RN con alojamiento conjunto,24
+Chuquisaca,10902,Culpina,2021,5,RN con alojamiento conjunto,12
+La Paz,20105,El Alto,2021,5,RN con alojamiento conjunto,962
+Santa Cruz,71503,El Puente(stc),2021,5,RN con alojamiento conjunto,11
+Santa Cruz,70105,El Torno,2021,5,RN con alojamiento conjunto,102
+Chuquisaca,10405,El Villar,2021,5,RN con alojamiento conjunto,5
+Tarija,60601,Entre Rios Trj,2021,5,RN con alojamiento conjunto,9
+Cochabamba,31206,Entre Rios Cbba,2021,5,RN con alojamiento conjunto,15
+La Paz,20405,Escoma,2021,5,RN con alojamiento conjunto,5
+Santa Cruz,71004,Fernandez Alonso,2021,5,RN con alojamiento conjunto,1
+Pando,90203,Filadelfia,2021,5,RN con alojamiento conjunto,3
+Beni,80202,Guayaramerin,2021,5,RN con alojamiento conjunto,40
+Oruro,40501,Huachacalla,2021,5,RN con alojamiento conjunto,3
+Oruro,40701,Huanuni,2021,5,RN con alojamiento conjunto,16
+Beni,80803,Huaracaje,2021,5,RN con alojamiento conjunto,2
+Chuquisaca,10703,Incahuasi,2021,5,RN con alojamiento conjunto,5
+Pando,90402,Ingavi (humaita),2021,5,RN con alojamiento conjunto,1
+La Paz,21501,Ixiamas,2021,5,RN con alojamiento conjunto,6
+Santa Cruz,70104,La Guardia,2021,5,RN con alojamiento conjunto,65
+La Paz,20101,La Paz,2021,5,RN con alojamiento conjunto,861
+Chuquisaca,10903,Las Carreras,2021,5,RN con alojamiento conjunto,5
+Potosí,50203,Llallagua,2021,5,RN con alojamiento conjunto,58
+Potosí,51401,Llica,2021,5,RN con alojamiento conjunto,2
+Beni,80801,Magdalena,2021,5,RN con alojamiento conjunto,17
+Santa Cruz,70903,Mairana,2021,5,RN con alojamiento conjunto,8
+Cochabamba,31301,Mizque,2021,5,RN con alojamiento conjunto,19
+La Paz,20402,Mocomoco,2021,5,RN con alojamiento conjunto,1
+Chuquisaca,10501,Monteagudo,2021,5,RN con alojamiento conjunto,29
+Santa Cruz,71001,Montero,2021,5,RN con alojamiento conjunto,180
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,5,RN con alojamiento conjunto,5
+Potosí,50404,Ocuri,2021,5,RN con alojamiento conjunto,6
+Oruro,40101,Oruro,2021,5,RN con alojamiento conjunto,410
+Chuquisaca,10401,Padilla,2021,5,RN con alojamiento conjunto,28
+Santa Cruz,70502,Pailon,2021,5,RN con alojamiento conjunto,29
+Santa Cruz,70902,Pampa Grande,2021,5,RN con alojamiento conjunto,5
+La Paz,21305,Patacamaya,2021,5,RN con alojamiento conjunto,24
+Potosí,51203,Porco,2021,5,RN con alojamiento conjunto,12
+Santa Cruz,70601,Portachuelo,2021,5,RN con alojamiento conjunto,28
+Pando,90102,Porvenir,2021,5,RN con alojamiento conjunto,1
+Potosí,50101,Potosi,2021,5,RN con alojamiento conjunto,346
+Pando,90301,Puerto Gonzalo Moreno,2021,5,RN con alojamiento conjunto,2
+Santa Cruz,71402,Puerto Quijarro,2021,5,RN con alojamiento conjunto,14
+Pando,90201,Puerto Rico,2021,5,RN con alojamiento conjunto,12
+Beni,80703,Puerto Siles,2021,5,RN con alojamiento conjunto,1
+Santa Cruz,71401,Puerto Suarez,2021,5,RN con alojamiento conjunto,28
+Cochabamba,31205,Puerto Villarroel,2021,5,RN con alojamiento conjunto,131
+Cochabamba,31401,Punata,2021,5,RN con alojamiento conjunto,84
+Cochabamba,30901,Quillacollo,2021,5,RN con alojamiento conjunto,180
+Potosí,50402,Ravelo,2021,5,RN con alojamiento conjunto,2
+Beni,80301,Reyes,2021,5,RN con alojamiento conjunto,20
+Beni,80201,Riberalta,2021,5,RN con alojamiento conjunto,220
+Santa Cruz,70503,Robore,2021,5,RN con alojamiento conjunto,31
+Beni,80304,Rurrenabaque,2021,5,RN con alojamiento conjunto,21
+Cochabamba,31001,Sacaba,2021,5,RN con alojamiento conjunto,188
+Potosí,50701,Sacaca,2021,5,RN con alojamiento conjunto,6
+Santa Cruz,71302,Saipina,2021,5,RN con alojamiento conjunto,6
+Oruro,40801,Salinas De Garci Mendoza,2021,5,RN con alojamiento conjunto,3
+Beni,80602,San Andres,2021,5,RN con alojamiento conjunto,6
+Santa Cruz,71105,San Antonio De Lomerio,2021,5,RN con alojamiento conjunto,9
+Beni,80302,San Borja,2021,5,RN con alojamiento conjunto,67
+Santa Cruz,70402,San Carlos,2021,5,RN con alojamiento conjunto,5
+Beni,80501,San Ignacio,2021,5,RN con alojamiento conjunto,29
+Santa Cruz,70301,San Ignacio De Velasco,2021,5,RN con alojamiento conjunto,67
+Santa Cruz,71102,San Javier(stc),2021,5,RN con alojamiento conjunto,32
+Beni,80701,San Joaquin,2021,5,RN con alojamiento conjunto,7
+Santa Cruz,70501,San Jose De Chiquitos,2021,5,RN con alojamiento conjunto,31
+Santa Cruz,70404,San Juan De Yapacani,2021,5,RN con alojamiento conjunto,6
+Santa Cruz,71104,San Julian,2021,5,RN con alojamiento conjunto,49
+Pando,90302,San Lorenzo(pnd),2021,5,RN con alojamiento conjunto,6
+Tarija,60501,San Lorenzo(tja),2021,5,RN con alojamiento conjunto,5
+Chuquisaca,10702,San Lucas,2021,5,RN con alojamiento conjunto,27
+Santa Cruz,71201,San Matias,2021,5,RN con alojamiento conjunto,29
+Santa Cruz,70302,San Miguel De Velasco,2021,5,RN con alojamiento conjunto,13
+Santa Cruz,71005,San Pedro,2021,5,RN con alojamiento conjunto,2
+Potosí,50405,San Pedro De Macha,2021,5,RN con alojamiento conjunto,5
+Santa Cruz,70303,San Rafael,2021,5,RN con alojamiento conjunto,8
+Beni,80702,San Ramon Beni,2021,5,RN con alojamiento conjunto,11
+Santa Cruz,71103,San Ramon Scz,2021,5,RN con alojamiento conjunto,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,RN con alojamiento conjunto,1915
+Beni,80303,Santa Rosa,2021,5,RN con alojamiento conjunto,12
+Santa Cruz,70602,Santa Rosa Del Sara,2021,5,RN con alojamiento conjunto,5
+Pando,90303,Sena,2021,5,RN con alojamiento conjunto,13
+Chuquisaca,10403,Sopachuy,2021,5,RN con alojamiento conjunto,2
+Chuquisaca,10101,Sucre,2021,5,RN con alojamiento conjunto,227
+Chuquisaca,10601,Tarabuco,2021,5,RN con alojamiento conjunto,6
+Tarija,60101,Tarija,2021,5,RN con alojamiento conjunto,309
+Chuquisaca,10202,Tarvita,2021,5,RN con alojamiento conjunto,1
+Cochabamba,30903,Tiquipaya,2021,5,RN con alojamiento conjunto,65
+Potosí,51202,Tomave,2021,5,RN con alojamiento conjunto,3
+Chuquisaca,10402,Tomina,2021,5,RN con alojamiento conjunto,4
+Cochabamba,31201,Totora(cbba),2021,5,RN con alojamiento conjunto,25
+Beni,80101,Trinidad,2021,5,RN con alojamiento conjunto,348
+Potosí,50801,Tupiza,2021,5,RN con alojamiento conjunto,53
+Potosí,50201,Uncia,2021,5,RN con alojamiento conjunto,4
+Santa Cruz,71502,Urubicha,2021,5,RN con alojamiento conjunto,2
+Potosí,51201,Uyuni,2021,5,RN con alojamiento conjunto,23
+Santa Cruz,70801,Vallegrande,2021,5,RN con alojamiento conjunto,20
+La Paz,20801,Viacha,2021,5,RN con alojamiento conjunto,45
+Cochabamba,31302,Vila Vila,2021,5,RN con alojamiento conjunto,1
+Tarija,60303,Villa Montes,2021,5,RN con alojamiento conjunto,73
+Chuquisaca,10801,Villa Serrano,2021,5,RN con alojamiento conjunto,4
+Cochabamba,31003,Villa Tunari,2021,5,RN con alojamiento conjunto,70
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2021,5,RN con alojamiento conjunto,1
+Potosí,51501,Villazon,2021,5,RN con alojamiento conjunto,40
+Cochabamba,30904,Vinto,2021,5,RN con alojamiento conjunto,35
+Potosí,50602,Vitichi,2021,5,RN con alojamiento conjunto,2
+Santa Cruz,70201,Warnes,2021,5,RN con alojamiento conjunto,6
+Tarija,60301,Yacuiba,2021,5,RN con alojamiento conjunto,146
+Santa Cruz,70403,Yapacani,2021,5,RN con alojamiento conjunto,111
+Potosí,51302,Acacio,2021,6,RN con alojamiento conjunto,2
+La Paz,20201,Achacachi,2021,6,RN con alojamiento conjunto,35
+Cochabamba,30201,Aiquile,2021,6,RN con alojamiento conjunto,15
+Chuquisaca,10404,Alcala,2021,6,RN con alojamiento conjunto,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,6,RN con alojamiento conjunto,46
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,6,RN con alojamiento conjunto,18
+Beni,80802,Baures,2021,6,RN con alojamiento conjunto,2
+Pando,90104,Bella Flor,2021,6,RN con alojamiento conjunto,1
+Tarija,60202,Bermejo,2021,6,RN con alojamiento conjunto,36
+Potosí,50301,Betanzos,2021,6,RN con alojamiento conjunto,19
+Santa Cruz,70707,Boyuibe,2021,6,RN con alojamiento conjunto,3
+Santa Cruz,70401,Buena Vista,2021,6,RN con alojamiento conjunto,2
+Santa Cruz,70703,Cabezas,2021,6,RN con alojamiento conjunto,14
+Potosí,51102,"Caiza ""d""",2021,6,RN con alojamiento conjunto,5
+Chuquisaca,10701,Camargo,2021,6,RN con alojamiento conjunto,15
+Santa Cruz,70706,Camiri,2021,6,RN con alojamiento conjunto,16
+Cochabamba,30701,Capinota,2021,6,RN con alojamiento conjunto,10
+Oruro,40102,Caracollo,2021,6,RN con alojamiento conjunto,8
+La Paz,22001,Caranavi,2021,6,RN con alojamiento conjunto,86
+Tarija,60302,Carapari,2021,6,RN con alojamiento conjunto,2
+Potosí,50702,Caripuyo,2021,6,RN con alojamiento conjunto,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,6,RN con alojamiento conjunto,6
+Oruro,40201,Challapata,2021,6,RN con alojamiento conjunto,33
+Potosí,50302,Chaqui,2021,6,RN con alojamiento conjunto,7
+Santa Cruz,70702,Charagua,2021,6,RN con alojamiento conjunto,3
+Potosí,50202,Chayanta,2021,6,RN con alojamiento conjunto,5
+La Paz,21101,Chulumani (v. De La Libertad),2021,6,RN con alojamiento conjunto,27
+Potosí,51103,Ckochas,2021,6,RN con alojamiento conjunto,3
+Cochabamba,30801,Cliza,2021,6,RN con alojamiento conjunto,29
+Pando,90101,Cobija,2021,6,RN con alojamiento conjunto,102
+Cochabamba,30101,Cochabamba,2021,6,RN con alojamiento conjunto,781
+Cochabamba,30905,Colcapirhua,2021,6,RN con alojamiento conjunto,38
+Potosí,50901,"Colcha ""k""",2021,6,RN con alojamiento conjunto,8
+Santa Cruz,71301,Comarapa,2021,6,RN con alojamiento conjunto,31
+Santa Cruz,71101,Concepcion,2021,6,RN con alojamiento conjunto,40
+La Paz,21401,Coroico,2021,6,RN con alojamiento conjunto,16
+Potosí,50601,Cotagaita,2021,6,RN con alojamiento conjunto,2
+Santa Cruz,70102,Cotoca,2021,6,RN con alojamiento conjunto,90
+Santa Cruz,71106,Cuatro Cañadas,2021,6,RN con alojamiento conjunto,25
+Chuquisaca,10902,Culpina,2021,6,RN con alojamiento conjunto,10
+La Paz,20105,El Alto,2021,6,RN con alojamiento conjunto,965
+Santa Cruz,71503,El Puente(stc),2021,6,RN con alojamiento conjunto,7
+Santa Cruz,70105,El Torno,2021,6,RN con alojamiento conjunto,83
+Cochabamba,31206,Entre Rios Cbba,2021,6,RN con alojamiento conjunto,16
+La Paz,20405,Escoma,2021,6,RN con alojamiento conjunto,3
+Pando,90203,Filadelfia,2021,6,RN con alojamiento conjunto,7
+Beni,80202,Guayaramerin,2021,6,RN con alojamiento conjunto,43
+Santa Cruz,70705,Gutierrez,2021,6,RN con alojamiento conjunto,6
+Oruro,40701,Huanuni,2021,6,RN con alojamiento conjunto,24
+La Paz,20404,Humanata,2021,6,RN con alojamiento conjunto,1
+Chuquisaca,10703,Incahuasi,2021,6,RN con alojamiento conjunto,6
+Santa Cruz,70104,La Guardia,2021,6,RN con alojamiento conjunto,64
+La Paz,20101,La Paz,2021,6,RN con alojamiento conjunto,1065
+Santa Cruz,70701,Lagunillas,2021,6,RN con alojamiento conjunto,1
+Chuquisaca,10903,Las Carreras,2021,6,RN con alojamiento conjunto,3
+Potosí,50203,Llallagua,2021,6,RN con alojamiento conjunto,54
+Potosí,51401,Llica,2021,6,RN con alojamiento conjunto,4
+Beni,80801,Magdalena,2021,6,RN con alojamiento conjunto,10
+Santa Cruz,70903,Mairana,2021,6,RN con alojamiento conjunto,17
+Cochabamba,31301,Mizque,2021,6,RN con alojamiento conjunto,16
+Chuquisaca,10501,Monteagudo,2021,6,RN con alojamiento conjunto,34
+Santa Cruz,71001,Montero,2021,6,RN con alojamiento conjunto,128
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,6,RN con alojamiento conjunto,3
+Potosí,50404,Ocuri,2021,6,RN con alojamiento conjunto,3
+Oruro,40101,Oruro,2021,6,RN con alojamiento conjunto,407
+Chuquisaca,10401,Padilla,2021,6,RN con alojamiento conjunto,12
+Santa Cruz,70502,Pailon,2021,6,RN con alojamiento conjunto,23
+Santa Cruz,70902,Pampa Grande,2021,6,RN con alojamiento conjunto,5
+La Paz,21305,Patacamaya,2021,6,RN con alojamiento conjunto,31
+Potosí,50403,Pocoata,2021,6,RN con alojamiento conjunto,15
+Potosí,51203,Porco,2021,6,RN con alojamiento conjunto,8
+Santa Cruz,70601,Portachuelo,2021,6,RN con alojamiento conjunto,23
+Pando,90102,Porvenir,2021,6,RN con alojamiento conjunto,4
+Potosí,50101,Potosi,2021,6,RN con alojamiento conjunto,374
+Santa Cruz,71402,Puerto Quijarro,2021,6,RN con alojamiento conjunto,9
+Pando,90201,Puerto Rico,2021,6,RN con alojamiento conjunto,5
+Santa Cruz,71401,Puerto Suarez,2021,6,RN con alojamiento conjunto,33
+Cochabamba,31205,Puerto Villarroel,2021,6,RN con alojamiento conjunto,125
+Potosí,51101,Puna,2021,6,RN con alojamiento conjunto,4
+Cochabamba,31401,Punata,2021,6,RN con alojamiento conjunto,87
+Cochabamba,30901,Quillacollo,2021,6,RN con alojamiento conjunto,163
+Potosí,50402,Ravelo,2021,6,RN con alojamiento conjunto,11
+Beni,80301,Reyes,2021,6,RN con alojamiento conjunto,13
+Beni,80201,Riberalta,2021,6,RN con alojamiento conjunto,239
+Santa Cruz,70503,Robore,2021,6,RN con alojamiento conjunto,27
+Beni,80304,Rurrenabaque,2021,6,RN con alojamiento conjunto,31
+Cochabamba,31001,Sacaba,2021,6,RN con alojamiento conjunto,195
+Potosí,50701,Sacaca,2021,6,RN con alojamiento conjunto,4
+Santa Cruz,71302,Saipina,2021,6,RN con alojamiento conjunto,3
+Santa Cruz,71105,San Antonio De Lomerio,2021,6,RN con alojamiento conjunto,7
+Beni,80302,San Borja,2021,6,RN con alojamiento conjunto,64
+Santa Cruz,70402,San Carlos,2021,6,RN con alojamiento conjunto,1
+Beni,80501,San Ignacio,2021,6,RN con alojamiento conjunto,24
+Santa Cruz,70301,San Ignacio De Velasco,2021,6,RN con alojamiento conjunto,70
+Santa Cruz,71102,San Javier(stc),2021,6,RN con alojamiento conjunto,29
+Beni,80701,San Joaquin,2021,6,RN con alojamiento conjunto,8
+Santa Cruz,70501,San Jose De Chiquitos,2021,6,RN con alojamiento conjunto,25
+Santa Cruz,70404,San Juan De Yapacani,2021,6,RN con alojamiento conjunto,1
+Santa Cruz,71104,San Julian,2021,6,RN con alojamiento conjunto,31
+Pando,90302,San Lorenzo(pnd),2021,6,RN con alojamiento conjunto,4
+Tarija,60501,San Lorenzo(tja),2021,6,RN con alojamiento conjunto,11
+Chuquisaca,10702,San Lucas,2021,6,RN con alojamiento conjunto,20
+Santa Cruz,71201,San Matias,2021,6,RN con alojamiento conjunto,15
+Santa Cruz,71005,San Pedro,2021,6,RN con alojamiento conjunto,1
+Potosí,50501,San Pedro De Buena Vista,2021,6,RN con alojamiento conjunto,1
+Santa Cruz,70303,San Rafael,2021,6,RN con alojamiento conjunto,1
+Beni,80702,San Ramon Beni,2021,6,RN con alojamiento conjunto,8
+Santa Cruz,71103,San Ramon Scz,2021,6,RN con alojamiento conjunto,18
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,RN con alojamiento conjunto,1740
+Beni,80303,Santa Rosa,2021,6,RN con alojamiento conjunto,15
+Santa Cruz,70602,Santa Rosa Del Sara,2021,6,RN con alojamiento conjunto,4
+Pando,90303,Sena,2021,6,RN con alojamiento conjunto,7
+Cochabamba,30703,Sicaya,2021,6,RN con alojamiento conjunto,2
+Chuquisaca,10403,Sopachuy,2021,6,RN con alojamiento conjunto,4
+Chuquisaca,10101,Sucre,2021,6,RN con alojamiento conjunto,141
+Chuquisaca,10601,Tarabuco,2021,6,RN con alojamiento conjunto,10
+Tarija,60101,Tarija,2021,6,RN con alojamiento conjunto,324
+Chuquisaca,10202,Tarvita,2021,6,RN con alojamiento conjunto,2
+Cochabamba,30903,Tiquipaya,2021,6,RN con alojamiento conjunto,68
+Potosí,51202,Tomave,2021,6,RN con alojamiento conjunto,3
+Chuquisaca,10402,Tomina,2021,6,RN con alojamiento conjunto,2
+Cochabamba,31201,Totora(cbba),2021,6,RN con alojamiento conjunto,20
+Beni,80101,Trinidad,2021,6,RN con alojamiento conjunto,261
+Potosí,50801,Tupiza,2021,6,RN con alojamiento conjunto,62
+Potosí,50201,Uncia,2021,6,RN con alojamiento conjunto,5
+Santa Cruz,71502,Urubicha,2021,6,RN con alojamiento conjunto,6
+Potosí,51201,Uyuni,2021,6,RN con alojamiento conjunto,33
+Santa Cruz,70801,Vallegrande,2021,6,RN con alojamiento conjunto,21
+La Paz,20801,Viacha,2021,6,RN con alojamiento conjunto,44
+Tarija,60303,Villa Montes,2021,6,RN con alojamiento conjunto,66
+Chuquisaca,10801,Villa Serrano,2021,6,RN con alojamiento conjunto,5
+Cochabamba,31003,Villa Tunari,2021,6,RN con alojamiento conjunto,67
+Potosí,51501,Villazon,2021,6,RN con alojamiento conjunto,40
+Cochabamba,30904,Vinto,2021,6,RN con alojamiento conjunto,39
+Potosí,50602,Vitichi,2021,6,RN con alojamiento conjunto,5
+Santa Cruz,70201,Warnes,2021,6,RN con alojamiento conjunto,91
+Tarija,60301,Yacuiba,2021,6,RN con alojamiento conjunto,97
+Santa Cruz,70403,Yapacani,2021,6,RN con alojamiento conjunto,72
+La Paz,20201,Achacachi,2021,7,RN con alojamiento conjunto,32
+Cochabamba,30201,Aiquile,2021,7,RN con alojamiento conjunto,29
+Chuquisaca,10404,Alcala,2021,7,RN con alojamiento conjunto,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,7,RN con alojamiento conjunto,46
+Potosí,50802,Atocha,2021,7,RN con alojamiento conjunto,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,7,RN con alojamiento conjunto,18
+Beni,80802,Baures,2021,7,RN con alojamiento conjunto,4
+Pando,90104,Bella Flor,2021,7,RN con alojamiento conjunto,1
+Tarija,60202,Bermejo,2021,7,RN con alojamiento conjunto,31
+Potosí,50301,Betanzos,2021,7,RN con alojamiento conjunto,21
+Santa Cruz,70707,Boyuibe,2021,7,RN con alojamiento conjunto,1
+Santa Cruz,70401,Buena Vista,2021,7,RN con alojamiento conjunto,13
+Santa Cruz,70703,Cabezas,2021,7,RN con alojamiento conjunto,4
+Potosí,51102,"Caiza ""d""",2021,7,RN con alojamiento conjunto,4
+Chuquisaca,10701,Camargo,2021,7,RN con alojamiento conjunto,13
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,7,RN con alojamiento conjunto,2
+Santa Cruz,70706,Camiri,2021,7,RN con alojamiento conjunto,15
+Cochabamba,30701,Capinota,2021,7,RN con alojamiento conjunto,20
+Oruro,40102,Caracollo,2021,7,RN con alojamiento conjunto,13
+La Paz,22001,Caranavi,2021,7,RN con alojamiento conjunto,77
+Tarija,60302,Carapari,2021,7,RN con alojamiento conjunto,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,7,RN con alojamiento conjunto,5
+Oruro,40201,Challapata,2021,7,RN con alojamiento conjunto,41
+Potosí,50302,Chaqui,2021,7,RN con alojamiento conjunto,1
+Santa Cruz,70702,Charagua,2021,7,RN con alojamiento conjunto,6
+La Paz,21101,Chulumani (v. De La Libertad),2021,7,RN con alojamiento conjunto,25
+Potosí,51103,Ckochas,2021,7,RN con alojamiento conjunto,4
+Cochabamba,30801,Cliza,2021,7,RN con alojamiento conjunto,35
+Pando,90101,Cobija,2021,7,RN con alojamiento conjunto,110
+Cochabamba,30101,Cochabamba,2021,7,RN con alojamiento conjunto,805
+Cochabamba,30905,Colcapirhua,2021,7,RN con alojamiento conjunto,40
+Potosí,50901,"Colcha ""k""",2021,7,RN con alojamiento conjunto,4
+Santa Cruz,71301,Comarapa,2021,7,RN con alojamiento conjunto,25
+Santa Cruz,71101,Concepcion,2021,7,RN con alojamiento conjunto,41
+La Paz,21401,Coroico,2021,7,RN con alojamiento conjunto,23
+Potosí,50601,Cotagaita,2021,7,RN con alojamiento conjunto,3
+Santa Cruz,70102,Cotoca,2021,7,RN con alojamiento conjunto,71
+Santa Cruz,71106,Cuatro Cañadas,2021,7,RN con alojamiento conjunto,26
+Chuquisaca,10902,Culpina,2021,7,RN con alojamiento conjunto,8
+La Paz,20105,El Alto,2021,7,RN con alojamiento conjunto,1047
+Santa Cruz,71503,El Puente(stc),2021,7,RN con alojamiento conjunto,8
+Santa Cruz,70105,El Torno,2021,7,RN con alojamiento conjunto,78
+Chuquisaca,10405,El Villar,2021,7,RN con alojamiento conjunto,5
+Tarija,60601,Entre Rios Trj,2021,7,RN con alojamiento conjunto,5
+Cochabamba,31206,Entre Rios Cbba,2021,7,RN con alojamiento conjunto,13
+La Paz,20405,Escoma,2021,7,RN con alojamiento conjunto,7
+Pando,90203,Filadelfia,2021,7,RN con alojamiento conjunto,3
+Beni,80202,Guayaramerin,2021,7,RN con alojamiento conjunto,35
+Santa Cruz,70705,Gutierrez,2021,7,RN con alojamiento conjunto,1
+Oruro,40701,Huanuni,2021,7,RN con alojamiento conjunto,23
+Beni,80803,Huaracaje,2021,7,RN con alojamiento conjunto,3
+Chuquisaca,10703,Incahuasi,2021,7,RN con alojamiento conjunto,7
+Pando,90402,Ingavi (humaita),2021,7,RN con alojamiento conjunto,2
+Santa Cruz,70104,La Guardia,2021,7,RN con alojamiento conjunto,74
+La Paz,20101,La Paz,2021,7,RN con alojamiento conjunto,1062
+Santa Cruz,70701,Lagunillas,2021,7,RN con alojamiento conjunto,4
+Potosí,50203,Llallagua,2021,7,RN con alojamiento conjunto,73
+Beni,80601,Loreto,2021,7,RN con alojamiento conjunto,1
+Beni,80801,Magdalena,2021,7,RN con alojamiento conjunto,12
+Santa Cruz,70903,Mairana,2021,7,RN con alojamiento conjunto,17
+Cochabamba,31301,Mizque,2021,7,RN con alojamiento conjunto,13
+Chuquisaca,10501,Monteagudo,2021,7,RN con alojamiento conjunto,41
+Santa Cruz,71001,Montero,2021,7,RN con alojamiento conjunto,276
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,7,RN con alojamiento conjunto,4
+Potosí,50404,Ocuri,2021,7,RN con alojamiento conjunto,6
+Oruro,40101,Oruro,2021,7,RN con alojamiento conjunto,438
+Chuquisaca,10401,Padilla,2021,7,RN con alojamiento conjunto,21
+Santa Cruz,70502,Pailon,2021,7,RN con alojamiento conjunto,36
+Santa Cruz,70902,Pampa Grande,2021,7,RN con alojamiento conjunto,6
+La Paz,21305,Patacamaya,2021,7,RN con alojamiento conjunto,22
+Potosí,51203,Porco,2021,7,RN con alojamiento conjunto,10
+Santa Cruz,70601,Portachuelo,2021,7,RN con alojamiento conjunto,15
+Pando,90102,Porvenir,2021,7,RN con alojamiento conjunto,3
+Potosí,50101,Potosi,2021,7,RN con alojamiento conjunto,373
+Santa Cruz,71402,Puerto Quijarro,2021,7,RN con alojamiento conjunto,9
+Pando,90201,Puerto Rico,2021,7,RN con alojamiento conjunto,8
+Santa Cruz,71401,Puerto Suarez,2021,7,RN con alojamiento conjunto,34
+Cochabamba,31205,Puerto Villarroel,2021,7,RN con alojamiento conjunto,112
+Potosí,51101,Puna,2021,7,RN con alojamiento conjunto,4
+Cochabamba,31401,Punata,2021,7,RN con alojamiento conjunto,70
+Cochabamba,30901,Quillacollo,2021,7,RN con alojamiento conjunto,157
+Santa Cruz,70904,Quirusillas,2021,7,RN con alojamiento conjunto,1
+Beni,80301,Reyes,2021,7,RN con alojamiento conjunto,12
+Beni,80201,Riberalta,2021,7,RN con alojamiento conjunto,230
+Santa Cruz,70503,Robore,2021,7,RN con alojamiento conjunto,19
+Beni,80304,Rurrenabaque,2021,7,RN con alojamiento conjunto,37
+Cochabamba,31001,Sacaba,2021,7,RN con alojamiento conjunto,177
+Potosí,50701,Sacaca,2021,7,RN con alojamiento conjunto,12
+Santa Cruz,71302,Saipina,2021,7,RN con alojamiento conjunto,2
+Oruro,40801,Salinas De Garci Mendoza,2021,7,RN con alojamiento conjunto,2
+Santa Cruz,71105,San Antonio De Lomerio,2021,7,RN con alojamiento conjunto,7
+Beni,80302,San Borja,2021,7,RN con alojamiento conjunto,61
+Santa Cruz,70402,San Carlos,2021,7,RN con alojamiento conjunto,6
+Beni,80501,San Ignacio,2021,7,RN con alojamiento conjunto,26
+Santa Cruz,70301,San Ignacio De Velasco,2021,7,RN con alojamiento conjunto,82
+Santa Cruz,71102,San Javier(stc),2021,7,RN con alojamiento conjunto,19
+Beni,80701,San Joaquin,2021,7,RN con alojamiento conjunto,11
+Santa Cruz,70501,San Jose De Chiquitos,2021,7,RN con alojamiento conjunto,21
+Santa Cruz,70404,San Juan De Yapacani,2021,7,RN con alojamiento conjunto,4
+Santa Cruz,71104,San Julian,2021,7,RN con alojamiento conjunto,45
+Pando,90302,San Lorenzo(pnd),2021,7,RN con alojamiento conjunto,4
+Tarija,60501,San Lorenzo(tja),2021,7,RN con alojamiento conjunto,8
+Chuquisaca,10702,San Lucas,2021,7,RN con alojamiento conjunto,29
+Santa Cruz,71201,San Matias,2021,7,RN con alojamiento conjunto,19
+Santa Cruz,70302,San Miguel De Velasco,2021,7,RN con alojamiento conjunto,13
+Potosí,50405,San Pedro De Macha,2021,7,RN con alojamiento conjunto,2
+Pando,90202,San Pedro(pnd),2021,7,RN con alojamiento conjunto,2
+Santa Cruz,70303,San Rafael,2021,7,RN con alojamiento conjunto,4
+Beni,80702,San Ramon Beni,2021,7,RN con alojamiento conjunto,6
+Santa Cruz,71103,San Ramon Scz,2021,7,RN con alojamiento conjunto,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,7,RN con alojamiento conjunto,1381
+Beni,80303,Santa Rosa,2021,7,RN con alojamiento conjunto,14
+Santa Cruz,70602,Santa Rosa Del Sara,2021,7,RN con alojamiento conjunto,3
+Pando,90303,Sena,2021,7,RN con alojamiento conjunto,9
+Chuquisaca,10403,Sopachuy,2021,7,RN con alojamiento conjunto,6
+Chuquisaca,10101,Sucre,2021,7,RN con alojamiento conjunto,212
+Chuquisaca,10601,Tarabuco,2021,7,RN con alojamiento conjunto,5
+Tarija,60101,Tarija,2021,7,RN con alojamiento conjunto,336
+Chuquisaca,10202,Tarvita,2021,7,RN con alojamiento conjunto,1
+Cochabamba,30903,Tiquipaya,2021,7,RN con alojamiento conjunto,64
+Potosí,51202,Tomave,2021,7,RN con alojamiento conjunto,8
+Chuquisaca,10402,Tomina,2021,7,RN con alojamiento conjunto,3
+Potosí,50502,Toro Toro,2021,7,RN con alojamiento conjunto,8
+Cochabamba,31201,Totora(cbba),2021,7,RN con alojamiento conjunto,16
+Oruro,41301,Totora(orr),2021,7,RN con alojamiento conjunto,2
+Beni,80101,Trinidad,2021,7,RN con alojamiento conjunto,248
+Potosí,50801,Tupiza,2021,7,RN con alojamiento conjunto,31
+Potosí,50201,Uncia,2021,7,RN con alojamiento conjunto,4
+Santa Cruz,71502,Urubicha,2021,7,RN con alojamiento conjunto,9
+Potosí,51201,Uyuni,2021,7,RN con alojamiento conjunto,25
+Santa Cruz,70801,Vallegrande,2021,7,RN con alojamiento conjunto,24
+La Paz,20801,Viacha,2021,7,RN con alojamiento conjunto,38
+Tarija,60303,Villa Montes,2021,7,RN con alojamiento conjunto,64
+Chuquisaca,10801,Villa Serrano,2021,7,RN con alojamiento conjunto,3
+Cochabamba,31003,Villa Tunari,2021,7,RN con alojamiento conjunto,90
+Potosí,51501,Villazon,2021,7,RN con alojamiento conjunto,39
+Cochabamba,30904,Vinto,2021,7,RN con alojamiento conjunto,39
+Potosí,50602,Vitichi,2021,7,RN con alojamiento conjunto,2
+Santa Cruz,70201,Warnes,2021,7,RN con alojamiento conjunto,86
+Tarija,60301,Yacuiba,2021,7,RN con alojamiento conjunto,105
+Santa Cruz,70403,Yapacani,2021,7,RN con alojamiento conjunto,84
+Potosí,51302,Acacio,2021,8,RN con alojamiento conjunto,2
+La Paz,20201,Achacachi,2021,8,RN con alojamiento conjunto,29
+Cochabamba,30201,Aiquile,2021,8,RN con alojamiento conjunto,22
+Chuquisaca,10404,Alcala,2021,8,RN con alojamiento conjunto,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,8,RN con alojamiento conjunto,49
+Potosí,50802,Atocha,2021,8,RN con alojamiento conjunto,8
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,8,RN con alojamiento conjunto,11
+Beni,80802,Baures,2021,8,RN con alojamiento conjunto,4
+Tarija,60202,Bermejo,2021,8,RN con alojamiento conjunto,4
+Potosí,50301,Betanzos,2021,8,RN con alojamiento conjunto,19
+Pando,90103,Bolpebra,2021,8,RN con alojamiento conjunto,1
+Santa Cruz,70707,Boyuibe,2021,8,RN con alojamiento conjunto,3
+Santa Cruz,70401,Buena Vista,2021,8,RN con alojamiento conjunto,10
+Santa Cruz,70703,Cabezas,2021,8,RN con alojamiento conjunto,15
+Potosí,51102,"Caiza ""d""",2021,8,RN con alojamiento conjunto,3
+Chuquisaca,10701,Camargo,2021,8,RN con alojamiento conjunto,24
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,8,RN con alojamiento conjunto,1
+Santa Cruz,70706,Camiri,2021,8,RN con alojamiento conjunto,10
+Cochabamba,30701,Capinota,2021,8,RN con alojamiento conjunto,18
+Oruro,40102,Caracollo,2021,8,RN con alojamiento conjunto,19
+La Paz,22001,Caranavi,2021,8,RN con alojamiento conjunto,70
+Tarija,60302,Carapari,2021,8,RN con alojamiento conjunto,2
+Potosí,50702,Caripuyo,2021,8,RN con alojamiento conjunto,2
+Santa Cruz,71403,Carmen Rivero Torrez,2021,8,RN con alojamiento conjunto,5
+Oruro,40201,Challapata,2021,8,RN con alojamiento conjunto,46
+Potosí,50302,Chaqui,2021,8,RN con alojamiento conjunto,2
+Santa Cruz,70702,Charagua,2021,8,RN con alojamiento conjunto,5
+La Paz,21101,Chulumani (v. De La Libertad),2021,8,RN con alojamiento conjunto,20
+Potosí,51103,Ckochas,2021,8,RN con alojamiento conjunto,3
+Cochabamba,30801,Cliza,2021,8,RN con alojamiento conjunto,29
+Pando,90101,Cobija,2021,8,RN con alojamiento conjunto,104
+Cochabamba,30101,Cochabamba,2021,8,RN con alojamiento conjunto,875
+Oruro,40902,Coipasa,2021,8,RN con alojamiento conjunto,1
+Cochabamba,30905,Colcapirhua,2021,8,RN con alojamiento conjunto,29
+Potosí,50901,"Colcha ""k""",2021,8,RN con alojamiento conjunto,4
+Santa Cruz,71301,Comarapa,2021,8,RN con alojamiento conjunto,32
+Santa Cruz,71101,Concepcion,2021,8,RN con alojamiento conjunto,36
+La Paz,21401,Coroico,2021,8,RN con alojamiento conjunto,26
+Santa Cruz,70102,Cotoca,2021,8,RN con alojamiento conjunto,79
+Santa Cruz,71106,Cuatro Cañadas,2021,8,RN con alojamiento conjunto,26
+Chuquisaca,10902,Culpina,2021,8,RN con alojamiento conjunto,15
+La Paz,20105,El Alto,2021,8,RN con alojamiento conjunto,1097
+Santa Cruz,71503,El Puente(stc),2021,8,RN con alojamiento conjunto,9
+Santa Cruz,70105,El Torno,2021,8,RN con alojamiento conjunto,69
+Chuquisaca,10405,El Villar,2021,8,RN con alojamiento conjunto,3
+Tarija,60601,Entre Rios Trj,2021,8,RN con alojamiento conjunto,11
+Cochabamba,31206,Entre Rios Cbba,2021,8,RN con alojamiento conjunto,17
+La Paz,20405,Escoma,2021,8,RN con alojamiento conjunto,3
+Santa Cruz,71004,Fernandez Alonso,2021,8,RN con alojamiento conjunto,3
+Pando,90203,Filadelfia,2021,8,RN con alojamiento conjunto,2
+Beni,80202,Guayaramerin,2021,8,RN con alojamiento conjunto,47
+Santa Cruz,70705,Gutierrez,2021,8,RN con alojamiento conjunto,2
+Oruro,40501,Huachacalla,2021,8,RN con alojamiento conjunto,1
+Oruro,40701,Huanuni,2021,8,RN con alojamiento conjunto,26
+Beni,80803,Huaracaje,2021,8,RN con alojamiento conjunto,1
+Chuquisaca,10703,Incahuasi,2021,8,RN con alojamiento conjunto,4
+La Paz,20806,Jesus De Machaca,2021,8,RN con alojamiento conjunto,1
+Santa Cruz,70104,La Guardia,2021,8,RN con alojamiento conjunto,60
+La Paz,20101,La Paz,2021,8,RN con alojamiento conjunto,909
+Santa Cruz,70701,Lagunillas,2021,8,RN con alojamiento conjunto,2
+Chuquisaca,10903,Las Carreras,2021,8,RN con alojamiento conjunto,1
+Potosí,50203,Llallagua,2021,8,RN con alojamiento conjunto,51
+Beni,80801,Magdalena,2021,8,RN con alojamiento conjunto,17
+Santa Cruz,70903,Mairana,2021,8,RN con alojamiento conjunto,23
+Cochabamba,31301,Mizque,2021,8,RN con alojamiento conjunto,12
+Chuquisaca,10501,Monteagudo,2021,8,RN con alojamiento conjunto,29
+Santa Cruz,71001,Montero,2021,8,RN con alojamiento conjunto,245
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,8,RN con alojamiento conjunto,2
+Potosí,50404,Ocuri,2021,8,RN con alojamiento conjunto,2
+Oruro,40101,Oruro,2021,8,RN con alojamiento conjunto,422
+Chuquisaca,10401,Padilla,2021,8,RN con alojamiento conjunto,11
+Santa Cruz,70502,Pailon,2021,8,RN con alojamiento conjunto,24
+Santa Cruz,70902,Pampa Grande,2021,8,RN con alojamiento conjunto,3
+La Paz,21305,Patacamaya,2021,8,RN con alojamiento conjunto,27
+Potosí,50403,Pocoata,2021,8,RN con alojamiento conjunto,15
+Potosí,51203,Porco,2021,8,RN con alojamiento conjunto,13
+Chuquisaca,10103,Poroma,2021,8,RN con alojamiento conjunto,2
+Santa Cruz,70601,Portachuelo,2021,8,RN con alojamiento conjunto,26
+Pando,90102,Porvenir,2021,8,RN con alojamiento conjunto,2
+Potosí,50101,Potosi,2021,8,RN con alojamiento conjunto,290
+Santa Cruz,71402,Puerto Quijarro,2021,8,RN con alojamiento conjunto,8
+Pando,90201,Puerto Rico,2021,8,RN con alojamiento conjunto,7
+Santa Cruz,71401,Puerto Suarez,2021,8,RN con alojamiento conjunto,1
+Cochabamba,31205,Puerto Villarroel,2021,8,RN con alojamiento conjunto,132
+Potosí,51101,Puna,2021,8,RN con alojamiento conjunto,2
+Cochabamba,31401,Punata,2021,8,RN con alojamiento conjunto,83
+Cochabamba,30901,Quillacollo,2021,8,RN con alojamiento conjunto,189
+Potosí,50402,Ravelo,2021,8,RN con alojamiento conjunto,5
+Beni,80301,Reyes,2021,8,RN con alojamiento conjunto,20
+Beni,80201,Riberalta,2021,8,RN con alojamiento conjunto,228
+Santa Cruz,70503,Robore,2021,8,RN con alojamiento conjunto,20
+Beni,80304,Rurrenabaque,2021,8,RN con alojamiento conjunto,40
+Cochabamba,31001,Sacaba,2021,8,RN con alojamiento conjunto,183
+Potosí,50701,Sacaca,2021,8,RN con alojamiento conjunto,9
+Santa Cruz,71302,Saipina,2021,8,RN con alojamiento conjunto,4
+Oruro,40801,Salinas De Garci Mendoza,2021,8,RN con alojamiento conjunto,1
+Beni,80602,San Andres,2021,8,RN con alojamiento conjunto,3
+Potosí,51003,San Antonio De Esmoruco,2021,8,RN con alojamiento conjunto,1
+Santa Cruz,71105,San Antonio De Lomerio,2021,8,RN con alojamiento conjunto,7
+Beni,80302,San Borja,2021,8,RN con alojamiento conjunto,59
+Beni,80501,San Ignacio,2021,8,RN con alojamiento conjunto,27
+Santa Cruz,70301,San Ignacio De Velasco,2021,8,RN con alojamiento conjunto,69
+Santa Cruz,71102,San Javier(stc),2021,8,RN con alojamiento conjunto,24
+Beni,80701,San Joaquin,2021,8,RN con alojamiento conjunto,8
+Santa Cruz,70501,San Jose De Chiquitos,2021,8,RN con alojamiento conjunto,29
+Santa Cruz,70404,San Juan De Yapacani,2021,8,RN con alojamiento conjunto,2
+Santa Cruz,71104,San Julian,2021,8,RN con alojamiento conjunto,44
+Pando,90302,San Lorenzo(pnd),2021,8,RN con alojamiento conjunto,7
+Tarija,60501,San Lorenzo(tja),2021,8,RN con alojamiento conjunto,10
+Chuquisaca,10702,San Lucas,2021,8,RN con alojamiento conjunto,26
+Santa Cruz,71201,San Matias,2021,8,RN con alojamiento conjunto,13
+Santa Cruz,70302,San Miguel De Velasco,2021,8,RN con alojamiento conjunto,13
+Santa Cruz,71005,San Pedro,2021,8,RN con alojamiento conjunto,1
+Potosí,50501,San Pedro De Buena Vista,2021,8,RN con alojamiento conjunto,1
+Potosí,50405,San Pedro De Macha,2021,8,RN con alojamiento conjunto,2
+Santa Cruz,70303,San Rafael,2021,8,RN con alojamiento conjunto,6
+Beni,80702,San Ramon Beni,2021,8,RN con alojamiento conjunto,1
+Santa Cruz,71103,San Ramon Scz,2021,8,RN con alojamiento conjunto,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,8,RN con alojamiento conjunto,1685
+Beni,80303,Santa Rosa,2021,8,RN con alojamiento conjunto,16
+Santa Cruz,70602,Santa Rosa Del Sara,2021,8,RN con alojamiento conjunto,4
+Pando,90303,Sena,2021,8,RN con alojamiento conjunto,11
+Cochabamba,30703,Sicaya,2021,8,RN con alojamiento conjunto,1
+Chuquisaca,10403,Sopachuy,2021,8,RN con alojamiento conjunto,2
+Chuquisaca,10101,Sucre,2021,8,RN con alojamiento conjunto,209
+Chuquisaca,10601,Tarabuco,2021,8,RN con alojamiento conjunto,8
+Tarija,60101,Tarija,2021,8,RN con alojamiento conjunto,315
+Cochabamba,30903,Tiquipaya,2021,8,RN con alojamiento conjunto,57
+Potosí,51202,Tomave,2021,8,RN con alojamiento conjunto,1
+Chuquisaca,10402,Tomina,2021,8,RN con alojamiento conjunto,7
+Potosí,50502,Toro Toro,2021,8,RN con alojamiento conjunto,9
+Cochabamba,31201,Totora(cbba),2021,8,RN con alojamiento conjunto,19
+Oruro,41301,Totora(orr),2021,8,RN con alojamiento conjunto,1
+Beni,80101,Trinidad,2021,8,RN con alojamiento conjunto,20
+Potosí,50801,Tupiza,2021,8,RN con alojamiento conjunto,49
+Potosí,50201,Uncia,2021,8,RN con alojamiento conjunto,7
+Santa Cruz,71502,Urubicha,2021,8,RN con alojamiento conjunto,5
+Potosí,51201,Uyuni,2021,8,RN con alojamiento conjunto,33
+Santa Cruz,70801,Vallegrande,2021,8,RN con alojamiento conjunto,24
+La Paz,20801,Viacha,2021,8,RN con alojamiento conjunto,51
+Tarija,60303,Villa Montes,2021,8,RN con alojamiento conjunto,57
+Chuquisaca,10801,Villa Serrano,2021,8,RN con alojamiento conjunto,7
+Cochabamba,31003,Villa Tunari,2021,8,RN con alojamiento conjunto,85
+Potosí,51501,Villazon,2021,8,RN con alojamiento conjunto,39
+Cochabamba,30904,Vinto,2021,8,RN con alojamiento conjunto,56
+Potosí,50602,Vitichi,2021,8,RN con alojamiento conjunto,3
+Santa Cruz,70201,Warnes,2021,8,RN con alojamiento conjunto,8
+Tarija,60301,Yacuiba,2021,8,RN con alojamiento conjunto,103
+Santa Cruz,70403,Yapacani,2021,8,RN con alojamiento conjunto,83
+Potosí,51302,Acacio,2021,9,RN con alojamiento conjunto,1
+La Paz,20201,Achacachi,2021,9,RN con alojamiento conjunto,35
+Cochabamba,30201,Aiquile,2021,9,RN con alojamiento conjunto,19
+Chuquisaca,10404,Alcala,2021,9,RN con alojamiento conjunto,4
+Santa Cruz,71501,Ascencion De Guarayos,2021,9,RN con alojamiento conjunto,59
+Potosí,50802,Atocha,2021,9,RN con alojamiento conjunto,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,9,RN con alojamiento conjunto,6
+Beni,80802,Baures,2021,9,RN con alojamiento conjunto,4
+Tarija,60202,Bermejo,2021,9,RN con alojamiento conjunto,39
+Potosí,50301,Betanzos,2021,9,RN con alojamiento conjunto,18
+Santa Cruz,70707,Boyuibe,2021,9,RN con alojamiento conjunto,7
+Santa Cruz,70401,Buena Vista,2021,9,RN con alojamiento conjunto,13
+Santa Cruz,70703,Cabezas,2021,9,RN con alojamiento conjunto,14
+Potosí,51102,"Caiza ""d""",2021,9,RN con alojamiento conjunto,4
+Chuquisaca,10701,Camargo,2021,9,RN con alojamiento conjunto,15
+Santa Cruz,70706,Camiri,2021,9,RN con alojamiento conjunto,19
+Cochabamba,30701,Capinota,2021,9,RN con alojamiento conjunto,16
+Oruro,40102,Caracollo,2021,9,RN con alojamiento conjunto,12
+La Paz,22001,Caranavi,2021,9,RN con alojamiento conjunto,83
+Tarija,60302,Carapari,2021,9,RN con alojamiento conjunto,4
+Potosí,50702,Caripuyo,2021,9,RN con alojamiento conjunto,1
+Santa Cruz,71403,Carmen Rivero Torrez,2021,9,RN con alojamiento conjunto,8
+Oruro,40201,Challapata,2021,9,RN con alojamiento conjunto,38
+Potosí,50302,Chaqui,2021,9,RN con alojamiento conjunto,7
+Santa Cruz,70702,Charagua,2021,9,RN con alojamiento conjunto,4
+La Paz,21101,Chulumani (v. De La Libertad),2021,9,RN con alojamiento conjunto,24
+Potosí,51103,Ckochas,2021,9,RN con alojamiento conjunto,4
+Cochabamba,30801,Cliza,2021,9,RN con alojamiento conjunto,23
+Pando,90101,Cobija,2021,9,RN con alojamiento conjunto,101
+Cochabamba,30101,Cochabamba,2021,9,RN con alojamiento conjunto,1172
+Cochabamba,30905,Colcapirhua,2021,9,RN con alojamiento conjunto,35
+Potosí,50901,"Colcha ""k""",2021,9,RN con alojamiento conjunto,1
+Santa Cruz,71301,Comarapa,2021,9,RN con alojamiento conjunto,39
+Santa Cruz,71101,Concepcion,2021,9,RN con alojamiento conjunto,36
+La Paz,21401,Coroico,2021,9,RN con alojamiento conjunto,23
+Potosí,50601,Cotagaita,2021,9,RN con alojamiento conjunto,9
+Santa Cruz,70102,Cotoca,2021,9,RN con alojamiento conjunto,74
+Santa Cruz,71106,Cuatro Cañadas,2021,9,RN con alojamiento conjunto,23
+Chuquisaca,10902,Culpina,2021,9,RN con alojamiento conjunto,14
+La Paz,20105,El Alto,2021,9,RN con alojamiento conjunto,1114
+Santa Cruz,71503,El Puente(stc),2021,9,RN con alojamiento conjunto,6
+Santa Cruz,70105,El Torno,2021,9,RN con alojamiento conjunto,70
+Chuquisaca,10405,El Villar,2021,9,RN con alojamiento conjunto,2
+Tarija,60601,Entre Rios Trj,2021,9,RN con alojamiento conjunto,11
+Cochabamba,31206,Entre Rios Cbba,2021,9,RN con alojamiento conjunto,17
+La Paz,20405,Escoma,2021,9,RN con alojamiento conjunto,6
+Santa Cruz,71004,Fernandez Alonso,2021,9,RN con alojamiento conjunto,3
+Pando,90203,Filadelfia,2021,9,RN con alojamiento conjunto,1
+Beni,80202,Guayaramerin,2021,9,RN con alojamiento conjunto,69
+Oruro,40501,Huachacalla,2021,9,RN con alojamiento conjunto,1
+Oruro,40701,Huanuni,2021,9,RN con alojamiento conjunto,28
+Beni,80803,Huaracaje,2021,9,RN con alojamiento conjunto,4
+Chuquisaca,10703,Incahuasi,2021,9,RN con alojamiento conjunto,8
+La Paz,20806,Jesus De Machaca,2021,9,RN con alojamiento conjunto,2
+Santa Cruz,70104,La Guardia,2021,9,RN con alojamiento conjunto,75
+La Paz,20101,La Paz,2021,9,RN con alojamiento conjunto,795
+Santa Cruz,70701,Lagunillas,2021,9,RN con alojamiento conjunto,1
+Chuquisaca,10903,Las Carreras,2021,9,RN con alojamiento conjunto,1
+Potosí,50203,Llallagua,2021,9,RN con alojamiento conjunto,54
+Potosí,51401,Llica,2021,9,RN con alojamiento conjunto,1
+Beni,80601,Loreto,2021,9,RN con alojamiento conjunto,1
+Beni,80801,Magdalena,2021,9,RN con alojamiento conjunto,14
+Santa Cruz,70903,Mairana,2021,9,RN con alojamiento conjunto,19
+Cochabamba,31301,Mizque,2021,9,RN con alojamiento conjunto,22
+Chuquisaca,10501,Monteagudo,2021,9,RN con alojamiento conjunto,27
+Santa Cruz,71001,Montero,2021,9,RN con alojamiento conjunto,323
+Potosí,50404,Ocuri,2021,9,RN con alojamiento conjunto,7
+Oruro,40101,Oruro,2021,9,RN con alojamiento conjunto,396
+Chuquisaca,10401,Padilla,2021,9,RN con alojamiento conjunto,13
+Santa Cruz,70502,Pailon,2021,9,RN con alojamiento conjunto,28
+Santa Cruz,70902,Pampa Grande,2021,9,RN con alojamiento conjunto,5
+La Paz,21305,Patacamaya,2021,9,RN con alojamiento conjunto,27
+Potosí,51203,Porco,2021,9,RN con alojamiento conjunto,13
+Santa Cruz,70601,Portachuelo,2021,9,RN con alojamiento conjunto,26
+Potosí,50101,Potosi,2021,9,RN con alojamiento conjunto,341
+Pando,90301,Puerto Gonzalo Moreno,2021,9,RN con alojamiento conjunto,2
+Santa Cruz,71402,Puerto Quijarro,2021,9,RN con alojamiento conjunto,13
+Pando,90201,Puerto Rico,2021,9,RN con alojamiento conjunto,8
+Beni,80703,Puerto Siles,2021,9,RN con alojamiento conjunto,1
+Cochabamba,31205,Puerto Villarroel,2021,9,RN con alojamiento conjunto,107
+Cochabamba,31401,Punata,2021,9,RN con alojamiento conjunto,82
+Cochabamba,30901,Quillacollo,2021,9,RN con alojamiento conjunto,177
+Potosí,50402,Ravelo,2021,9,RN con alojamiento conjunto,2
+Beni,80301,Reyes,2021,9,RN con alojamiento conjunto,10
+Beni,80201,Riberalta,2021,9,RN con alojamiento conjunto,240
+Santa Cruz,70503,Robore,2021,9,RN con alojamiento conjunto,1
+Beni,80304,Rurrenabaque,2021,9,RN con alojamiento conjunto,30
+Cochabamba,31001,Sacaba,2021,9,RN con alojamiento conjunto,206
+Potosí,50701,Sacaca,2021,9,RN con alojamiento conjunto,5
+Oruro,40801,Salinas De Garci Mendoza,2021,9,RN con alojamiento conjunto,8
+Beni,80602,San Andres,2021,9,RN con alojamiento conjunto,3
+Santa Cruz,71105,San Antonio De Lomerio,2021,9,RN con alojamiento conjunto,5
+Beni,80302,San Borja,2021,9,RN con alojamiento conjunto,58
+Beni,80501,San Ignacio,2021,9,RN con alojamiento conjunto,22
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,RN con alojamiento conjunto,95
+Beni,80701,San Joaquin,2021,9,RN con alojamiento conjunto,10
+Santa Cruz,70501,San Jose De Chiquitos,2021,9,RN con alojamiento conjunto,32
+Santa Cruz,70404,San Juan De Yapacani,2021,9,RN con alojamiento conjunto,1
+Santa Cruz,71104,San Julian,2021,9,RN con alojamiento conjunto,52
+Pando,90302,San Lorenzo(pnd),2021,9,RN con alojamiento conjunto,2
+Tarija,60501,San Lorenzo(tja),2021,9,RN con alojamiento conjunto,4
+Chuquisaca,10702,San Lucas,2021,9,RN con alojamiento conjunto,18
+Santa Cruz,71201,San Matias,2021,9,RN con alojamiento conjunto,20
+Santa Cruz,70302,San Miguel De Velasco,2021,9,RN con alojamiento conjunto,13
+Santa Cruz,71005,San Pedro,2021,9,RN con alojamiento conjunto,2
+Potosí,50501,San Pedro De Buena Vista,2021,9,RN con alojamiento conjunto,3
+Potosí,50405,San Pedro De Macha,2021,9,RN con alojamiento conjunto,1
+Santa Cruz,70303,San Rafael,2021,9,RN con alojamiento conjunto,9
+Beni,80702,San Ramon Beni,2021,9,RN con alojamiento conjunto,7
+Santa Cruz,71103,San Ramon Scz,2021,9,RN con alojamiento conjunto,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,9,RN con alojamiento conjunto,1734
+Beni,80303,Santa Rosa,2021,9,RN con alojamiento conjunto,8
+Santa Cruz,70602,Santa Rosa Del Sara,2021,9,RN con alojamiento conjunto,3
+Pando,90303,Sena,2021,9,RN con alojamiento conjunto,12
+Cochabamba,30703,Sicaya,2021,9,RN con alojamiento conjunto,1
+Chuquisaca,10403,Sopachuy,2021,9,RN con alojamiento conjunto,3
+Chuquisaca,10101,Sucre,2021,9,RN con alojamiento conjunto,298
+Chuquisaca,10601,Tarabuco,2021,9,RN con alojamiento conjunto,16
+Tarija,60101,Tarija,2021,9,RN con alojamiento conjunto,293
+Chuquisaca,10202,Tarvita,2021,9,RN con alojamiento conjunto,1
+Cochabamba,30903,Tiquipaya,2021,9,RN con alojamiento conjunto,65
+Potosí,51202,Tomave,2021,9,RN con alojamiento conjunto,3
+Chuquisaca,10402,Tomina,2021,9,RN con alojamiento conjunto,2
+Potosí,50502,Toro Toro,2021,9,RN con alojamiento conjunto,4
+Cochabamba,31201,Totora(cbba),2021,9,RN con alojamiento conjunto,23
+Oruro,41301,Totora(orr),2021,9,RN con alojamiento conjunto,5
+Beni,80101,Trinidad,2021,9,RN con alojamiento conjunto,280
+Potosí,50801,Tupiza,2021,9,RN con alojamiento conjunto,47
+Potosí,50201,Uncia,2021,9,RN con alojamiento conjunto,11
+Santa Cruz,71502,Urubicha,2021,9,RN con alojamiento conjunto,4
+Potosí,51201,Uyuni,2021,9,RN con alojamiento conjunto,38
+Santa Cruz,70801,Vallegrande,2021,9,RN con alojamiento conjunto,17
+La Paz,20801,Viacha,2021,9,RN con alojamiento conjunto,55
+Tarija,60303,Villa Montes,2021,9,RN con alojamiento conjunto,53
+Pando,90502,Villa Nueva (loma Alta),2021,9,RN con alojamiento conjunto,1
+Chuquisaca,10801,Villa Serrano,2021,9,RN con alojamiento conjunto,5
+Cochabamba,31003,Villa Tunari,2021,9,RN con alojamiento conjunto,100
+Potosí,51501,Villazon,2021,9,RN con alojamiento conjunto,35
+Cochabamba,30904,Vinto,2021,9,RN con alojamiento conjunto,60
+Potosí,50602,Vitichi,2021,9,RN con alojamiento conjunto,6
+Santa Cruz,70201,Warnes,2021,9,RN con alojamiento conjunto,35
+Tarija,60301,Yacuiba,2021,9,RN con alojamiento conjunto,107
+Santa Cruz,70403,Yapacani,2021,9,RN con alojamiento conjunto,81
+Potosí,51302,Acacio,2021,10,RN con alojamiento conjunto,4
+La Paz,20201,Achacachi,2021,10,RN con alojamiento conjunto,34
+Cochabamba,30201,Aiquile,2021,10,RN con alojamiento conjunto,26
+Chuquisaca,10404,Alcala,2021,10,RN con alojamiento conjunto,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,10,RN con alojamiento conjunto,61
+Potosí,50802,Atocha,2021,10,RN con alojamiento conjunto,8
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,10,RN con alojamiento conjunto,10
+Beni,80802,Baures,2021,10,RN con alojamiento conjunto,7
+Pando,90104,Bella Flor,2021,10,RN con alojamiento conjunto,3
+Tarija,60202,Bermejo,2021,10,RN con alojamiento conjunto,27
+Potosí,50301,Betanzos,2021,10,RN con alojamiento conjunto,27
+Pando,90103,Bolpebra,2021,10,RN con alojamiento conjunto,1
+Santa Cruz,70401,Buena Vista,2021,10,RN con alojamiento conjunto,13
+Santa Cruz,70703,Cabezas,2021,10,RN con alojamiento conjunto,11
+Potosí,51102,"Caiza ""d""",2021,10,RN con alojamiento conjunto,7
+Chuquisaca,10701,Camargo,2021,10,RN con alojamiento conjunto,23
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,10,RN con alojamiento conjunto,1
+Santa Cruz,70706,Camiri,2021,10,RN con alojamiento conjunto,11
+Cochabamba,30701,Capinota,2021,10,RN con alojamiento conjunto,23
+Oruro,40102,Caracollo,2021,10,RN con alojamiento conjunto,13
+La Paz,22001,Caranavi,2021,10,RN con alojamiento conjunto,62
+Tarija,60302,Carapari,2021,10,RN con alojamiento conjunto,3
+Potosí,50702,Caripuyo,2021,10,RN con alojamiento conjunto,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,10,RN con alojamiento conjunto,4
+Oruro,40201,Challapata,2021,10,RN con alojamiento conjunto,58
+Potosí,50302,Chaqui,2021,10,RN con alojamiento conjunto,3
+Santa Cruz,70702,Charagua,2021,10,RN con alojamiento conjunto,4
+La Paz,21101,Chulumani (v. De La Libertad),2021,10,RN con alojamiento conjunto,32
+Potosí,51103,Ckochas,2021,10,RN con alojamiento conjunto,6
+Cochabamba,30801,Cliza,2021,10,RN con alojamiento conjunto,37
+Pando,90101,Cobija,2021,10,RN con alojamiento conjunto,76
+Cochabamba,30101,Cochabamba,2021,10,RN con alojamiento conjunto,1123
+Cochabamba,30905,Colcapirhua,2021,10,RN con alojamiento conjunto,37
+Potosí,50901,"Colcha ""k""",2021,10,RN con alojamiento conjunto,4
+Santa Cruz,71301,Comarapa,2021,10,RN con alojamiento conjunto,26
+Santa Cruz,71101,Concepcion,2021,10,RN con alojamiento conjunto,44
+La Paz,21401,Coroico,2021,10,RN con alojamiento conjunto,29
+Potosí,50601,Cotagaita,2021,10,RN con alojamiento conjunto,4
+Santa Cruz,70102,Cotoca,2021,10,RN con alojamiento conjunto,91
+Santa Cruz,71106,Cuatro Cañadas,2021,10,RN con alojamiento conjunto,23
+Chuquisaca,10902,Culpina,2021,10,RN con alojamiento conjunto,12
+La Paz,20105,El Alto,2021,10,RN con alojamiento conjunto,1120
+Santa Cruz,71503,El Puente(stc),2021,10,RN con alojamiento conjunto,11
+Santa Cruz,70105,El Torno,2021,10,RN con alojamiento conjunto,13
+Chuquisaca,10405,El Villar,2021,10,RN con alojamiento conjunto,1
+Tarija,60601,Entre Rios Trj,2021,10,RN con alojamiento conjunto,13
+Cochabamba,31206,Entre Rios Cbba,2021,10,RN con alojamiento conjunto,22
+La Paz,20405,Escoma,2021,10,RN con alojamiento conjunto,5
+Santa Cruz,71004,Fernandez Alonso,2021,10,RN con alojamiento conjunto,5
+Pando,90203,Filadelfia,2021,10,RN con alojamiento conjunto,2
+Beni,80202,Guayaramerin,2021,10,RN con alojamiento conjunto,70
+Oruro,40501,Huachacalla,2021,10,RN con alojamiento conjunto,2
+Oruro,40701,Huanuni,2021,10,RN con alojamiento conjunto,13
+Beni,80803,Huaracaje,2021,10,RN con alojamiento conjunto,4
+Chuquisaca,10703,Incahuasi,2021,10,RN con alojamiento conjunto,3
+La Paz,20806,Jesus De Machaca,2021,10,RN con alojamiento conjunto,1
+Santa Cruz,70104,La Guardia,2021,10,RN con alojamiento conjunto,74
+La Paz,20101,La Paz,2021,10,RN con alojamiento conjunto,1001
+Santa Cruz,70701,Lagunillas,2021,10,RN con alojamiento conjunto,3
+Chuquisaca,10903,Las Carreras,2021,10,RN con alojamiento conjunto,1
+Potosí,50203,Llallagua,2021,10,RN con alojamiento conjunto,52
+Beni,80801,Magdalena,2021,10,RN con alojamiento conjunto,7
+Santa Cruz,70903,Mairana,2021,10,RN con alojamiento conjunto,24
+Cochabamba,31301,Mizque,2021,10,RN con alojamiento conjunto,25
+La Paz,20402,Mocomoco,2021,10,RN con alojamiento conjunto,1
+Potosí,51002,Mojinete,2021,10,RN con alojamiento conjunto,1
+Chuquisaca,10501,Monteagudo,2021,10,RN con alojamiento conjunto,44
+Santa Cruz,71001,Montero,2021,10,RN con alojamiento conjunto,248
+Potosí,50404,Ocuri,2021,10,RN con alojamiento conjunto,5
+Oruro,40101,Oruro,2021,10,RN con alojamiento conjunto,421
+Chuquisaca,10401,Padilla,2021,10,RN con alojamiento conjunto,10
+Santa Cruz,70502,Pailon,2021,10,RN con alojamiento conjunto,24
+La Paz,21104,Palos Blancos,2021,10,RN con alojamiento conjunto,15
+Santa Cruz,70902,Pampa Grande,2021,10,RN con alojamiento conjunto,4
+La Paz,21305,Patacamaya,2021,10,RN con alojamiento conjunto,24
+Potosí,51203,Porco,2021,10,RN con alojamiento conjunto,13
+Santa Cruz,70601,Portachuelo,2021,10,RN con alojamiento conjunto,14
+Pando,90102,Porvenir,2021,10,RN con alojamiento conjunto,1
+Potosí,50101,Potosi,2021,10,RN con alojamiento conjunto,361
+La Paz,20401,Puerto Acosta,2021,10,RN con alojamiento conjunto,1
+Pando,90301,Puerto Gonzalo Moreno,2021,10,RN con alojamiento conjunto,2
+Santa Cruz,71402,Puerto Quijarro,2021,10,RN con alojamiento conjunto,9
+Pando,90201,Puerto Rico,2021,10,RN con alojamiento conjunto,7
+Beni,80703,Puerto Siles,2021,10,RN con alojamiento conjunto,1
+Cochabamba,31205,Puerto Villarroel,2021,10,RN con alojamiento conjunto,119
+Potosí,51101,Puna,2021,10,RN con alojamiento conjunto,1
+Cochabamba,31401,Punata,2021,10,RN con alojamiento conjunto,70
+Cochabamba,30901,Quillacollo,2021,10,RN con alojamiento conjunto,199
+Potosí,50402,Ravelo,2021,10,RN con alojamiento conjunto,8
+Beni,80301,Reyes,2021,10,RN con alojamiento conjunto,14
+Beni,80201,Riberalta,2021,10,RN con alojamiento conjunto,257
+Santa Cruz,70503,Robore,2021,10,RN con alojamiento conjunto,17
+Beni,80304,Rurrenabaque,2021,10,RN con alojamiento conjunto,38
+Cochabamba,31001,Sacaba,2021,10,RN con alojamiento conjunto,210
+Potosí,50701,Sacaca,2021,10,RN con alojamiento conjunto,11
+Santa Cruz,71302,Saipina,2021,10,RN con alojamiento conjunto,4
+Oruro,40801,Salinas De Garci Mendoza,2021,10,RN con alojamiento conjunto,3
+Beni,80602,San Andres,2021,10,RN con alojamiento conjunto,5
+Santa Cruz,71105,San Antonio De Lomerio,2021,10,RN con alojamiento conjunto,4
+Beni,80302,San Borja,2021,10,RN con alojamiento conjunto,56
+Santa Cruz,70402,San Carlos,2021,10,RN con alojamiento conjunto,1
+Beni,80501,San Ignacio,2021,10,RN con alojamiento conjunto,29
+Santa Cruz,70301,San Ignacio De Velasco,2021,10,RN con alojamiento conjunto,106
+Santa Cruz,71102,San Javier(stc),2021,10,RN con alojamiento conjunto,31
+Beni,80701,San Joaquin,2021,10,RN con alojamiento conjunto,10
+Santa Cruz,70501,San Jose De Chiquitos,2021,10,RN con alojamiento conjunto,35
+Santa Cruz,70404,San Juan De Yapacani,2021,10,RN con alojamiento conjunto,1
+Santa Cruz,71104,San Julian,2021,10,RN con alojamiento conjunto,56
+Pando,90302,San Lorenzo(pnd),2021,10,RN con alojamiento conjunto,6
+Tarija,60501,San Lorenzo(tja),2021,10,RN con alojamiento conjunto,4
+Chuquisaca,10702,San Lucas,2021,10,RN con alojamiento conjunto,12
+Santa Cruz,71201,San Matias,2021,10,RN con alojamiento conjunto,15
+Santa Cruz,70302,San Miguel De Velasco,2021,10,RN con alojamiento conjunto,7
+Santa Cruz,71005,San Pedro,2021,10,RN con alojamiento conjunto,1
+Potosí,50405,San Pedro De Macha,2021,10,RN con alojamiento conjunto,5
+Santa Cruz,70303,San Rafael,2021,10,RN con alojamiento conjunto,7
+Beni,80702,San Ramon Beni,2021,10,RN con alojamiento conjunto,2
+Santa Cruz,71103,San Ramon Scz,2021,10,RN con alojamiento conjunto,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,10,RN con alojamiento conjunto,1588
+Beni,80303,Santa Rosa,2021,10,RN con alojamiento conjunto,11
+Santa Cruz,70602,Santa Rosa Del Sara,2021,10,RN con alojamiento conjunto,6
+Pando,90303,Sena,2021,10,RN con alojamiento conjunto,4
+Chuquisaca,10403,Sopachuy,2021,10,RN con alojamiento conjunto,9
+Chuquisaca,10101,Sucre,2021,10,RN con alojamiento conjunto,306
+Chuquisaca,10601,Tarabuco,2021,10,RN con alojamiento conjunto,16
+Tarija,60101,Tarija,2021,10,RN con alojamiento conjunto,308
+Cochabamba,30903,Tiquipaya,2021,10,RN con alojamiento conjunto,83
+Potosí,51202,Tomave,2021,10,RN con alojamiento conjunto,1
+Chuquisaca,10402,Tomina,2021,10,RN con alojamiento conjunto,6
+Potosí,50502,Toro Toro,2021,10,RN con alojamiento conjunto,5
+Cochabamba,31201,Totora(cbba),2021,10,RN con alojamiento conjunto,24
+Oruro,41301,Totora(orr),2021,10,RN con alojamiento conjunto,1
+Beni,80101,Trinidad,2021,10,RN con alojamiento conjunto,271
+Potosí,50801,Tupiza,2021,10,RN con alojamiento conjunto,46
+Potosí,50201,Uncia,2021,10,RN con alojamiento conjunto,12
+Santa Cruz,71502,Urubicha,2021,10,RN con alojamiento conjunto,2
+Potosí,51201,Uyuni,2021,10,RN con alojamiento conjunto,35
+Santa Cruz,70801,Vallegrande,2021,10,RN con alojamiento conjunto,30
+La Paz,20801,Viacha,2021,10,RN con alojamiento conjunto,41
+Cochabamba,31302,Vila Vila,2021,10,RN con alojamiento conjunto,4
+Tarija,60303,Villa Montes,2021,10,RN con alojamiento conjunto,49
+Chuquisaca,10801,Villa Serrano,2021,10,RN con alojamiento conjunto,4
+Cochabamba,31003,Villa Tunari,2021,10,RN con alojamiento conjunto,82
+Potosí,51501,Villazon,2021,10,RN con alojamiento conjunto,42
+Cochabamba,30904,Vinto,2021,10,RN con alojamiento conjunto,60
+Potosí,50602,Vitichi,2021,10,RN con alojamiento conjunto,7
+Santa Cruz,70201,Warnes,2021,10,RN con alojamiento conjunto,48
+Tarija,60301,Yacuiba,2021,10,RN con alojamiento conjunto,115
+Santa Cruz,70403,Yapacani,2021,10,RN con alojamiento conjunto,90
+La Paz,20201,Achacachi,2021,11,RN con alojamiento conjunto,38
+Cochabamba,30201,Aiquile,2021,11,RN con alojamiento conjunto,21
+Chuquisaca,10404,Alcala,2021,11,RN con alojamiento conjunto,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,11,RN con alojamiento conjunto,47
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,11,RN con alojamiento conjunto,8
+Beni,80802,Baures,2021,11,RN con alojamiento conjunto,1
+Tarija,60202,Bermejo,2021,11,RN con alojamiento conjunto,33
+Potosí,50301,Betanzos,2021,11,RN con alojamiento conjunto,14
+Santa Cruz,70707,Boyuibe,2021,11,RN con alojamiento conjunto,4
+Santa Cruz,70401,Buena Vista,2021,11,RN con alojamiento conjunto,8
+Santa Cruz,70703,Cabezas,2021,11,RN con alojamiento conjunto,13
+Potosí,51102,"Caiza ""d""",2021,11,RN con alojamiento conjunto,1
+Chuquisaca,10701,Camargo,2021,11,RN con alojamiento conjunto,19
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,11,RN con alojamiento conjunto,1
+Santa Cruz,70706,Camiri,2021,11,RN con alojamiento conjunto,6
+Cochabamba,30701,Capinota,2021,11,RN con alojamiento conjunto,12
+Oruro,40102,Caracollo,2021,11,RN con alojamiento conjunto,19
+La Paz,22001,Caranavi,2021,11,RN con alojamiento conjunto,93
+Tarija,60302,Carapari,2021,11,RN con alojamiento conjunto,5
+Potosí,50702,Caripuyo,2021,11,RN con alojamiento conjunto,5
+Santa Cruz,71403,Carmen Rivero Torrez,2021,11,RN con alojamiento conjunto,3
+Oruro,40201,Challapata,2021,11,RN con alojamiento conjunto,49
+Potosí,50302,Chaqui,2021,11,RN con alojamiento conjunto,5
+Santa Cruz,70702,Charagua,2021,11,RN con alojamiento conjunto,3
+La Paz,21101,Chulumani (v. De La Libertad),2021,11,RN con alojamiento conjunto,13
+Potosí,51103,Ckochas,2021,11,RN con alojamiento conjunto,4
+Cochabamba,30801,Cliza,2021,11,RN con alojamiento conjunto,36
+Pando,90101,Cobija,2021,11,RN con alojamiento conjunto,73
+Cochabamba,30101,Cochabamba,2021,11,RN con alojamiento conjunto,1077
+Cochabamba,30905,Colcapirhua,2021,11,RN con alojamiento conjunto,46
+Potosí,50901,"Colcha ""k""",2021,11,RN con alojamiento conjunto,6
+Potosí,50401,Colquechaca,2021,11,RN con alojamiento conjunto,1
+Santa Cruz,71301,Comarapa,2021,11,RN con alojamiento conjunto,20
+Santa Cruz,71101,Concepcion,2021,11,RN con alojamiento conjunto,36
+La Paz,21401,Coroico,2021,11,RN con alojamiento conjunto,32
+Potosí,50601,Cotagaita,2021,11,RN con alojamiento conjunto,14
+Santa Cruz,70102,Cotoca,2021,11,RN con alojamiento conjunto,66
+Santa Cruz,71106,Cuatro Cañadas,2021,11,RN con alojamiento conjunto,20
+Chuquisaca,10902,Culpina,2021,11,RN con alojamiento conjunto,17
+La Paz,20105,El Alto,2021,11,RN con alojamiento conjunto,1079
+Oruro,40103,El Choro,2021,11,RN con alojamiento conjunto,3
+Santa Cruz,71503,El Puente(stc),2021,11,RN con alojamiento conjunto,5
+Santa Cruz,70105,El Torno,2021,11,RN con alojamiento conjunto,68
+Chuquisaca,10405,El Villar,2021,11,RN con alojamiento conjunto,1
+Tarija,60601,Entre Rios Trj,2021,11,RN con alojamiento conjunto,9
+Cochabamba,31206,Entre Rios Cbba,2021,11,RN con alojamiento conjunto,20
+La Paz,20405,Escoma,2021,11,RN con alojamiento conjunto,10
+Santa Cruz,71004,Fernandez Alonso,2021,11,RN con alojamiento conjunto,4
+Pando,90203,Filadelfia,2021,11,RN con alojamiento conjunto,1
+Beni,80202,Guayaramerin,2021,11,RN con alojamiento conjunto,67
+Santa Cruz,70705,Gutierrez,2021,11,RN con alojamiento conjunto,4
+Chuquisaca,10502,Huacareta,2021,11,RN con alojamiento conjunto,2
+Oruro,40701,Huanuni,2021,11,RN con alojamiento conjunto,35
+Beni,80803,Huaracaje,2021,11,RN con alojamiento conjunto,2
+Chuquisaca,10703,Incahuasi,2021,11,RN con alojamiento conjunto,9
+Pando,90402,Ingavi (humaita),2021,11,RN con alojamiento conjunto,1
+Santa Cruz,70104,La Guardia,2021,11,RN con alojamiento conjunto,77
+La Paz,20101,La Paz,2021,11,RN con alojamiento conjunto,980
+Santa Cruz,70701,Lagunillas,2021,11,RN con alojamiento conjunto,3
+Chuquisaca,10903,Las Carreras,2021,11,RN con alojamiento conjunto,3
+Potosí,50203,Llallagua,2021,11,RN con alojamiento conjunto,65
+Beni,80801,Magdalena,2021,11,RN con alojamiento conjunto,14
+Santa Cruz,70903,Mairana,2021,11,RN con alojamiento conjunto,13
+Cochabamba,31301,Mizque,2021,11,RN con alojamiento conjunto,24
+La Paz,20402,Mocomoco,2021,11,RN con alojamiento conjunto,1
+Chuquisaca,10501,Monteagudo,2021,11,RN con alojamiento conjunto,24
+Santa Cruz,71001,Montero,2021,11,RN con alojamiento conjunto,245
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,11,RN con alojamiento conjunto,1
+Potosí,50404,Ocuri,2021,11,RN con alojamiento conjunto,9
+Oruro,40101,Oruro,2021,11,RN con alojamiento conjunto,411
+Chuquisaca,10401,Padilla,2021,11,RN con alojamiento conjunto,15
+Santa Cruz,70502,Pailon,2021,11,RN con alojamiento conjunto,25
+Santa Cruz,70902,Pampa Grande,2021,11,RN con alojamiento conjunto,2
+La Paz,21305,Patacamaya,2021,11,RN con alojamiento conjunto,33
+Oruro,40602,Pazña,2021,11,RN con alojamiento conjunto,1
+Potosí,51203,Porco,2021,11,RN con alojamiento conjunto,16
+Santa Cruz,70601,Portachuelo,2021,11,RN con alojamiento conjunto,30
+Pando,90102,Porvenir,2021,11,RN con alojamiento conjunto,2
+Potosí,50101,Potosi,2021,11,RN con alojamiento conjunto,383
+La Paz,20401,Puerto Acosta,2021,11,RN con alojamiento conjunto,1
+Pando,90301,Puerto Gonzalo Moreno,2021,11,RN con alojamiento conjunto,5
+Santa Cruz,71402,Puerto Quijarro,2021,11,RN con alojamiento conjunto,8
+Pando,90201,Puerto Rico,2021,11,RN con alojamiento conjunto,7
+Cochabamba,31205,Puerto Villarroel,2021,11,RN con alojamiento conjunto,113
+Potosí,51101,Puna,2021,11,RN con alojamiento conjunto,8
+Cochabamba,31401,Punata,2021,11,RN con alojamiento conjunto,57
+Cochabamba,30901,Quillacollo,2021,11,RN con alojamiento conjunto,198
+Potosí,50402,Ravelo,2021,11,RN con alojamiento conjunto,6
+Beni,80301,Reyes,2021,11,RN con alojamiento conjunto,2
+Beni,80201,Riberalta,2021,11,RN con alojamiento conjunto,239
+Santa Cruz,70503,Robore,2021,11,RN con alojamiento conjunto,22
+Beni,80304,Rurrenabaque,2021,11,RN con alojamiento conjunto,31
+Cochabamba,31001,Sacaba,2021,11,RN con alojamiento conjunto,75
+Potosí,50701,Sacaca,2021,11,RN con alojamiento conjunto,6
+Santa Cruz,71302,Saipina,2021,11,RN con alojamiento conjunto,2
+Oruro,40801,Salinas De Garci Mendoza,2021,11,RN con alojamiento conjunto,8
+Santa Cruz,70901,Samaipata,2021,11,RN con alojamiento conjunto,3
+Beni,80602,San Andres,2021,11,RN con alojamiento conjunto,2
+Santa Cruz,71105,San Antonio De Lomerio,2021,11,RN con alojamiento conjunto,3
+Beni,80302,San Borja,2021,11,RN con alojamiento conjunto,64
+Beni,80501,San Ignacio,2021,11,RN con alojamiento conjunto,15
+Santa Cruz,70301,San Ignacio De Velasco,2021,11,RN con alojamiento conjunto,91
+Santa Cruz,71102,San Javier(stc),2021,11,RN con alojamiento conjunto,24
+Beni,80701,San Joaquin,2021,11,RN con alojamiento conjunto,13
+Santa Cruz,70501,San Jose De Chiquitos,2021,11,RN con alojamiento conjunto,35
+Santa Cruz,70404,San Juan De Yapacani,2021,11,RN con alojamiento conjunto,1
+Santa Cruz,71104,San Julian,2021,11,RN con alojamiento conjunto,50
+Pando,90302,San Lorenzo(pnd),2021,11,RN con alojamiento conjunto,3
+Tarija,60501,San Lorenzo(tja),2021,11,RN con alojamiento conjunto,6
+Chuquisaca,10702,San Lucas,2021,11,RN con alojamiento conjunto,18
+Santa Cruz,71201,San Matias,2021,11,RN con alojamiento conjunto,21
+Santa Cruz,70302,San Miguel De Velasco,2021,11,RN con alojamiento conjunto,6
+Potosí,50405,San Pedro De Macha,2021,11,RN con alojamiento conjunto,1
+Santa Cruz,70303,San Rafael,2021,11,RN con alojamiento conjunto,7
+Beni,80702,San Ramon Beni,2021,11,RN con alojamiento conjunto,8
+Santa Cruz,71103,San Ramon Scz,2021,11,RN con alojamiento conjunto,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,RN con alojamiento conjunto,1514
+Beni,80303,Santa Rosa,2021,11,RN con alojamiento conjunto,15
+Santa Cruz,70602,Santa Rosa Del Sara,2021,11,RN con alojamiento conjunto,4
+Pando,90303,Sena,2021,11,RN con alojamiento conjunto,8
+Chuquisaca,10403,Sopachuy,2021,11,RN con alojamiento conjunto,7
+Oruro,40104,Soracachi,2021,11,RN con alojamiento conjunto,1
+Chuquisaca,10101,Sucre,2021,11,RN con alojamiento conjunto,293
+Chuquisaca,10601,Tarabuco,2021,11,RN con alojamiento conjunto,12
+Tarija,60101,Tarija,2021,11,RN con alojamiento conjunto,313
+Chuquisaca,10202,Tarvita,2021,11,RN con alojamiento conjunto,3
+Cochabamba,30903,Tiquipaya,2021,11,RN con alojamiento conjunto,49
+Potosí,51202,Tomave,2021,11,RN con alojamiento conjunto,5
+Chuquisaca,10402,Tomina,2021,11,RN con alojamiento conjunto,4
+Potosí,50502,Toro Toro,2021,11,RN con alojamiento conjunto,2
+Cochabamba,31201,Totora(cbba),2021,11,RN con alojamiento conjunto,20
+Beni,80101,Trinidad,2021,11,RN con alojamiento conjunto,244
+Potosí,50801,Tupiza,2021,11,RN con alojamiento conjunto,45
+Potosí,50201,Uncia,2021,11,RN con alojamiento conjunto,5
+Santa Cruz,71502,Urubicha,2021,11,RN con alojamiento conjunto,3
+Potosí,51201,Uyuni,2021,11,RN con alojamiento conjunto,36
+Santa Cruz,70801,Vallegrande,2021,11,RN con alojamiento conjunto,25
+La Paz,20801,Viacha,2021,11,RN con alojamiento conjunto,38
+Tarija,60303,Villa Montes,2021,11,RN con alojamiento conjunto,62
+Chuquisaca,10801,Villa Serrano,2021,11,RN con alojamiento conjunto,5
+Cochabamba,31003,Villa Tunari,2021,11,RN con alojamiento conjunto,87
+Potosí,51501,Villazon,2021,11,RN con alojamiento conjunto,42
+Cochabamba,30904,Vinto,2021,11,RN con alojamiento conjunto,67
+Potosí,50602,Vitichi,2021,11,RN con alojamiento conjunto,4
+Santa Cruz,70201,Warnes,2021,11,RN con alojamiento conjunto,39
+Tarija,60301,Yacuiba,2021,11,RN con alojamiento conjunto,124
+Santa Cruz,70403,Yapacani,2021,11,RN con alojamiento conjunto,69
+La Paz,20201,Achacachi,2021,12,RN con alojamiento conjunto,49
+Cochabamba,30201,Aiquile,2021,12,RN con alojamiento conjunto,23
+Santa Cruz,71501,Ascencion De Guarayos,2021,12,RN con alojamiento conjunto,50
+Potosí,50802,Atocha,2021,12,RN con alojamiento conjunto,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,12,RN con alojamiento conjunto,6
+Beni,80802,Baures,2021,12,RN con alojamiento conjunto,8
+Pando,90104,Bella Flor,2021,12,RN con alojamiento conjunto,1
+Tarija,60202,Bermejo,2021,12,RN con alojamiento conjunto,12
+Potosí,50301,Betanzos,2021,12,RN con alojamiento conjunto,12
+Santa Cruz,70401,Buena Vista,2021,12,RN con alojamiento conjunto,7
+Santa Cruz,70703,Cabezas,2021,12,RN con alojamiento conjunto,12
+Potosí,51102,"Caiza ""d""",2021,12,RN con alojamiento conjunto,6
+Chuquisaca,10701,Camargo,2021,12,RN con alojamiento conjunto,26
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,12,RN con alojamiento conjunto,2
+Santa Cruz,70706,Camiri,2021,12,RN con alojamiento conjunto,17
+Cochabamba,30701,Capinota,2021,12,RN con alojamiento conjunto,15
+Oruro,40102,Caracollo,2021,12,RN con alojamiento conjunto,15
+La Paz,22001,Caranavi,2021,12,RN con alojamiento conjunto,55
+Tarija,60302,Carapari,2021,12,RN con alojamiento conjunto,3
+Potosí,50702,Caripuyo,2021,12,RN con alojamiento conjunto,2
+Santa Cruz,71403,Carmen Rivero Torrez,2021,12,RN con alojamiento conjunto,7
+Oruro,40201,Challapata,2021,12,RN con alojamiento conjunto,32
+Potosí,50302,Chaqui,2021,12,RN con alojamiento conjunto,5
+Santa Cruz,70702,Charagua,2021,12,RN con alojamiento conjunto,2
+La Paz,21101,Chulumani (v. De La Libertad),2021,12,RN con alojamiento conjunto,22
+Potosí,51103,Ckochas,2021,12,RN con alojamiento conjunto,5
+Cochabamba,30801,Cliza,2021,12,RN con alojamiento conjunto,44
+Pando,90101,Cobija,2021,12,RN con alojamiento conjunto,103
+Cochabamba,30101,Cochabamba,2021,12,RN con alojamiento conjunto,1167
+Cochabamba,30905,Colcapirhua,2021,12,RN con alojamiento conjunto,36
+Potosí,50901,"Colcha ""k""",2021,12,RN con alojamiento conjunto,4
+Santa Cruz,71301,Comarapa,2021,12,RN con alojamiento conjunto,28
+Santa Cruz,71101,Concepcion,2021,12,RN con alojamiento conjunto,20
+La Paz,21401,Coroico,2021,12,RN con alojamiento conjunto,30
+Potosí,50601,Cotagaita,2021,12,RN con alojamiento conjunto,3
+Santa Cruz,70102,Cotoca,2021,12,RN con alojamiento conjunto,60
+Santa Cruz,71106,Cuatro Cañadas,2021,12,RN con alojamiento conjunto,22
+Chuquisaca,10902,Culpina,2021,12,RN con alojamiento conjunto,8
+La Paz,20105,El Alto,2021,12,RN con alojamiento conjunto,1067
+Santa Cruz,71503,El Puente(stc),2021,12,RN con alojamiento conjunto,4
+Santa Cruz,70105,El Torno,2021,12,RN con alojamiento conjunto,75
+Chuquisaca,10405,El Villar,2021,12,RN con alojamiento conjunto,1
+Tarija,60601,Entre Rios Trj,2021,12,RN con alojamiento conjunto,7
+Cochabamba,31206,Entre Rios Cbba,2021,12,RN con alojamiento conjunto,29
+La Paz,20405,Escoma,2021,12,RN con alojamiento conjunto,5
+Santa Cruz,71004,Fernandez Alonso,2021,12,RN con alojamiento conjunto,8
+Beni,80202,Guayaramerin,2021,12,RN con alojamiento conjunto,40
+Santa Cruz,70705,Gutierrez,2021,12,RN con alojamiento conjunto,1
+Chuquisaca,10502,Huacareta,2021,12,RN con alojamiento conjunto,4
+Oruro,40701,Huanuni,2021,12,RN con alojamiento conjunto,33
+Beni,80803,Huaracaje,2021,12,RN con alojamiento conjunto,3
+La Paz,20806,Jesus De Machaca,2021,12,RN con alojamiento conjunto,1
+Santa Cruz,70104,La Guardia,2021,12,RN con alojamiento conjunto,84
+La Paz,20101,La Paz,2021,12,RN con alojamiento conjunto,1105
+Santa Cruz,70701,Lagunillas,2021,12,RN con alojamiento conjunto,3
+Potosí,50203,Llallagua,2021,12,RN con alojamiento conjunto,57
+Potosí,51401,Llica,2021,12,RN con alojamiento conjunto,2
+Beni,80801,Magdalena,2021,12,RN con alojamiento conjunto,16
+Santa Cruz,70903,Mairana,2021,12,RN con alojamiento conjunto,19
+Cochabamba,31301,Mizque,2021,12,RN con alojamiento conjunto,26
+La Paz,20402,Mocomoco,2021,12,RN con alojamiento conjunto,1
+Chuquisaca,10501,Monteagudo,2021,12,RN con alojamiento conjunto,31
+Santa Cruz,71001,Montero,2021,12,RN con alojamiento conjunto,138
+Potosí,50404,Ocuri,2021,12,RN con alojamiento conjunto,4
+Oruro,40101,Oruro,2021,12,RN con alojamiento conjunto,471
+Chuquisaca,10401,Padilla,2021,12,RN con alojamiento conjunto,7
+Santa Cruz,70502,Pailon,2021,12,RN con alojamiento conjunto,29
+Santa Cruz,70902,Pampa Grande,2021,12,RN con alojamiento conjunto,6
+La Paz,21305,Patacamaya,2021,12,RN con alojamiento conjunto,24
+Potosí,51203,Porco,2021,12,RN con alojamiento conjunto,7
+Santa Cruz,70601,Portachuelo,2021,12,RN con alojamiento conjunto,30
+Pando,90102,Porvenir,2021,12,RN con alojamiento conjunto,3
+Potosí,50101,Potosi,2021,12,RN con alojamiento conjunto,377
+La Paz,20401,Puerto Acosta,2021,12,RN con alojamiento conjunto,1
+Pando,90301,Puerto Gonzalo Moreno,2021,12,RN con alojamiento conjunto,10
+Santa Cruz,71402,Puerto Quijarro,2021,12,RN con alojamiento conjunto,12
+Pando,90201,Puerto Rico,2021,12,RN con alojamiento conjunto,7
+Cochabamba,31205,Puerto Villarroel,2021,12,RN con alojamiento conjunto,101
+Potosí,51101,Puna,2021,12,RN con alojamiento conjunto,1
+Cochabamba,31401,Punata,2021,12,RN con alojamiento conjunto,63
+Cochabamba,30901,Quillacollo,2021,12,RN con alojamiento conjunto,174
+Potosí,50402,Ravelo,2021,12,RN con alojamiento conjunto,8
+Beni,80301,Reyes,2021,12,RN con alojamiento conjunto,16
+Beni,80201,Riberalta,2021,12,RN con alojamiento conjunto,249
+Santa Cruz,70503,Robore,2021,12,RN con alojamiento conjunto,24
+Beni,80304,Rurrenabaque,2021,12,RN con alojamiento conjunto,39
+Cochabamba,31001,Sacaba,2021,12,RN con alojamiento conjunto,223
+Potosí,50701,Sacaca,2021,12,RN con alojamiento conjunto,5
+Santa Cruz,71302,Saipina,2021,12,RN con alojamiento conjunto,2
+Oruro,40801,Salinas De Garci Mendoza,2021,12,RN con alojamiento conjunto,5
+Beni,80602,San Andres,2021,12,RN con alojamiento conjunto,4
+Santa Cruz,71105,San Antonio De Lomerio,2021,12,RN con alojamiento conjunto,7
+Beni,80302,San Borja,2021,12,RN con alojamiento conjunto,55
+Beni,80501,San Ignacio,2021,12,RN con alojamiento conjunto,26
+Santa Cruz,70301,San Ignacio De Velasco,2021,12,RN con alojamiento conjunto,87
+Beni,80701,San Joaquin,2021,12,RN con alojamiento conjunto,7
+Santa Cruz,70501,San Jose De Chiquitos,2021,12,RN con alojamiento conjunto,32
+Santa Cruz,70404,San Juan De Yapacani,2021,12,RN con alojamiento conjunto,3
+Santa Cruz,71104,San Julian,2021,12,RN con alojamiento conjunto,48
+Pando,90302,San Lorenzo(pnd),2021,12,RN con alojamiento conjunto,3
+Tarija,60501,San Lorenzo(tja),2021,12,RN con alojamiento conjunto,6
+Chuquisaca,10702,San Lucas,2021,12,RN con alojamiento conjunto,20
+Santa Cruz,71201,San Matias,2021,12,RN con alojamiento conjunto,16
+Santa Cruz,70302,San Miguel De Velasco,2021,12,RN con alojamiento conjunto,10
+Potosí,51001,San Pablo De Lipez,2021,12,RN con alojamiento conjunto,2
+Potosí,50405,San Pedro De Macha,2021,12,RN con alojamiento conjunto,3
+Santa Cruz,70303,San Rafael,2021,12,RN con alojamiento conjunto,8
+Beni,80702,San Ramon Beni,2021,12,RN con alojamiento conjunto,4
+Santa Cruz,71103,San Ramon Scz,2021,12,RN con alojamiento conjunto,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,12,RN con alojamiento conjunto,1648
+Beni,80303,Santa Rosa,2021,12,RN con alojamiento conjunto,16
+Santa Cruz,70602,Santa Rosa Del Sara,2021,12,RN con alojamiento conjunto,7
+Pando,90303,Sena,2021,12,RN con alojamiento conjunto,9
+Chuquisaca,10101,Sucre,2021,12,RN con alojamiento conjunto,298
+Chuquisaca,10601,Tarabuco,2021,12,RN con alojamiento conjunto,11
+Tarija,60101,Tarija,2021,12,RN con alojamiento conjunto,322
+Cochabamba,30903,Tiquipaya,2021,12,RN con alojamiento conjunto,73
+Potosí,51202,Tomave,2021,12,RN con alojamiento conjunto,5
+Chuquisaca,10402,Tomina,2021,12,RN con alojamiento conjunto,7
+Potosí,50502,Toro Toro,2021,12,RN con alojamiento conjunto,4
+Cochabamba,31201,Totora(cbba),2021,12,RN con alojamiento conjunto,14
+Oruro,41301,Totora(orr),2021,12,RN con alojamiento conjunto,2
+Beni,80101,Trinidad,2021,12,RN con alojamiento conjunto,272
+Potosí,50801,Tupiza,2021,12,RN con alojamiento conjunto,48
+Potosí,51201,Uyuni,2021,12,RN con alojamiento conjunto,31
+Santa Cruz,70801,Vallegrande,2021,12,RN con alojamiento conjunto,20
+La Paz,20801,Viacha,2021,12,RN con alojamiento conjunto,44
+Tarija,60303,Villa Montes,2021,12,RN con alojamiento conjunto,74
+Chuquisaca,10801,Villa Serrano,2021,12,RN con alojamiento conjunto,7
+Cochabamba,31003,Villa Tunari,2021,12,RN con alojamiento conjunto,88
+Potosí,51501,Villazon,2021,12,RN con alojamiento conjunto,49
+Cochabamba,30904,Vinto,2021,12,RN con alojamiento conjunto,47
+Potosí,50602,Vitichi,2021,12,RN con alojamiento conjunto,2
+Santa Cruz,70201,Warnes,2021,12,RN con alojamiento conjunto,52
+Tarija,60301,Yacuiba,2021,12,RN con alojamiento conjunto,104
+Santa Cruz,70403,Yapacani,2021,12,RN con alojamiento conjunto,77
+Potosí,51302,Acacio,2021,1,TOTAL,3
+La Paz,20201,Achacachi,2021,1,TOTAL,34
+Cochabamba,30201,Aiquile,2021,1,TOTAL,26
+Chuquisaca,10404,Alcala,2021,1,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,1,TOTAL,42
+Potosí,50802,Atocha,2021,1,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,1,TOTAL,10
+Beni,80802,Baures,2021,1,TOTAL,3
+Tarija,60202,Bermejo,2021,1,TOTAL,40
+Potosí,50301,Betanzos,2021,1,TOTAL,21
+Santa Cruz,70707,Boyuibe,2021,1,TOTAL,2
+Santa Cruz,70401,Buena Vista,2021,1,TOTAL,9
+Santa Cruz,70703,Cabezas,2021,1,TOTAL,13
+Potosí,51102,"Caiza ""d""",2021,1,TOTAL,6
+Chuquisaca,10701,Camargo,2021,1,TOTAL,14
+Santa Cruz,70706,Camiri,2021,1,TOTAL,7
+Cochabamba,30701,Capinota,2021,1,TOTAL,9
+Oruro,40102,Caracollo,2021,1,TOTAL,10
+La Paz,22001,Caranavi,2021,1,TOTAL,60
+Tarija,60302,Carapari,2021,1,TOTAL,2
+Potosí,50702,Caripuyo,2021,1,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2021,1,TOTAL,4
+Oruro,40201,Challapata,2021,1,TOTAL,34
+Potosí,50302,Chaqui,2021,1,TOTAL,3
+Santa Cruz,70702,Charagua,2021,1,TOTAL,3
+Potosí,50202,Chayanta,2021,1,TOTAL,4
+La Paz,21101,Chulumani (v. De La Libertad),2021,1,TOTAL,11
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,1,TOTAL,8
+Potosí,51103,Ckochas,2021,1,TOTAL,3
+Cochabamba,30801,Cliza,2021,1,TOTAL,35
+Pando,90101,Cobija,2021,1,TOTAL,93
+Cochabamba,30101,Cochabamba,2021,1,TOTAL,729
+Cochabamba,30905,Colcapirhua,2021,1,TOTAL,25
+Potosí,50901,"Colcha ""k""",2021,1,TOTAL,1
+Santa Cruz,71301,Comarapa,2021,1,TOTAL,30
+Santa Cruz,71101,Concepcion,2021,1,TOTAL,32
+La Paz,21401,Coroico,2021,1,TOTAL,10
+Potosí,50601,Cotagaita,2021,1,TOTAL,1
+Santa Cruz,70102,Cotoca,2021,1,TOTAL,52
+Santa Cruz,71106,Cuatro Cañadas,2021,1,TOTAL,25
+Chuquisaca,10902,Culpina,2021,1,TOTAL,4
+La Paz,20105,El Alto,2021,1,TOTAL,721
+Santa Cruz,71503,El Puente(stc),2021,1,TOTAL,2
+Santa Cruz,70105,El Torno,2021,1,TOTAL,96
+Chuquisaca,10405,El Villar,2021,1,TOTAL,5
+Tarija,60601,Entre Rios Trj,2021,1,TOTAL,11
+Cochabamba,31206,Entre Rios Cbba,2021,1,TOTAL,5
+La Paz,20405,Escoma,2021,1,TOTAL,2
+Santa Cruz,71004,Fernandez Alonso,2021,1,TOTAL,2
+Pando,90203,Filadelfia,2021,1,TOTAL,1
+Beni,80202,Guayaramerin,2021,1,TOTAL,71
+Oruro,40701,Huanuni,2021,1,TOTAL,13
+Beni,80803,Huaracaje,2021,1,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,1,TOTAL,47
+La Paz,20101,La Paz,2021,1,TOTAL,764
+Santa Cruz,70701,Lagunillas,2021,1,TOTAL,1
+Chuquisaca,10903,Las Carreras,2021,1,TOTAL,1
+Potosí,50203,Llallagua,2021,1,TOTAL,39
+Potosí,51401,Llica,2021,1,TOTAL,8
+Beni,80601,Loreto,2021,1,TOTAL,1
+Beni,80801,Magdalena,2021,1,TOTAL,8
+Santa Cruz,70903,Mairana,2021,1,TOTAL,7
+Cochabamba,31301,Mizque,2021,1,TOTAL,13
+Chuquisaca,10501,Monteagudo,2021,1,TOTAL,30
+Santa Cruz,71001,Montero,2021,1,TOTAL,286
+Potosí,50404,Ocuri,2021,1,TOTAL,4
+Oruro,40101,Oruro,2021,1,TOTAL,351
+Chuquisaca,10401,Padilla,2021,1,TOTAL,13
+Santa Cruz,70502,Pailon,2021,1,TOTAL,40
+Santa Cruz,70902,Pampa Grande,2021,1,TOTAL,4
+La Paz,21305,Patacamaya,2021,1,TOTAL,30
+Potosí,51203,Porco,2021,1,TOTAL,8
+Santa Cruz,70601,Portachuelo,2021,1,TOTAL,17
+Pando,90102,Porvenir,2021,1,TOTAL,2
+Potosí,50101,Potosi,2021,1,TOTAL,307
+Santa Cruz,71402,Puerto Quijarro,2021,1,TOTAL,10
+Pando,90201,Puerto Rico,2021,1,TOTAL,11
+Santa Cruz,71401,Puerto Suarez,2021,1,TOTAL,33
+Cochabamba,31205,Puerto Villarroel,2021,1,TOTAL,104
+Cochabamba,31401,Punata,2021,1,TOTAL,62
+Cochabamba,30901,Quillacollo,2021,1,TOTAL,160
+Beni,80301,Reyes,2021,1,TOTAL,11
+Beni,80201,Riberalta,2021,1,TOTAL,222
+Santa Cruz,70503,Robore,2021,1,TOTAL,21
+Beni,80304,Rurrenabaque,2021,1,TOTAL,35
+Cochabamba,31001,Sacaba,2021,1,TOTAL,185
+Potosí,50701,Sacaca,2021,1,TOTAL,13
+Santa Cruz,71302,Saipina,2021,1,TOTAL,2
+Beni,80602,San Andres,2021,1,TOTAL,1
+Beni,80302,San Borja,2021,1,TOTAL,49
+Santa Cruz,70402,San Carlos,2021,1,TOTAL,8
+Beni,80501,San Ignacio,2021,1,TOTAL,20
+Santa Cruz,70301,San Ignacio De Velasco,2021,1,TOTAL,39
+Santa Cruz,71102,San Javier(stc),2021,1,TOTAL,29
+Beni,80701,San Joaquin,2021,1,TOTAL,6
+Santa Cruz,70501,San Jose De Chiquitos,2021,1,TOTAL,17
+Santa Cruz,70404,San Juan De Yapacani,2021,1,TOTAL,1
+Santa Cruz,71104,San Julian,2021,1,TOTAL,46
+Pando,90302,San Lorenzo(pnd),2021,1,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2021,1,TOTAL,12
+Chuquisaca,10702,San Lucas,2021,1,TOTAL,26
+Santa Cruz,71201,San Matias,2021,1,TOTAL,15
+Santa Cruz,70302,San Miguel De Velasco,2021,1,TOTAL,15
+Santa Cruz,70303,San Rafael,2021,1,TOTAL,12
+Beni,80702,San Ramon Beni,2021,1,TOTAL,6
+Santa Cruz,71103,San Ramon Scz,2021,1,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,1,TOTAL,1495
+Beni,80303,Santa Rosa,2021,1,TOTAL,9
+Santa Cruz,70602,Santa Rosa Del Sara,2021,1,TOTAL,6
+Oruro,40202,Santuario De Quillacas,2021,1,TOTAL,4
+Pando,90303,Sena,2021,1,TOTAL,11
+Chuquisaca,10403,Sopachuy,2021,1,TOTAL,9
+Chuquisaca,10101,Sucre,2021,1,TOTAL,213
+Chuquisaca,10601,Tarabuco,2021,1,TOTAL,7
+Tarija,60101,Tarija,2021,1,TOTAL,293
+Cochabamba,30903,Tiquipaya,2021,1,TOTAL,37
+Potosí,51202,Tomave,2021,1,TOTAL,3
+Chuquisaca,10402,Tomina,2021,1,TOTAL,6
+Cochabamba,31201,Totora(cbba),2021,1,TOTAL,24
+Beni,80101,Trinidad,2021,1,TOTAL,189
+Potosí,50801,Tupiza,2021,1,TOTAL,36
+Potosí,50201,Uncia,2021,1,TOTAL,6
+Santa Cruz,71502,Urubicha,2021,1,TOTAL,3
+Potosí,51201,Uyuni,2021,1,TOTAL,23
+Santa Cruz,70801,Vallegrande,2021,1,TOTAL,15
+La Paz,20801,Viacha,2021,1,TOTAL,35
+Tarija,60303,Villa Montes,2021,1,TOTAL,63
+Chuquisaca,10801,Villa Serrano,2021,1,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,1,TOTAL,84
+Potosí,51501,Villazon,2021,1,TOTAL,34
+Cochabamba,30904,Vinto,2021,1,TOTAL,34
+Potosí,50602,Vitichi,2021,1,TOTAL,5
+Santa Cruz,70201,Warnes,2021,1,TOTAL,13
+Tarija,60301,Yacuiba,2021,1,TOTAL,101
+Santa Cruz,70403,Yapacani,2021,1,TOTAL,69
+Potosí,51302,Acacio,2021,2,TOTAL,1
+La Paz,20201,Achacachi,2021,2,TOTAL,34
+Cochabamba,30201,Aiquile,2021,2,TOTAL,31
+Chuquisaca,10404,Alcala,2021,2,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,2,TOTAL,46
+Potosí,50802,Atocha,2021,2,TOTAL,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,2,TOTAL,14
+Beni,80802,Baures,2021,2,TOTAL,5
+Pando,90104,Bella Flor,2021,2,TOTAL,3
+Tarija,60202,Bermejo,2021,2,TOTAL,44
+Potosí,50301,Betanzos,2021,2,TOTAL,21
+Pando,90103,Bolpebra,2021,2,TOTAL,2
+Santa Cruz,70707,Boyuibe,2021,2,TOTAL,1
+Santa Cruz,70401,Buena Vista,2021,2,TOTAL,7
+Santa Cruz,70703,Cabezas,2021,2,TOTAL,21
+Potosí,51102,"Caiza ""d""",2021,2,TOTAL,4
+Chuquisaca,10701,Camargo,2021,2,TOTAL,23
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,2,TOTAL,5
+Santa Cruz,70706,Camiri,2021,2,TOTAL,9
+Cochabamba,30701,Capinota,2021,2,TOTAL,13
+Oruro,40102,Caracollo,2021,2,TOTAL,14
+La Paz,22001,Caranavi,2021,2,TOTAL,56
+Tarija,60302,Carapari,2021,2,TOTAL,2
+Potosí,50702,Caripuyo,2021,2,TOTAL,5
+Santa Cruz,71403,Carmen Rivero Torrez,2021,2,TOTAL,5
+Oruro,40201,Challapata,2021,2,TOTAL,36
+Potosí,50302,Chaqui,2021,2,TOTAL,3
+Santa Cruz,70702,Charagua,2021,2,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2021,2,TOTAL,13
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,2,TOTAL,2
+Potosí,51103,Ckochas,2021,2,TOTAL,1
+Cochabamba,30801,Cliza,2021,2,TOTAL,25
+Pando,90101,Cobija,2021,2,TOTAL,92
+Cochabamba,30101,Cochabamba,2021,2,TOTAL,669
+Cochabamba,30905,Colcapirhua,2021,2,TOTAL,32
+Potosí,50901,"Colcha ""k""",2021,2,TOTAL,6
+Santa Cruz,71301,Comarapa,2021,2,TOTAL,24
+Santa Cruz,71101,Concepcion,2021,2,TOTAL,33
+La Paz,21401,Coroico,2021,2,TOTAL,14
+Potosí,50601,Cotagaita,2021,2,TOTAL,1
+Santa Cruz,70102,Cotoca,2021,2,TOTAL,58
+Santa Cruz,71106,Cuatro Cañadas,2021,2,TOTAL,16
+Chuquisaca,10902,Culpina,2021,2,TOTAL,3
+La Paz,20105,El Alto,2021,2,TOTAL,749
+Santa Cruz,71503,El Puente(stc),2021,2,TOTAL,11
+Santa Cruz,70105,El Torno,2021,2,TOTAL,76
+Chuquisaca,10405,El Villar,2021,2,TOTAL,2
+Cochabamba,31206,Entre Rios Cbba,2021,2,TOTAL,22
+La Paz,20405,Escoma,2021,2,TOTAL,5
+Santa Cruz,71004,Fernandez Alonso,2021,2,TOTAL,8
+Pando,90203,Filadelfia,2021,2,TOTAL,3
+Beni,80202,Guayaramerin,2021,2,TOTAL,34
+Oruro,40501,Huachacalla,2021,2,TOTAL,1
+Oruro,40701,Huanuni,2021,2,TOTAL,19
+Beni,80803,Huaracaje,2021,2,TOTAL,1
+Pando,90402,Ingavi (humaita),2021,2,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,2,TOTAL,64
+La Paz,20101,La Paz,2021,2,TOTAL,697
+Santa Cruz,70701,Lagunillas,2021,2,TOTAL,4
+Chuquisaca,10903,Las Carreras,2021,2,TOTAL,2
+Potosí,50203,Llallagua,2021,2,TOTAL,32
+Potosí,51401,Llica,2021,2,TOTAL,3
+Chuquisaca,11003,Machareti,2021,2,TOTAL,1
+Beni,80801,Magdalena,2021,2,TOTAL,8
+Santa Cruz,70903,Mairana,2021,2,TOTAL,8
+Cochabamba,31301,Mizque,2021,2,TOTAL,9
+Chuquisaca,10501,Monteagudo,2021,2,TOTAL,27
+Santa Cruz,71001,Montero,2021,2,TOTAL,178
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,2,TOTAL,3
+Potosí,50404,Ocuri,2021,2,TOTAL,6
+Oruro,40101,Oruro,2021,2,TOTAL,342
+Chuquisaca,10401,Padilla,2021,2,TOTAL,11
+Santa Cruz,70502,Pailon,2021,2,TOTAL,34
+Santa Cruz,70902,Pampa Grande,2021,2,TOTAL,3
+La Paz,21305,Patacamaya,2021,2,TOTAL,24
+Potosí,51203,Porco,2021,2,TOTAL,9
+Chuquisaca,10103,Poroma,2021,2,TOTAL,1
+Santa Cruz,70103,Porongo,2021,2,TOTAL,2
+Santa Cruz,70601,Portachuelo,2021,2,TOTAL,26
+Pando,90102,Porvenir,2021,2,TOTAL,1
+Potosí,50101,Potosi,2021,2,TOTAL,282
+Pando,90301,Puerto Gonzalo Moreno,2021,2,TOTAL,1
+Santa Cruz,71402,Puerto Quijarro,2021,2,TOTAL,9
+Pando,90201,Puerto Rico,2021,2,TOTAL,3
+Beni,80703,Puerto Siles,2021,2,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2021,2,TOTAL,41
+Cochabamba,31205,Puerto Villarroel,2021,2,TOTAL,94
+Cochabamba,31401,Punata,2021,2,TOTAL,64
+Cochabamba,30901,Quillacollo,2021,2,TOTAL,170
+Beni,80301,Reyes,2021,2,TOTAL,12
+Beni,80201,Riberalta,2021,2,TOTAL,189
+Santa Cruz,70503,Robore,2021,2,TOTAL,25
+Beni,80304,Rurrenabaque,2021,2,TOTAL,34
+Cochabamba,31001,Sacaba,2021,2,TOTAL,183
+Santa Cruz,71302,Saipina,2021,2,TOTAL,2
+Beni,80302,San Borja,2021,2,TOTAL,55
+Santa Cruz,70402,San Carlos,2021,2,TOTAL,2
+Beni,80501,San Ignacio,2021,2,TOTAL,23
+Santa Cruz,70301,San Ignacio De Velasco,2021,2,TOTAL,64
+Santa Cruz,71102,San Javier(stc),2021,2,TOTAL,20
+Beni,80701,San Joaquin,2021,2,TOTAL,8
+Santa Cruz,70501,San Jose De Chiquitos,2021,2,TOTAL,38
+Santa Cruz,70404,San Juan De Yapacani,2021,2,TOTAL,5
+Santa Cruz,71104,San Julian,2021,2,TOTAL,45
+Pando,90302,San Lorenzo(pnd),2021,2,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2021,2,TOTAL,9
+Chuquisaca,10702,San Lucas,2021,2,TOTAL,21
+Santa Cruz,71201,San Matias,2021,2,TOTAL,3
+Santa Cruz,70302,San Miguel De Velasco,2021,2,TOTAL,14
+Santa Cruz,70303,San Rafael,2021,2,TOTAL,6
+Beni,80702,San Ramon Beni,2021,2,TOTAL,7
+Santa Cruz,71103,San Ramon Scz,2021,2,TOTAL,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,2,TOTAL,1460
+Beni,80303,Santa Rosa,2021,2,TOTAL,18
+Santa Cruz,70602,Santa Rosa Del Sara,2021,2,TOTAL,6
+Pando,90303,Sena,2021,2,TOTAL,4
+Chuquisaca,10403,Sopachuy,2021,2,TOTAL,9
+Chuquisaca,10101,Sucre,2021,2,TOTAL,216
+Chuquisaca,10601,Tarabuco,2021,2,TOTAL,10
+Tarija,60101,Tarija,2021,2,TOTAL,288
+Cochabamba,30903,Tiquipaya,2021,2,TOTAL,61
+Potosí,51202,Tomave,2021,2,TOTAL,4
+Chuquisaca,10402,Tomina,2021,2,TOTAL,5
+Cochabamba,31201,Totora(cbba),2021,2,TOTAL,14
+Oruro,41301,Totora(orr),2021,2,TOTAL,1
+Beni,80101,Trinidad,2021,2,TOTAL,201
+Potosí,50801,Tupiza,2021,2,TOTAL,49
+Potosí,50201,Uncia,2021,2,TOTAL,9
+Santa Cruz,71502,Urubicha,2021,2,TOTAL,4
+Potosí,51201,Uyuni,2021,2,TOTAL,24
+Santa Cruz,70801,Vallegrande,2021,2,TOTAL,14
+La Paz,20801,Viacha,2021,2,TOTAL,29
+Tarija,60303,Villa Montes,2021,2,TOTAL,70
+Chuquisaca,10801,Villa Serrano,2021,2,TOTAL,3
+Cochabamba,31003,Villa Tunari,2021,2,TOTAL,67
+Potosí,51501,Villazon,2021,2,TOTAL,24
+Cochabamba,30904,Vinto,2021,2,TOTAL,40
+Potosí,50602,Vitichi,2021,2,TOTAL,3
+Santa Cruz,70201,Warnes,2021,2,TOTAL,14
+Tarija,60301,Yacuiba,2021,2,TOTAL,110
+Santa Cruz,70403,Yapacani,2021,2,TOTAL,73
+Potosí,51302,Acacio,2021,3,TOTAL,3
+La Paz,20201,Achacachi,2021,3,TOTAL,36
+Cochabamba,30201,Aiquile,2021,3,TOTAL,24
+Chuquisaca,10404,Alcala,2021,3,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,3,TOTAL,62
+Potosí,50802,Atocha,2021,3,TOTAL,4
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,3,TOTAL,12
+Beni,80802,Baures,2021,3,TOTAL,5
+Pando,90104,Bella Flor,2021,3,TOTAL,3
+Tarija,60202,Bermejo,2021,3,TOTAL,37
+Potosí,50301,Betanzos,2021,3,TOTAL,20
+Santa Cruz,70707,Boyuibe,2021,3,TOTAL,5
+Santa Cruz,70401,Buena Vista,2021,3,TOTAL,6
+Santa Cruz,70703,Cabezas,2021,3,TOTAL,14
+Potosí,51102,"Caiza ""d""",2021,3,TOTAL,5
+Chuquisaca,10701,Camargo,2021,3,TOTAL,9
+Santa Cruz,70706,Camiri,2021,3,TOTAL,11
+Cochabamba,30701,Capinota,2021,3,TOTAL,22
+Oruro,40102,Caracollo,2021,3,TOTAL,13
+La Paz,22001,Caranavi,2021,3,TOTAL,71
+Tarija,60302,Carapari,2021,3,TOTAL,1
+Potosí,50702,Caripuyo,2021,3,TOTAL,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,3,TOTAL,6
+Oruro,40201,Challapata,2021,3,TOTAL,40
+Potosí,50302,Chaqui,2021,3,TOTAL,3
+Santa Cruz,70702,Charagua,2021,3,TOTAL,1
+Potosí,50202,Chayanta,2021,3,TOTAL,8
+La Paz,21101,Chulumani (v. De La Libertad),2021,3,TOTAL,21
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,3,TOTAL,3
+Cochabamba,30801,Cliza,2021,3,TOTAL,32
+Pando,90101,Cobija,2021,3,TOTAL,85
+Cochabamba,30101,Cochabamba,2021,3,TOTAL,772
+Cochabamba,30905,Colcapirhua,2021,3,TOTAL,27
+Potosí,50901,"Colcha ""k""",2021,3,TOTAL,5
+Santa Cruz,71301,Comarapa,2021,3,TOTAL,24
+Santa Cruz,71101,Concepcion,2021,3,TOTAL,33
+La Paz,21401,Coroico,2021,3,TOTAL,19
+Potosí,50601,Cotagaita,2021,3,TOTAL,11
+Santa Cruz,70102,Cotoca,2021,3,TOTAL,55
+Santa Cruz,71106,Cuatro Cañadas,2021,3,TOTAL,25
+Chuquisaca,10902,Culpina,2021,3,TOTAL,1
+La Paz,20105,El Alto,2021,3,TOTAL,876
+Santa Cruz,71503,El Puente(stc),2021,3,TOTAL,6
+Santa Cruz,70105,El Torno,2021,3,TOTAL,104
+Chuquisaca,10405,El Villar,2021,3,TOTAL,2
+Tarija,60601,Entre Rios Trj,2021,3,TOTAL,10
+Cochabamba,31206,Entre Rios Cbba,2021,3,TOTAL,26
+La Paz,20405,Escoma,2021,3,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2021,3,TOTAL,12
+Pando,90203,Filadelfia,2021,3,TOTAL,3
+Beni,80202,Guayaramerin,2021,3,TOTAL,54
+Oruro,40701,Huanuni,2021,3,TOTAL,19
+Beni,80803,Huaracaje,2021,3,TOTAL,6
+Chuquisaca,10703,Incahuasi,2021,3,TOTAL,5
+Pando,90402,Ingavi (humaita),2021,3,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,3,TOTAL,61
+La Paz,20101,La Paz,2021,3,TOTAL,820
+Santa Cruz,70701,Lagunillas,2021,3,TOTAL,7
+Chuquisaca,10903,Las Carreras,2021,3,TOTAL,1
+Potosí,50203,Llallagua,2021,3,TOTAL,35
+Potosí,51401,Llica,2021,3,TOTAL,1
+Beni,80601,Loreto,2021,3,TOTAL,3
+Chuquisaca,11003,Machareti,2021,3,TOTAL,1
+Beni,80801,Magdalena,2021,3,TOTAL,16
+Santa Cruz,70903,Mairana,2021,3,TOTAL,18
+Cochabamba,31301,Mizque,2021,3,TOTAL,15
+Chuquisaca,10501,Monteagudo,2021,3,TOTAL,32
+Santa Cruz,71001,Montero,2021,3,TOTAL,178
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,3,TOTAL,1
+Potosí,50404,Ocuri,2021,3,TOTAL,10
+Oruro,40101,Oruro,2021,3,TOTAL,366
+Chuquisaca,10401,Padilla,2021,3,TOTAL,17
+Santa Cruz,70502,Pailon,2021,3,TOTAL,37
+Santa Cruz,70902,Pampa Grande,2021,3,TOTAL,6
+La Paz,21305,Patacamaya,2021,3,TOTAL,32
+Potosí,51203,Porco,2021,3,TOTAL,7
+Santa Cruz,70103,Porongo,2021,3,TOTAL,6
+Santa Cruz,70601,Portachuelo,2021,3,TOTAL,20
+Pando,90102,Porvenir,2021,3,TOTAL,3
+Potosí,50101,Potosi,2021,3,TOTAL,339
+Santa Cruz,71402,Puerto Quijarro,2021,3,TOTAL,8
+Pando,90201,Puerto Rico,2021,3,TOTAL,7
+Beni,80703,Puerto Siles,2021,3,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2021,3,TOTAL,32
+Cochabamba,31205,Puerto Villarroel,2021,3,TOTAL,142
+Cochabamba,31401,Punata,2021,3,TOTAL,76
+Cochabamba,30901,Quillacollo,2021,3,TOTAL,188
+Beni,80301,Reyes,2021,3,TOTAL,14
+Beni,80201,Riberalta,2021,3,TOTAL,222
+Santa Cruz,70503,Robore,2021,3,TOTAL,27
+Beni,80304,Rurrenabaque,2021,3,TOTAL,43
+Cochabamba,31001,Sacaba,2021,3,TOTAL,197
+Potosí,50701,Sacaca,2021,3,TOTAL,3
+Santa Cruz,71302,Saipina,2021,3,TOTAL,4
+Oruro,40801,Salinas De Garci Mendoza,2021,3,TOTAL,3
+Santa Cruz,71105,San Antonio De Lomerio,2021,3,TOTAL,10
+Beni,80302,San Borja,2021,3,TOTAL,66
+Santa Cruz,70402,San Carlos,2021,3,TOTAL,5
+Beni,80501,San Ignacio,2021,3,TOTAL,29
+Santa Cruz,70301,San Ignacio De Velasco,2021,3,TOTAL,40
+Santa Cruz,71102,San Javier(stc),2021,3,TOTAL,29
+Beni,80701,San Joaquin,2021,3,TOTAL,7
+Santa Cruz,70501,San Jose De Chiquitos,2021,3,TOTAL,35
+Santa Cruz,70404,San Juan De Yapacani,2021,3,TOTAL,3
+Santa Cruz,71104,San Julian,2021,3,TOTAL,44
+Pando,90302,San Lorenzo(pnd),2021,3,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2021,3,TOTAL,5
+Chuquisaca,10702,San Lucas,2021,3,TOTAL,27
+Santa Cruz,71201,San Matias,2021,3,TOTAL,3
+Santa Cruz,70302,San Miguel De Velasco,2021,3,TOTAL,13
+Santa Cruz,70303,San Rafael,2021,3,TOTAL,8
+Beni,80702,San Ramon Beni,2021,3,TOTAL,4
+Santa Cruz,71103,San Ramon Scz,2021,3,TOTAL,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,TOTAL,1745
+Beni,80303,Santa Rosa,2021,3,TOTAL,9
+Santa Cruz,70602,Santa Rosa Del Sara,2021,3,TOTAL,8
+Pando,90303,Sena,2021,3,TOTAL,3
+Chuquisaca,10403,Sopachuy,2021,3,TOTAL,10
+Chuquisaca,10101,Sucre,2021,3,TOTAL,211
+Chuquisaca,10601,Tarabuco,2021,3,TOTAL,9
+Tarija,60101,Tarija,2021,3,TOTAL,270
+Chuquisaca,10202,Tarvita,2021,3,TOTAL,2
+Cochabamba,30903,Tiquipaya,2021,3,TOTAL,59
+Potosí,51202,Tomave,2021,3,TOTAL,6
+Chuquisaca,10402,Tomina,2021,3,TOTAL,7
+Cochabamba,31201,Totora(cbba),2021,3,TOTAL,15
+Oruro,41301,Totora(orr),2021,3,TOTAL,1
+Beni,80101,Trinidad,2021,3,TOTAL,267
+Potosí,50801,Tupiza,2021,3,TOTAL,39
+Potosí,50201,Uncia,2021,3,TOTAL,8
+Santa Cruz,71502,Urubicha,2021,3,TOTAL,10
+Potosí,51201,Uyuni,2021,3,TOTAL,31
+Santa Cruz,70801,Vallegrande,2021,3,TOTAL,25
+La Paz,20801,Viacha,2021,3,TOTAL,31
+Tarija,60303,Villa Montes,2021,3,TOTAL,79
+Pando,90502,Villa Nueva (loma Alta),2021,3,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2021,3,TOTAL,3
+Cochabamba,31003,Villa Tunari,2021,3,TOTAL,75
+Potosí,51501,Villazon,2021,3,TOTAL,41
+Cochabamba,30904,Vinto,2021,3,TOTAL,39
+Potosí,50602,Vitichi,2021,3,TOTAL,4
+Santa Cruz,70201,Warnes,2021,3,TOTAL,12
+Tarija,60301,Yacuiba,2021,3,TOTAL,123
+Santa Cruz,70403,Yapacani,2021,3,TOTAL,103
+Potosí,51302,Acacio,2021,4,TOTAL,2
+La Paz,20201,Achacachi,2021,4,TOTAL,33
+Cochabamba,30201,Aiquile,2021,4,TOTAL,25
+Chuquisaca,10404,Alcala,2021,4,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2021,4,TOTAL,77
+Potosí,50802,Atocha,2021,4,TOTAL,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,4,TOTAL,14
+Beni,80802,Baures,2021,4,TOTAL,2
+Potosí,50104,Belen De Urmiri,2021,4,TOTAL,1
+Tarija,60202,Bermejo,2021,4,TOTAL,41
+Potosí,50301,Betanzos,2021,4,TOTAL,15
+Pando,90103,Bolpebra,2021,4,TOTAL,1
+Santa Cruz,70707,Boyuibe,2021,4,TOTAL,2
+Santa Cruz,70401,Buena Vista,2021,4,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,4,TOTAL,15
+Potosí,51102,"Caiza ""d""",2021,4,TOTAL,2
+Chuquisaca,10701,Camargo,2021,4,TOTAL,8
+Santa Cruz,70706,Camiri,2021,4,TOTAL,17
+Cochabamba,30701,Capinota,2021,4,TOTAL,13
+Oruro,40102,Caracollo,2021,4,TOTAL,12
+La Paz,22001,Caranavi,2021,4,TOTAL,66
+Tarija,60302,Carapari,2021,4,TOTAL,4
+Potosí,50702,Caripuyo,2021,4,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2021,4,TOTAL,3
+Oruro,40201,Challapata,2021,4,TOTAL,24
+Potosí,50302,Chaqui,2021,4,TOTAL,3
+Santa Cruz,70702,Charagua,2021,4,TOTAL,16
+Potosí,50202,Chayanta,2021,4,TOTAL,11
+La Paz,21101,Chulumani (v. De La Libertad),2021,4,TOTAL,18
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,4,TOTAL,5
+Potosí,51103,Ckochas,2021,4,TOTAL,1
+Cochabamba,30801,Cliza,2021,4,TOTAL,30
+Pando,90101,Cobija,2021,4,TOTAL,78
+Cochabamba,30101,Cochabamba,2021,4,TOTAL,639
+Cochabamba,30905,Colcapirhua,2021,4,TOTAL,22
+Potosí,50901,"Colcha ""k""",2021,4,TOTAL,6
+Potosí,50401,Colquechaca,2021,4,TOTAL,16
+Santa Cruz,71301,Comarapa,2021,4,TOTAL,33
+Santa Cruz,71101,Concepcion,2021,4,TOTAL,51
+La Paz,21401,Coroico,2021,4,TOTAL,33
+Potosí,50601,Cotagaita,2021,4,TOTAL,2
+Santa Cruz,70102,Cotoca,2021,4,TOTAL,57
+Santa Cruz,71106,Cuatro Cañadas,2021,4,TOTAL,23
+Chuquisaca,10902,Culpina,2021,4,TOTAL,17
+La Paz,20105,El Alto,2021,4,TOTAL,898
+Santa Cruz,71503,El Puente(stc),2021,4,TOTAL,12
+Santa Cruz,70105,El Torno,2021,4,TOTAL,64
+Tarija,60601,Entre Rios Trj,2021,4,TOTAL,9
+Cochabamba,31206,Entre Rios Cbba,2021,4,TOTAL,21
+La Paz,20405,Escoma,2021,4,TOTAL,4
+Santa Cruz,71004,Fernandez Alonso,2021,4,TOTAL,3
+Pando,90203,Filadelfia,2021,4,TOTAL,1
+Beni,80202,Guayaramerin,2021,4,TOTAL,41
+Oruro,40701,Huanuni,2021,4,TOTAL,20
+Beni,80803,Huaracaje,2021,4,TOTAL,3
+La Paz,20404,Humanata,2021,4,TOTAL,1
+Chuquisaca,10703,Incahuasi,2021,4,TOTAL,5
+Pando,90402,Ingavi (humaita),2021,4,TOTAL,2
+Santa Cruz,70104,La Guardia,2021,4,TOTAL,77
+La Paz,20101,La Paz,2021,4,TOTAL,758
+Santa Cruz,70701,Lagunillas,2021,4,TOTAL,1
+Potosí,50203,Llallagua,2021,4,TOTAL,48
+Potosí,51401,Llica,2021,4,TOTAL,5
+Beni,80601,Loreto,2021,4,TOTAL,1
+Chuquisaca,11003,Machareti,2021,4,TOTAL,1
+Beni,80801,Magdalena,2021,4,TOTAL,8
+Santa Cruz,70903,Mairana,2021,4,TOTAL,13
+Cochabamba,31301,Mizque,2021,4,TOTAL,14
+La Paz,20402,Mocomoco,2021,4,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,4,TOTAL,30
+Santa Cruz,71001,Montero,2021,4,TOTAL,429
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,4,TOTAL,1
+Potosí,50404,Ocuri,2021,4,TOTAL,11
+Oruro,40101,Oruro,2021,4,TOTAL,340
+Chuquisaca,10401,Padilla,2021,4,TOTAL,15
+Santa Cruz,70502,Pailon,2021,4,TOTAL,35
+Santa Cruz,70902,Pampa Grande,2021,4,TOTAL,3
+La Paz,21305,Patacamaya,2021,4,TOTAL,25
+Potosí,51203,Porco,2021,4,TOTAL,9
+Santa Cruz,70601,Portachuelo,2021,4,TOTAL,32
+Potosí,50101,Potosi,2021,4,TOTAL,305
+Santa Cruz,71402,Puerto Quijarro,2021,4,TOTAL,12
+Pando,90201,Puerto Rico,2021,4,TOTAL,5
+Santa Cruz,71401,Puerto Suarez,2021,4,TOTAL,33
+Cochabamba,31205,Puerto Villarroel,2021,4,TOTAL,127
+Cochabamba,31401,Punata,2021,4,TOTAL,60
+Cochabamba,30901,Quillacollo,2021,4,TOTAL,177
+Beni,80301,Reyes,2021,4,TOTAL,19
+Beni,80201,Riberalta,2021,4,TOTAL,204
+Santa Cruz,70503,Robore,2021,4,TOTAL,31
+Beni,80304,Rurrenabaque,2021,4,TOTAL,29
+Cochabamba,31001,Sacaba,2021,4,TOTAL,191
+Potosí,50701,Sacaca,2021,4,TOTAL,3
+Santa Cruz,71302,Saipina,2021,4,TOTAL,10
+Santa Cruz,70901,Samaipata,2021,4,TOTAL,2
+Santa Cruz,71105,San Antonio De Lomerio,2021,4,TOTAL,2
+Beni,80302,San Borja,2021,4,TOTAL,59
+Santa Cruz,70402,San Carlos,2021,4,TOTAL,8
+Beni,80501,San Ignacio,2021,4,TOTAL,26
+Santa Cruz,70301,San Ignacio De Velasco,2021,4,TOTAL,65
+Santa Cruz,71102,San Javier(stc),2021,4,TOTAL,25
+Beni,80701,San Joaquin,2021,4,TOTAL,13
+Santa Cruz,70501,San Jose De Chiquitos,2021,4,TOTAL,27
+Santa Cruz,70404,San Juan De Yapacani,2021,4,TOTAL,6
+Santa Cruz,71104,San Julian,2021,4,TOTAL,54
+Pando,90302,San Lorenzo(pnd),2021,4,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2021,4,TOTAL,6
+Chuquisaca,10702,San Lucas,2021,4,TOTAL,18
+Santa Cruz,71201,San Matias,2021,4,TOTAL,21
+Santa Cruz,70302,San Miguel De Velasco,2021,4,TOTAL,16
+Santa Cruz,71005,San Pedro,2021,4,TOTAL,2
+Potosí,50405,San Pedro De Macha,2021,4,TOTAL,4
+Santa Cruz,70303,San Rafael,2021,4,TOTAL,7
+Beni,80702,San Ramon Beni,2021,4,TOTAL,7
+Santa Cruz,71103,San Ramon Scz,2021,4,TOTAL,18
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,TOTAL,1404
+Beni,80303,Santa Rosa,2021,4,TOTAL,11
+Santa Cruz,70602,Santa Rosa Del Sara,2021,4,TOTAL,7
+Pando,90303,Sena,2021,4,TOTAL,5
+Chuquisaca,10403,Sopachuy,2021,4,TOTAL,5
+Chuquisaca,10101,Sucre,2021,4,TOTAL,180
+Chuquisaca,10601,Tarabuco,2021,4,TOTAL,9
+Tarija,60101,Tarija,2021,4,TOTAL,287
+Chuquisaca,10202,Tarvita,2021,4,TOTAL,2
+Cochabamba,30903,Tiquipaya,2021,4,TOTAL,60
+Potosí,51202,Tomave,2021,4,TOTAL,6
+Chuquisaca,10402,Tomina,2021,4,TOTAL,4
+Cochabamba,31201,Totora(cbba),2021,4,TOTAL,20
+Oruro,41301,Totora(orr),2021,4,TOTAL,1
+Beni,80101,Trinidad,2021,4,TOTAL,311
+Potosí,50801,Tupiza,2021,4,TOTAL,37
+Potosí,50201,Uncia,2021,4,TOTAL,8
+Santa Cruz,71502,Urubicha,2021,4,TOTAL,6
+Potosí,51201,Uyuni,2021,4,TOTAL,21
+Santa Cruz,70801,Vallegrande,2021,4,TOTAL,30
+La Paz,20801,Viacha,2021,4,TOTAL,40
+Cochabamba,31302,Vila Vila,2021,4,TOTAL,2
+Tarija,60303,Villa Montes,2021,4,TOTAL,49
+Pando,90502,Villa Nueva (loma Alta),2021,4,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2021,4,TOTAL,6
+Cochabamba,31003,Villa Tunari,2021,4,TOTAL,84
+Potosí,51501,Villazon,2021,4,TOTAL,43
+Cochabamba,30904,Vinto,2021,4,TOTAL,51
+Potosí,50602,Vitichi,2021,4,TOTAL,4
+Santa Cruz,70201,Warnes,2021,4,TOTAL,12
+Tarija,60301,Yacuiba,2021,4,TOTAL,116
+Santa Cruz,70403,Yapacani,2021,4,TOTAL,96
+Potosí,51302,Acacio,2021,5,TOTAL,2
+La Paz,20201,Achacachi,2021,5,TOTAL,22
+Cochabamba,30201,Aiquile,2021,5,TOTAL,14
+Santa Cruz,71501,Ascencion De Guarayos,2021,5,TOTAL,52
+Potosí,50802,Atocha,2021,5,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,5,TOTAL,12
+Beni,80802,Baures,2021,5,TOTAL,7
+Pando,90104,Bella Flor,2021,5,TOTAL,2
+Tarija,60202,Bermejo,2021,5,TOTAL,11
+Potosí,50301,Betanzos,2021,5,TOTAL,15
+Santa Cruz,70707,Boyuibe,2021,5,TOTAL,1
+Santa Cruz,70401,Buena Vista,2021,5,TOTAL,7
+Santa Cruz,70703,Cabezas,2021,5,TOTAL,13
+Potosí,51102,"Caiza ""d""",2021,5,TOTAL,1
+Chuquisaca,10701,Camargo,2021,5,TOTAL,18
+Santa Cruz,70706,Camiri,2021,5,TOTAL,12
+Cochabamba,30701,Capinota,2021,5,TOTAL,21
+Oruro,40102,Caracollo,2021,5,TOTAL,10
+La Paz,22001,Caranavi,2021,5,TOTAL,87
+Tarija,60302,Carapari,2021,5,TOTAL,2
+Potosí,50702,Caripuyo,2021,5,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2021,5,TOTAL,2
+Oruro,40201,Challapata,2021,5,TOTAL,43
+Potosí,50302,Chaqui,2021,5,TOTAL,5
+Santa Cruz,70702,Charagua,2021,5,TOTAL,2
+Potosí,50202,Chayanta,2021,5,TOTAL,6
+La Paz,21101,Chulumani (v. De La Libertad),2021,5,TOTAL,22
+Potosí,51103,Ckochas,2021,5,TOTAL,6
+Cochabamba,30801,Cliza,2021,5,TOTAL,44
+Pando,90101,Cobija,2021,5,TOTAL,113
+Cochabamba,30101,Cochabamba,2021,5,TOTAL,808
+Cochabamba,30905,Colcapirhua,2021,5,TOTAL,25
+Potosí,50901,"Colcha ""k""",2021,5,TOTAL,4
+Santa Cruz,71301,Comarapa,2021,5,TOTAL,37
+Santa Cruz,71101,Concepcion,2021,5,TOTAL,41
+La Paz,21401,Coroico,2021,5,TOTAL,16
+Potosí,50601,Cotagaita,2021,5,TOTAL,1
+Santa Cruz,70102,Cotoca,2021,5,TOTAL,83
+Santa Cruz,71106,Cuatro Cañadas,2021,5,TOTAL,24
+Chuquisaca,10902,Culpina,2021,5,TOTAL,12
+La Paz,20105,El Alto,2021,5,TOTAL,962
+Santa Cruz,71503,El Puente(stc),2021,5,TOTAL,11
+Santa Cruz,70105,El Torno,2021,5,TOTAL,102
+Chuquisaca,10405,El Villar,2021,5,TOTAL,5
+Tarija,60601,Entre Rios Trj,2021,5,TOTAL,9
+Cochabamba,31206,Entre Rios Cbba,2021,5,TOTAL,15
+La Paz,20405,Escoma,2021,5,TOTAL,5
+Santa Cruz,71004,Fernandez Alonso,2021,5,TOTAL,1
+Pando,90203,Filadelfia,2021,5,TOTAL,3
+Beni,80202,Guayaramerin,2021,5,TOTAL,40
+Oruro,40501,Huachacalla,2021,5,TOTAL,3
+Oruro,40701,Huanuni,2021,5,TOTAL,16
+Beni,80803,Huaracaje,2021,5,TOTAL,2
+Chuquisaca,10703,Incahuasi,2021,5,TOTAL,5
+Pando,90402,Ingavi (humaita),2021,5,TOTAL,1
+La Paz,21501,Ixiamas,2021,5,TOTAL,6
+Santa Cruz,70104,La Guardia,2021,5,TOTAL,65
+La Paz,20101,La Paz,2021,5,TOTAL,861
+Chuquisaca,10903,Las Carreras,2021,5,TOTAL,5
+Potosí,50203,Llallagua,2021,5,TOTAL,58
+Potosí,51401,Llica,2021,5,TOTAL,2
+Beni,80801,Magdalena,2021,5,TOTAL,17
+Santa Cruz,70903,Mairana,2021,5,TOTAL,8
+Cochabamba,31301,Mizque,2021,5,TOTAL,19
+La Paz,20402,Mocomoco,2021,5,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,5,TOTAL,29
+Santa Cruz,71001,Montero,2021,5,TOTAL,180
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,5,TOTAL,5
+Potosí,50404,Ocuri,2021,5,TOTAL,6
+Oruro,40101,Oruro,2021,5,TOTAL,410
+Chuquisaca,10401,Padilla,2021,5,TOTAL,28
+Santa Cruz,70502,Pailon,2021,5,TOTAL,29
+Santa Cruz,70902,Pampa Grande,2021,5,TOTAL,5
+La Paz,21305,Patacamaya,2021,5,TOTAL,24
+Potosí,51203,Porco,2021,5,TOTAL,12
+Santa Cruz,70601,Portachuelo,2021,5,TOTAL,28
+Pando,90102,Porvenir,2021,5,TOTAL,1
+Potosí,50101,Potosi,2021,5,TOTAL,346
+Pando,90301,Puerto Gonzalo Moreno,2021,5,TOTAL,2
+Santa Cruz,71402,Puerto Quijarro,2021,5,TOTAL,14
+Pando,90201,Puerto Rico,2021,5,TOTAL,12
+Beni,80703,Puerto Siles,2021,5,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2021,5,TOTAL,28
+Cochabamba,31205,Puerto Villarroel,2021,5,TOTAL,131
+Cochabamba,31401,Punata,2021,5,TOTAL,84
+Cochabamba,30901,Quillacollo,2021,5,TOTAL,180
+Potosí,50402,Ravelo,2021,5,TOTAL,2
+Beni,80301,Reyes,2021,5,TOTAL,20
+Beni,80201,Riberalta,2021,5,TOTAL,220
+Santa Cruz,70503,Robore,2021,5,TOTAL,31
+Beni,80304,Rurrenabaque,2021,5,TOTAL,21
+Cochabamba,31001,Sacaba,2021,5,TOTAL,188
+Potosí,50701,Sacaca,2021,5,TOTAL,6
+Santa Cruz,71302,Saipina,2021,5,TOTAL,6
+Oruro,40801,Salinas De Garci Mendoza,2021,5,TOTAL,3
+Beni,80602,San Andres,2021,5,TOTAL,6
+Santa Cruz,71105,San Antonio De Lomerio,2021,5,TOTAL,9
+Beni,80302,San Borja,2021,5,TOTAL,67
+Santa Cruz,70402,San Carlos,2021,5,TOTAL,5
+Beni,80501,San Ignacio,2021,5,TOTAL,29
+Santa Cruz,70301,San Ignacio De Velasco,2021,5,TOTAL,67
+Santa Cruz,71102,San Javier(stc),2021,5,TOTAL,32
+Beni,80701,San Joaquin,2021,5,TOTAL,7
+Santa Cruz,70501,San Jose De Chiquitos,2021,5,TOTAL,31
+Santa Cruz,70404,San Juan De Yapacani,2021,5,TOTAL,6
+Santa Cruz,71104,San Julian,2021,5,TOTAL,49
+Pando,90302,San Lorenzo(pnd),2021,5,TOTAL,6
+Tarija,60501,San Lorenzo(tja),2021,5,TOTAL,5
+Chuquisaca,10702,San Lucas,2021,5,TOTAL,27
+Santa Cruz,71201,San Matias,2021,5,TOTAL,29
+Santa Cruz,70302,San Miguel De Velasco,2021,5,TOTAL,13
+Santa Cruz,71005,San Pedro,2021,5,TOTAL,2
+Potosí,50405,San Pedro De Macha,2021,5,TOTAL,5
+Santa Cruz,70303,San Rafael,2021,5,TOTAL,8
+Beni,80702,San Ramon Beni,2021,5,TOTAL,11
+Santa Cruz,71103,San Ramon Scz,2021,5,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,TOTAL,1915
+Beni,80303,Santa Rosa,2021,5,TOTAL,12
+Santa Cruz,70602,Santa Rosa Del Sara,2021,5,TOTAL,5
+Pando,90303,Sena,2021,5,TOTAL,13
+Chuquisaca,10403,Sopachuy,2021,5,TOTAL,2
+Chuquisaca,10101,Sucre,2021,5,TOTAL,227
+Chuquisaca,10601,Tarabuco,2021,5,TOTAL,6
+Tarija,60101,Tarija,2021,5,TOTAL,309
+Chuquisaca,10202,Tarvita,2021,5,TOTAL,1
+Cochabamba,30903,Tiquipaya,2021,5,TOTAL,65
+Potosí,51202,Tomave,2021,5,TOTAL,3
+Chuquisaca,10402,Tomina,2021,5,TOTAL,4
+Cochabamba,31201,Totora(cbba),2021,5,TOTAL,25
+Beni,80101,Trinidad,2021,5,TOTAL,348
+Potosí,50801,Tupiza,2021,5,TOTAL,53
+Potosí,50201,Uncia,2021,5,TOTAL,4
+Santa Cruz,71502,Urubicha,2021,5,TOTAL,2
+Potosí,51201,Uyuni,2021,5,TOTAL,23
+Santa Cruz,70801,Vallegrande,2021,5,TOTAL,20
+La Paz,20801,Viacha,2021,5,TOTAL,45
+Cochabamba,31302,Vila Vila,2021,5,TOTAL,1
+Tarija,60303,Villa Montes,2021,5,TOTAL,73
+Chuquisaca,10801,Villa Serrano,2021,5,TOTAL,4
+Cochabamba,31003,Villa Tunari,2021,5,TOTAL,70
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2021,5,TOTAL,1
+Potosí,51501,Villazon,2021,5,TOTAL,40
+Cochabamba,30904,Vinto,2021,5,TOTAL,35
+Potosí,50602,Vitichi,2021,5,TOTAL,2
+Santa Cruz,70201,Warnes,2021,5,TOTAL,6
+Tarija,60301,Yacuiba,2021,5,TOTAL,146
+Santa Cruz,70403,Yapacani,2021,5,TOTAL,111
+Potosí,51302,Acacio,2021,6,TOTAL,2
+La Paz,20201,Achacachi,2021,6,TOTAL,35
+Cochabamba,30201,Aiquile,2021,6,TOTAL,15
+Chuquisaca,10404,Alcala,2021,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,6,TOTAL,46
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,6,TOTAL,18
+Beni,80802,Baures,2021,6,TOTAL,2
+Pando,90104,Bella Flor,2021,6,TOTAL,1
+Tarija,60202,Bermejo,2021,6,TOTAL,36
+Potosí,50301,Betanzos,2021,6,TOTAL,19
+Santa Cruz,70707,Boyuibe,2021,6,TOTAL,3
+Santa Cruz,70401,Buena Vista,2021,6,TOTAL,2
+Santa Cruz,70703,Cabezas,2021,6,TOTAL,14
+Potosí,51102,"Caiza ""d""",2021,6,TOTAL,5
+Chuquisaca,10701,Camargo,2021,6,TOTAL,15
+Santa Cruz,70706,Camiri,2021,6,TOTAL,16
+Cochabamba,30701,Capinota,2021,6,TOTAL,10
+Oruro,40102,Caracollo,2021,6,TOTAL,8
+La Paz,22001,Caranavi,2021,6,TOTAL,86
+Tarija,60302,Carapari,2021,6,TOTAL,2
+Potosí,50702,Caripuyo,2021,6,TOTAL,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,6,TOTAL,6
+Oruro,40201,Challapata,2021,6,TOTAL,33
+Potosí,50302,Chaqui,2021,6,TOTAL,7
+Santa Cruz,70702,Charagua,2021,6,TOTAL,3
+Potosí,50202,Chayanta,2021,6,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2021,6,TOTAL,27
+Potosí,51103,Ckochas,2021,6,TOTAL,3
+Cochabamba,30801,Cliza,2021,6,TOTAL,29
+Pando,90101,Cobija,2021,6,TOTAL,102
+Cochabamba,30101,Cochabamba,2021,6,TOTAL,781
+Cochabamba,30905,Colcapirhua,2021,6,TOTAL,38
+Potosí,50901,"Colcha ""k""",2021,6,TOTAL,8
+Santa Cruz,71301,Comarapa,2021,6,TOTAL,31
+Santa Cruz,71101,Concepcion,2021,6,TOTAL,40
+La Paz,21401,Coroico,2021,6,TOTAL,16
+Potosí,50601,Cotagaita,2021,6,TOTAL,2
+Santa Cruz,70102,Cotoca,2021,6,TOTAL,90
+Santa Cruz,71106,Cuatro Cañadas,2021,6,TOTAL,25
+Chuquisaca,10902,Culpina,2021,6,TOTAL,10
+La Paz,20105,El Alto,2021,6,TOTAL,965
+Santa Cruz,71503,El Puente(stc),2021,6,TOTAL,7
+Santa Cruz,70105,El Torno,2021,6,TOTAL,83
+Cochabamba,31206,Entre Rios Cbba,2021,6,TOTAL,16
+La Paz,20405,Escoma,2021,6,TOTAL,3
+Pando,90203,Filadelfia,2021,6,TOTAL,7
+Beni,80202,Guayaramerin,2021,6,TOTAL,43
+Santa Cruz,70705,Gutierrez,2021,6,TOTAL,6
+Oruro,40701,Huanuni,2021,6,TOTAL,24
+La Paz,20404,Humanata,2021,6,TOTAL,1
+Chuquisaca,10703,Incahuasi,2021,6,TOTAL,6
+Santa Cruz,70104,La Guardia,2021,6,TOTAL,64
+La Paz,20101,La Paz,2021,6,TOTAL,1065
+Santa Cruz,70701,Lagunillas,2021,6,TOTAL,1
+Chuquisaca,10903,Las Carreras,2021,6,TOTAL,3
+Potosí,50203,Llallagua,2021,6,TOTAL,54
+Potosí,51401,Llica,2021,6,TOTAL,4
+Beni,80801,Magdalena,2021,6,TOTAL,10
+Santa Cruz,70903,Mairana,2021,6,TOTAL,17
+Cochabamba,31301,Mizque,2021,6,TOTAL,16
+Chuquisaca,10501,Monteagudo,2021,6,TOTAL,34
+Santa Cruz,71001,Montero,2021,6,TOTAL,128
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,6,TOTAL,3
+Potosí,50404,Ocuri,2021,6,TOTAL,3
+Oruro,40101,Oruro,2021,6,TOTAL,407
+Chuquisaca,10401,Padilla,2021,6,TOTAL,12
+Santa Cruz,70502,Pailon,2021,6,TOTAL,23
+Santa Cruz,70902,Pampa Grande,2021,6,TOTAL,5
+La Paz,21305,Patacamaya,2021,6,TOTAL,31
+Potosí,50403,Pocoata,2021,6,TOTAL,15
+Potosí,51203,Porco,2021,6,TOTAL,8
+Santa Cruz,70601,Portachuelo,2021,6,TOTAL,23
+Pando,90102,Porvenir,2021,6,TOTAL,4
+Potosí,50101,Potosi,2021,6,TOTAL,374
+Santa Cruz,71402,Puerto Quijarro,2021,6,TOTAL,9
+Pando,90201,Puerto Rico,2021,6,TOTAL,5
+Santa Cruz,71401,Puerto Suarez,2021,6,TOTAL,33
+Cochabamba,31205,Puerto Villarroel,2021,6,TOTAL,125
+Potosí,51101,Puna,2021,6,TOTAL,4
+Cochabamba,31401,Punata,2021,6,TOTAL,87
+Cochabamba,30901,Quillacollo,2021,6,TOTAL,163
+Potosí,50402,Ravelo,2021,6,TOTAL,11
+Beni,80301,Reyes,2021,6,TOTAL,13
+Beni,80201,Riberalta,2021,6,TOTAL,239
+Santa Cruz,70503,Robore,2021,6,TOTAL,27
+Beni,80304,Rurrenabaque,2021,6,TOTAL,31
+Cochabamba,31001,Sacaba,2021,6,TOTAL,195
+Potosí,50701,Sacaca,2021,6,TOTAL,4
+Santa Cruz,71302,Saipina,2021,6,TOTAL,3
+Santa Cruz,71105,San Antonio De Lomerio,2021,6,TOTAL,7
+Beni,80302,San Borja,2021,6,TOTAL,64
+Santa Cruz,70402,San Carlos,2021,6,TOTAL,1
+Beni,80501,San Ignacio,2021,6,TOTAL,24
+Santa Cruz,70301,San Ignacio De Velasco,2021,6,TOTAL,70
+Santa Cruz,71102,San Javier(stc),2021,6,TOTAL,29
+Beni,80701,San Joaquin,2021,6,TOTAL,8
+Santa Cruz,70501,San Jose De Chiquitos,2021,6,TOTAL,25
+Santa Cruz,70404,San Juan De Yapacani,2021,6,TOTAL,1
+Santa Cruz,71104,San Julian,2021,6,TOTAL,31
+Pando,90302,San Lorenzo(pnd),2021,6,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2021,6,TOTAL,11
+Chuquisaca,10702,San Lucas,2021,6,TOTAL,20
+Santa Cruz,71201,San Matias,2021,6,TOTAL,15
+Santa Cruz,71005,San Pedro,2021,6,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2021,6,TOTAL,1
+Santa Cruz,70303,San Rafael,2021,6,TOTAL,1
+Beni,80702,San Ramon Beni,2021,6,TOTAL,8
+Santa Cruz,71103,San Ramon Scz,2021,6,TOTAL,18
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,TOTAL,1740
+Beni,80303,Santa Rosa,2021,6,TOTAL,15
+Santa Cruz,70602,Santa Rosa Del Sara,2021,6,TOTAL,4
+Pando,90303,Sena,2021,6,TOTAL,7
+Cochabamba,30703,Sicaya,2021,6,TOTAL,2
+Chuquisaca,10403,Sopachuy,2021,6,TOTAL,4
+Chuquisaca,10101,Sucre,2021,6,TOTAL,141
+Chuquisaca,10601,Tarabuco,2021,6,TOTAL,10
+Tarija,60101,Tarija,2021,6,TOTAL,324
+Chuquisaca,10202,Tarvita,2021,6,TOTAL,2
+Cochabamba,30903,Tiquipaya,2021,6,TOTAL,68
+Potosí,51202,Tomave,2021,6,TOTAL,3
+Chuquisaca,10402,Tomina,2021,6,TOTAL,2
+Cochabamba,31201,Totora(cbba),2021,6,TOTAL,20
+Beni,80101,Trinidad,2021,6,TOTAL,261
+Potosí,50801,Tupiza,2021,6,TOTAL,62
+Potosí,50201,Uncia,2021,6,TOTAL,5
+Santa Cruz,71502,Urubicha,2021,6,TOTAL,6
+Potosí,51201,Uyuni,2021,6,TOTAL,33
+Santa Cruz,70801,Vallegrande,2021,6,TOTAL,21
+La Paz,20801,Viacha,2021,6,TOTAL,44
+Tarija,60303,Villa Montes,2021,6,TOTAL,66
+Chuquisaca,10801,Villa Serrano,2021,6,TOTAL,5
+Cochabamba,31003,Villa Tunari,2021,6,TOTAL,67
+Potosí,51501,Villazon,2021,6,TOTAL,40
+Cochabamba,30904,Vinto,2021,6,TOTAL,39
+Potosí,50602,Vitichi,2021,6,TOTAL,5
+Santa Cruz,70201,Warnes,2021,6,TOTAL,91
+Tarija,60301,Yacuiba,2021,6,TOTAL,97
+Santa Cruz,70403,Yapacani,2021,6,TOTAL,72
+La Paz,20201,Achacachi,2021,7,TOTAL,32
+Cochabamba,30201,Aiquile,2021,7,TOTAL,29
+Chuquisaca,10404,Alcala,2021,7,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,7,TOTAL,46
+Potosí,50802,Atocha,2021,7,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,7,TOTAL,18
+Beni,80802,Baures,2021,7,TOTAL,4
+Pando,90104,Bella Flor,2021,7,TOTAL,1
+Tarija,60202,Bermejo,2021,7,TOTAL,31
+Potosí,50301,Betanzos,2021,7,TOTAL,21
+Santa Cruz,70707,Boyuibe,2021,7,TOTAL,1
+Santa Cruz,70401,Buena Vista,2021,7,TOTAL,13
+Santa Cruz,70703,Cabezas,2021,7,TOTAL,4
+Potosí,51102,"Caiza ""d""",2021,7,TOTAL,4
+Chuquisaca,10701,Camargo,2021,7,TOTAL,13
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,7,TOTAL,2
+Santa Cruz,70706,Camiri,2021,7,TOTAL,15
+Cochabamba,30701,Capinota,2021,7,TOTAL,20
+Oruro,40102,Caracollo,2021,7,TOTAL,13
+La Paz,22001,Caranavi,2021,7,TOTAL,77
+Tarija,60302,Carapari,2021,7,TOTAL,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,7,TOTAL,5
+Oruro,40201,Challapata,2021,7,TOTAL,41
+Potosí,50302,Chaqui,2021,7,TOTAL,1
+Santa Cruz,70702,Charagua,2021,7,TOTAL,6
+La Paz,21101,Chulumani (v. De La Libertad),2021,7,TOTAL,25
+Potosí,51103,Ckochas,2021,7,TOTAL,4
+Cochabamba,30801,Cliza,2021,7,TOTAL,35
+Pando,90101,Cobija,2021,7,TOTAL,110
+Cochabamba,30101,Cochabamba,2021,7,TOTAL,805
+Cochabamba,30905,Colcapirhua,2021,7,TOTAL,40
+Potosí,50901,"Colcha ""k""",2021,7,TOTAL,4
+Santa Cruz,71301,Comarapa,2021,7,TOTAL,25
+Santa Cruz,71101,Concepcion,2021,7,TOTAL,41
+La Paz,21401,Coroico,2021,7,TOTAL,23
+Potosí,50601,Cotagaita,2021,7,TOTAL,3
+Santa Cruz,70102,Cotoca,2021,7,TOTAL,71
+Santa Cruz,71106,Cuatro Cañadas,2021,7,TOTAL,26
+Chuquisaca,10902,Culpina,2021,7,TOTAL,8
+La Paz,20105,El Alto,2021,7,TOTAL,1047
+Santa Cruz,71503,El Puente(stc),2021,7,TOTAL,8
+Santa Cruz,70105,El Torno,2021,7,TOTAL,78
+Chuquisaca,10405,El Villar,2021,7,TOTAL,5
+Tarija,60601,Entre Rios Trj,2021,7,TOTAL,5
+Cochabamba,31206,Entre Rios Cbba,2021,7,TOTAL,13
+La Paz,20405,Escoma,2021,7,TOTAL,7
+Pando,90203,Filadelfia,2021,7,TOTAL,3
+Beni,80202,Guayaramerin,2021,7,TOTAL,35
+Santa Cruz,70705,Gutierrez,2021,7,TOTAL,1
+Oruro,40701,Huanuni,2021,7,TOTAL,23
+Beni,80803,Huaracaje,2021,7,TOTAL,3
+Chuquisaca,10703,Incahuasi,2021,7,TOTAL,7
+Pando,90402,Ingavi (humaita),2021,7,TOTAL,2
+Santa Cruz,70104,La Guardia,2021,7,TOTAL,74
+La Paz,20101,La Paz,2021,7,TOTAL,1062
+Santa Cruz,70701,Lagunillas,2021,7,TOTAL,4
+Potosí,50203,Llallagua,2021,7,TOTAL,73
+Beni,80601,Loreto,2021,7,TOTAL,1
+Beni,80801,Magdalena,2021,7,TOTAL,12
+Santa Cruz,70903,Mairana,2021,7,TOTAL,17
+Cochabamba,31301,Mizque,2021,7,TOTAL,13
+Chuquisaca,10501,Monteagudo,2021,7,TOTAL,41
+Santa Cruz,71001,Montero,2021,7,TOTAL,276
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,7,TOTAL,4
+Potosí,50404,Ocuri,2021,7,TOTAL,6
+Oruro,40101,Oruro,2021,7,TOTAL,438
+Chuquisaca,10401,Padilla,2021,7,TOTAL,21
+Santa Cruz,70502,Pailon,2021,7,TOTAL,36
+Santa Cruz,70902,Pampa Grande,2021,7,TOTAL,6
+La Paz,21305,Patacamaya,2021,7,TOTAL,22
+Potosí,51203,Porco,2021,7,TOTAL,10
+Santa Cruz,70601,Portachuelo,2021,7,TOTAL,15
+Pando,90102,Porvenir,2021,7,TOTAL,3
+Potosí,50101,Potosi,2021,7,TOTAL,373
+Santa Cruz,71402,Puerto Quijarro,2021,7,TOTAL,9
+Pando,90201,Puerto Rico,2021,7,TOTAL,8
+Santa Cruz,71401,Puerto Suarez,2021,7,TOTAL,34
+Cochabamba,31205,Puerto Villarroel,2021,7,TOTAL,112
+Potosí,51101,Puna,2021,7,TOTAL,4
+Cochabamba,31401,Punata,2021,7,TOTAL,70
+Cochabamba,30901,Quillacollo,2021,7,TOTAL,157
+Santa Cruz,70904,Quirusillas,2021,7,TOTAL,1
+Beni,80301,Reyes,2021,7,TOTAL,12
+Beni,80201,Riberalta,2021,7,TOTAL,230
+Santa Cruz,70503,Robore,2021,7,TOTAL,19
+Beni,80304,Rurrenabaque,2021,7,TOTAL,37
+Cochabamba,31001,Sacaba,2021,7,TOTAL,177
+Potosí,50701,Sacaca,2021,7,TOTAL,12
+Santa Cruz,71302,Saipina,2021,7,TOTAL,2
+Oruro,40801,Salinas De Garci Mendoza,2021,7,TOTAL,2
+Santa Cruz,71105,San Antonio De Lomerio,2021,7,TOTAL,7
+Beni,80302,San Borja,2021,7,TOTAL,61
+Santa Cruz,70402,San Carlos,2021,7,TOTAL,6
+Beni,80501,San Ignacio,2021,7,TOTAL,26
+Santa Cruz,70301,San Ignacio De Velasco,2021,7,TOTAL,82
+Santa Cruz,71102,San Javier(stc),2021,7,TOTAL,19
+Beni,80701,San Joaquin,2021,7,TOTAL,11
+Santa Cruz,70501,San Jose De Chiquitos,2021,7,TOTAL,21
+Santa Cruz,70404,San Juan De Yapacani,2021,7,TOTAL,4
+Santa Cruz,71104,San Julian,2021,7,TOTAL,45
+Pando,90302,San Lorenzo(pnd),2021,7,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2021,7,TOTAL,8
+Chuquisaca,10702,San Lucas,2021,7,TOTAL,29
+Santa Cruz,71201,San Matias,2021,7,TOTAL,19
+Santa Cruz,70302,San Miguel De Velasco,2021,7,TOTAL,13
+Potosí,50405,San Pedro De Macha,2021,7,TOTAL,2
+Pando,90202,San Pedro(pnd),2021,7,TOTAL,2
+Santa Cruz,70303,San Rafael,2021,7,TOTAL,4
+Beni,80702,San Ramon Beni,2021,7,TOTAL,6
+Santa Cruz,71103,San Ramon Scz,2021,7,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,7,TOTAL,1381
+Beni,80303,Santa Rosa,2021,7,TOTAL,14
+Santa Cruz,70602,Santa Rosa Del Sara,2021,7,TOTAL,3
+Pando,90303,Sena,2021,7,TOTAL,9
+Chuquisaca,10403,Sopachuy,2021,7,TOTAL,6
+Chuquisaca,10101,Sucre,2021,7,TOTAL,212
+Chuquisaca,10601,Tarabuco,2021,7,TOTAL,5
+Tarija,60101,Tarija,2021,7,TOTAL,336
+Chuquisaca,10202,Tarvita,2021,7,TOTAL,1
+Cochabamba,30903,Tiquipaya,2021,7,TOTAL,64
+Potosí,51202,Tomave,2021,7,TOTAL,8
+Chuquisaca,10402,Tomina,2021,7,TOTAL,3
+Potosí,50502,Toro Toro,2021,7,TOTAL,8
+Cochabamba,31201,Totora(cbba),2021,7,TOTAL,16
+Oruro,41301,Totora(orr),2021,7,TOTAL,2
+Beni,80101,Trinidad,2021,7,TOTAL,248
+Potosí,50801,Tupiza,2021,7,TOTAL,31
+Potosí,50201,Uncia,2021,7,TOTAL,4
+Santa Cruz,71502,Urubicha,2021,7,TOTAL,9
+Potosí,51201,Uyuni,2021,7,TOTAL,25
+Santa Cruz,70801,Vallegrande,2021,7,TOTAL,24
+La Paz,20801,Viacha,2021,7,TOTAL,38
+Tarija,60303,Villa Montes,2021,7,TOTAL,64
+Chuquisaca,10801,Villa Serrano,2021,7,TOTAL,3
+Cochabamba,31003,Villa Tunari,2021,7,TOTAL,90
+Potosí,51501,Villazon,2021,7,TOTAL,39
+Cochabamba,30904,Vinto,2021,7,TOTAL,39
+Potosí,50602,Vitichi,2021,7,TOTAL,2
+Santa Cruz,70201,Warnes,2021,7,TOTAL,86
+Tarija,60301,Yacuiba,2021,7,TOTAL,105
+Santa Cruz,70403,Yapacani,2021,7,TOTAL,84
+Potosí,51302,Acacio,2021,8,TOTAL,2
+La Paz,20201,Achacachi,2021,8,TOTAL,29
+Cochabamba,30201,Aiquile,2021,8,TOTAL,22
+Chuquisaca,10404,Alcala,2021,8,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,8,TOTAL,49
+Potosí,50802,Atocha,2021,8,TOTAL,8
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,8,TOTAL,11
+Beni,80802,Baures,2021,8,TOTAL,4
+Tarija,60202,Bermejo,2021,8,TOTAL,4
+Potosí,50301,Betanzos,2021,8,TOTAL,19
+Pando,90103,Bolpebra,2021,8,TOTAL,1
+Santa Cruz,70707,Boyuibe,2021,8,TOTAL,3
+Santa Cruz,70401,Buena Vista,2021,8,TOTAL,10
+Santa Cruz,70703,Cabezas,2021,8,TOTAL,15
+Potosí,51102,"Caiza ""d""",2021,8,TOTAL,3
+Chuquisaca,10701,Camargo,2021,8,TOTAL,24
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,8,TOTAL,1
+Santa Cruz,70706,Camiri,2021,8,TOTAL,10
+Cochabamba,30701,Capinota,2021,8,TOTAL,18
+Oruro,40102,Caracollo,2021,8,TOTAL,19
+La Paz,22001,Caranavi,2021,8,TOTAL,70
+Tarija,60302,Carapari,2021,8,TOTAL,2
+Potosí,50702,Caripuyo,2021,8,TOTAL,2
+Santa Cruz,71403,Carmen Rivero Torrez,2021,8,TOTAL,5
+Oruro,40201,Challapata,2021,8,TOTAL,46
+Potosí,50302,Chaqui,2021,8,TOTAL,2
+Santa Cruz,70702,Charagua,2021,8,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2021,8,TOTAL,20
+Potosí,51103,Ckochas,2021,8,TOTAL,3
+Cochabamba,30801,Cliza,2021,8,TOTAL,29
+Pando,90101,Cobija,2021,8,TOTAL,104
+Cochabamba,30101,Cochabamba,2021,8,TOTAL,875
+Oruro,40902,Coipasa,2021,8,TOTAL,1
+Cochabamba,30905,Colcapirhua,2021,8,TOTAL,29
+Potosí,50901,"Colcha ""k""",2021,8,TOTAL,4
+Santa Cruz,71301,Comarapa,2021,8,TOTAL,32
+Santa Cruz,71101,Concepcion,2021,8,TOTAL,36
+La Paz,21401,Coroico,2021,8,TOTAL,26
+Santa Cruz,70102,Cotoca,2021,8,TOTAL,79
+Santa Cruz,71106,Cuatro Cañadas,2021,8,TOTAL,26
+Chuquisaca,10902,Culpina,2021,8,TOTAL,15
+La Paz,20105,El Alto,2021,8,TOTAL,1097
+Santa Cruz,71503,El Puente(stc),2021,8,TOTAL,9
+Santa Cruz,70105,El Torno,2021,8,TOTAL,69
+Chuquisaca,10405,El Villar,2021,8,TOTAL,3
+Tarija,60601,Entre Rios Trj,2021,8,TOTAL,11
+Cochabamba,31206,Entre Rios Cbba,2021,8,TOTAL,17
+La Paz,20405,Escoma,2021,8,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2021,8,TOTAL,3
+Pando,90203,Filadelfia,2021,8,TOTAL,2
+Beni,80202,Guayaramerin,2021,8,TOTAL,47
+Santa Cruz,70705,Gutierrez,2021,8,TOTAL,2
+Oruro,40501,Huachacalla,2021,8,TOTAL,1
+Oruro,40701,Huanuni,2021,8,TOTAL,26
+Beni,80803,Huaracaje,2021,8,TOTAL,1
+Chuquisaca,10703,Incahuasi,2021,8,TOTAL,4
+La Paz,20806,Jesus De Machaca,2021,8,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,8,TOTAL,60
+La Paz,20101,La Paz,2021,8,TOTAL,909
+Santa Cruz,70701,Lagunillas,2021,8,TOTAL,2
+Chuquisaca,10903,Las Carreras,2021,8,TOTAL,1
+Potosí,50203,Llallagua,2021,8,TOTAL,51
+Beni,80801,Magdalena,2021,8,TOTAL,17
+Santa Cruz,70903,Mairana,2021,8,TOTAL,23
+Cochabamba,31301,Mizque,2021,8,TOTAL,12
+Chuquisaca,10501,Monteagudo,2021,8,TOTAL,29
+Santa Cruz,71001,Montero,2021,8,TOTAL,245
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,8,TOTAL,2
+Potosí,50404,Ocuri,2021,8,TOTAL,2
+Oruro,40101,Oruro,2021,8,TOTAL,422
+Chuquisaca,10401,Padilla,2021,8,TOTAL,11
+Santa Cruz,70502,Pailon,2021,8,TOTAL,24
+Santa Cruz,70902,Pampa Grande,2021,8,TOTAL,3
+La Paz,21305,Patacamaya,2021,8,TOTAL,27
+Potosí,50403,Pocoata,2021,8,TOTAL,15
+Potosí,51203,Porco,2021,8,TOTAL,13
+Chuquisaca,10103,Poroma,2021,8,TOTAL,2
+Santa Cruz,70601,Portachuelo,2021,8,TOTAL,26
+Pando,90102,Porvenir,2021,8,TOTAL,2
+Potosí,50101,Potosi,2021,8,TOTAL,290
+Santa Cruz,71402,Puerto Quijarro,2021,8,TOTAL,8
+Pando,90201,Puerto Rico,2021,8,TOTAL,7
+Santa Cruz,71401,Puerto Suarez,2021,8,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,8,TOTAL,132
+Potosí,51101,Puna,2021,8,TOTAL,2
+Cochabamba,31401,Punata,2021,8,TOTAL,83
+Cochabamba,30901,Quillacollo,2021,8,TOTAL,189
+Potosí,50402,Ravelo,2021,8,TOTAL,5
+Beni,80301,Reyes,2021,8,TOTAL,20
+Beni,80201,Riberalta,2021,8,TOTAL,228
+Santa Cruz,70503,Robore,2021,8,TOTAL,20
+Beni,80304,Rurrenabaque,2021,8,TOTAL,40
+Cochabamba,31001,Sacaba,2021,8,TOTAL,183
+Potosí,50701,Sacaca,2021,8,TOTAL,9
+Santa Cruz,71302,Saipina,2021,8,TOTAL,4
+Oruro,40801,Salinas De Garci Mendoza,2021,8,TOTAL,1
+Beni,80602,San Andres,2021,8,TOTAL,3
+Potosí,51003,San Antonio De Esmoruco,2021,8,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2021,8,TOTAL,7
+Beni,80302,San Borja,2021,8,TOTAL,59
+Beni,80501,San Ignacio,2021,8,TOTAL,27
+Santa Cruz,70301,San Ignacio De Velasco,2021,8,TOTAL,69
+Santa Cruz,71102,San Javier(stc),2021,8,TOTAL,24
+Beni,80701,San Joaquin,2021,8,TOTAL,8
+Santa Cruz,70501,San Jose De Chiquitos,2021,8,TOTAL,29
+Santa Cruz,70404,San Juan De Yapacani,2021,8,TOTAL,2
+Santa Cruz,71104,San Julian,2021,8,TOTAL,44
+Pando,90302,San Lorenzo(pnd),2021,8,TOTAL,7
+Tarija,60501,San Lorenzo(tja),2021,8,TOTAL,10
+Chuquisaca,10702,San Lucas,2021,8,TOTAL,26
+Santa Cruz,71201,San Matias,2021,8,TOTAL,13
+Santa Cruz,70302,San Miguel De Velasco,2021,8,TOTAL,13
+Santa Cruz,71005,San Pedro,2021,8,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2021,8,TOTAL,1
+Potosí,50405,San Pedro De Macha,2021,8,TOTAL,2
+Santa Cruz,70303,San Rafael,2021,8,TOTAL,6
+Beni,80702,San Ramon Beni,2021,8,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2021,8,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,8,TOTAL,1685
+Beni,80303,Santa Rosa,2021,8,TOTAL,16
+Santa Cruz,70602,Santa Rosa Del Sara,2021,8,TOTAL,4
+Pando,90303,Sena,2021,8,TOTAL,11
+Cochabamba,30703,Sicaya,2021,8,TOTAL,1
+Chuquisaca,10403,Sopachuy,2021,8,TOTAL,2
+Chuquisaca,10101,Sucre,2021,8,TOTAL,209
+Chuquisaca,10601,Tarabuco,2021,8,TOTAL,8
+Tarija,60101,Tarija,2021,8,TOTAL,315
+Cochabamba,30903,Tiquipaya,2021,8,TOTAL,57
+Potosí,51202,Tomave,2021,8,TOTAL,1
+Chuquisaca,10402,Tomina,2021,8,TOTAL,7
+Potosí,50502,Toro Toro,2021,8,TOTAL,9
+Cochabamba,31201,Totora(cbba),2021,8,TOTAL,19
+Oruro,41301,Totora(orr),2021,8,TOTAL,1
+Beni,80101,Trinidad,2021,8,TOTAL,20
+Potosí,50801,Tupiza,2021,8,TOTAL,49
+Potosí,50201,Uncia,2021,8,TOTAL,7
+Santa Cruz,71502,Urubicha,2021,8,TOTAL,5
+Potosí,51201,Uyuni,2021,8,TOTAL,33
+Santa Cruz,70801,Vallegrande,2021,8,TOTAL,24
+La Paz,20801,Viacha,2021,8,TOTAL,51
+Tarija,60303,Villa Montes,2021,8,TOTAL,57
+Chuquisaca,10801,Villa Serrano,2021,8,TOTAL,7
+Cochabamba,31003,Villa Tunari,2021,8,TOTAL,85
+Potosí,51501,Villazon,2021,8,TOTAL,39
+Cochabamba,30904,Vinto,2021,8,TOTAL,56
+Potosí,50602,Vitichi,2021,8,TOTAL,3
+Santa Cruz,70201,Warnes,2021,8,TOTAL,8
+Tarija,60301,Yacuiba,2021,8,TOTAL,103
+Santa Cruz,70403,Yapacani,2021,8,TOTAL,83
+Potosí,51302,Acacio,2021,9,TOTAL,1
+La Paz,20201,Achacachi,2021,9,TOTAL,35
+Cochabamba,30201,Aiquile,2021,9,TOTAL,19
+Chuquisaca,10404,Alcala,2021,9,TOTAL,4
+Santa Cruz,71501,Ascencion De Guarayos,2021,9,TOTAL,59
+Potosí,50802,Atocha,2021,9,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,9,TOTAL,6
+Beni,80802,Baures,2021,9,TOTAL,4
+Tarija,60202,Bermejo,2021,9,TOTAL,39
+Potosí,50301,Betanzos,2021,9,TOTAL,18
+Santa Cruz,70707,Boyuibe,2021,9,TOTAL,7
+Santa Cruz,70401,Buena Vista,2021,9,TOTAL,13
+Santa Cruz,70703,Cabezas,2021,9,TOTAL,14
+Potosí,51102,"Caiza ""d""",2021,9,TOTAL,4
+Chuquisaca,10701,Camargo,2021,9,TOTAL,15
+Santa Cruz,70706,Camiri,2021,9,TOTAL,19
+Cochabamba,30701,Capinota,2021,9,TOTAL,16
+Oruro,40102,Caracollo,2021,9,TOTAL,12
+La Paz,22001,Caranavi,2021,9,TOTAL,83
+Tarija,60302,Carapari,2021,9,TOTAL,4
+Potosí,50702,Caripuyo,2021,9,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2021,9,TOTAL,8
+Oruro,40201,Challapata,2021,9,TOTAL,38
+Potosí,50302,Chaqui,2021,9,TOTAL,7
+Santa Cruz,70702,Charagua,2021,9,TOTAL,4
+La Paz,21101,Chulumani (v. De La Libertad),2021,9,TOTAL,24
+Potosí,51103,Ckochas,2021,9,TOTAL,4
+Cochabamba,30801,Cliza,2021,9,TOTAL,23
+Pando,90101,Cobija,2021,9,TOTAL,101
+Cochabamba,30101,Cochabamba,2021,9,TOTAL,1172
+Cochabamba,30905,Colcapirhua,2021,9,TOTAL,35
+Potosí,50901,"Colcha ""k""",2021,9,TOTAL,1
+Santa Cruz,71301,Comarapa,2021,9,TOTAL,39
+Santa Cruz,71101,Concepcion,2021,9,TOTAL,36
+La Paz,21401,Coroico,2021,9,TOTAL,23
+Potosí,50601,Cotagaita,2021,9,TOTAL,9
+Santa Cruz,70102,Cotoca,2021,9,TOTAL,74
+Santa Cruz,71106,Cuatro Cañadas,2021,9,TOTAL,23
+Chuquisaca,10902,Culpina,2021,9,TOTAL,14
+La Paz,20105,El Alto,2021,9,TOTAL,1114
+Santa Cruz,71503,El Puente(stc),2021,9,TOTAL,6
+Santa Cruz,70105,El Torno,2021,9,TOTAL,70
+Chuquisaca,10405,El Villar,2021,9,TOTAL,2
+Tarija,60601,Entre Rios Trj,2021,9,TOTAL,11
+Cochabamba,31206,Entre Rios Cbba,2021,9,TOTAL,17
+La Paz,20405,Escoma,2021,9,TOTAL,6
+Santa Cruz,71004,Fernandez Alonso,2021,9,TOTAL,3
+Pando,90203,Filadelfia,2021,9,TOTAL,1
+Beni,80202,Guayaramerin,2021,9,TOTAL,69
+Oruro,40501,Huachacalla,2021,9,TOTAL,1
+Oruro,40701,Huanuni,2021,9,TOTAL,28
+Beni,80803,Huaracaje,2021,9,TOTAL,4
+Chuquisaca,10703,Incahuasi,2021,9,TOTAL,8
+La Paz,20806,Jesus De Machaca,2021,9,TOTAL,2
+Santa Cruz,70104,La Guardia,2021,9,TOTAL,75
+La Paz,20101,La Paz,2021,9,TOTAL,795
+Santa Cruz,70701,Lagunillas,2021,9,TOTAL,1
+Chuquisaca,10903,Las Carreras,2021,9,TOTAL,1
+Potosí,50203,Llallagua,2021,9,TOTAL,54
+Potosí,51401,Llica,2021,9,TOTAL,1
+Beni,80601,Loreto,2021,9,TOTAL,1
+Beni,80801,Magdalena,2021,9,TOTAL,14
+Santa Cruz,70903,Mairana,2021,9,TOTAL,19
+Cochabamba,31301,Mizque,2021,9,TOTAL,22
+Chuquisaca,10501,Monteagudo,2021,9,TOTAL,27
+Santa Cruz,71001,Montero,2021,9,TOTAL,323
+Potosí,50404,Ocuri,2021,9,TOTAL,7
+Oruro,40101,Oruro,2021,9,TOTAL,396
+Chuquisaca,10401,Padilla,2021,9,TOTAL,13
+Santa Cruz,70502,Pailon,2021,9,TOTAL,28
+Santa Cruz,70902,Pampa Grande,2021,9,TOTAL,5
+La Paz,21305,Patacamaya,2021,9,TOTAL,27
+Potosí,51203,Porco,2021,9,TOTAL,13
+Santa Cruz,70601,Portachuelo,2021,9,TOTAL,26
+Potosí,50101,Potosi,2021,9,TOTAL,341
+Pando,90301,Puerto Gonzalo Moreno,2021,9,TOTAL,2
+Santa Cruz,71402,Puerto Quijarro,2021,9,TOTAL,13
+Pando,90201,Puerto Rico,2021,9,TOTAL,8
+Beni,80703,Puerto Siles,2021,9,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,9,TOTAL,107
+Cochabamba,31401,Punata,2021,9,TOTAL,82
+Cochabamba,30901,Quillacollo,2021,9,TOTAL,177
+Potosí,50402,Ravelo,2021,9,TOTAL,2
+Beni,80301,Reyes,2021,9,TOTAL,10
+Beni,80201,Riberalta,2021,9,TOTAL,240
+Santa Cruz,70503,Robore,2021,9,TOTAL,1
+Beni,80304,Rurrenabaque,2021,9,TOTAL,30
+Cochabamba,31001,Sacaba,2021,9,TOTAL,206
+Potosí,50701,Sacaca,2021,9,TOTAL,5
+Oruro,40801,Salinas De Garci Mendoza,2021,9,TOTAL,8
+Beni,80602,San Andres,2021,9,TOTAL,3
+Santa Cruz,71105,San Antonio De Lomerio,2021,9,TOTAL,5
+Beni,80302,San Borja,2021,9,TOTAL,58
+Beni,80501,San Ignacio,2021,9,TOTAL,22
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,TOTAL,95
+Beni,80701,San Joaquin,2021,9,TOTAL,10
+Santa Cruz,70501,San Jose De Chiquitos,2021,9,TOTAL,32
+Santa Cruz,70404,San Juan De Yapacani,2021,9,TOTAL,1
+Santa Cruz,71104,San Julian,2021,9,TOTAL,52
+Pando,90302,San Lorenzo(pnd),2021,9,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2021,9,TOTAL,4
+Chuquisaca,10702,San Lucas,2021,9,TOTAL,18
+Santa Cruz,71201,San Matias,2021,9,TOTAL,20
+Santa Cruz,70302,San Miguel De Velasco,2021,9,TOTAL,13
+Santa Cruz,71005,San Pedro,2021,9,TOTAL,2
+Potosí,50501,San Pedro De Buena Vista,2021,9,TOTAL,3
+Potosí,50405,San Pedro De Macha,2021,9,TOTAL,1
+Santa Cruz,70303,San Rafael,2021,9,TOTAL,9
+Beni,80702,San Ramon Beni,2021,9,TOTAL,7
+Santa Cruz,71103,San Ramon Scz,2021,9,TOTAL,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,9,TOTAL,1734
+Beni,80303,Santa Rosa,2021,9,TOTAL,8
+Santa Cruz,70602,Santa Rosa Del Sara,2021,9,TOTAL,3
+Pando,90303,Sena,2021,9,TOTAL,12
+Cochabamba,30703,Sicaya,2021,9,TOTAL,1
+Chuquisaca,10403,Sopachuy,2021,9,TOTAL,3
+Chuquisaca,10101,Sucre,2021,9,TOTAL,298
+Chuquisaca,10601,Tarabuco,2021,9,TOTAL,16
+Tarija,60101,Tarija,2021,9,TOTAL,293
+Chuquisaca,10202,Tarvita,2021,9,TOTAL,1
+Cochabamba,30903,Tiquipaya,2021,9,TOTAL,65
+Potosí,51202,Tomave,2021,9,TOTAL,3
+Chuquisaca,10402,Tomina,2021,9,TOTAL,2
+Potosí,50502,Toro Toro,2021,9,TOTAL,4
+Cochabamba,31201,Totora(cbba),2021,9,TOTAL,23
+Oruro,41301,Totora(orr),2021,9,TOTAL,5
+Beni,80101,Trinidad,2021,9,TOTAL,280
+Potosí,50801,Tupiza,2021,9,TOTAL,47
+Potosí,50201,Uncia,2021,9,TOTAL,11
+Santa Cruz,71502,Urubicha,2021,9,TOTAL,4
+Potosí,51201,Uyuni,2021,9,TOTAL,38
+Santa Cruz,70801,Vallegrande,2021,9,TOTAL,17
+La Paz,20801,Viacha,2021,9,TOTAL,55
+Tarija,60303,Villa Montes,2021,9,TOTAL,53
+Pando,90502,Villa Nueva (loma Alta),2021,9,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2021,9,TOTAL,5
+Cochabamba,31003,Villa Tunari,2021,9,TOTAL,100
+Potosí,51501,Villazon,2021,9,TOTAL,35
+Cochabamba,30904,Vinto,2021,9,TOTAL,60
+Potosí,50602,Vitichi,2021,9,TOTAL,6
+Santa Cruz,70201,Warnes,2021,9,TOTAL,35
+Tarija,60301,Yacuiba,2021,9,TOTAL,107
+Santa Cruz,70403,Yapacani,2021,9,TOTAL,81
+Potosí,51302,Acacio,2021,10,TOTAL,4
+La Paz,20201,Achacachi,2021,10,TOTAL,34
+Cochabamba,30201,Aiquile,2021,10,TOTAL,26
+Chuquisaca,10404,Alcala,2021,10,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,10,TOTAL,61
+Potosí,50802,Atocha,2021,10,TOTAL,8
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,10,TOTAL,10
+Beni,80802,Baures,2021,10,TOTAL,7
+Pando,90104,Bella Flor,2021,10,TOTAL,3
+Tarija,60202,Bermejo,2021,10,TOTAL,27
+Potosí,50301,Betanzos,2021,10,TOTAL,27
+Pando,90103,Bolpebra,2021,10,TOTAL,1
+Santa Cruz,70401,Buena Vista,2021,10,TOTAL,13
+Santa Cruz,70703,Cabezas,2021,10,TOTAL,11
+Potosí,51102,"Caiza ""d""",2021,10,TOTAL,7
+Chuquisaca,10701,Camargo,2021,10,TOTAL,23
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,10,TOTAL,1
+Santa Cruz,70706,Camiri,2021,10,TOTAL,11
+Cochabamba,30701,Capinota,2021,10,TOTAL,23
+Oruro,40102,Caracollo,2021,10,TOTAL,13
+La Paz,22001,Caranavi,2021,10,TOTAL,62
+Tarija,60302,Carapari,2021,10,TOTAL,3
+Potosí,50702,Caripuyo,2021,10,TOTAL,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,10,TOTAL,4
+Oruro,40201,Challapata,2021,10,TOTAL,58
+Potosí,50302,Chaqui,2021,10,TOTAL,3
+Santa Cruz,70702,Charagua,2021,10,TOTAL,4
+La Paz,21101,Chulumani (v. De La Libertad),2021,10,TOTAL,32
+Potosí,51103,Ckochas,2021,10,TOTAL,6
+Cochabamba,30801,Cliza,2021,10,TOTAL,37
+Pando,90101,Cobija,2021,10,TOTAL,76
+Cochabamba,30101,Cochabamba,2021,10,TOTAL,1123
+Cochabamba,30905,Colcapirhua,2021,10,TOTAL,37
+Potosí,50901,"Colcha ""k""",2021,10,TOTAL,4
+Santa Cruz,71301,Comarapa,2021,10,TOTAL,26
+Santa Cruz,71101,Concepcion,2021,10,TOTAL,44
+La Paz,21401,Coroico,2021,10,TOTAL,29
+Potosí,50601,Cotagaita,2021,10,TOTAL,4
+Santa Cruz,70102,Cotoca,2021,10,TOTAL,91
+Santa Cruz,71106,Cuatro Cañadas,2021,10,TOTAL,23
+Chuquisaca,10902,Culpina,2021,10,TOTAL,12
+La Paz,20105,El Alto,2021,10,TOTAL,1120
+Santa Cruz,71503,El Puente(stc),2021,10,TOTAL,11
+Santa Cruz,70105,El Torno,2021,10,TOTAL,13
+Chuquisaca,10405,El Villar,2021,10,TOTAL,1
+Tarija,60601,Entre Rios Trj,2021,10,TOTAL,13
+Cochabamba,31206,Entre Rios Cbba,2021,10,TOTAL,22
+La Paz,20405,Escoma,2021,10,TOTAL,5
+Santa Cruz,71004,Fernandez Alonso,2021,10,TOTAL,5
+Pando,90203,Filadelfia,2021,10,TOTAL,2
+Beni,80202,Guayaramerin,2021,10,TOTAL,70
+Oruro,40501,Huachacalla,2021,10,TOTAL,2
+Oruro,40701,Huanuni,2021,10,TOTAL,13
+Beni,80803,Huaracaje,2021,10,TOTAL,4
+Chuquisaca,10703,Incahuasi,2021,10,TOTAL,3
+La Paz,20806,Jesus De Machaca,2021,10,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,10,TOTAL,74
+La Paz,20101,La Paz,2021,10,TOTAL,1001
+Santa Cruz,70701,Lagunillas,2021,10,TOTAL,3
+Chuquisaca,10903,Las Carreras,2021,10,TOTAL,1
+Potosí,50203,Llallagua,2021,10,TOTAL,52
+Beni,80801,Magdalena,2021,10,TOTAL,7
+Santa Cruz,70903,Mairana,2021,10,TOTAL,24
+Cochabamba,31301,Mizque,2021,10,TOTAL,25
+La Paz,20402,Mocomoco,2021,10,TOTAL,1
+Potosí,51002,Mojinete,2021,10,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,10,TOTAL,44
+Santa Cruz,71001,Montero,2021,10,TOTAL,248
+Potosí,50404,Ocuri,2021,10,TOTAL,5
+Oruro,40101,Oruro,2021,10,TOTAL,421
+Chuquisaca,10401,Padilla,2021,10,TOTAL,10
+Santa Cruz,70502,Pailon,2021,10,TOTAL,24
+La Paz,21104,Palos Blancos,2021,10,TOTAL,15
+Santa Cruz,70902,Pampa Grande,2021,10,TOTAL,4
+La Paz,21305,Patacamaya,2021,10,TOTAL,24
+Potosí,51203,Porco,2021,10,TOTAL,13
+Santa Cruz,70601,Portachuelo,2021,10,TOTAL,14
+Pando,90102,Porvenir,2021,10,TOTAL,1
+Potosí,50101,Potosi,2021,10,TOTAL,361
+La Paz,20401,Puerto Acosta,2021,10,TOTAL,1
+Pando,90301,Puerto Gonzalo Moreno,2021,10,TOTAL,2
+Santa Cruz,71402,Puerto Quijarro,2021,10,TOTAL,9
+Pando,90201,Puerto Rico,2021,10,TOTAL,7
+Beni,80703,Puerto Siles,2021,10,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,10,TOTAL,119
+Potosí,51101,Puna,2021,10,TOTAL,1
+Cochabamba,31401,Punata,2021,10,TOTAL,70
+Cochabamba,30901,Quillacollo,2021,10,TOTAL,199
+Potosí,50402,Ravelo,2021,10,TOTAL,8
+Beni,80301,Reyes,2021,10,TOTAL,14
+Beni,80201,Riberalta,2021,10,TOTAL,257
+Santa Cruz,70503,Robore,2021,10,TOTAL,17
+Beni,80304,Rurrenabaque,2021,10,TOTAL,38
+Cochabamba,31001,Sacaba,2021,10,TOTAL,210
+Potosí,50701,Sacaca,2021,10,TOTAL,11
+Santa Cruz,71302,Saipina,2021,10,TOTAL,4
+Oruro,40801,Salinas De Garci Mendoza,2021,10,TOTAL,3
+Beni,80602,San Andres,2021,10,TOTAL,5
+Santa Cruz,71105,San Antonio De Lomerio,2021,10,TOTAL,4
+Beni,80302,San Borja,2021,10,TOTAL,56
+Santa Cruz,70402,San Carlos,2021,10,TOTAL,1
+Beni,80501,San Ignacio,2021,10,TOTAL,29
+Santa Cruz,70301,San Ignacio De Velasco,2021,10,TOTAL,106
+Santa Cruz,71102,San Javier(stc),2021,10,TOTAL,31
+Beni,80701,San Joaquin,2021,10,TOTAL,10
+Santa Cruz,70501,San Jose De Chiquitos,2021,10,TOTAL,35
+Santa Cruz,70404,San Juan De Yapacani,2021,10,TOTAL,1
+Santa Cruz,71104,San Julian,2021,10,TOTAL,56
+Pando,90302,San Lorenzo(pnd),2021,10,TOTAL,6
+Tarija,60501,San Lorenzo(tja),2021,10,TOTAL,4
+Chuquisaca,10702,San Lucas,2021,10,TOTAL,12
+Santa Cruz,71201,San Matias,2021,10,TOTAL,15
+Santa Cruz,70302,San Miguel De Velasco,2021,10,TOTAL,7
+Santa Cruz,71005,San Pedro,2021,10,TOTAL,1
+Potosí,50405,San Pedro De Macha,2021,10,TOTAL,5
+Santa Cruz,70303,San Rafael,2021,10,TOTAL,7
+Beni,80702,San Ramon Beni,2021,10,TOTAL,2
+Santa Cruz,71103,San Ramon Scz,2021,10,TOTAL,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,10,TOTAL,1588
+Beni,80303,Santa Rosa,2021,10,TOTAL,11
+Santa Cruz,70602,Santa Rosa Del Sara,2021,10,TOTAL,6
+Pando,90303,Sena,2021,10,TOTAL,4
+Chuquisaca,10403,Sopachuy,2021,10,TOTAL,9
+Chuquisaca,10101,Sucre,2021,10,TOTAL,306
+Chuquisaca,10601,Tarabuco,2021,10,TOTAL,16
+Tarija,60101,Tarija,2021,10,TOTAL,308
+Cochabamba,30903,Tiquipaya,2021,10,TOTAL,83
+Potosí,51202,Tomave,2021,10,TOTAL,1
+Chuquisaca,10402,Tomina,2021,10,TOTAL,6
+Potosí,50502,Toro Toro,2021,10,TOTAL,5
+Cochabamba,31201,Totora(cbba),2021,10,TOTAL,24
+Oruro,41301,Totora(orr),2021,10,TOTAL,1
+Beni,80101,Trinidad,2021,10,TOTAL,271
+Potosí,50801,Tupiza,2021,10,TOTAL,46
+Potosí,50201,Uncia,2021,10,TOTAL,12
+Santa Cruz,71502,Urubicha,2021,10,TOTAL,2
+Potosí,51201,Uyuni,2021,10,TOTAL,35
+Santa Cruz,70801,Vallegrande,2021,10,TOTAL,30
+La Paz,20801,Viacha,2021,10,TOTAL,41
+Cochabamba,31302,Vila Vila,2021,10,TOTAL,4
+Tarija,60303,Villa Montes,2021,10,TOTAL,49
+Chuquisaca,10801,Villa Serrano,2021,10,TOTAL,4
+Cochabamba,31003,Villa Tunari,2021,10,TOTAL,82
+Potosí,51501,Villazon,2021,10,TOTAL,42
+Cochabamba,30904,Vinto,2021,10,TOTAL,60
+Potosí,50602,Vitichi,2021,10,TOTAL,7
+Santa Cruz,70201,Warnes,2021,10,TOTAL,48
+Tarija,60301,Yacuiba,2021,10,TOTAL,115
+Santa Cruz,70403,Yapacani,2021,10,TOTAL,90
+La Paz,20201,Achacachi,2021,11,TOTAL,38
+Cochabamba,30201,Aiquile,2021,11,TOTAL,21
+Chuquisaca,10404,Alcala,2021,11,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,11,TOTAL,47
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,11,TOTAL,8
+Beni,80802,Baures,2021,11,TOTAL,1
+Tarija,60202,Bermejo,2021,11,TOTAL,33
+Potosí,50301,Betanzos,2021,11,TOTAL,14
+Santa Cruz,70707,Boyuibe,2021,11,TOTAL,4
+Santa Cruz,70401,Buena Vista,2021,11,TOTAL,8
+Santa Cruz,70703,Cabezas,2021,11,TOTAL,13
+Potosí,51102,"Caiza ""d""",2021,11,TOTAL,1
+Chuquisaca,10701,Camargo,2021,11,TOTAL,19
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,11,TOTAL,1
+Santa Cruz,70706,Camiri,2021,11,TOTAL,6
+Cochabamba,30701,Capinota,2021,11,TOTAL,12
+Oruro,40102,Caracollo,2021,11,TOTAL,19
+La Paz,22001,Caranavi,2021,11,TOTAL,93
+Tarija,60302,Carapari,2021,11,TOTAL,5
+Potosí,50702,Caripuyo,2021,11,TOTAL,5
+Santa Cruz,71403,Carmen Rivero Torrez,2021,11,TOTAL,3
+Oruro,40201,Challapata,2021,11,TOTAL,49
+Potosí,50302,Chaqui,2021,11,TOTAL,5
+Santa Cruz,70702,Charagua,2021,11,TOTAL,3
+La Paz,21101,Chulumani (v. De La Libertad),2021,11,TOTAL,13
+Potosí,51103,Ckochas,2021,11,TOTAL,4
+Cochabamba,30801,Cliza,2021,11,TOTAL,36
+Pando,90101,Cobija,2021,11,TOTAL,73
+Cochabamba,30101,Cochabamba,2021,11,TOTAL,1077
+Cochabamba,30905,Colcapirhua,2021,11,TOTAL,46
+Potosí,50901,"Colcha ""k""",2021,11,TOTAL,6
+Potosí,50401,Colquechaca,2021,11,TOTAL,1
+Santa Cruz,71301,Comarapa,2021,11,TOTAL,20
+Santa Cruz,71101,Concepcion,2021,11,TOTAL,36
+La Paz,21401,Coroico,2021,11,TOTAL,32
+Potosí,50601,Cotagaita,2021,11,TOTAL,14
+Santa Cruz,70102,Cotoca,2021,11,TOTAL,66
+Santa Cruz,71106,Cuatro Cañadas,2021,11,TOTAL,20
+Chuquisaca,10902,Culpina,2021,11,TOTAL,17
+La Paz,20105,El Alto,2021,11,TOTAL,1079
+Oruro,40103,El Choro,2021,11,TOTAL,3
+Santa Cruz,71503,El Puente(stc),2021,11,TOTAL,5
+Santa Cruz,70105,El Torno,2021,11,TOTAL,68
+Chuquisaca,10405,El Villar,2021,11,TOTAL,1
+Tarija,60601,Entre Rios Trj,2021,11,TOTAL,9
+Cochabamba,31206,Entre Rios Cbba,2021,11,TOTAL,20
+La Paz,20405,Escoma,2021,11,TOTAL,10
+Santa Cruz,71004,Fernandez Alonso,2021,11,TOTAL,4
+Pando,90203,Filadelfia,2021,11,TOTAL,1
+Beni,80202,Guayaramerin,2021,11,TOTAL,67
+Santa Cruz,70705,Gutierrez,2021,11,TOTAL,4
+Chuquisaca,10502,Huacareta,2021,11,TOTAL,2
+Oruro,40701,Huanuni,2021,11,TOTAL,35
+Beni,80803,Huaracaje,2021,11,TOTAL,2
+Chuquisaca,10703,Incahuasi,2021,11,TOTAL,9
+Pando,90402,Ingavi (humaita),2021,11,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,11,TOTAL,77
+La Paz,20101,La Paz,2021,11,TOTAL,980
+Santa Cruz,70701,Lagunillas,2021,11,TOTAL,3
+Chuquisaca,10903,Las Carreras,2021,11,TOTAL,3
+Potosí,50203,Llallagua,2021,11,TOTAL,65
+Beni,80801,Magdalena,2021,11,TOTAL,14
+Santa Cruz,70903,Mairana,2021,11,TOTAL,13
+Cochabamba,31301,Mizque,2021,11,TOTAL,24
+La Paz,20402,Mocomoco,2021,11,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,11,TOTAL,24
+Santa Cruz,71001,Montero,2021,11,TOTAL,245
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,11,TOTAL,1
+Potosí,50404,Ocuri,2021,11,TOTAL,9
+Oruro,40101,Oruro,2021,11,TOTAL,411
+Chuquisaca,10401,Padilla,2021,11,TOTAL,15
+Santa Cruz,70502,Pailon,2021,11,TOTAL,25
+Santa Cruz,70902,Pampa Grande,2021,11,TOTAL,2
+La Paz,21305,Patacamaya,2021,11,TOTAL,33
+Oruro,40602,Pazña,2021,11,TOTAL,1
+Potosí,51203,Porco,2021,11,TOTAL,16
+Santa Cruz,70601,Portachuelo,2021,11,TOTAL,30
+Pando,90102,Porvenir,2021,11,TOTAL,2
+Potosí,50101,Potosi,2021,11,TOTAL,383
+La Paz,20401,Puerto Acosta,2021,11,TOTAL,1
+Pando,90301,Puerto Gonzalo Moreno,2021,11,TOTAL,5
+Santa Cruz,71402,Puerto Quijarro,2021,11,TOTAL,8
+Pando,90201,Puerto Rico,2021,11,TOTAL,7
+Cochabamba,31205,Puerto Villarroel,2021,11,TOTAL,113
+Potosí,51101,Puna,2021,11,TOTAL,8
+Cochabamba,31401,Punata,2021,11,TOTAL,57
+Cochabamba,30901,Quillacollo,2021,11,TOTAL,198
+Potosí,50402,Ravelo,2021,11,TOTAL,6
+Beni,80301,Reyes,2021,11,TOTAL,2
+Beni,80201,Riberalta,2021,11,TOTAL,239
+Santa Cruz,70503,Robore,2021,11,TOTAL,22
+Beni,80304,Rurrenabaque,2021,11,TOTAL,31
+Cochabamba,31001,Sacaba,2021,11,TOTAL,75
+Potosí,50701,Sacaca,2021,11,TOTAL,6
+Santa Cruz,71302,Saipina,2021,11,TOTAL,2
+Oruro,40801,Salinas De Garci Mendoza,2021,11,TOTAL,8
+Santa Cruz,70901,Samaipata,2021,11,TOTAL,3
+Beni,80602,San Andres,2021,11,TOTAL,2
+Santa Cruz,71105,San Antonio De Lomerio,2021,11,TOTAL,3
+Beni,80302,San Borja,2021,11,TOTAL,64
+Beni,80501,San Ignacio,2021,11,TOTAL,15
+Santa Cruz,70301,San Ignacio De Velasco,2021,11,TOTAL,91
+Santa Cruz,71102,San Javier(stc),2021,11,TOTAL,24
+Beni,80701,San Joaquin,2021,11,TOTAL,13
+Santa Cruz,70501,San Jose De Chiquitos,2021,11,TOTAL,35
+Santa Cruz,70404,San Juan De Yapacani,2021,11,TOTAL,1
+Santa Cruz,71104,San Julian,2021,11,TOTAL,50
+Pando,90302,San Lorenzo(pnd),2021,11,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2021,11,TOTAL,6
+Chuquisaca,10702,San Lucas,2021,11,TOTAL,18
+Santa Cruz,71201,San Matias,2021,11,TOTAL,21
+Santa Cruz,70302,San Miguel De Velasco,2021,11,TOTAL,6
+Potosí,50405,San Pedro De Macha,2021,11,TOTAL,1
+Santa Cruz,70303,San Rafael,2021,11,TOTAL,7
+Beni,80702,San Ramon Beni,2021,11,TOTAL,8
+Santa Cruz,71103,San Ramon Scz,2021,11,TOTAL,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,TOTAL,1514
+Beni,80303,Santa Rosa,2021,11,TOTAL,15
+Santa Cruz,70602,Santa Rosa Del Sara,2021,11,TOTAL,4
+Pando,90303,Sena,2021,11,TOTAL,8
+Chuquisaca,10403,Sopachuy,2021,11,TOTAL,7
+Oruro,40104,Soracachi,2021,11,TOTAL,1
+Chuquisaca,10101,Sucre,2021,11,TOTAL,293
+Chuquisaca,10601,Tarabuco,2021,11,TOTAL,12
+Tarija,60101,Tarija,2021,11,TOTAL,313
+Chuquisaca,10202,Tarvita,2021,11,TOTAL,3
+Cochabamba,30903,Tiquipaya,2021,11,TOTAL,49
+Potosí,51202,Tomave,2021,11,TOTAL,5
+Chuquisaca,10402,Tomina,2021,11,TOTAL,4
+Potosí,50502,Toro Toro,2021,11,TOTAL,2
+Cochabamba,31201,Totora(cbba),2021,11,TOTAL,20
+Beni,80101,Trinidad,2021,11,TOTAL,244
+Potosí,50801,Tupiza,2021,11,TOTAL,45
+Potosí,50201,Uncia,2021,11,TOTAL,5
+Santa Cruz,71502,Urubicha,2021,11,TOTAL,3
+Potosí,51201,Uyuni,2021,11,TOTAL,36
+Santa Cruz,70801,Vallegrande,2021,11,TOTAL,25
+La Paz,20801,Viacha,2021,11,TOTAL,38
+Tarija,60303,Villa Montes,2021,11,TOTAL,62
+Chuquisaca,10801,Villa Serrano,2021,11,TOTAL,5
+Cochabamba,31003,Villa Tunari,2021,11,TOTAL,87
+Potosí,51501,Villazon,2021,11,TOTAL,42
+Cochabamba,30904,Vinto,2021,11,TOTAL,67
+Potosí,50602,Vitichi,2021,11,TOTAL,4
+Santa Cruz,70201,Warnes,2021,11,TOTAL,39
+Tarija,60301,Yacuiba,2021,11,TOTAL,124
+Santa Cruz,70403,Yapacani,2021,11,TOTAL,69
+La Paz,20201,Achacachi,2021,12,TOTAL,49
+Cochabamba,30201,Aiquile,2021,12,TOTAL,23
+Santa Cruz,71501,Ascencion De Guarayos,2021,12,TOTAL,50
+Potosí,50802,Atocha,2021,12,TOTAL,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,12,TOTAL,6
+Beni,80802,Baures,2021,12,TOTAL,8
+Pando,90104,Bella Flor,2021,12,TOTAL,1
+Tarija,60202,Bermejo,2021,12,TOTAL,12
+Potosí,50301,Betanzos,2021,12,TOTAL,12
+Santa Cruz,70401,Buena Vista,2021,12,TOTAL,7
+Santa Cruz,70703,Cabezas,2021,12,TOTAL,12
+Potosí,51102,"Caiza ""d""",2021,12,TOTAL,6
+Chuquisaca,10701,Camargo,2021,12,TOTAL,26
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2021,12,TOTAL,2
+Santa Cruz,70706,Camiri,2021,12,TOTAL,17
+Cochabamba,30701,Capinota,2021,12,TOTAL,15
+Oruro,40102,Caracollo,2021,12,TOTAL,15
+La Paz,22001,Caranavi,2021,12,TOTAL,55
+Tarija,60302,Carapari,2021,12,TOTAL,3
+Potosí,50702,Caripuyo,2021,12,TOTAL,2
+Santa Cruz,71403,Carmen Rivero Torrez,2021,12,TOTAL,7
+Oruro,40201,Challapata,2021,12,TOTAL,32
+Potosí,50302,Chaqui,2021,12,TOTAL,5
+Santa Cruz,70702,Charagua,2021,12,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2021,12,TOTAL,22
+Potosí,51103,Ckochas,2021,12,TOTAL,5
+Cochabamba,30801,Cliza,2021,12,TOTAL,44
+Pando,90101,Cobija,2021,12,TOTAL,103
+Cochabamba,30101,Cochabamba,2021,12,TOTAL,1167
+Cochabamba,30905,Colcapirhua,2021,12,TOTAL,36
+Potosí,50901,"Colcha ""k""",2021,12,TOTAL,4
+Santa Cruz,71301,Comarapa,2021,12,TOTAL,28
+Santa Cruz,71101,Concepcion,2021,12,TOTAL,20
+La Paz,21401,Coroico,2021,12,TOTAL,30
+Potosí,50601,Cotagaita,2021,12,TOTAL,3
+Santa Cruz,70102,Cotoca,2021,12,TOTAL,60
+Santa Cruz,71106,Cuatro Cañadas,2021,12,TOTAL,22
+Chuquisaca,10902,Culpina,2021,12,TOTAL,8
+La Paz,20105,El Alto,2021,12,TOTAL,1067
+Santa Cruz,71503,El Puente(stc),2021,12,TOTAL,4
+Santa Cruz,70105,El Torno,2021,12,TOTAL,75
+Chuquisaca,10405,El Villar,2021,12,TOTAL,1
+Tarija,60601,Entre Rios Trj,2021,12,TOTAL,7
+Cochabamba,31206,Entre Rios Cbba,2021,12,TOTAL,29
+La Paz,20405,Escoma,2021,12,TOTAL,5
+Santa Cruz,71004,Fernandez Alonso,2021,12,TOTAL,8
+Beni,80202,Guayaramerin,2021,12,TOTAL,40
+Santa Cruz,70705,Gutierrez,2021,12,TOTAL,1
+Chuquisaca,10502,Huacareta,2021,12,TOTAL,4
+Oruro,40701,Huanuni,2021,12,TOTAL,33
+Beni,80803,Huaracaje,2021,12,TOTAL,3
+La Paz,20806,Jesus De Machaca,2021,12,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,12,TOTAL,84
+La Paz,20101,La Paz,2021,12,TOTAL,1105
+Santa Cruz,70701,Lagunillas,2021,12,TOTAL,3
+Potosí,50203,Llallagua,2021,12,TOTAL,57
+Potosí,51401,Llica,2021,12,TOTAL,2
+Beni,80801,Magdalena,2021,12,TOTAL,16
+Santa Cruz,70903,Mairana,2021,12,TOTAL,19
+Cochabamba,31301,Mizque,2021,12,TOTAL,26
+La Paz,20402,Mocomoco,2021,12,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,12,TOTAL,31
+Santa Cruz,71001,Montero,2021,12,TOTAL,138
+Potosí,50404,Ocuri,2021,12,TOTAL,4
+Oruro,40101,Oruro,2021,12,TOTAL,471
+Chuquisaca,10401,Padilla,2021,12,TOTAL,7
+Santa Cruz,70502,Pailon,2021,12,TOTAL,29
+Santa Cruz,70902,Pampa Grande,2021,12,TOTAL,6
+La Paz,21305,Patacamaya,2021,12,TOTAL,24
+Potosí,51203,Porco,2021,12,TOTAL,7
+Santa Cruz,70601,Portachuelo,2021,12,TOTAL,30
+Pando,90102,Porvenir,2021,12,TOTAL,3
+Potosí,50101,Potosi,2021,12,TOTAL,377
+La Paz,20401,Puerto Acosta,2021,12,TOTAL,1
+Pando,90301,Puerto Gonzalo Moreno,2021,12,TOTAL,10
+Santa Cruz,71402,Puerto Quijarro,2021,12,TOTAL,12
+Pando,90201,Puerto Rico,2021,12,TOTAL,7
+Cochabamba,31205,Puerto Villarroel,2021,12,TOTAL,101
+Potosí,51101,Puna,2021,12,TOTAL,1
+Cochabamba,31401,Punata,2021,12,TOTAL,63
+Cochabamba,30901,Quillacollo,2021,12,TOTAL,174
+Potosí,50402,Ravelo,2021,12,TOTAL,8
+Beni,80301,Reyes,2021,12,TOTAL,16
+Beni,80201,Riberalta,2021,12,TOTAL,249
+Santa Cruz,70503,Robore,2021,12,TOTAL,24
+Beni,80304,Rurrenabaque,2021,12,TOTAL,39
+Cochabamba,31001,Sacaba,2021,12,TOTAL,223
+Potosí,50701,Sacaca,2021,12,TOTAL,5
+Santa Cruz,71302,Saipina,2021,12,TOTAL,2
+Oruro,40801,Salinas De Garci Mendoza,2021,12,TOTAL,5
+Beni,80602,San Andres,2021,12,TOTAL,4
+Santa Cruz,71105,San Antonio De Lomerio,2021,12,TOTAL,7
+Beni,80302,San Borja,2021,12,TOTAL,55
+Beni,80501,San Ignacio,2021,12,TOTAL,26
+Santa Cruz,70301,San Ignacio De Velasco,2021,12,TOTAL,87
+Beni,80701,San Joaquin,2021,12,TOTAL,7
+Santa Cruz,70501,San Jose De Chiquitos,2021,12,TOTAL,32
+Santa Cruz,70404,San Juan De Yapacani,2021,12,TOTAL,3
+Santa Cruz,71104,San Julian,2021,12,TOTAL,48
+Pando,90302,San Lorenzo(pnd),2021,12,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2021,12,TOTAL,6
+Chuquisaca,10702,San Lucas,2021,12,TOTAL,20
+Santa Cruz,71201,San Matias,2021,12,TOTAL,16
+Santa Cruz,70302,San Miguel De Velasco,2021,12,TOTAL,10
+Potosí,51001,San Pablo De Lipez,2021,12,TOTAL,2
+Potosí,50405,San Pedro De Macha,2021,12,TOTAL,3
+Santa Cruz,70303,San Rafael,2021,12,TOTAL,8
+Beni,80702,San Ramon Beni,2021,12,TOTAL,4
+Santa Cruz,71103,San Ramon Scz,2021,12,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,12,TOTAL,1648
+Beni,80303,Santa Rosa,2021,12,TOTAL,16
+Santa Cruz,70602,Santa Rosa Del Sara,2021,12,TOTAL,7
+Pando,90303,Sena,2021,12,TOTAL,9
+Chuquisaca,10101,Sucre,2021,12,TOTAL,298
+Chuquisaca,10601,Tarabuco,2021,12,TOTAL,11
+Tarija,60101,Tarija,2021,12,TOTAL,322
+Cochabamba,30903,Tiquipaya,2021,12,TOTAL,73
+Potosí,51202,Tomave,2021,12,TOTAL,5
+Chuquisaca,10402,Tomina,2021,12,TOTAL,7
+Potosí,50502,Toro Toro,2021,12,TOTAL,4
+Cochabamba,31201,Totora(cbba),2021,12,TOTAL,14
+Oruro,41301,Totora(orr),2021,12,TOTAL,2
+Beni,80101,Trinidad,2021,12,TOTAL,272
+Potosí,50801,Tupiza,2021,12,TOTAL,48
+Potosí,51201,Uyuni,2021,12,TOTAL,31
+Santa Cruz,70801,Vallegrande,2021,12,TOTAL,20
+La Paz,20801,Viacha,2021,12,TOTAL,44
+Tarija,60303,Villa Montes,2021,12,TOTAL,74
+Chuquisaca,10801,Villa Serrano,2021,12,TOTAL,7
+Cochabamba,31003,Villa Tunari,2021,12,TOTAL,88
+Potosí,51501,Villazon,2021,12,TOTAL,49
+Cochabamba,30904,Vinto,2021,12,TOTAL,47
+Potosí,50602,Vitichi,2021,12,TOTAL,2
+Santa Cruz,70201,Warnes,2021,12,TOTAL,52
+Tarija,60301,Yacuiba,2021,12,TOTAL,104
+Santa Cruz,70403,Yapacani,2021,12,TOTAL,77

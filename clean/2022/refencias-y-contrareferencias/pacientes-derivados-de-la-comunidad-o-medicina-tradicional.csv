@@ -1,0 +1,667 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10201,Azurduy,2022,1,Pacientes derivados de la comunidad o medicina tradicional,10
+Tarija,60202,Bermejo,2022,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,71301,Comarapa,2022,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10902,Culpina,2022,1,Pacientes derivados de la comunidad o medicina tradicional,7
+Chuquisaca,10405,El Villar,2022,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10502,Huacareta,2022,1,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10304,Icla,2022,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10501,Monteagudo,2022,1,Pacientes derivados de la comunidad o medicina tradicional,15
+Tarija,60201,Padcaya,2022,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10103,Poroma,2022,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10302,Presto,2022,1,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,71104,San Julian,2022,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70303,San Rafael,2022,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10403,Sopachuy,2022,1,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10101,Sucre,2022,1,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10601,Tarabuco,2022,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60101,Tarija,2022,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10202,Tarvita,2022,1,Pacientes derivados de la comunidad o medicina tradicional,34
+Chuquisaca,10402,Tomina,2022,1,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10704,Villa Charcas,2022,1,Pacientes derivados de la comunidad o medicina tradicional,7
+Chuquisaca,10801,Villa Serrano,2022,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10602,Yamparaez,2022,1,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60402,Yunchara,2022,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10301,Zudañez,2022,1,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10201,Azurduy,2022,2,Pacientes derivados de la comunidad o medicina tradicional,27
+Chuquisaca,10701,Camargo,2022,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10405,El Villar,2022,2,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10502,Huacareta,2022,2,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10304,Icla,2022,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11003,Machareti,2022,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10303,Mojocoya,2022,2,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10501,Monteagudo,2022,2,Pacientes derivados de la comunidad o medicina tradicional,15
+Tarija,60201,Padcaya,2022,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10103,Poroma,2022,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10302,Presto,2022,2,Pacientes derivados de la comunidad o medicina tradicional,3
+Beni,80201,Riberalta,2022,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10702,San Lucas,2022,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10101,Sucre,2022,2,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10601,Tarabuco,2022,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10202,Tarvita,2022,2,Pacientes derivados de la comunidad o medicina tradicional,17
+Chuquisaca,10402,Tomina,2022,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2022,2,Pacientes derivados de la comunidad o medicina tradicional,4
+Tarija,60303,Villa Montes,2022,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10801,Villa Serrano,2022,2,Pacientes derivados de la comunidad o medicina tradicional,16
+Tarija,60301,Yacuiba,2022,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2022,2,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10301,Zudañez,2022,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10404,Alcala,2022,3,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10201,Azurduy,2022,3,Pacientes derivados de la comunidad o medicina tradicional,16
+Tarija,60202,Bermejo,2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70401,Buena Vista,2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10701,Camargo,2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,3,Pacientes derivados de la comunidad o medicina tradicional,4
+Santa Cruz,70102,Cotoca,2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20105,El Alto,2022,3,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60502,El Puente(tja),2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2022,3,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10502,Huacareta,2022,3,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10304,Icla,2022,3,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10703,Incahuasi,2022,3,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10303,Mojocoya,2022,3,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10501,Monteagudo,2022,3,Pacientes derivados de la comunidad o medicina tradicional,9
+Tarija,60201,Padcaya,2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10103,Poroma,2022,3,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10302,Presto,2022,3,Pacientes derivados de la comunidad o medicina tradicional,5
+Santa Cruz,70404,San Juan De Yapacani,2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10702,San Lucas,2022,3,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10101,Sucre,2022,3,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10601,Tarabuco,2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60101,Tarija,2022,3,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10202,Tarvita,2022,3,Pacientes derivados de la comunidad o medicina tradicional,14
+Cochabamba,30903,Tiquipaya,2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10402,Tomina,2022,3,Pacientes derivados de la comunidad o medicina tradicional,4
+Tarija,60401,Uriondo (a. Concepcion),2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2022,3,Pacientes derivados de la comunidad o medicina tradicional,4
+Tarija,60303,Villa Montes,2022,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10801,Villa Serrano,2022,3,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10602,Yamparaez,2022,3,Pacientes derivados de la comunidad o medicina tradicional,7
+Chuquisaca,10102,Yotala,2022,3,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10301,Zudañez,2022,3,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10201,Azurduy,2022,4,Pacientes derivados de la comunidad o medicina tradicional,20
+Chuquisaca,10701,Camargo,2022,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,4,Pacientes derivados de la comunidad o medicina tradicional,5
+Santa Cruz,70706,Camiri,2022,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2022,4,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10502,Huacareta,2022,4,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10304,Icla,2022,4,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10303,Mojocoya,2022,4,Pacientes derivados de la comunidad o medicina tradicional,13
+Chuquisaca,10501,Monteagudo,2022,4,Pacientes derivados de la comunidad o medicina tradicional,11
+Tarija,60201,Padcaya,2022,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10103,Poroma,2022,4,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10302,Presto,2022,4,Pacientes derivados de la comunidad o medicina tradicional,3
+Tarija,60501,San Lorenzo(tja),2022,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10702,San Lucas,2022,4,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10101,Sucre,2022,4,Pacientes derivados de la comunidad o medicina tradicional,7
+Chuquisaca,10601,Tarabuco,2022,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60101,Tarija,2022,4,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10202,Tarvita,2022,4,Pacientes derivados de la comunidad o medicina tradicional,23
+Chuquisaca,10402,Tomina,2022,4,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60303,Villa Montes,2022,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,50602,Vitichi,2022,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2022,4,Pacientes derivados de la comunidad o medicina tradicional,8
+Tarija,60402,Yunchara,2022,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10301,Zudañez,2022,4,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10404,Alcala,2022,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,30501,Arani,2022,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10201,Azurduy,2022,5,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10701,Camargo,2022,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,5,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10405,El Villar,2022,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71004,Fernandez Alonso,2022,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10502,Huacareta,2022,5,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10304,Icla,2022,5,Pacientes derivados de la comunidad o medicina tradicional,13
+Chuquisaca,10703,Incahuasi,2022,5,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10903,Las Carreras,2022,5,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10303,Mojocoya,2022,5,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10501,Monteagudo,2022,5,Pacientes derivados de la comunidad o medicina tradicional,13
+Tarija,60201,Padcaya,2022,5,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10103,Poroma,2022,5,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10302,Presto,2022,5,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,71104,San Julian,2022,5,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10702,San Lucas,2022,5,Pacientes derivados de la comunidad o medicina tradicional,14
+Chuquisaca,10101,Sucre,2022,5,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10601,Tarabuco,2022,5,Pacientes derivados de la comunidad o medicina tradicional,3
+Tarija,60101,Tarija,2022,5,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10202,Tarvita,2022,5,Pacientes derivados de la comunidad o medicina tradicional,36
+Chuquisaca,10402,Tomina,2022,5,Pacientes derivados de la comunidad o medicina tradicional,4
+Tarija,60401,Uriondo (a. Concepcion),2022,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2022,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60301,Yacuiba,2022,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2022,5,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10102,Yotala,2022,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10301,Zudañez,2022,5,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10404,Alcala,2022,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10201,Azurduy,2022,6,Pacientes derivados de la comunidad o medicina tradicional,17
+Tarija,60202,Bermejo,2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10701,Camargo,2022,6,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,6,Pacientes derivados de la comunidad o medicina tradicional,4
+Tarija,60302,Carapari,2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,50601,Cotagaita,2022,6,Pacientes derivados de la comunidad o medicina tradicional,4
+Tarija,60502,El Puente(tja),2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2022,6,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10502,Huacareta,2022,6,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10304,Icla,2022,6,Pacientes derivados de la comunidad o medicina tradicional,35
+Chuquisaca,10903,Las Carreras,2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10303,Mojocoya,2022,6,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10501,Monteagudo,2022,6,Pacientes derivados de la comunidad o medicina tradicional,10
+Tarija,60201,Padcaya,2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70502,Pailon,2022,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10103,Poroma,2022,6,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10302,Presto,2022,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Beni,80201,Riberalta,2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60501,San Lorenzo(tja),2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10702,San Lucas,2022,6,Pacientes derivados de la comunidad o medicina tradicional,7
+Chuquisaca,10403,Sopachuy,2022,6,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10101,Sucre,2022,6,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10601,Tarabuco,2022,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60101,Tarija,2022,6,Pacientes derivados de la comunidad o medicina tradicional,7
+Chuquisaca,10202,Tarvita,2022,6,Pacientes derivados de la comunidad o medicina tradicional,25
+Chuquisaca,10402,Tomina,2022,6,Pacientes derivados de la comunidad o medicina tradicional,5
+Tarija,60401,Uriondo (a. Concepcion),2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10801,Villa Serrano,2022,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2022,6,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10301,Zudañez,2022,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10404,Alcala,2022,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10201,Azurduy,2022,7,Pacientes derivados de la comunidad o medicina tradicional,14
+Chuquisaca,10701,Camargo,2022,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,7,Pacientes derivados de la comunidad o medicina tradicional,4
+Tarija,60502,El Puente(tja),2022,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2022,7,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10502,Huacareta,2022,7,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10304,Icla,2022,7,Pacientes derivados de la comunidad o medicina tradicional,12
+Chuquisaca,10703,Incahuasi,2022,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,11003,Machareti,2022,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10303,Mojocoya,2022,7,Pacientes derivados de la comunidad o medicina tradicional,13
+Chuquisaca,10501,Monteagudo,2022,7,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60201,Padcaya,2022,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10103,Poroma,2022,7,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10302,Presto,2022,7,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60501,San Lorenzo(tja),2022,7,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10702,San Lucas,2022,7,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10403,Sopachuy,2022,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10101,Sucre,2022,7,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10601,Tarabuco,2022,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60101,Tarija,2022,7,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10202,Tarvita,2022,7,Pacientes derivados de la comunidad o medicina tradicional,18
+La Paz,20803,Tiahuanacu,2022,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10402,Tomina,2022,7,Pacientes derivados de la comunidad o medicina tradicional,3
+Beni,80101,Trinidad,2022,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2022,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10801,Villa Serrano,2022,7,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2022,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10602,Yamparaez,2022,7,Pacientes derivados de la comunidad o medicina tradicional,7
+Tarija,60402,Yunchara,2022,7,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10301,Zudañez,2022,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10404,Alcala,2022,8,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10201,Azurduy,2022,8,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10701,Camargo,2022,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,8,Pacientes derivados de la comunidad o medicina tradicional,6
+Cochabamba,30101,Cochabamba,2022,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2022,8,Pacientes derivados de la comunidad o medicina tradicional,7
+La Paz,20602,Guanay,2022,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10304,Icla,2022,8,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10703,Incahuasi,2022,8,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20101,La Paz,2022,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10303,Mojocoya,2022,8,Pacientes derivados de la comunidad o medicina tradicional,14
+Chuquisaca,10501,Monteagudo,2022,8,Pacientes derivados de la comunidad o medicina tradicional,7
+Tarija,60201,Padcaya,2022,8,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10103,Poroma,2022,8,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10302,Presto,2022,8,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60501,San Lorenzo(tja),2022,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10702,San Lucas,2022,8,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10403,Sopachuy,2022,8,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10101,Sucre,2022,8,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10601,Tarabuco,2022,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60101,Tarija,2022,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10202,Tarvita,2022,8,Pacientes derivados de la comunidad o medicina tradicional,17
+Chuquisaca,10402,Tomina,2022,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70801,Vallegrande,2022,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2022,8,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10801,Villa Serrano,2022,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2022,8,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10602,Yamparaez,2022,8,Pacientes derivados de la comunidad o medicina tradicional,8
+Tarija,60402,Yunchara,2022,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10301,Zudañez,2022,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10404,Alcala,2022,9,Pacientes derivados de la comunidad o medicina tradicional,12
+Chuquisaca,10201,Azurduy,2022,9,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,9,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20105,El Alto,2022,9,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60502,El Puente(tja),2022,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2022,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10502,Huacareta,2022,9,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10304,Icla,2022,9,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10303,Mojocoya,2022,9,Pacientes derivados de la comunidad o medicina tradicional,17
+Chuquisaca,10501,Monteagudo,2022,9,Pacientes derivados de la comunidad o medicina tradicional,15
+Tarija,60201,Padcaya,2022,9,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10401,Padilla,2022,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10103,Poroma,2022,9,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10302,Presto,2022,9,Pacientes derivados de la comunidad o medicina tradicional,8
+Tarija,60501,San Lorenzo(tja),2022,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10702,San Lucas,2022,9,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10403,Sopachuy,2022,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10101,Sucre,2022,9,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10601,Tarabuco,2022,9,Pacientes derivados de la comunidad o medicina tradicional,3
+Tarija,60101,Tarija,2022,9,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10202,Tarvita,2022,9,Pacientes derivados de la comunidad o medicina tradicional,28
+Chuquisaca,10704,Villa Charcas,2022,9,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2022,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10602,Yamparaez,2022,9,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10102,Yotala,2022,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10301,Zudañez,2022,9,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10404,Alcala,2022,10,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10201,Azurduy,2022,10,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60302,Carapari,2022,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10902,Culpina,2022,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60502,El Puente(tja),2022,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2022,10,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10304,Icla,2022,10,Pacientes derivados de la comunidad o medicina tradicional,19
+Chuquisaca,10303,Mojocoya,2022,10,Pacientes derivados de la comunidad o medicina tradicional,13
+Chuquisaca,10501,Monteagudo,2022,10,Pacientes derivados de la comunidad o medicina tradicional,8
+Tarija,60201,Padcaya,2022,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10103,Poroma,2022,10,Pacientes derivados de la comunidad o medicina tradicional,13
+Chuquisaca,10302,Presto,2022,10,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10702,San Lucas,2022,10,Pacientes derivados de la comunidad o medicina tradicional,5
+Santa Cruz,70303,San Rafael,2022,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10403,Sopachuy,2022,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10101,Sucre,2022,10,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10601,Tarabuco,2022,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60101,Tarija,2022,10,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10202,Tarvita,2022,10,Pacientes derivados de la comunidad o medicina tradicional,27
+Oruro,41301,Totora(orr),2022,10,Pacientes derivados de la comunidad o medicina tradicional,5
+Tarija,60401,Uriondo (a. Concepcion),2022,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2022,10,Pacientes derivados de la comunidad o medicina tradicional,9
+Tarija,60303,Villa Montes,2022,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2022,10,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10102,Yotala,2022,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10301,Zudañez,2022,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10404,Alcala,2022,11,Pacientes derivados de la comunidad o medicina tradicional,13
+Chuquisaca,10201,Azurduy,2022,11,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60202,Bermejo,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10701,Camargo,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,11,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10405,El Villar,2022,11,Pacientes derivados de la comunidad o medicina tradicional,5
+Tarija,60601,Entre Rios Trj,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Beni,80202,Guayaramerin,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10502,Huacareta,2022,11,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10304,Icla,2022,11,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,11003,Machareti,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10303,Mojocoya,2022,11,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10501,Monteagudo,2022,11,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60201,Padcaya,2022,11,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10103,Poroma,2022,11,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10302,Presto,2022,11,Pacientes derivados de la comunidad o medicina tradicional,10
+Tarija,60501,San Lorenzo(tja),2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10702,San Lucas,2022,11,Pacientes derivados de la comunidad o medicina tradicional,10
+Santa Cruz,70303,San Rafael,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10101,Sucre,2022,11,Pacientes derivados de la comunidad o medicina tradicional,8
+Tarija,60101,Tarija,2022,11,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10202,Tarvita,2022,11,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10402,Tomina,2022,11,Pacientes derivados de la comunidad o medicina tradicional,4
+Beni,80101,Trinidad,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60401,Uriondo (a. Concepcion),2022,11,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2022,11,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60303,Villa Montes,2022,11,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60301,Yacuiba,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2022,11,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10102,Yotala,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60402,Yunchara,2022,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10301,Zudañez,2022,11,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10404,Alcala,2022,12,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60202,Bermejo,2022,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2022,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10304,Icla,2022,12,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10303,Mojocoya,2022,12,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10501,Monteagudo,2022,12,Pacientes derivados de la comunidad o medicina tradicional,3
+Tarija,60201,Padcaya,2022,12,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10103,Poroma,2022,12,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10302,Presto,2022,12,Pacientes derivados de la comunidad o medicina tradicional,3
+Tarija,60501,San Lorenzo(tja),2022,12,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10702,San Lucas,2022,12,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10101,Sucre,2022,12,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60101,Tarija,2022,12,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10202,Tarvita,2022,12,Pacientes derivados de la comunidad o medicina tradicional,13
+Chuquisaca,10704,Villa Charcas,2022,12,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,70201,Warnes,2022,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10102,Yotala,2022,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60402,Yunchara,2022,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10301,Zudañez,2022,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10201,Azurduy,2022,1,TOTAL,10
+Tarija,60202,Bermejo,2022,1,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,1,TOTAL,2
+Santa Cruz,71301,Comarapa,2022,1,TOTAL,1
+Chuquisaca,10902,Culpina,2022,1,TOTAL,7
+Chuquisaca,10405,El Villar,2022,1,TOTAL,2
+Chuquisaca,10502,Huacareta,2022,1,TOTAL,5
+Chuquisaca,10304,Icla,2022,1,TOTAL,2
+Chuquisaca,10501,Monteagudo,2022,1,TOTAL,15
+Tarija,60201,Padcaya,2022,1,TOTAL,2
+Chuquisaca,10103,Poroma,2022,1,TOTAL,1
+Chuquisaca,10302,Presto,2022,1,TOTAL,3
+Santa Cruz,71104,San Julian,2022,1,TOTAL,2
+Santa Cruz,70303,San Rafael,2022,1,TOTAL,1
+Chuquisaca,10403,Sopachuy,2022,1,TOTAL,9
+Chuquisaca,10101,Sucre,2022,1,TOTAL,8
+Chuquisaca,10601,Tarabuco,2022,1,TOTAL,1
+Tarija,60101,Tarija,2022,1,TOTAL,1
+Chuquisaca,10202,Tarvita,2022,1,TOTAL,34
+Chuquisaca,10402,Tomina,2022,1,TOTAL,3
+Chuquisaca,10704,Villa Charcas,2022,1,TOTAL,7
+Chuquisaca,10801,Villa Serrano,2022,1,TOTAL,2
+Chuquisaca,10602,Yamparaez,2022,1,TOTAL,6
+Tarija,60402,Yunchara,2022,1,TOTAL,1
+Chuquisaca,10301,Zudañez,2022,1,TOTAL,6
+Chuquisaca,10201,Azurduy,2022,2,TOTAL,27
+Chuquisaca,10701,Camargo,2022,2,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,2,TOTAL,2
+Chuquisaca,10405,El Villar,2022,2,TOTAL,6
+Chuquisaca,10502,Huacareta,2022,2,TOTAL,5
+Chuquisaca,10304,Icla,2022,2,TOTAL,1
+Chuquisaca,11003,Machareti,2022,2,TOTAL,2
+Chuquisaca,10303,Mojocoya,2022,2,TOTAL,11
+Chuquisaca,10501,Monteagudo,2022,2,TOTAL,15
+Tarija,60201,Padcaya,2022,2,TOTAL,1
+Chuquisaca,10103,Poroma,2022,2,TOTAL,2
+Chuquisaca,10302,Presto,2022,2,TOTAL,3
+Beni,80201,Riberalta,2022,2,TOTAL,1
+Chuquisaca,10702,San Lucas,2022,2,TOTAL,2
+Chuquisaca,10101,Sucre,2022,2,TOTAL,9
+Chuquisaca,10601,Tarabuco,2022,2,TOTAL,1
+Chuquisaca,10202,Tarvita,2022,2,TOTAL,17
+Chuquisaca,10402,Tomina,2022,2,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2022,2,TOTAL,4
+Tarija,60303,Villa Montes,2022,2,TOTAL,2
+Chuquisaca,10801,Villa Serrano,2022,2,TOTAL,16
+Tarija,60301,Yacuiba,2022,2,TOTAL,1
+Chuquisaca,10602,Yamparaez,2022,2,TOTAL,9
+Chuquisaca,10301,Zudañez,2022,2,TOTAL,2
+Chuquisaca,10404,Alcala,2022,3,TOTAL,3
+Chuquisaca,10201,Azurduy,2022,3,TOTAL,16
+Tarija,60202,Bermejo,2022,3,TOTAL,1
+Santa Cruz,70401,Buena Vista,2022,3,TOTAL,1
+Chuquisaca,10701,Camargo,2022,3,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,3,TOTAL,4
+Santa Cruz,70102,Cotoca,2022,3,TOTAL,1
+La Paz,20105,El Alto,2022,3,TOTAL,2
+Tarija,60502,El Puente(tja),2022,3,TOTAL,1
+Chuquisaca,10405,El Villar,2022,3,TOTAL,4
+Chuquisaca,10502,Huacareta,2022,3,TOTAL,4
+Chuquisaca,10304,Icla,2022,3,TOTAL,4
+Chuquisaca,10703,Incahuasi,2022,3,TOTAL,3
+Chuquisaca,10303,Mojocoya,2022,3,TOTAL,11
+Chuquisaca,10501,Monteagudo,2022,3,TOTAL,9
+Tarija,60201,Padcaya,2022,3,TOTAL,1
+Chuquisaca,10103,Poroma,2022,3,TOTAL,5
+Chuquisaca,10302,Presto,2022,3,TOTAL,5
+Santa Cruz,70404,San Juan De Yapacani,2022,3,TOTAL,1
+Chuquisaca,10702,San Lucas,2022,3,TOTAL,10
+Chuquisaca,10101,Sucre,2022,3,TOTAL,6
+Chuquisaca,10601,Tarabuco,2022,3,TOTAL,1
+Tarija,60101,Tarija,2022,3,TOTAL,4
+Chuquisaca,10202,Tarvita,2022,3,TOTAL,14
+Cochabamba,30903,Tiquipaya,2022,3,TOTAL,1
+Chuquisaca,10402,Tomina,2022,3,TOTAL,4
+Tarija,60401,Uriondo (a. Concepcion),2022,3,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2022,3,TOTAL,4
+Tarija,60303,Villa Montes,2022,3,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2022,3,TOTAL,2
+Chuquisaca,10602,Yamparaez,2022,3,TOTAL,7
+Chuquisaca,10102,Yotala,2022,3,TOTAL,2
+Chuquisaca,10301,Zudañez,2022,3,TOTAL,3
+Chuquisaca,10201,Azurduy,2022,4,TOTAL,20
+Chuquisaca,10701,Camargo,2022,4,TOTAL,2
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,4,TOTAL,5
+Santa Cruz,70706,Camiri,2022,4,TOTAL,1
+Chuquisaca,10405,El Villar,2022,4,TOTAL,3
+Chuquisaca,10502,Huacareta,2022,4,TOTAL,10
+Chuquisaca,10304,Icla,2022,4,TOTAL,10
+Chuquisaca,10303,Mojocoya,2022,4,TOTAL,13
+Chuquisaca,10501,Monteagudo,2022,4,TOTAL,11
+Tarija,60201,Padcaya,2022,4,TOTAL,1
+Chuquisaca,10103,Poroma,2022,4,TOTAL,4
+Chuquisaca,10302,Presto,2022,4,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2022,4,TOTAL,1
+Chuquisaca,10702,San Lucas,2022,4,TOTAL,10
+Chuquisaca,10101,Sucre,2022,4,TOTAL,7
+Chuquisaca,10601,Tarabuco,2022,4,TOTAL,2
+Tarija,60101,Tarija,2022,4,TOTAL,5
+Chuquisaca,10202,Tarvita,2022,4,TOTAL,23
+Chuquisaca,10402,Tomina,2022,4,TOTAL,6
+Tarija,60303,Villa Montes,2022,4,TOTAL,1
+Potosí,50602,Vitichi,2022,4,TOTAL,1
+Chuquisaca,10602,Yamparaez,2022,4,TOTAL,8
+Tarija,60402,Yunchara,2022,4,TOTAL,2
+Chuquisaca,10301,Zudañez,2022,4,TOTAL,3
+Chuquisaca,10404,Alcala,2022,5,TOTAL,2
+Cochabamba,30501,Arani,2022,5,TOTAL,1
+Chuquisaca,10201,Azurduy,2022,5,TOTAL,9
+Chuquisaca,10701,Camargo,2022,5,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,5,TOTAL,4
+Chuquisaca,10405,El Villar,2022,5,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2022,5,TOTAL,1
+Chuquisaca,10502,Huacareta,2022,5,TOTAL,4
+Chuquisaca,10304,Icla,2022,5,TOTAL,13
+Chuquisaca,10703,Incahuasi,2022,5,TOTAL,3
+Chuquisaca,10903,Las Carreras,2022,5,TOTAL,3
+Chuquisaca,10303,Mojocoya,2022,5,TOTAL,10
+Chuquisaca,10501,Monteagudo,2022,5,TOTAL,13
+Tarija,60201,Padcaya,2022,5,TOTAL,6
+Chuquisaca,10103,Poroma,2022,5,TOTAL,6
+Chuquisaca,10302,Presto,2022,5,TOTAL,3
+Santa Cruz,71104,San Julian,2022,5,TOTAL,3
+Chuquisaca,10702,San Lucas,2022,5,TOTAL,14
+Chuquisaca,10101,Sucre,2022,5,TOTAL,6
+Chuquisaca,10601,Tarabuco,2022,5,TOTAL,3
+Tarija,60101,Tarija,2022,5,TOTAL,3
+Chuquisaca,10202,Tarvita,2022,5,TOTAL,36
+Chuquisaca,10402,Tomina,2022,5,TOTAL,4
+Tarija,60401,Uriondo (a. Concepcion),2022,5,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2022,5,TOTAL,1
+Tarija,60301,Yacuiba,2022,5,TOTAL,1
+Chuquisaca,10602,Yamparaez,2022,5,TOTAL,9
+Chuquisaca,10102,Yotala,2022,5,TOTAL,2
+Chuquisaca,10301,Zudañez,2022,5,TOTAL,4
+Chuquisaca,10404,Alcala,2022,6,TOTAL,2
+Chuquisaca,10201,Azurduy,2022,6,TOTAL,17
+Tarija,60202,Bermejo,2022,6,TOTAL,1
+Chuquisaca,10701,Camargo,2022,6,TOTAL,3
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,6,TOTAL,4
+Tarija,60302,Carapari,2022,6,TOTAL,1
+Potosí,50601,Cotagaita,2022,6,TOTAL,4
+Tarija,60502,El Puente(tja),2022,6,TOTAL,1
+Chuquisaca,10405,El Villar,2022,6,TOTAL,5
+Chuquisaca,10502,Huacareta,2022,6,TOTAL,8
+Chuquisaca,10304,Icla,2022,6,TOTAL,35
+Chuquisaca,10903,Las Carreras,2022,6,TOTAL,1
+Chuquisaca,10303,Mojocoya,2022,6,TOTAL,10
+Chuquisaca,10501,Monteagudo,2022,6,TOTAL,10
+Tarija,60201,Padcaya,2022,6,TOTAL,1
+Santa Cruz,70502,Pailon,2022,6,TOTAL,2
+Chuquisaca,10103,Poroma,2022,6,TOTAL,4
+Chuquisaca,10302,Presto,2022,6,TOTAL,2
+Beni,80201,Riberalta,2022,6,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2022,6,TOTAL,1
+Chuquisaca,10702,San Lucas,2022,6,TOTAL,7
+Chuquisaca,10403,Sopachuy,2022,6,TOTAL,3
+Chuquisaca,10101,Sucre,2022,6,TOTAL,9
+Chuquisaca,10601,Tarabuco,2022,6,TOTAL,2
+Tarija,60101,Tarija,2022,6,TOTAL,7
+Chuquisaca,10202,Tarvita,2022,6,TOTAL,25
+Chuquisaca,10402,Tomina,2022,6,TOTAL,5
+Tarija,60401,Uriondo (a. Concepcion),2022,6,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2022,6,TOTAL,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2022,6,TOTAL,1
+Chuquisaca,10602,Yamparaez,2022,6,TOTAL,9
+Chuquisaca,10301,Zudañez,2022,6,TOTAL,1
+Chuquisaca,10404,Alcala,2022,7,TOTAL,2
+Chuquisaca,10201,Azurduy,2022,7,TOTAL,14
+Chuquisaca,10701,Camargo,2022,7,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,7,TOTAL,4
+Tarija,60502,El Puente(tja),2022,7,TOTAL,1
+Chuquisaca,10405,El Villar,2022,7,TOTAL,5
+Chuquisaca,10502,Huacareta,2022,7,TOTAL,6
+Chuquisaca,10304,Icla,2022,7,TOTAL,12
+Chuquisaca,10703,Incahuasi,2022,7,TOTAL,2
+Chuquisaca,11003,Machareti,2022,7,TOTAL,1
+Chuquisaca,10303,Mojocoya,2022,7,TOTAL,13
+Chuquisaca,10501,Monteagudo,2022,7,TOTAL,6
+Tarija,60201,Padcaya,2022,7,TOTAL,2
+Chuquisaca,10103,Poroma,2022,7,TOTAL,9
+Chuquisaca,10302,Presto,2022,7,TOTAL,6
+Tarija,60501,San Lorenzo(tja),2022,7,TOTAL,3
+Chuquisaca,10702,San Lucas,2022,7,TOTAL,8
+Chuquisaca,10403,Sopachuy,2022,7,TOTAL,1
+Chuquisaca,10101,Sucre,2022,7,TOTAL,10
+Chuquisaca,10601,Tarabuco,2022,7,TOTAL,2
+Tarija,60101,Tarija,2022,7,TOTAL,5
+Chuquisaca,10202,Tarvita,2022,7,TOTAL,18
+La Paz,20803,Tiahuanacu,2022,7,TOTAL,1
+Chuquisaca,10402,Tomina,2022,7,TOTAL,3
+Beni,80101,Trinidad,2022,7,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2022,7,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2022,7,TOTAL,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2022,7,TOTAL,2
+Chuquisaca,10602,Yamparaez,2022,7,TOTAL,7
+Tarija,60402,Yunchara,2022,7,TOTAL,3
+Chuquisaca,10301,Zudañez,2022,7,TOTAL,2
+Chuquisaca,10404,Alcala,2022,8,TOTAL,9
+Chuquisaca,10201,Azurduy,2022,8,TOTAL,10
+Chuquisaca,10701,Camargo,2022,8,TOTAL,2
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,8,TOTAL,6
+Cochabamba,30101,Cochabamba,2022,8,TOTAL,1
+Chuquisaca,10405,El Villar,2022,8,TOTAL,7
+La Paz,20602,Guanay,2022,8,TOTAL,1
+Chuquisaca,10304,Icla,2022,8,TOTAL,9
+Chuquisaca,10703,Incahuasi,2022,8,TOTAL,1
+La Paz,20101,La Paz,2022,8,TOTAL,1
+Chuquisaca,10303,Mojocoya,2022,8,TOTAL,14
+Chuquisaca,10501,Monteagudo,2022,8,TOTAL,7
+Tarija,60201,Padcaya,2022,8,TOTAL,3
+Chuquisaca,10103,Poroma,2022,8,TOTAL,11
+Chuquisaca,10302,Presto,2022,8,TOTAL,6
+Tarija,60501,San Lorenzo(tja),2022,8,TOTAL,2
+Chuquisaca,10702,San Lucas,2022,8,TOTAL,5
+Chuquisaca,10403,Sopachuy,2022,8,TOTAL,3
+Chuquisaca,10101,Sucre,2022,8,TOTAL,4
+Chuquisaca,10601,Tarabuco,2022,8,TOTAL,2
+Tarija,60101,Tarija,2022,8,TOTAL,2
+Chuquisaca,10202,Tarvita,2022,8,TOTAL,17
+Chuquisaca,10402,Tomina,2022,8,TOTAL,2
+Santa Cruz,70801,Vallegrande,2022,8,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2022,8,TOTAL,4
+Chuquisaca,10801,Villa Serrano,2022,8,TOTAL,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2022,8,TOTAL,3
+Chuquisaca,10602,Yamparaez,2022,8,TOTAL,8
+Tarija,60402,Yunchara,2022,8,TOTAL,1
+Chuquisaca,10301,Zudañez,2022,8,TOTAL,1
+Chuquisaca,10404,Alcala,2022,9,TOTAL,12
+Chuquisaca,10201,Azurduy,2022,9,TOTAL,6
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,9,TOTAL,1
+La Paz,20105,El Alto,2022,9,TOTAL,6
+Tarija,60502,El Puente(tja),2022,9,TOTAL,1
+Chuquisaca,10405,El Villar,2022,9,TOTAL,2
+Chuquisaca,10502,Huacareta,2022,9,TOTAL,5
+Chuquisaca,10304,Icla,2022,9,TOTAL,10
+Chuquisaca,10303,Mojocoya,2022,9,TOTAL,17
+Chuquisaca,10501,Monteagudo,2022,9,TOTAL,15
+Tarija,60201,Padcaya,2022,9,TOTAL,3
+Chuquisaca,10401,Padilla,2022,9,TOTAL,1
+Chuquisaca,10103,Poroma,2022,9,TOTAL,11
+Chuquisaca,10302,Presto,2022,9,TOTAL,8
+Tarija,60501,San Lorenzo(tja),2022,9,TOTAL,2
+Chuquisaca,10702,San Lucas,2022,9,TOTAL,8
+Chuquisaca,10403,Sopachuy,2022,9,TOTAL,1
+Chuquisaca,10101,Sucre,2022,9,TOTAL,5
+Chuquisaca,10601,Tarabuco,2022,9,TOTAL,3
+Tarija,60101,Tarija,2022,9,TOTAL,3
+Chuquisaca,10202,Tarvita,2022,9,TOTAL,28
+Chuquisaca,10704,Villa Charcas,2022,9,TOTAL,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2022,9,TOTAL,2
+Chuquisaca,10602,Yamparaez,2022,9,TOTAL,9
+Chuquisaca,10102,Yotala,2022,9,TOTAL,2
+Chuquisaca,10301,Zudañez,2022,9,TOTAL,4
+Chuquisaca,10404,Alcala,2022,10,TOTAL,10
+Chuquisaca,10201,Azurduy,2022,10,TOTAL,10
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,10,TOTAL,2
+Tarija,60302,Carapari,2022,10,TOTAL,1
+Chuquisaca,10902,Culpina,2022,10,TOTAL,1
+Tarija,60502,El Puente(tja),2022,10,TOTAL,1
+Chuquisaca,10405,El Villar,2022,10,TOTAL,3
+Chuquisaca,10304,Icla,2022,10,TOTAL,19
+Chuquisaca,10303,Mojocoya,2022,10,TOTAL,13
+Chuquisaca,10501,Monteagudo,2022,10,TOTAL,8
+Tarija,60201,Padcaya,2022,10,TOTAL,1
+Chuquisaca,10103,Poroma,2022,10,TOTAL,13
+Chuquisaca,10302,Presto,2022,10,TOTAL,9
+Chuquisaca,10702,San Lucas,2022,10,TOTAL,5
+Santa Cruz,70303,San Rafael,2022,10,TOTAL,1
+Chuquisaca,10403,Sopachuy,2022,10,TOTAL,2
+Chuquisaca,10101,Sucre,2022,10,TOTAL,8
+Chuquisaca,10601,Tarabuco,2022,10,TOTAL,1
+Tarija,60101,Tarija,2022,10,TOTAL,4
+Chuquisaca,10202,Tarvita,2022,10,TOTAL,27
+Oruro,41301,Totora(orr),2022,10,TOTAL,5
+Tarija,60401,Uriondo (a. Concepcion),2022,10,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2022,10,TOTAL,9
+Tarija,60303,Villa Montes,2022,10,TOTAL,1
+Chuquisaca,10602,Yamparaez,2022,10,TOTAL,8
+Chuquisaca,10102,Yotala,2022,10,TOTAL,2
+Chuquisaca,10301,Zudañez,2022,10,TOTAL,2
+Chuquisaca,10404,Alcala,2022,11,TOTAL,13
+Chuquisaca,10201,Azurduy,2022,11,TOTAL,2
+Tarija,60202,Bermejo,2022,11,TOTAL,1
+Chuquisaca,10701,Camargo,2022,11,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,11,TOTAL,4
+Chuquisaca,10405,El Villar,2022,11,TOTAL,5
+Tarija,60601,Entre Rios Trj,2022,11,TOTAL,1
+Beni,80202,Guayaramerin,2022,11,TOTAL,1
+Chuquisaca,10502,Huacareta,2022,11,TOTAL,4
+Chuquisaca,10304,Icla,2022,11,TOTAL,8
+Chuquisaca,11003,Machareti,2022,11,TOTAL,1
+Chuquisaca,10303,Mojocoya,2022,11,TOTAL,9
+Chuquisaca,10501,Monteagudo,2022,11,TOTAL,6
+Tarija,60201,Padcaya,2022,11,TOTAL,5
+Chuquisaca,10103,Poroma,2022,11,TOTAL,5
+Chuquisaca,10302,Presto,2022,11,TOTAL,10
+Tarija,60501,San Lorenzo(tja),2022,11,TOTAL,1
+Chuquisaca,10702,San Lucas,2022,11,TOTAL,10
+Santa Cruz,70303,San Rafael,2022,11,TOTAL,1
+Chuquisaca,10101,Sucre,2022,11,TOTAL,8
+Tarija,60101,Tarija,2022,11,TOTAL,5
+Chuquisaca,10202,Tarvita,2022,11,TOTAL,11
+Chuquisaca,10402,Tomina,2022,11,TOTAL,4
+Beni,80101,Trinidad,2022,11,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2022,11,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2022,11,TOTAL,2
+Tarija,60303,Villa Montes,2022,11,TOTAL,2
+Tarija,60301,Yacuiba,2022,11,TOTAL,1
+Chuquisaca,10602,Yamparaez,2022,11,TOTAL,8
+Chuquisaca,10102,Yotala,2022,11,TOTAL,1
+Tarija,60402,Yunchara,2022,11,TOTAL,1
+Chuquisaca,10301,Zudañez,2022,11,TOTAL,3
+Chuquisaca,10404,Alcala,2022,12,TOTAL,6
+Tarija,60202,Bermejo,2022,12,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2022,12,TOTAL,1
+Chuquisaca,10405,El Villar,2022,12,TOTAL,1
+Chuquisaca,10304,Icla,2022,12,TOTAL,8
+Chuquisaca,10303,Mojocoya,2022,12,TOTAL,8
+Chuquisaca,10501,Monteagudo,2022,12,TOTAL,3
+Tarija,60201,Padcaya,2022,12,TOTAL,10
+Chuquisaca,10103,Poroma,2022,12,TOTAL,2
+Chuquisaca,10302,Presto,2022,12,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2022,12,TOTAL,3
+Chuquisaca,10702,San Lucas,2022,12,TOTAL,5
+Chuquisaca,10101,Sucre,2022,12,TOTAL,6
+Tarija,60101,Tarija,2022,12,TOTAL,2
+Chuquisaca,10202,Tarvita,2022,12,TOTAL,13
+Chuquisaca,10704,Villa Charcas,2022,12,TOTAL,3
+Santa Cruz,70201,Warnes,2022,12,TOTAL,1
+Chuquisaca,10102,Yotala,2022,12,TOTAL,1
+Tarija,60402,Yunchara,2022,12,TOTAL,1
+Chuquisaca,10301,Zudañez,2022,12,TOTAL,1

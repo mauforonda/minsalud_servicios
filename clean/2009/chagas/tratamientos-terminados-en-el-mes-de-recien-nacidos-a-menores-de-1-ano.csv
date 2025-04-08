@@ -1,0 +1,79 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,1,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",0
+Chuquisaca,10701,Camargo,2009,2,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,2,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Tarija,60301,Yacuiba,2009,2,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",2
+Cochabamba,30202,Pasorapa,2009,3,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",4
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,3,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",0
+Tarija,60303,Villa Montes,2009,3,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",3
+Chuquisaca,10102,Yotala,2009,3,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",4
+Chuquisaca,10701,Camargo,2009,4,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,31001,Sacaba,2009,4,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+La Paz,21101,Chulumani (v. De La Libertad),2009,5,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",2
+Santa Cruz,71001,Montero,2009,5,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Santa Cruz,70201,Warnes,2009,5,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",3
+Cochabamba,30201,Aiquile,2009,6,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,31001,Sacaba,2009,6,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Santa Cruz,70201,Warnes,2009,6,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",2
+Cochabamba,31301,Mizque,2009,7,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,31001,Sacaba,2009,7,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Tarija,60501,San Lorenzo(tja),2009,7,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",0
+Cochabamba,30201,Aiquile,2009,8,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,30101,Cochabamba,2009,8,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Tarija,60601,Entre Rios,2009,8,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,8,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Santa Cruz,71001,Montero,2009,9,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,31601,Tiraque (cbba),2009,9,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,31301,Mizque,2009,10,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,31001,Sacaba,2009,10,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,10,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",2
+Santa Cruz,70201,Warnes,2009,10,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,31001,Sacaba,2009,11,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",0
+Cochabamba,30201,Aiquile,2009,12,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",2
+Santa Cruz,71001,Montero,2009,12,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,31205,Puerto Villarroel,2009,12,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Cochabamba,31001,Sacaba,2009,12,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",3
+Tarija,60101,Tarija,2009,12,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",9
+Cochabamba,31601,Tiraque (cbba),2009,12,"Tratamientos terminados en el mes, de recien nacidos a menores de 1 ano",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,1,TOTAL,0
+Chuquisaca,10701,Camargo,2009,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,2,TOTAL,1
+Tarija,60301,Yacuiba,2009,2,TOTAL,2
+Cochabamba,30202,Pasorapa,2009,3,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,3,TOTAL,0
+Tarija,60303,Villa Montes,2009,3,TOTAL,3
+Chuquisaca,10102,Yotala,2009,3,TOTAL,4
+Chuquisaca,10701,Camargo,2009,4,TOTAL,1
+Cochabamba,31001,Sacaba,2009,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,4,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2009,5,TOTAL,2
+Santa Cruz,71001,Montero,2009,5,TOTAL,1
+Santa Cruz,70201,Warnes,2009,5,TOTAL,3
+Cochabamba,30201,Aiquile,2009,6,TOTAL,1
+Cochabamba,31001,Sacaba,2009,6,TOTAL,1
+Santa Cruz,70201,Warnes,2009,6,TOTAL,2
+Cochabamba,31301,Mizque,2009,7,TOTAL,1
+Cochabamba,31001,Sacaba,2009,7,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2009,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,7,TOTAL,0
+Cochabamba,30201,Aiquile,2009,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2009,8,TOTAL,1
+Tarija,60601,Entre Rios,2009,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,8,TOTAL,1
+Santa Cruz,71001,Montero,2009,9,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2009,9,TOTAL,1
+Cochabamba,31301,Mizque,2009,10,TOTAL,1
+Cochabamba,31001,Sacaba,2009,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,10,TOTAL,2
+Santa Cruz,70201,Warnes,2009,10,TOTAL,1
+Cochabamba,31001,Sacaba,2009,11,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2009,11,TOTAL,0
+Cochabamba,30201,Aiquile,2009,12,TOTAL,2
+Santa Cruz,71001,Montero,2009,12,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2009,12,TOTAL,1
+Cochabamba,31001,Sacaba,2009,12,TOTAL,3
+Tarija,60101,Tarija,2009,12,TOTAL,9
+Cochabamba,31601,Tiraque (cbba),2009,12,TOTAL,1

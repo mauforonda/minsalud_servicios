@@ -1,0 +1,575 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,31303,Alalay,2020,1,Partos atendidos por partera empirica,1
+Cochabamba,30601,Arque,2020,1,Partos atendidos por partera empirica,1
+Santa Cruz,70703,Cabezas,2020,1,Partos atendidos por partera empirica,2
+Santa Cruz,70706,Camiri,2020,1,Partos atendidos por partera empirica,1
+Cochabamba,30701,Capinota,2020,1,Partos atendidos por partera empirica,1
+Potosí,51103,Ckochas,2020,1,Partos atendidos por partera empirica,1
+Santa Cruz,71301,Comarapa,2020,1,Partos atendidos por partera empirica,1
+Tarija,60601,Entre Rios Trj,2020,1,Partos atendidos por partera empirica,1
+Oruro,41101,Eucaliptus,2020,1,Partos atendidos por partera empirica,1
+Chuquisaca,10703,Incahuasi,2020,1,Partos atendidos por partera empirica,1
+Beni,80601,Loreto,2020,1,Partos atendidos por partera empirica,1
+Potosí,50403,Pocoata,2020,1,Partos atendidos por partera empirica,1
+Santa Cruz,70601,Portachuelo,2020,1,Partos atendidos por partera empirica,1
+Santa Cruz,70503,Robore,2020,1,Partos atendidos por partera empirica,1
+Beni,80304,Rurrenabaque,2020,1,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,1,Partos atendidos por partera empirica,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,1,Partos atendidos por partera empirica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,1,Partos atendidos por partera empirica,5
+Cochabamba,31101,Tapacari,2020,1,Partos atendidos por partera empirica,1
+Potosí,50102,Tinguipaya,2020,1,Partos atendidos por partera empirica,1
+Cochabamba,30903,Tiquipaya,2020,1,Partos atendidos por partera empirica,1
+Santa Cruz,70801,Vallegrande,2020,1,Partos atendidos por partera empirica,2
+La Paz,20306,Waldo Ballivian,2020,1,Partos atendidos por partera empirica,1
+Tarija,60301,Yacuiba,2020,1,Partos atendidos por partera empirica,1
+Santa Cruz,70707,Boyuibe,2020,2,Partos atendidos por partera empirica,1
+Santa Cruz,70703,Cabezas,2020,2,Partos atendidos por partera empirica,25
+La Paz,21304,Calamarca,2020,2,Partos atendidos por partera empirica,1
+La Paz,20105,El Alto,2020,2,Partos atendidos por partera empirica,1
+La Paz,21601,Gral. J.j. Perez (charazani),2020,2,Partos atendidos por partera empirica,2
+La Paz,20402,Mocomoco,2020,2,Partos atendidos por partera empirica,2
+Santa Cruz,70202,Okinawa,2020,2,Partos atendidos por partera empirica,9
+Potosí,50403,Pocoata,2020,2,Partos atendidos por partera empirica,1
+Cochabamba,31205,Puerto Villarroel,2020,2,Partos atendidos por partera empirica,1
+Potosí,50402,Ravelo,2020,2,Partos atendidos por partera empirica,1
+Beni,80304,Rurrenabaque,2020,2,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,2,Partos atendidos por partera empirica,1
+La Paz,21502,San Buena Ventura,2020,2,Partos atendidos por partera empirica,1
+Beni,80501,San Ignacio,2020,2,Partos atendidos por partera empirica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,2,Partos atendidos por partera empirica,2
+La Paz,20902,Sapahaqui,2020,2,Partos atendidos por partera empirica,1
+Cochabamba,31101,Tapacari,2020,2,Partos atendidos por partera empirica,4
+Potosí,50102,Tinguipaya,2020,2,Partos atendidos por partera empirica,1
+Potosí,50502,Toro Toro,2020,2,Partos atendidos por partera empirica,1
+Potosí,50201,Uncia,2020,2,Partos atendidos por partera empirica,1
+Chuquisaca,10704,Villa Charcas,2020,2,Partos atendidos por partera empirica,1
+Cochabamba,31003,Villa Tunari,2020,2,Partos atendidos por partera empirica,2
+Potosí,51501,Villazon,2020,2,Partos atendidos por partera empirica,1
+Tarija,60301,Yacuiba,2020,2,Partos atendidos por partera empirica,2
+Santa Cruz,70403,Yapacani,2020,2,Partos atendidos por partera empirica,1
+La Paz,20701,Apolo,2020,3,Partos atendidos por partera empirica,2
+La Paz,21203,Batallas,2020,3,Partos atendidos por partera empirica,1
+Santa Cruz,70703,Cabezas,2020,3,Partos atendidos por partera empirica,33
+Potosí,50401,Colquechaca,2020,3,Partos atendidos por partera empirica,1
+La Paz,20105,El Alto,2020,3,Partos atendidos por partera empirica,2
+La Paz,21202,Laja,2020,3,Partos atendidos por partera empirica,1
+La Paz,20103,Mecapaca,2020,3,Partos atendidos por partera empirica,1
+Cochabamba,30901,Quillacollo,2020,3,Partos atendidos por partera empirica,1
+Potosí,50402,Ravelo,2020,3,Partos atendidos por partera empirica,1
+Potosí,50701,Sacaca,2020,3,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,3,Partos atendidos por partera empirica,6
+La Paz,21502,San Buena Ventura,2020,3,Partos atendidos por partera empirica,2
+Beni,80501,San Ignacio,2020,3,Partos atendidos por partera empirica,2
+Santa Cruz,71104,San Julian,2020,3,Partos atendidos por partera empirica,2
+Santa Cruz,71201,San Matias,2020,3,Partos atendidos por partera empirica,1
+La Paz,20902,Sapahaqui,2020,3,Partos atendidos por partera empirica,1
+La Paz,20801,Viacha,2020,3,Partos atendidos por partera empirica,1
+Cochabamba,31003,Villa Tunari,2020,3,Partos atendidos por partera empirica,2
+Tarija,60301,Yacuiba,2020,3,Partos atendidos por partera empirica,2
+Santa Cruz,70403,Yapacani,2020,3,Partos atendidos por partera empirica,4
+Tarija,60402,Yunchara,2020,3,Partos atendidos por partera empirica,1
+La Paz,20701,Apolo,2020,4,Partos atendidos por partera empirica,2
+La Paz,21303,Ayo Ayo,2020,4,Partos atendidos por partera empirica,1
+Potosí,50901,"Colcha ""k""",2020,4,Partos atendidos por partera empirica,1
+Cochabamba,31002,Colomi,2020,4,Partos atendidos por partera empirica,1
+La Paz,20105,El Alto,2020,4,Partos atendidos por partera empirica,5
+La Paz,21601,Gral. J.j. Perez (charazani),2020,4,Partos atendidos por partera empirica,1
+La Paz,20806,Jesus De Machaca,2020,4,Partos atendidos por partera empirica,1
+La Paz,20101,La Paz,2020,4,Partos atendidos por partera empirica,2
+La Paz,21202,Laja,2020,4,Partos atendidos por partera empirica,1
+La Paz,20402,Mocomoco,2020,4,Partos atendidos por partera empirica,3
+Oruro,40101,Oruro,2020,4,Partos atendidos por partera empirica,3
+La Paz,21201,Pucarani,2020,4,Partos atendidos por partera empirica,1
+Cochabamba,30901,Quillacollo,2020,4,Partos atendidos por partera empirica,1
+Beni,80201,Riberalta,2020,4,Partos atendidos por partera empirica,1
+Beni,80304,Rurrenabaque,2020,4,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,4,Partos atendidos por partera empirica,4
+Potosí,50501,San Pedro De Buena Vista,2020,4,Partos atendidos por partera empirica,1
+Potosí,50102,Tinguipaya,2020,4,Partos atendidos por partera empirica,2
+Potosí,50502,Toro Toro,2020,4,Partos atendidos por partera empirica,1
+Potosí,50201,Uncia,2020,4,Partos atendidos por partera empirica,1
+La Paz,20306,Waldo Ballivian,2020,4,Partos atendidos por partera empirica,1
+Tarija,60301,Yacuiba,2020,4,Partos atendidos por partera empirica,3
+Santa Cruz,70403,Yapacani,2020,4,Partos atendidos por partera empirica,3
+Oruro,40201,Challapata,2020,5,Partos atendidos por partera empirica,1
+Cochabamba,31204,Chimore,2020,5,Partos atendidos por partera empirica,1
+Potosí,50401,Colquechaca,2020,5,Partos atendidos por partera empirica,1
+Oruro,40401,Curahuara De Carangas,2020,5,Partos atendidos por partera empirica,1
+La Paz,20105,El Alto,2020,5,Partos atendidos por partera empirica,1
+Oruro,41101,Eucaliptus,2020,5,Partos atendidos por partera empirica,1
+Santa Cruz,71002,General Saavedra,2020,5,Partos atendidos por partera empirica,1
+La Paz,20101,La Paz,2020,5,Partos atendidos por partera empirica,1
+Potosí,50203,Llallagua,2020,5,Partos atendidos por partera empirica,1
+Cochabamba,30302,Morochata,2020,5,Partos atendidos por partera empirica,1
+Oruro,40101,Oruro,2020,5,Partos atendidos por partera empirica,1
+La Paz,21201,Pucarani,2020,5,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,5,Partos atendidos por partera empirica,6
+La Paz,21502,San Buena Ventura,2020,5,Partos atendidos por partera empirica,1
+Beni,80501,San Ignacio,2020,5,Partos atendidos por partera empirica,1
+Pando,90302,San Lorenzo(pnd),2020,5,Partos atendidos por partera empirica,1
+Chuquisaca,10702,San Lucas,2020,5,Partos atendidos por partera empirica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,5,Partos atendidos por partera empirica,2
+Cochabamba,30703,Sicaya,2020,5,Partos atendidos por partera empirica,1
+Potosí,50502,Toro Toro,2020,5,Partos atendidos por partera empirica,1
+La Paz,20801,Viacha,2020,5,Partos atendidos por partera empirica,2
+Cochabamba,31003,Villa Tunari,2020,5,Partos atendidos por partera empirica,1
+Tarija,60301,Yacuiba,2020,5,Partos atendidos por partera empirica,1
+La Paz,20701,Apolo,2020,6,Partos atendidos por partera empirica,1
+Cochabamba,30601,Arque,2020,6,Partos atendidos por partera empirica,1
+Cochabamba,30701,Capinota,2020,6,Partos atendidos por partera empirica,1
+Oruro,40201,Challapata,2020,6,Partos atendidos por partera empirica,2
+Santa Cruz,71301,Comarapa,2020,6,Partos atendidos por partera empirica,1
+La Paz,21701,Copacabana,2020,6,Partos atendidos por partera empirica,1
+La Paz,21402,Coripata,2020,6,Partos atendidos por partera empirica,2
+Santa Cruz,70102,Cotoca,2020,6,Partos atendidos por partera empirica,2
+Beni,80601,Loreto,2020,6,Partos atendidos por partera empirica,1
+La Paz,20402,Mocomoco,2020,6,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,6,Partos atendidos por partera empirica,2
+La Paz,21502,San Buena Ventura,2020,6,Partos atendidos por partera empirica,1
+Beni,80501,San Ignacio,2020,6,Partos atendidos por partera empirica,2
+Santa Cruz,70301,San Ignacio De Velasco,2020,6,Partos atendidos por partera empirica,1
+Beni,80102,San Javier(bni),2020,6,Partos atendidos por partera empirica,1
+Santa Cruz,71104,San Julian,2020,6,Partos atendidos por partera empirica,1
+Santa Cruz,71201,San Matias,2020,6,Partos atendidos por partera empirica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,6,Partos atendidos por partera empirica,2
+Beni,80303,Santa Rosa,2020,6,Partos atendidos por partera empirica,1
+Oruro,41401,Santiago De Huari,2020,6,Partos atendidos por partera empirica,2
+Cochabamba,30902,Sipe Sipe,2020,6,Partos atendidos por partera empirica,1
+La Paz,20803,Tiahuanacu,2020,6,Partos atendidos por partera empirica,1
+Potosí,50102,Tinguipaya,2020,6,Partos atendidos por partera empirica,2
+Potosí,50502,Toro Toro,2020,6,Partos atendidos por partera empirica,1
+Potosí,50801,Tupiza,2020,6,Partos atendidos por partera empirica,1
+Potosí,50201,Uncia,2020,6,Partos atendidos por partera empirica,1
+Cochabamba,31003,Villa Tunari,2020,6,Partos atendidos por partera empirica,1
+Tarija,60301,Yacuiba,2020,6,Partos atendidos por partera empirica,1
+La Paz,20201,Achacachi,2020,7,Partos atendidos por partera empirica,1
+La Paz,20701,Apolo,2020,7,Partos atendidos por partera empirica,1
+Santa Cruz,70703,Cabezas,2020,7,Partos atendidos por partera empirica,2
+Cochabamba,30701,Capinota,2020,7,Partos atendidos por partera empirica,1
+Oruro,40102,Caracollo,2020,7,Partos atendidos por partera empirica,1
+Oruro,40201,Challapata,2020,7,Partos atendidos por partera empirica,1
+Cochabamba,31204,Chimore,2020,7,Partos atendidos por partera empirica,1
+Potosí,50401,Colquechaca,2020,7,Partos atendidos por partera empirica,1
+La Paz,20105,El Alto,2020,7,Partos atendidos por partera empirica,5
+La Paz,20602,Guanay,2020,7,Partos atendidos por partera empirica,1
+Pando,90402,Ingavi (humaita),2020,7,Partos atendidos por partera empirica,1
+Potosí,50403,Pocoata,2020,7,Partos atendidos por partera empirica,1
+Cochabamba,31202,Pojo (cbba),2020,7,Partos atendidos por partera empirica,1
+Cochabamba,31205,Puerto Villarroel,2020,7,Partos atendidos por partera empirica,2
+Potosí,51101,Puna,2020,7,Partos atendidos por partera empirica,1
+Potosí,50402,Ravelo,2020,7,Partos atendidos por partera empirica,2
+Potosí,50701,Sacaca,2020,7,Partos atendidos por partera empirica,1
+Beni,80602,San Andres,2020,7,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,7,Partos atendidos por partera empirica,8
+La Paz,21502,San Buena Ventura,2020,7,Partos atendidos por partera empirica,1
+Beni,80501,San Ignacio,2020,7,Partos atendidos por partera empirica,1
+Beni,80102,San Javier(bni),2020,7,Partos atendidos por partera empirica,1
+Chuquisaca,10702,San Lucas,2020,7,Partos atendidos por partera empirica,1
+Pando,90202,San Pedro(pnd),2020,7,Partos atendidos por partera empirica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,7,Partos atendidos por partera empirica,7
+Pando,90303,Sena,2020,7,Partos atendidos por partera empirica,2
+Cochabamba,30902,Sipe Sipe,2020,7,Partos atendidos por partera empirica,1
+Potosí,50102,Tinguipaya,2020,7,Partos atendidos por partera empirica,4
+Santa Cruz,71502,Urubicha,2020,7,Partos atendidos por partera empirica,1
+La Paz,20801,Viacha,2020,7,Partos atendidos por partera empirica,1
+Tarija,60301,Yacuiba,2020,7,Partos atendidos por partera empirica,2
+Santa Cruz,70403,Yapacani,2020,7,Partos atendidos por partera empirica,2
+La Paz,20701,Apolo,2020,8,Partos atendidos por partera empirica,1
+Cochabamba,30601,Arque,2020,8,Partos atendidos por partera empirica,1
+La Paz,21303,Ayo Ayo,2020,8,Partos atendidos por partera empirica,1
+La Paz,21203,Batallas,2020,8,Partos atendidos por partera empirica,1
+Pando,90103,Bolpebra,2020,8,Partos atendidos por partera empirica,1
+Santa Cruz,70703,Cabezas,2020,8,Partos atendidos por partera empirica,37
+Cochabamba,30701,Capinota,2020,8,Partos atendidos por partera empirica,1
+Oruro,40102,Caracollo,2020,8,Partos atendidos por partera empirica,1
+Santa Cruz,71403,Carmen Rivero Torrez,2020,8,Partos atendidos por partera empirica,1
+Cochabamba,31204,Chimore,2020,8,Partos atendidos por partera empirica,1
+Potosí,50901,"Colcha ""k""",2020,8,Partos atendidos por partera empirica,1
+Potosí,50401,Colquechaca,2020,8,Partos atendidos por partera empirica,1
+La Paz,20806,Jesus De Machaca,2020,8,Partos atendidos por partera empirica,1
+Beni,80601,Loreto,2020,8,Partos atendidos por partera empirica,2
+La Paz,20402,Mocomoco,2020,8,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,8,Partos atendidos por partera empirica,5
+La Paz,21502,San Buena Ventura,2020,8,Partos atendidos por partera empirica,1
+Beni,80501,San Ignacio,2020,8,Partos atendidos por partera empirica,4
+Potosí,51001,San Pablo De Lipez,2020,8,Partos atendidos por partera empirica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,8,Partos atendidos por partera empirica,1
+Oruro,41401,Santiago De Huari,2020,8,Partos atendidos por partera empirica,1
+Potosí,50102,Tinguipaya,2020,8,Partos atendidos por partera empirica,1
+Cochabamba,30903,Tiquipaya,2020,8,Partos atendidos por partera empirica,1
+Chuquisaca,10402,Tomina,2020,8,Partos atendidos por partera empirica,1
+Beni,80101,Trinidad,2020,8,Partos atendidos por partera empirica,1
+La Paz,20801,Viacha,2020,8,Partos atendidos por partera empirica,2
+Cochabamba,31003,Villa Tunari,2020,8,Partos atendidos por partera empirica,1
+Potosí,51501,Villazon,2020,8,Partos atendidos por partera empirica,1
+Santa Cruz,70403,Yapacani,2020,8,Partos atendidos por partera empirica,2
+La Paz,20701,Apolo,2020,9,Partos atendidos por partera empirica,1
+Santa Cruz,70703,Cabezas,2020,9,Partos atendidos por partera empirica,39
+La Paz,21304,Calamarca,2020,9,Partos atendidos por partera empirica,1
+Cochabamba,30701,Capinota,2020,9,Partos atendidos por partera empirica,1
+Cochabamba,31204,Chimore,2020,9,Partos atendidos por partera empirica,2
+Pando,90101,Cobija,2020,9,Partos atendidos por partera empirica,1
+Potosí,50401,Colquechaca,2020,9,Partos atendidos por partera empirica,1
+La Paz,20105,El Alto,2020,9,Partos atendidos por partera empirica,1
+La Paz,20402,Mocomoco,2020,9,Partos atendidos por partera empirica,2
+Oruro,40101,Oruro,2020,9,Partos atendidos por partera empirica,2
+Beni,80301,Reyes,2020,9,Partos atendidos por partera empirica,1
+Santa Cruz,71302,Saipina,2020,9,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,9,Partos atendidos por partera empirica,5
+Beni,80501,San Ignacio,2020,9,Partos atendidos por partera empirica,1
+Potosí,51001,San Pablo De Lipez,2020,9,Partos atendidos por partera empirica,1
+Tarija,60101,Tarija,2020,9,Partos atendidos por partera empirica,2
+Potosí,50502,Toro Toro,2020,9,Partos atendidos por partera empirica,1
+Cochabamba,31201,Totora(cbba),2020,9,Partos atendidos por partera empirica,1
+Potosí,50801,Tupiza,2020,9,Partos atendidos por partera empirica,1
+Santa Cruz,70403,Yapacani,2020,9,Partos atendidos por partera empirica,2
+Cochabamba,30403,Arbieto,2020,10,Partos atendidos por partera empirica,2
+Santa Cruz,70703,Cabezas,2020,10,Partos atendidos por partera empirica,44
+Santa Cruz,70706,Camiri,2020,10,Partos atendidos por partera empirica,2
+Cochabamba,31204,Chimore,2020,10,Partos atendidos por partera empirica,1
+Cochabamba,30101,Cochabamba,2020,10,Partos atendidos por partera empirica,1
+Potosí,50401,Colquechaca,2020,10,Partos atendidos por partera empirica,1
+La Paz,20105,El Alto,2020,10,Partos atendidos por partera empirica,3
+La Paz,20402,Mocomoco,2020,10,Partos atendidos por partera empirica,1
+Cochabamba,31202,Pojo (cbba),2020,10,Partos atendidos por partera empirica,1
+Santa Cruz,70601,Portachuelo,2020,10,Partos atendidos por partera empirica,1
+Pando,90102,Porvenir,2020,10,Partos atendidos por partera empirica,2
+Cochabamba,30901,Quillacollo,2020,10,Partos atendidos por partera empirica,1
+Cochabamba,31403,San Benito,2020,10,Partos atendidos por partera empirica,1
+Beni,80302,San Borja,2020,10,Partos atendidos por partera empirica,3
+Tarija,60501,San Lorenzo(tja),2020,10,Partos atendidos por partera empirica,1
+Cochabamba,30602,Tacopaya,2020,10,Partos atendidos por partera empirica,1
+Potosí,50201,Uncia,2020,10,Partos atendidos por partera empirica,1
+Tarija,60303,Villa Montes,2020,10,Partos atendidos por partera empirica,1
+Tarija,60301,Yacuiba,2020,10,Partos atendidos por partera empirica,2
+La Paz,20104,Achocalla,2020,11,Partos atendidos por partera empirica,1
+La Paz,20701,Apolo,2020,11,Partos atendidos por partera empirica,2
+Santa Cruz,70703,Cabezas,2020,11,Partos atendidos por partera empirica,30
+Chuquisaca,10701,Camargo,2020,11,Partos atendidos por partera empirica,1
+Potosí,50202,Chayanta,2020,11,Partos atendidos por partera empirica,1
+La Paz,20301,Coro Coro,2020,11,Partos atendidos por partera empirica,1
+La Paz,20105,El Alto,2020,11,Partos atendidos por partera empirica,3
+Santa Cruz,71503,El Puente(stc),2020,11,Partos atendidos por partera empirica,1
+La Paz,20402,Mocomoco,2020,11,Partos atendidos por partera empirica,2
+Oruro,40101,Oruro,2020,11,Partos atendidos por partera empirica,1
+La Paz,21201,Pucarani,2020,11,Partos atendidos por partera empirica,2
+Beni,80201,Riberalta,2020,11,Partos atendidos por partera empirica,1
+Beni,80501,San Ignacio,2020,11,Partos atendidos por partera empirica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,11,Partos atendidos por partera empirica,1
+Tarija,60101,Tarija,2020,11,Partos atendidos por partera empirica,1
+Potosí,50102,Tinguipaya,2020,11,Partos atendidos por partera empirica,3
+Potosí,50502,Toro Toro,2020,11,Partos atendidos por partera empirica,1
+Cochabamba,31003,Villa Tunari,2020,11,Partos atendidos por partera empirica,1
+Potosí,51501,Villazon,2020,11,Partos atendidos por partera empirica,1
+La Paz,20701,Apolo,2020,12,Partos atendidos por partera empirica,1
+Tarija,60202,Bermejo,2020,12,Partos atendidos por partera empirica,3
+Santa Cruz,70703,Cabezas,2020,12,Partos atendidos por partera empirica,27
+Oruro,40102,Caracollo,2020,12,Partos atendidos por partera empirica,1
+Cochabamba,31204,Chimore,2020,12,Partos atendidos por partera empirica,1
+La Paz,20105,El Alto,2020,12,Partos atendidos por partera empirica,1
+Tarija,60601,Entre Rios Trj,2020,12,Partos atendidos por partera empirica,1
+La Paz,20402,Mocomoco,2020,12,Partos atendidos por partera empirica,1
+Oruro,40101,Oruro,2020,12,Partos atendidos por partera empirica,1
+La Paz,21104,Palos Blancos,2020,12,Partos atendidos por partera empirica,1
+La Paz,21201,Pucarani,2020,12,Partos atendidos por partera empirica,1
+Potosí,51101,Puna,2020,12,Partos atendidos por partera empirica,1
+Cochabamba,30901,Quillacollo,2020,12,Partos atendidos por partera empirica,2
+Beni,80302,San Borja,2020,12,Partos atendidos por partera empirica,2
+La Paz,21502,San Buena Ventura,2020,12,Partos atendidos por partera empirica,1
+Beni,80501,San Ignacio,2020,12,Partos atendidos por partera empirica,1
+La Paz,21702,San Pedro De Tiquina,2020,12,Partos atendidos por partera empirica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,12,Partos atendidos por partera empirica,1
+La Paz,20601,Sorata,2020,12,Partos atendidos por partera empirica,1
+Potosí,50102,Tinguipaya,2020,12,Partos atendidos por partera empirica,2
+Beni,80101,Trinidad,2020,12,Partos atendidos por partera empirica,2
+Cochabamba,31003,Villa Tunari,2020,12,Partos atendidos por partera empirica,1
+Santa Cruz,70201,Warnes,2020,12,Partos atendidos por partera empirica,1
+Tarija,60402,Yunchara,2020,12,Partos atendidos por partera empirica,1
+Cochabamba,31303,Alalay,2020,1,TOTAL,1
+Cochabamba,30601,Arque,2020,1,TOTAL,1
+Santa Cruz,70703,Cabezas,2020,1,TOTAL,2
+Santa Cruz,70706,Camiri,2020,1,TOTAL,1
+Cochabamba,30701,Capinota,2020,1,TOTAL,1
+Potosí,51103,Ckochas,2020,1,TOTAL,1
+Santa Cruz,71301,Comarapa,2020,1,TOTAL,1
+Tarija,60601,Entre Rios Trj,2020,1,TOTAL,1
+Oruro,41101,Eucaliptus,2020,1,TOTAL,1
+Chuquisaca,10703,Incahuasi,2020,1,TOTAL,1
+Beni,80601,Loreto,2020,1,TOTAL,1
+Potosí,50403,Pocoata,2020,1,TOTAL,1
+Santa Cruz,70601,Portachuelo,2020,1,TOTAL,1
+Santa Cruz,70503,Robore,2020,1,TOTAL,1
+Beni,80304,Rurrenabaque,2020,1,TOTAL,1
+Beni,80302,San Borja,2020,1,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,1,TOTAL,5
+Cochabamba,31101,Tapacari,2020,1,TOTAL,1
+Potosí,50102,Tinguipaya,2020,1,TOTAL,1
+Cochabamba,30903,Tiquipaya,2020,1,TOTAL,1
+Santa Cruz,70801,Vallegrande,2020,1,TOTAL,2
+La Paz,20306,Waldo Ballivian,2020,1,TOTAL,1
+Tarija,60301,Yacuiba,2020,1,TOTAL,1
+Santa Cruz,70707,Boyuibe,2020,2,TOTAL,1
+Santa Cruz,70703,Cabezas,2020,2,TOTAL,25
+La Paz,21304,Calamarca,2020,2,TOTAL,1
+La Paz,20105,El Alto,2020,2,TOTAL,1
+La Paz,21601,Gral. J.j. Perez (charazani),2020,2,TOTAL,2
+La Paz,20402,Mocomoco,2020,2,TOTAL,2
+Santa Cruz,70202,Okinawa,2020,2,TOTAL,9
+Potosí,50403,Pocoata,2020,2,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2020,2,TOTAL,1
+Potosí,50402,Ravelo,2020,2,TOTAL,1
+Beni,80304,Rurrenabaque,2020,2,TOTAL,1
+Beni,80302,San Borja,2020,2,TOTAL,1
+La Paz,21502,San Buena Ventura,2020,2,TOTAL,1
+Beni,80501,San Ignacio,2020,2,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,2,TOTAL,2
+La Paz,20902,Sapahaqui,2020,2,TOTAL,1
+Cochabamba,31101,Tapacari,2020,2,TOTAL,4
+Potosí,50102,Tinguipaya,2020,2,TOTAL,1
+Potosí,50502,Toro Toro,2020,2,TOTAL,1
+Potosí,50201,Uncia,2020,2,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2020,2,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,2,TOTAL,2
+Potosí,51501,Villazon,2020,2,TOTAL,1
+Tarija,60301,Yacuiba,2020,2,TOTAL,2
+Santa Cruz,70403,Yapacani,2020,2,TOTAL,1
+La Paz,20701,Apolo,2020,3,TOTAL,2
+La Paz,21203,Batallas,2020,3,TOTAL,1
+Santa Cruz,70703,Cabezas,2020,3,TOTAL,33
+Potosí,50401,Colquechaca,2020,3,TOTAL,1
+La Paz,20105,El Alto,2020,3,TOTAL,2
+La Paz,21202,Laja,2020,3,TOTAL,1
+La Paz,20103,Mecapaca,2020,3,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,3,TOTAL,1
+Potosí,50402,Ravelo,2020,3,TOTAL,1
+Potosí,50701,Sacaca,2020,3,TOTAL,1
+Beni,80302,San Borja,2020,3,TOTAL,6
+La Paz,21502,San Buena Ventura,2020,3,TOTAL,2
+Beni,80501,San Ignacio,2020,3,TOTAL,2
+Santa Cruz,71104,San Julian,2020,3,TOTAL,2
+Santa Cruz,71201,San Matias,2020,3,TOTAL,1
+La Paz,20902,Sapahaqui,2020,3,TOTAL,1
+La Paz,20801,Viacha,2020,3,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,3,TOTAL,2
+Tarija,60301,Yacuiba,2020,3,TOTAL,2
+Santa Cruz,70403,Yapacani,2020,3,TOTAL,4
+Tarija,60402,Yunchara,2020,3,TOTAL,1
+La Paz,20701,Apolo,2020,4,TOTAL,2
+La Paz,21303,Ayo Ayo,2020,4,TOTAL,1
+Potosí,50901,"Colcha ""k""",2020,4,TOTAL,1
+Cochabamba,31002,Colomi,2020,4,TOTAL,1
+La Paz,20105,El Alto,2020,4,TOTAL,5
+La Paz,21601,Gral. J.j. Perez (charazani),2020,4,TOTAL,1
+La Paz,20806,Jesus De Machaca,2020,4,TOTAL,1
+La Paz,20101,La Paz,2020,4,TOTAL,2
+La Paz,21202,Laja,2020,4,TOTAL,1
+La Paz,20402,Mocomoco,2020,4,TOTAL,3
+Oruro,40101,Oruro,2020,4,TOTAL,3
+La Paz,21201,Pucarani,2020,4,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,4,TOTAL,1
+Beni,80201,Riberalta,2020,4,TOTAL,1
+Beni,80304,Rurrenabaque,2020,4,TOTAL,1
+Beni,80302,San Borja,2020,4,TOTAL,4
+Potosí,50501,San Pedro De Buena Vista,2020,4,TOTAL,1
+Potosí,50102,Tinguipaya,2020,4,TOTAL,2
+Potosí,50502,Toro Toro,2020,4,TOTAL,1
+Potosí,50201,Uncia,2020,4,TOTAL,1
+La Paz,20306,Waldo Ballivian,2020,4,TOTAL,1
+Tarija,60301,Yacuiba,2020,4,TOTAL,3
+Santa Cruz,70403,Yapacani,2020,4,TOTAL,3
+Oruro,40201,Challapata,2020,5,TOTAL,1
+Cochabamba,31204,Chimore,2020,5,TOTAL,1
+Potosí,50401,Colquechaca,2020,5,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2020,5,TOTAL,1
+La Paz,20105,El Alto,2020,5,TOTAL,1
+Oruro,41101,Eucaliptus,2020,5,TOTAL,1
+Santa Cruz,71002,General Saavedra,2020,5,TOTAL,1
+La Paz,20101,La Paz,2020,5,TOTAL,1
+Potosí,50203,Llallagua,2020,5,TOTAL,1
+Cochabamba,30302,Morochata,2020,5,TOTAL,1
+Oruro,40101,Oruro,2020,5,TOTAL,1
+La Paz,21201,Pucarani,2020,5,TOTAL,1
+Beni,80302,San Borja,2020,5,TOTAL,6
+La Paz,21502,San Buena Ventura,2020,5,TOTAL,1
+Beni,80501,San Ignacio,2020,5,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2020,5,TOTAL,1
+Chuquisaca,10702,San Lucas,2020,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,5,TOTAL,2
+Cochabamba,30703,Sicaya,2020,5,TOTAL,1
+Potosí,50502,Toro Toro,2020,5,TOTAL,1
+La Paz,20801,Viacha,2020,5,TOTAL,2
+Cochabamba,31003,Villa Tunari,2020,5,TOTAL,1
+Tarija,60301,Yacuiba,2020,5,TOTAL,1
+La Paz,20701,Apolo,2020,6,TOTAL,1
+Cochabamba,30601,Arque,2020,6,TOTAL,1
+Cochabamba,30701,Capinota,2020,6,TOTAL,1
+Oruro,40201,Challapata,2020,6,TOTAL,2
+Santa Cruz,71301,Comarapa,2020,6,TOTAL,1
+La Paz,21701,Copacabana,2020,6,TOTAL,1
+La Paz,21402,Coripata,2020,6,TOTAL,2
+Santa Cruz,70102,Cotoca,2020,6,TOTAL,2
+Beni,80601,Loreto,2020,6,TOTAL,1
+La Paz,20402,Mocomoco,2020,6,TOTAL,1
+Beni,80302,San Borja,2020,6,TOTAL,2
+La Paz,21502,San Buena Ventura,2020,6,TOTAL,1
+Beni,80501,San Ignacio,2020,6,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2020,6,TOTAL,1
+Beni,80102,San Javier(bni),2020,6,TOTAL,1
+Santa Cruz,71104,San Julian,2020,6,TOTAL,1
+Santa Cruz,71201,San Matias,2020,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,6,TOTAL,2
+Beni,80303,Santa Rosa,2020,6,TOTAL,1
+Oruro,41401,Santiago De Huari,2020,6,TOTAL,2
+Cochabamba,30902,Sipe Sipe,2020,6,TOTAL,1
+La Paz,20803,Tiahuanacu,2020,6,TOTAL,1
+Potosí,50102,Tinguipaya,2020,6,TOTAL,2
+Potosí,50502,Toro Toro,2020,6,TOTAL,1
+Potosí,50801,Tupiza,2020,6,TOTAL,1
+Potosí,50201,Uncia,2020,6,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,6,TOTAL,1
+Tarija,60301,Yacuiba,2020,6,TOTAL,1
+La Paz,20201,Achacachi,2020,7,TOTAL,1
+La Paz,20701,Apolo,2020,7,TOTAL,1
+Santa Cruz,70703,Cabezas,2020,7,TOTAL,2
+Cochabamba,30701,Capinota,2020,7,TOTAL,1
+Oruro,40102,Caracollo,2020,7,TOTAL,1
+Oruro,40201,Challapata,2020,7,TOTAL,1
+Cochabamba,31204,Chimore,2020,7,TOTAL,1
+Potosí,50401,Colquechaca,2020,7,TOTAL,1
+La Paz,20105,El Alto,2020,7,TOTAL,5
+La Paz,20602,Guanay,2020,7,TOTAL,1
+Pando,90402,Ingavi (humaita),2020,7,TOTAL,1
+Potosí,50403,Pocoata,2020,7,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2020,7,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2020,7,TOTAL,2
+Potosí,51101,Puna,2020,7,TOTAL,1
+Potosí,50402,Ravelo,2020,7,TOTAL,2
+Potosí,50701,Sacaca,2020,7,TOTAL,1
+Beni,80602,San Andres,2020,7,TOTAL,1
+Beni,80302,San Borja,2020,7,TOTAL,8
+La Paz,21502,San Buena Ventura,2020,7,TOTAL,1
+Beni,80501,San Ignacio,2020,7,TOTAL,1
+Beni,80102,San Javier(bni),2020,7,TOTAL,1
+Chuquisaca,10702,San Lucas,2020,7,TOTAL,1
+Pando,90202,San Pedro(pnd),2020,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,7,TOTAL,7
+Pando,90303,Sena,2020,7,TOTAL,2
+Cochabamba,30902,Sipe Sipe,2020,7,TOTAL,1
+Potosí,50102,Tinguipaya,2020,7,TOTAL,4
+Santa Cruz,71502,Urubicha,2020,7,TOTAL,1
+La Paz,20801,Viacha,2020,7,TOTAL,1
+Tarija,60301,Yacuiba,2020,7,TOTAL,2
+Santa Cruz,70403,Yapacani,2020,7,TOTAL,2
+La Paz,20701,Apolo,2020,8,TOTAL,1
+Cochabamba,30601,Arque,2020,8,TOTAL,1
+La Paz,21303,Ayo Ayo,2020,8,TOTAL,1
+La Paz,21203,Batallas,2020,8,TOTAL,1
+Pando,90103,Bolpebra,2020,8,TOTAL,1
+Santa Cruz,70703,Cabezas,2020,8,TOTAL,37
+Cochabamba,30701,Capinota,2020,8,TOTAL,1
+Oruro,40102,Caracollo,2020,8,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2020,8,TOTAL,1
+Cochabamba,31204,Chimore,2020,8,TOTAL,1
+Potosí,50901,"Colcha ""k""",2020,8,TOTAL,1
+Potosí,50401,Colquechaca,2020,8,TOTAL,1
+La Paz,20806,Jesus De Machaca,2020,8,TOTAL,1
+Beni,80601,Loreto,2020,8,TOTAL,2
+La Paz,20402,Mocomoco,2020,8,TOTAL,1
+Beni,80302,San Borja,2020,8,TOTAL,5
+La Paz,21502,San Buena Ventura,2020,8,TOTAL,1
+Beni,80501,San Ignacio,2020,8,TOTAL,4
+Potosí,51001,San Pablo De Lipez,2020,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,8,TOTAL,1
+Oruro,41401,Santiago De Huari,2020,8,TOTAL,1
+Potosí,50102,Tinguipaya,2020,8,TOTAL,1
+Cochabamba,30903,Tiquipaya,2020,8,TOTAL,1
+Chuquisaca,10402,Tomina,2020,8,TOTAL,1
+Beni,80101,Trinidad,2020,8,TOTAL,1
+La Paz,20801,Viacha,2020,8,TOTAL,2
+Cochabamba,31003,Villa Tunari,2020,8,TOTAL,1
+Potosí,51501,Villazon,2020,8,TOTAL,1
+Santa Cruz,70403,Yapacani,2020,8,TOTAL,2
+La Paz,20701,Apolo,2020,9,TOTAL,1
+Santa Cruz,70703,Cabezas,2020,9,TOTAL,39
+La Paz,21304,Calamarca,2020,9,TOTAL,1
+Cochabamba,30701,Capinota,2020,9,TOTAL,1
+Cochabamba,31204,Chimore,2020,9,TOTAL,2
+Pando,90101,Cobija,2020,9,TOTAL,1
+Potosí,50401,Colquechaca,2020,9,TOTAL,1
+La Paz,20105,El Alto,2020,9,TOTAL,1
+La Paz,20402,Mocomoco,2020,9,TOTAL,2
+Oruro,40101,Oruro,2020,9,TOTAL,2
+Beni,80301,Reyes,2020,9,TOTAL,1
+Santa Cruz,71302,Saipina,2020,9,TOTAL,1
+Beni,80302,San Borja,2020,9,TOTAL,5
+Beni,80501,San Ignacio,2020,9,TOTAL,1
+Potosí,51001,San Pablo De Lipez,2020,9,TOTAL,1
+Tarija,60101,Tarija,2020,9,TOTAL,2
+Potosí,50502,Toro Toro,2020,9,TOTAL,1
+Cochabamba,31201,Totora(cbba),2020,9,TOTAL,1
+Potosí,50801,Tupiza,2020,9,TOTAL,1
+Santa Cruz,70403,Yapacani,2020,9,TOTAL,2
+Cochabamba,30403,Arbieto,2020,10,TOTAL,2
+Santa Cruz,70703,Cabezas,2020,10,TOTAL,44
+Santa Cruz,70706,Camiri,2020,10,TOTAL,2
+Cochabamba,31204,Chimore,2020,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,10,TOTAL,1
+Potosí,50401,Colquechaca,2020,10,TOTAL,1
+La Paz,20105,El Alto,2020,10,TOTAL,3
+La Paz,20402,Mocomoco,2020,10,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2020,10,TOTAL,1
+Santa Cruz,70601,Portachuelo,2020,10,TOTAL,1
+Pando,90102,Porvenir,2020,10,TOTAL,2
+Cochabamba,30901,Quillacollo,2020,10,TOTAL,1
+Cochabamba,31403,San Benito,2020,10,TOTAL,1
+Beni,80302,San Borja,2020,10,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2020,10,TOTAL,1
+Cochabamba,30602,Tacopaya,2020,10,TOTAL,1
+Potosí,50201,Uncia,2020,10,TOTAL,1
+Tarija,60303,Villa Montes,2020,10,TOTAL,1
+Tarija,60301,Yacuiba,2020,10,TOTAL,2
+La Paz,20104,Achocalla,2020,11,TOTAL,1
+La Paz,20701,Apolo,2020,11,TOTAL,2
+Santa Cruz,70703,Cabezas,2020,11,TOTAL,30
+Chuquisaca,10701,Camargo,2020,11,TOTAL,1
+Potosí,50202,Chayanta,2020,11,TOTAL,1
+La Paz,20301,Coro Coro,2020,11,TOTAL,1
+La Paz,20105,El Alto,2020,11,TOTAL,3
+Santa Cruz,71503,El Puente(stc),2020,11,TOTAL,1
+La Paz,20402,Mocomoco,2020,11,TOTAL,2
+Oruro,40101,Oruro,2020,11,TOTAL,1
+La Paz,21201,Pucarani,2020,11,TOTAL,2
+Beni,80201,Riberalta,2020,11,TOTAL,1
+Beni,80501,San Ignacio,2020,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,11,TOTAL,1
+Tarija,60101,Tarija,2020,11,TOTAL,1
+Potosí,50102,Tinguipaya,2020,11,TOTAL,3
+Potosí,50502,Toro Toro,2020,11,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,11,TOTAL,1
+Potosí,51501,Villazon,2020,11,TOTAL,1
+La Paz,20701,Apolo,2020,12,TOTAL,1
+Tarija,60202,Bermejo,2020,12,TOTAL,3
+Santa Cruz,70703,Cabezas,2020,12,TOTAL,27
+Oruro,40102,Caracollo,2020,12,TOTAL,1
+Cochabamba,31204,Chimore,2020,12,TOTAL,1
+La Paz,20105,El Alto,2020,12,TOTAL,1
+Tarija,60601,Entre Rios Trj,2020,12,TOTAL,1
+La Paz,20402,Mocomoco,2020,12,TOTAL,1
+Oruro,40101,Oruro,2020,12,TOTAL,1
+La Paz,21104,Palos Blancos,2020,12,TOTAL,1
+La Paz,21201,Pucarani,2020,12,TOTAL,1
+Potosí,51101,Puna,2020,12,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,12,TOTAL,2
+Beni,80302,San Borja,2020,12,TOTAL,2
+La Paz,21502,San Buena Ventura,2020,12,TOTAL,1
+Beni,80501,San Ignacio,2020,12,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2020,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,12,TOTAL,1
+La Paz,20601,Sorata,2020,12,TOTAL,1
+Potosí,50102,Tinguipaya,2020,12,TOTAL,2
+Beni,80101,Trinidad,2020,12,TOTAL,2
+Cochabamba,31003,Villa Tunari,2020,12,TOTAL,1
+Santa Cruz,70201,Warnes,2020,12,TOTAL,1
+Tarija,60402,Yunchara,2020,12,TOTAL,1

@@ -1,0 +1,17 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70105,El Torno,2023,1,Nacidos muertos atendidos por partera,1
+Potosí,51203,Porco,2023,2,Nacidos muertos atendidos por partera,1
+Beni,80601,Loreto,2023,3,Nacidos muertos atendidos por partera,1
+Santa Cruz,70403,Yapacani,2023,4,Nacidos muertos atendidos por partera,1
+La Paz,20105,El Alto,2023,6,Nacidos muertos atendidos por partera,9
+Beni,80201,Riberalta,2023,7,Nacidos muertos atendidos por partera,1
+Beni,80302,San Borja,2023,7,Nacidos muertos atendidos por partera,1
+Beni,80501,San Ignacio,2023,8,Nacidos muertos atendidos por partera,1
+Santa Cruz,70105,El Torno,2023,1,TOTAL,1
+Potosí,51203,Porco,2023,2,TOTAL,1
+Beni,80601,Loreto,2023,3,TOTAL,1
+Santa Cruz,70403,Yapacani,2023,4,TOTAL,1
+La Paz,20105,El Alto,2023,6,TOTAL,9
+Beni,80201,Riberalta,2023,7,TOTAL,1
+Beni,80302,San Borja,2023,7,TOTAL,1
+Beni,80501,San Ignacio,2023,8,TOTAL,1

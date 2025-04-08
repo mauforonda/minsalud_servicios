@@ -1,0 +1,1607 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,51302,Acacio,2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,20201,Achacachi,2021,1,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30201,Aiquile,2021,1,Nacidos vivos con peso menor a 2500g,2
+La Paz,22002,Alto Beni,2021,1,Nacidos vivos con peso menor a 2500g,1
+Oruro,41201,Andamarca,2021,1,Nacidos vivos con peso menor a 2500g,2
+Potosí,50802,Atocha,2021,1,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,1,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10201,Azurduy,2021,1,Nacidos vivos con peso menor a 2500g,2
+Beni,80802,Baures,2021,1,Nacidos vivos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,21003,Cajuata,2021,1,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30701,Capinota,2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2021,1,Nacidos vivos con peso menor a 2500g,1
+Oruro,40201,Challapata,2021,1,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70702,Charagua,2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,21101,Chulumani (v. De La Libertad),2021,1,Nacidos vivos con peso menor a 2500g,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,1,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30801,Cliza,2021,1,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,1,Nacidos vivos con peso menor a 2500g,6
+Cochabamba,30101,Cochabamba,2021,1,Nacidos vivos con peso menor a 2500g,56
+Cochabamba,31002,Colomi,2021,1,Nacidos vivos con peso menor a 2500g,2
+Potosí,50401,Colquechaca,2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,21004,Colquiri,2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,1,Nacidos vivos con peso menor a 2500g,46
+Cochabamba,31206,Entre Rios Cbba,2021,1,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,1,Nacidos vivos con peso menor a 2500g,4
+La Paz,21102,Irupana (villa De Lanza),2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,20101,La Paz,2021,1,Nacidos vivos con peso menor a 2500g,76
+Potosí,50203,Llallagua,2021,1,Nacidos vivos con peso menor a 2500g,5
+Chuquisaca,10501,Monteagudo,2021,1,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2021,1,Nacidos vivos con peso menor a 2500g,10
+Oruro,40101,Oruro,2021,1,Nacidos vivos con peso menor a 2500g,25
+Tarija,60201,Padcaya,2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,21104,Palos Blancos,2021,1,Nacidos vivos con peso menor a 2500g,1
+Oruro,40802,Pampa Aullagas,2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,21305,Patacamaya,2021,1,Nacidos vivos con peso menor a 2500g,2
+Potosí,50101,Potosi,2021,1,Nacidos vivos con peso menor a 2500g,29
+Santa Cruz,71401,Puerto Suarez,2021,1,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2021,1,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31401,Punata,2021,1,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30901,Quillacollo,2021,1,Nacidos vivos con peso menor a 2500g,2
+Beni,80201,Riberalta,2021,1,Nacidos vivos con peso menor a 2500g,23
+Cochabamba,31001,Sacaba,2021,1,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,1,Nacidos vivos con peso menor a 2500g,4
+La Paz,21502,San Buena Ventura,2021,1,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,1,Nacidos vivos con peso menor a 2500g,8
+Santa Cruz,71102,San Javier(stc),2021,1,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70501,San Jose De Chiquitos,2021,1,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,71201,San Matias,2021,1,Nacidos vivos con peso menor a 2500g,14
+Santa Cruz,70302,San Miguel De Velasco,2021,1,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71005,San Pedro,2021,1,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70303,San Rafael,2021,1,Nacidos vivos con peso menor a 2500g,1
+Beni,80401,Santa Ana,2021,1,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,1,Nacidos vivos con peso menor a 2500g,176
+Chuquisaca,10403,Sopachuy,2021,1,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10101,Sucre,2021,1,Nacidos vivos con peso menor a 2500g,24
+Tarija,60101,Tarija,2021,1,Nacidos vivos con peso menor a 2500g,11
+Chuquisaca,10202,Tarvita,2021,1,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30802,Toco,2021,1,Nacidos vivos con peso menor a 2500g,1
+Beni,80101,Trinidad,2021,1,Nacidos vivos con peso menor a 2500g,8
+Potosí,50801,Tupiza,2021,1,Nacidos vivos con peso menor a 2500g,2
+Chuquisaca,10704,Villa Charcas,2021,1,Nacidos vivos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2021,1,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2021,1,Nacidos vivos con peso menor a 2500g,7
+Potosí,51501,Villazon,2021,1,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30904,Vinto,2021,1,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70201,Warnes,2021,1,Nacidos vivos con peso menor a 2500g,2
+Tarija,60301,Yacuiba,2021,1,Nacidos vivos con peso menor a 2500g,4
+Santa Cruz,70403,Yapacani,2021,1,Nacidos vivos con peso menor a 2500g,1
+La Paz,20201,Achacachi,2021,2,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30201,Aiquile,2021,2,Nacidos vivos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2021,2,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31501,Bolivar,2021,2,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70703,Cabezas,2021,2,Nacidos vivos con peso menor a 2500g,4
+Potosí,51102,"Caiza ""d""",2021,2,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2021,2,Nacidos vivos con peso menor a 2500g,3
+Oruro,40102,Caracollo,2021,2,Nacidos vivos con peso menor a 2500g,1
+Oruro,40201,Challapata,2021,2,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70702,Charagua,2021,2,Nacidos vivos con peso menor a 2500g,4
+La Paz,20305,Charaña,2021,2,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30801,Cliza,2021,2,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,2,Nacidos vivos con peso menor a 2500g,5
+Cochabamba,30101,Cochabamba,2021,2,Nacidos vivos con peso menor a 2500g,64
+La Paz,21701,Copacabana,2021,2,Nacidos vivos con peso menor a 2500g,1
+La Paz,21401,Coroico,2021,2,Nacidos vivos con peso menor a 2500g,1
+Potosí,50601,Cotagaita,2021,2,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,2,Nacidos vivos con peso menor a 2500g,58
+Oruro,40103,El Choro,2021,2,Nacidos vivos con peso menor a 2500g,1
+Tarija,60601,Entre Rios Trj,2021,2,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71002,General Saavedra,2021,2,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,2,Nacidos vivos con peso menor a 2500g,1
+La Paz,20206,Huatajata,2021,2,Nacidos vivos con peso menor a 2500g,1
+La Paz,21102,Irupana (villa De Lanza),2021,2,Nacidos vivos con peso menor a 2500g,1
+La Paz,20101,La Paz,2021,2,Nacidos vivos con peso menor a 2500g,87
+Potosí,50203,Llallagua,2021,2,Nacidos vivos con peso menor a 2500g,1
+La Paz,20607,Mapiri,2021,2,Nacidos vivos con peso menor a 2500g,1
+La Paz,20103,Mecapaca,2021,2,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10501,Monteagudo,2021,2,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2021,2,Nacidos vivos con peso menor a 2500g,2
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,2,Nacidos vivos con peso menor a 2500g,1
+Oruro,40101,Oruro,2021,2,Nacidos vivos con peso menor a 2500g,25
+Chuquisaca,10401,Padilla,2021,2,Nacidos vivos con peso menor a 2500g,1
+La Paz,21104,Palos Blancos,2021,2,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31202,Pojo (cbba),2021,2,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70103,Porongo,2021,2,Nacidos vivos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,2,Nacidos vivos con peso menor a 2500g,25
+Santa Cruz,71401,Puerto Suarez,2021,2,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,31205,Puerto Villarroel,2021,2,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31401,Punata,2021,2,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30901,Quillacollo,2021,2,Nacidos vivos con peso menor a 2500g,2
+Beni,80201,Riberalta,2021,2,Nacidos vivos con peso menor a 2500g,12
+Beni,80304,Rurrenabaque,2021,2,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,31001,Sacaba,2021,2,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,2,Nacidos vivos con peso menor a 2500g,4
+La Paz,21502,San Buena Ventura,2021,2,Nacidos vivos con peso menor a 2500g,1
+Beni,80501,San Ignacio,2021,2,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70301,San Ignacio De Velasco,2021,2,Nacidos vivos con peso menor a 2500g,6
+Chuquisaca,10702,San Lucas,2021,2,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,71005,San Pedro,2021,2,Nacidos vivos con peso menor a 2500g,1
+Beni,80401,Santa Ana,2021,2,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,2,Nacidos vivos con peso menor a 2500g,193
+La Paz,20308,Santiago De Callapa,2021,2,Nacidos vivos con peso menor a 2500g,1
+Oruro,41401,Santiago De Huari,2021,2,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10101,Sucre,2021,2,Nacidos vivos con peso menor a 2500g,17
+Tarija,60101,Tarija,2021,2,Nacidos vivos con peso menor a 2500g,15
+Cochabamba,30903,Tiquipaya,2021,2,Nacidos vivos con peso menor a 2500g,2
+Beni,80101,Trinidad,2021,2,Nacidos vivos con peso menor a 2500g,10
+Potosí,50801,Tupiza,2021,2,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70801,Vallegrande,2021,2,Nacidos vivos con peso menor a 2500g,6
+Tarija,60303,Villa Montes,2021,2,Nacidos vivos con peso menor a 2500g,6
+Cochabamba,31003,Villa Tunari,2021,2,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30904,Vinto,2021,2,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70201,Warnes,2021,2,Nacidos vivos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2021,2,Nacidos vivos con peso menor a 2500g,4
+Cochabamba,30201,Aiquile,2021,3,Nacidos vivos con peso menor a 2500g,2
+La Paz,22002,Alto Beni,2021,3,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30501,Arani,2021,3,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,3,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70703,Cabezas,2021,3,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2021,3,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30701,Capinota,2021,3,Nacidos vivos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2021,3,Nacidos vivos con peso menor a 2500g,2
+Oruro,40201,Challapata,2021,3,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70702,Charagua,2021,3,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31204,Chimore,2021,3,Nacidos vivos con peso menor a 2500g,1
+La Paz,20203,Chua Cocani,2021,3,Nacidos vivos con peso menor a 2500g,1
+La Paz,21101,Chulumani (v. De La Libertad),2021,3,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,3,Nacidos vivos con peso menor a 2500g,13
+Cochabamba,30303,Cocapata,2021,3,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2021,3,Nacidos vivos con peso menor a 2500g,73
+Potosí,50401,Colquechaca,2021,3,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71301,Comarapa,2021,3,Nacidos vivos con peso menor a 2500g,1
+La Paz,21401,Coroico,2021,3,Nacidos vivos con peso menor a 2500g,2
+La Paz,20804,Desaguadero,2021,3,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,3,Nacidos vivos con peso menor a 2500g,58
+Santa Cruz,70105,El Torno,2021,3,Nacidos vivos con peso menor a 2500g,2
+Tarija,60601,Entre Rios Trj,2021,3,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31206,Entre Rios Cbba,2021,3,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71004,Fernandez Alonso,2021,3,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,3,Nacidos vivos con peso menor a 2500g,3
+Chuquisaca,10502,Huacareta,2021,3,Nacidos vivos con peso menor a 2500g,1
+Oruro,40701,Huanuni,2021,3,Nacidos vivos con peso menor a 2500g,1
+Pando,90402,Ingavi (humaita),2021,3,Nacidos vivos con peso menor a 2500g,1
+La Paz,21102,Irupana (villa De Lanza),2021,3,Nacidos vivos con peso menor a 2500g,1
+La Paz,20101,La Paz,2021,3,Nacidos vivos con peso menor a 2500g,102
+Potosí,50203,Llallagua,2021,3,Nacidos vivos con peso menor a 2500g,3
+La Paz,20607,Mapiri,2021,3,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71003,Mineros,2021,3,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31301,Mizque,2021,3,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10501,Monteagudo,2021,3,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2021,3,Nacidos vivos con peso menor a 2500g,10
+Santa Cruz,70803,Moro Moro,2021,3,Nacidos vivos con peso menor a 2500g,1
+Oruro,40101,Oruro,2021,3,Nacidos vivos con peso menor a 2500g,43
+Chuquisaca,10103,Poroma,2021,3,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70601,Portachuelo,2021,3,Nacidos vivos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,3,Nacidos vivos con peso menor a 2500g,24
+Santa Cruz,71401,Puerto Suarez,2021,3,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2021,3,Nacidos vivos con peso menor a 2500g,6
+Cochabamba,31401,Punata,2021,3,Nacidos vivos con peso menor a 2500g,1
+Beni,80201,Riberalta,2021,3,Nacidos vivos con peso menor a 2500g,10
+Potosí,50701,Sacaca,2021,3,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,3,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70301,San Ignacio De Velasco,2021,3,Nacidos vivos con peso menor a 2500g,8
+Chuquisaca,10702,San Lucas,2021,3,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,71005,San Pedro,2021,3,Nacidos vivos con peso menor a 2500g,2
+La Paz,21702,San Pedro De Tiquina,2021,3,Nacidos vivos con peso menor a 2500g,1
+Beni,80401,Santa Ana,2021,3,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,Nacidos vivos con peso menor a 2500g,202
+Cochabamba,31602,Shinaota,2021,3,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10101,Sucre,2021,3,Nacidos vivos con peso menor a 2500g,23
+Chuquisaca,10601,Tarabuco,2021,3,Nacidos vivos con peso menor a 2500g,1
+Tarija,60101,Tarija,2021,3,Nacidos vivos con peso menor a 2500g,13
+Cochabamba,30903,Tiquipaya,2021,3,Nacidos vivos con peso menor a 2500g,2
+Potosí,50502,Toro Toro,2021,3,Nacidos vivos con peso menor a 2500g,1
+Beni,80101,Trinidad,2021,3,Nacidos vivos con peso menor a 2500g,11
+Potosí,50801,Tupiza,2021,3,Nacidos vivos con peso menor a 2500g,5
+Potosí,51201,Uyuni,2021,3,Nacidos vivos con peso menor a 2500g,2
+Tarija,60303,Villa Montes,2021,3,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2021,3,Nacidos vivos con peso menor a 2500g,4
+Potosí,51501,Villazon,2021,3,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70201,Warnes,2021,3,Nacidos vivos con peso menor a 2500g,6
+Tarija,60301,Yacuiba,2021,3,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70403,Yapacani,2021,3,Nacidos vivos con peso menor a 2500g,1
+La Paz,20201,Achacachi,2021,4,Nacidos vivos con peso menor a 2500g,5
+La Paz,20701,Apolo,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,4,Nacidos vivos con peso menor a 2500g,3
+Tarija,60202,Bermejo,2021,4,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70707,Boyuibe,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70703,Cabezas,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2021,4,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30701,Capinota,2021,4,Nacidos vivos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2021,4,Nacidos vivos con peso menor a 2500g,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,4,Nacidos vivos con peso menor a 2500g,1
+Oruro,40201,Challapata,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70702,Charagua,2021,4,Nacidos vivos con peso menor a 2500g,2
+La Paz,21101,Chulumani (v. De La Libertad),2021,4,Nacidos vivos con peso menor a 2500g,2
+Pando,90101,Cobija,2021,4,Nacidos vivos con peso menor a 2500g,7
+Cochabamba,30101,Cochabamba,2021,4,Nacidos vivos con peso menor a 2500g,87
+Cochabamba,31002,Colomi,2021,4,Nacidos vivos con peso menor a 2500g,1
+Potosí,50401,Colquechaca,2021,4,Nacidos vivos con peso menor a 2500g,1
+La Paz,21004,Colquiri,2021,4,Nacidos vivos con peso menor a 2500g,2
+La Paz,21402,Coripata,2021,4,Nacidos vivos con peso menor a 2500g,1
+La Paz,21401,Coroico,2021,4,Nacidos vivos con peso menor a 2500g,1
+Potosí,50601,Cotagaita,2021,4,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10902,Culpina,2021,4,Nacidos vivos con peso menor a 2500g,1
+Oruro,40401,Curahuara De Carangas,2021,4,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,4,Nacidos vivos con peso menor a 2500g,55
+Santa Cruz,71503,El Puente(stc),2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70105,El Torno,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71002,General Saavedra,2021,4,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,4,Nacidos vivos con peso menor a 2500g,6
+Chuquisaca,10502,Huacareta,2021,4,Nacidos vivos con peso menor a 2500g,1
+Oruro,40701,Huanuni,2021,4,Nacidos vivos con peso menor a 2500g,1
+Pando,90402,Ingavi (humaita),2021,4,Nacidos vivos con peso menor a 2500g,1
+La Paz,20101,La Paz,2021,4,Nacidos vivos con peso menor a 2500g,95
+Potosí,50203,Llallagua,2021,4,Nacidos vivos con peso menor a 2500g,2
+La Paz,20607,Mapiri,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71003,Mineros,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2021,4,Nacidos vivos con peso menor a 2500g,19
+Oruro,40101,Oruro,2021,4,Nacidos vivos con peso menor a 2500g,26
+La Paz,21305,Patacamaya,2021,4,Nacidos vivos con peso menor a 2500g,1
+Oruro,40602,Pazña,2021,4,Nacidos vivos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,4,Nacidos vivos con peso menor a 2500g,33
+Chuquisaca,10302,Presto,2021,4,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2021,4,Nacidos vivos con peso menor a 2500g,4
+Cochabamba,31401,Punata,2021,4,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30901,Quillacollo,2021,4,Nacidos vivos con peso menor a 2500g,2
+Potosí,50402,Ravelo,2021,4,Nacidos vivos con peso menor a 2500g,1
+Beni,80301,Reyes,2021,4,Nacidos vivos con peso menor a 2500g,1
+Beni,80201,Riberalta,2021,4,Nacidos vivos con peso menor a 2500g,20
+Santa Cruz,70901,Samaipata,2021,4,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,4,Nacidos vivos con peso menor a 2500g,6
+Beni,80501,San Ignacio,2021,4,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70301,San Ignacio De Velasco,2021,4,Nacidos vivos con peso menor a 2500g,3
+Chuquisaca,10702,San Lucas,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70302,San Miguel De Velasco,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,Nacidos vivos con peso menor a 2500g,199
+La Paz,20902,Sapahaqui,2021,4,Nacidos vivos con peso menor a 2500g,1
+Pando,90303,Sena,2021,4,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10101,Sucre,2021,4,Nacidos vivos con peso menor a 2500g,22
+Tarija,60101,Tarija,2021,4,Nacidos vivos con peso menor a 2500g,12
+Chuquisaca,10202,Tarvita,2021,4,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30903,Tiquipaya,2021,4,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31201,Totora(cbba),2021,4,Nacidos vivos con peso menor a 2500g,1
+Beni,80101,Trinidad,2021,4,Nacidos vivos con peso menor a 2500g,14
+Potosí,50801,Tupiza,2021,4,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70801,Vallegrande,2021,4,Nacidos vivos con peso menor a 2500g,1
+La Paz,20801,Viacha,2021,4,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2021,4,Nacidos vivos con peso menor a 2500g,3
+Potosí,51501,Villazon,2021,4,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30904,Vinto,2021,4,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70201,Warnes,2021,4,Nacidos vivos con peso menor a 2500g,2
+Tarija,60301,Yacuiba,2021,4,Nacidos vivos con peso menor a 2500g,7
+Santa Cruz,70403,Yapacani,2021,4,Nacidos vivos con peso menor a 2500g,1
+La Paz,20201,Achacachi,2021,5,Nacidos vivos con peso menor a 2500g,1
+La Paz,20104,Achocalla,2021,5,Nacidos vivos con peso menor a 2500g,2
+La Paz,20701,Apolo,2021,5,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30501,Arani,2021,5,Nacidos vivos con peso menor a 2500g,1
+Potosí,50802,Atocha,2021,5,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,5,Nacidos vivos con peso menor a 2500g,1
+La Paz,21203,Batallas,2021,5,Nacidos vivos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2021,5,Nacidos vivos con peso menor a 2500g,1
+Potosí,50301,Betanzos,2021,5,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70703,Cabezas,2021,5,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10701,Camargo,2021,5,Nacidos vivos con peso menor a 2500g,4
+La Paz,22001,Caranavi,2021,5,Nacidos vivos con peso menor a 2500g,1
+La Paz,21101,Chulumani (v. De La Libertad),2021,5,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,5,Nacidos vivos con peso menor a 2500g,10
+Cochabamba,30101,Cochabamba,2021,5,Nacidos vivos con peso menor a 2500g,70
+La Paz,21701,Copacabana,2021,5,Nacidos vivos con peso menor a 2500g,1
+La Paz,20301,Coro Coro,2021,5,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,5,Nacidos vivos con peso menor a 2500g,71
+Chuquisaca,10405,El Villar,2021,5,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,5,Nacidos vivos con peso menor a 2500g,11
+Oruro,40701,Huanuni,2021,5,Nacidos vivos con peso menor a 2500g,3
+Oruro,41601,Huayllamarca,2021,5,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70104,La Guardia,2021,5,Nacidos vivos con peso menor a 2500g,1
+La Paz,20101,La Paz,2021,5,Nacidos vivos con peso menor a 2500g,86
+Potosí,50203,Llallagua,2021,5,Nacidos vivos con peso menor a 2500g,4
+Santa Cruz,70903,Mairana,2021,5,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71003,Mineros,2021,5,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10501,Monteagudo,2021,5,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2021,5,Nacidos vivos con peso menor a 2500g,8
+Oruro,40101,Oruro,2021,5,Nacidos vivos con peso menor a 2500g,78
+Chuquisaca,10401,Padilla,2021,5,Nacidos vivos con peso menor a 2500g,2
+La Paz,21305,Patacamaya,2021,5,Nacidos vivos con peso menor a 2500g,4
+Santa Cruz,70103,Porongo,2021,5,Nacidos vivos con peso menor a 2500g,4
+Potosí,50101,Potosi,2021,5,Nacidos vivos con peso menor a 2500g,22
+Pando,90201,Puerto Rico,2021,5,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2021,5,Nacidos vivos con peso menor a 2500g,5
+Cochabamba,31401,Punata,2021,5,Nacidos vivos con peso menor a 2500g,5
+Beni,80201,Riberalta,2021,5,Nacidos vivos con peso menor a 2500g,30
+Santa Cruz,71105,San Antonio De Lomerio,2021,5,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,5,Nacidos vivos con peso menor a 2500g,1
+La Paz,21502,San Buena Ventura,2021,5,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70402,San Carlos,2021,5,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,5,Nacidos vivos con peso menor a 2500g,7
+Santa Cruz,70501,San Jose De Chiquitos,2021,5,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71104,San Julian,2021,5,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10702,San Lucas,2021,5,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71005,San Pedro,2021,5,Nacidos vivos con peso menor a 2500g,1
+Potosí,50501,San Pedro De Buena Vista,2021,5,Nacidos vivos con peso menor a 2500g,1
+Beni,80401,Santa Ana,2021,5,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,Nacidos vivos con peso menor a 2500g,440
+Cochabamba,31602,Shinaota,2021,5,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30703,Sicaya,2021,5,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10101,Sucre,2021,5,Nacidos vivos con peso menor a 2500g,19
+Cochabamba,30401,Tarata,2021,5,Nacidos vivos con peso menor a 2500g,1
+Tarija,60101,Tarija,2021,5,Nacidos vivos con peso menor a 2500g,16
+Beni,80101,Trinidad,2021,5,Nacidos vivos con peso menor a 2500g,13
+Potosí,50801,Tupiza,2021,5,Nacidos vivos con peso menor a 2500g,4
+Potosí,51201,Uyuni,2021,5,Nacidos vivos con peso menor a 2500g,1
+La Paz,20801,Viacha,2021,5,Nacidos vivos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2021,5,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2021,5,Nacidos vivos con peso menor a 2500g,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2021,5,Nacidos vivos con peso menor a 2500g,1
+Potosí,51501,Villazon,2021,5,Nacidos vivos con peso menor a 2500g,4
+Cochabamba,30904,Vinto,2021,5,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70201,Warnes,2021,5,Nacidos vivos con peso menor a 2500g,3
+Tarija,60301,Yacuiba,2021,5,Nacidos vivos con peso menor a 2500g,7
+Santa Cruz,70403,Yapacani,2021,5,Nacidos vivos con peso menor a 2500g,1
+Potosí,50103,Yocalla,2021,5,Nacidos vivos con peso menor a 2500g,1
+Potosí,51302,Acacio,2021,6,Nacidos vivos con peso menor a 2500g,1
+La Paz,20701,Apolo,2021,6,Nacidos vivos con peso menor a 2500g,4
+Cochabamba,30601,Arque,2021,6,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,6,Nacidos vivos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2021,6,Nacidos vivos con peso menor a 2500g,2
+Chuquisaca,10701,Camargo,2021,6,Nacidos vivos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2021,6,Nacidos vivos con peso menor a 2500g,1
+Oruro,40201,Challapata,2021,6,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30801,Cliza,2021,6,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,6,Nacidos vivos con peso menor a 2500g,7
+Cochabamba,30101,Cochabamba,2021,6,Nacidos vivos con peso menor a 2500g,71
+Cochabamba,30905,Colcapirhua,2021,6,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71101,Concepcion,2021,6,Nacidos vivos con peso menor a 2500g,4
+Santa Cruz,70102,Cotoca,2021,6,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10902,Culpina,2021,6,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,6,Nacidos vivos con peso menor a 2500g,66
+Cochabamba,31206,Entre Rios Cbba,2021,6,Nacidos vivos con peso menor a 2500g,1
+Pando,90203,Filadelfia,2021,6,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71002,General Saavedra,2021,6,Nacidos vivos con peso menor a 2500g,1
+La Paz,20602,Guanay,2021,6,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,6,Nacidos vivos con peso menor a 2500g,5
+Chuquisaca,10502,Huacareta,2021,6,Nacidos vivos con peso menor a 2500g,1
+Oruro,40701,Huanuni,2021,6,Nacidos vivos con peso menor a 2500g,5
+La Paz,20101,La Paz,2021,6,Nacidos vivos con peso menor a 2500g,81
+Potosí,50203,Llallagua,2021,6,Nacidos vivos con peso menor a 2500g,2
+Potosí,51401,Llica,2021,6,Nacidos vivos con peso menor a 2500g,1
+Beni,80801,Magdalena,2021,6,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2021,6,Nacidos vivos con peso menor a 2500g,7
+Oruro,40101,Oruro,2021,6,Nacidos vivos con peso menor a 2500g,105
+La Paz,21305,Patacamaya,2021,6,Nacidos vivos con peso menor a 2500g,1
+Potosí,51203,Porco,2021,6,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70103,Porongo,2021,6,Nacidos vivos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,6,Nacidos vivos con peso menor a 2500g,31
+La Paz,21201,Pucarani,2021,6,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71401,Puerto Suarez,2021,6,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2021,6,Nacidos vivos con peso menor a 2500g,6
+Cochabamba,31401,Punata,2021,6,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30901,Quillacollo,2021,6,Nacidos vivos con peso menor a 2500g,2
+Potosí,50402,Ravelo,2021,6,Nacidos vivos con peso menor a 2500g,2
+Beni,80301,Reyes,2021,6,Nacidos vivos con peso menor a 2500g,2
+Beni,80201,Riberalta,2021,6,Nacidos vivos con peso menor a 2500g,23
+Santa Cruz,71302,Saipina,2021,6,Nacidos vivos con peso menor a 2500g,1
+Oruro,40801,Salinas De Garci Mendoza,2021,6,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,6,Nacidos vivos con peso menor a 2500g,2
+La Paz,21502,San Buena Ventura,2021,6,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70402,San Carlos,2021,6,Nacidos vivos con peso menor a 2500g,2
+Beni,80501,San Ignacio,2021,6,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70301,San Ignacio De Velasco,2021,6,Nacidos vivos con peso menor a 2500g,6
+Santa Cruz,70302,San Miguel De Velasco,2021,6,Nacidos vivos con peso menor a 2500g,2
+Beni,80401,Santa Ana,2021,6,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,Nacidos vivos con peso menor a 2500g,207
+Chuquisaca,10101,Sucre,2021,6,Nacidos vivos con peso menor a 2500g,18
+Potosí,50303,Tacobamba,2021,6,Nacidos vivos con peso menor a 2500g,1
+Tarija,60101,Tarija,2021,6,Nacidos vivos con peso menor a 2500g,16
+Cochabamba,30903,Tiquipaya,2021,6,Nacidos vivos con peso menor a 2500g,1
+Beni,80101,Trinidad,2021,6,Nacidos vivos con peso menor a 2500g,20
+Potosí,50801,Tupiza,2021,6,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70801,Vallegrande,2021,6,Nacidos vivos con peso menor a 2500g,1
+La Paz,20801,Viacha,2021,6,Nacidos vivos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2021,6,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2021,6,Nacidos vivos con peso menor a 2500g,2
+Potosí,51501,Villazon,2021,6,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,30904,Vinto,2021,6,Nacidos vivos con peso menor a 2500g,1
+La Paz,20306,Waldo Ballivian,2021,6,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70201,Warnes,2021,6,Nacidos vivos con peso menor a 2500g,3
+Tarija,60301,Yacuiba,2021,6,Nacidos vivos con peso menor a 2500g,8
+Santa Cruz,70403,Yapacani,2021,6,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10301,Zudañez,2021,6,Nacidos vivos con peso menor a 2500g,1
+La Paz,20201,Achacachi,2021,7,Nacidos vivos con peso menor a 2500g,2
+La Paz,21303,Ayo Ayo,2021,7,Nacidos vivos con peso menor a 2500g,1
+La Paz,21203,Batallas,2021,7,Nacidos vivos con peso menor a 2500g,1
+La Paz,21003,Cajuata,2021,7,Nacidos vivos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2021,7,Nacidos vivos con peso menor a 2500g,6
+La Paz,21101,Chulumani (v. De La Libertad),2021,7,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30801,Cliza,2021,7,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,7,Nacidos vivos con peso menor a 2500g,11
+Cochabamba,30101,Cochabamba,2021,7,Nacidos vivos con peso menor a 2500g,82
+Santa Cruz,71101,Concepcion,2021,7,Nacidos vivos con peso menor a 2500g,2
+La Paz,21401,Coroico,2021,7,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,7,Nacidos vivos con peso menor a 2500g,72
+Beni,80402,Exaltacion,2021,7,Nacidos vivos con peso menor a 2500g,1
+La Paz,20602,Guanay,2021,7,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,7,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70705,Gutierrez,2021,7,Nacidos vivos con peso menor a 2500g,2
+Oruro,40701,Huanuni,2021,7,Nacidos vivos con peso menor a 2500g,5
+La Paz,20101,La Paz,2021,7,Nacidos vivos con peso menor a 2500g,93
+La Paz,21202,Laja,2021,7,Nacidos vivos con peso menor a 2500g,1
+Potosí,50203,Llallagua,2021,7,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,71001,Montero,2021,7,Nacidos vivos con peso menor a 2500g,17
+Oruro,40101,Oruro,2021,7,Nacidos vivos con peso menor a 2500g,42
+La Paz,21305,Patacamaya,2021,7,Nacidos vivos con peso menor a 2500g,2
+Potosí,50101,Potosi,2021,7,Nacidos vivos con peso menor a 2500g,33
+Beni,80703,Puerto Siles,2021,7,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71401,Puerto Suarez,2021,7,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2021,7,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,31401,Punata,2021,7,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,30901,Quillacollo,2021,7,Nacidos vivos con peso menor a 2500g,8
+Beni,80201,Riberalta,2021,7,Nacidos vivos con peso menor a 2500g,20
+Beni,80304,Rurrenabaque,2021,7,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31001,Sacaba,2021,7,Nacidos vivos con peso menor a 2500g,1
+Potosí,50701,Sacaca,2021,7,Nacidos vivos con peso menor a 2500g,1
+Potosí,51601,San Agustin,2021,7,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,7,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70402,San Carlos,2021,7,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,7,Nacidos vivos con peso menor a 2500g,6
+Pando,90302,San Lorenzo(pnd),2021,7,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71201,San Matias,2021,7,Nacidos vivos con peso menor a 2500g,1
+La Paz,21702,San Pedro De Tiquina,2021,7,Nacidos vivos con peso menor a 2500g,1
+Beni,80401,Santa Ana,2021,7,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,7,Nacidos vivos con peso menor a 2500g,231
+Chuquisaca,10101,Sucre,2021,7,Nacidos vivos con peso menor a 2500g,24
+Tarija,60101,Tarija,2021,7,Nacidos vivos con peso menor a 2500g,20
+Chuquisaca,10202,Tarvita,2021,7,Nacidos vivos con peso menor a 2500g,2
+La Paz,20608,Teoponte,2021,7,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31601,Tiraque (cbba),2021,7,Nacidos vivos con peso menor a 2500g,2
+Beni,80101,Trinidad,2021,7,Nacidos vivos con peso menor a 2500g,17
+Potosí,50801,Tupiza,2021,7,Nacidos vivos con peso menor a 2500g,3
+La Paz,20801,Viacha,2021,7,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31302,Vila Vila,2021,7,Nacidos vivos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2021,7,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2021,7,Nacidos vivos con peso menor a 2500g,3
+Potosí,51501,Villazon,2021,7,Nacidos vivos con peso menor a 2500g,4
+Cochabamba,30904,Vinto,2021,7,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70201,Warnes,2021,7,Nacidos vivos con peso menor a 2500g,6
+Tarija,60301,Yacuiba,2021,7,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70403,Yapacani,2021,7,Nacidos vivos con peso menor a 2500g,3
+Potosí,50103,Yocalla,2021,7,Nacidos vivos con peso menor a 2500g,2
+La Paz,20201,Achacachi,2021,8,Nacidos vivos con peso menor a 2500g,5
+La Paz,20701,Apolo,2021,8,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2021,8,Nacidos vivos con peso menor a 2500g,2
+Oruro,40102,Caracollo,2021,8,Nacidos vivos con peso menor a 2500g,3
+La Paz,22001,Caranavi,2021,8,Nacidos vivos con peso menor a 2500g,1
+Oruro,40201,Challapata,2021,8,Nacidos vivos con peso menor a 2500g,5
+Santa Cruz,70702,Charagua,2021,8,Nacidos vivos con peso menor a 2500g,1
+La Paz,21101,Chulumani (v. De La Libertad),2021,8,Nacidos vivos con peso menor a 2500g,1
+Potosí,51103,Ckochas,2021,8,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30801,Cliza,2021,8,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,8,Nacidos vivos con peso menor a 2500g,103
+Cochabamba,30101,Cochabamba,2021,8,Nacidos vivos con peso menor a 2500g,99
+Santa Cruz,71301,Comarapa,2021,8,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71101,Concepcion,2021,8,Nacidos vivos con peso menor a 2500g,2
+La Paz,20105,El Alto,2021,8,Nacidos vivos con peso menor a 2500g,94
+Santa Cruz,71004,Fernandez Alonso,2021,8,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,8,Nacidos vivos con peso menor a 2500g,6
+Oruro,40701,Huanuni,2021,8,Nacidos vivos con peso menor a 2500g,5
+Santa Cruz,70104,La Guardia,2021,8,Nacidos vivos con peso menor a 2500g,1
+La Paz,20101,La Paz,2021,8,Nacidos vivos con peso menor a 2500g,84
+Potosí,50203,Llallagua,2021,8,Nacidos vivos con peso menor a 2500g,8
+Beni,80801,Magdalena,2021,8,Nacidos vivos con peso menor a 2500g,3
+La Paz,20607,Mapiri,2021,8,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71003,Mineros,2021,8,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2021,8,Nacidos vivos con peso menor a 2500g,14
+Santa Cruz,70803,Moro Moro,2021,8,Nacidos vivos con peso menor a 2500g,1
+Potosí,50404,Ocuri,2021,8,Nacidos vivos con peso menor a 2500g,1
+Oruro,40101,Oruro,2021,8,Nacidos vivos con peso menor a 2500g,22
+Tarija,60201,Padcaya,2021,8,Nacidos vivos con peso menor a 2500g,1
+La Paz,21104,Palos Blancos,2021,8,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31202,Pojo (cbba),2021,8,Nacidos vivos con peso menor a 2500g,1
+Potosí,51203,Porco,2021,8,Nacidos vivos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,8,Nacidos vivos con peso menor a 2500g,31
+Pando,90301,Puerto Gonzalo Moreno,2021,8,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,71401,Puerto Suarez,2021,8,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2021,8,Nacidos vivos con peso menor a 2500g,11
+Cochabamba,31401,Punata,2021,8,Nacidos vivos con peso menor a 2500g,4
+Cochabamba,30901,Quillacollo,2021,8,Nacidos vivos con peso menor a 2500g,6
+Beni,80301,Reyes,2021,8,Nacidos vivos con peso menor a 2500g,2
+Beni,80201,Riberalta,2021,8,Nacidos vivos con peso menor a 2500g,25
+Beni,80304,Rurrenabaque,2021,8,Nacidos vivos con peso menor a 2500g,5
+Cochabamba,31001,Sacaba,2021,8,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,8,Nacidos vivos con peso menor a 2500g,5
+La Paz,21502,San Buena Ventura,2021,8,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,8,Nacidos vivos con peso menor a 2500g,5
+La Paz,21702,San Pedro De Tiquina,2021,8,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,8,Nacidos vivos con peso menor a 2500g,217
+Chuquisaca,10101,Sucre,2021,8,Nacidos vivos con peso menor a 2500g,20
+Cochabamba,30401,Tarata,2021,8,Nacidos vivos con peso menor a 2500g,1
+Tarija,60101,Tarija,2021,8,Nacidos vivos con peso menor a 2500g,15
+Beni,80101,Trinidad,2021,8,Nacidos vivos con peso menor a 2500g,19
+Potosí,50801,Tupiza,2021,8,Nacidos vivos con peso menor a 2500g,1
+Potosí,50201,Uncia,2021,8,Nacidos vivos con peso menor a 2500g,1
+La Paz,20801,Viacha,2021,8,Nacidos vivos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2021,8,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2021,8,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30904,Vinto,2021,8,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70201,Warnes,2021,8,Nacidos vivos con peso menor a 2500g,2
+Tarija,60301,Yacuiba,2021,8,Nacidos vivos con peso menor a 2500g,2
+La Paz,20201,Achacachi,2021,9,Nacidos vivos con peso menor a 2500g,3
+Tarija,60202,Bermejo,2021,9,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70401,Buena Vista,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,20905,Cairoma,2021,9,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10701,Camargo,2021,9,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2021,9,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,30701,Capinota,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2021,9,Nacidos vivos con peso menor a 2500g,1
+Tarija,60302,Carapari,2021,9,Nacidos vivos con peso menor a 2500g,1
+Oruro,40201,Challapata,2021,9,Nacidos vivos con peso menor a 2500g,2
+Potosí,50202,Chayanta,2021,9,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,9,Nacidos vivos con peso menor a 2500g,12
+Cochabamba,30101,Cochabamba,2021,9,Nacidos vivos con peso menor a 2500g,102
+Cochabamba,31002,Colomi,2021,9,Nacidos vivos con peso menor a 2500g,1
+Potosí,50401,Colquechaca,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,21306,Colquencha,2021,9,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71101,Concepcion,2021,9,Nacidos vivos con peso menor a 2500g,3
+La Paz,20301,Coro Coro,2021,9,Nacidos vivos con peso menor a 2500g,1
+Potosí,50601,Cotagaita,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,20804,Desaguadero,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,9,Nacidos vivos con peso menor a 2500g,80
+Tarija,60601,Entre Rios Trj,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,20405,Escoma,2021,9,Nacidos vivos con peso menor a 2500g,2
+Beni,80202,Guayaramerin,2021,9,Nacidos vivos con peso menor a 2500g,5
+Oruro,40701,Huanuni,2021,9,Nacidos vivos con peso menor a 2500g,8
+La Paz,21102,Irupana (villa De Lanza),2021,9,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70104,La Guardia,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,20101,La Paz,2021,9,Nacidos vivos con peso menor a 2500g,87
+Potosí,50203,Llallagua,2021,9,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10501,Monteagudo,2021,9,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,71001,Montero,2021,9,Nacidos vivos con peso menor a 2500g,6
+Cochabamba,30203,Omereque,2021,9,Nacidos vivos con peso menor a 2500g,1
+Oruro,40101,Oruro,2021,9,Nacidos vivos con peso menor a 2500g,34
+Tarija,60201,Padcaya,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,21305,Patacamaya,2021,9,Nacidos vivos con peso menor a 2500g,1
+Potosí,51203,Porco,2021,9,Nacidos vivos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,9,Nacidos vivos con peso menor a 2500g,30
+Santa Cruz,71401,Puerto Suarez,2021,9,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31205,Puerto Villarroel,2021,9,Nacidos vivos con peso menor a 2500g,7
+Cochabamba,31401,Punata,2021,9,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30901,Quillacollo,2021,9,Nacidos vivos con peso menor a 2500g,1
+Beni,80301,Reyes,2021,9,Nacidos vivos con peso menor a 2500g,3
+Beni,80201,Riberalta,2021,9,Nacidos vivos con peso menor a 2500g,16
+Cochabamba,31001,Sacaba,2021,9,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,9,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,Nacidos vivos con peso menor a 2500g,6
+Tarija,60501,San Lorenzo(tja),2021,9,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10702,San Lucas,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,21702,San Pedro De Tiquina,2021,9,Nacidos vivos con peso menor a 2500g,1
+Beni,80702,San Ramon Beni,2021,9,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71103,San Ramon Scz,2021,9,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,9,Nacidos vivos con peso menor a 2500g,218
+Chuquisaca,10101,Sucre,2021,9,Nacidos vivos con peso menor a 2500g,27
+Cochabamba,31101,Tapacari,2021,9,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10601,Tarabuco,2021,9,Nacidos vivos con peso menor a 2500g,1
+Tarija,60101,Tarija,2021,9,Nacidos vivos con peso menor a 2500g,17
+Potosí,50102,Tinguipaya,2021,9,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30903,Tiquipaya,2021,9,Nacidos vivos con peso menor a 2500g,1
+Beni,80101,Trinidad,2021,9,Nacidos vivos con peso menor a 2500g,19
+Potosí,50801,Tupiza,2021,9,Nacidos vivos con peso menor a 2500g,4
+Santa Cruz,70801,Vallegrande,2021,9,Nacidos vivos con peso menor a 2500g,1
+La Paz,20801,Viacha,2021,9,Nacidos vivos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2021,9,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,31003,Villa Tunari,2021,9,Nacidos vivos con peso menor a 2500g,3
+Potosí,51501,Villazon,2021,9,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70201,Warnes,2021,9,Nacidos vivos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2021,9,Nacidos vivos con peso menor a 2500g,6
+La Paz,20701,Apolo,2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,10,Nacidos vivos con peso menor a 2500g,1
+Pando,90104,Bella Flor,2021,10,Nacidos vivos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2021,10,Nacidos vivos con peso menor a 2500g,1
+Potosí,50301,Betanzos,2021,10,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10701,Camargo,2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2021,10,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30701,Capinota,2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70702,Charagua,2021,10,Nacidos vivos con peso menor a 2500g,3
+La Paz,21101,Chulumani (v. De La Libertad),2021,10,Nacidos vivos con peso menor a 2500g,2
+Pando,90101,Cobija,2021,10,Nacidos vivos con peso menor a 2500g,8
+Cochabamba,30101,Cochabamba,2021,10,Nacidos vivos con peso menor a 2500g,114
+Cochabamba,31002,Colomi,2021,10,Nacidos vivos con peso menor a 2500g,1
+La Paz,21004,Colquiri,2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71101,Concepcion,2021,10,Nacidos vivos con peso menor a 2500g,5
+La Paz,21401,Coroico,2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71106,Cuatro Cañadas,2021,10,Nacidos vivos con peso menor a 2500g,11
+La Paz,20105,El Alto,2021,10,Nacidos vivos con peso menor a 2500g,78
+Santa Cruz,71503,El Puente(stc),2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70105,El Torno,2021,10,Nacidos vivos con peso menor a 2500g,1
+Tarija,60601,Entre Rios Trj,2021,10,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31206,Entre Rios Cbba,2021,10,Nacidos vivos con peso menor a 2500g,1
+La Paz,21601,Gral. J.j. Perez (charazani),2021,10,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,10,Nacidos vivos con peso menor a 2500g,6
+Oruro,40701,Huanuni,2021,10,Nacidos vivos con peso menor a 2500g,2
+La Paz,21501,Ixiamas,2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70104,La Guardia,2021,10,Nacidos vivos con peso menor a 2500g,2
+La Paz,20101,La Paz,2021,10,Nacidos vivos con peso menor a 2500g,110
+Potosí,50203,Llallagua,2021,10,Nacidos vivos con peso menor a 2500g,9
+La Paz,20607,Mapiri,2021,10,Nacidos vivos con peso menor a 2500g,2
+La Paz,20103,Mecapaca,2021,10,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31301,Mizque,2021,10,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10501,Monteagudo,2021,10,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,71001,Montero,2021,10,Nacidos vivos con peso menor a 2500g,8
+Oruro,40101,Oruro,2021,10,Nacidos vivos con peso menor a 2500g,32
+La Paz,21305,Patacamaya,2021,10,Nacidos vivos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,10,Nacidos vivos con peso menor a 2500g,33
+Pando,90201,Puerto Rico,2021,10,Nacidos vivos con peso menor a 2500g,1
+Beni,80703,Puerto Siles,2021,10,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2021,10,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31401,Punata,2021,10,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30901,Quillacollo,2021,10,Nacidos vivos con peso menor a 2500g,8
+Beni,80301,Reyes,2021,10,Nacidos vivos con peso menor a 2500g,1
+Beni,80201,Riberalta,2021,10,Nacidos vivos con peso menor a 2500g,17
+Santa Cruz,70503,Robore,2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71105,San Antonio De Lomerio,2021,10,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,10,Nacidos vivos con peso menor a 2500g,6
+La Paz,21502,San Buena Ventura,2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,10,Nacidos vivos con peso menor a 2500g,7
+Santa Cruz,71104,San Julian,2021,10,Nacidos vivos con peso menor a 2500g,52
+Chuquisaca,10702,San Lucas,2021,10,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,71103,San Ramon Scz,2021,10,Nacidos vivos con peso menor a 2500g,1
+Beni,80401,Santa Ana,2021,10,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,10,Nacidos vivos con peso menor a 2500g,420
+Chuquisaca,10101,Sucre,2021,10,Nacidos vivos con peso menor a 2500g,30
+Cochabamba,31101,Tapacari,2021,10,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10601,Tarabuco,2021,10,Nacidos vivos con peso menor a 2500g,1
+Tarija,60101,Tarija,2021,10,Nacidos vivos con peso menor a 2500g,18
+Cochabamba,30903,Tiquipaya,2021,10,Nacidos vivos con peso menor a 2500g,7
+Beni,80101,Trinidad,2021,10,Nacidos vivos con peso menor a 2500g,24
+Potosí,50801,Tupiza,2021,10,Nacidos vivos con peso menor a 2500g,8
+Potosí,50201,Uncia,2021,10,Nacidos vivos con peso menor a 2500g,1
+Potosí,51201,Uyuni,2021,10,Nacidos vivos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2021,10,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2021,10,Nacidos vivos con peso menor a 2500g,5
+Potosí,51501,Villazon,2021,10,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,30904,Vinto,2021,10,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70201,Warnes,2021,10,Nacidos vivos con peso menor a 2500g,2
+Tarija,60301,Yacuiba,2021,10,Nacidos vivos con peso menor a 2500g,5
+Santa Cruz,70403,Yapacani,2021,10,Nacidos vivos con peso menor a 2500g,6
+Chuquisaca,10301,Zudañez,2021,10,Nacidos vivos con peso menor a 2500g,1
+La Paz,20201,Achacachi,2021,11,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,30201,Aiquile,2021,11,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,11,Nacidos vivos con peso menor a 2500g,1
+Pando,90104,Bella Flor,2021,11,Nacidos vivos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2021,11,Nacidos vivos con peso menor a 2500g,1
+La Paz,21003,Cajuata,2021,11,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10701,Camargo,2021,11,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,70706,Camiri,2021,11,Nacidos vivos con peso menor a 2500g,1
+Oruro,40102,Caracollo,2021,11,Nacidos vivos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2021,11,Nacidos vivos con peso menor a 2500g,2
+Oruro,40201,Challapata,2021,11,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70702,Charagua,2021,11,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,30801,Cliza,2021,11,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,11,Nacidos vivos con peso menor a 2500g,5
+Cochabamba,30101,Cochabamba,2021,11,Nacidos vivos con peso menor a 2500g,78
+Cochabamba,31002,Colomi,2021,11,Nacidos vivos con peso menor a 2500g,1
+Potosí,50401,Colquechaca,2021,11,Nacidos vivos con peso menor a 2500g,1
+La Paz,21004,Colquiri,2021,11,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71101,Concepcion,2021,11,Nacidos vivos con peso menor a 2500g,1
+La Paz,21401,Coroico,2021,11,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71106,Cuatro Cañadas,2021,11,Nacidos vivos con peso menor a 2500g,2
+La Paz,20804,Desaguadero,2021,11,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,11,Nacidos vivos con peso menor a 2500g,60
+Santa Cruz,70105,El Torno,2021,11,Nacidos vivos con peso menor a 2500g,1
+Tarija,60601,Entre Rios Trj,2021,11,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31206,Entre Rios Cbba,2021,11,Nacidos vivos con peso menor a 2500g,1
+Pando,90203,Filadelfia,2021,11,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,11,Nacidos vivos con peso menor a 2500g,8
+Oruro,40701,Huanuni,2021,11,Nacidos vivos con peso menor a 2500g,2
+Chuquisaca,10703,Incahuasi,2021,11,Nacidos vivos con peso menor a 2500g,1
+La Paz,21102,Irupana (villa De Lanza),2021,11,Nacidos vivos con peso menor a 2500g,1
+La Paz,21501,Ixiamas,2021,11,Nacidos vivos con peso menor a 2500g,1
+La Paz,21105,La Asunta,2021,11,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70104,La Guardia,2021,11,Nacidos vivos con peso menor a 2500g,3
+La Paz,20101,La Paz,2021,11,Nacidos vivos con peso menor a 2500g,119
+Santa Cruz,70701,Lagunillas,2021,11,Nacidos vivos con peso menor a 2500g,1
+Potosí,50203,Llallagua,2021,11,Nacidos vivos con peso menor a 2500g,5
+La Paz,20901,Luribay,2021,11,Nacidos vivos con peso menor a 2500g,1
+La Paz,20103,Mecapaca,2021,11,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71003,Mineros,2021,11,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10501,Monteagudo,2021,11,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2021,11,Nacidos vivos con peso menor a 2500g,6
+Oruro,40101,Oruro,2021,11,Nacidos vivos con peso menor a 2500g,34
+La Paz,21802,Papel Pampa,2021,11,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70601,Portachuelo,2021,11,Nacidos vivos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,11,Nacidos vivos con peso menor a 2500g,26
+Cochabamba,31205,Puerto Villarroel,2021,11,Nacidos vivos con peso menor a 2500g,4
+Cochabamba,31401,Punata,2021,11,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30901,Quillacollo,2021,11,Nacidos vivos con peso menor a 2500g,8
+La Paz,21002,Quime,2021,11,Nacidos vivos con peso menor a 2500g,1
+Beni,80201,Riberalta,2021,11,Nacidos vivos con peso menor a 2500g,21
+Santa Cruz,70503,Robore,2021,11,Nacidos vivos con peso menor a 2500g,2
+Beni,80304,Rurrenabaque,2021,11,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31001,Sacaba,2021,11,Nacidos vivos con peso menor a 2500g,1
+Oruro,40801,Salinas De Garci Mendoza,2021,11,Nacidos vivos con peso menor a 2500g,1
+Beni,80302,San Borja,2021,11,Nacidos vivos con peso menor a 2500g,2
+La Paz,21502,San Buena Ventura,2021,11,Nacidos vivos con peso menor a 2500g,4
+Santa Cruz,70301,San Ignacio De Velasco,2021,11,Nacidos vivos con peso menor a 2500g,11
+Potosí,50405,San Pedro De Macha,2021,11,Nacidos vivos con peso menor a 2500g,1
+Beni,80401,Santa Ana,2021,11,Nacidos vivos con peso menor a 2500g,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,Nacidos vivos con peso menor a 2500g,181
+La Paz,21901,Santiago De Machaca,2021,11,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31602,Shinaota,2021,11,Nacidos vivos con peso menor a 2500g,2
+Chuquisaca,10101,Sucre,2021,11,Nacidos vivos con peso menor a 2500g,31
+Tarija,60101,Tarija,2021,11,Nacidos vivos con peso menor a 2500g,19
+Cochabamba,30903,Tiquipaya,2021,11,Nacidos vivos con peso menor a 2500g,1
+Beni,80101,Trinidad,2021,11,Nacidos vivos con peso menor a 2500g,12
+Tarija,60303,Villa Montes,2021,11,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2021,11,Nacidos vivos con peso menor a 2500g,2
+Potosí,51501,Villazon,2021,11,Nacidos vivos con peso menor a 2500g,4
+Santa Cruz,70201,Warnes,2021,11,Nacidos vivos con peso menor a 2500g,3
+Tarija,60301,Yacuiba,2021,11,Nacidos vivos con peso menor a 2500g,5
+Santa Cruz,70403,Yapacani,2021,11,Nacidos vivos con peso menor a 2500g,2
+La Paz,20201,Achacachi,2021,12,Nacidos vivos con peso menor a 2500g,1
+Potosí,51301,Arampampa,2021,12,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,12,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,12,Nacidos vivos con peso menor a 2500g,1
+La Paz,21203,Batallas,2021,12,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10701,Camargo,2021,12,Nacidos vivos con peso menor a 2500g,2
+La Paz,22001,Caranavi,2021,12,Nacidos vivos con peso menor a 2500g,2
+Oruro,40201,Challapata,2021,12,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70702,Charagua,2021,12,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,30801,Cliza,2021,12,Nacidos vivos con peso menor a 2500g,1
+Pando,90101,Cobija,2021,12,Nacidos vivos con peso menor a 2500g,10
+Cochabamba,30101,Cochabamba,2021,12,Nacidos vivos con peso menor a 2500g,86
+Santa Cruz,71101,Concepcion,2021,12,Nacidos vivos con peso menor a 2500g,1
+Potosí,50601,Cotagaita,2021,12,Nacidos vivos con peso menor a 2500g,1
+Oruro,40401,Curahuara De Carangas,2021,12,Nacidos vivos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,12,Nacidos vivos con peso menor a 2500g,84
+Santa Cruz,70105,El Torno,2021,12,Nacidos vivos con peso menor a 2500g,2
+Cochabamba,31206,Entre Rios Cbba,2021,12,Nacidos vivos con peso menor a 2500g,1
+La Paz,20405,Escoma,2021,12,Nacidos vivos con peso menor a 2500g,2
+Oruro,40505,Esmeralda,2021,12,Nacidos vivos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2021,12,Nacidos vivos con peso menor a 2500g,6
+Chuquisaca,10502,Huacareta,2021,12,Nacidos vivos con peso menor a 2500g,1
+Oruro,40701,Huanuni,2021,12,Nacidos vivos con peso menor a 2500g,6
+La Paz,20101,La Paz,2021,12,Nacidos vivos con peso menor a 2500g,125
+Potosí,50203,Llallagua,2021,12,Nacidos vivos con peso menor a 2500g,3
+Cochabamba,31301,Mizque,2021,12,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10501,Monteagudo,2021,12,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,71001,Montero,2021,12,Nacidos vivos con peso menor a 2500g,4
+Oruro,40101,Oruro,2021,12,Nacidos vivos con peso menor a 2500g,79
+La Paz,21104,Palos Blancos,2021,12,Nacidos vivos con peso menor a 2500g,1
+La Paz,21305,Patacamaya,2021,12,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70601,Portachuelo,2021,12,Nacidos vivos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,12,Nacidos vivos con peso menor a 2500g,31
+Cochabamba,31205,Puerto Villarroel,2021,12,Nacidos vivos con peso menor a 2500g,4
+Cochabamba,31401,Punata,2021,12,Nacidos vivos con peso menor a 2500g,6
+Cochabamba,30901,Quillacollo,2021,12,Nacidos vivos con peso menor a 2500g,2
+Beni,80301,Reyes,2021,12,Nacidos vivos con peso menor a 2500g,1
+Beni,80201,Riberalta,2021,12,Nacidos vivos con peso menor a 2500g,22
+La Paz,21502,San Buena Ventura,2021,12,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,12,Nacidos vivos con peso menor a 2500g,8
+Santa Cruz,70404,San Juan De Yapacani,2021,12,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,71104,San Julian,2021,12,Nacidos vivos con peso menor a 2500g,1
+Santa Cruz,70302,San Miguel De Velasco,2021,12,Nacidos vivos con peso menor a 2500g,1
+Potosí,51001,San Pablo De Lipez,2021,12,Nacidos vivos con peso menor a 2500g,2
+Santa Cruz,71005,San Pedro,2021,12,Nacidos vivos con peso menor a 2500g,1
+Potosí,50501,San Pedro De Buena Vista,2021,12,Nacidos vivos con peso menor a 2500g,1
+La Paz,21702,San Pedro De Tiquina,2021,12,Nacidos vivos con peso menor a 2500g,1
+Beni,80401,Santa Ana,2021,12,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,12,Nacidos vivos con peso menor a 2500g,211
+Cochabamba,31602,Shinaota,2021,12,Nacidos vivos con peso menor a 2500g,2
+Chuquisaca,10101,Sucre,2021,12,Nacidos vivos con peso menor a 2500g,30
+Tarija,60101,Tarija,2021,12,Nacidos vivos con peso menor a 2500g,23
+La Paz,20608,Teoponte,2021,12,Nacidos vivos con peso menor a 2500g,1
+La Paz,20606,Tipuani,2021,12,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,30903,Tiquipaya,2021,12,Nacidos vivos con peso menor a 2500g,2
+Beni,80101,Trinidad,2021,12,Nacidos vivos con peso menor a 2500g,9
+Potosí,50801,Tupiza,2021,12,Nacidos vivos con peso menor a 2500g,3
+Santa Cruz,71502,Urubicha,2021,12,Nacidos vivos con peso menor a 2500g,1
+Chuquisaca,10704,Villa Charcas,2021,12,Nacidos vivos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2021,12,Nacidos vivos con peso menor a 2500g,6
+Potosí,51501,Villazon,2021,12,Nacidos vivos con peso menor a 2500g,6
+Santa Cruz,70201,Warnes,2021,12,Nacidos vivos con peso menor a 2500g,3
+Tarija,60301,Yacuiba,2021,12,Nacidos vivos con peso menor a 2500g,6
+Santa Cruz,70403,Yapacani,2021,12,Nacidos vivos con peso menor a 2500g,5
+Potosí,51302,Acacio,2021,1,TOTAL,1
+La Paz,20201,Achacachi,2021,1,TOTAL,2
+Cochabamba,30201,Aiquile,2021,1,TOTAL,2
+La Paz,22002,Alto Beni,2021,1,TOTAL,1
+Oruro,41201,Andamarca,2021,1,TOTAL,2
+Potosí,50802,Atocha,2021,1,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,1,TOTAL,1
+Chuquisaca,10201,Azurduy,2021,1,TOTAL,2
+Beni,80802,Baures,2021,1,TOTAL,1
+Tarija,60202,Bermejo,2021,1,TOTAL,1
+La Paz,21003,Cajuata,2021,1,TOTAL,1
+Cochabamba,30701,Capinota,2021,1,TOTAL,1
+La Paz,22001,Caranavi,2021,1,TOTAL,1
+Oruro,40201,Challapata,2021,1,TOTAL,1
+Santa Cruz,70702,Charagua,2021,1,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2021,1,TOTAL,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,1,TOTAL,1
+Cochabamba,30801,Cliza,2021,1,TOTAL,1
+Pando,90101,Cobija,2021,1,TOTAL,6
+Cochabamba,30101,Cochabamba,2021,1,TOTAL,56
+Cochabamba,31002,Colomi,2021,1,TOTAL,2
+Potosí,50401,Colquechaca,2021,1,TOTAL,1
+La Paz,21004,Colquiri,2021,1,TOTAL,1
+La Paz,20105,El Alto,2021,1,TOTAL,46
+Cochabamba,31206,Entre Rios Cbba,2021,1,TOTAL,1
+Beni,80202,Guayaramerin,2021,1,TOTAL,4
+La Paz,21102,Irupana (villa De Lanza),2021,1,TOTAL,1
+La Paz,20101,La Paz,2021,1,TOTAL,76
+Potosí,50203,Llallagua,2021,1,TOTAL,5
+Chuquisaca,10501,Monteagudo,2021,1,TOTAL,1
+Santa Cruz,71001,Montero,2021,1,TOTAL,10
+Oruro,40101,Oruro,2021,1,TOTAL,25
+Tarija,60201,Padcaya,2021,1,TOTAL,1
+La Paz,21104,Palos Blancos,2021,1,TOTAL,1
+Oruro,40802,Pampa Aullagas,2021,1,TOTAL,1
+La Paz,21305,Patacamaya,2021,1,TOTAL,2
+Potosí,50101,Potosi,2021,1,TOTAL,29
+Santa Cruz,71401,Puerto Suarez,2021,1,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,1,TOTAL,2
+Cochabamba,31401,Punata,2021,1,TOTAL,1
+Cochabamba,30901,Quillacollo,2021,1,TOTAL,2
+Beni,80201,Riberalta,2021,1,TOTAL,23
+Cochabamba,31001,Sacaba,2021,1,TOTAL,1
+Beni,80302,San Borja,2021,1,TOTAL,4
+La Paz,21502,San Buena Ventura,2021,1,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,1,TOTAL,8
+Santa Cruz,71102,San Javier(stc),2021,1,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2021,1,TOTAL,2
+Santa Cruz,71201,San Matias,2021,1,TOTAL,14
+Santa Cruz,70302,San Miguel De Velasco,2021,1,TOTAL,1
+Santa Cruz,71005,San Pedro,2021,1,TOTAL,1
+Santa Cruz,70303,San Rafael,2021,1,TOTAL,1
+Beni,80401,Santa Ana,2021,1,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,1,TOTAL,176
+Chuquisaca,10403,Sopachuy,2021,1,TOTAL,1
+Chuquisaca,10101,Sucre,2021,1,TOTAL,24
+Tarija,60101,Tarija,2021,1,TOTAL,11
+Chuquisaca,10202,Tarvita,2021,1,TOTAL,1
+Cochabamba,30802,Toco,2021,1,TOTAL,1
+Beni,80101,Trinidad,2021,1,TOTAL,8
+Potosí,50801,Tupiza,2021,1,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2021,1,TOTAL,1
+Tarija,60303,Villa Montes,2021,1,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,1,TOTAL,7
+Potosí,51501,Villazon,2021,1,TOTAL,2
+Cochabamba,30904,Vinto,2021,1,TOTAL,3
+Santa Cruz,70201,Warnes,2021,1,TOTAL,2
+Tarija,60301,Yacuiba,2021,1,TOTAL,4
+Santa Cruz,70403,Yapacani,2021,1,TOTAL,1
+La Paz,20201,Achacachi,2021,2,TOTAL,1
+Cochabamba,30201,Aiquile,2021,2,TOTAL,1
+Tarija,60202,Bermejo,2021,2,TOTAL,1
+Cochabamba,31501,Bolivar,2021,2,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,2,TOTAL,4
+Potosí,51102,"Caiza ""d""",2021,2,TOTAL,1
+Santa Cruz,70706,Camiri,2021,2,TOTAL,3
+Oruro,40102,Caracollo,2021,2,TOTAL,1
+Oruro,40201,Challapata,2021,2,TOTAL,2
+Santa Cruz,70702,Charagua,2021,2,TOTAL,4
+La Paz,20305,Charaña,2021,2,TOTAL,1
+Cochabamba,30801,Cliza,2021,2,TOTAL,1
+Pando,90101,Cobija,2021,2,TOTAL,5
+Cochabamba,30101,Cochabamba,2021,2,TOTAL,64
+La Paz,21701,Copacabana,2021,2,TOTAL,1
+La Paz,21401,Coroico,2021,2,TOTAL,1
+Potosí,50601,Cotagaita,2021,2,TOTAL,1
+La Paz,20105,El Alto,2021,2,TOTAL,58
+Oruro,40103,El Choro,2021,2,TOTAL,1
+Tarija,60601,Entre Rios Trj,2021,2,TOTAL,1
+Santa Cruz,71002,General Saavedra,2021,2,TOTAL,1
+Beni,80202,Guayaramerin,2021,2,TOTAL,1
+La Paz,20206,Huatajata,2021,2,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2021,2,TOTAL,1
+La Paz,20101,La Paz,2021,2,TOTAL,87
+Potosí,50203,Llallagua,2021,2,TOTAL,1
+La Paz,20607,Mapiri,2021,2,TOTAL,1
+La Paz,20103,Mecapaca,2021,2,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,2,TOTAL,1
+Santa Cruz,71001,Montero,2021,2,TOTAL,2
+Pando,90401,Nacebe (santa Rosa Del Abuna),2021,2,TOTAL,1
+Oruro,40101,Oruro,2021,2,TOTAL,25
+Chuquisaca,10401,Padilla,2021,2,TOTAL,1
+La Paz,21104,Palos Blancos,2021,2,TOTAL,2
+Cochabamba,31202,Pojo (cbba),2021,2,TOTAL,1
+Santa Cruz,70103,Porongo,2021,2,TOTAL,1
+Potosí,50101,Potosi,2021,2,TOTAL,25
+Santa Cruz,71401,Puerto Suarez,2021,2,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2021,2,TOTAL,2
+Cochabamba,31401,Punata,2021,2,TOTAL,1
+Cochabamba,30901,Quillacollo,2021,2,TOTAL,2
+Beni,80201,Riberalta,2021,2,TOTAL,12
+Beni,80304,Rurrenabaque,2021,2,TOTAL,3
+Cochabamba,31001,Sacaba,2021,2,TOTAL,1
+Beni,80302,San Borja,2021,2,TOTAL,4
+La Paz,21502,San Buena Ventura,2021,2,TOTAL,1
+Beni,80501,San Ignacio,2021,2,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2021,2,TOTAL,6
+Chuquisaca,10702,San Lucas,2021,2,TOTAL,2
+Santa Cruz,71005,San Pedro,2021,2,TOTAL,1
+Beni,80401,Santa Ana,2021,2,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,2,TOTAL,193
+La Paz,20308,Santiago De Callapa,2021,2,TOTAL,1
+Oruro,41401,Santiago De Huari,2021,2,TOTAL,1
+Chuquisaca,10101,Sucre,2021,2,TOTAL,17
+Tarija,60101,Tarija,2021,2,TOTAL,15
+Cochabamba,30903,Tiquipaya,2021,2,TOTAL,2
+Beni,80101,Trinidad,2021,2,TOTAL,10
+Potosí,50801,Tupiza,2021,2,TOTAL,1
+Santa Cruz,70801,Vallegrande,2021,2,TOTAL,6
+Tarija,60303,Villa Montes,2021,2,TOTAL,6
+Cochabamba,31003,Villa Tunari,2021,2,TOTAL,2
+Cochabamba,30904,Vinto,2021,2,TOTAL,1
+Santa Cruz,70201,Warnes,2021,2,TOTAL,1
+Tarija,60301,Yacuiba,2021,2,TOTAL,4
+Cochabamba,30201,Aiquile,2021,3,TOTAL,2
+La Paz,22002,Alto Beni,2021,3,TOTAL,1
+Cochabamba,30501,Arani,2021,3,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,3,TOTAL,2
+Santa Cruz,70703,Cabezas,2021,3,TOTAL,1
+Santa Cruz,70706,Camiri,2021,3,TOTAL,2
+Cochabamba,30701,Capinota,2021,3,TOTAL,1
+La Paz,22001,Caranavi,2021,3,TOTAL,2
+Oruro,40201,Challapata,2021,3,TOTAL,2
+Santa Cruz,70702,Charagua,2021,3,TOTAL,1
+Cochabamba,31204,Chimore,2021,3,TOTAL,1
+La Paz,20203,Chua Cocani,2021,3,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2021,3,TOTAL,1
+Pando,90101,Cobija,2021,3,TOTAL,13
+Cochabamba,30303,Cocapata,2021,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2021,3,TOTAL,73
+Potosí,50401,Colquechaca,2021,3,TOTAL,1
+Santa Cruz,71301,Comarapa,2021,3,TOTAL,1
+La Paz,21401,Coroico,2021,3,TOTAL,2
+La Paz,20804,Desaguadero,2021,3,TOTAL,1
+La Paz,20105,El Alto,2021,3,TOTAL,58
+Santa Cruz,70105,El Torno,2021,3,TOTAL,2
+Tarija,60601,Entre Rios Trj,2021,3,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2021,3,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2021,3,TOTAL,1
+Beni,80202,Guayaramerin,2021,3,TOTAL,3
+Chuquisaca,10502,Huacareta,2021,3,TOTAL,1
+Oruro,40701,Huanuni,2021,3,TOTAL,1
+Pando,90402,Ingavi (humaita),2021,3,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2021,3,TOTAL,1
+La Paz,20101,La Paz,2021,3,TOTAL,102
+Potosí,50203,Llallagua,2021,3,TOTAL,3
+La Paz,20607,Mapiri,2021,3,TOTAL,1
+Santa Cruz,71003,Mineros,2021,3,TOTAL,1
+Cochabamba,31301,Mizque,2021,3,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,3,TOTAL,1
+Santa Cruz,71001,Montero,2021,3,TOTAL,10
+Santa Cruz,70803,Moro Moro,2021,3,TOTAL,1
+Oruro,40101,Oruro,2021,3,TOTAL,43
+Chuquisaca,10103,Poroma,2021,3,TOTAL,1
+Santa Cruz,70601,Portachuelo,2021,3,TOTAL,1
+Potosí,50101,Potosi,2021,3,TOTAL,24
+Santa Cruz,71401,Puerto Suarez,2021,3,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,3,TOTAL,6
+Cochabamba,31401,Punata,2021,3,TOTAL,1
+Beni,80201,Riberalta,2021,3,TOTAL,10
+Potosí,50701,Sacaca,2021,3,TOTAL,1
+Beni,80302,San Borja,2021,3,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2021,3,TOTAL,8
+Chuquisaca,10702,San Lucas,2021,3,TOTAL,2
+Santa Cruz,71005,San Pedro,2021,3,TOTAL,2
+La Paz,21702,San Pedro De Tiquina,2021,3,TOTAL,1
+Beni,80401,Santa Ana,2021,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,TOTAL,202
+Cochabamba,31602,Shinaota,2021,3,TOTAL,1
+Chuquisaca,10101,Sucre,2021,3,TOTAL,23
+Chuquisaca,10601,Tarabuco,2021,3,TOTAL,1
+Tarija,60101,Tarija,2021,3,TOTAL,13
+Cochabamba,30903,Tiquipaya,2021,3,TOTAL,2
+Potosí,50502,Toro Toro,2021,3,TOTAL,1
+Beni,80101,Trinidad,2021,3,TOTAL,11
+Potosí,50801,Tupiza,2021,3,TOTAL,5
+Potosí,51201,Uyuni,2021,3,TOTAL,2
+Tarija,60303,Villa Montes,2021,3,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,3,TOTAL,4
+Potosí,51501,Villazon,2021,3,TOTAL,2
+Santa Cruz,70201,Warnes,2021,3,TOTAL,6
+Tarija,60301,Yacuiba,2021,3,TOTAL,3
+Santa Cruz,70403,Yapacani,2021,3,TOTAL,1
+La Paz,20201,Achacachi,2021,4,TOTAL,5
+La Paz,20701,Apolo,2021,4,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,4,TOTAL,3
+Tarija,60202,Bermejo,2021,4,TOTAL,2
+Santa Cruz,70707,Boyuibe,2021,4,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,4,TOTAL,1
+Santa Cruz,70706,Camiri,2021,4,TOTAL,2
+Cochabamba,30701,Capinota,2021,4,TOTAL,1
+La Paz,22001,Caranavi,2021,4,TOTAL,4
+Santa Cruz,71403,Carmen Rivero Torrez,2021,4,TOTAL,1
+Oruro,40201,Challapata,2021,4,TOTAL,1
+Santa Cruz,70702,Charagua,2021,4,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2021,4,TOTAL,2
+Pando,90101,Cobija,2021,4,TOTAL,7
+Cochabamba,30101,Cochabamba,2021,4,TOTAL,87
+Cochabamba,31002,Colomi,2021,4,TOTAL,1
+Potosí,50401,Colquechaca,2021,4,TOTAL,1
+La Paz,21004,Colquiri,2021,4,TOTAL,2
+La Paz,21402,Coripata,2021,4,TOTAL,1
+La Paz,21401,Coroico,2021,4,TOTAL,1
+Potosí,50601,Cotagaita,2021,4,TOTAL,1
+Chuquisaca,10902,Culpina,2021,4,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2021,4,TOTAL,1
+La Paz,20105,El Alto,2021,4,TOTAL,55
+Santa Cruz,71503,El Puente(stc),2021,4,TOTAL,1
+Santa Cruz,70105,El Torno,2021,4,TOTAL,1
+Santa Cruz,71002,General Saavedra,2021,4,TOTAL,1
+Beni,80202,Guayaramerin,2021,4,TOTAL,6
+Chuquisaca,10502,Huacareta,2021,4,TOTAL,1
+Oruro,40701,Huanuni,2021,4,TOTAL,1
+Pando,90402,Ingavi (humaita),2021,4,TOTAL,1
+La Paz,20101,La Paz,2021,4,TOTAL,95
+Potosí,50203,Llallagua,2021,4,TOTAL,2
+La Paz,20607,Mapiri,2021,4,TOTAL,1
+Santa Cruz,71003,Mineros,2021,4,TOTAL,1
+Santa Cruz,71001,Montero,2021,4,TOTAL,19
+Oruro,40101,Oruro,2021,4,TOTAL,26
+La Paz,21305,Patacamaya,2021,4,TOTAL,1
+Oruro,40602,Pazña,2021,4,TOTAL,1
+Potosí,50101,Potosi,2021,4,TOTAL,33
+Chuquisaca,10302,Presto,2021,4,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,4,TOTAL,4
+Cochabamba,31401,Punata,2021,4,TOTAL,2
+Cochabamba,30901,Quillacollo,2021,4,TOTAL,2
+Potosí,50402,Ravelo,2021,4,TOTAL,1
+Beni,80301,Reyes,2021,4,TOTAL,1
+Beni,80201,Riberalta,2021,4,TOTAL,20
+Santa Cruz,70901,Samaipata,2021,4,TOTAL,1
+Beni,80302,San Borja,2021,4,TOTAL,6
+Beni,80501,San Ignacio,2021,4,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2021,4,TOTAL,3
+Chuquisaca,10702,San Lucas,2021,4,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2021,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,TOTAL,199
+La Paz,20902,Sapahaqui,2021,4,TOTAL,1
+Pando,90303,Sena,2021,4,TOTAL,1
+Chuquisaca,10101,Sucre,2021,4,TOTAL,22
+Tarija,60101,Tarija,2021,4,TOTAL,12
+Chuquisaca,10202,Tarvita,2021,4,TOTAL,2
+Cochabamba,30903,Tiquipaya,2021,4,TOTAL,1
+Cochabamba,31201,Totora(cbba),2021,4,TOTAL,1
+Beni,80101,Trinidad,2021,4,TOTAL,14
+Potosí,50801,Tupiza,2021,4,TOTAL,2
+Santa Cruz,70801,Vallegrande,2021,4,TOTAL,1
+La Paz,20801,Viacha,2021,4,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,4,TOTAL,3
+Potosí,51501,Villazon,2021,4,TOTAL,2
+Cochabamba,30904,Vinto,2021,4,TOTAL,1
+Santa Cruz,70201,Warnes,2021,4,TOTAL,2
+Tarija,60301,Yacuiba,2021,4,TOTAL,7
+Santa Cruz,70403,Yapacani,2021,4,TOTAL,1
+La Paz,20201,Achacachi,2021,5,TOTAL,1
+La Paz,20104,Achocalla,2021,5,TOTAL,2
+La Paz,20701,Apolo,2021,5,TOTAL,1
+Cochabamba,30501,Arani,2021,5,TOTAL,1
+Potosí,50802,Atocha,2021,5,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,5,TOTAL,1
+La Paz,21203,Batallas,2021,5,TOTAL,1
+Tarija,60202,Bermejo,2021,5,TOTAL,1
+Potosí,50301,Betanzos,2021,5,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,5,TOTAL,1
+Chuquisaca,10701,Camargo,2021,5,TOTAL,4
+La Paz,22001,Caranavi,2021,5,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2021,5,TOTAL,1
+Pando,90101,Cobija,2021,5,TOTAL,10
+Cochabamba,30101,Cochabamba,2021,5,TOTAL,70
+La Paz,21701,Copacabana,2021,5,TOTAL,1
+La Paz,20301,Coro Coro,2021,5,TOTAL,1
+La Paz,20105,El Alto,2021,5,TOTAL,71
+Chuquisaca,10405,El Villar,2021,5,TOTAL,1
+Beni,80202,Guayaramerin,2021,5,TOTAL,11
+Oruro,40701,Huanuni,2021,5,TOTAL,3
+Oruro,41601,Huayllamarca,2021,5,TOTAL,2
+Santa Cruz,70104,La Guardia,2021,5,TOTAL,1
+La Paz,20101,La Paz,2021,5,TOTAL,86
+Potosí,50203,Llallagua,2021,5,TOTAL,4
+Santa Cruz,70903,Mairana,2021,5,TOTAL,1
+Santa Cruz,71003,Mineros,2021,5,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,5,TOTAL,1
+Santa Cruz,71001,Montero,2021,5,TOTAL,8
+Oruro,40101,Oruro,2021,5,TOTAL,78
+Chuquisaca,10401,Padilla,2021,5,TOTAL,2
+La Paz,21305,Patacamaya,2021,5,TOTAL,4
+Santa Cruz,70103,Porongo,2021,5,TOTAL,4
+Potosí,50101,Potosi,2021,5,TOTAL,22
+Pando,90201,Puerto Rico,2021,5,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,5,TOTAL,5
+Cochabamba,31401,Punata,2021,5,TOTAL,5
+Beni,80201,Riberalta,2021,5,TOTAL,30
+Santa Cruz,71105,San Antonio De Lomerio,2021,5,TOTAL,1
+Beni,80302,San Borja,2021,5,TOTAL,1
+La Paz,21502,San Buena Ventura,2021,5,TOTAL,2
+Santa Cruz,70402,San Carlos,2021,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,5,TOTAL,7
+Santa Cruz,70501,San Jose De Chiquitos,2021,5,TOTAL,1
+Santa Cruz,71104,San Julian,2021,5,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,5,TOTAL,1
+Santa Cruz,71005,San Pedro,2021,5,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2021,5,TOTAL,1
+Beni,80401,Santa Ana,2021,5,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,TOTAL,440
+Cochabamba,31602,Shinaota,2021,5,TOTAL,1
+Cochabamba,30703,Sicaya,2021,5,TOTAL,1
+Chuquisaca,10101,Sucre,2021,5,TOTAL,19
+Cochabamba,30401,Tarata,2021,5,TOTAL,1
+Tarija,60101,Tarija,2021,5,TOTAL,16
+Beni,80101,Trinidad,2021,5,TOTAL,13
+Potosí,50801,Tupiza,2021,5,TOTAL,4
+Potosí,51201,Uyuni,2021,5,TOTAL,1
+La Paz,20801,Viacha,2021,5,TOTAL,1
+Tarija,60303,Villa Montes,2021,5,TOTAL,1
+Cochabamba,31003,Villa Tunari,2021,5,TOTAL,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2021,5,TOTAL,1
+Potosí,51501,Villazon,2021,5,TOTAL,4
+Cochabamba,30904,Vinto,2021,5,TOTAL,1
+Santa Cruz,70201,Warnes,2021,5,TOTAL,3
+Tarija,60301,Yacuiba,2021,5,TOTAL,7
+Santa Cruz,70403,Yapacani,2021,5,TOTAL,1
+Potosí,50103,Yocalla,2021,5,TOTAL,1
+Potosí,51302,Acacio,2021,6,TOTAL,1
+La Paz,20701,Apolo,2021,6,TOTAL,4
+Cochabamba,30601,Arque,2021,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,6,TOTAL,1
+Tarija,60202,Bermejo,2021,6,TOTAL,2
+Chuquisaca,10701,Camargo,2021,6,TOTAL,1
+La Paz,22001,Caranavi,2021,6,TOTAL,1
+Oruro,40201,Challapata,2021,6,TOTAL,1
+Cochabamba,30801,Cliza,2021,6,TOTAL,1
+Pando,90101,Cobija,2021,6,TOTAL,7
+Cochabamba,30101,Cochabamba,2021,6,TOTAL,71
+Cochabamba,30905,Colcapirhua,2021,6,TOTAL,1
+Santa Cruz,71101,Concepcion,2021,6,TOTAL,4
+Santa Cruz,70102,Cotoca,2021,6,TOTAL,1
+Chuquisaca,10902,Culpina,2021,6,TOTAL,1
+La Paz,20105,El Alto,2021,6,TOTAL,66
+Cochabamba,31206,Entre Rios Cbba,2021,6,TOTAL,1
+Pando,90203,Filadelfia,2021,6,TOTAL,1
+Santa Cruz,71002,General Saavedra,2021,6,TOTAL,1
+La Paz,20602,Guanay,2021,6,TOTAL,1
+Beni,80202,Guayaramerin,2021,6,TOTAL,5
+Chuquisaca,10502,Huacareta,2021,6,TOTAL,1
+Oruro,40701,Huanuni,2021,6,TOTAL,5
+La Paz,20101,La Paz,2021,6,TOTAL,81
+Potosí,50203,Llallagua,2021,6,TOTAL,2
+Potosí,51401,Llica,2021,6,TOTAL,1
+Beni,80801,Magdalena,2021,6,TOTAL,1
+Santa Cruz,71001,Montero,2021,6,TOTAL,7
+Oruro,40101,Oruro,2021,6,TOTAL,105
+La Paz,21305,Patacamaya,2021,6,TOTAL,1
+Potosí,51203,Porco,2021,6,TOTAL,1
+Santa Cruz,70103,Porongo,2021,6,TOTAL,1
+Potosí,50101,Potosi,2021,6,TOTAL,31
+La Paz,21201,Pucarani,2021,6,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2021,6,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,6,TOTAL,6
+Cochabamba,31401,Punata,2021,6,TOTAL,2
+Cochabamba,30901,Quillacollo,2021,6,TOTAL,2
+Potosí,50402,Ravelo,2021,6,TOTAL,2
+Beni,80301,Reyes,2021,6,TOTAL,2
+Beni,80201,Riberalta,2021,6,TOTAL,23
+Santa Cruz,71302,Saipina,2021,6,TOTAL,1
+Oruro,40801,Salinas De Garci Mendoza,2021,6,TOTAL,1
+Beni,80302,San Borja,2021,6,TOTAL,2
+La Paz,21502,San Buena Ventura,2021,6,TOTAL,1
+Santa Cruz,70402,San Carlos,2021,6,TOTAL,2
+Beni,80501,San Ignacio,2021,6,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2021,6,TOTAL,6
+Santa Cruz,70302,San Miguel De Velasco,2021,6,TOTAL,2
+Beni,80401,Santa Ana,2021,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,TOTAL,207
+Chuquisaca,10101,Sucre,2021,6,TOTAL,18
+Potosí,50303,Tacobamba,2021,6,TOTAL,1
+Tarija,60101,Tarija,2021,6,TOTAL,16
+Cochabamba,30903,Tiquipaya,2021,6,TOTAL,1
+Beni,80101,Trinidad,2021,6,TOTAL,20
+Potosí,50801,Tupiza,2021,6,TOTAL,2
+Santa Cruz,70801,Vallegrande,2021,6,TOTAL,1
+La Paz,20801,Viacha,2021,6,TOTAL,1
+Tarija,60303,Villa Montes,2021,6,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,6,TOTAL,2
+Potosí,51501,Villazon,2021,6,TOTAL,3
+Cochabamba,30904,Vinto,2021,6,TOTAL,1
+La Paz,20306,Waldo Ballivian,2021,6,TOTAL,1
+Santa Cruz,70201,Warnes,2021,6,TOTAL,3
+Tarija,60301,Yacuiba,2021,6,TOTAL,8
+Santa Cruz,70403,Yapacani,2021,6,TOTAL,1
+Chuquisaca,10301,Zudañez,2021,6,TOTAL,1
+La Paz,20201,Achacachi,2021,7,TOTAL,2
+La Paz,21303,Ayo Ayo,2021,7,TOTAL,1
+La Paz,21203,Batallas,2021,7,TOTAL,1
+La Paz,21003,Cajuata,2021,7,TOTAL,1
+La Paz,22001,Caranavi,2021,7,TOTAL,6
+La Paz,21101,Chulumani (v. De La Libertad),2021,7,TOTAL,1
+Cochabamba,30801,Cliza,2021,7,TOTAL,1
+Pando,90101,Cobija,2021,7,TOTAL,11
+Cochabamba,30101,Cochabamba,2021,7,TOTAL,82
+Santa Cruz,71101,Concepcion,2021,7,TOTAL,2
+La Paz,21401,Coroico,2021,7,TOTAL,1
+La Paz,20105,El Alto,2021,7,TOTAL,72
+Beni,80402,Exaltacion,2021,7,TOTAL,1
+La Paz,20602,Guanay,2021,7,TOTAL,1
+Beni,80202,Guayaramerin,2021,7,TOTAL,3
+Santa Cruz,70705,Gutierrez,2021,7,TOTAL,2
+Oruro,40701,Huanuni,2021,7,TOTAL,5
+La Paz,20101,La Paz,2021,7,TOTAL,93
+La Paz,21202,Laja,2021,7,TOTAL,1
+Potosí,50203,Llallagua,2021,7,TOTAL,3
+Santa Cruz,71001,Montero,2021,7,TOTAL,17
+Oruro,40101,Oruro,2021,7,TOTAL,42
+La Paz,21305,Patacamaya,2021,7,TOTAL,2
+Potosí,50101,Potosi,2021,7,TOTAL,33
+Beni,80703,Puerto Siles,2021,7,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2021,7,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,7,TOTAL,3
+Cochabamba,31401,Punata,2021,7,TOTAL,3
+Cochabamba,30901,Quillacollo,2021,7,TOTAL,8
+Beni,80201,Riberalta,2021,7,TOTAL,20
+Beni,80304,Rurrenabaque,2021,7,TOTAL,1
+Cochabamba,31001,Sacaba,2021,7,TOTAL,1
+Potosí,50701,Sacaca,2021,7,TOTAL,1
+Potosí,51601,San Agustin,2021,7,TOTAL,1
+Beni,80302,San Borja,2021,7,TOTAL,2
+Santa Cruz,70402,San Carlos,2021,7,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,7,TOTAL,6
+Pando,90302,San Lorenzo(pnd),2021,7,TOTAL,1
+Santa Cruz,71201,San Matias,2021,7,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2021,7,TOTAL,1
+Beni,80401,Santa Ana,2021,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,7,TOTAL,231
+Chuquisaca,10101,Sucre,2021,7,TOTAL,24
+Tarija,60101,Tarija,2021,7,TOTAL,20
+Chuquisaca,10202,Tarvita,2021,7,TOTAL,2
+La Paz,20608,Teoponte,2021,7,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2021,7,TOTAL,2
+Beni,80101,Trinidad,2021,7,TOTAL,17
+Potosí,50801,Tupiza,2021,7,TOTAL,3
+La Paz,20801,Viacha,2021,7,TOTAL,1
+Cochabamba,31302,Vila Vila,2021,7,TOTAL,1
+Tarija,60303,Villa Montes,2021,7,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,7,TOTAL,3
+Potosí,51501,Villazon,2021,7,TOTAL,4
+Cochabamba,30904,Vinto,2021,7,TOTAL,1
+Santa Cruz,70201,Warnes,2021,7,TOTAL,6
+Tarija,60301,Yacuiba,2021,7,TOTAL,1
+Santa Cruz,70403,Yapacani,2021,7,TOTAL,3
+Potosí,50103,Yocalla,2021,7,TOTAL,2
+La Paz,20201,Achacachi,2021,8,TOTAL,5
+La Paz,20701,Apolo,2021,8,TOTAL,1
+Santa Cruz,70706,Camiri,2021,8,TOTAL,2
+Oruro,40102,Caracollo,2021,8,TOTAL,3
+La Paz,22001,Caranavi,2021,8,TOTAL,1
+Oruro,40201,Challapata,2021,8,TOTAL,5
+Santa Cruz,70702,Charagua,2021,8,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2021,8,TOTAL,1
+Potosí,51103,Ckochas,2021,8,TOTAL,1
+Cochabamba,30801,Cliza,2021,8,TOTAL,1
+Pando,90101,Cobija,2021,8,TOTAL,103
+Cochabamba,30101,Cochabamba,2021,8,TOTAL,99
+Santa Cruz,71301,Comarapa,2021,8,TOTAL,1
+Santa Cruz,71101,Concepcion,2021,8,TOTAL,2
+La Paz,20105,El Alto,2021,8,TOTAL,94
+Santa Cruz,71004,Fernandez Alonso,2021,8,TOTAL,1
+Beni,80202,Guayaramerin,2021,8,TOTAL,6
+Oruro,40701,Huanuni,2021,8,TOTAL,5
+Santa Cruz,70104,La Guardia,2021,8,TOTAL,1
+La Paz,20101,La Paz,2021,8,TOTAL,84
+Potosí,50203,Llallagua,2021,8,TOTAL,8
+Beni,80801,Magdalena,2021,8,TOTAL,3
+La Paz,20607,Mapiri,2021,8,TOTAL,1
+Santa Cruz,71003,Mineros,2021,8,TOTAL,1
+Santa Cruz,71001,Montero,2021,8,TOTAL,14
+Santa Cruz,70803,Moro Moro,2021,8,TOTAL,1
+Potosí,50404,Ocuri,2021,8,TOTAL,1
+Oruro,40101,Oruro,2021,8,TOTAL,22
+Tarija,60201,Padcaya,2021,8,TOTAL,1
+La Paz,21104,Palos Blancos,2021,8,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2021,8,TOTAL,1
+Potosí,51203,Porco,2021,8,TOTAL,1
+Potosí,50101,Potosi,2021,8,TOTAL,31
+Pando,90301,Puerto Gonzalo Moreno,2021,8,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2021,8,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,8,TOTAL,11
+Cochabamba,31401,Punata,2021,8,TOTAL,4
+Cochabamba,30901,Quillacollo,2021,8,TOTAL,6
+Beni,80301,Reyes,2021,8,TOTAL,2
+Beni,80201,Riberalta,2021,8,TOTAL,25
+Beni,80304,Rurrenabaque,2021,8,TOTAL,5
+Cochabamba,31001,Sacaba,2021,8,TOTAL,1
+Beni,80302,San Borja,2021,8,TOTAL,5
+La Paz,21502,San Buena Ventura,2021,8,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,8,TOTAL,5
+La Paz,21702,San Pedro De Tiquina,2021,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,8,TOTAL,217
+Chuquisaca,10101,Sucre,2021,8,TOTAL,20
+Cochabamba,30401,Tarata,2021,8,TOTAL,1
+Tarija,60101,Tarija,2021,8,TOTAL,15
+Beni,80101,Trinidad,2021,8,TOTAL,19
+Potosí,50801,Tupiza,2021,8,TOTAL,1
+Potosí,50201,Uncia,2021,8,TOTAL,1
+La Paz,20801,Viacha,2021,8,TOTAL,1
+Tarija,60303,Villa Montes,2021,8,TOTAL,1
+Cochabamba,31003,Villa Tunari,2021,8,TOTAL,2
+Cochabamba,30904,Vinto,2021,8,TOTAL,3
+Santa Cruz,70201,Warnes,2021,8,TOTAL,2
+Tarija,60301,Yacuiba,2021,8,TOTAL,2
+La Paz,20201,Achacachi,2021,9,TOTAL,3
+Tarija,60202,Bermejo,2021,9,TOTAL,1
+Santa Cruz,70401,Buena Vista,2021,9,TOTAL,1
+La Paz,20905,Cairoma,2021,9,TOTAL,1
+Chuquisaca,10701,Camargo,2021,9,TOTAL,1
+Santa Cruz,70706,Camiri,2021,9,TOTAL,3
+Cochabamba,30701,Capinota,2021,9,TOTAL,1
+La Paz,22001,Caranavi,2021,9,TOTAL,1
+Tarija,60302,Carapari,2021,9,TOTAL,1
+Oruro,40201,Challapata,2021,9,TOTAL,2
+Potosí,50202,Chayanta,2021,9,TOTAL,1
+Pando,90101,Cobija,2021,9,TOTAL,12
+Cochabamba,30101,Cochabamba,2021,9,TOTAL,102
+Cochabamba,31002,Colomi,2021,9,TOTAL,1
+Potosí,50401,Colquechaca,2021,9,TOTAL,1
+La Paz,21306,Colquencha,2021,9,TOTAL,1
+Santa Cruz,71101,Concepcion,2021,9,TOTAL,3
+La Paz,20301,Coro Coro,2021,9,TOTAL,1
+Potosí,50601,Cotagaita,2021,9,TOTAL,1
+La Paz,20804,Desaguadero,2021,9,TOTAL,1
+La Paz,20105,El Alto,2021,9,TOTAL,80
+Tarija,60601,Entre Rios Trj,2021,9,TOTAL,1
+La Paz,20405,Escoma,2021,9,TOTAL,2
+Beni,80202,Guayaramerin,2021,9,TOTAL,5
+Oruro,40701,Huanuni,2021,9,TOTAL,8
+La Paz,21102,Irupana (villa De Lanza),2021,9,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,9,TOTAL,1
+La Paz,20101,La Paz,2021,9,TOTAL,87
+Potosí,50203,Llallagua,2021,9,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,9,TOTAL,2
+Santa Cruz,71001,Montero,2021,9,TOTAL,6
+Cochabamba,30203,Omereque,2021,9,TOTAL,1
+Oruro,40101,Oruro,2021,9,TOTAL,34
+Tarija,60201,Padcaya,2021,9,TOTAL,1
+La Paz,21305,Patacamaya,2021,9,TOTAL,1
+Potosí,51203,Porco,2021,9,TOTAL,1
+Potosí,50101,Potosi,2021,9,TOTAL,30
+Santa Cruz,71401,Puerto Suarez,2021,9,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2021,9,TOTAL,7
+Cochabamba,31401,Punata,2021,9,TOTAL,1
+Cochabamba,30901,Quillacollo,2021,9,TOTAL,1
+Beni,80301,Reyes,2021,9,TOTAL,3
+Beni,80201,Riberalta,2021,9,TOTAL,16
+Cochabamba,31001,Sacaba,2021,9,TOTAL,1
+Beni,80302,San Borja,2021,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,TOTAL,6
+Tarija,60501,San Lorenzo(tja),2021,9,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,9,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2021,9,TOTAL,1
+Beni,80702,San Ramon Beni,2021,9,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2021,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,9,TOTAL,218
+Chuquisaca,10101,Sucre,2021,9,TOTAL,27
+Cochabamba,31101,Tapacari,2021,9,TOTAL,1
+Chuquisaca,10601,Tarabuco,2021,9,TOTAL,1
+Tarija,60101,Tarija,2021,9,TOTAL,17
+Potosí,50102,Tinguipaya,2021,9,TOTAL,1
+Cochabamba,30903,Tiquipaya,2021,9,TOTAL,1
+Beni,80101,Trinidad,2021,9,TOTAL,19
+Potosí,50801,Tupiza,2021,9,TOTAL,4
+Santa Cruz,70801,Vallegrande,2021,9,TOTAL,1
+La Paz,20801,Viacha,2021,9,TOTAL,1
+Tarija,60303,Villa Montes,2021,9,TOTAL,3
+Cochabamba,31003,Villa Tunari,2021,9,TOTAL,3
+Potosí,51501,Villazon,2021,9,TOTAL,2
+Santa Cruz,70201,Warnes,2021,9,TOTAL,1
+Tarija,60301,Yacuiba,2021,9,TOTAL,6
+La Paz,20701,Apolo,2021,10,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,10,TOTAL,1
+Pando,90104,Bella Flor,2021,10,TOTAL,1
+Tarija,60202,Bermejo,2021,10,TOTAL,1
+Potosí,50301,Betanzos,2021,10,TOTAL,1
+Chuquisaca,10701,Camargo,2021,10,TOTAL,1
+Santa Cruz,70706,Camiri,2021,10,TOTAL,2
+Cochabamba,30701,Capinota,2021,10,TOTAL,1
+Santa Cruz,70702,Charagua,2021,10,TOTAL,3
+La Paz,21101,Chulumani (v. De La Libertad),2021,10,TOTAL,2
+Pando,90101,Cobija,2021,10,TOTAL,8
+Cochabamba,30101,Cochabamba,2021,10,TOTAL,114
+Cochabamba,31002,Colomi,2021,10,TOTAL,1
+La Paz,21004,Colquiri,2021,10,TOTAL,1
+Santa Cruz,71101,Concepcion,2021,10,TOTAL,5
+La Paz,21401,Coroico,2021,10,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2021,10,TOTAL,11
+La Paz,20105,El Alto,2021,10,TOTAL,78
+Santa Cruz,71503,El Puente(stc),2021,10,TOTAL,1
+Santa Cruz,70105,El Torno,2021,10,TOTAL,1
+Tarija,60601,Entre Rios Trj,2021,10,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2021,10,TOTAL,1
+La Paz,21601,Gral. J.j. Perez (charazani),2021,10,TOTAL,1
+Beni,80202,Guayaramerin,2021,10,TOTAL,6
+Oruro,40701,Huanuni,2021,10,TOTAL,2
+La Paz,21501,Ixiamas,2021,10,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,10,TOTAL,2
+La Paz,20101,La Paz,2021,10,TOTAL,110
+Potosí,50203,Llallagua,2021,10,TOTAL,9
+La Paz,20607,Mapiri,2021,10,TOTAL,2
+La Paz,20103,Mecapaca,2021,10,TOTAL,1
+Cochabamba,31301,Mizque,2021,10,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,10,TOTAL,2
+Santa Cruz,71001,Montero,2021,10,TOTAL,8
+Oruro,40101,Oruro,2021,10,TOTAL,32
+La Paz,21305,Patacamaya,2021,10,TOTAL,1
+Potosí,50101,Potosi,2021,10,TOTAL,33
+Pando,90201,Puerto Rico,2021,10,TOTAL,1
+Beni,80703,Puerto Siles,2021,10,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,10,TOTAL,2
+Cochabamba,31401,Punata,2021,10,TOTAL,2
+Cochabamba,30901,Quillacollo,2021,10,TOTAL,8
+Beni,80301,Reyes,2021,10,TOTAL,1
+Beni,80201,Riberalta,2021,10,TOTAL,17
+Santa Cruz,70503,Robore,2021,10,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2021,10,TOTAL,1
+Beni,80302,San Borja,2021,10,TOTAL,6
+La Paz,21502,San Buena Ventura,2021,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,10,TOTAL,7
+Santa Cruz,71104,San Julian,2021,10,TOTAL,52
+Chuquisaca,10702,San Lucas,2021,10,TOTAL,2
+Santa Cruz,71103,San Ramon Scz,2021,10,TOTAL,1
+Beni,80401,Santa Ana,2021,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,10,TOTAL,420
+Chuquisaca,10101,Sucre,2021,10,TOTAL,30
+Cochabamba,31101,Tapacari,2021,10,TOTAL,1
+Chuquisaca,10601,Tarabuco,2021,10,TOTAL,1
+Tarija,60101,Tarija,2021,10,TOTAL,18
+Cochabamba,30903,Tiquipaya,2021,10,TOTAL,7
+Beni,80101,Trinidad,2021,10,TOTAL,24
+Potosí,50801,Tupiza,2021,10,TOTAL,8
+Potosí,50201,Uncia,2021,10,TOTAL,1
+Potosí,51201,Uyuni,2021,10,TOTAL,1
+Tarija,60303,Villa Montes,2021,10,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,10,TOTAL,5
+Potosí,51501,Villazon,2021,10,TOTAL,3
+Cochabamba,30904,Vinto,2021,10,TOTAL,3
+Santa Cruz,70201,Warnes,2021,10,TOTAL,2
+Tarija,60301,Yacuiba,2021,10,TOTAL,5
+Santa Cruz,70403,Yapacani,2021,10,TOTAL,6
+Chuquisaca,10301,Zudañez,2021,10,TOTAL,1
+La Paz,20201,Achacachi,2021,11,TOTAL,3
+Cochabamba,30201,Aiquile,2021,11,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,11,TOTAL,1
+Pando,90104,Bella Flor,2021,11,TOTAL,1
+Tarija,60202,Bermejo,2021,11,TOTAL,1
+La Paz,21003,Cajuata,2021,11,TOTAL,1
+Chuquisaca,10701,Camargo,2021,11,TOTAL,2
+Santa Cruz,70706,Camiri,2021,11,TOTAL,1
+Oruro,40102,Caracollo,2021,11,TOTAL,1
+La Paz,22001,Caranavi,2021,11,TOTAL,2
+Oruro,40201,Challapata,2021,11,TOTAL,1
+Santa Cruz,70702,Charagua,2021,11,TOTAL,3
+Cochabamba,30801,Cliza,2021,11,TOTAL,1
+Pando,90101,Cobija,2021,11,TOTAL,5
+Cochabamba,30101,Cochabamba,2021,11,TOTAL,78
+Cochabamba,31002,Colomi,2021,11,TOTAL,1
+Potosí,50401,Colquechaca,2021,11,TOTAL,1
+La Paz,21004,Colquiri,2021,11,TOTAL,1
+Santa Cruz,71101,Concepcion,2021,11,TOTAL,1
+La Paz,21401,Coroico,2021,11,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2021,11,TOTAL,2
+La Paz,20804,Desaguadero,2021,11,TOTAL,1
+La Paz,20105,El Alto,2021,11,TOTAL,60
+Santa Cruz,70105,El Torno,2021,11,TOTAL,1
+Tarija,60601,Entre Rios Trj,2021,11,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2021,11,TOTAL,1
+Pando,90203,Filadelfia,2021,11,TOTAL,1
+Beni,80202,Guayaramerin,2021,11,TOTAL,8
+Oruro,40701,Huanuni,2021,11,TOTAL,2
+Chuquisaca,10703,Incahuasi,2021,11,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2021,11,TOTAL,1
+La Paz,21501,Ixiamas,2021,11,TOTAL,1
+La Paz,21105,La Asunta,2021,11,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,11,TOTAL,3
+La Paz,20101,La Paz,2021,11,TOTAL,119
+Santa Cruz,70701,Lagunillas,2021,11,TOTAL,1
+Potosí,50203,Llallagua,2021,11,TOTAL,5
+La Paz,20901,Luribay,2021,11,TOTAL,1
+La Paz,20103,Mecapaca,2021,11,TOTAL,1
+Santa Cruz,71003,Mineros,2021,11,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,11,TOTAL,1
+Santa Cruz,71001,Montero,2021,11,TOTAL,6
+Oruro,40101,Oruro,2021,11,TOTAL,34
+La Paz,21802,Papel Pampa,2021,11,TOTAL,1
+Santa Cruz,70601,Portachuelo,2021,11,TOTAL,1
+Potosí,50101,Potosi,2021,11,TOTAL,26
+Cochabamba,31205,Puerto Villarroel,2021,11,TOTAL,4
+Cochabamba,31401,Punata,2021,11,TOTAL,1
+Cochabamba,30901,Quillacollo,2021,11,TOTAL,8
+La Paz,21002,Quime,2021,11,TOTAL,1
+Beni,80201,Riberalta,2021,11,TOTAL,21
+Santa Cruz,70503,Robore,2021,11,TOTAL,2
+Beni,80304,Rurrenabaque,2021,11,TOTAL,1
+Cochabamba,31001,Sacaba,2021,11,TOTAL,1
+Oruro,40801,Salinas De Garci Mendoza,2021,11,TOTAL,1
+Beni,80302,San Borja,2021,11,TOTAL,2
+La Paz,21502,San Buena Ventura,2021,11,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2021,11,TOTAL,11
+Potosí,50405,San Pedro De Macha,2021,11,TOTAL,1
+Beni,80401,Santa Ana,2021,11,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,TOTAL,181
+La Paz,21901,Santiago De Machaca,2021,11,TOTAL,1
+Cochabamba,31602,Shinaota,2021,11,TOTAL,2
+Chuquisaca,10101,Sucre,2021,11,TOTAL,31
+Tarija,60101,Tarija,2021,11,TOTAL,19
+Cochabamba,30903,Tiquipaya,2021,11,TOTAL,1
+Beni,80101,Trinidad,2021,11,TOTAL,12
+Tarija,60303,Villa Montes,2021,11,TOTAL,1
+Cochabamba,31003,Villa Tunari,2021,11,TOTAL,2
+Potosí,51501,Villazon,2021,11,TOTAL,4
+Santa Cruz,70201,Warnes,2021,11,TOTAL,3
+Tarija,60301,Yacuiba,2021,11,TOTAL,5
+Santa Cruz,70403,Yapacani,2021,11,TOTAL,2
+La Paz,20201,Achacachi,2021,12,TOTAL,1
+Potosí,51301,Arampampa,2021,12,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,12,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,12,TOTAL,1
+La Paz,21203,Batallas,2021,12,TOTAL,1
+Chuquisaca,10701,Camargo,2021,12,TOTAL,2
+La Paz,22001,Caranavi,2021,12,TOTAL,2
+Oruro,40201,Challapata,2021,12,TOTAL,3
+Santa Cruz,70702,Charagua,2021,12,TOTAL,3
+Cochabamba,30801,Cliza,2021,12,TOTAL,1
+Pando,90101,Cobija,2021,12,TOTAL,10
+Cochabamba,30101,Cochabamba,2021,12,TOTAL,86
+Santa Cruz,71101,Concepcion,2021,12,TOTAL,1
+Potosí,50601,Cotagaita,2021,12,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2021,12,TOTAL,1
+La Paz,20105,El Alto,2021,12,TOTAL,84
+Santa Cruz,70105,El Torno,2021,12,TOTAL,2
+Cochabamba,31206,Entre Rios Cbba,2021,12,TOTAL,1
+La Paz,20405,Escoma,2021,12,TOTAL,2
+Oruro,40505,Esmeralda,2021,12,TOTAL,1
+Beni,80202,Guayaramerin,2021,12,TOTAL,6
+Chuquisaca,10502,Huacareta,2021,12,TOTAL,1
+Oruro,40701,Huanuni,2021,12,TOTAL,6
+La Paz,20101,La Paz,2021,12,TOTAL,125
+Potosí,50203,Llallagua,2021,12,TOTAL,3
+Cochabamba,31301,Mizque,2021,12,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,12,TOTAL,2
+Santa Cruz,71001,Montero,2021,12,TOTAL,4
+Oruro,40101,Oruro,2021,12,TOTAL,79
+La Paz,21104,Palos Blancos,2021,12,TOTAL,1
+La Paz,21305,Patacamaya,2021,12,TOTAL,1
+Santa Cruz,70601,Portachuelo,2021,12,TOTAL,1
+Potosí,50101,Potosi,2021,12,TOTAL,31
+Cochabamba,31205,Puerto Villarroel,2021,12,TOTAL,4
+Cochabamba,31401,Punata,2021,12,TOTAL,6
+Cochabamba,30901,Quillacollo,2021,12,TOTAL,2
+Beni,80301,Reyes,2021,12,TOTAL,1
+Beni,80201,Riberalta,2021,12,TOTAL,22
+La Paz,21502,San Buena Ventura,2021,12,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,12,TOTAL,8
+Santa Cruz,70404,San Juan De Yapacani,2021,12,TOTAL,3
+Santa Cruz,71104,San Julian,2021,12,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2021,12,TOTAL,1
+Potosí,51001,San Pablo De Lipez,2021,12,TOTAL,2
+Santa Cruz,71005,San Pedro,2021,12,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2021,12,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2021,12,TOTAL,1
+Beni,80401,Santa Ana,2021,12,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,12,TOTAL,211
+Cochabamba,31602,Shinaota,2021,12,TOTAL,2
+Chuquisaca,10101,Sucre,2021,12,TOTAL,30
+Tarija,60101,Tarija,2021,12,TOTAL,23
+La Paz,20608,Teoponte,2021,12,TOTAL,1
+La Paz,20606,Tipuani,2021,12,TOTAL,1
+Cochabamba,30903,Tiquipaya,2021,12,TOTAL,2
+Beni,80101,Trinidad,2021,12,TOTAL,9
+Potosí,50801,Tupiza,2021,12,TOTAL,3
+Santa Cruz,71502,Urubicha,2021,12,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2021,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2021,12,TOTAL,6
+Potosí,51501,Villazon,2021,12,TOTAL,6
+Santa Cruz,70201,Warnes,2021,12,TOTAL,3
+Tarija,60301,Yacuiba,2021,12,TOTAL,6
+Santa Cruz,70403,Yapacani,2021,12,TOTAL,5

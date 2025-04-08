@@ -1,0 +1,23 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20601,Sorata,2019,1,Partos atendidos por partera en servicio,0
+La Paz,20601,Sorata,2019,2,Partos atendidos por partera en servicio,0
+La Paz,20601,Sorata,2019,3,Partos atendidos por partera en servicio,0
+Chuquisaca,10701,Camargo,2019,4,Partos atendidos por partera en servicio,1
+La Paz,20601,Sorata,2019,4,Partos atendidos por partera en servicio,0
+La Paz,20601,Sorata,2019,6,Partos atendidos por partera en servicio,0
+Oruro,40401,Curahuara De Carangas,2019,7,Partos atendidos por partera en servicio,1
+La Paz,20601,Sorata,2019,7,Partos atendidos por partera en servicio,0
+La Paz,20601,Sorata,2019,8,Partos atendidos por partera en servicio,0
+Beni,80202,Guayaramerin,2019,10,Partos atendidos por partera en servicio,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,Partos atendidos por partera en servicio,1
+La Paz,20601,Sorata,2019,1,TOTAL,0
+La Paz,20601,Sorata,2019,2,TOTAL,0
+La Paz,20601,Sorata,2019,3,TOTAL,0
+Chuquisaca,10701,Camargo,2019,4,TOTAL,1
+La Paz,20601,Sorata,2019,4,TOTAL,0
+La Paz,20601,Sorata,2019,6,TOTAL,0
+Oruro,40401,Curahuara De Carangas,2019,7,TOTAL,1
+La Paz,20601,Sorata,2019,7,TOTAL,0
+La Paz,20601,Sorata,2019,8,TOTAL,0
+Beni,80202,Guayaramerin,2019,10,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,TOTAL,1

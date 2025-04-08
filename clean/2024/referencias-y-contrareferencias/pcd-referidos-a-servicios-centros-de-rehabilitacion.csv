@@ -1,0 +1,757 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60202,Bermejo,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,6
+Cochabamba,31501,Bolivar,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,21304,Calamarca,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,70706,Camiri,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Oruro,40102,Caracollo,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Cochabamba,30101,Cochabamba,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,15
+La Paz,20105,El Alto,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,71
+Santa Cruz,71503,El Puente(stc),2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70105,El Torno,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,10
+Beni,80202,Guayaramerin,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Oruro,40701,Huanuni,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,6
+La Paz,20101,La Paz,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,668
+Santa Cruz,71001,Montero,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,28
+Oruro,40101,Oruro,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,98
+Santa Cruz,70902,Pampa Grande,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Potosí,50101,Potosi,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Beni,80201,Riberalta,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70503,Robore,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Beni,80302,San Borja,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70402,San Carlos,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,228
+Chuquisaca,10101,Sucre,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Tarija,60101,Tarija,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Chuquisaca,10202,Tarvita,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80101,Trinidad,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,28
+La Paz,20801,Viacha,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10801,Villa Serrano,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,70201,Warnes,2024,1,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Santa Cruz,71501,Ascencion De Guarayos,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Tarija,60202,Bermejo,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,70401,Buena Vista,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,21304,Calamarca,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,70706,Camiri,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Cochabamba,30701,Capinota,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Oruro,40102,Caracollo,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,22001,Caranavi,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Cochabamba,31204,Chimore,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,30101,Cochabamba,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,6
+La Paz,20105,El Alto,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,44
+Santa Cruz,70105,El Torno,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,49
+Cochabamba,31206,Entre Rios Cbba,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40701,Huanuni,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,14
+La Paz,20101,La Paz,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,391
+Santa Cruz,71001,Montero,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Oruro,40101,Oruro,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,12
+Santa Cruz,70502,Pailon,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,31401,Punata,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,22
+La Paz,21002,Quime,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80201,Riberalta,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Cochabamba,31001,Sacaba,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,71302,Saipina,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Beni,80302,San Borja,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,83
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,44
+Chuquisaca,10101,Sucre,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60101,Tarija,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Beni,80101,Trinidad,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70801,Vallegrande,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Potosí,51501,Villazon,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70201,Warnes,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Santa Cruz,70403,Yapacani,2024,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60202,Bermejo,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,21304,Calamarca,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Oruro,40102,Caracollo,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,5
+La Paz,22001,Caranavi,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,13
+Pando,90101,Cobija,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,43
+Cochabamba,30101,Cochabamba,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Santa Cruz,70102,Cotoca,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,3
+La Paz,20105,El Alto,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,12
+Cochabamba,31206,Entre Rios Cbba,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40701,Huanuni,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,7
+La Paz,20101,La Paz,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,1863
+Oruro,40101,Oruro,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,15
+La Paz,20102,Palca,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,31001,Sacaba,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Beni,80302,San Borja,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,26
+Chuquisaca,10101,Sucre,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,9
+Tarija,60101,Tarija,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,21
+Beni,80101,Trinidad,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Potosí,50801,Tupiza,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,17
+Santa Cruz,70201,Warnes,2024,3,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60202,Bermejo,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10701,Camargo,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,22001,Caranavi,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,17
+Cochabamba,31204,Chimore,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,30101,Cochabamba,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,19
+Cochabamba,30905,Colcapirhua,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70102,Cotoca,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,19
+La Paz,20105,El Alto,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,27
+Santa Cruz,70105,El Torno,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Tarija,60601,Entre Rios Trj,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,31206,Entre Rios Cbba,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Oruro,40701,Huanuni,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,5
+La Paz,20101,La Paz,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,713
+Chuquisaca,10903,Las Carreras,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Potosí,50203,Llallagua,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40101,Oruro,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,23
+Santa Cruz,70502,Pailon,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Potosí,50101,Potosi,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,31001,Sacaba,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,71302,Saipina,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Beni,80302,San Borja,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,114
+Chuquisaca,10702,San Lucas,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,34
+Tarija,60101,Tarija,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,14
+Potosí,51201,Uyuni,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,31003,Villa Tunari,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70201,Warnes,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,9
+Chuquisaca,10602,Yamparaez,2024,4,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Cochabamba,30402,Anzaldo,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60202,Bermejo,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,21304,Calamarca,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Oruro,40102,Caracollo,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,22001,Caranavi,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,23
+Cochabamba,31204,Chimore,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,30905,Colcapirhua,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,70102,Cotoca,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,20105,El Alto,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,97
+Santa Cruz,70105,El Torno,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80202,Guayaramerin,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Oruro,40701,Huanuni,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,20101,La Paz,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,177
+Potosí,50203,Llallagua,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,71001,Montero,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40101,Oruro,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,12
+Cochabamba,31001,Sacaba,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Santa Cruz,71302,Saipina,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Santa Cruz,70901,Samaipata,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80302,San Borja,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,90
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Chuquisaca,10101,Sucre,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Tarija,60101,Tarija,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,9
+Beni,80101,Trinidad,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70201,Warnes,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,10
+Santa Cruz,70403,Yapacani,2024,5,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Tarija,60202,Bermejo,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Oruro,40102,Caracollo,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,3
+La Paz,22001,Caranavi,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,24
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Cochabamba,30101,Cochabamba,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,10
+Santa Cruz,70102,Cotoca,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,11
+La Paz,20105,El Alto,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,80
+Santa Cruz,71004,Fernandez Alonso,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,6
+Oruro,40701,Huanuni,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,8
+La Paz,20101,La Paz,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,290
+Oruro,40101,Oruro,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,25
+La Paz,21002,Quime,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,31001,Sacaba,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80302,San Borja,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,125
+Santa Cruz,70402,San Carlos,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80501,San Ignacio,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,10
+Tarija,60101,Tarija,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Chuquisaca,10202,Tarvita,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80101,Trinidad,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,70201,Warnes,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Tarija,60301,Yacuiba,2024,6,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,30201,Aiquile,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Tarija,60202,Bermejo,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Santa Cruz,70401,Buena Vista,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,3
+La Paz,21304,Calamarca,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,22001,Caranavi,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Cochabamba,30101,Cochabamba,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,70102,Cotoca,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,22
+La Paz,20105,El Alto,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,66
+La Paz,20602,Guanay,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,15
+Beni,80202,Guayaramerin,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40701,Huanuni,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Chuquisaca,10703,Incahuasi,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,20101,La Paz,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,91
+Santa Cruz,71001,Montero,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,70202,Okinawa,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Oruro,40101,Oruro,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,14
+Potosí,50101,Potosi,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,6
+Cochabamba,31001,Sacaba,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,71302,Saipina,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,16
+Beni,80302,San Borja,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,129
+Tarija,60501,San Lorenzo(tja),2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10702,San Lucas,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,10
+Tarija,60101,Tarija,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,17
+Santa Cruz,70201,Warnes,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Tarija,60301,Yacuiba,2024,7,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10201,Azurduy,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60202,Bermejo,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,4
+La Paz,21003,Cajuata,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,21304,Calamarca,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70706,Camiri,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Cochabamba,30701,Capinota,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Oruro,40102,Caracollo,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,10
+La Paz,22001,Caranavi,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Cochabamba,31002,Colomi,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70102,Cotoca,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,49
+La Paz,20105,El Alto,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,51
+Santa Cruz,71002,General Saavedra,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,14
+Beni,80202,Guayaramerin,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,6
+Oruro,40701,Huanuni,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,7
+La Paz,20101,La Paz,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,282
+Santa Cruz,71003,Mineros,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,71001,Montero,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,30302,Morochata,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40101,Oruro,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,18
+Santa Cruz,70502,Pailon,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70601,Portachuelo,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Cochabamba,31401,Punata,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Potosí,50402,Ravelo,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Beni,80201,Riberalta,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,10
+Cochabamba,31001,Sacaba,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70901,Samaipata,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,31403,San Benito,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80302,San Borja,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,89
+Tarija,60501,San Lorenzo(tja),2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10702,San Lucas,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,50
+Chuquisaca,10101,Sucre,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Tarija,60101,Tarija,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,14
+Cochabamba,30803,Tolata,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Beni,80101,Trinidad,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Potosí,50801,Tupiza,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,16
+Tarija,60401,Uriondo (a. Concepcion),2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Tarija,60303,Villa Montes,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Santa Cruz,70201,Warnes,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,15
+Tarija,60301,Yacuiba,2024,8,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Santa Cruz,71501,Ascencion De Guarayos,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60202,Bermejo,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,9
+La Paz,21304,Calamarca,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70706,Camiri,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40102,Caracollo,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,3
+La Paz,22001,Caranavi,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,6
+Cochabamba,30101,Cochabamba,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,70102,Cotoca,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Chuquisaca,10902,Culpina,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,10
+La Paz,20105,El Alto,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,9
+Tarija,60601,Entre Rios Trj,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71004,Fernandez Alonso,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71002,General Saavedra,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Beni,80202,Guayaramerin,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Oruro,40701,Huanuni,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,8
+La Paz,20206,Huatajata,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Chuquisaca,10703,Incahuasi,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,20101,La Paz,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,219
+Santa Cruz,71001,Montero,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Oruro,40101,Oruro,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,34
+Potosí,50101,Potosi,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,88
+Beni,80201,Riberalta,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Cochabamba,31001,Sacaba,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80302,San Borja,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,98
+Tarija,60501,San Lorenzo(tja),2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Chuquisaca,10702,San Lucas,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40202,Santuario De Quillacas,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,21301,Sica Sica (villa Aroma),2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Chuquisaca,10101,Sucre,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,3
+La Paz,20807,Taraco,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60101,Tarija,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,16
+La Paz,20801,Viacha,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,31402,Villa Rivero,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70201,Warnes,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Tarija,60301,Yacuiba,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10301,Zudañez,2024,9,PCD referidos a Servicios/Centros de Rehabilitacion,6
+Cochabamba,30201,Aiquile,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40603,Antequera,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Cochabamba,30403,Arbieto,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60202,Bermejo,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,5
+La Paz,21304,Calamarca,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10701,Camargo,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40102,Caracollo,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,10
+La Paz,22001,Caranavi,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,17
+Cochabamba,31204,Chimore,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Pando,90101,Cobija,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,9
+Cochabamba,30101,Cochabamba,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,20301,Coro Coro,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Potosí,50601,Cotagaita,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70102,Cotoca,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,9
+Chuquisaca,10902,Culpina,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,9
+La Paz,20105,El Alto,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,76
+Tarija,60601,Entre Rios Trj,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,71004,Fernandez Alonso,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Santa Cruz,71002,General Saavedra,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Beni,80202,Guayaramerin,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,9
+Oruro,40701,Huanuni,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,3
+La Paz,20101,La Paz,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,214
+Chuquisaca,10903,Las Carreras,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Potosí,50203,Llallagua,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71001,Montero,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Cochabamba,30302,Morochata,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Oruro,40101,Oruro,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,26
+Oruro,40601,Poopo,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,3
+La Paz,20403,Puerto Carabuco,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80201,Riberalta,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,23
+Cochabamba,31001,Sacaba,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Beni,80302,San Borja,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,132
+Tarija,60501,San Lorenzo(tja),2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,15
+Chuquisaca,10702,San Lucas,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Santa Cruz,71103,San Ramon Scz,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10101,Sucre,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,69
+Tarija,60101,Tarija,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,30
+Cochabamba,30803,Tolata,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,20801,Viacha,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Santa Cruz,70201,Warnes,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,16
+Tarija,60301,Yacuiba,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,12
+Chuquisaca,10602,Yamparaez,2024,10,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Tarija,60202,Bermejo,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,9
+La Paz,21304,Calamarca,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40102,Caracollo,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,3
+La Paz,22001,Caranavi,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,14
+Cochabamba,31204,Chimore,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Cochabamba,30101,Cochabamba,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,31002,Colomi,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70102,Cotoca,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,20
+La Paz,20105,El Alto,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,12
+Santa Cruz,70105,El Torno,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Cochabamba,31206,Entre Rios Cbba,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,71002,General Saavedra,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Beni,80202,Guayaramerin,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40701,Huanuni,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,4
+La Paz,20101,La Paz,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,222
+La Paz,21202,Laja,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Potosí,50203,Llallagua,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Chuquisaca,10501,Monteagudo,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71001,Montero,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,17
+Cochabamba,30302,Morochata,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40101,Oruro,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,22
+Tarija,60201,Padcaya,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Potosí,50101,Potosi,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,6
+Cochabamba,31205,Puerto Villarroel,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70904,Quirusillas,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80201,Riberalta,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Beni,80302,San Borja,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,104
+Tarija,60501,San Lorenzo(tja),2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Chuquisaca,10702,San Lucas,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,42
+Cochabamba,31602,Shinaota,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10101,Sucre,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,56
+Tarija,60101,Tarija,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Potosí,50801,Tupiza,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,3
+La Paz,20801,Viacha,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,11
+Tarija,60303,Villa Montes,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,10
+Santa Cruz,70201,Warnes,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,15
+Tarija,60301,Yacuiba,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10602,Yamparaez,2024,11,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Tarija,60202,Bermejo,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,19
+La Paz,21304,Calamarca,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Oruro,40102,Caracollo,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,22001,Caranavi,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Cochabamba,30101,Cochabamba,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Potosí,50601,Cotagaita,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Santa Cruz,70102,Cotoca,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,21
+La Paz,20105,El Alto,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,16
+Santa Cruz,71002,General Saavedra,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,6
+La Paz,20602,Guanay,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80202,Guayaramerin,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Oruro,40701,Huanuni,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,21501,Ixiamas,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,20806,Jesus De Machaca,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,20101,La Paz,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,205
+Santa Cruz,71001,Montero,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Oruro,40101,Oruro,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,27
+Oruro,40601,Poopo,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Cochabamba,30901,Quillacollo,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80201,Riberalta,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Cochabamba,31001,Sacaba,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70901,Samaipata,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80302,San Borja,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,58
+Tarija,60501,San Lorenzo(tja),2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,9
+Chuquisaca,10101,Sucre,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60101,Tarija,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Tarija,60401,Uriondo (a. Concepcion),2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,20801,Viacha,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Potosí,51501,Villazon,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70201,Warnes,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,8
+Tarija,60301,Yacuiba,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Chuquisaca,10602,Yamparaez,2024,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60202,Bermejo,2024,1,TOTAL,6
+Cochabamba,31501,Bolivar,2024,1,TOTAL,1
+La Paz,21304,Calamarca,2024,1,TOTAL,3
+Santa Cruz,70706,Camiri,2024,1,TOTAL,4
+Oruro,40102,Caracollo,2024,1,TOTAL,3
+Cochabamba,30101,Cochabamba,2024,1,TOTAL,15
+La Paz,20105,El Alto,2024,1,TOTAL,71
+Santa Cruz,71503,El Puente(stc),2024,1,TOTAL,2
+Santa Cruz,70105,El Torno,2024,1,TOTAL,10
+Beni,80202,Guayaramerin,2024,1,TOTAL,2
+Oruro,40701,Huanuni,2024,1,TOTAL,6
+La Paz,20101,La Paz,2024,1,TOTAL,668
+Santa Cruz,71001,Montero,2024,1,TOTAL,28
+Oruro,40101,Oruro,2024,1,TOTAL,98
+Santa Cruz,70902,Pampa Grande,2024,1,TOTAL,1
+Potosí,50101,Potosi,2024,1,TOTAL,4
+Beni,80201,Riberalta,2024,1,TOTAL,2
+Santa Cruz,70503,Robore,2024,1,TOTAL,5
+Beni,80302,San Borja,2024,1,TOTAL,1
+Santa Cruz,70402,San Carlos,2024,1,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTAL,228
+Chuquisaca,10101,Sucre,2024,1,TOTAL,3
+Tarija,60101,Tarija,2024,1,TOTAL,2
+Chuquisaca,10202,Tarvita,2024,1,TOTAL,1
+Beni,80101,Trinidad,2024,1,TOTAL,28
+La Paz,20801,Viacha,2024,1,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2024,1,TOTAL,3
+Santa Cruz,70201,Warnes,2024,1,TOTAL,7
+Santa Cruz,71501,Ascencion De Guarayos,2024,2,TOTAL,2
+Tarija,60202,Bermejo,2024,2,TOTAL,3
+Santa Cruz,70401,Buena Vista,2024,2,TOTAL,1
+La Paz,21304,Calamarca,2024,2,TOTAL,3
+Santa Cruz,70706,Camiri,2024,2,TOTAL,2
+Cochabamba,30701,Capinota,2024,2,TOTAL,3
+Oruro,40102,Caracollo,2024,2,TOTAL,1
+La Paz,22001,Caranavi,2024,2,TOTAL,8
+Cochabamba,31204,Chimore,2024,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2024,2,TOTAL,6
+La Paz,20105,El Alto,2024,2,TOTAL,44
+Santa Cruz,70105,El Torno,2024,2,TOTAL,49
+Cochabamba,31206,Entre Rios Cbba,2024,2,TOTAL,1
+Oruro,40701,Huanuni,2024,2,TOTAL,14
+La Paz,20101,La Paz,2024,2,TOTAL,391
+Santa Cruz,71001,Montero,2024,2,TOTAL,4
+Oruro,40101,Oruro,2024,2,TOTAL,12
+Santa Cruz,70502,Pailon,2024,2,TOTAL,1
+Cochabamba,31401,Punata,2024,2,TOTAL,22
+La Paz,21002,Quime,2024,2,TOTAL,1
+Beni,80201,Riberalta,2024,2,TOTAL,3
+Cochabamba,31001,Sacaba,2024,2,TOTAL,2
+Santa Cruz,71302,Saipina,2024,2,TOTAL,4
+Beni,80302,San Borja,2024,2,TOTAL,83
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTAL,44
+Chuquisaca,10101,Sucre,2024,2,TOTAL,1
+Tarija,60101,Tarija,2024,2,TOTAL,7
+Beni,80101,Trinidad,2024,2,TOTAL,2
+Santa Cruz,70801,Vallegrande,2024,2,TOTAL,3
+Potosí,51501,Villazon,2024,2,TOTAL,1
+Santa Cruz,70201,Warnes,2024,2,TOTAL,7
+Santa Cruz,70403,Yapacani,2024,2,TOTAL,1
+Tarija,60202,Bermejo,2024,3,TOTAL,1
+La Paz,21304,Calamarca,2024,3,TOTAL,3
+Oruro,40102,Caracollo,2024,3,TOTAL,5
+La Paz,22001,Caranavi,2024,3,TOTAL,13
+Pando,90101,Cobija,2024,3,TOTAL,43
+Cochabamba,30101,Cochabamba,2024,3,TOTAL,7
+Santa Cruz,70102,Cotoca,2024,3,TOTAL,3
+La Paz,20105,El Alto,2024,3,TOTAL,12
+Cochabamba,31206,Entre Rios Cbba,2024,3,TOTAL,1
+Oruro,40701,Huanuni,2024,3,TOTAL,7
+La Paz,20101,La Paz,2024,3,TOTAL,1863
+Oruro,40101,Oruro,2024,3,TOTAL,15
+La Paz,20102,Palca,2024,3,TOTAL,1
+Cochabamba,31001,Sacaba,2024,3,TOTAL,3
+Beni,80302,San Borja,2024,3,TOTAL,26
+Chuquisaca,10101,Sucre,2024,3,TOTAL,9
+Tarija,60101,Tarija,2024,3,TOTAL,21
+Beni,80101,Trinidad,2024,3,TOTAL,3
+Potosí,50801,Tupiza,2024,3,TOTAL,17
+Santa Cruz,70201,Warnes,2024,3,TOTAL,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2024,4,TOTAL,1
+Tarija,60202,Bermejo,2024,4,TOTAL,1
+Chuquisaca,10701,Camargo,2024,4,TOTAL,1
+La Paz,22001,Caranavi,2024,4,TOTAL,17
+Cochabamba,31204,Chimore,2024,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2024,4,TOTAL,19
+Cochabamba,30905,Colcapirhua,2024,4,TOTAL,1
+Santa Cruz,70102,Cotoca,2024,4,TOTAL,19
+La Paz,20105,El Alto,2024,4,TOTAL,27
+Santa Cruz,70105,El Torno,2024,4,TOTAL,3
+Tarija,60601,Entre Rios Trj,2024,4,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2024,4,TOTAL,2
+Oruro,40701,Huanuni,2024,4,TOTAL,5
+La Paz,20101,La Paz,2024,4,TOTAL,713
+Chuquisaca,10903,Las Carreras,2024,4,TOTAL,4
+Potosí,50203,Llallagua,2024,4,TOTAL,1
+Oruro,40101,Oruro,2024,4,TOTAL,23
+Santa Cruz,70502,Pailon,2024,4,TOTAL,1
+Potosí,50101,Potosi,2024,4,TOTAL,1
+Cochabamba,31001,Sacaba,2024,4,TOTAL,3
+Santa Cruz,71302,Saipina,2024,4,TOTAL,5
+Beni,80302,San Borja,2024,4,TOTAL,114
+Chuquisaca,10702,San Lucas,2024,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTAL,34
+Tarija,60101,Tarija,2024,4,TOTAL,14
+Potosí,51201,Uyuni,2024,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2024,4,TOTAL,1
+Santa Cruz,70201,Warnes,2024,4,TOTAL,9
+Chuquisaca,10602,Yamparaez,2024,4,TOTAL,2
+Cochabamba,30402,Anzaldo,2024,5,TOTAL,1
+Tarija,60202,Bermejo,2024,5,TOTAL,1
+La Paz,21304,Calamarca,2024,5,TOTAL,4
+Oruro,40102,Caracollo,2024,5,TOTAL,2
+La Paz,22001,Caranavi,2024,5,TOTAL,23
+Cochabamba,31204,Chimore,2024,5,TOTAL,1
+Cochabamba,30905,Colcapirhua,2024,5,TOTAL,3
+Santa Cruz,70102,Cotoca,2024,5,TOTAL,1
+La Paz,20105,El Alto,2024,5,TOTAL,97
+Santa Cruz,70105,El Torno,2024,5,TOTAL,1
+Beni,80202,Guayaramerin,2024,5,TOTAL,2
+Oruro,40701,Huanuni,2024,5,TOTAL,2
+La Paz,20101,La Paz,2024,5,TOTAL,177
+Potosí,50203,Llallagua,2024,5,TOTAL,2
+Santa Cruz,71001,Montero,2024,5,TOTAL,1
+Oruro,40101,Oruro,2024,5,TOTAL,12
+Cochabamba,31001,Sacaba,2024,5,TOTAL,5
+Santa Cruz,71302,Saipina,2024,5,TOTAL,7
+Santa Cruz,70901,Samaipata,2024,5,TOTAL,1
+Beni,80302,San Borja,2024,5,TOTAL,90
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTAL,8
+Chuquisaca,10101,Sucre,2024,5,TOTAL,3
+Tarija,60101,Tarija,2024,5,TOTAL,9
+Beni,80101,Trinidad,2024,5,TOTAL,2
+Santa Cruz,70201,Warnes,2024,5,TOTAL,10
+Santa Cruz,70403,Yapacani,2024,5,TOTAL,2
+Tarija,60202,Bermejo,2024,6,TOTAL,5
+Oruro,40102,Caracollo,2024,6,TOTAL,3
+La Paz,22001,Caranavi,2024,6,TOTAL,24
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,6,TOTAL,2
+Cochabamba,30101,Cochabamba,2024,6,TOTAL,10
+Santa Cruz,70102,Cotoca,2024,6,TOTAL,11
+La Paz,20105,El Alto,2024,6,TOTAL,80
+Santa Cruz,71004,Fernandez Alonso,2024,6,TOTAL,6
+Oruro,40701,Huanuni,2024,6,TOTAL,8
+La Paz,20101,La Paz,2024,6,TOTAL,290
+Oruro,40101,Oruro,2024,6,TOTAL,25
+La Paz,21002,Quime,2024,6,TOTAL,1
+Cochabamba,31001,Sacaba,2024,6,TOTAL,1
+Beni,80302,San Borja,2024,6,TOTAL,125
+Santa Cruz,70402,San Carlos,2024,6,TOTAL,1
+Beni,80501,San Ignacio,2024,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTAL,10
+Tarija,60101,Tarija,2024,6,TOTAL,2
+Chuquisaca,10202,Tarvita,2024,6,TOTAL,1
+Beni,80101,Trinidad,2024,6,TOTAL,3
+Santa Cruz,70201,Warnes,2024,6,TOTAL,8
+Tarija,60301,Yacuiba,2024,6,TOTAL,1
+Cochabamba,30201,Aiquile,2024,7,TOTAL,2
+Tarija,60202,Bermejo,2024,7,TOTAL,4
+Santa Cruz,70401,Buena Vista,2024,7,TOTAL,3
+La Paz,21304,Calamarca,2024,7,TOTAL,2
+La Paz,22001,Caranavi,2024,7,TOTAL,4
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,7,TOTAL,2
+Cochabamba,30101,Cochabamba,2024,7,TOTAL,3
+Santa Cruz,70102,Cotoca,2024,7,TOTAL,22
+La Paz,20105,El Alto,2024,7,TOTAL,66
+La Paz,20602,Guanay,2024,7,TOTAL,15
+Beni,80202,Guayaramerin,2024,7,TOTAL,1
+Oruro,40701,Huanuni,2024,7,TOTAL,4
+Chuquisaca,10703,Incahuasi,2024,7,TOTAL,2
+La Paz,20101,La Paz,2024,7,TOTAL,91
+Santa Cruz,71001,Montero,2024,7,TOTAL,3
+Santa Cruz,70202,Okinawa,2024,7,TOTAL,4
+Oruro,40101,Oruro,2024,7,TOTAL,14
+Potosí,50101,Potosi,2024,7,TOTAL,6
+Cochabamba,31001,Sacaba,2024,7,TOTAL,3
+Santa Cruz,71302,Saipina,2024,7,TOTAL,16
+Beni,80302,San Borja,2024,7,TOTAL,129
+Tarija,60501,San Lorenzo(tja),2024,7,TOTAL,1
+Chuquisaca,10702,San Lucas,2024,7,TOTAL,10
+Tarija,60101,Tarija,2024,7,TOTAL,17
+Santa Cruz,70201,Warnes,2024,7,TOTAL,4
+Tarija,60301,Yacuiba,2024,7,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,8,TOTAL,1
+Chuquisaca,10201,Azurduy,2024,8,TOTAL,1
+Tarija,60202,Bermejo,2024,8,TOTAL,4
+La Paz,21003,Cajuata,2024,8,TOTAL,2
+La Paz,21304,Calamarca,2024,8,TOTAL,2
+Santa Cruz,70706,Camiri,2024,8,TOTAL,2
+Cochabamba,30701,Capinota,2024,8,TOTAL,8
+Oruro,40102,Caracollo,2024,8,TOTAL,10
+La Paz,22001,Caranavi,2024,8,TOTAL,3
+Cochabamba,31002,Colomi,2024,8,TOTAL,1
+Santa Cruz,70102,Cotoca,2024,8,TOTAL,49
+La Paz,20105,El Alto,2024,8,TOTAL,51
+Santa Cruz,71002,General Saavedra,2024,8,TOTAL,14
+Beni,80202,Guayaramerin,2024,8,TOTAL,6
+Oruro,40701,Huanuni,2024,8,TOTAL,7
+La Paz,20101,La Paz,2024,8,TOTAL,282
+Santa Cruz,71003,Mineros,2024,8,TOTAL,3
+Santa Cruz,71001,Montero,2024,8,TOTAL,1
+Cochabamba,30302,Morochata,2024,8,TOTAL,1
+Oruro,40101,Oruro,2024,8,TOTAL,18
+Santa Cruz,70502,Pailon,2024,8,TOTAL,1
+Santa Cruz,70601,Portachuelo,2024,8,TOTAL,4
+Cochabamba,31401,Punata,2024,8,TOTAL,1
+Potosí,50402,Ravelo,2024,8,TOTAL,3
+Beni,80201,Riberalta,2024,8,TOTAL,10
+Cochabamba,31001,Sacaba,2024,8,TOTAL,2
+Santa Cruz,70901,Samaipata,2024,8,TOTAL,1
+Cochabamba,31403,San Benito,2024,8,TOTAL,1
+Beni,80302,San Borja,2024,8,TOTAL,89
+Tarija,60501,San Lorenzo(tja),2024,8,TOTAL,1
+Chuquisaca,10702,San Lucas,2024,8,TOTAL,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,TOTAL,50
+Chuquisaca,10101,Sucre,2024,8,TOTAL,2
+Tarija,60101,Tarija,2024,8,TOTAL,14
+Cochabamba,30803,Tolata,2024,8,TOTAL,2
+Beni,80101,Trinidad,2024,8,TOTAL,1
+Potosí,50801,Tupiza,2024,8,TOTAL,16
+Tarija,60401,Uriondo (a. Concepcion),2024,8,TOTAL,2
+Tarija,60303,Villa Montes,2024,8,TOTAL,4
+Santa Cruz,70201,Warnes,2024,8,TOTAL,15
+Tarija,60301,Yacuiba,2024,8,TOTAL,4
+Santa Cruz,71501,Ascencion De Guarayos,2024,9,TOTAL,1
+Tarija,60202,Bermejo,2024,9,TOTAL,9
+La Paz,21304,Calamarca,2024,9,TOTAL,2
+Santa Cruz,70706,Camiri,2024,9,TOTAL,1
+Oruro,40102,Caracollo,2024,9,TOTAL,3
+La Paz,22001,Caranavi,2024,9,TOTAL,6
+Cochabamba,30101,Cochabamba,2024,9,TOTAL,3
+Santa Cruz,70102,Cotoca,2024,9,TOTAL,8
+Chuquisaca,10902,Culpina,2024,9,TOTAL,10
+La Paz,20105,El Alto,2024,9,TOTAL,9
+Tarija,60601,Entre Rios Trj,2024,9,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2024,9,TOTAL,1
+Santa Cruz,71002,General Saavedra,2024,9,TOTAL,8
+Beni,80202,Guayaramerin,2024,9,TOTAL,7
+Oruro,40701,Huanuni,2024,9,TOTAL,8
+La Paz,20206,Huatajata,2024,9,TOTAL,2
+Chuquisaca,10703,Incahuasi,2024,9,TOTAL,1
+La Paz,20101,La Paz,2024,9,TOTAL,219
+Santa Cruz,71001,Montero,2024,9,TOTAL,7
+Oruro,40101,Oruro,2024,9,TOTAL,34
+Potosí,50101,Potosi,2024,9,TOTAL,88
+Beni,80201,Riberalta,2024,9,TOTAL,8
+Cochabamba,31001,Sacaba,2024,9,TOTAL,1
+Beni,80302,San Borja,2024,9,TOTAL,98
+Tarija,60501,San Lorenzo(tja),2024,9,TOTAL,4
+Chuquisaca,10702,San Lucas,2024,9,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTAL,1
+Oruro,40202,Santuario De Quillacas,2024,9,TOTAL,1
+La Paz,21301,Sica Sica (villa Aroma),2024,9,TOTAL,2
+Chuquisaca,10101,Sucre,2024,9,TOTAL,3
+La Paz,20807,Taraco,2024,9,TOTAL,1
+Tarija,60101,Tarija,2024,9,TOTAL,16
+La Paz,20801,Viacha,2024,9,TOTAL,1
+Cochabamba,31402,Villa Rivero,2024,9,TOTAL,1
+Santa Cruz,70201,Warnes,2024,9,TOTAL,8
+Tarija,60301,Yacuiba,2024,9,TOTAL,1
+Chuquisaca,10301,Zudañez,2024,9,TOTAL,6
+Cochabamba,30201,Aiquile,2024,10,TOTAL,1
+Oruro,40603,Antequera,2024,10,TOTAL,4
+Cochabamba,30403,Arbieto,2024,10,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,10,TOTAL,1
+Tarija,60202,Bermejo,2024,10,TOTAL,5
+La Paz,21304,Calamarca,2024,10,TOTAL,1
+Chuquisaca,10701,Camargo,2024,10,TOTAL,1
+Oruro,40102,Caracollo,2024,10,TOTAL,10
+La Paz,22001,Caranavi,2024,10,TOTAL,17
+Cochabamba,31204,Chimore,2024,10,TOTAL,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,10,TOTAL,1
+Pando,90101,Cobija,2024,10,TOTAL,9
+Cochabamba,30101,Cochabamba,2024,10,TOTAL,2
+La Paz,20301,Coro Coro,2024,10,TOTAL,1
+Potosí,50601,Cotagaita,2024,10,TOTAL,1
+Santa Cruz,70102,Cotoca,2024,10,TOTAL,9
+Chuquisaca,10902,Culpina,2024,10,TOTAL,9
+La Paz,20105,El Alto,2024,10,TOTAL,76
+Tarija,60601,Entre Rios Trj,2024,10,TOTAL,2
+Santa Cruz,71004,Fernandez Alonso,2024,10,TOTAL,3
+Santa Cruz,71002,General Saavedra,2024,10,TOTAL,2
+Beni,80202,Guayaramerin,2024,10,TOTAL,9
+Oruro,40701,Huanuni,2024,10,TOTAL,3
+La Paz,20101,La Paz,2024,10,TOTAL,214
+Chuquisaca,10903,Las Carreras,2024,10,TOTAL,4
+Potosí,50203,Llallagua,2024,10,TOTAL,1
+Santa Cruz,71001,Montero,2024,10,TOTAL,3
+Cochabamba,30302,Morochata,2024,10,TOTAL,2
+Oruro,40101,Oruro,2024,10,TOTAL,26
+Oruro,40601,Poopo,2024,10,TOTAL,3
+La Paz,20403,Puerto Carabuco,2024,10,TOTAL,1
+Beni,80201,Riberalta,2024,10,TOTAL,23
+Cochabamba,31001,Sacaba,2024,10,TOTAL,3
+Beni,80302,San Borja,2024,10,TOTAL,132
+Tarija,60501,San Lorenzo(tja),2024,10,TOTAL,15
+Chuquisaca,10702,San Lucas,2024,10,TOTAL,5
+Santa Cruz,71103,San Ramon Scz,2024,10,TOTAL,1
+Chuquisaca,10101,Sucre,2024,10,TOTAL,69
+Tarija,60101,Tarija,2024,10,TOTAL,30
+Cochabamba,30803,Tolata,2024,10,TOTAL,1
+La Paz,20801,Viacha,2024,10,TOTAL,5
+Santa Cruz,70201,Warnes,2024,10,TOTAL,16
+Tarija,60301,Yacuiba,2024,10,TOTAL,12
+Chuquisaca,10602,Yamparaez,2024,10,TOTAL,8
+Tarija,60202,Bermejo,2024,11,TOTAL,9
+La Paz,21304,Calamarca,2024,11,TOTAL,1
+Oruro,40102,Caracollo,2024,11,TOTAL,3
+La Paz,22001,Caranavi,2024,11,TOTAL,14
+Cochabamba,31204,Chimore,2024,11,TOTAL,3
+Cochabamba,30101,Cochabamba,2024,11,TOTAL,1
+Cochabamba,31002,Colomi,2024,11,TOTAL,1
+Santa Cruz,70102,Cotoca,2024,11,TOTAL,20
+La Paz,20105,El Alto,2024,11,TOTAL,12
+Santa Cruz,70105,El Torno,2024,11,TOTAL,8
+Cochabamba,31206,Entre Rios Cbba,2024,11,TOTAL,2
+Santa Cruz,71002,General Saavedra,2024,11,TOTAL,4
+Beni,80202,Guayaramerin,2024,11,TOTAL,1
+Oruro,40701,Huanuni,2024,11,TOTAL,4
+La Paz,20101,La Paz,2024,11,TOTAL,222
+La Paz,21202,Laja,2024,11,TOTAL,1
+Potosí,50203,Llallagua,2024,11,TOTAL,4
+Chuquisaca,10501,Monteagudo,2024,11,TOTAL,1
+Santa Cruz,71001,Montero,2024,11,TOTAL,17
+Cochabamba,30302,Morochata,2024,11,TOTAL,1
+Oruro,40101,Oruro,2024,11,TOTAL,22
+Tarija,60201,Padcaya,2024,11,TOTAL,2
+Potosí,50101,Potosi,2024,11,TOTAL,6
+Cochabamba,31205,Puerto Villarroel,2024,11,TOTAL,1
+Santa Cruz,70904,Quirusillas,2024,11,TOTAL,1
+Beni,80201,Riberalta,2024,11,TOTAL,7
+Beni,80302,San Borja,2024,11,TOTAL,104
+Tarija,60501,San Lorenzo(tja),2024,11,TOTAL,2
+Chuquisaca,10702,San Lucas,2024,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTAL,42
+Cochabamba,31602,Shinaota,2024,11,TOTAL,1
+Chuquisaca,10101,Sucre,2024,11,TOTAL,56
+Tarija,60101,Tarija,2024,11,TOTAL,3
+Potosí,50801,Tupiza,2024,11,TOTAL,3
+La Paz,20801,Viacha,2024,11,TOTAL,11
+Tarija,60303,Villa Montes,2024,11,TOTAL,10
+Santa Cruz,70201,Warnes,2024,11,TOTAL,15
+Tarija,60301,Yacuiba,2024,11,TOTAL,1
+Chuquisaca,10602,Yamparaez,2024,11,TOTAL,2
+Tarija,60202,Bermejo,2024,12,TOTAL,19
+La Paz,21304,Calamarca,2024,12,TOTAL,3
+Oruro,40102,Caracollo,2024,12,TOTAL,1
+La Paz,22001,Caranavi,2024,12,TOTAL,5
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2024,12,TOTAL,4
+Potosí,50601,Cotagaita,2024,12,TOTAL,4
+Santa Cruz,70102,Cotoca,2024,12,TOTAL,21
+La Paz,20105,El Alto,2024,12,TOTAL,16
+Santa Cruz,71002,General Saavedra,2024,12,TOTAL,6
+La Paz,20602,Guanay,2024,12,TOTAL,1
+Beni,80202,Guayaramerin,2024,12,TOTAL,7
+Oruro,40701,Huanuni,2024,12,TOTAL,1
+La Paz,21501,Ixiamas,2024,12,TOTAL,1
+La Paz,20806,Jesus De Machaca,2024,12,TOTAL,1
+La Paz,20101,La Paz,2024,12,TOTAL,205
+Santa Cruz,71001,Montero,2024,12,TOTAL,4
+Oruro,40101,Oruro,2024,12,TOTAL,27
+Oruro,40601,Poopo,2024,12,TOTAL,2
+Cochabamba,30901,Quillacollo,2024,12,TOTAL,1
+Beni,80201,Riberalta,2024,12,TOTAL,3
+Cochabamba,31001,Sacaba,2024,12,TOTAL,2
+Santa Cruz,70901,Samaipata,2024,12,TOTAL,1
+Beni,80302,San Borja,2024,12,TOTAL,58
+Tarija,60501,San Lorenzo(tja),2024,12,TOTAL,9
+Chuquisaca,10101,Sucre,2024,12,TOTAL,1
+Tarija,60101,Tarija,2024,12,TOTAL,5
+Tarija,60401,Uriondo (a. Concepcion),2024,12,TOTAL,1
+La Paz,20801,Viacha,2024,12,TOTAL,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,12,TOTAL,5
+Potosí,51501,Villazon,2024,12,TOTAL,1
+Santa Cruz,70201,Warnes,2024,12,TOTAL,8
+Tarija,60301,Yacuiba,2024,12,TOTAL,3
+Chuquisaca,10602,Yamparaez,2024,12,TOTAL,1

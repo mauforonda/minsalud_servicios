@@ -1,0 +1,869 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20701,Apolo,2005,1,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71501,Ascencion De Guarayos,2005,1,Fallecidos a partir de las 48 horas,4
+Potosí,50802,Atocha,2005,1,Fallecidos a partir de las 48 horas,1
+Tarija,60202,Bermejo,2005,1,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70706,Camiri,2005,1,Fallecidos a partir de las 48 horas,13
+La Paz,22001,Caranavi,2005,1,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70702,Charagua,2005,1,Fallecidos a partir de las 48 horas,1
+La Paz,21101,Chulumani (v. De La Libertad),2005,1,Fallecidos a partir de las 48 horas,1
+Pando,90101,Cobija,2005,1,Fallecidos a partir de las 48 horas,2
+Cochabamba,30101,Cochabamba,2005,1,Fallecidos a partir de las 48 horas,78
+La Paz,21401,Coroico,2005,1,Fallecidos a partir de las 48 horas,1
+La Paz,20105,El Alto,2005,1,Fallecidos a partir de las 48 horas,18
+Beni,80202,Guayaramerin,2005,1,Fallecidos a partir de las 48 horas,1
+La Paz,20101,La Paz,2005,1,Fallecidos a partir de las 48 horas,118
+Potosí,50203,Llallagua,2005,1,Fallecidos a partir de las 48 horas,3
+Santa Cruz,71001,Montero,2005,1,Fallecidos a partir de las 48 horas,7
+Oruro,40101,Oruro,2005,1,Fallecidos a partir de las 48 horas,9
+Chuquisaca,10401,Padilla,2005,1,Fallecidos a partir de las 48 horas,1
+Potosí,50101,Potosi,2005,1,Fallecidos a partir de las 48 horas,26
+Santa Cruz,71401,Puerto Suarez,2005,1,Fallecidos a partir de las 48 horas,1
+Cochabamba,31205,Puerto Villarroel,2005,1,Fallecidos a partir de las 48 horas,1
+Cochabamba,31401,Punata,2005,1,Fallecidos a partir de las 48 horas,4
+Cochabamba,30901,Quillacollo,2005,1,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,1,Fallecidos a partir de las 48 horas,1
+Beni,80304,Rurrenabaque,2005,1,Fallecidos a partir de las 48 horas,1
+Beni,80302,San Borja,2005,1,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,1,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70501,San Jose De Chiquitos,2005,1,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71201,San Matias,2005,1,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71005,San Pedro,2005,1,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,Fallecidos a partir de las 48 horas,147
+Chuquisaca,10101,Sucre,2005,1,Fallecidos a partir de las 48 horas,21
+Tarija,60101,Tarija,2005,1,Fallecidos a partir de las 48 horas,22
+Beni,80101,Trinidad,2005,1,Fallecidos a partir de las 48 horas,10
+Potosí,50801,Tupiza,2005,1,Fallecidos a partir de las 48 horas,2
+Potosí,50201,Uncia,2005,1,Fallecidos a partir de las 48 horas,2
+Tarija,60303,Villa Montes,2005,1,Fallecidos a partir de las 48 horas,1
+Cochabamba,31003,Villa Tunari,2005,1,Fallecidos a partir de las 48 horas,1
+Potosí,51501,Villazon,2005,1,Fallecidos a partir de las 48 horas,3
+Tarija,60301,Yacuiba,2005,1,Fallecidos a partir de las 48 horas,10
+Potosí,50802,Atocha,2005,2,Fallecidos a partir de las 48 horas,1
+Tarija,60202,Bermejo,2005,2,Fallecidos a partir de las 48 horas,2
+Chuquisaca,10701,Camargo,2005,2,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70706,Camiri,2005,2,Fallecidos a partir de las 48 horas,4
+Oruro,40201,Challapata,2005,2,Fallecidos a partir de las 48 horas,1
+Potosí,50202,Chayanta,2005,2,Fallecidos a partir de las 48 horas,1
+Pando,90101,Cobija,2005,2,Fallecidos a partir de las 48 horas,1
+Cochabamba,30101,Cochabamba,2005,2,Fallecidos a partir de las 48 horas,50
+Cochabamba,30905,Colcapirhua,2005,2,Fallecidos a partir de las 48 horas,1
+La Paz,21401,Coroico,2005,2,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70102,Cotoca,2005,2,Fallecidos a partir de las 48 horas,1
+La Paz,20105,El Alto,2005,2,Fallecidos a partir de las 48 horas,14
+La Paz,20101,La Paz,2005,2,Fallecidos a partir de las 48 horas,106
+Beni,80801,Magdalena,2005,2,Fallecidos a partir de las 48 horas,2
+Santa Cruz,71001,Montero,2005,2,Fallecidos a partir de las 48 horas,3
+Oruro,40101,Oruro,2005,2,Fallecidos a partir de las 48 horas,35
+Potosí,50101,Potosi,2005,2,Fallecidos a partir de las 48 horas,14
+Cochabamba,31205,Puerto Villarroel,2005,2,Fallecidos a partir de las 48 horas,2
+Cochabamba,31401,Punata,2005,2,Fallecidos a partir de las 48 horas,3
+Beni,80301,Reyes,2005,2,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,2,Fallecidos a partir de las 48 horas,7
+Santa Cruz,70503,Robore,2005,2,Fallecidos a partir de las 48 horas,1
+Beni,80304,Rurrenabaque,2005,2,Fallecidos a partir de las 48 horas,1
+Beni,80302,San Borja,2005,2,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,2,Fallecidos a partir de las 48 horas,4
+Beni,80401,Santa Ana,2005,2,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,Fallecidos a partir de las 48 horas,112
+Cochabamba,30902,Sipe Sipe,2005,2,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10101,Sucre,2005,2,Fallecidos a partir de las 48 horas,21
+Tarija,60101,Tarija,2005,2,Fallecidos a partir de las 48 horas,21
+Cochabamba,31601,Tiraque (cbba),2005,2,Fallecidos a partir de las 48 horas,1
+Beni,80101,Trinidad,2005,2,Fallecidos a partir de las 48 horas,4
+Potosí,50801,Tupiza,2005,2,Fallecidos a partir de las 48 horas,6
+Potosí,50201,Uncia,2005,2,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70801,Vallegrande,2005,2,Fallecidos a partir de las 48 horas,3
+Tarija,60303,Villa Montes,2005,2,Fallecidos a partir de las 48 horas,3
+Cochabamba,31003,Villa Tunari,2005,2,Fallecidos a partir de las 48 horas,3
+Potosí,51501,Villazon,2005,2,Fallecidos a partir de las 48 horas,3
+Tarija,60301,Yacuiba,2005,2,Fallecidos a partir de las 48 horas,4
+Potosí,50802,Atocha,2005,3,Fallecidos a partir de las 48 horas,1
+Tarija,60202,Bermejo,2005,3,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70703,Cabezas,2005,3,Fallecidos a partir de las 48 horas,4
+Santa Cruz,70706,Camiri,2005,3,Fallecidos a partir de las 48 horas,4
+La Paz,22001,Caranavi,2005,3,Fallecidos a partir de las 48 horas,1
+La Paz,21101,Chulumani (v. De La Libertad),2005,3,Fallecidos a partir de las 48 horas,1
+Pando,90101,Cobija,2005,3,Fallecidos a partir de las 48 horas,4
+Cochabamba,30101,Cochabamba,2005,3,Fallecidos a partir de las 48 horas,80
+Cochabamba,30905,Colcapirhua,2005,3,Fallecidos a partir de las 48 horas,3
+La Paz,21401,Coroico,2005,3,Fallecidos a partir de las 48 horas,1
+La Paz,20105,El Alto,2005,3,Fallecidos a partir de las 48 horas,9
+La Paz,20101,La Paz,2005,3,Fallecidos a partir de las 48 horas,118
+Potosí,50203,Llallagua,2005,3,Fallecidos a partir de las 48 horas,1
+Beni,80801,Magdalena,2005,3,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10501,Monteagudo,2005,3,Fallecidos a partir de las 48 horas,2
+Oruro,40101,Oruro,2005,3,Fallecidos a partir de las 48 horas,49
+Potosí,50101,Potosi,2005,3,Fallecidos a partir de las 48 horas,15
+Cochabamba,31401,Punata,2005,3,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,3,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70503,Robore,2005,3,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,3,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,Fallecidos a partir de las 48 horas,116
+Chuquisaca,10101,Sucre,2005,3,Fallecidos a partir de las 48 horas,19
+Tarija,60101,Tarija,2005,3,Fallecidos a partir de las 48 horas,28
+Beni,80101,Trinidad,2005,3,Fallecidos a partir de las 48 horas,8
+Potosí,50801,Tupiza,2005,3,Fallecidos a partir de las 48 horas,7
+Tarija,60303,Villa Montes,2005,3,Fallecidos a partir de las 48 horas,4
+Cochabamba,31003,Villa Tunari,2005,3,Fallecidos a partir de las 48 horas,3
+Potosí,51501,Villazon,2005,3,Fallecidos a partir de las 48 horas,1
+Tarija,60301,Yacuiba,2005,3,Fallecidos a partir de las 48 horas,8
+Chuquisaca,10602,Yamparaez,2005,3,Fallecidos a partir de las 48 horas,1
+Tarija,60202,Bermejo,2005,4,Fallecidos a partir de las 48 horas,2
+Chuquisaca,10701,Camargo,2005,4,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70706,Camiri,2005,4,Fallecidos a partir de las 48 horas,6
+La Paz,22001,Caranavi,2005,4,Fallecidos a partir de las 48 horas,2
+Pando,90101,Cobija,2005,4,Fallecidos a partir de las 48 horas,1
+Cochabamba,30101,Cochabamba,2005,4,Fallecidos a partir de las 48 horas,57
+La Paz,20105,El Alto,2005,4,Fallecidos a partir de las 48 horas,6
+Beni,80202,Guayaramerin,2005,4,Fallecidos a partir de las 48 horas,1
+La Paz,20101,La Paz,2005,4,Fallecidos a partir de las 48 horas,108
+Potosí,50203,Llallagua,2005,4,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10501,Monteagudo,2005,4,Fallecidos a partir de las 48 horas,2
+Santa Cruz,71001,Montero,2005,4,Fallecidos a partir de las 48 horas,1
+Oruro,40101,Oruro,2005,4,Fallecidos a partir de las 48 horas,22
+Chuquisaca,10401,Padilla,2005,4,Fallecidos a partir de las 48 horas,1
+Potosí,50101,Potosi,2005,4,Fallecidos a partir de las 48 horas,24
+Santa Cruz,71402,Puerto Quijarro,2005,4,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71401,Puerto Suarez,2005,4,Fallecidos a partir de las 48 horas,3
+Cochabamba,31205,Puerto Villarroel,2005,4,Fallecidos a partir de las 48 horas,1
+Cochabamba,31401,Punata,2005,4,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,4,Fallecidos a partir de las 48 horas,5
+Santa Cruz,70301,San Ignacio De Velasco,2005,4,Fallecidos a partir de las 48 horas,5
+Beni,80701,San Joaquin,2005,4,Fallecidos a partir de las 48 horas,1
+Beni,80401,Santa Ana,2005,4,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,4,Fallecidos a partir de las 48 horas,92
+Chuquisaca,10403,Sopachuy,2005,4,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10101,Sucre,2005,4,Fallecidos a partir de las 48 horas,21
+Chuquisaca,10601,Tarabuco,2005,4,Fallecidos a partir de las 48 horas,1
+Tarija,60101,Tarija,2005,4,Fallecidos a partir de las 48 horas,21
+Cochabamba,31601,Tiraque (cbba),2005,4,Fallecidos a partir de las 48 horas,1
+Beni,80101,Trinidad,2005,4,Fallecidos a partir de las 48 horas,10
+Potosí,50801,Tupiza,2005,4,Fallecidos a partir de las 48 horas,3
+Potosí,50201,Uncia,2005,4,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70801,Vallegrande,2005,4,Fallecidos a partir de las 48 horas,4
+Tarija,60303,Villa Montes,2005,4,Fallecidos a partir de las 48 horas,2
+Cochabamba,31003,Villa Tunari,2005,4,Fallecidos a partir de las 48 horas,1
+Potosí,51501,Villazon,2005,4,Fallecidos a partir de las 48 horas,1
+Tarija,60301,Yacuiba,2005,4,Fallecidos a partir de las 48 horas,2
+La Paz,20701,Apolo,2005,5,Fallecidos a partir de las 48 horas,1
+Tarija,60202,Bermejo,2005,5,Fallecidos a partir de las 48 horas,2
+Chuquisaca,10701,Camargo,2005,5,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70706,Camiri,2005,5,Fallecidos a partir de las 48 horas,3
+La Paz,22001,Caranavi,2005,5,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70702,Charagua,2005,5,Fallecidos a partir de las 48 horas,1
+Cochabamba,30101,Cochabamba,2005,5,Fallecidos a partir de las 48 horas,63
+Cochabamba,30905,Colcapirhua,2005,5,Fallecidos a partir de las 48 horas,1
+La Paz,21401,Coroico,2005,5,Fallecidos a partir de las 48 horas,1
+La Paz,20105,El Alto,2005,5,Fallecidos a partir de las 48 horas,6
+Tarija,60601,Entre Rios,2005,5,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71004,Fernandez Alonso,2005,5,Fallecidos a partir de las 48 horas,1
+Beni,80202,Guayaramerin,2005,5,Fallecidos a partir de las 48 horas,2
+La Paz,20101,La Paz,2005,5,Fallecidos a partir de las 48 horas,136
+Potosí,50203,Llallagua,2005,5,Fallecidos a partir de las 48 horas,2
+Chuquisaca,10501,Monteagudo,2005,5,Fallecidos a partir de las 48 horas,1
+Oruro,40101,Oruro,2005,5,Fallecidos a partir de las 48 horas,40
+Potosí,50101,Potosi,2005,5,Fallecidos a partir de las 48 horas,30
+Santa Cruz,71402,Puerto Quijarro,2005,5,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71401,Puerto Suarez,2005,5,Fallecidos a partir de las 48 horas,1
+Cochabamba,31205,Puerto Villarroel,2005,5,Fallecidos a partir de las 48 horas,2
+Cochabamba,31401,Punata,2005,5,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,5,Fallecidos a partir de las 48 horas,4
+Santa Cruz,70503,Robore,2005,5,Fallecidos a partir de las 48 horas,1
+Beni,80304,Rurrenabaque,2005,5,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70301,San Ignacio De Velasco,2005,5,Fallecidos a partir de las 48 horas,3
+Beni,80701,San Joaquin,2005,5,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70404,San Juan De Yapacani,2005,5,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71201,San Matias,2005,5,Fallecidos a partir de las 48 horas,1
+Beni,80401,Santa Ana,2005,5,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,5,Fallecidos a partir de las 48 horas,95
+Chuquisaca,10101,Sucre,2005,5,Fallecidos a partir de las 48 horas,32
+Tarija,60101,Tarija,2005,5,Fallecidos a partir de las 48 horas,22
+Beni,80101,Trinidad,2005,5,Fallecidos a partir de las 48 horas,8
+Potosí,50801,Tupiza,2005,5,Fallecidos a partir de las 48 horas,2
+Potosí,50201,Uncia,2005,5,Fallecidos a partir de las 48 horas,1
+Tarija,60303,Villa Montes,2005,5,Fallecidos a partir de las 48 horas,2
+Potosí,51501,Villazon,2005,5,Fallecidos a partir de las 48 horas,2
+Tarija,60301,Yacuiba,2005,5,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70403,Yapacani,2005,5,Fallecidos a partir de las 48 horas,3
+Cochabamba,30201,Aiquile,2005,6,Fallecidos a partir de las 48 horas,1
+Tarija,60202,Bermejo,2005,6,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70707,Boyuibe,2005,6,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10701,Camargo,2005,6,Fallecidos a partir de las 48 horas,3
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,6,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70706,Camiri,2005,6,Fallecidos a partir de las 48 horas,2
+Santa Cruz,71403,Carmen Rivero Torrez,2005,6,Fallecidos a partir de las 48 horas,4
+La Paz,21101,Chulumani (v. De La Libertad),2005,6,Fallecidos a partir de las 48 horas,1
+Pando,90101,Cobija,2005,6,Fallecidos a partir de las 48 horas,2
+Cochabamba,30101,Cochabamba,2005,6,Fallecidos a partir de las 48 horas,45
+Cochabamba,30905,Colcapirhua,2005,6,Fallecidos a partir de las 48 horas,1
+La Paz,20105,El Alto,2005,6,Fallecidos a partir de las 48 horas,4
+La Paz,20101,La Paz,2005,6,Fallecidos a partir de las 48 horas,123
+Potosí,50203,Llallagua,2005,6,Fallecidos a partir de las 48 horas,2
+Santa Cruz,71001,Montero,2005,6,Fallecidos a partir de las 48 horas,2
+Oruro,40101,Oruro,2005,6,Fallecidos a partir de las 48 horas,29
+Santa Cruz,70601,Portachuelo,2005,6,Fallecidos a partir de las 48 horas,1
+Potosí,50101,Potosi,2005,6,Fallecidos a partir de las 48 horas,22
+Santa Cruz,71401,Puerto Suarez,2005,6,Fallecidos a partir de las 48 horas,1
+Cochabamba,31401,Punata,2005,6,Fallecidos a partir de las 48 horas,1
+Beni,80301,Reyes,2005,6,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,6,Fallecidos a partir de las 48 horas,4
+Santa Cruz,70301,San Ignacio De Velasco,2005,6,Fallecidos a partir de las 48 horas,4
+Chuquisaca,10702,San Lucas,2005,6,Fallecidos a partir de las 48 horas,1
+Beni,80401,Santa Ana,2005,6,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,Fallecidos a partir de las 48 horas,94
+Chuquisaca,10101,Sucre,2005,6,Fallecidos a partir de las 48 horas,32
+Tarija,60101,Tarija,2005,6,Fallecidos a partir de las 48 horas,24
+Beni,80101,Trinidad,2005,6,Fallecidos a partir de las 48 horas,4
+Potosí,50801,Tupiza,2005,6,Fallecidos a partir de las 48 horas,7
+Potosí,50201,Uncia,2005,6,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70801,Vallegrande,2005,6,Fallecidos a partir de las 48 horas,2
+Tarija,60303,Villa Montes,2005,6,Fallecidos a partir de las 48 horas,7
+Cochabamba,31003,Villa Tunari,2005,6,Fallecidos a partir de las 48 horas,1
+Potosí,51501,Villazon,2005,6,Fallecidos a partir de las 48 horas,1
+Tarija,60301,Yacuiba,2005,6,Fallecidos a partir de las 48 horas,5
+Oruro,40603,Antequera,2005,7,Fallecidos a partir de las 48 horas,1
+Potosí,50802,Atocha,2005,7,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10701,Camargo,2005,7,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70706,Camiri,2005,7,Fallecidos a partir de las 48 horas,4
+La Paz,22001,Caranavi,2005,7,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70702,Charagua,2005,7,Fallecidos a partir de las 48 horas,1
+Pando,90101,Cobija,2005,7,Fallecidos a partir de las 48 horas,1
+Cochabamba,30101,Cochabamba,2005,7,Fallecidos a partir de las 48 horas,54
+La Paz,20105,El Alto,2005,7,Fallecidos a partir de las 48 horas,10
+Beni,80202,Guayaramerin,2005,7,Fallecidos a partir de las 48 horas,2
+La Paz,20101,La Paz,2005,7,Fallecidos a partir de las 48 horas,119
+Potosí,50203,Llallagua,2005,7,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71001,Montero,2005,7,Fallecidos a partir de las 48 horas,1
+Oruro,40101,Oruro,2005,7,Fallecidos a partir de las 48 horas,34
+Potosí,50101,Potosi,2005,7,Fallecidos a partir de las 48 horas,27
+Santa Cruz,71401,Puerto Suarez,2005,7,Fallecidos a partir de las 48 horas,1
+Cochabamba,31401,Punata,2005,7,Fallecidos a partir de las 48 horas,5
+Beni,80201,Riberalta,2005,7,Fallecidos a partir de las 48 horas,3
+Santa Cruz,70503,Robore,2005,7,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70402,San Carlos,2005,7,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,7,Fallecidos a partir de las 48 horas,3
+Beni,80401,Santa Ana,2005,7,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,Fallecidos a partir de las 48 horas,103
+Chuquisaca,10101,Sucre,2005,7,Fallecidos a partir de las 48 horas,25
+Chuquisaca,10601,Tarabuco,2005,7,Fallecidos a partir de las 48 horas,1
+Tarija,60101,Tarija,2005,7,Fallecidos a partir de las 48 horas,29
+Potosí,50502,Toro Toro,2005,7,Fallecidos a partir de las 48 horas,6
+Beni,80101,Trinidad,2005,7,Fallecidos a partir de las 48 horas,7
+Potosí,50801,Tupiza,2005,7,Fallecidos a partir de las 48 horas,3
+Potosí,50201,Uncia,2005,7,Fallecidos a partir de las 48 horas,4
+Tarija,60303,Villa Montes,2005,7,Fallecidos a partir de las 48 horas,1
+Potosí,51501,Villazon,2005,7,Fallecidos a partir de las 48 horas,1
+Tarija,60301,Yacuiba,2005,7,Fallecidos a partir de las 48 horas,4
+La Paz,20701,Apolo,2005,8,Fallecidos a partir de las 48 horas,1
+Potosí,50802,Atocha,2005,8,Fallecidos a partir de las 48 horas,1
+La Paz,21203,Batallas,2005,8,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70706,Camiri,2005,8,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70702,Charagua,2005,8,Fallecidos a partir de las 48 horas,1
+Cochabamba,30101,Cochabamba,2005,8,Fallecidos a partir de las 48 horas,56
+Santa Cruz,71101,Concepcion,2005,8,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10902,Culpina,2005,8,Fallecidos a partir de las 48 horas,1
+La Paz,20105,El Alto,2005,8,Fallecidos a partir de las 48 horas,12
+La Paz,21601,Gral. J.j. Perez (charazani),2005,8,Fallecidos a partir de las 48 horas,1
+Beni,80202,Guayaramerin,2005,8,Fallecidos a partir de las 48 horas,2
+La Paz,20101,La Paz,2005,8,Fallecidos a partir de las 48 horas,92
+Potosí,50203,Llallagua,2005,8,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10501,Monteagudo,2005,8,Fallecidos a partir de las 48 horas,1
+Oruro,40101,Oruro,2005,8,Fallecidos a partir de las 48 horas,36
+Potosí,50101,Potosi,2005,8,Fallecidos a partir de las 48 horas,27
+Cochabamba,31401,Punata,2005,8,Fallecidos a partir de las 48 horas,3
+Cochabamba,30901,Quillacollo,2005,8,Fallecidos a partir de las 48 horas,1
+Beni,80301,Reyes,2005,8,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,8,Fallecidos a partir de las 48 horas,7
+Santa Cruz,70301,San Ignacio De Velasco,2005,8,Fallecidos a partir de las 48 horas,5
+Beni,80401,Santa Ana,2005,8,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,Fallecidos a partir de las 48 horas,87
+Chuquisaca,10101,Sucre,2005,8,Fallecidos a partir de las 48 horas,30
+Tarija,60101,Tarija,2005,8,Fallecidos a partir de las 48 horas,32
+Beni,80101,Trinidad,2005,8,Fallecidos a partir de las 48 horas,3
+Potosí,50801,Tupiza,2005,8,Fallecidos a partir de las 48 horas,10
+Potosí,50201,Uncia,2005,8,Fallecidos a partir de las 48 horas,2
+Potosí,51201,Uyuni,2005,8,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70801,Vallegrande,2005,8,Fallecidos a partir de las 48 horas,1
+Tarija,60303,Villa Montes,2005,8,Fallecidos a partir de las 48 horas,1
+Tarija,60301,Yacuiba,2005,8,Fallecidos a partir de las 48 horas,6
+Chuquisaca,10301,Zudañez,2005,8,Fallecidos a partir de las 48 horas,1
+Potosí,50802,Atocha,2005,9,Fallecidos a partir de las 48 horas,2
+Tarija,60202,Bermejo,2005,9,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70706,Camiri,2005,9,Fallecidos a partir de las 48 horas,3
+La Paz,22001,Caranavi,2005,9,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70702,Charagua,2005,9,Fallecidos a partir de las 48 horas,1
+Pando,90101,Cobija,2005,9,Fallecidos a partir de las 48 horas,1
+Cochabamba,30101,Cochabamba,2005,9,Fallecidos a partir de las 48 horas,57
+Cochabamba,30905,Colcapirhua,2005,9,Fallecidos a partir de las 48 horas,1
+La Paz,21401,Coroico,2005,9,Fallecidos a partir de las 48 horas,1
+La Paz,20105,El Alto,2005,9,Fallecidos a partir de las 48 horas,18
+Santa Cruz,71004,Fernandez Alonso,2005,9,Fallecidos a partir de las 48 horas,1
+Beni,80202,Guayaramerin,2005,9,Fallecidos a partir de las 48 horas,2
+La Paz,20101,La Paz,2005,9,Fallecidos a partir de las 48 horas,103
+Beni,80801,Magdalena,2005,9,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71001,Montero,2005,9,Fallecidos a partir de las 48 horas,3
+Oruro,40101,Oruro,2005,9,Fallecidos a partir de las 48 horas,27
+Santa Cruz,70601,Portachuelo,2005,9,Fallecidos a partir de las 48 horas,1
+Potosí,50101,Potosi,2005,9,Fallecidos a partir de las 48 horas,22
+Cochabamba,31205,Puerto Villarroel,2005,9,Fallecidos a partir de las 48 horas,1
+Potosí,50402,Ravelo,2005,9,Fallecidos a partir de las 48 horas,2
+Beni,80201,Riberalta,2005,9,Fallecidos a partir de las 48 horas,4
+Beni,80302,San Borja,2005,9,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,9,Fallecidos a partir de las 48 horas,2
+Beni,80701,San Joaquin,2005,9,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70404,San Juan De Yapacani,2005,9,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10702,San Lucas,2005,9,Fallecidos a partir de las 48 horas,1
+Beni,80702,San Ramon,2005,9,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,9,Fallecidos a partir de las 48 horas,95
+Chuquisaca,10101,Sucre,2005,9,Fallecidos a partir de las 48 horas,31
+Tarija,60101,Tarija,2005,9,Fallecidos a partir de las 48 horas,26
+Beni,80101,Trinidad,2005,9,Fallecidos a partir de las 48 horas,1
+Potosí,50801,Tupiza,2005,9,Fallecidos a partir de las 48 horas,5
+Potosí,50201,Uncia,2005,9,Fallecidos a partir de las 48 horas,5
+Santa Cruz,70801,Vallegrande,2005,9,Fallecidos a partir de las 48 horas,2
+Potosí,51501,Villazon,2005,9,Fallecidos a partir de las 48 horas,1
+Tarija,60301,Yacuiba,2005,9,Fallecidos a partir de las 48 horas,4
+Potosí,50802,Atocha,2005,10,Fallecidos a partir de las 48 horas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,10,Fallecidos a partir de las 48 horas,1
+Tarija,60202,Bermejo,2005,10,Fallecidos a partir de las 48 horas,2
+Chuquisaca,10701,Camargo,2005,10,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70706,Camiri,2005,10,Fallecidos a partir de las 48 horas,7
+La Paz,22001,Caranavi,2005,10,Fallecidos a partir de las 48 horas,1
+Cochabamba,30101,Cochabamba,2005,10,Fallecidos a partir de las 48 horas,59
+Cochabamba,30905,Colcapirhua,2005,10,Fallecidos a partir de las 48 horas,2
+La Paz,21401,Coroico,2005,10,Fallecidos a partir de las 48 horas,1
+La Paz,20105,El Alto,2005,10,Fallecidos a partir de las 48 horas,13
+Beni,80202,Guayaramerin,2005,10,Fallecidos a partir de las 48 horas,4
+La Paz,21501,Ixiamas,2005,10,Fallecidos a partir de las 48 horas,1
+La Paz,20101,La Paz,2005,10,Fallecidos a partir de las 48 horas,124
+Potosí,50203,Llallagua,2005,10,Fallecidos a partir de las 48 horas,2
+Beni,80801,Magdalena,2005,10,Fallecidos a partir de las 48 horas,2
+Chuquisaca,10501,Monteagudo,2005,10,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71001,Montero,2005,10,Fallecidos a partir de las 48 horas,2
+Oruro,40101,Oruro,2005,10,Fallecidos a partir de las 48 horas,30
+La Paz,21104,Palos Blancos,2005,10,Fallecidos a partir de las 48 horas,1
+Potosí,50101,Potosi,2005,10,Fallecidos a partir de las 48 horas,13
+Cochabamba,31205,Puerto Villarroel,2005,10,Fallecidos a partir de las 48 horas,2
+Cochabamba,31401,Punata,2005,10,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,10,Fallecidos a partir de las 48 horas,2
+Beni,80304,Rurrenabaque,2005,10,Fallecidos a partir de las 48 horas,1
+Cochabamba,31001,Sacaba,2005,10,Fallecidos a partir de las 48 horas,1
+Beni,80302,San Borja,2005,10,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,10,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70501,San Jose De Chiquitos,2005,10,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10702,San Lucas,2005,10,Fallecidos a partir de las 48 horas,2
+Beni,80702,San Ramon,2005,10,Fallecidos a partir de las 48 horas,1
+Beni,80401,Santa Ana,2005,10,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,10,Fallecidos a partir de las 48 horas,93
+Beni,80303,Santa Rosa,2005,10,Fallecidos a partir de las 48 horas,2
+Chuquisaca,10101,Sucre,2005,10,Fallecidos a partir de las 48 horas,23
+Tarija,60101,Tarija,2005,10,Fallecidos a partir de las 48 horas,33
+Beni,80101,Trinidad,2005,10,Fallecidos a partir de las 48 horas,4
+Potosí,50801,Tupiza,2005,10,Fallecidos a partir de las 48 horas,4
+Potosí,50201,Uncia,2005,10,Fallecidos a partir de las 48 horas,4
+Santa Cruz,70801,Vallegrande,2005,10,Fallecidos a partir de las 48 horas,1
+Tarija,60303,Villa Montes,2005,10,Fallecidos a partir de las 48 horas,3
+Tarija,60301,Yacuiba,2005,10,Fallecidos a partir de las 48 horas,8
+La Paz,20701,Apolo,2005,11,Fallecidos a partir de las 48 horas,1
+Chuquisaca,10701,Camargo,2005,11,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70706,Camiri,2005,11,Fallecidos a partir de las 48 horas,1
+La Paz,22001,Caranavi,2005,11,Fallecidos a partir de las 48 horas,1
+Pando,90101,Cobija,2005,11,Fallecidos a partir de las 48 horas,1
+Cochabamba,30101,Cochabamba,2005,11,Fallecidos a partir de las 48 horas,62
+Santa Cruz,70704,Cuevo,2005,11,Fallecidos a partir de las 48 horas,1
+La Paz,20105,El Alto,2005,11,Fallecidos a partir de las 48 horas,6
+Beni,80202,Guayaramerin,2005,11,Fallecidos a partir de las 48 horas,2
+La Paz,20101,La Paz,2005,11,Fallecidos a partir de las 48 horas,112
+Potosí,50203,Llallagua,2005,11,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71001,Montero,2005,11,Fallecidos a partir de las 48 horas,3
+Oruro,40101,Oruro,2005,11,Fallecidos a partir de las 48 horas,52
+Santa Cruz,70502,Pailon,2005,11,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70601,Portachuelo,2005,11,Fallecidos a partir de las 48 horas,2
+Potosí,50101,Potosi,2005,11,Fallecidos a partir de las 48 horas,28
+Cochabamba,31401,Punata,2005,11,Fallecidos a partir de las 48 horas,1
+Beni,80301,Reyes,2005,11,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,11,Fallecidos a partir de las 48 horas,1
+Beni,80304,Rurrenabaque,2005,11,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70402,San Carlos,2005,11,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,11,Fallecidos a partir de las 48 horas,1
+Beni,80401,Santa Ana,2005,11,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,11,Fallecidos a partir de las 48 horas,109
+Chuquisaca,10101,Sucre,2005,11,Fallecidos a partir de las 48 horas,30
+Tarija,60101,Tarija,2005,11,Fallecidos a partir de las 48 horas,28
+Cochabamba,31601,Tiraque (cbba),2005,11,Fallecidos a partir de las 48 horas,1
+Cochabamba,31201,Totora(cbba),2005,11,Fallecidos a partir de las 48 horas,1
+Oruro,41301,Totora(orr),2005,11,Fallecidos a partir de las 48 horas,1
+Beni,80101,Trinidad,2005,11,Fallecidos a partir de las 48 horas,8
+Potosí,50801,Tupiza,2005,11,Fallecidos a partir de las 48 horas,5
+Potosí,50201,Uncia,2005,11,Fallecidos a partir de las 48 horas,4
+Santa Cruz,70801,Vallegrande,2005,11,Fallecidos a partir de las 48 horas,2
+Tarija,60303,Villa Montes,2005,11,Fallecidos a partir de las 48 horas,3
+Tarija,60301,Yacuiba,2005,11,Fallecidos a partir de las 48 horas,1
+Santa Cruz,71501,Ascencion De Guarayos,2005,12,Fallecidos a partir de las 48 horas,1
+Tarija,60202,Bermejo,2005,12,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70707,Boyuibe,2005,12,Fallecidos a partir de las 48 horas,1
+La Paz,21101,Chulumani (v. De La Libertad),2005,12,Fallecidos a partir de las 48 horas,1
+Pando,90101,Cobija,2005,12,Fallecidos a partir de las 48 horas,1
+Cochabamba,30101,Cochabamba,2005,12,Fallecidos a partir de las 48 horas,66
+La Paz,21401,Coroico,2005,12,Fallecidos a partir de las 48 horas,2
+La Paz,20105,El Alto,2005,12,Fallecidos a partir de las 48 horas,8
+Beni,80202,Guayaramerin,2005,12,Fallecidos a partir de las 48 horas,1
+La Paz,21102,Irupana (villa De Lanza),2005,12,Fallecidos a partir de las 48 horas,1
+La Paz,20101,La Paz,2005,12,Fallecidos a partir de las 48 horas,123
+Chuquisaca,10501,Monteagudo,2005,12,Fallecidos a partir de las 48 horas,2
+Santa Cruz,71001,Montero,2005,12,Fallecidos a partir de las 48 horas,4
+Oruro,40101,Oruro,2005,12,Fallecidos a partir de las 48 horas,34
+Cochabamba,31203,Pocona,2005,12,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70601,Portachuelo,2005,12,Fallecidos a partir de las 48 horas,2
+Potosí,50101,Potosi,2005,12,Fallecidos a partir de las 48 horas,29
+Cochabamba,31401,Punata,2005,12,Fallecidos a partir de las 48 horas,2
+Cochabamba,30901,Quillacollo,2005,12,Fallecidos a partir de las 48 horas,1
+Beni,80201,Riberalta,2005,12,Fallecidos a partir de las 48 horas,5
+Potosí,50701,Sacaca,2005,12,Fallecidos a partir de las 48 horas,1
+Beni,80302,San Borja,2005,12,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,12,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70404,San Juan De Yapacani,2005,12,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,12,Fallecidos a partir de las 48 horas,149
+Chuquisaca,10101,Sucre,2005,12,Fallecidos a partir de las 48 horas,17
+Tarija,60101,Tarija,2005,12,Fallecidos a partir de las 48 horas,30
+Beni,80101,Trinidad,2005,12,Fallecidos a partir de las 48 horas,4
+Potosí,50801,Tupiza,2005,12,Fallecidos a partir de las 48 horas,9
+Potosí,50201,Uncia,2005,12,Fallecidos a partir de las 48 horas,2
+Santa Cruz,70801,Vallegrande,2005,12,Fallecidos a partir de las 48 horas,1
+Santa Cruz,70201,Warnes,2005,12,Fallecidos a partir de las 48 horas,1
+Tarija,60301,Yacuiba,2005,12,Fallecidos a partir de las 48 horas,66
+La Paz,20701,Apolo,2005,1,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2005,1,TOTAL,4
+Potosí,50802,Atocha,2005,1,TOTAL,1
+Tarija,60202,Bermejo,2005,1,TOTAL,2
+Santa Cruz,70706,Camiri,2005,1,TOTAL,13
+La Paz,22001,Caranavi,2005,1,TOTAL,2
+Santa Cruz,70702,Charagua,2005,1,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2005,1,TOTAL,1
+Pando,90101,Cobija,2005,1,TOTAL,2
+Cochabamba,30101,Cochabamba,2005,1,TOTAL,78
+La Paz,21401,Coroico,2005,1,TOTAL,1
+La Paz,20105,El Alto,2005,1,TOTAL,18
+Beni,80202,Guayaramerin,2005,1,TOTAL,1
+La Paz,20101,La Paz,2005,1,TOTAL,118
+Potosí,50203,Llallagua,2005,1,TOTAL,3
+Santa Cruz,71001,Montero,2005,1,TOTAL,7
+Oruro,40101,Oruro,2005,1,TOTAL,9
+Chuquisaca,10401,Padilla,2005,1,TOTAL,1
+Potosí,50101,Potosi,2005,1,TOTAL,26
+Santa Cruz,71401,Puerto Suarez,2005,1,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2005,1,TOTAL,1
+Cochabamba,31401,Punata,2005,1,TOTAL,4
+Cochabamba,30901,Quillacollo,2005,1,TOTAL,1
+Beni,80201,Riberalta,2005,1,TOTAL,1
+Beni,80304,Rurrenabaque,2005,1,TOTAL,1
+Beni,80302,San Borja,2005,1,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,1,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2005,1,TOTAL,1
+Santa Cruz,71201,San Matias,2005,1,TOTAL,1
+Santa Cruz,71005,San Pedro,2005,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,TOTAL,147
+Chuquisaca,10101,Sucre,2005,1,TOTAL,21
+Tarija,60101,Tarija,2005,1,TOTAL,22
+Beni,80101,Trinidad,2005,1,TOTAL,10
+Potosí,50801,Tupiza,2005,1,TOTAL,2
+Potosí,50201,Uncia,2005,1,TOTAL,2
+Tarija,60303,Villa Montes,2005,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2005,1,TOTAL,1
+Potosí,51501,Villazon,2005,1,TOTAL,3
+Tarija,60301,Yacuiba,2005,1,TOTAL,10
+Potosí,50802,Atocha,2005,2,TOTAL,1
+Tarija,60202,Bermejo,2005,2,TOTAL,2
+Chuquisaca,10701,Camargo,2005,2,TOTAL,1
+Santa Cruz,70706,Camiri,2005,2,TOTAL,4
+Oruro,40201,Challapata,2005,2,TOTAL,1
+Potosí,50202,Chayanta,2005,2,TOTAL,1
+Pando,90101,Cobija,2005,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,2,TOTAL,50
+Cochabamba,30905,Colcapirhua,2005,2,TOTAL,1
+La Paz,21401,Coroico,2005,2,TOTAL,1
+Santa Cruz,70102,Cotoca,2005,2,TOTAL,1
+La Paz,20105,El Alto,2005,2,TOTAL,14
+La Paz,20101,La Paz,2005,2,TOTAL,106
+Beni,80801,Magdalena,2005,2,TOTAL,2
+Santa Cruz,71001,Montero,2005,2,TOTAL,3
+Oruro,40101,Oruro,2005,2,TOTAL,35
+Potosí,50101,Potosi,2005,2,TOTAL,14
+Cochabamba,31205,Puerto Villarroel,2005,2,TOTAL,2
+Cochabamba,31401,Punata,2005,2,TOTAL,3
+Beni,80301,Reyes,2005,2,TOTAL,1
+Beni,80201,Riberalta,2005,2,TOTAL,7
+Santa Cruz,70503,Robore,2005,2,TOTAL,1
+Beni,80304,Rurrenabaque,2005,2,TOTAL,1
+Beni,80302,San Borja,2005,2,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,2,TOTAL,4
+Beni,80401,Santa Ana,2005,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,TOTAL,112
+Cochabamba,30902,Sipe Sipe,2005,2,TOTAL,1
+Chuquisaca,10101,Sucre,2005,2,TOTAL,21
+Tarija,60101,Tarija,2005,2,TOTAL,21
+Cochabamba,31601,Tiraque (cbba),2005,2,TOTAL,1
+Beni,80101,Trinidad,2005,2,TOTAL,4
+Potosí,50801,Tupiza,2005,2,TOTAL,6
+Potosí,50201,Uncia,2005,2,TOTAL,3
+Santa Cruz,70801,Vallegrande,2005,2,TOTAL,3
+Tarija,60303,Villa Montes,2005,2,TOTAL,3
+Cochabamba,31003,Villa Tunari,2005,2,TOTAL,3
+Potosí,51501,Villazon,2005,2,TOTAL,3
+Tarija,60301,Yacuiba,2005,2,TOTAL,4
+Potosí,50802,Atocha,2005,3,TOTAL,1
+Tarija,60202,Bermejo,2005,3,TOTAL,1
+Santa Cruz,70703,Cabezas,2005,3,TOTAL,4
+Santa Cruz,70706,Camiri,2005,3,TOTAL,4
+La Paz,22001,Caranavi,2005,3,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2005,3,TOTAL,1
+Pando,90101,Cobija,2005,3,TOTAL,4
+Cochabamba,30101,Cochabamba,2005,3,TOTAL,80
+Cochabamba,30905,Colcapirhua,2005,3,TOTAL,3
+La Paz,21401,Coroico,2005,3,TOTAL,1
+La Paz,20105,El Alto,2005,3,TOTAL,9
+La Paz,20101,La Paz,2005,3,TOTAL,118
+Potosí,50203,Llallagua,2005,3,TOTAL,1
+Beni,80801,Magdalena,2005,3,TOTAL,1
+Chuquisaca,10501,Monteagudo,2005,3,TOTAL,2
+Oruro,40101,Oruro,2005,3,TOTAL,49
+Potosí,50101,Potosi,2005,3,TOTAL,15
+Cochabamba,31401,Punata,2005,3,TOTAL,1
+Beni,80201,Riberalta,2005,3,TOTAL,3
+Santa Cruz,70503,Robore,2005,3,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,3,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,TOTAL,116
+Chuquisaca,10101,Sucre,2005,3,TOTAL,19
+Tarija,60101,Tarija,2005,3,TOTAL,28
+Beni,80101,Trinidad,2005,3,TOTAL,8
+Potosí,50801,Tupiza,2005,3,TOTAL,7
+Tarija,60303,Villa Montes,2005,3,TOTAL,4
+Cochabamba,31003,Villa Tunari,2005,3,TOTAL,3
+Potosí,51501,Villazon,2005,3,TOTAL,1
+Tarija,60301,Yacuiba,2005,3,TOTAL,8
+Chuquisaca,10602,Yamparaez,2005,3,TOTAL,1
+Tarija,60202,Bermejo,2005,4,TOTAL,2
+Chuquisaca,10701,Camargo,2005,4,TOTAL,1
+Santa Cruz,70706,Camiri,2005,4,TOTAL,6
+La Paz,22001,Caranavi,2005,4,TOTAL,2
+Pando,90101,Cobija,2005,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,4,TOTAL,57
+La Paz,20105,El Alto,2005,4,TOTAL,6
+Beni,80202,Guayaramerin,2005,4,TOTAL,1
+La Paz,20101,La Paz,2005,4,TOTAL,108
+Potosí,50203,Llallagua,2005,4,TOTAL,1
+Chuquisaca,10501,Monteagudo,2005,4,TOTAL,2
+Santa Cruz,71001,Montero,2005,4,TOTAL,1
+Oruro,40101,Oruro,2005,4,TOTAL,22
+Chuquisaca,10401,Padilla,2005,4,TOTAL,1
+Potosí,50101,Potosi,2005,4,TOTAL,24
+Santa Cruz,71402,Puerto Quijarro,2005,4,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2005,4,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2005,4,TOTAL,1
+Cochabamba,31401,Punata,2005,4,TOTAL,1
+Beni,80201,Riberalta,2005,4,TOTAL,5
+Santa Cruz,70301,San Ignacio De Velasco,2005,4,TOTAL,5
+Beni,80701,San Joaquin,2005,4,TOTAL,1
+Beni,80401,Santa Ana,2005,4,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,4,TOTAL,92
+Chuquisaca,10403,Sopachuy,2005,4,TOTAL,1
+Chuquisaca,10101,Sucre,2005,4,TOTAL,21
+Chuquisaca,10601,Tarabuco,2005,4,TOTAL,1
+Tarija,60101,Tarija,2005,4,TOTAL,21
+Cochabamba,31601,Tiraque (cbba),2005,4,TOTAL,1
+Beni,80101,Trinidad,2005,4,TOTAL,10
+Potosí,50801,Tupiza,2005,4,TOTAL,3
+Potosí,50201,Uncia,2005,4,TOTAL,3
+Santa Cruz,70801,Vallegrande,2005,4,TOTAL,4
+Tarija,60303,Villa Montes,2005,4,TOTAL,2
+Cochabamba,31003,Villa Tunari,2005,4,TOTAL,1
+Potosí,51501,Villazon,2005,4,TOTAL,1
+Tarija,60301,Yacuiba,2005,4,TOTAL,2
+La Paz,20701,Apolo,2005,5,TOTAL,1
+Tarija,60202,Bermejo,2005,5,TOTAL,2
+Chuquisaca,10701,Camargo,2005,5,TOTAL,3
+Santa Cruz,70706,Camiri,2005,5,TOTAL,3
+La Paz,22001,Caranavi,2005,5,TOTAL,2
+Santa Cruz,70702,Charagua,2005,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,5,TOTAL,63
+Cochabamba,30905,Colcapirhua,2005,5,TOTAL,1
+La Paz,21401,Coroico,2005,5,TOTAL,1
+La Paz,20105,El Alto,2005,5,TOTAL,6
+Tarija,60601,Entre Rios,2005,5,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2005,5,TOTAL,1
+Beni,80202,Guayaramerin,2005,5,TOTAL,2
+La Paz,20101,La Paz,2005,5,TOTAL,136
+Potosí,50203,Llallagua,2005,5,TOTAL,2
+Chuquisaca,10501,Monteagudo,2005,5,TOTAL,1
+Oruro,40101,Oruro,2005,5,TOTAL,40
+Potosí,50101,Potosi,2005,5,TOTAL,30
+Santa Cruz,71402,Puerto Quijarro,2005,5,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2005,5,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2005,5,TOTAL,2
+Cochabamba,31401,Punata,2005,5,TOTAL,1
+Beni,80201,Riberalta,2005,5,TOTAL,4
+Santa Cruz,70503,Robore,2005,5,TOTAL,1
+Beni,80304,Rurrenabaque,2005,5,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2005,5,TOTAL,3
+Beni,80701,San Joaquin,2005,5,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2005,5,TOTAL,1
+Santa Cruz,71201,San Matias,2005,5,TOTAL,1
+Beni,80401,Santa Ana,2005,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,5,TOTAL,95
+Chuquisaca,10101,Sucre,2005,5,TOTAL,32
+Tarija,60101,Tarija,2005,5,TOTAL,22
+Beni,80101,Trinidad,2005,5,TOTAL,8
+Potosí,50801,Tupiza,2005,5,TOTAL,2
+Potosí,50201,Uncia,2005,5,TOTAL,1
+Tarija,60303,Villa Montes,2005,5,TOTAL,2
+Potosí,51501,Villazon,2005,5,TOTAL,2
+Tarija,60301,Yacuiba,2005,5,TOTAL,3
+Santa Cruz,70403,Yapacani,2005,5,TOTAL,3
+Cochabamba,30201,Aiquile,2005,6,TOTAL,1
+Tarija,60202,Bermejo,2005,6,TOTAL,1
+Santa Cruz,70707,Boyuibe,2005,6,TOTAL,1
+Chuquisaca,10701,Camargo,2005,6,TOTAL,3
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,6,TOTAL,1
+Santa Cruz,70706,Camiri,2005,6,TOTAL,2
+Santa Cruz,71403,Carmen Rivero Torrez,2005,6,TOTAL,4
+La Paz,21101,Chulumani (v. De La Libertad),2005,6,TOTAL,1
+Pando,90101,Cobija,2005,6,TOTAL,2
+Cochabamba,30101,Cochabamba,2005,6,TOTAL,45
+Cochabamba,30905,Colcapirhua,2005,6,TOTAL,1
+La Paz,20105,El Alto,2005,6,TOTAL,4
+La Paz,20101,La Paz,2005,6,TOTAL,123
+Potosí,50203,Llallagua,2005,6,TOTAL,2
+Santa Cruz,71001,Montero,2005,6,TOTAL,2
+Oruro,40101,Oruro,2005,6,TOTAL,29
+Santa Cruz,70601,Portachuelo,2005,6,TOTAL,1
+Potosí,50101,Potosi,2005,6,TOTAL,22
+Santa Cruz,71401,Puerto Suarez,2005,6,TOTAL,1
+Cochabamba,31401,Punata,2005,6,TOTAL,1
+Beni,80301,Reyes,2005,6,TOTAL,1
+Beni,80201,Riberalta,2005,6,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2005,6,TOTAL,4
+Chuquisaca,10702,San Lucas,2005,6,TOTAL,1
+Beni,80401,Santa Ana,2005,6,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,TOTAL,94
+Chuquisaca,10101,Sucre,2005,6,TOTAL,32
+Tarija,60101,Tarija,2005,6,TOTAL,24
+Beni,80101,Trinidad,2005,6,TOTAL,4
+Potosí,50801,Tupiza,2005,6,TOTAL,7
+Potosí,50201,Uncia,2005,6,TOTAL,3
+Santa Cruz,70801,Vallegrande,2005,6,TOTAL,2
+Tarija,60303,Villa Montes,2005,6,TOTAL,7
+Cochabamba,31003,Villa Tunari,2005,6,TOTAL,1
+Potosí,51501,Villazon,2005,6,TOTAL,1
+Tarija,60301,Yacuiba,2005,6,TOTAL,5
+Oruro,40603,Antequera,2005,7,TOTAL,1
+Potosí,50802,Atocha,2005,7,TOTAL,1
+Chuquisaca,10701,Camargo,2005,7,TOTAL,3
+Santa Cruz,70706,Camiri,2005,7,TOTAL,4
+La Paz,22001,Caranavi,2005,7,TOTAL,1
+Santa Cruz,70702,Charagua,2005,7,TOTAL,1
+Pando,90101,Cobija,2005,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,7,TOTAL,54
+La Paz,20105,El Alto,2005,7,TOTAL,10
+Beni,80202,Guayaramerin,2005,7,TOTAL,2
+La Paz,20101,La Paz,2005,7,TOTAL,119
+Potosí,50203,Llallagua,2005,7,TOTAL,1
+Santa Cruz,71001,Montero,2005,7,TOTAL,1
+Oruro,40101,Oruro,2005,7,TOTAL,34
+Potosí,50101,Potosi,2005,7,TOTAL,27
+Santa Cruz,71401,Puerto Suarez,2005,7,TOTAL,1
+Cochabamba,31401,Punata,2005,7,TOTAL,5
+Beni,80201,Riberalta,2005,7,TOTAL,3
+Santa Cruz,70503,Robore,2005,7,TOTAL,1
+Santa Cruz,70402,San Carlos,2005,7,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,7,TOTAL,3
+Beni,80401,Santa Ana,2005,7,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,TOTAL,103
+Chuquisaca,10101,Sucre,2005,7,TOTAL,25
+Chuquisaca,10601,Tarabuco,2005,7,TOTAL,1
+Tarija,60101,Tarija,2005,7,TOTAL,29
+Potosí,50502,Toro Toro,2005,7,TOTAL,6
+Beni,80101,Trinidad,2005,7,TOTAL,7
+Potosí,50801,Tupiza,2005,7,TOTAL,3
+Potosí,50201,Uncia,2005,7,TOTAL,4
+Tarija,60303,Villa Montes,2005,7,TOTAL,1
+Potosí,51501,Villazon,2005,7,TOTAL,1
+Tarija,60301,Yacuiba,2005,7,TOTAL,4
+La Paz,20701,Apolo,2005,8,TOTAL,1
+Potosí,50802,Atocha,2005,8,TOTAL,1
+La Paz,21203,Batallas,2005,8,TOTAL,1
+Santa Cruz,70706,Camiri,2005,8,TOTAL,2
+Santa Cruz,70702,Charagua,2005,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,8,TOTAL,56
+Santa Cruz,71101,Concepcion,2005,8,TOTAL,1
+Chuquisaca,10902,Culpina,2005,8,TOTAL,1
+La Paz,20105,El Alto,2005,8,TOTAL,12
+La Paz,21601,Gral. J.j. Perez (charazani),2005,8,TOTAL,1
+Beni,80202,Guayaramerin,2005,8,TOTAL,2
+La Paz,20101,La Paz,2005,8,TOTAL,92
+Potosí,50203,Llallagua,2005,8,TOTAL,1
+Chuquisaca,10501,Monteagudo,2005,8,TOTAL,1
+Oruro,40101,Oruro,2005,8,TOTAL,36
+Potosí,50101,Potosi,2005,8,TOTAL,27
+Cochabamba,31401,Punata,2005,8,TOTAL,3
+Cochabamba,30901,Quillacollo,2005,8,TOTAL,1
+Beni,80301,Reyes,2005,8,TOTAL,1
+Beni,80201,Riberalta,2005,8,TOTAL,7
+Santa Cruz,70301,San Ignacio De Velasco,2005,8,TOTAL,5
+Beni,80401,Santa Ana,2005,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,TOTAL,87
+Chuquisaca,10101,Sucre,2005,8,TOTAL,30
+Tarija,60101,Tarija,2005,8,TOTAL,32
+Beni,80101,Trinidad,2005,8,TOTAL,3
+Potosí,50801,Tupiza,2005,8,TOTAL,10
+Potosí,50201,Uncia,2005,8,TOTAL,2
+Potosí,51201,Uyuni,2005,8,TOTAL,1
+Santa Cruz,70801,Vallegrande,2005,8,TOTAL,1
+Tarija,60303,Villa Montes,2005,8,TOTAL,1
+Tarija,60301,Yacuiba,2005,8,TOTAL,6
+Chuquisaca,10301,Zudañez,2005,8,TOTAL,1
+Potosí,50802,Atocha,2005,9,TOTAL,2
+Tarija,60202,Bermejo,2005,9,TOTAL,1
+Santa Cruz,70706,Camiri,2005,9,TOTAL,3
+La Paz,22001,Caranavi,2005,9,TOTAL,1
+Santa Cruz,70702,Charagua,2005,9,TOTAL,1
+Pando,90101,Cobija,2005,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,9,TOTAL,57
+Cochabamba,30905,Colcapirhua,2005,9,TOTAL,1
+La Paz,21401,Coroico,2005,9,TOTAL,1
+La Paz,20105,El Alto,2005,9,TOTAL,18
+Santa Cruz,71004,Fernandez Alonso,2005,9,TOTAL,1
+Beni,80202,Guayaramerin,2005,9,TOTAL,2
+La Paz,20101,La Paz,2005,9,TOTAL,103
+Beni,80801,Magdalena,2005,9,TOTAL,1
+Santa Cruz,71001,Montero,2005,9,TOTAL,3
+Oruro,40101,Oruro,2005,9,TOTAL,27
+Santa Cruz,70601,Portachuelo,2005,9,TOTAL,1
+Potosí,50101,Potosi,2005,9,TOTAL,22
+Cochabamba,31205,Puerto Villarroel,2005,9,TOTAL,1
+Potosí,50402,Ravelo,2005,9,TOTAL,2
+Beni,80201,Riberalta,2005,9,TOTAL,4
+Beni,80302,San Borja,2005,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,9,TOTAL,2
+Beni,80701,San Joaquin,2005,9,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2005,9,TOTAL,1
+Chuquisaca,10702,San Lucas,2005,9,TOTAL,1
+Beni,80702,San Ramon,2005,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,9,TOTAL,95
+Chuquisaca,10101,Sucre,2005,9,TOTAL,31
+Tarija,60101,Tarija,2005,9,TOTAL,26
+Beni,80101,Trinidad,2005,9,TOTAL,1
+Potosí,50801,Tupiza,2005,9,TOTAL,5
+Potosí,50201,Uncia,2005,9,TOTAL,5
+Santa Cruz,70801,Vallegrande,2005,9,TOTAL,2
+Potosí,51501,Villazon,2005,9,TOTAL,1
+Tarija,60301,Yacuiba,2005,9,TOTAL,4
+Potosí,50802,Atocha,2005,10,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,10,TOTAL,1
+Tarija,60202,Bermejo,2005,10,TOTAL,2
+Chuquisaca,10701,Camargo,2005,10,TOTAL,1
+Santa Cruz,70706,Camiri,2005,10,TOTAL,7
+La Paz,22001,Caranavi,2005,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,10,TOTAL,59
+Cochabamba,30905,Colcapirhua,2005,10,TOTAL,2
+La Paz,21401,Coroico,2005,10,TOTAL,1
+La Paz,20105,El Alto,2005,10,TOTAL,13
+Beni,80202,Guayaramerin,2005,10,TOTAL,4
+La Paz,21501,Ixiamas,2005,10,TOTAL,1
+La Paz,20101,La Paz,2005,10,TOTAL,124
+Potosí,50203,Llallagua,2005,10,TOTAL,2
+Beni,80801,Magdalena,2005,10,TOTAL,2
+Chuquisaca,10501,Monteagudo,2005,10,TOTAL,1
+Santa Cruz,71001,Montero,2005,10,TOTAL,2
+Oruro,40101,Oruro,2005,10,TOTAL,30
+La Paz,21104,Palos Blancos,2005,10,TOTAL,1
+Potosí,50101,Potosi,2005,10,TOTAL,13
+Cochabamba,31205,Puerto Villarroel,2005,10,TOTAL,2
+Cochabamba,31401,Punata,2005,10,TOTAL,1
+Beni,80201,Riberalta,2005,10,TOTAL,2
+Beni,80304,Rurrenabaque,2005,10,TOTAL,1
+Cochabamba,31001,Sacaba,2005,10,TOTAL,1
+Beni,80302,San Borja,2005,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,10,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2005,10,TOTAL,1
+Chuquisaca,10702,San Lucas,2005,10,TOTAL,2
+Beni,80702,San Ramon,2005,10,TOTAL,1
+Beni,80401,Santa Ana,2005,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,10,TOTAL,93
+Beni,80303,Santa Rosa,2005,10,TOTAL,2
+Chuquisaca,10101,Sucre,2005,10,TOTAL,23
+Tarija,60101,Tarija,2005,10,TOTAL,33
+Beni,80101,Trinidad,2005,10,TOTAL,4
+Potosí,50801,Tupiza,2005,10,TOTAL,4
+Potosí,50201,Uncia,2005,10,TOTAL,4
+Santa Cruz,70801,Vallegrande,2005,10,TOTAL,1
+Tarija,60303,Villa Montes,2005,10,TOTAL,3
+Tarija,60301,Yacuiba,2005,10,TOTAL,8
+La Paz,20701,Apolo,2005,11,TOTAL,1
+Chuquisaca,10701,Camargo,2005,11,TOTAL,1
+Santa Cruz,70706,Camiri,2005,11,TOTAL,1
+La Paz,22001,Caranavi,2005,11,TOTAL,1
+Pando,90101,Cobija,2005,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,11,TOTAL,62
+Santa Cruz,70704,Cuevo,2005,11,TOTAL,1
+La Paz,20105,El Alto,2005,11,TOTAL,6
+Beni,80202,Guayaramerin,2005,11,TOTAL,2
+La Paz,20101,La Paz,2005,11,TOTAL,112
+Potosí,50203,Llallagua,2005,11,TOTAL,1
+Santa Cruz,71001,Montero,2005,11,TOTAL,3
+Oruro,40101,Oruro,2005,11,TOTAL,52
+Santa Cruz,70502,Pailon,2005,11,TOTAL,1
+Santa Cruz,70601,Portachuelo,2005,11,TOTAL,2
+Potosí,50101,Potosi,2005,11,TOTAL,28
+Cochabamba,31401,Punata,2005,11,TOTAL,1
+Beni,80301,Reyes,2005,11,TOTAL,1
+Beni,80201,Riberalta,2005,11,TOTAL,1
+Beni,80304,Rurrenabaque,2005,11,TOTAL,1
+Santa Cruz,70402,San Carlos,2005,11,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,11,TOTAL,1
+Beni,80401,Santa Ana,2005,11,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,11,TOTAL,109
+Chuquisaca,10101,Sucre,2005,11,TOTAL,30
+Tarija,60101,Tarija,2005,11,TOTAL,28
+Cochabamba,31601,Tiraque (cbba),2005,11,TOTAL,1
+Cochabamba,31201,Totora(cbba),2005,11,TOTAL,1
+Oruro,41301,Totora(orr),2005,11,TOTAL,1
+Beni,80101,Trinidad,2005,11,TOTAL,8
+Potosí,50801,Tupiza,2005,11,TOTAL,5
+Potosí,50201,Uncia,2005,11,TOTAL,4
+Santa Cruz,70801,Vallegrande,2005,11,TOTAL,2
+Tarija,60303,Villa Montes,2005,11,TOTAL,3
+Tarija,60301,Yacuiba,2005,11,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2005,12,TOTAL,1
+Tarija,60202,Bermejo,2005,12,TOTAL,2
+Santa Cruz,70707,Boyuibe,2005,12,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2005,12,TOTAL,1
+Pando,90101,Cobija,2005,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2005,12,TOTAL,66
+La Paz,21401,Coroico,2005,12,TOTAL,2
+La Paz,20105,El Alto,2005,12,TOTAL,8
+Beni,80202,Guayaramerin,2005,12,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2005,12,TOTAL,1
+La Paz,20101,La Paz,2005,12,TOTAL,123
+Chuquisaca,10501,Monteagudo,2005,12,TOTAL,2
+Santa Cruz,71001,Montero,2005,12,TOTAL,4
+Oruro,40101,Oruro,2005,12,TOTAL,34
+Cochabamba,31203,Pocona,2005,12,TOTAL,1
+Santa Cruz,70601,Portachuelo,2005,12,TOTAL,2
+Potosí,50101,Potosi,2005,12,TOTAL,29
+Cochabamba,31401,Punata,2005,12,TOTAL,2
+Cochabamba,30901,Quillacollo,2005,12,TOTAL,1
+Beni,80201,Riberalta,2005,12,TOTAL,5
+Potosí,50701,Sacaca,2005,12,TOTAL,1
+Beni,80302,San Borja,2005,12,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2005,12,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2005,12,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,12,TOTAL,149
+Chuquisaca,10101,Sucre,2005,12,TOTAL,17
+Tarija,60101,Tarija,2005,12,TOTAL,30
+Beni,80101,Trinidad,2005,12,TOTAL,4
+Potosí,50801,Tupiza,2005,12,TOTAL,9
+Potosí,50201,Uncia,2005,12,TOTAL,2
+Santa Cruz,70801,Vallegrande,2005,12,TOTAL,1
+Santa Cruz,70201,Warnes,2005,12,TOTAL,1
+Tarija,60301,Yacuiba,2005,12,TOTAL,66

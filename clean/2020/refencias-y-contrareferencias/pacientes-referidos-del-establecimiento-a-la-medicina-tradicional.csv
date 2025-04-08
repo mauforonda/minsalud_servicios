@@ -1,0 +1,187 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60202,Bermejo,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,14
+Chuquisaca,10304,Icla,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,5
+Chuquisaca,10703,Incahuasi,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,11003,Machareti,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10103,Poroma,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,12
+Santa Cruz,71005,San Pedro,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60101,Tarija,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10202,Tarvita,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10402,Tomina,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,6
+Chuquisaca,10801,Villa Serrano,2020,1,Pacientes referidos del establecimiento a la medicina tradicional,5
+La Paz,20105,El Alto,2020,2,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10501,Monteagudo,2020,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60201,Padcaya,2020,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10103,Poroma,2020,2,Pacientes referidos del establecimiento a la medicina tradicional,10
+Tarija,60101,Tarija,2020,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2020,2,Pacientes referidos del establecimiento a la medicina tradicional,5
+Tarija,60303,Villa Montes,2020,2,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10801,Villa Serrano,2020,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10703,Incahuasi,2020,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10103,Poroma,2020,3,Pacientes referidos del establecimiento a la medicina tradicional,13
+Santa Cruz,71105,San Antonio De Lomerio,2020,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Potosí,50501,San Pedro De Buena Vista,2020,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60101,Tarija,2020,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2020,3,Pacientes referidos del establecimiento a la medicina tradicional,7
+La Paz,22001,Caranavi,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,4
+La Paz,20105,El Alto,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10703,Incahuasi,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10501,Monteagudo,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10103,Poroma,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,7
+Chuquisaca,10101,Sucre,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10202,Tarvita,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10704,Villa Charcas,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60303,Villa Montes,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10801,Villa Serrano,2020,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2020,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71301,Comarapa,2020,5,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10501,Monteagudo,2020,5,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10103,Poroma,2020,5,Pacientes referidos del establecimiento a la medicina tradicional,10
+Chuquisaca,10702,San Lucas,2020,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10202,Tarvita,2020,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20803,Tiahuanacu,2020,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2020,5,Pacientes referidos del establecimiento a la medicina tradicional,4
+Santa Cruz,71301,Comarapa,2020,6,Pacientes referidos del establecimiento a la medicina tradicional,3
+La Paz,20105,El Alto,2020,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60502,El Puente(tja),2020,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10103,Poroma,2020,6,Pacientes referidos del establecimiento a la medicina tradicional,7
+Chuquisaca,10202,Tarvita,2020,6,Pacientes referidos del establecimiento a la medicina tradicional,4
+Chuquisaca,10402,Tomina,2020,6,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10704,Villa Charcas,2020,6,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60201,Padcaya,2020,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10103,Poroma,2020,7,Pacientes referidos del establecimiento a la medicina tradicional,6
+Chuquisaca,10202,Tarvita,2020,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2020,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60303,Villa Montes,2020,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2020,8,Pacientes referidos del establecimiento a la medicina tradicional,4
+Chuquisaca,10501,Monteagudo,2020,8,Pacientes referidos del establecimiento a la medicina tradicional,5
+Chuquisaca,10103,Poroma,2020,8,Pacientes referidos del establecimiento a la medicina tradicional,8
+Beni,80201,Riberalta,2020,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80101,Trinidad,2020,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2020,8,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60402,Yunchara,2020,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10201,Azurduy,2020,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2020,9,Pacientes referidos del establecimiento a la medicina tradicional,8
+Chuquisaca,10501,Monteagudo,2020,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70502,Pailon,2020,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10103,Poroma,2020,9,Pacientes referidos del establecimiento a la medicina tradicional,7
+Chuquisaca,10704,Villa Charcas,2020,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+Cochabamba,30402,Anzaldo,2020,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60502,El Puente(tja),2020,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10501,Monteagudo,2020,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60201,Padcaya,2020,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10103,Poroma,2020,10,Pacientes referidos del establecimiento a la medicina tradicional,4
+Beni,80201,Riberalta,2020,10,Pacientes referidos del establecimiento a la medicina tradicional,4
+Tarija,60501,San Lorenzo(tja),2020,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+Beni,80101,Trinidad,2020,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2020,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10902,Culpina,2020,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10103,Poroma,2020,11,Pacientes referidos del establecimiento a la medicina tradicional,6
+Santa Cruz,71401,Puerto Suarez,2020,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80102,San Javier(bni),2020,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60401,Uriondo (a. Concepcion),2020,11,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2020,11,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2020,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2020,12,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60502,El Puente(tja),2020,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60201,Padcaya,2020,12,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,70502,Pailon,2020,12,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10103,Poroma,2020,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80201,Riberalta,2020,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60401,Uriondo (a. Concepcion),2020,12,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2020,12,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60202,Bermejo,2020,1,TOTAL,1
+La Paz,20105,El Alto,2020,1,TOTAL,14
+Chuquisaca,10304,Icla,2020,1,TOTAL,5
+Chuquisaca,10703,Incahuasi,2020,1,TOTAL,1
+Chuquisaca,11003,Machareti,2020,1,TOTAL,1
+Chuquisaca,10103,Poroma,2020,1,TOTAL,12
+Santa Cruz,71005,San Pedro,2020,1,TOTAL,1
+Tarija,60101,Tarija,2020,1,TOTAL,1
+Chuquisaca,10202,Tarvita,2020,1,TOTAL,2
+Chuquisaca,10402,Tomina,2020,1,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2020,1,TOTAL,6
+Chuquisaca,10801,Villa Serrano,2020,1,TOTAL,5
+La Paz,20105,El Alto,2020,2,TOTAL,3
+Chuquisaca,10501,Monteagudo,2020,2,TOTAL,1
+Tarija,60201,Padcaya,2020,2,TOTAL,1
+Chuquisaca,10103,Poroma,2020,2,TOTAL,10
+Tarija,60101,Tarija,2020,2,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2020,2,TOTAL,5
+Tarija,60303,Villa Montes,2020,2,TOTAL,2
+Chuquisaca,10801,Villa Serrano,2020,2,TOTAL,1
+Chuquisaca,10703,Incahuasi,2020,3,TOTAL,1
+Chuquisaca,10103,Poroma,2020,3,TOTAL,13
+Santa Cruz,71105,San Antonio De Lomerio,2020,3,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2020,3,TOTAL,1
+Tarija,60101,Tarija,2020,3,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2020,3,TOTAL,7
+La Paz,22001,Caranavi,2020,4,TOTAL,4
+La Paz,20105,El Alto,2020,4,TOTAL,3
+Chuquisaca,10703,Incahuasi,2020,4,TOTAL,2
+Chuquisaca,10501,Monteagudo,2020,4,TOTAL,3
+Chuquisaca,10103,Poroma,2020,4,TOTAL,7
+Chuquisaca,10101,Sucre,2020,4,TOTAL,1
+Chuquisaca,10202,Tarvita,2020,4,TOTAL,3
+Chuquisaca,10704,Villa Charcas,2020,4,TOTAL,3
+Tarija,60303,Villa Montes,2020,4,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2020,4,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2020,5,TOTAL,1
+Santa Cruz,71301,Comarapa,2020,5,TOTAL,3
+Chuquisaca,10501,Monteagudo,2020,5,TOTAL,2
+Chuquisaca,10103,Poroma,2020,5,TOTAL,10
+Chuquisaca,10702,San Lucas,2020,5,TOTAL,1
+Chuquisaca,10202,Tarvita,2020,5,TOTAL,1
+La Paz,20803,Tiahuanacu,2020,5,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2020,5,TOTAL,4
+Santa Cruz,71301,Comarapa,2020,6,TOTAL,3
+La Paz,20105,El Alto,2020,6,TOTAL,1
+Tarija,60502,El Puente(tja),2020,6,TOTAL,1
+Chuquisaca,10103,Poroma,2020,6,TOTAL,7
+Chuquisaca,10202,Tarvita,2020,6,TOTAL,4
+Chuquisaca,10402,Tomina,2020,6,TOTAL,3
+Chuquisaca,10704,Villa Charcas,2020,6,TOTAL,2
+Tarija,60201,Padcaya,2020,7,TOTAL,2
+Chuquisaca,10103,Poroma,2020,7,TOTAL,6
+Chuquisaca,10202,Tarvita,2020,7,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2020,7,TOTAL,2
+Tarija,60303,Villa Montes,2020,7,TOTAL,1
+La Paz,20105,El Alto,2020,8,TOTAL,4
+Chuquisaca,10501,Monteagudo,2020,8,TOTAL,5
+Chuquisaca,10103,Poroma,2020,8,TOTAL,8
+Beni,80201,Riberalta,2020,8,TOTAL,1
+Beni,80101,Trinidad,2020,8,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2020,8,TOTAL,2
+Tarija,60402,Yunchara,2020,8,TOTAL,1
+Chuquisaca,10201,Azurduy,2020,9,TOTAL,1
+La Paz,20105,El Alto,2020,9,TOTAL,8
+Chuquisaca,10501,Monteagudo,2020,9,TOTAL,1
+Santa Cruz,70502,Pailon,2020,9,TOTAL,2
+Chuquisaca,10103,Poroma,2020,9,TOTAL,7
+Chuquisaca,10704,Villa Charcas,2020,9,TOTAL,2
+Cochabamba,30402,Anzaldo,2020,10,TOTAL,1
+Tarija,60502,El Puente(tja),2020,10,TOTAL,2
+Chuquisaca,10501,Monteagudo,2020,10,TOTAL,2
+Tarija,60201,Padcaya,2020,10,TOTAL,2
+Chuquisaca,10103,Poroma,2020,10,TOTAL,4
+Beni,80201,Riberalta,2020,10,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2020,10,TOTAL,2
+Beni,80101,Trinidad,2020,10,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2020,10,TOTAL,2
+Chuquisaca,10902,Culpina,2020,11,TOTAL,1
+Chuquisaca,10103,Poroma,2020,11,TOTAL,6
+Santa Cruz,71401,Puerto Suarez,2020,11,TOTAL,1
+Beni,80102,San Javier(bni),2020,11,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2020,11,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2020,11,TOTAL,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2020,11,TOTAL,1
+La Paz,20105,El Alto,2020,12,TOTAL,3
+Tarija,60502,El Puente(tja),2020,12,TOTAL,1
+Tarija,60201,Padcaya,2020,12,TOTAL,2
+Santa Cruz,70502,Pailon,2020,12,TOTAL,2
+Chuquisaca,10103,Poroma,2020,12,TOTAL,1
+Beni,80201,Riberalta,2020,12,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2020,12,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2020,12,TOTAL,2

@@ -1,0 +1,445 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20501,Chuma,2008,1,Cirugia maxilo faciales,4
+Cochabamba,30101,Cochabamba,2008,1,Cirugia maxilo faciales,72
+Santa Cruz,70603,Colpa Belgica,2008,1,Cirugia maxilo faciales,3
+La Paz,21402,Coripata,2008,1,Cirugia maxilo faciales,2
+La Paz,20105,El Alto,2008,1,Cirugia maxilo faciales,20
+Beni,80202,Guayaramerin,2008,1,Cirugia maxilo faciales,3
+La Paz,21501,Ixiamas,2008,1,Cirugia maxilo faciales,6
+La Paz,20101,La Paz,2008,1,Cirugia maxilo faciales,24
+Oruro,40101,Oruro,2008,1,Cirugia maxilo faciales,7
+La Paz,21305,Patacamaya,2008,1,Cirugia maxilo faciales,3
+Potosí,50101,Potosi,2008,1,Cirugia maxilo faciales,8
+Cochabamba,31401,Punata,2008,1,Cirugia maxilo faciales,2
+Beni,80201,Riberalta,2008,1,Cirugia maxilo faciales,2
+Cochabamba,31403,San Benito,2008,1,Cirugia maxilo faciales,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,Cirugia maxilo faciales,129
+Chuquisaca,10101,Sucre,2008,1,Cirugia maxilo faciales,30
+Tarija,60101,Tarija,2008,1,Cirugia maxilo faciales,2
+La Paz,20803,Tiawanacu,2008,1,Cirugia maxilo faciales,10
+Cochabamba,31201,Totora(cbba),2008,1,Cirugia maxilo faciales,1
+Beni,80101,Trinidad,2008,1,Cirugia maxilo faciales,1
+Cochabamba,31003,Villa Tunari,2008,1,Cirugia maxilo faciales,5
+La Paz,20202,Ancoraimes,2008,2,Cirugia maxilo faciales,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,2,Cirugia maxilo faciales,1
+La Paz,20501,Chuma,2008,2,Cirugia maxilo faciales,2
+Cochabamba,30101,Cochabamba,2008,2,Cirugia maxilo faciales,70
+Santa Cruz,70603,Colpa Belgica,2008,2,Cirugia maxilo faciales,1
+La Paz,21402,Coripata,2008,2,Cirugia maxilo faciales,5
+La Paz,20105,El Alto,2008,2,Cirugia maxilo faciales,5
+La Paz,21501,Ixiamas,2008,2,Cirugia maxilo faciales,6
+La Paz,20101,La Paz,2008,2,Cirugia maxilo faciales,28
+La Paz,20103,Mecapaca,2008,2,Cirugia maxilo faciales,18
+Oruro,40101,Oruro,2008,2,Cirugia maxilo faciales,12
+Chuquisaca,10401,Padilla,2008,2,Cirugia maxilo faciales,1
+Potosí,50101,Potosi,2008,2,Cirugia maxilo faciales,4
+La Paz,21201,Pucarani,2008,2,Cirugia maxilo faciales,4
+La Paz,20401,Puerto Acosta,2008,2,Cirugia maxilo faciales,1
+Cochabamba,31401,Punata,2008,2,Cirugia maxilo faciales,3
+La Paz,21502,San Buena Ventura,2008,2,Cirugia maxilo faciales,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,Cirugia maxilo faciales,65
+Chuquisaca,10101,Sucre,2008,2,Cirugia maxilo faciales,10
+La Paz,20803,Tiawanacu,2008,2,Cirugia maxilo faciales,9
+Cochabamba,31201,Totora(cbba),2008,2,Cirugia maxilo faciales,4
+Potosí,50801,Tupiza,2008,2,Cirugia maxilo faciales,3
+La Paz,20801,Viacha,2008,2,Cirugia maxilo faciales,13
+Cochabamba,31003,Villa Tunari,2008,2,Cirugia maxilo faciales,2
+Tarija,60301,Yacuiba,2008,2,Cirugia maxilo faciales,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,3,Cirugia maxilo faciales,2
+La Paz,20501,Chuma,2008,3,Cirugia maxilo faciales,7
+Cochabamba,30101,Cochabamba,2008,3,Cirugia maxilo faciales,66
+La Paz,21402,Coripata,2008,3,Cirugia maxilo faciales,2
+La Paz,20105,El Alto,2008,3,Cirugia maxilo faciales,3
+La Paz,21501,Ixiamas,2008,3,Cirugia maxilo faciales,3
+La Paz,20806,Jesus De Machaca,2008,3,Cirugia maxilo faciales,8
+La Paz,20101,La Paz,2008,3,Cirugia maxilo faciales,22
+Potosí,50203,Llallagua,2008,3,Cirugia maxilo faciales,2
+Oruro,40101,Oruro,2008,3,Cirugia maxilo faciales,28
+Santa Cruz,70601,Portachuelo,2008,3,Cirugia maxilo faciales,1
+Potosí,50101,Potosi,2008,3,Cirugia maxilo faciales,6
+La Paz,21201,Pucarani,2008,3,Cirugia maxilo faciales,2
+La Paz,20401,Puerto Acosta,2008,3,Cirugia maxilo faciales,1
+Cochabamba,31403,San Benito,2008,3,Cirugia maxilo faciales,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,Cirugia maxilo faciales,112
+Chuquisaca,10101,Sucre,2008,3,Cirugia maxilo faciales,34
+La Paz,20803,Tiawanacu,2008,3,Cirugia maxilo faciales,7
+Potosí,51201,Uyuni,2008,3,Cirugia maxilo faciales,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,4,Cirugia maxilo faciales,6
+Cochabamba,30101,Cochabamba,2008,4,Cirugia maxilo faciales,98
+Santa Cruz,70603,Colpa Belgica,2008,4,Cirugia maxilo faciales,1
+La Paz,21402,Coripata,2008,4,Cirugia maxilo faciales,6
+La Paz,20105,El Alto,2008,4,Cirugia maxilo faciales,18
+Beni,80402,Exaltacion,2008,4,Cirugia maxilo faciales,55
+Beni,80202,Guayaramerin,2008,4,Cirugia maxilo faciales,4
+La Paz,21501,Ixiamas,2008,4,Cirugia maxilo faciales,5
+La Paz,20101,La Paz,2008,4,Cirugia maxilo faciales,21
+Potosí,50203,Llallagua,2008,4,Cirugia maxilo faciales,4
+Santa Cruz,71001,Montero,2008,4,Cirugia maxilo faciales,16
+Oruro,40101,Oruro,2008,4,Cirugia maxilo faciales,15
+Potosí,50101,Potosi,2008,4,Cirugia maxilo faciales,7
+La Paz,21201,Pucarani,2008,4,Cirugia maxilo faciales,4
+Cochabamba,30901,Quillacollo,2008,4,Cirugia maxilo faciales,1
+Beni,80304,Rurrenabaque,2008,4,Cirugia maxilo faciales,1
+Santa Cruz,71201,San Matias,2008,4,Cirugia maxilo faciales,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,Cirugia maxilo faciales,63
+Chuquisaca,10101,Sucre,2008,4,Cirugia maxilo faciales,11
+Tarija,60101,Tarija,2008,4,Cirugia maxilo faciales,3
+La Paz,20803,Tiawanacu,2008,4,Cirugia maxilo faciales,11
+Cochabamba,31201,Totora(cbba),2008,4,Cirugia maxilo faciales,2
+Beni,80101,Trinidad,2008,4,Cirugia maxilo faciales,267
+Potosí,50801,Tupiza,2008,4,Cirugia maxilo faciales,1
+Cochabamba,31003,Villa Tunari,2008,4,Cirugia maxilo faciales,2
+Potosí,50301,Betanzos,2008,5,Cirugia maxilo faciales,1
+La Paz,20303,Calacoto,2008,5,Cirugia maxilo faciales,1
+Cochabamba,30101,Cochabamba,2008,5,Cirugia maxilo faciales,77
+La Paz,20105,El Alto,2008,5,Cirugia maxilo faciales,4
+Santa Cruz,70104,La Guardia,2008,5,Cirugia maxilo faciales,1
+La Paz,20101,La Paz,2008,5,Cirugia maxilo faciales,36
+Potosí,50203,Llallagua,2008,5,Cirugia maxilo faciales,2
+Oruro,40101,Oruro,2008,5,Cirugia maxilo faciales,14
+Potosí,50101,Potosi,2008,5,Cirugia maxilo faciales,3
+Cochabamba,31401,Punata,2008,5,Cirugia maxilo faciales,1
+Cochabamba,30901,Quillacollo,2008,5,Cirugia maxilo faciales,1
+La Paz,21002,Quime,2008,5,Cirugia maxilo faciales,1
+Beni,80201,Riberalta,2008,5,Cirugia maxilo faciales,1
+Cochabamba,31001,Sacaba,2008,5,Cirugia maxilo faciales,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,Cirugia maxilo faciales,58
+Chuquisaca,10101,Sucre,2008,5,Cirugia maxilo faciales,2
+Tarija,60101,Tarija,2008,5,Cirugia maxilo faciales,62
+Potosí,50201,Uncia,2008,5,Cirugia maxilo faciales,5
+Tarija,60303,Villa Montes,2008,5,Cirugia maxilo faciales,2
+Potosí,50301,Betanzos,2008,6,Cirugia maxilo faciales,1
+Cochabamba,30101,Cochabamba,2008,6,Cirugia maxilo faciales,77
+Cochabamba,30905,Colcapirhua,2008,6,Cirugia maxilo faciales,1
+La Paz,20105,El Alto,2008,6,Cirugia maxilo faciales,9
+Santa Cruz,70104,La Guardia,2008,6,Cirugia maxilo faciales,8
+La Paz,20101,La Paz,2008,6,Cirugia maxilo faciales,45
+Potosí,50203,Llallagua,2008,6,Cirugia maxilo faciales,3
+Oruro,40101,Oruro,2008,6,Cirugia maxilo faciales,5
+Potosí,50101,Potosi,2008,6,Cirugia maxilo faciales,4
+Beni,80201,Riberalta,2008,6,Cirugia maxilo faciales,1
+Beni,80304,Rurrenabaque,2008,6,Cirugia maxilo faciales,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,Cirugia maxilo faciales,156
+Chuquisaca,10101,Sucre,2008,6,Cirugia maxilo faciales,14
+Tarija,60303,Villa Montes,2008,6,Cirugia maxilo faciales,2
+Potosí,51302,Acacio,2008,7,Cirugia maxilo faciales,2
+La Paz,20303,Calacoto,2008,7,Cirugia maxilo faciales,1
+Cochabamba,30101,Cochabamba,2008,7,Cirugia maxilo faciales,102
+Cochabamba,30905,Colcapirhua,2008,7,Cirugia maxilo faciales,1
+La Paz,20105,El Alto,2008,7,Cirugia maxilo faciales,7
+La Paz,20101,La Paz,2008,7,Cirugia maxilo faciales,42
+Oruro,40101,Oruro,2008,7,Cirugia maxilo faciales,18
+Potosí,50101,Potosi,2008,7,Cirugia maxilo faciales,3
+La Paz,20401,Puerto Acosta,2008,7,Cirugia maxilo faciales,1
+Beni,80302,San Borja,2008,7,Cirugia maxilo faciales,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,Cirugia maxilo faciales,153
+Chuquisaca,10101,Sucre,2008,7,Cirugia maxilo faciales,15
+Tarija,60101,Tarija,2008,7,Cirugia maxilo faciales,25
+Tarija,60303,Villa Montes,2008,7,Cirugia maxilo faciales,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,8,Cirugia maxilo faciales,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,8,Cirugia maxilo faciales,1
+Cochabamba,30101,Cochabamba,2008,8,Cirugia maxilo faciales,74
+La Paz,20105,El Alto,2008,8,Cirugia maxilo faciales,4
+La Paz,20101,La Paz,2008,8,Cirugia maxilo faciales,26
+Oruro,40101,Oruro,2008,8,Cirugia maxilo faciales,19
+Potosí,50101,Potosi,2008,8,Cirugia maxilo faciales,2
+Cochabamba,31401,Punata,2008,8,Cirugia maxilo faciales,7
+La Paz,21002,Quime,2008,8,Cirugia maxilo faciales,2
+Beni,80301,Reyes,2008,8,Cirugia maxilo faciales,30
+Santa Cruz,71104,San Julian,2008,8,Cirugia maxilo faciales,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,Cirugia maxilo faciales,200
+Chuquisaca,10101,Sucre,2008,8,Cirugia maxilo faciales,23
+Tarija,60101,Tarija,2008,8,Cirugia maxilo faciales,1
+Cochabamba,31201,Totora(cbba),2008,8,Cirugia maxilo faciales,2
+Cochabamba,30101,Cochabamba,2008,9,Cirugia maxilo faciales,63
+La Paz,20105,El Alto,2008,9,Cirugia maxilo faciales,3
+La Paz,20101,La Paz,2008,9,Cirugia maxilo faciales,26
+Oruro,40101,Oruro,2008,9,Cirugia maxilo faciales,15
+Santa Cruz,70103,Porongo,2008,9,Cirugia maxilo faciales,62
+Potosí,50101,Potosi,2008,9,Cirugia maxilo faciales,16
+Beni,80201,Riberalta,2008,9,Cirugia maxilo faciales,1
+Beni,80302,San Borja,2008,9,Cirugia maxilo faciales,1
+La Paz,21502,San Buena Ventura,2008,9,Cirugia maxilo faciales,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,Cirugia maxilo faciales,112
+Chuquisaca,10101,Sucre,2008,9,Cirugia maxilo faciales,34
+Tarija,60101,Tarija,2008,9,Cirugia maxilo faciales,7
+Potosí,50801,Tupiza,2008,9,Cirugia maxilo faciales,1
+Cochabamba,31003,Villa Tunari,2008,9,Cirugia maxilo faciales,1
+Potosí,51302,Acacio,2008,10,Cirugia maxilo faciales,1
+Beni,80802,Baures,2008,10,Cirugia maxilo faciales,1
+Chuquisaca,10701,Camargo,2008,10,Cirugia maxilo faciales,2
+Cochabamba,30701,Capinota,2008,10,Cirugia maxilo faciales,1
+Cochabamba,30101,Cochabamba,2008,10,Cirugia maxilo faciales,111
+Potosí,50901,"Colcha ""k""",2008,10,Cirugia maxilo faciales,147
+La Paz,20105,El Alto,2008,10,Cirugia maxilo faciales,6
+La Paz,20101,La Paz,2008,10,Cirugia maxilo faciales,27
+Santa Cruz,70701,Lagunillas,2008,10,Cirugia maxilo faciales,3
+Oruro,40101,Oruro,2008,10,Cirugia maxilo faciales,9
+Chuquisaca,10401,Padilla,2008,10,Cirugia maxilo faciales,1
+Santa Cruz,70103,Porongo,2008,10,Cirugia maxilo faciales,383
+Potosí,50101,Potosi,2008,10,Cirugia maxilo faciales,5
+Cochabamba,31401,Punata,2008,10,Cirugia maxilo faciales,1
+La Paz,20604,Quiabaya,2008,10,Cirugia maxilo faciales,1
+Cochabamba,31001,Sacaba,2008,10,Cirugia maxilo faciales,8
+Beni,80302,San Borja,2008,10,Cirugia maxilo faciales,1
+La Paz,21502,San Buena Ventura,2008,10,Cirugia maxilo faciales,5
+Santa Cruz,71104,San Julian,2008,10,Cirugia maxilo faciales,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,Cirugia maxilo faciales,164
+Chuquisaca,10101,Sucre,2008,10,Cirugia maxilo faciales,26
+Tarija,60101,Tarija,2008,10,Cirugia maxilo faciales,1
+Potosí,51201,Uyuni,2008,10,Cirugia maxilo faciales,2
+Potosí,51501,Villazon,2008,10,Cirugia maxilo faciales,183
+Cochabamba,30201,Aiquile,2008,11,Cirugia maxilo faciales,6
+La Paz,20303,Calacoto,2008,11,Cirugia maxilo faciales,1
+Cochabamba,30101,Cochabamba,2008,11,Cirugia maxilo faciales,64
+La Paz,20105,El Alto,2008,11,Cirugia maxilo faciales,7
+La Paz,20101,La Paz,2008,11,Cirugia maxilo faciales,14
+Oruro,40101,Oruro,2008,11,Cirugia maxilo faciales,15
+Santa Cruz,70103,Porongo,2008,11,Cirugia maxilo faciales,1
+Potosí,50101,Potosi,2008,11,Cirugia maxilo faciales,3
+Beni,80301,Reyes,2008,11,Cirugia maxilo faciales,1
+La Paz,21502,San Buena Ventura,2008,11,Cirugia maxilo faciales,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,Cirugia maxilo faciales,110
+Chuquisaca,10101,Sucre,2008,11,Cirugia maxilo faciales,26
+Tarija,60101,Tarija,2008,11,Cirugia maxilo faciales,2
+Cochabamba,30903,Tiquipaya,2008,11,Cirugia maxilo faciales,12
+Beni,80101,Trinidad,2008,11,Cirugia maxilo faciales,2
+Cochabamba,31003,Villa Tunari,2008,11,Cirugia maxilo faciales,1
+Potosí,50104,Belen De Urmiri,2008,12,Cirugia maxilo faciales,5
+Tarija,60202,Bermejo,2008,12,Cirugia maxilo faciales,1
+Santa Cruz,70702,Charagua,2008,12,Cirugia maxilo faciales,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,12,Cirugia maxilo faciales,2
+Cochabamba,30101,Cochabamba,2008,12,Cirugia maxilo faciales,72
+La Paz,20105,El Alto,2008,12,Cirugia maxilo faciales,5
+La Paz,20101,La Paz,2008,12,Cirugia maxilo faciales,11
+Oruro,40101,Oruro,2008,12,Cirugia maxilo faciales,15
+Cochabamba,31205,Puerto Villarroel,2008,12,Cirugia maxilo faciales,6
+Cochabamba,31401,Punata,2008,12,Cirugia maxilo faciales,1
+La Paz,21002,Quime,2008,12,Cirugia maxilo faciales,2
+Beni,80301,Reyes,2008,12,Cirugia maxilo faciales,1
+La Paz,21502,San Buena Ventura,2008,12,Cirugia maxilo faciales,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,Cirugia maxilo faciales,84
+Chuquisaca,10101,Sucre,2008,12,Cirugia maxilo faciales,14
+Potosí,51201,Uyuni,2008,12,Cirugia maxilo faciales,1
+La Paz,20501,Chuma,2008,1,TOTAL,4
+Cochabamba,30101,Cochabamba,2008,1,TOTAL,72
+Santa Cruz,70603,Colpa Belgica,2008,1,TOTAL,3
+La Paz,21402,Coripata,2008,1,TOTAL,2
+La Paz,20105,El Alto,2008,1,TOTAL,20
+Beni,80202,Guayaramerin,2008,1,TOTAL,3
+La Paz,21501,Ixiamas,2008,1,TOTAL,6
+La Paz,20101,La Paz,2008,1,TOTAL,24
+Oruro,40101,Oruro,2008,1,TOTAL,7
+La Paz,21305,Patacamaya,2008,1,TOTAL,3
+Potosí,50101,Potosi,2008,1,TOTAL,8
+Cochabamba,31401,Punata,2008,1,TOTAL,2
+Beni,80201,Riberalta,2008,1,TOTAL,2
+Cochabamba,31403,San Benito,2008,1,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTAL,129
+Chuquisaca,10101,Sucre,2008,1,TOTAL,30
+Tarija,60101,Tarija,2008,1,TOTAL,2
+La Paz,20803,Tiawanacu,2008,1,TOTAL,10
+Cochabamba,31201,Totora(cbba),2008,1,TOTAL,1
+Beni,80101,Trinidad,2008,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,1,TOTAL,5
+La Paz,20202,Ancoraimes,2008,2,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,2,TOTAL,1
+La Paz,20501,Chuma,2008,2,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,2,TOTAL,70
+Santa Cruz,70603,Colpa Belgica,2008,2,TOTAL,1
+La Paz,21402,Coripata,2008,2,TOTAL,5
+La Paz,20105,El Alto,2008,2,TOTAL,5
+La Paz,21501,Ixiamas,2008,2,TOTAL,6
+La Paz,20101,La Paz,2008,2,TOTAL,28
+La Paz,20103,Mecapaca,2008,2,TOTAL,18
+Oruro,40101,Oruro,2008,2,TOTAL,12
+Chuquisaca,10401,Padilla,2008,2,TOTAL,1
+Potosí,50101,Potosi,2008,2,TOTAL,4
+La Paz,21201,Pucarani,2008,2,TOTAL,4
+La Paz,20401,Puerto Acosta,2008,2,TOTAL,1
+Cochabamba,31401,Punata,2008,2,TOTAL,3
+La Paz,21502,San Buena Ventura,2008,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,TOTAL,65
+Chuquisaca,10101,Sucre,2008,2,TOTAL,10
+La Paz,20803,Tiawanacu,2008,2,TOTAL,9
+Cochabamba,31201,Totora(cbba),2008,2,TOTAL,4
+Potosí,50801,Tupiza,2008,2,TOTAL,3
+La Paz,20801,Viacha,2008,2,TOTAL,13
+Cochabamba,31003,Villa Tunari,2008,2,TOTAL,2
+Tarija,60301,Yacuiba,2008,2,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,3,TOTAL,2
+La Paz,20501,Chuma,2008,3,TOTAL,7
+Cochabamba,30101,Cochabamba,2008,3,TOTAL,66
+La Paz,21402,Coripata,2008,3,TOTAL,2
+La Paz,20105,El Alto,2008,3,TOTAL,3
+La Paz,21501,Ixiamas,2008,3,TOTAL,3
+La Paz,20806,Jesus De Machaca,2008,3,TOTAL,8
+La Paz,20101,La Paz,2008,3,TOTAL,22
+Potosí,50203,Llallagua,2008,3,TOTAL,2
+Oruro,40101,Oruro,2008,3,TOTAL,28
+Santa Cruz,70601,Portachuelo,2008,3,TOTAL,1
+Potosí,50101,Potosi,2008,3,TOTAL,6
+La Paz,21201,Pucarani,2008,3,TOTAL,2
+La Paz,20401,Puerto Acosta,2008,3,TOTAL,1
+Cochabamba,31403,San Benito,2008,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTAL,112
+Chuquisaca,10101,Sucre,2008,3,TOTAL,34
+La Paz,20803,Tiawanacu,2008,3,TOTAL,7
+Potosí,51201,Uyuni,2008,3,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,4,TOTAL,6
+Cochabamba,30101,Cochabamba,2008,4,TOTAL,98
+Santa Cruz,70603,Colpa Belgica,2008,4,TOTAL,1
+La Paz,21402,Coripata,2008,4,TOTAL,6
+La Paz,20105,El Alto,2008,4,TOTAL,18
+Beni,80402,Exaltacion,2008,4,TOTAL,55
+Beni,80202,Guayaramerin,2008,4,TOTAL,4
+La Paz,21501,Ixiamas,2008,4,TOTAL,5
+La Paz,20101,La Paz,2008,4,TOTAL,21
+Potosí,50203,Llallagua,2008,4,TOTAL,4
+Santa Cruz,71001,Montero,2008,4,TOTAL,16
+Oruro,40101,Oruro,2008,4,TOTAL,15
+Potosí,50101,Potosi,2008,4,TOTAL,7
+La Paz,21201,Pucarani,2008,4,TOTAL,4
+Cochabamba,30901,Quillacollo,2008,4,TOTAL,1
+Beni,80304,Rurrenabaque,2008,4,TOTAL,1
+Santa Cruz,71201,San Matias,2008,4,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTAL,63
+Chuquisaca,10101,Sucre,2008,4,TOTAL,11
+Tarija,60101,Tarija,2008,4,TOTAL,3
+La Paz,20803,Tiawanacu,2008,4,TOTAL,11
+Cochabamba,31201,Totora(cbba),2008,4,TOTAL,2
+Beni,80101,Trinidad,2008,4,TOTAL,267
+Potosí,50801,Tupiza,2008,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,4,TOTAL,2
+Potosí,50301,Betanzos,2008,5,TOTAL,1
+La Paz,20303,Calacoto,2008,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,5,TOTAL,77
+La Paz,20105,El Alto,2008,5,TOTAL,4
+Santa Cruz,70104,La Guardia,2008,5,TOTAL,1
+La Paz,20101,La Paz,2008,5,TOTAL,36
+Potosí,50203,Llallagua,2008,5,TOTAL,2
+Oruro,40101,Oruro,2008,5,TOTAL,14
+Potosí,50101,Potosi,2008,5,TOTAL,3
+Cochabamba,31401,Punata,2008,5,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,5,TOTAL,1
+La Paz,21002,Quime,2008,5,TOTAL,1
+Beni,80201,Riberalta,2008,5,TOTAL,1
+Cochabamba,31001,Sacaba,2008,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTAL,58
+Chuquisaca,10101,Sucre,2008,5,TOTAL,2
+Tarija,60101,Tarija,2008,5,TOTAL,62
+Potosí,50201,Uncia,2008,5,TOTAL,5
+Tarija,60303,Villa Montes,2008,5,TOTAL,2
+Potosí,50301,Betanzos,2008,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,6,TOTAL,77
+Cochabamba,30905,Colcapirhua,2008,6,TOTAL,1
+La Paz,20105,El Alto,2008,6,TOTAL,9
+Santa Cruz,70104,La Guardia,2008,6,TOTAL,8
+La Paz,20101,La Paz,2008,6,TOTAL,45
+Potosí,50203,Llallagua,2008,6,TOTAL,3
+Oruro,40101,Oruro,2008,6,TOTAL,5
+Potosí,50101,Potosi,2008,6,TOTAL,4
+Beni,80201,Riberalta,2008,6,TOTAL,1
+Beni,80304,Rurrenabaque,2008,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTAL,156
+Chuquisaca,10101,Sucre,2008,6,TOTAL,14
+Tarija,60303,Villa Montes,2008,6,TOTAL,2
+Potosí,51302,Acacio,2008,7,TOTAL,2
+La Paz,20303,Calacoto,2008,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,7,TOTAL,102
+Cochabamba,30905,Colcapirhua,2008,7,TOTAL,1
+La Paz,20105,El Alto,2008,7,TOTAL,7
+La Paz,20101,La Paz,2008,7,TOTAL,42
+Oruro,40101,Oruro,2008,7,TOTAL,18
+Potosí,50101,Potosi,2008,7,TOTAL,3
+La Paz,20401,Puerto Acosta,2008,7,TOTAL,1
+Beni,80302,San Borja,2008,7,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTAL,153
+Chuquisaca,10101,Sucre,2008,7,TOTAL,15
+Tarija,60101,Tarija,2008,7,TOTAL,25
+Tarija,60303,Villa Montes,2008,7,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,8,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,8,TOTAL,74
+La Paz,20105,El Alto,2008,8,TOTAL,4
+La Paz,20101,La Paz,2008,8,TOTAL,26
+Oruro,40101,Oruro,2008,8,TOTAL,19
+Potosí,50101,Potosi,2008,8,TOTAL,2
+Cochabamba,31401,Punata,2008,8,TOTAL,7
+La Paz,21002,Quime,2008,8,TOTAL,2
+Beni,80301,Reyes,2008,8,TOTAL,30
+Santa Cruz,71104,San Julian,2008,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTAL,200
+Chuquisaca,10101,Sucre,2008,8,TOTAL,23
+Tarija,60101,Tarija,2008,8,TOTAL,1
+Cochabamba,31201,Totora(cbba),2008,8,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,9,TOTAL,63
+La Paz,20105,El Alto,2008,9,TOTAL,3
+La Paz,20101,La Paz,2008,9,TOTAL,26
+Oruro,40101,Oruro,2008,9,TOTAL,15
+Santa Cruz,70103,Porongo,2008,9,TOTAL,62
+Potosí,50101,Potosi,2008,9,TOTAL,16
+Beni,80201,Riberalta,2008,9,TOTAL,1
+Beni,80302,San Borja,2008,9,TOTAL,1
+La Paz,21502,San Buena Ventura,2008,9,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTAL,112
+Chuquisaca,10101,Sucre,2008,9,TOTAL,34
+Tarija,60101,Tarija,2008,9,TOTAL,7
+Potosí,50801,Tupiza,2008,9,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,9,TOTAL,1
+Potosí,51302,Acacio,2008,10,TOTAL,1
+Beni,80802,Baures,2008,10,TOTAL,1
+Chuquisaca,10701,Camargo,2008,10,TOTAL,2
+Cochabamba,30701,Capinota,2008,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,10,TOTAL,111
+Potosí,50901,"Colcha ""k""",2008,10,TOTAL,147
+La Paz,20105,El Alto,2008,10,TOTAL,6
+La Paz,20101,La Paz,2008,10,TOTAL,27
+Santa Cruz,70701,Lagunillas,2008,10,TOTAL,3
+Oruro,40101,Oruro,2008,10,TOTAL,9
+Chuquisaca,10401,Padilla,2008,10,TOTAL,1
+Santa Cruz,70103,Porongo,2008,10,TOTAL,383
+Potosí,50101,Potosi,2008,10,TOTAL,5
+Cochabamba,31401,Punata,2008,10,TOTAL,1
+La Paz,20604,Quiabaya,2008,10,TOTAL,1
+Cochabamba,31001,Sacaba,2008,10,TOTAL,8
+Beni,80302,San Borja,2008,10,TOTAL,1
+La Paz,21502,San Buena Ventura,2008,10,TOTAL,5
+Santa Cruz,71104,San Julian,2008,10,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTAL,164
+Chuquisaca,10101,Sucre,2008,10,TOTAL,26
+Tarija,60101,Tarija,2008,10,TOTAL,1
+Potosí,51201,Uyuni,2008,10,TOTAL,2
+Potosí,51501,Villazon,2008,10,TOTAL,183
+Cochabamba,30201,Aiquile,2008,11,TOTAL,6
+La Paz,20303,Calacoto,2008,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,11,TOTAL,64
+La Paz,20105,El Alto,2008,11,TOTAL,7
+La Paz,20101,La Paz,2008,11,TOTAL,14
+Oruro,40101,Oruro,2008,11,TOTAL,15
+Santa Cruz,70103,Porongo,2008,11,TOTAL,1
+Potosí,50101,Potosi,2008,11,TOTAL,3
+Beni,80301,Reyes,2008,11,TOTAL,1
+La Paz,21502,San Buena Ventura,2008,11,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTAL,110
+Chuquisaca,10101,Sucre,2008,11,TOTAL,26
+Tarija,60101,Tarija,2008,11,TOTAL,2
+Cochabamba,30903,Tiquipaya,2008,11,TOTAL,12
+Beni,80101,Trinidad,2008,11,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,11,TOTAL,1
+Potosí,50104,Belen De Urmiri,2008,12,TOTAL,5
+Tarija,60202,Bermejo,2008,12,TOTAL,1
+Santa Cruz,70702,Charagua,2008,12,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,12,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,12,TOTAL,72
+La Paz,20105,El Alto,2008,12,TOTAL,5
+La Paz,20101,La Paz,2008,12,TOTAL,11
+Oruro,40101,Oruro,2008,12,TOTAL,15
+Cochabamba,31205,Puerto Villarroel,2008,12,TOTAL,6
+Cochabamba,31401,Punata,2008,12,TOTAL,1
+La Paz,21002,Quime,2008,12,TOTAL,2
+Beni,80301,Reyes,2008,12,TOTAL,1
+La Paz,21502,San Buena Ventura,2008,12,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,TOTAL,84
+Chuquisaca,10101,Sucre,2008,12,TOTAL,14
+Potosí,51201,Uyuni,2008,12,TOTAL,1

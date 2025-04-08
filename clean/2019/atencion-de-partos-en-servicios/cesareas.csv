@@ -1,0 +1,1995 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20201,Achacachi,2019,1,Cesareas,1
+Cochabamba,30201,Aiquile,2019,1,Cesareas,11
+Santa Cruz,71501,Ascencion De Guarayos,2019,1,Cesareas,21
+Potosí,50802,Atocha,2019,1,Cesareas,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,1,Cesareas,4
+Tarija,60202,Bermejo,2019,1,Cesareas,28
+Chuquisaca,10701,Camargo,2019,1,Cesareas,9
+Santa Cruz,70706,Camiri,2019,1,Cesareas,57
+La Paz,22001,Caranavi,2019,1,Cesareas,27
+Oruro,40201,Challapata,2019,1,Cesareas,8
+Santa Cruz,70702,Charagua,2019,1,Cesareas,11
+La Paz,21101,Chulumani (v. De La Libertad),2019,1,Cesareas,6
+Cochabamba,30801,Cliza,2019,1,Cesareas,3
+Pando,90101,Cobija,2019,1,Cesareas,85
+Cochabamba,30101,Cochabamba,2019,1,Cesareas,936
+Cochabamba,30905,Colcapirhua,2019,1,Cesareas,15
+Santa Cruz,71301,Comarapa,2019,1,Cesareas,12
+La Paz,21401,Coroico,2019,1,Cesareas,5
+Santa Cruz,70102,Cotoca,2019,1,Cesareas,10
+Santa Cruz,71106,Cuatro Cañadas,2019,1,Cesareas,1
+La Paz,20105,El Alto,2019,1,Cesareas,384
+Santa Cruz,70105,El Torno,2019,1,Cesareas,51
+Tarija,60601,Entre Rios Trj,2019,1,Cesareas,6
+La Paz,20405,Escoma,2019,1,Cesareas,2
+Beni,80202,Guayaramerin,2019,1,Cesareas,54
+Oruro,40701,Huanuni,2019,1,Cesareas,15
+La Paz,20101,La Paz,2019,1,Cesareas,707
+Potosí,50203,Llallagua,2019,1,Cesareas,21
+Beni,80801,Magdalena,2019,1,Cesareas,7
+Santa Cruz,70903,Mairana,2019,1,Cesareas,13
+Cochabamba,31301,Mizque,2019,1,Cesareas,4
+Chuquisaca,10501,Monteagudo,2019,1,Cesareas,13
+Santa Cruz,71001,Montero,2019,1,Cesareas,205
+Oruro,40101,Oruro,2019,1,Cesareas,338
+Chuquisaca,10401,Padilla,2019,1,Cesareas,4
+Santa Cruz,70502,Pailon,2019,1,Cesareas,3
+La Paz,21305,Patacamaya,2019,1,Cesareas,4
+Santa Cruz,70601,Portachuelo,2019,1,Cesareas,17
+Potosí,50101,Potosi,2019,1,Cesareas,209
+Santa Cruz,71402,Puerto Quijarro,2019,1,Cesareas,10
+Santa Cruz,71401,Puerto Suarez,2019,1,Cesareas,15
+Cochabamba,31205,Puerto Villarroel,2019,1,Cesareas,25
+Cochabamba,31401,Punata,2019,1,Cesareas,39
+Cochabamba,30901,Quillacollo,2019,1,Cesareas,45
+La Paz,21002,Quime,2019,1,Cesareas,2
+Beni,80301,Reyes,2019,1,Cesareas,1
+Beni,80201,Riberalta,2019,1,Cesareas,115
+Santa Cruz,70503,Robore,2019,1,Cesareas,10
+Beni,80304,Rurrenabaque,2019,1,Cesareas,17
+Cochabamba,31001,Sacaba,2019,1,Cesareas,97
+Beni,80302,San Borja,2019,1,Cesareas,18
+Santa Cruz,70402,San Carlos,2019,1,Cesareas,6
+Santa Cruz,70301,San Ignacio De Velasco,2019,1,Cesareas,33
+Santa Cruz,71102,San Javier(stc),2019,1,Cesareas,9
+Santa Cruz,70501,San Jose De Chiquitos,2019,1,Cesareas,20
+Santa Cruz,71104,San Julian,2019,1,Cesareas,11
+Chuquisaca,10702,San Lucas,2019,1,Cesareas,3
+Beni,80702,San Ramon Beni,2019,1,Cesareas,2
+Santa Cruz,71103,San Ramon Scz,2019,1,Cesareas,5
+Beni,80401,Santa Ana,2019,1,Cesareas,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,1,Cesareas,2234
+Cochabamba,31602,Shinaota,2019,1,Cesareas,6
+Chuquisaca,10403,Sopachuy,2019,1,Cesareas,1
+Chuquisaca,10101,Sucre,2019,1,Cesareas,262
+Chuquisaca,10601,Tarabuco,2019,1,Cesareas,3
+Tarija,60101,Tarija,2019,1,Cesareas,174
+Chuquisaca,10202,Tarvita,2019,1,Cesareas,4
+Cochabamba,30903,Tiquipaya,2019,1,Cesareas,28
+Beni,80101,Trinidad,2019,1,Cesareas,144
+Potosí,50801,Tupiza,2019,1,Cesareas,24
+Potosí,50201,Uncia,2019,1,Cesareas,4
+Potosí,51201,Uyuni,2019,1,Cesareas,7
+Santa Cruz,70801,Vallegrande,2019,1,Cesareas,18
+La Paz,20801,Viacha,2019,1,Cesareas,6
+Tarija,60303,Villa Montes,2019,1,Cesareas,30
+Cochabamba,31003,Villa Tunari,2019,1,Cesareas,27
+Potosí,51501,Villazon,2019,1,Cesareas,11
+Cochabamba,30904,Vinto,2019,1,Cesareas,4
+Santa Cruz,70201,Warnes,2019,1,Cesareas,14
+Tarija,60301,Yacuiba,2019,1,Cesareas,65
+Santa Cruz,70403,Yapacani,2019,1,Cesareas,43
+La Paz,20201,Achacachi,2019,2,Cesareas,5
+Cochabamba,30201,Aiquile,2019,2,Cesareas,8
+Santa Cruz,71501,Ascencion De Guarayos,2019,2,Cesareas,14
+Potosí,50802,Atocha,2019,2,Cesareas,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,2,Cesareas,3
+Beni,80802,Baures,2019,2,Cesareas,1
+Tarija,60202,Bermejo,2019,2,Cesareas,28
+Chuquisaca,10701,Camargo,2019,2,Cesareas,13
+Santa Cruz,70706,Camiri,2019,2,Cesareas,51
+La Paz,22001,Caranavi,2019,2,Cesareas,29
+Oruro,40201,Challapata,2019,2,Cesareas,7
+Santa Cruz,70702,Charagua,2019,2,Cesareas,7
+La Paz,21101,Chulumani (v. De La Libertad),2019,2,Cesareas,9
+Cochabamba,30801,Cliza,2019,2,Cesareas,11
+Pando,90101,Cobija,2019,2,Cesareas,61
+Cochabamba,30101,Cochabamba,2019,2,Cesareas,797
+Cochabamba,30905,Colcapirhua,2019,2,Cesareas,18
+Santa Cruz,71301,Comarapa,2019,2,Cesareas,10
+Santa Cruz,71101,Concepcion,2019,2,Cesareas,3
+La Paz,21401,Coroico,2019,2,Cesareas,10
+Santa Cruz,70102,Cotoca,2019,2,Cesareas,12
+Santa Cruz,71106,Cuatro Cañadas,2019,2,Cesareas,7
+Chuquisaca,10902,Culpina,2019,2,Cesareas,2
+La Paz,20105,El Alto,2019,2,Cesareas,376
+Santa Cruz,70105,El Torno,2019,2,Cesareas,30
+Tarija,60601,Entre Rios Trj,2019,2,Cesareas,2
+La Paz,20602,Guanay,2019,2,Cesareas,2
+Beni,80202,Guayaramerin,2019,2,Cesareas,35
+Oruro,40701,Huanuni,2019,2,Cesareas,13
+La Paz,20101,La Paz,2019,2,Cesareas,706
+Potosí,50203,Llallagua,2019,2,Cesareas,6
+Beni,80801,Magdalena,2019,2,Cesareas,4
+Santa Cruz,70903,Mairana,2019,2,Cesareas,5
+Santa Cruz,71003,Mineros,2019,2,Cesareas,1
+Cochabamba,31301,Mizque,2019,2,Cesareas,8
+Chuquisaca,10501,Monteagudo,2019,2,Cesareas,18
+Santa Cruz,71001,Montero,2019,2,Cesareas,232
+Oruro,40101,Oruro,2019,2,Cesareas,311
+Chuquisaca,10401,Padilla,2019,2,Cesareas,6
+La Paz,21305,Patacamaya,2019,2,Cesareas,2
+Santa Cruz,70601,Portachuelo,2019,2,Cesareas,13
+Potosí,50101,Potosi,2019,2,Cesareas,169
+Santa Cruz,71402,Puerto Quijarro,2019,2,Cesareas,8
+Santa Cruz,71401,Puerto Suarez,2019,2,Cesareas,22
+Cochabamba,31205,Puerto Villarroel,2019,2,Cesareas,31
+Cochabamba,31401,Punata,2019,2,Cesareas,36
+Cochabamba,30901,Quillacollo,2019,2,Cesareas,46
+La Paz,21002,Quime,2019,2,Cesareas,1
+Beni,80201,Riberalta,2019,2,Cesareas,110
+Santa Cruz,70503,Robore,2019,2,Cesareas,9
+Beni,80304,Rurrenabaque,2019,2,Cesareas,16
+Cochabamba,31001,Sacaba,2019,2,Cesareas,90
+Beni,80302,San Borja,2019,2,Cesareas,19
+La Paz,21502,San Buena Ventura,2019,2,Cesareas,1
+Santa Cruz,70402,San Carlos,2019,2,Cesareas,6
+Beni,80501,San Ignacio,2019,2,Cesareas,2
+Santa Cruz,70301,San Ignacio De Velasco,2019,2,Cesareas,39
+Santa Cruz,71102,San Javier(stc),2019,2,Cesareas,6
+Santa Cruz,70501,San Jose De Chiquitos,2019,2,Cesareas,23
+Santa Cruz,71104,San Julian,2019,2,Cesareas,8
+Chuquisaca,10702,San Lucas,2019,2,Cesareas,3
+Santa Cruz,71201,San Matias,2019,2,Cesareas,3
+Beni,80702,San Ramon Beni,2019,2,Cesareas,2
+Santa Cruz,71103,San Ramon Scz,2019,2,Cesareas,3
+Beni,80401,Santa Ana,2019,2,Cesareas,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,2,Cesareas,2219
+Beni,80303,Santa Rosa,2019,2,Cesareas,1
+Cochabamba,31602,Shinaota,2019,2,Cesareas,12
+Chuquisaca,10403,Sopachuy,2019,2,Cesareas,2
+Chuquisaca,10101,Sucre,2019,2,Cesareas,242
+Chuquisaca,10601,Tarabuco,2019,2,Cesareas,5
+Tarija,60101,Tarija,2019,2,Cesareas,200
+Cochabamba,30903,Tiquipaya,2019,2,Cesareas,36
+Cochabamba,31201,Totora(cbba),2019,2,Cesareas,6
+Beni,80101,Trinidad,2019,2,Cesareas,131
+Potosí,50801,Tupiza,2019,2,Cesareas,16
+Potosí,50201,Uncia,2019,2,Cesareas,7
+Potosí,51201,Uyuni,2019,2,Cesareas,14
+Santa Cruz,70801,Vallegrande,2019,2,Cesareas,22
+La Paz,20801,Viacha,2019,2,Cesareas,11
+Tarija,60303,Villa Montes,2019,2,Cesareas,26
+Cochabamba,31003,Villa Tunari,2019,2,Cesareas,28
+Potosí,51501,Villazon,2019,2,Cesareas,17
+Santa Cruz,70201,Warnes,2019,2,Cesareas,23
+Tarija,60301,Yacuiba,2019,2,Cesareas,76
+Santa Cruz,70403,Yapacani,2019,2,Cesareas,33
+Cochabamba,30201,Aiquile,2019,3,Cesareas,4
+Santa Cruz,71501,Ascencion De Guarayos,2019,3,Cesareas,18
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,3,Cesareas,1
+Tarija,60202,Bermejo,2019,3,Cesareas,34
+Chuquisaca,10701,Camargo,2019,3,Cesareas,7
+Santa Cruz,70706,Camiri,2019,3,Cesareas,62
+La Paz,22001,Caranavi,2019,3,Cesareas,30
+Oruro,40201,Challapata,2019,3,Cesareas,15
+Santa Cruz,70702,Charagua,2019,3,Cesareas,6
+La Paz,21101,Chulumani (v. De La Libertad),2019,3,Cesareas,9
+Cochabamba,30801,Cliza,2019,3,Cesareas,6
+Pando,90101,Cobija,2019,3,Cesareas,80
+Cochabamba,30101,Cochabamba,2019,3,Cesareas,899
+Cochabamba,30905,Colcapirhua,2019,3,Cesareas,16
+Santa Cruz,71301,Comarapa,2019,3,Cesareas,15
+Santa Cruz,71101,Concepcion,2019,3,Cesareas,4
+La Paz,21401,Coroico,2019,3,Cesareas,8
+Santa Cruz,70102,Cotoca,2019,3,Cesareas,11
+Santa Cruz,71106,Cuatro Cañadas,2019,3,Cesareas,5
+Chuquisaca,10902,Culpina,2019,3,Cesareas,5
+La Paz,20105,El Alto,2019,3,Cesareas,407
+Santa Cruz,70105,El Torno,2019,3,Cesareas,48
+La Paz,20405,Escoma,2019,3,Cesareas,1
+La Paz,20602,Guanay,2019,3,Cesareas,8
+Beni,80202,Guayaramerin,2019,3,Cesareas,46
+Oruro,40701,Huanuni,2019,3,Cesareas,15
+Beni,80803,Huaracaje,2019,3,Cesareas,1
+La Paz,20101,La Paz,2019,3,Cesareas,701
+Potosí,50203,Llallagua,2019,3,Cesareas,18
+Beni,80801,Magdalena,2019,3,Cesareas,5
+Santa Cruz,70903,Mairana,2019,3,Cesareas,6
+Cochabamba,31301,Mizque,2019,3,Cesareas,10
+Chuquisaca,10501,Monteagudo,2019,3,Cesareas,14
+Santa Cruz,71001,Montero,2019,3,Cesareas,286
+Oruro,40101,Oruro,2019,3,Cesareas,336
+Chuquisaca,10401,Padilla,2019,3,Cesareas,5
+Santa Cruz,70502,Pailon,2019,3,Cesareas,6
+La Paz,21305,Patacamaya,2019,3,Cesareas,4
+Santa Cruz,70601,Portachuelo,2019,3,Cesareas,22
+Potosí,50101,Potosi,2019,3,Cesareas,106
+Santa Cruz,71402,Puerto Quijarro,2019,3,Cesareas,12
+Santa Cruz,71401,Puerto Suarez,2019,3,Cesareas,25
+Cochabamba,31205,Puerto Villarroel,2019,3,Cesareas,49
+Cochabamba,31401,Punata,2019,3,Cesareas,34
+Cochabamba,30901,Quillacollo,2019,3,Cesareas,58
+Beni,80301,Reyes,2019,3,Cesareas,3
+Beni,80201,Riberalta,2019,3,Cesareas,116
+Santa Cruz,70503,Robore,2019,3,Cesareas,12
+Beni,80304,Rurrenabaque,2019,3,Cesareas,16
+Cochabamba,31001,Sacaba,2019,3,Cesareas,79
+Beni,80302,San Borja,2019,3,Cesareas,22
+La Paz,21502,San Buena Ventura,2019,3,Cesareas,3
+Santa Cruz,70402,San Carlos,2019,3,Cesareas,6
+Beni,80501,San Ignacio,2019,3,Cesareas,1
+Santa Cruz,70301,San Ignacio De Velasco,2019,3,Cesareas,41
+Santa Cruz,71102,San Javier(stc),2019,3,Cesareas,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,3,Cesareas,28
+Santa Cruz,71104,San Julian,2019,3,Cesareas,7
+Chuquisaca,10702,San Lucas,2019,3,Cesareas,3
+Santa Cruz,71201,San Matias,2019,3,Cesareas,5
+Beni,80702,San Ramon Beni,2019,3,Cesareas,4
+Santa Cruz,71103,San Ramon Scz,2019,3,Cesareas,3
+Beni,80401,Santa Ana,2019,3,Cesareas,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,Cesareas,2539
+Cochabamba,31602,Shinaota,2019,3,Cesareas,13
+Chuquisaca,10403,Sopachuy,2019,3,Cesareas,1
+Chuquisaca,10101,Sucre,2019,3,Cesareas,261
+Chuquisaca,10601,Tarabuco,2019,3,Cesareas,5
+Tarija,60101,Tarija,2019,3,Cesareas,195
+Chuquisaca,10202,Tarvita,2019,3,Cesareas,1
+Cochabamba,30903,Tiquipaya,2019,3,Cesareas,12
+Cochabamba,31201,Totora(cbba),2019,3,Cesareas,2
+Beni,80101,Trinidad,2019,3,Cesareas,154
+Potosí,50801,Tupiza,2019,3,Cesareas,19
+Potosí,50201,Uncia,2019,3,Cesareas,7
+Potosí,51201,Uyuni,2019,3,Cesareas,9
+Santa Cruz,70801,Vallegrande,2019,3,Cesareas,13
+La Paz,20801,Viacha,2019,3,Cesareas,14
+Tarija,60303,Villa Montes,2019,3,Cesareas,40
+Cochabamba,31003,Villa Tunari,2019,3,Cesareas,42
+Potosí,51501,Villazon,2019,3,Cesareas,9
+Cochabamba,30904,Vinto,2019,3,Cesareas,5
+Santa Cruz,70201,Warnes,2019,3,Cesareas,34
+Tarija,60301,Yacuiba,2019,3,Cesareas,79
+Santa Cruz,70403,Yapacani,2019,3,Cesareas,56
+La Paz,20201,Achacachi,2019,4,Cesareas,1
+Cochabamba,30201,Aiquile,2019,4,Cesareas,9
+Santa Cruz,71501,Ascencion De Guarayos,2019,4,Cesareas,27
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,4,Cesareas,3
+Beni,80802,Baures,2019,4,Cesareas,1
+Tarija,60202,Bermejo,2019,4,Cesareas,37
+Chuquisaca,10701,Camargo,2019,4,Cesareas,10
+Santa Cruz,70706,Camiri,2019,4,Cesareas,50
+La Paz,22001,Caranavi,2019,4,Cesareas,21
+Oruro,40201,Challapata,2019,4,Cesareas,9
+Santa Cruz,70702,Charagua,2019,4,Cesareas,10
+La Paz,21101,Chulumani (v. De La Libertad),2019,4,Cesareas,6
+Cochabamba,30801,Cliza,2019,4,Cesareas,9
+Pando,90101,Cobija,2019,4,Cesareas,65
+Cochabamba,30101,Cochabamba,2019,4,Cesareas,877
+Cochabamba,30905,Colcapirhua,2019,4,Cesareas,18
+Santa Cruz,71301,Comarapa,2019,4,Cesareas,11
+Santa Cruz,71101,Concepcion,2019,4,Cesareas,1
+La Paz,21401,Coroico,2019,4,Cesareas,8
+Santa Cruz,70102,Cotoca,2019,4,Cesareas,19
+Santa Cruz,71106,Cuatro Cañadas,2019,4,Cesareas,8
+La Paz,20105,El Alto,2019,4,Cesareas,434
+Santa Cruz,70105,El Torno,2019,4,Cesareas,62
+Tarija,60601,Entre Rios Trj,2019,4,Cesareas,1
+La Paz,20405,Escoma,2019,4,Cesareas,1
+La Paz,20602,Guanay,2019,4,Cesareas,5
+Beni,80202,Guayaramerin,2019,4,Cesareas,52
+Oruro,40701,Huanuni,2019,4,Cesareas,7
+La Paz,20101,La Paz,2019,4,Cesareas,705
+Potosí,50203,Llallagua,2019,4,Cesareas,16
+Beni,80801,Magdalena,2019,4,Cesareas,4
+Santa Cruz,70903,Mairana,2019,4,Cesareas,7
+Santa Cruz,71003,Mineros,2019,4,Cesareas,3
+Cochabamba,31301,Mizque,2019,4,Cesareas,13
+Chuquisaca,10501,Monteagudo,2019,4,Cesareas,13
+Santa Cruz,71001,Montero,2019,4,Cesareas,252
+Oruro,40101,Oruro,2019,4,Cesareas,294
+Chuquisaca,10401,Padilla,2019,4,Cesareas,2
+Santa Cruz,70502,Pailon,2019,4,Cesareas,10
+Santa Cruz,70601,Portachuelo,2019,4,Cesareas,22
+Potosí,50101,Potosi,2019,4,Cesareas,168
+Santa Cruz,71402,Puerto Quijarro,2019,4,Cesareas,9
+Santa Cruz,71401,Puerto Suarez,2019,4,Cesareas,20
+Cochabamba,31205,Puerto Villarroel,2019,4,Cesareas,43
+Cochabamba,31401,Punata,2019,4,Cesareas,38
+Cochabamba,30901,Quillacollo,2019,4,Cesareas,61
+La Paz,21002,Quime,2019,4,Cesareas,2
+Beni,80301,Reyes,2019,4,Cesareas,2
+Beni,80201,Riberalta,2019,4,Cesareas,115
+Santa Cruz,70503,Robore,2019,4,Cesareas,12
+Beni,80304,Rurrenabaque,2019,4,Cesareas,8
+Cochabamba,31001,Sacaba,2019,4,Cesareas,96
+Beni,80302,San Borja,2019,4,Cesareas,15
+La Paz,21502,San Buena Ventura,2019,4,Cesareas,5
+Santa Cruz,70402,San Carlos,2019,4,Cesareas,18
+Beni,80501,San Ignacio,2019,4,Cesareas,1
+Santa Cruz,70301,San Ignacio De Velasco,2019,4,Cesareas,46
+Santa Cruz,71102,San Javier(stc),2019,4,Cesareas,6
+Santa Cruz,70501,San Jose De Chiquitos,2019,4,Cesareas,19
+Santa Cruz,71104,San Julian,2019,4,Cesareas,8
+Santa Cruz,71201,San Matias,2019,4,Cesareas,7
+Beni,80702,San Ramon Beni,2019,4,Cesareas,1
+Santa Cruz,71103,San Ramon Scz,2019,4,Cesareas,4
+Beni,80401,Santa Ana,2019,4,Cesareas,22
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,4,Cesareas,2385
+Cochabamba,31602,Shinaota,2019,4,Cesareas,8
+Chuquisaca,10403,Sopachuy,2019,4,Cesareas,2
+Chuquisaca,10101,Sucre,2019,4,Cesareas,250
+Chuquisaca,10601,Tarabuco,2019,4,Cesareas,7
+Tarija,60101,Tarija,2019,4,Cesareas,215
+Cochabamba,30903,Tiquipaya,2019,4,Cesareas,30
+Cochabamba,31201,Totora(cbba),2019,4,Cesareas,5
+Beni,80101,Trinidad,2019,4,Cesareas,170
+Potosí,50801,Tupiza,2019,4,Cesareas,21
+Potosí,50201,Uncia,2019,4,Cesareas,4
+Potosí,51201,Uyuni,2019,4,Cesareas,6
+Santa Cruz,70801,Vallegrande,2019,4,Cesareas,19
+La Paz,20801,Viacha,2019,4,Cesareas,9
+Tarija,60303,Villa Montes,2019,4,Cesareas,40
+Cochabamba,31003,Villa Tunari,2019,4,Cesareas,47
+Potosí,51501,Villazon,2019,4,Cesareas,9
+Santa Cruz,70201,Warnes,2019,4,Cesareas,22
+Tarija,60301,Yacuiba,2019,4,Cesareas,93
+Santa Cruz,70403,Yapacani,2019,4,Cesareas,48
+La Paz,20201,Achacachi,2019,5,Cesareas,1
+Cochabamba,30201,Aiquile,2019,5,Cesareas,6
+Santa Cruz,71501,Ascencion De Guarayos,2019,5,Cesareas,30
+Beni,80802,Baures,2019,5,Cesareas,2
+Tarija,60202,Bermejo,2019,5,Cesareas,36
+Santa Cruz,70706,Camiri,2019,5,Cesareas,50
+La Paz,22001,Caranavi,2019,5,Cesareas,21
+Oruro,40201,Challapata,2019,5,Cesareas,17
+Santa Cruz,70702,Charagua,2019,5,Cesareas,11
+Cochabamba,30801,Cliza,2019,5,Cesareas,17
+Pando,90101,Cobija,2019,5,Cesareas,75
+Cochabamba,30101,Cochabamba,2019,5,Cesareas,832
+Cochabamba,30905,Colcapirhua,2019,5,Cesareas,24
+Santa Cruz,71301,Comarapa,2019,5,Cesareas,8
+Santa Cruz,71101,Concepcion,2019,5,Cesareas,2
+La Paz,21401,Coroico,2019,5,Cesareas,1
+Santa Cruz,70102,Cotoca,2019,5,Cesareas,20
+Santa Cruz,71106,Cuatro Cañadas,2019,5,Cesareas,6
+La Paz,20105,El Alto,2019,5,Cesareas,464
+Santa Cruz,70105,El Torno,2019,5,Cesareas,46
+Tarija,60601,Entre Rios Trj,2019,5,Cesareas,1
+Beni,80202,Guayaramerin,2019,5,Cesareas,46
+Oruro,40701,Huanuni,2019,5,Cesareas,15
+La Paz,20101,La Paz,2019,5,Cesareas,754
+Potosí,50203,Llallagua,2019,5,Cesareas,30
+Beni,80801,Magdalena,2019,5,Cesareas,6
+Santa Cruz,71003,Mineros,2019,5,Cesareas,2
+Cochabamba,31301,Mizque,2019,5,Cesareas,5
+Chuquisaca,10501,Monteagudo,2019,5,Cesareas,16
+Santa Cruz,71001,Montero,2019,5,Cesareas,291
+Oruro,40101,Oruro,2019,5,Cesareas,326
+Chuquisaca,10401,Padilla,2019,5,Cesareas,7
+Santa Cruz,70502,Pailon,2019,5,Cesareas,13
+Santa Cruz,70601,Portachuelo,2019,5,Cesareas,24
+Potosí,50101,Potosi,2019,5,Cesareas,168
+Santa Cruz,71402,Puerto Quijarro,2019,5,Cesareas,7
+Santa Cruz,71401,Puerto Suarez,2019,5,Cesareas,10
+Cochabamba,31205,Puerto Villarroel,2019,5,Cesareas,42
+Cochabamba,31401,Punata,2019,5,Cesareas,44
+Cochabamba,30901,Quillacollo,2019,5,Cesareas,35
+Beni,80301,Reyes,2019,5,Cesareas,2
+Beni,80201,Riberalta,2019,5,Cesareas,113
+Santa Cruz,70503,Robore,2019,5,Cesareas,13
+Beni,80304,Rurrenabaque,2019,5,Cesareas,6
+Cochabamba,31001,Sacaba,2019,5,Cesareas,95
+Beni,80302,San Borja,2019,5,Cesareas,10
+La Paz,21502,San Buena Ventura,2019,5,Cesareas,1
+Santa Cruz,70402,San Carlos,2019,5,Cesareas,22
+Beni,80501,San Ignacio,2019,5,Cesareas,4
+Santa Cruz,70301,San Ignacio De Velasco,2019,5,Cesareas,38
+Santa Cruz,71102,San Javier(stc),2019,5,Cesareas,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,5,Cesareas,20
+Santa Cruz,71104,San Julian,2019,5,Cesareas,3
+Beni,80702,San Ramon Beni,2019,5,Cesareas,4
+Santa Cruz,71103,San Ramon Scz,2019,5,Cesareas,3
+Beni,80401,Santa Ana,2019,5,Cesareas,18
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,Cesareas,2610
+Beni,80303,Santa Rosa,2019,5,Cesareas,1
+Cochabamba,31602,Shinaota,2019,5,Cesareas,13
+Chuquisaca,10101,Sucre,2019,5,Cesareas,313
+Chuquisaca,10601,Tarabuco,2019,5,Cesareas,4
+Tarija,60101,Tarija,2019,5,Cesareas,217
+Cochabamba,30903,Tiquipaya,2019,5,Cesareas,23
+Cochabamba,31201,Totora(cbba),2019,5,Cesareas,3
+Beni,80101,Trinidad,2019,5,Cesareas,193
+Potosí,50801,Tupiza,2019,5,Cesareas,20
+Potosí,50201,Uncia,2019,5,Cesareas,4
+Potosí,51201,Uyuni,2019,5,Cesareas,8
+Santa Cruz,70801,Vallegrande,2019,5,Cesareas,19
+La Paz,20801,Viacha,2019,5,Cesareas,5
+Tarija,60303,Villa Montes,2019,5,Cesareas,34
+Cochabamba,31003,Villa Tunari,2019,5,Cesareas,46
+Potosí,51501,Villazon,2019,5,Cesareas,16
+Cochabamba,30904,Vinto,2019,5,Cesareas,1
+Santa Cruz,70201,Warnes,2019,5,Cesareas,53
+Tarija,60301,Yacuiba,2019,5,Cesareas,74
+Santa Cruz,70403,Yapacani,2019,5,Cesareas,45
+Chuquisaca,10102,Yotala,2019,5,Cesareas,1
+La Paz,20201,Achacachi,2019,6,Cesareas,4
+Cochabamba,30201,Aiquile,2019,6,Cesareas,2
+Santa Cruz,71501,Ascencion De Guarayos,2019,6,Cesareas,29
+Potosí,50802,Atocha,2019,6,Cesareas,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,6,Cesareas,3
+Tarija,60202,Bermejo,2019,6,Cesareas,24
+Santa Cruz,70706,Camiri,2019,6,Cesareas,50
+La Paz,22001,Caranavi,2019,6,Cesareas,17
+Oruro,40201,Challapata,2019,6,Cesareas,9
+Santa Cruz,70702,Charagua,2019,6,Cesareas,6
+La Paz,21101,Chulumani (v. De La Libertad),2019,6,Cesareas,5
+Cochabamba,30801,Cliza,2019,6,Cesareas,19
+Pando,90101,Cobija,2019,6,Cesareas,65
+Cochabamba,30101,Cochabamba,2019,6,Cesareas,862
+Cochabamba,30905,Colcapirhua,2019,6,Cesareas,16
+Santa Cruz,71301,Comarapa,2019,6,Cesareas,6
+Santa Cruz,71101,Concepcion,2019,6,Cesareas,1
+La Paz,21401,Coroico,2019,6,Cesareas,10
+Santa Cruz,70102,Cotoca,2019,6,Cesareas,11
+Santa Cruz,71106,Cuatro Cañadas,2019,6,Cesareas,4
+La Paz,20105,El Alto,2019,6,Cesareas,411
+Santa Cruz,70105,El Torno,2019,6,Cesareas,44
+Tarija,60601,Entre Rios Trj,2019,6,Cesareas,4
+Beni,80202,Guayaramerin,2019,6,Cesareas,40
+Oruro,40701,Huanuni,2019,6,Cesareas,14
+Santa Cruz,70104,La Guardia,2019,6,Cesareas,2
+La Paz,20101,La Paz,2019,6,Cesareas,707
+Potosí,50203,Llallagua,2019,6,Cesareas,13
+Beni,80801,Magdalena,2019,6,Cesareas,10
+Cochabamba,31301,Mizque,2019,6,Cesareas,11
+Chuquisaca,10501,Monteagudo,2019,6,Cesareas,16
+Santa Cruz,71001,Montero,2019,6,Cesareas,226
+Oruro,40101,Oruro,2019,6,Cesareas,334
+Chuquisaca,10401,Padilla,2019,6,Cesareas,5
+Santa Cruz,70502,Pailon,2019,6,Cesareas,10
+La Paz,21305,Patacamaya,2019,6,Cesareas,5
+Santa Cruz,70601,Portachuelo,2019,6,Cesareas,21
+Potosí,50101,Potosi,2019,6,Cesareas,179
+Santa Cruz,71402,Puerto Quijarro,2019,6,Cesareas,12
+Santa Cruz,71401,Puerto Suarez,2019,6,Cesareas,9
+Cochabamba,31205,Puerto Villarroel,2019,6,Cesareas,54
+Cochabamba,31401,Punata,2019,6,Cesareas,21
+Cochabamba,30901,Quillacollo,2019,6,Cesareas,58
+Beni,80201,Riberalta,2019,6,Cesareas,88
+Santa Cruz,70503,Robore,2019,6,Cesareas,7
+Beni,80304,Rurrenabaque,2019,6,Cesareas,10
+Cochabamba,31001,Sacaba,2019,6,Cesareas,112
+Beni,80302,San Borja,2019,6,Cesareas,3
+La Paz,21502,San Buena Ventura,2019,6,Cesareas,1
+Santa Cruz,70402,San Carlos,2019,6,Cesareas,12
+Beni,80501,San Ignacio,2019,6,Cesareas,1
+Santa Cruz,70301,San Ignacio De Velasco,2019,6,Cesareas,51
+Santa Cruz,71102,San Javier(stc),2019,6,Cesareas,4
+Santa Cruz,70501,San Jose De Chiquitos,2019,6,Cesareas,18
+Santa Cruz,71104,San Julian,2019,6,Cesareas,2
+Santa Cruz,71201,San Matias,2019,6,Cesareas,2
+Beni,80702,San Ramon Beni,2019,6,Cesareas,4
+Santa Cruz,71103,San Ramon Scz,2019,6,Cesareas,3
+Beni,80401,Santa Ana,2019,6,Cesareas,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,Cesareas,2235
+Cochabamba,31602,Shinaota,2019,6,Cesareas,6
+La Paz,20601,Sorata,2019,6,Cesareas,0
+Chuquisaca,10101,Sucre,2019,6,Cesareas,257
+Chuquisaca,10601,Tarabuco,2019,6,Cesareas,6
+Tarija,60101,Tarija,2019,6,Cesareas,189
+Cochabamba,30903,Tiquipaya,2019,6,Cesareas,34
+Cochabamba,31201,Totora(cbba),2019,6,Cesareas,2
+Beni,80101,Trinidad,2019,6,Cesareas,34
+Potosí,50801,Tupiza,2019,6,Cesareas,26
+Potosí,50201,Uncia,2019,6,Cesareas,7
+Potosí,51201,Uyuni,2019,6,Cesareas,10
+Santa Cruz,70801,Vallegrande,2019,6,Cesareas,12
+La Paz,20801,Viacha,2019,6,Cesareas,20
+Tarija,60303,Villa Montes,2019,6,Cesareas,36
+Cochabamba,31003,Villa Tunari,2019,6,Cesareas,42
+Potosí,51501,Villazon,2019,6,Cesareas,12
+Santa Cruz,70201,Warnes,2019,6,Cesareas,31
+Tarija,60301,Yacuiba,2019,6,Cesareas,67
+Santa Cruz,70403,Yapacani,2019,6,Cesareas,47
+Chuquisaca,10102,Yotala,2019,6,Cesareas,1
+La Paz,20201,Achacachi,2019,7,Cesareas,3
+Cochabamba,30201,Aiquile,2019,7,Cesareas,10
+Santa Cruz,71501,Ascencion De Guarayos,2019,7,Cesareas,24
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,7,Cesareas,2
+Tarija,60202,Bermejo,2019,7,Cesareas,30
+Santa Cruz,70703,Cabezas,2019,7,Cesareas,1
+Chuquisaca,10701,Camargo,2019,7,Cesareas,1
+Santa Cruz,70706,Camiri,2019,7,Cesareas,45
+La Paz,22001,Caranavi,2019,7,Cesareas,36
+Oruro,40201,Challapata,2019,7,Cesareas,13
+Santa Cruz,70702,Charagua,2019,7,Cesareas,8
+La Paz,21101,Chulumani (v. De La Libertad),2019,7,Cesareas,5
+Cochabamba,30801,Cliza,2019,7,Cesareas,12
+Pando,90101,Cobija,2019,7,Cesareas,58
+Cochabamba,30101,Cochabamba,2019,7,Cesareas,787
+Cochabamba,30905,Colcapirhua,2019,7,Cesareas,18
+Santa Cruz,71301,Comarapa,2019,7,Cesareas,18
+Santa Cruz,71101,Concepcion,2019,7,Cesareas,4
+La Paz,21401,Coroico,2019,7,Cesareas,12
+Santa Cruz,70102,Cotoca,2019,7,Cesareas,12
+Santa Cruz,71106,Cuatro Cañadas,2019,7,Cesareas,9
+La Paz,20105,El Alto,2019,7,Cesareas,405
+Santa Cruz,70105,El Torno,2019,7,Cesareas,45
+Tarija,60601,Entre Rios Trj,2019,7,Cesareas,5
+Beni,80202,Guayaramerin,2019,7,Cesareas,49
+Oruro,40701,Huanuni,2019,7,Cesareas,15
+Santa Cruz,70104,La Guardia,2019,7,Cesareas,2
+La Paz,20101,La Paz,2019,7,Cesareas,810
+Potosí,50203,Llallagua,2019,7,Cesareas,20
+Beni,80801,Magdalena,2019,7,Cesareas,3
+Cochabamba,31301,Mizque,2019,7,Cesareas,9
+Chuquisaca,10501,Monteagudo,2019,7,Cesareas,13
+Santa Cruz,71001,Montero,2019,7,Cesareas,207
+Oruro,40101,Oruro,2019,7,Cesareas,333
+Chuquisaca,10401,Padilla,2019,7,Cesareas,8
+Santa Cruz,70502,Pailon,2019,7,Cesareas,12
+La Paz,21305,Patacamaya,2019,7,Cesareas,3
+Santa Cruz,70601,Portachuelo,2019,7,Cesareas,13
+Potosí,50101,Potosi,2019,7,Cesareas,170
+Santa Cruz,71402,Puerto Quijarro,2019,7,Cesareas,1
+Santa Cruz,71401,Puerto Suarez,2019,7,Cesareas,13
+Cochabamba,31205,Puerto Villarroel,2019,7,Cesareas,41
+Cochabamba,31401,Punata,2019,7,Cesareas,47
+Cochabamba,30901,Quillacollo,2019,7,Cesareas,74
+Beni,80201,Riberalta,2019,7,Cesareas,110
+Santa Cruz,70503,Robore,2019,7,Cesareas,12
+Beni,80304,Rurrenabaque,2019,7,Cesareas,12
+Cochabamba,31001,Sacaba,2019,7,Cesareas,117
+Beni,80302,San Borja,2019,7,Cesareas,14
+La Paz,21502,San Buena Ventura,2019,7,Cesareas,4
+Santa Cruz,70402,San Carlos,2019,7,Cesareas,13
+Santa Cruz,70301,San Ignacio De Velasco,2019,7,Cesareas,40
+Santa Cruz,71102,San Javier(stc),2019,7,Cesareas,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,7,Cesareas,20
+Santa Cruz,71104,San Julian,2019,7,Cesareas,7
+Beni,80702,San Ramon Beni,2019,7,Cesareas,2
+Santa Cruz,71103,San Ramon Scz,2019,7,Cesareas,3
+Beni,80401,Santa Ana,2019,7,Cesareas,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,7,Cesareas,2035
+Cochabamba,31602,Shinaota,2019,7,Cesareas,11
+Chuquisaca,10101,Sucre,2019,7,Cesareas,256
+Chuquisaca,10601,Tarabuco,2019,7,Cesareas,3
+Tarija,60101,Tarija,2019,7,Cesareas,171
+Cochabamba,30903,Tiquipaya,2019,7,Cesareas,36
+Cochabamba,31201,Totora(cbba),2019,7,Cesareas,6
+Beni,80101,Trinidad,2019,7,Cesareas,140
+Potosí,50801,Tupiza,2019,7,Cesareas,24
+Potosí,50201,Uncia,2019,7,Cesareas,9
+Potosí,51201,Uyuni,2019,7,Cesareas,8
+Santa Cruz,70801,Vallegrande,2019,7,Cesareas,21
+La Paz,20801,Viacha,2019,7,Cesareas,15
+Tarija,60303,Villa Montes,2019,7,Cesareas,32
+Cochabamba,31003,Villa Tunari,2019,7,Cesareas,46
+Potosí,51501,Villazon,2019,7,Cesareas,19
+Cochabamba,30904,Vinto,2019,7,Cesareas,3
+Santa Cruz,70201,Warnes,2019,7,Cesareas,42
+Tarija,60301,Yacuiba,2019,7,Cesareas,70
+Santa Cruz,70403,Yapacani,2019,7,Cesareas,30
+La Paz,20201,Achacachi,2019,8,Cesareas,3
+Cochabamba,30201,Aiquile,2019,8,Cesareas,6
+Cochabamba,30402,Anzaldo,2019,8,Cesareas,1
+Santa Cruz,71501,Ascencion De Guarayos,2019,8,Cesareas,16
+Potosí,50802,Atocha,2019,8,Cesareas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,8,Cesareas,1
+Chuquisaca,10201,Azurduy,2019,8,Cesareas,4
+Tarija,60202,Bermejo,2019,8,Cesareas,36
+Chuquisaca,10701,Camargo,2019,8,Cesareas,7
+Santa Cruz,70706,Camiri,2019,8,Cesareas,77
+La Paz,22001,Caranavi,2019,8,Cesareas,18
+Oruro,40201,Challapata,2019,8,Cesareas,16
+Santa Cruz,70702,Charagua,2019,8,Cesareas,8
+La Paz,21101,Chulumani (v. De La Libertad),2019,8,Cesareas,10
+Cochabamba,30801,Cliza,2019,8,Cesareas,11
+Pando,90101,Cobija,2019,8,Cesareas,57
+Cochabamba,30101,Cochabamba,2019,8,Cesareas,815
+Cochabamba,30905,Colcapirhua,2019,8,Cesareas,15
+Santa Cruz,71301,Comarapa,2019,8,Cesareas,10
+Santa Cruz,71101,Concepcion,2019,8,Cesareas,5
+La Paz,21401,Coroico,2019,8,Cesareas,9
+Santa Cruz,70102,Cotoca,2019,8,Cesareas,7
+Santa Cruz,71106,Cuatro Cañadas,2019,8,Cesareas,4
+La Paz,20105,El Alto,2019,8,Cesareas,383
+Santa Cruz,70105,El Torno,2019,8,Cesareas,29
+Tarija,60601,Entre Rios Trj,2019,8,Cesareas,9
+La Paz,20405,Escoma,2019,8,Cesareas,1
+La Paz,20602,Guanay,2019,8,Cesareas,1
+Beni,80202,Guayaramerin,2019,8,Cesareas,42
+Oruro,40701,Huanuni,2019,8,Cesareas,8
+Santa Cruz,70104,La Guardia,2019,8,Cesareas,7
+La Paz,20101,La Paz,2019,8,Cesareas,783
+Potosí,50203,Llallagua,2019,8,Cesareas,24
+Beni,80801,Magdalena,2019,8,Cesareas,7
+Santa Cruz,71003,Mineros,2019,8,Cesareas,1
+Cochabamba,31301,Mizque,2019,8,Cesareas,6
+Chuquisaca,10501,Monteagudo,2019,8,Cesareas,20
+Santa Cruz,71001,Montero,2019,8,Cesareas,218
+Oruro,40101,Oruro,2019,8,Cesareas,330
+Chuquisaca,10401,Padilla,2019,8,Cesareas,8
+Santa Cruz,70502,Pailon,2019,8,Cesareas,13
+La Paz,21305,Patacamaya,2019,8,Cesareas,3
+Santa Cruz,70601,Portachuelo,2019,8,Cesareas,15
+Potosí,50101,Potosi,2019,8,Cesareas,191
+Santa Cruz,71402,Puerto Quijarro,2019,8,Cesareas,1
+Santa Cruz,71401,Puerto Suarez,2019,8,Cesareas,10
+Cochabamba,31205,Puerto Villarroel,2019,8,Cesareas,40
+Cochabamba,31401,Punata,2019,8,Cesareas,34
+Cochabamba,30901,Quillacollo,2019,8,Cesareas,72
+Beni,80301,Reyes,2019,8,Cesareas,2
+Beni,80201,Riberalta,2019,8,Cesareas,123
+Santa Cruz,70503,Robore,2019,8,Cesareas,10
+Beni,80304,Rurrenabaque,2019,8,Cesareas,16
+Cochabamba,31001,Sacaba,2019,8,Cesareas,105
+Beni,80302,San Borja,2019,8,Cesareas,11
+La Paz,21502,San Buena Ventura,2019,8,Cesareas,7
+Santa Cruz,70402,San Carlos,2019,8,Cesareas,9
+Santa Cruz,70301,San Ignacio De Velasco,2019,8,Cesareas,42
+Santa Cruz,71102,San Javier(stc),2019,8,Cesareas,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,8,Cesareas,8
+Santa Cruz,71104,San Julian,2019,8,Cesareas,8
+Santa Cruz,71201,San Matias,2019,8,Cesareas,4
+Beni,80702,San Ramon Beni,2019,8,Cesareas,4
+Santa Cruz,71103,San Ramon Scz,2019,8,Cesareas,2
+Beni,80401,Santa Ana,2019,8,Cesareas,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,8,Cesareas,2132
+Beni,80303,Santa Rosa,2019,8,Cesareas,2
+Cochabamba,31602,Shinaota,2019,8,Cesareas,12
+La Paz,20601,Sorata,2019,8,Cesareas,0
+Chuquisaca,10101,Sucre,2019,8,Cesareas,262
+Chuquisaca,10601,Tarabuco,2019,8,Cesareas,3
+Tarija,60101,Tarija,2019,8,Cesareas,176
+Cochabamba,30903,Tiquipaya,2019,8,Cesareas,29
+Cochabamba,31201,Totora(cbba),2019,8,Cesareas,3
+Beni,80101,Trinidad,2019,8,Cesareas,109
+Potosí,50801,Tupiza,2019,8,Cesareas,19
+Potosí,50201,Uncia,2019,8,Cesareas,8
+Potosí,51201,Uyuni,2019,8,Cesareas,4
+Santa Cruz,70801,Vallegrande,2019,8,Cesareas,18
+La Paz,20801,Viacha,2019,8,Cesareas,15
+Tarija,60303,Villa Montes,2019,8,Cesareas,31
+Cochabamba,31003,Villa Tunari,2019,8,Cesareas,40
+Potosí,51501,Villazon,2019,8,Cesareas,5
+Cochabamba,30904,Vinto,2019,8,Cesareas,2
+Santa Cruz,70201,Warnes,2019,8,Cesareas,34
+Tarija,60301,Yacuiba,2019,8,Cesareas,67
+Santa Cruz,70403,Yapacani,2019,8,Cesareas,58
+La Paz,20201,Achacachi,2019,9,Cesareas,5
+Cochabamba,30201,Aiquile,2019,9,Cesareas,10
+Santa Cruz,71501,Ascencion De Guarayos,2019,9,Cesareas,23
+Potosí,50802,Atocha,2019,9,Cesareas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,9,Cesareas,4
+Chuquisaca,10201,Azurduy,2019,9,Cesareas,1
+Tarija,60202,Bermejo,2019,9,Cesareas,34
+Santa Cruz,70703,Cabezas,2019,9,Cesareas,1
+Chuquisaca,10701,Camargo,2019,9,Cesareas,13
+Santa Cruz,70706,Camiri,2019,9,Cesareas,50
+Oruro,40102,Caracollo,2019,9,Cesareas,3
+La Paz,22001,Caranavi,2019,9,Cesareas,32
+Oruro,40201,Challapata,2019,9,Cesareas,10
+Santa Cruz,70702,Charagua,2019,9,Cesareas,16
+La Paz,21101,Chulumani (v. De La Libertad),2019,9,Cesareas,10
+Cochabamba,30801,Cliza,2019,9,Cesareas,17
+Pando,90101,Cobija,2019,9,Cesareas,91
+Cochabamba,30101,Cochabamba,2019,9,Cesareas,854
+Cochabamba,30905,Colcapirhua,2019,9,Cesareas,22
+Santa Cruz,71301,Comarapa,2019,9,Cesareas,13
+Santa Cruz,71101,Concepcion,2019,9,Cesareas,2
+La Paz,21401,Coroico,2019,9,Cesareas,11
+Santa Cruz,71106,Cuatro Cañadas,2019,9,Cesareas,4
+La Paz,20105,El Alto,2019,9,Cesareas,373
+Santa Cruz,70105,El Torno,2019,9,Cesareas,32
+Tarija,60601,Entre Rios Trj,2019,9,Cesareas,5
+La Paz,20405,Escoma,2019,9,Cesareas,3
+Beni,80202,Guayaramerin,2019,9,Cesareas,45
+Oruro,40701,Huanuni,2019,9,Cesareas,6
+Santa Cruz,70104,La Guardia,2019,9,Cesareas,9
+La Paz,20101,La Paz,2019,9,Cesareas,761
+Potosí,50203,Llallagua,2019,9,Cesareas,31
+Beni,80801,Magdalena,2019,9,Cesareas,5
+Santa Cruz,70903,Mairana,2019,9,Cesareas,3
+Cochabamba,31301,Mizque,2019,9,Cesareas,9
+Chuquisaca,10501,Monteagudo,2019,9,Cesareas,10
+Santa Cruz,71001,Montero,2019,9,Cesareas,212
+Oruro,40101,Oruro,2019,9,Cesareas,314
+Chuquisaca,10401,Padilla,2019,9,Cesareas,5
+Santa Cruz,70502,Pailon,2019,9,Cesareas,7
+La Paz,21305,Patacamaya,2019,9,Cesareas,2
+Santa Cruz,70601,Portachuelo,2019,9,Cesareas,18
+Potosí,50101,Potosi,2019,9,Cesareas,190
+Santa Cruz,71402,Puerto Quijarro,2019,9,Cesareas,8
+Santa Cruz,71401,Puerto Suarez,2019,9,Cesareas,7
+Cochabamba,31205,Puerto Villarroel,2019,9,Cesareas,54
+Cochabamba,31401,Punata,2019,9,Cesareas,48
+Cochabamba,30901,Quillacollo,2019,9,Cesareas,68
+Beni,80201,Riberalta,2019,9,Cesareas,92
+Santa Cruz,70503,Robore,2019,9,Cesareas,9
+Beni,80304,Rurrenabaque,2019,9,Cesareas,14
+Cochabamba,31001,Sacaba,2019,9,Cesareas,105
+Beni,80302,San Borja,2019,9,Cesareas,8
+La Paz,21502,San Buena Ventura,2019,9,Cesareas,9
+Santa Cruz,70402,San Carlos,2019,9,Cesareas,8
+Santa Cruz,70301,San Ignacio De Velasco,2019,9,Cesareas,39
+Santa Cruz,71102,San Javier(stc),2019,9,Cesareas,4
+Santa Cruz,70501,San Jose De Chiquitos,2019,9,Cesareas,20
+Santa Cruz,71104,San Julian,2019,9,Cesareas,18
+Santa Cruz,71103,San Ramon Scz,2019,9,Cesareas,1
+Beni,80401,Santa Ana,2019,9,Cesareas,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,9,Cesareas,2185
+Cochabamba,31602,Shinaota,2019,9,Cesareas,7
+Chuquisaca,10101,Sucre,2019,9,Cesareas,264
+Chuquisaca,10601,Tarabuco,2019,9,Cesareas,4
+Tarija,60101,Tarija,2019,9,Cesareas,180
+Chuquisaca,10202,Tarvita,2019,9,Cesareas,2
+Cochabamba,30903,Tiquipaya,2019,9,Cesareas,33
+Cochabamba,31201,Totora(cbba),2019,9,Cesareas,4
+Beni,80101,Trinidad,2019,9,Cesareas,151
+Potosí,50801,Tupiza,2019,9,Cesareas,28
+Potosí,50201,Uncia,2019,9,Cesareas,5
+Potosí,51201,Uyuni,2019,9,Cesareas,6
+Santa Cruz,70801,Vallegrande,2019,9,Cesareas,22
+La Paz,20801,Viacha,2019,9,Cesareas,18
+Tarija,60303,Villa Montes,2019,9,Cesareas,44
+Cochabamba,31003,Villa Tunari,2019,9,Cesareas,47
+Potosí,51501,Villazon,2019,9,Cesareas,12
+Cochabamba,30904,Vinto,2019,9,Cesareas,2
+Santa Cruz,70201,Warnes,2019,9,Cesareas,38
+Tarija,60301,Yacuiba,2019,9,Cesareas,67
+Santa Cruz,70403,Yapacani,2019,9,Cesareas,38
+La Paz,20201,Achacachi,2019,10,Cesareas,8
+Cochabamba,30201,Aiquile,2019,10,Cesareas,5
+Santa Cruz,71501,Ascencion De Guarayos,2019,10,Cesareas,30
+Potosí,50802,Atocha,2019,10,Cesareas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,10,Cesareas,1
+Tarija,60202,Bermejo,2019,10,Cesareas,26
+Chuquisaca,10701,Camargo,2019,10,Cesareas,13
+Santa Cruz,70706,Camiri,2019,10,Cesareas,58
+Oruro,40102,Caracollo,2019,10,Cesareas,3
+La Paz,22001,Caranavi,2019,10,Cesareas,31
+Oruro,40201,Challapata,2019,10,Cesareas,5
+Santa Cruz,70702,Charagua,2019,10,Cesareas,10
+La Paz,21101,Chulumani (v. De La Libertad),2019,10,Cesareas,12
+Cochabamba,30801,Cliza,2019,10,Cesareas,16
+Pando,90101,Cobija,2019,10,Cesareas,79
+Cochabamba,30101,Cochabamba,2019,10,Cesareas,809
+Cochabamba,30905,Colcapirhua,2019,10,Cesareas,23
+Santa Cruz,71301,Comarapa,2019,10,Cesareas,14
+Santa Cruz,71101,Concepcion,2019,10,Cesareas,1
+La Paz,21401,Coroico,2019,10,Cesareas,10
+Santa Cruz,71106,Cuatro Cañadas,2019,10,Cesareas,10
+La Paz,20105,El Alto,2019,10,Cesareas,387
+Santa Cruz,70105,El Torno,2019,10,Cesareas,43
+Tarija,60601,Entre Rios Trj,2019,10,Cesareas,7
+La Paz,20405,Escoma,2019,10,Cesareas,4
+La Paz,20602,Guanay,2019,10,Cesareas,1
+Beni,80202,Guayaramerin,2019,10,Cesareas,45
+Oruro,40701,Huanuni,2019,10,Cesareas,13
+Santa Cruz,70104,La Guardia,2019,10,Cesareas,4
+La Paz,20101,La Paz,2019,10,Cesareas,777
+Potosí,50203,Llallagua,2019,10,Cesareas,23
+Beni,80801,Magdalena,2019,10,Cesareas,8
+Santa Cruz,70903,Mairana,2019,10,Cesareas,10
+Santa Cruz,71003,Mineros,2019,10,Cesareas,1
+Cochabamba,31301,Mizque,2019,10,Cesareas,5
+Chuquisaca,10501,Monteagudo,2019,10,Cesareas,15
+Santa Cruz,71001,Montero,2019,10,Cesareas,217
+Oruro,40101,Oruro,2019,10,Cesareas,307
+Chuquisaca,10401,Padilla,2019,10,Cesareas,4
+Santa Cruz,70502,Pailon,2019,10,Cesareas,4
+La Paz,21305,Patacamaya,2019,10,Cesareas,4
+Santa Cruz,70601,Portachuelo,2019,10,Cesareas,21
+Potosí,50101,Potosi,2019,10,Cesareas,187
+Santa Cruz,71402,Puerto Quijarro,2019,10,Cesareas,5
+Santa Cruz,71401,Puerto Suarez,2019,10,Cesareas,9
+Cochabamba,31205,Puerto Villarroel,2019,10,Cesareas,48
+Cochabamba,31401,Punata,2019,10,Cesareas,39
+Cochabamba,30901,Quillacollo,2019,10,Cesareas,55
+Beni,80201,Riberalta,2019,10,Cesareas,104
+Santa Cruz,70503,Robore,2019,10,Cesareas,12
+Beni,80304,Rurrenabaque,2019,10,Cesareas,14
+Cochabamba,31001,Sacaba,2019,10,Cesareas,128
+Beni,80302,San Borja,2019,10,Cesareas,16
+La Paz,21502,San Buena Ventura,2019,10,Cesareas,7
+Santa Cruz,70402,San Carlos,2019,10,Cesareas,16
+Beni,80501,San Ignacio,2019,10,Cesareas,2
+Santa Cruz,70301,San Ignacio De Velasco,2019,10,Cesareas,34
+Santa Cruz,71102,San Javier(stc),2019,10,Cesareas,7
+Santa Cruz,70501,San Jose De Chiquitos,2019,10,Cesareas,12
+Santa Cruz,71104,San Julian,2019,10,Cesareas,10
+Santa Cruz,71201,San Matias,2019,10,Cesareas,7
+Beni,80702,San Ramon Beni,2019,10,Cesareas,5
+Santa Cruz,71103,San Ramon Scz,2019,10,Cesareas,2
+Beni,80401,Santa Ana,2019,10,Cesareas,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,Cesareas,2041
+Beni,80303,Santa Rosa,2019,10,Cesareas,2
+Cochabamba,31602,Shinaota,2019,10,Cesareas,13
+Chuquisaca,10101,Sucre,2019,10,Cesareas,258
+Chuquisaca,10601,Tarabuco,2019,10,Cesareas,2
+Tarija,60101,Tarija,2019,10,Cesareas,172
+Chuquisaca,10202,Tarvita,2019,10,Cesareas,2
+Cochabamba,30903,Tiquipaya,2019,10,Cesareas,33
+Cochabamba,31201,Totora(cbba),2019,10,Cesareas,7
+Beni,80101,Trinidad,2019,10,Cesareas,131
+Potosí,50801,Tupiza,2019,10,Cesareas,22
+Potosí,50201,Uncia,2019,10,Cesareas,5
+Potosí,51201,Uyuni,2019,10,Cesareas,6
+Santa Cruz,70801,Vallegrande,2019,10,Cesareas,12
+La Paz,20801,Viacha,2019,10,Cesareas,14
+Tarija,60303,Villa Montes,2019,10,Cesareas,33
+Cochabamba,31003,Villa Tunari,2019,10,Cesareas,41
+Potosí,51501,Villazon,2019,10,Cesareas,12
+Cochabamba,30904,Vinto,2019,10,Cesareas,1
+Santa Cruz,70201,Warnes,2019,10,Cesareas,37
+Tarija,60301,Yacuiba,2019,10,Cesareas,56
+Santa Cruz,70403,Yapacani,2019,10,Cesareas,37
+Chuquisaca,10102,Yotala,2019,10,Cesareas,1
+La Paz,20201,Achacachi,2019,11,Cesareas,6
+Cochabamba,30201,Aiquile,2019,11,Cesareas,8
+Santa Cruz,71501,Ascencion De Guarayos,2019,11,Cesareas,28
+Potosí,50802,Atocha,2019,11,Cesareas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,11,Cesareas,1
+Chuquisaca,10201,Azurduy,2019,11,Cesareas,3
+Tarija,60202,Bermejo,2019,11,Cesareas,17
+Chuquisaca,10701,Camargo,2019,11,Cesareas,16
+Santa Cruz,70706,Camiri,2019,11,Cesareas,57
+La Paz,22001,Caranavi,2019,11,Cesareas,34
+Oruro,40201,Challapata,2019,11,Cesareas,4
+Santa Cruz,70702,Charagua,2019,11,Cesareas,9
+La Paz,21101,Chulumani (v. De La Libertad),2019,11,Cesareas,6
+Cochabamba,30801,Cliza,2019,11,Cesareas,4
+Pando,90101,Cobija,2019,11,Cesareas,67
+Cochabamba,30101,Cochabamba,2019,11,Cesareas,750
+Cochabamba,30905,Colcapirhua,2019,11,Cesareas,25
+Santa Cruz,71301,Comarapa,2019,11,Cesareas,14
+Santa Cruz,71101,Concepcion,2019,11,Cesareas,5
+La Paz,21401,Coroico,2019,11,Cesareas,7
+Santa Cruz,70102,Cotoca,2019,11,Cesareas,6
+Santa Cruz,71106,Cuatro Cañadas,2019,11,Cesareas,11
+La Paz,20105,El Alto,2019,11,Cesareas,379
+Santa Cruz,70105,El Torno,2019,11,Cesareas,21
+Tarija,60601,Entre Rios Trj,2019,11,Cesareas,5
+Beni,80202,Guayaramerin,2019,11,Cesareas,51
+Oruro,40701,Huanuni,2019,11,Cesareas,9
+Santa Cruz,70104,La Guardia,2019,11,Cesareas,4
+La Paz,20101,La Paz,2019,11,Cesareas,739
+Potosí,50203,Llallagua,2019,11,Cesareas,26
+Beni,80801,Magdalena,2019,11,Cesareas,2
+Santa Cruz,70903,Mairana,2019,11,Cesareas,11
+Cochabamba,31301,Mizque,2019,11,Cesareas,18
+Chuquisaca,10501,Monteagudo,2019,11,Cesareas,14
+Santa Cruz,71001,Montero,2019,11,Cesareas,169
+Oruro,40101,Oruro,2019,11,Cesareas,326
+Chuquisaca,10401,Padilla,2019,11,Cesareas,4
+Santa Cruz,70502,Pailon,2019,11,Cesareas,5
+La Paz,21305,Patacamaya,2019,11,Cesareas,4
+Santa Cruz,70601,Portachuelo,2019,11,Cesareas,14
+Potosí,50101,Potosi,2019,11,Cesareas,190
+Santa Cruz,71402,Puerto Quijarro,2019,11,Cesareas,11
+Santa Cruz,71401,Puerto Suarez,2019,11,Cesareas,8
+Cochabamba,31205,Puerto Villarroel,2019,11,Cesareas,56
+Cochabamba,31401,Punata,2019,11,Cesareas,46
+Cochabamba,30901,Quillacollo,2019,11,Cesareas,60
+Beni,80301,Reyes,2019,11,Cesareas,1
+Beni,80201,Riberalta,2019,11,Cesareas,92
+Santa Cruz,70503,Robore,2019,11,Cesareas,6
+Beni,80304,Rurrenabaque,2019,11,Cesareas,13
+Cochabamba,31001,Sacaba,2019,11,Cesareas,87
+Beni,80302,San Borja,2019,11,Cesareas,25
+La Paz,21502,San Buena Ventura,2019,11,Cesareas,4
+Santa Cruz,70402,San Carlos,2019,11,Cesareas,17
+Beni,80501,San Ignacio,2019,11,Cesareas,5
+Santa Cruz,70301,San Ignacio De Velasco,2019,11,Cesareas,29
+Santa Cruz,71102,San Javier(stc),2019,11,Cesareas,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,11,Cesareas,16
+Santa Cruz,71104,San Julian,2019,11,Cesareas,8
+Santa Cruz,71201,San Matias,2019,11,Cesareas,1
+Beni,80702,San Ramon Beni,2019,11,Cesareas,2
+Santa Cruz,71103,San Ramon Scz,2019,11,Cesareas,1
+Beni,80401,Santa Ana,2019,11,Cesareas,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,Cesareas,1824
+Cochabamba,31602,Shinaota,2019,11,Cesareas,4
+Chuquisaca,10101,Sucre,2019,11,Cesareas,223
+Chuquisaca,10601,Tarabuco,2019,11,Cesareas,4
+Tarija,60101,Tarija,2019,11,Cesareas,183
+Chuquisaca,10202,Tarvita,2019,11,Cesareas,4
+Cochabamba,30903,Tiquipaya,2019,11,Cesareas,22
+Beni,80101,Trinidad,2019,11,Cesareas,124
+Potosí,50801,Tupiza,2019,11,Cesareas,18
+Potosí,50201,Uncia,2019,11,Cesareas,5
+Potosí,51201,Uyuni,2019,11,Cesareas,14
+Santa Cruz,70801,Vallegrande,2019,11,Cesareas,15
+La Paz,20801,Viacha,2019,11,Cesareas,13
+Tarija,60303,Villa Montes,2019,11,Cesareas,30
+Cochabamba,31003,Villa Tunari,2019,11,Cesareas,30
+Potosí,51501,Villazon,2019,11,Cesareas,5
+Santa Cruz,70201,Warnes,2019,11,Cesareas,22
+Tarija,60301,Yacuiba,2019,11,Cesareas,49
+Santa Cruz,70403,Yapacani,2019,11,Cesareas,35
+La Paz,20201,Achacachi,2019,12,Cesareas,6
+Cochabamba,30201,Aiquile,2019,12,Cesareas,4
+Santa Cruz,71501,Ascencion De Guarayos,2019,12,Cesareas,21
+Potosí,50802,Atocha,2019,12,Cesareas,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,12,Cesareas,3
+Beni,80802,Baures,2019,12,Cesareas,1
+Tarija,60202,Bermejo,2019,12,Cesareas,28
+Chuquisaca,10701,Camargo,2019,12,Cesareas,8
+Santa Cruz,70706,Camiri,2019,12,Cesareas,49
+Oruro,40102,Caracollo,2019,12,Cesareas,1
+La Paz,22001,Caranavi,2019,12,Cesareas,18
+Oruro,40201,Challapata,2019,12,Cesareas,7
+Santa Cruz,70702,Charagua,2019,12,Cesareas,14
+Cochabamba,30801,Cliza,2019,12,Cesareas,16
+Pando,90101,Cobija,2019,12,Cesareas,62
+Cochabamba,30101,Cochabamba,2019,12,Cesareas,800
+Cochabamba,30905,Colcapirhua,2019,12,Cesareas,22
+Santa Cruz,71301,Comarapa,2019,12,Cesareas,8
+Santa Cruz,71101,Concepcion,2019,12,Cesareas,5
+La Paz,21401,Coroico,2019,12,Cesareas,5
+Santa Cruz,70102,Cotoca,2019,12,Cesareas,9
+Santa Cruz,71106,Cuatro Cañadas,2019,12,Cesareas,4
+La Paz,20105,El Alto,2019,12,Cesareas,399
+Santa Cruz,70105,El Torno,2019,12,Cesareas,43
+Tarija,60601,Entre Rios Trj,2019,12,Cesareas,7
+La Paz,20405,Escoma,2019,12,Cesareas,3
+La Paz,20602,Guanay,2019,12,Cesareas,2
+Beni,80202,Guayaramerin,2019,12,Cesareas,44
+Oruro,40701,Huanuni,2019,12,Cesareas,16
+Santa Cruz,70104,La Guardia,2019,12,Cesareas,7
+La Paz,20101,La Paz,2019,12,Cesareas,764
+Potosí,50203,Llallagua,2019,12,Cesareas,24
+Beni,80801,Magdalena,2019,12,Cesareas,4
+Santa Cruz,70903,Mairana,2019,12,Cesareas,8
+Cochabamba,31301,Mizque,2019,12,Cesareas,8
+Chuquisaca,10501,Monteagudo,2019,12,Cesareas,14
+Santa Cruz,71001,Montero,2019,12,Cesareas,101
+Oruro,40101,Oruro,2019,12,Cesareas,324
+Chuquisaca,10401,Padilla,2019,12,Cesareas,3
+Santa Cruz,70502,Pailon,2019,12,Cesareas,6
+La Paz,21305,Patacamaya,2019,12,Cesareas,3
+Santa Cruz,70601,Portachuelo,2019,12,Cesareas,25
+Potosí,50101,Potosi,2019,12,Cesareas,156
+Santa Cruz,71402,Puerto Quijarro,2019,12,Cesareas,8
+Santa Cruz,71401,Puerto Suarez,2019,12,Cesareas,9
+Cochabamba,31205,Puerto Villarroel,2019,12,Cesareas,45
+Cochabamba,31401,Punata,2019,12,Cesareas,36
+Cochabamba,30901,Quillacollo,2019,12,Cesareas,91
+Beni,80201,Riberalta,2019,12,Cesareas,110
+Santa Cruz,70503,Robore,2019,12,Cesareas,10
+Beni,80304,Rurrenabaque,2019,12,Cesareas,18
+Cochabamba,31001,Sacaba,2019,12,Cesareas,92
+Beni,80302,San Borja,2019,12,Cesareas,25
+La Paz,21502,San Buena Ventura,2019,12,Cesareas,1
+Santa Cruz,70402,San Carlos,2019,12,Cesareas,12
+Beni,80501,San Ignacio,2019,12,Cesareas,8
+Santa Cruz,70301,San Ignacio De Velasco,2019,12,Cesareas,35
+Santa Cruz,71102,San Javier(stc),2019,12,Cesareas,5
+Santa Cruz,70501,San Jose De Chiquitos,2019,12,Cesareas,12
+Santa Cruz,71104,San Julian,2019,12,Cesareas,4
+Chuquisaca,10702,San Lucas,2019,12,Cesareas,1
+Santa Cruz,71201,San Matias,2019,12,Cesareas,1
+Beni,80702,San Ramon Beni,2019,12,Cesareas,3
+Santa Cruz,71103,San Ramon Scz,2019,12,Cesareas,3
+Beni,80401,Santa Ana,2019,12,Cesareas,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,Cesareas,2084
+Cochabamba,31602,Shinaota,2019,12,Cesareas,3
+Chuquisaca,10403,Sopachuy,2019,12,Cesareas,2
+Chuquisaca,10101,Sucre,2019,12,Cesareas,241
+Chuquisaca,10601,Tarabuco,2019,12,Cesareas,1
+Tarija,60101,Tarija,2019,12,Cesareas,217
+Chuquisaca,10202,Tarvita,2019,12,Cesareas,1
+Cochabamba,30903,Tiquipaya,2019,12,Cesareas,25
+Cochabamba,31201,Totora(cbba),2019,12,Cesareas,2
+Beni,80101,Trinidad,2019,12,Cesareas,128
+Potosí,50801,Tupiza,2019,12,Cesareas,26
+Potosí,50201,Uncia,2019,12,Cesareas,3
+Potosí,51201,Uyuni,2019,12,Cesareas,13
+Santa Cruz,70801,Vallegrande,2019,12,Cesareas,6
+La Paz,20801,Viacha,2019,12,Cesareas,21
+Tarija,60303,Villa Montes,2019,12,Cesareas,31
+Cochabamba,31003,Villa Tunari,2019,12,Cesareas,29
+Potosí,51501,Villazon,2019,12,Cesareas,4
+Cochabamba,30904,Vinto,2019,12,Cesareas,1
+Santa Cruz,70201,Warnes,2019,12,Cesareas,41
+Tarija,60301,Yacuiba,2019,12,Cesareas,54
+Santa Cruz,70403,Yapacani,2019,12,Cesareas,39
+La Paz,20201,Achacachi,2019,1,TOTAL,1
+Cochabamba,30201,Aiquile,2019,1,TOTAL,11
+Santa Cruz,71501,Ascencion De Guarayos,2019,1,TOTAL,21
+Potosí,50802,Atocha,2019,1,TOTAL,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,1,TOTAL,4
+Tarija,60202,Bermejo,2019,1,TOTAL,28
+Chuquisaca,10701,Camargo,2019,1,TOTAL,9
+Santa Cruz,70706,Camiri,2019,1,TOTAL,57
+La Paz,22001,Caranavi,2019,1,TOTAL,27
+Oruro,40201,Challapata,2019,1,TOTAL,8
+Santa Cruz,70702,Charagua,2019,1,TOTAL,11
+La Paz,21101,Chulumani (v. De La Libertad),2019,1,TOTAL,6
+Cochabamba,30801,Cliza,2019,1,TOTAL,3
+Pando,90101,Cobija,2019,1,TOTAL,85
+Cochabamba,30101,Cochabamba,2019,1,TOTAL,936
+Cochabamba,30905,Colcapirhua,2019,1,TOTAL,15
+Santa Cruz,71301,Comarapa,2019,1,TOTAL,12
+La Paz,21401,Coroico,2019,1,TOTAL,5
+Santa Cruz,70102,Cotoca,2019,1,TOTAL,10
+Santa Cruz,71106,Cuatro Cañadas,2019,1,TOTAL,1
+La Paz,20105,El Alto,2019,1,TOTAL,384
+Santa Cruz,70105,El Torno,2019,1,TOTAL,51
+Tarija,60601,Entre Rios Trj,2019,1,TOTAL,6
+La Paz,20405,Escoma,2019,1,TOTAL,2
+Beni,80202,Guayaramerin,2019,1,TOTAL,54
+Oruro,40701,Huanuni,2019,1,TOTAL,15
+La Paz,20101,La Paz,2019,1,TOTAL,707
+Potosí,50203,Llallagua,2019,1,TOTAL,21
+Beni,80801,Magdalena,2019,1,TOTAL,7
+Santa Cruz,70903,Mairana,2019,1,TOTAL,13
+Cochabamba,31301,Mizque,2019,1,TOTAL,4
+Chuquisaca,10501,Monteagudo,2019,1,TOTAL,13
+Santa Cruz,71001,Montero,2019,1,TOTAL,205
+Oruro,40101,Oruro,2019,1,TOTAL,338
+Chuquisaca,10401,Padilla,2019,1,TOTAL,4
+Santa Cruz,70502,Pailon,2019,1,TOTAL,3
+La Paz,21305,Patacamaya,2019,1,TOTAL,4
+Santa Cruz,70601,Portachuelo,2019,1,TOTAL,17
+Potosí,50101,Potosi,2019,1,TOTAL,209
+Santa Cruz,71402,Puerto Quijarro,2019,1,TOTAL,10
+Santa Cruz,71401,Puerto Suarez,2019,1,TOTAL,15
+Cochabamba,31205,Puerto Villarroel,2019,1,TOTAL,25
+Cochabamba,31401,Punata,2019,1,TOTAL,39
+Cochabamba,30901,Quillacollo,2019,1,TOTAL,45
+La Paz,21002,Quime,2019,1,TOTAL,2
+Beni,80301,Reyes,2019,1,TOTAL,1
+Beni,80201,Riberalta,2019,1,TOTAL,115
+Santa Cruz,70503,Robore,2019,1,TOTAL,10
+Beni,80304,Rurrenabaque,2019,1,TOTAL,17
+Cochabamba,31001,Sacaba,2019,1,TOTAL,97
+Beni,80302,San Borja,2019,1,TOTAL,18
+Santa Cruz,70402,San Carlos,2019,1,TOTAL,6
+Santa Cruz,70301,San Ignacio De Velasco,2019,1,TOTAL,33
+Santa Cruz,71102,San Javier(stc),2019,1,TOTAL,9
+Santa Cruz,70501,San Jose De Chiquitos,2019,1,TOTAL,20
+Santa Cruz,71104,San Julian,2019,1,TOTAL,11
+Chuquisaca,10702,San Lucas,2019,1,TOTAL,3
+Beni,80702,San Ramon Beni,2019,1,TOTAL,2
+Santa Cruz,71103,San Ramon Scz,2019,1,TOTAL,5
+Beni,80401,Santa Ana,2019,1,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,1,TOTAL,2234
+Cochabamba,31602,Shinaota,2019,1,TOTAL,6
+Chuquisaca,10403,Sopachuy,2019,1,TOTAL,1
+Chuquisaca,10101,Sucre,2019,1,TOTAL,262
+Chuquisaca,10601,Tarabuco,2019,1,TOTAL,3
+Tarija,60101,Tarija,2019,1,TOTAL,174
+Chuquisaca,10202,Tarvita,2019,1,TOTAL,4
+Cochabamba,30903,Tiquipaya,2019,1,TOTAL,28
+Beni,80101,Trinidad,2019,1,TOTAL,144
+Potosí,50801,Tupiza,2019,1,TOTAL,24
+Potosí,50201,Uncia,2019,1,TOTAL,4
+Potosí,51201,Uyuni,2019,1,TOTAL,7
+Santa Cruz,70801,Vallegrande,2019,1,TOTAL,18
+La Paz,20801,Viacha,2019,1,TOTAL,6
+Tarija,60303,Villa Montes,2019,1,TOTAL,30
+Cochabamba,31003,Villa Tunari,2019,1,TOTAL,27
+Potosí,51501,Villazon,2019,1,TOTAL,11
+Cochabamba,30904,Vinto,2019,1,TOTAL,4
+Santa Cruz,70201,Warnes,2019,1,TOTAL,14
+Tarija,60301,Yacuiba,2019,1,TOTAL,65
+Santa Cruz,70403,Yapacani,2019,1,TOTAL,43
+La Paz,20201,Achacachi,2019,2,TOTAL,5
+Cochabamba,30201,Aiquile,2019,2,TOTAL,8
+Santa Cruz,71501,Ascencion De Guarayos,2019,2,TOTAL,14
+Potosí,50802,Atocha,2019,2,TOTAL,5
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,2,TOTAL,3
+Beni,80802,Baures,2019,2,TOTAL,1
+Tarija,60202,Bermejo,2019,2,TOTAL,28
+Chuquisaca,10701,Camargo,2019,2,TOTAL,13
+Santa Cruz,70706,Camiri,2019,2,TOTAL,51
+La Paz,22001,Caranavi,2019,2,TOTAL,29
+Oruro,40201,Challapata,2019,2,TOTAL,7
+Santa Cruz,70702,Charagua,2019,2,TOTAL,7
+La Paz,21101,Chulumani (v. De La Libertad),2019,2,TOTAL,9
+Cochabamba,30801,Cliza,2019,2,TOTAL,11
+Pando,90101,Cobija,2019,2,TOTAL,61
+Cochabamba,30101,Cochabamba,2019,2,TOTAL,797
+Cochabamba,30905,Colcapirhua,2019,2,TOTAL,18
+Santa Cruz,71301,Comarapa,2019,2,TOTAL,10
+Santa Cruz,71101,Concepcion,2019,2,TOTAL,3
+La Paz,21401,Coroico,2019,2,TOTAL,10
+Santa Cruz,70102,Cotoca,2019,2,TOTAL,12
+Santa Cruz,71106,Cuatro Cañadas,2019,2,TOTAL,7
+Chuquisaca,10902,Culpina,2019,2,TOTAL,2
+La Paz,20105,El Alto,2019,2,TOTAL,376
+Santa Cruz,70105,El Torno,2019,2,TOTAL,30
+Tarija,60601,Entre Rios Trj,2019,2,TOTAL,2
+La Paz,20602,Guanay,2019,2,TOTAL,2
+Beni,80202,Guayaramerin,2019,2,TOTAL,35
+Oruro,40701,Huanuni,2019,2,TOTAL,13
+La Paz,20101,La Paz,2019,2,TOTAL,706
+Potosí,50203,Llallagua,2019,2,TOTAL,6
+Beni,80801,Magdalena,2019,2,TOTAL,4
+Santa Cruz,70903,Mairana,2019,2,TOTAL,5
+Santa Cruz,71003,Mineros,2019,2,TOTAL,1
+Cochabamba,31301,Mizque,2019,2,TOTAL,8
+Chuquisaca,10501,Monteagudo,2019,2,TOTAL,18
+Santa Cruz,71001,Montero,2019,2,TOTAL,232
+Oruro,40101,Oruro,2019,2,TOTAL,311
+Chuquisaca,10401,Padilla,2019,2,TOTAL,6
+La Paz,21305,Patacamaya,2019,2,TOTAL,2
+Santa Cruz,70601,Portachuelo,2019,2,TOTAL,13
+Potosí,50101,Potosi,2019,2,TOTAL,169
+Santa Cruz,71402,Puerto Quijarro,2019,2,TOTAL,8
+Santa Cruz,71401,Puerto Suarez,2019,2,TOTAL,22
+Cochabamba,31205,Puerto Villarroel,2019,2,TOTAL,31
+Cochabamba,31401,Punata,2019,2,TOTAL,36
+Cochabamba,30901,Quillacollo,2019,2,TOTAL,46
+La Paz,21002,Quime,2019,2,TOTAL,1
+Beni,80201,Riberalta,2019,2,TOTAL,110
+Santa Cruz,70503,Robore,2019,2,TOTAL,9
+Beni,80304,Rurrenabaque,2019,2,TOTAL,16
+Cochabamba,31001,Sacaba,2019,2,TOTAL,90
+Beni,80302,San Borja,2019,2,TOTAL,19
+La Paz,21502,San Buena Ventura,2019,2,TOTAL,1
+Santa Cruz,70402,San Carlos,2019,2,TOTAL,6
+Beni,80501,San Ignacio,2019,2,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2019,2,TOTAL,39
+Santa Cruz,71102,San Javier(stc),2019,2,TOTAL,6
+Santa Cruz,70501,San Jose De Chiquitos,2019,2,TOTAL,23
+Santa Cruz,71104,San Julian,2019,2,TOTAL,8
+Chuquisaca,10702,San Lucas,2019,2,TOTAL,3
+Santa Cruz,71201,San Matias,2019,2,TOTAL,3
+Beni,80702,San Ramon Beni,2019,2,TOTAL,2
+Santa Cruz,71103,San Ramon Scz,2019,2,TOTAL,3
+Beni,80401,Santa Ana,2019,2,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,2,TOTAL,2219
+Beni,80303,Santa Rosa,2019,2,TOTAL,1
+Cochabamba,31602,Shinaota,2019,2,TOTAL,12
+Chuquisaca,10403,Sopachuy,2019,2,TOTAL,2
+Chuquisaca,10101,Sucre,2019,2,TOTAL,242
+Chuquisaca,10601,Tarabuco,2019,2,TOTAL,5
+Tarija,60101,Tarija,2019,2,TOTAL,200
+Cochabamba,30903,Tiquipaya,2019,2,TOTAL,36
+Cochabamba,31201,Totora(cbba),2019,2,TOTAL,6
+Beni,80101,Trinidad,2019,2,TOTAL,131
+Potosí,50801,Tupiza,2019,2,TOTAL,16
+Potosí,50201,Uncia,2019,2,TOTAL,7
+Potosí,51201,Uyuni,2019,2,TOTAL,14
+Santa Cruz,70801,Vallegrande,2019,2,TOTAL,22
+La Paz,20801,Viacha,2019,2,TOTAL,11
+Tarija,60303,Villa Montes,2019,2,TOTAL,26
+Cochabamba,31003,Villa Tunari,2019,2,TOTAL,28
+Potosí,51501,Villazon,2019,2,TOTAL,17
+Santa Cruz,70201,Warnes,2019,2,TOTAL,23
+Tarija,60301,Yacuiba,2019,2,TOTAL,76
+Santa Cruz,70403,Yapacani,2019,2,TOTAL,33
+Cochabamba,30201,Aiquile,2019,3,TOTAL,4
+Santa Cruz,71501,Ascencion De Guarayos,2019,3,TOTAL,18
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,3,TOTAL,1
+Tarija,60202,Bermejo,2019,3,TOTAL,34
+Chuquisaca,10701,Camargo,2019,3,TOTAL,7
+Santa Cruz,70706,Camiri,2019,3,TOTAL,62
+La Paz,22001,Caranavi,2019,3,TOTAL,30
+Oruro,40201,Challapata,2019,3,TOTAL,15
+Santa Cruz,70702,Charagua,2019,3,TOTAL,6
+La Paz,21101,Chulumani (v. De La Libertad),2019,3,TOTAL,9
+Cochabamba,30801,Cliza,2019,3,TOTAL,6
+Pando,90101,Cobija,2019,3,TOTAL,80
+Cochabamba,30101,Cochabamba,2019,3,TOTAL,899
+Cochabamba,30905,Colcapirhua,2019,3,TOTAL,16
+Santa Cruz,71301,Comarapa,2019,3,TOTAL,15
+Santa Cruz,71101,Concepcion,2019,3,TOTAL,4
+La Paz,21401,Coroico,2019,3,TOTAL,8
+Santa Cruz,70102,Cotoca,2019,3,TOTAL,11
+Santa Cruz,71106,Cuatro Cañadas,2019,3,TOTAL,5
+Chuquisaca,10902,Culpina,2019,3,TOTAL,5
+La Paz,20105,El Alto,2019,3,TOTAL,407
+Santa Cruz,70105,El Torno,2019,3,TOTAL,48
+La Paz,20405,Escoma,2019,3,TOTAL,1
+La Paz,20602,Guanay,2019,3,TOTAL,8
+Beni,80202,Guayaramerin,2019,3,TOTAL,46
+Oruro,40701,Huanuni,2019,3,TOTAL,15
+Beni,80803,Huaracaje,2019,3,TOTAL,1
+La Paz,20101,La Paz,2019,3,TOTAL,701
+Potosí,50203,Llallagua,2019,3,TOTAL,18
+Beni,80801,Magdalena,2019,3,TOTAL,5
+Santa Cruz,70903,Mairana,2019,3,TOTAL,6
+Cochabamba,31301,Mizque,2019,3,TOTAL,10
+Chuquisaca,10501,Monteagudo,2019,3,TOTAL,14
+Santa Cruz,71001,Montero,2019,3,TOTAL,286
+Oruro,40101,Oruro,2019,3,TOTAL,336
+Chuquisaca,10401,Padilla,2019,3,TOTAL,5
+Santa Cruz,70502,Pailon,2019,3,TOTAL,6
+La Paz,21305,Patacamaya,2019,3,TOTAL,4
+Santa Cruz,70601,Portachuelo,2019,3,TOTAL,22
+Potosí,50101,Potosi,2019,3,TOTAL,106
+Santa Cruz,71402,Puerto Quijarro,2019,3,TOTAL,12
+Santa Cruz,71401,Puerto Suarez,2019,3,TOTAL,25
+Cochabamba,31205,Puerto Villarroel,2019,3,TOTAL,49
+Cochabamba,31401,Punata,2019,3,TOTAL,34
+Cochabamba,30901,Quillacollo,2019,3,TOTAL,58
+Beni,80301,Reyes,2019,3,TOTAL,3
+Beni,80201,Riberalta,2019,3,TOTAL,116
+Santa Cruz,70503,Robore,2019,3,TOTAL,12
+Beni,80304,Rurrenabaque,2019,3,TOTAL,16
+Cochabamba,31001,Sacaba,2019,3,TOTAL,79
+Beni,80302,San Borja,2019,3,TOTAL,22
+La Paz,21502,San Buena Ventura,2019,3,TOTAL,3
+Santa Cruz,70402,San Carlos,2019,3,TOTAL,6
+Beni,80501,San Ignacio,2019,3,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2019,3,TOTAL,41
+Santa Cruz,71102,San Javier(stc),2019,3,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,3,TOTAL,28
+Santa Cruz,71104,San Julian,2019,3,TOTAL,7
+Chuquisaca,10702,San Lucas,2019,3,TOTAL,3
+Santa Cruz,71201,San Matias,2019,3,TOTAL,5
+Beni,80702,San Ramon Beni,2019,3,TOTAL,4
+Santa Cruz,71103,San Ramon Scz,2019,3,TOTAL,3
+Beni,80401,Santa Ana,2019,3,TOTAL,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,3,TOTAL,2539
+Cochabamba,31602,Shinaota,2019,3,TOTAL,13
+Chuquisaca,10403,Sopachuy,2019,3,TOTAL,1
+Chuquisaca,10101,Sucre,2019,3,TOTAL,261
+Chuquisaca,10601,Tarabuco,2019,3,TOTAL,5
+Tarija,60101,Tarija,2019,3,TOTAL,195
+Chuquisaca,10202,Tarvita,2019,3,TOTAL,1
+Cochabamba,30903,Tiquipaya,2019,3,TOTAL,12
+Cochabamba,31201,Totora(cbba),2019,3,TOTAL,2
+Beni,80101,Trinidad,2019,3,TOTAL,154
+Potosí,50801,Tupiza,2019,3,TOTAL,19
+Potosí,50201,Uncia,2019,3,TOTAL,7
+Potosí,51201,Uyuni,2019,3,TOTAL,9
+Santa Cruz,70801,Vallegrande,2019,3,TOTAL,13
+La Paz,20801,Viacha,2019,3,TOTAL,14
+Tarija,60303,Villa Montes,2019,3,TOTAL,40
+Cochabamba,31003,Villa Tunari,2019,3,TOTAL,42
+Potosí,51501,Villazon,2019,3,TOTAL,9
+Cochabamba,30904,Vinto,2019,3,TOTAL,5
+Santa Cruz,70201,Warnes,2019,3,TOTAL,34
+Tarija,60301,Yacuiba,2019,3,TOTAL,79
+Santa Cruz,70403,Yapacani,2019,3,TOTAL,56
+La Paz,20201,Achacachi,2019,4,TOTAL,1
+Cochabamba,30201,Aiquile,2019,4,TOTAL,9
+Santa Cruz,71501,Ascencion De Guarayos,2019,4,TOTAL,27
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,4,TOTAL,3
+Beni,80802,Baures,2019,4,TOTAL,1
+Tarija,60202,Bermejo,2019,4,TOTAL,37
+Chuquisaca,10701,Camargo,2019,4,TOTAL,10
+Santa Cruz,70706,Camiri,2019,4,TOTAL,50
+La Paz,22001,Caranavi,2019,4,TOTAL,21
+Oruro,40201,Challapata,2019,4,TOTAL,9
+Santa Cruz,70702,Charagua,2019,4,TOTAL,10
+La Paz,21101,Chulumani (v. De La Libertad),2019,4,TOTAL,6
+Cochabamba,30801,Cliza,2019,4,TOTAL,9
+Pando,90101,Cobija,2019,4,TOTAL,65
+Cochabamba,30101,Cochabamba,2019,4,TOTAL,877
+Cochabamba,30905,Colcapirhua,2019,4,TOTAL,18
+Santa Cruz,71301,Comarapa,2019,4,TOTAL,11
+Santa Cruz,71101,Concepcion,2019,4,TOTAL,1
+La Paz,21401,Coroico,2019,4,TOTAL,8
+Santa Cruz,70102,Cotoca,2019,4,TOTAL,19
+Santa Cruz,71106,Cuatro Cañadas,2019,4,TOTAL,8
+La Paz,20105,El Alto,2019,4,TOTAL,434
+Santa Cruz,70105,El Torno,2019,4,TOTAL,62
+Tarija,60601,Entre Rios Trj,2019,4,TOTAL,1
+La Paz,20405,Escoma,2019,4,TOTAL,1
+La Paz,20602,Guanay,2019,4,TOTAL,5
+Beni,80202,Guayaramerin,2019,4,TOTAL,52
+Oruro,40701,Huanuni,2019,4,TOTAL,7
+La Paz,20101,La Paz,2019,4,TOTAL,705
+Potosí,50203,Llallagua,2019,4,TOTAL,16
+Beni,80801,Magdalena,2019,4,TOTAL,4
+Santa Cruz,70903,Mairana,2019,4,TOTAL,7
+Santa Cruz,71003,Mineros,2019,4,TOTAL,3
+Cochabamba,31301,Mizque,2019,4,TOTAL,13
+Chuquisaca,10501,Monteagudo,2019,4,TOTAL,13
+Santa Cruz,71001,Montero,2019,4,TOTAL,252
+Oruro,40101,Oruro,2019,4,TOTAL,294
+Chuquisaca,10401,Padilla,2019,4,TOTAL,2
+Santa Cruz,70502,Pailon,2019,4,TOTAL,10
+Santa Cruz,70601,Portachuelo,2019,4,TOTAL,22
+Potosí,50101,Potosi,2019,4,TOTAL,168
+Santa Cruz,71402,Puerto Quijarro,2019,4,TOTAL,9
+Santa Cruz,71401,Puerto Suarez,2019,4,TOTAL,20
+Cochabamba,31205,Puerto Villarroel,2019,4,TOTAL,43
+Cochabamba,31401,Punata,2019,4,TOTAL,38
+Cochabamba,30901,Quillacollo,2019,4,TOTAL,61
+La Paz,21002,Quime,2019,4,TOTAL,2
+Beni,80301,Reyes,2019,4,TOTAL,2
+Beni,80201,Riberalta,2019,4,TOTAL,115
+Santa Cruz,70503,Robore,2019,4,TOTAL,12
+Beni,80304,Rurrenabaque,2019,4,TOTAL,8
+Cochabamba,31001,Sacaba,2019,4,TOTAL,96
+Beni,80302,San Borja,2019,4,TOTAL,15
+La Paz,21502,San Buena Ventura,2019,4,TOTAL,5
+Santa Cruz,70402,San Carlos,2019,4,TOTAL,18
+Beni,80501,San Ignacio,2019,4,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2019,4,TOTAL,46
+Santa Cruz,71102,San Javier(stc),2019,4,TOTAL,6
+Santa Cruz,70501,San Jose De Chiquitos,2019,4,TOTAL,19
+Santa Cruz,71104,San Julian,2019,4,TOTAL,8
+Santa Cruz,71201,San Matias,2019,4,TOTAL,7
+Beni,80702,San Ramon Beni,2019,4,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2019,4,TOTAL,4
+Beni,80401,Santa Ana,2019,4,TOTAL,22
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,4,TOTAL,2385
+Cochabamba,31602,Shinaota,2019,4,TOTAL,8
+Chuquisaca,10403,Sopachuy,2019,4,TOTAL,2
+Chuquisaca,10101,Sucre,2019,4,TOTAL,250
+Chuquisaca,10601,Tarabuco,2019,4,TOTAL,7
+Tarija,60101,Tarija,2019,4,TOTAL,215
+Cochabamba,30903,Tiquipaya,2019,4,TOTAL,30
+Cochabamba,31201,Totora(cbba),2019,4,TOTAL,5
+Beni,80101,Trinidad,2019,4,TOTAL,170
+Potosí,50801,Tupiza,2019,4,TOTAL,21
+Potosí,50201,Uncia,2019,4,TOTAL,4
+Potosí,51201,Uyuni,2019,4,TOTAL,6
+Santa Cruz,70801,Vallegrande,2019,4,TOTAL,19
+La Paz,20801,Viacha,2019,4,TOTAL,9
+Tarija,60303,Villa Montes,2019,4,TOTAL,40
+Cochabamba,31003,Villa Tunari,2019,4,TOTAL,47
+Potosí,51501,Villazon,2019,4,TOTAL,9
+Santa Cruz,70201,Warnes,2019,4,TOTAL,22
+Tarija,60301,Yacuiba,2019,4,TOTAL,93
+Santa Cruz,70403,Yapacani,2019,4,TOTAL,48
+La Paz,20201,Achacachi,2019,5,TOTAL,1
+Cochabamba,30201,Aiquile,2019,5,TOTAL,6
+Santa Cruz,71501,Ascencion De Guarayos,2019,5,TOTAL,30
+Beni,80802,Baures,2019,5,TOTAL,2
+Tarija,60202,Bermejo,2019,5,TOTAL,36
+Santa Cruz,70706,Camiri,2019,5,TOTAL,50
+La Paz,22001,Caranavi,2019,5,TOTAL,21
+Oruro,40201,Challapata,2019,5,TOTAL,17
+Santa Cruz,70702,Charagua,2019,5,TOTAL,11
+Cochabamba,30801,Cliza,2019,5,TOTAL,17
+Pando,90101,Cobija,2019,5,TOTAL,75
+Cochabamba,30101,Cochabamba,2019,5,TOTAL,832
+Cochabamba,30905,Colcapirhua,2019,5,TOTAL,24
+Santa Cruz,71301,Comarapa,2019,5,TOTAL,8
+Santa Cruz,71101,Concepcion,2019,5,TOTAL,2
+La Paz,21401,Coroico,2019,5,TOTAL,1
+Santa Cruz,70102,Cotoca,2019,5,TOTAL,20
+Santa Cruz,71106,Cuatro Cañadas,2019,5,TOTAL,6
+La Paz,20105,El Alto,2019,5,TOTAL,464
+Santa Cruz,70105,El Torno,2019,5,TOTAL,46
+Tarija,60601,Entre Rios Trj,2019,5,TOTAL,1
+Beni,80202,Guayaramerin,2019,5,TOTAL,46
+Oruro,40701,Huanuni,2019,5,TOTAL,15
+La Paz,20101,La Paz,2019,5,TOTAL,754
+Potosí,50203,Llallagua,2019,5,TOTAL,30
+Beni,80801,Magdalena,2019,5,TOTAL,6
+Santa Cruz,71003,Mineros,2019,5,TOTAL,2
+Cochabamba,31301,Mizque,2019,5,TOTAL,5
+Chuquisaca,10501,Monteagudo,2019,5,TOTAL,16
+Santa Cruz,71001,Montero,2019,5,TOTAL,291
+Oruro,40101,Oruro,2019,5,TOTAL,326
+Chuquisaca,10401,Padilla,2019,5,TOTAL,7
+Santa Cruz,70502,Pailon,2019,5,TOTAL,13
+Santa Cruz,70601,Portachuelo,2019,5,TOTAL,24
+Potosí,50101,Potosi,2019,5,TOTAL,168
+Santa Cruz,71402,Puerto Quijarro,2019,5,TOTAL,7
+Santa Cruz,71401,Puerto Suarez,2019,5,TOTAL,10
+Cochabamba,31205,Puerto Villarroel,2019,5,TOTAL,42
+Cochabamba,31401,Punata,2019,5,TOTAL,44
+Cochabamba,30901,Quillacollo,2019,5,TOTAL,35
+Beni,80301,Reyes,2019,5,TOTAL,2
+Beni,80201,Riberalta,2019,5,TOTAL,113
+Santa Cruz,70503,Robore,2019,5,TOTAL,13
+Beni,80304,Rurrenabaque,2019,5,TOTAL,6
+Cochabamba,31001,Sacaba,2019,5,TOTAL,95
+Beni,80302,San Borja,2019,5,TOTAL,10
+La Paz,21502,San Buena Ventura,2019,5,TOTAL,1
+Santa Cruz,70402,San Carlos,2019,5,TOTAL,22
+Beni,80501,San Ignacio,2019,5,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2019,5,TOTAL,38
+Santa Cruz,71102,San Javier(stc),2019,5,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,5,TOTAL,20
+Santa Cruz,71104,San Julian,2019,5,TOTAL,3
+Beni,80702,San Ramon Beni,2019,5,TOTAL,4
+Santa Cruz,71103,San Ramon Scz,2019,5,TOTAL,3
+Beni,80401,Santa Ana,2019,5,TOTAL,18
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,5,TOTAL,2610
+Beni,80303,Santa Rosa,2019,5,TOTAL,1
+Cochabamba,31602,Shinaota,2019,5,TOTAL,13
+Chuquisaca,10101,Sucre,2019,5,TOTAL,313
+Chuquisaca,10601,Tarabuco,2019,5,TOTAL,4
+Tarija,60101,Tarija,2019,5,TOTAL,217
+Cochabamba,30903,Tiquipaya,2019,5,TOTAL,23
+Cochabamba,31201,Totora(cbba),2019,5,TOTAL,3
+Beni,80101,Trinidad,2019,5,TOTAL,193
+Potosí,50801,Tupiza,2019,5,TOTAL,20
+Potosí,50201,Uncia,2019,5,TOTAL,4
+Potosí,51201,Uyuni,2019,5,TOTAL,8
+Santa Cruz,70801,Vallegrande,2019,5,TOTAL,19
+La Paz,20801,Viacha,2019,5,TOTAL,5
+Tarija,60303,Villa Montes,2019,5,TOTAL,34
+Cochabamba,31003,Villa Tunari,2019,5,TOTAL,46
+Potosí,51501,Villazon,2019,5,TOTAL,16
+Cochabamba,30904,Vinto,2019,5,TOTAL,1
+Santa Cruz,70201,Warnes,2019,5,TOTAL,53
+Tarija,60301,Yacuiba,2019,5,TOTAL,74
+Santa Cruz,70403,Yapacani,2019,5,TOTAL,45
+Chuquisaca,10102,Yotala,2019,5,TOTAL,1
+La Paz,20201,Achacachi,2019,6,TOTAL,4
+Cochabamba,30201,Aiquile,2019,6,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2019,6,TOTAL,29
+Potosí,50802,Atocha,2019,6,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,6,TOTAL,3
+Tarija,60202,Bermejo,2019,6,TOTAL,24
+Santa Cruz,70706,Camiri,2019,6,TOTAL,50
+La Paz,22001,Caranavi,2019,6,TOTAL,17
+Oruro,40201,Challapata,2019,6,TOTAL,9
+Santa Cruz,70702,Charagua,2019,6,TOTAL,6
+La Paz,21101,Chulumani (v. De La Libertad),2019,6,TOTAL,5
+Cochabamba,30801,Cliza,2019,6,TOTAL,19
+Pando,90101,Cobija,2019,6,TOTAL,65
+Cochabamba,30101,Cochabamba,2019,6,TOTAL,862
+Cochabamba,30905,Colcapirhua,2019,6,TOTAL,16
+Santa Cruz,71301,Comarapa,2019,6,TOTAL,6
+Santa Cruz,71101,Concepcion,2019,6,TOTAL,1
+La Paz,21401,Coroico,2019,6,TOTAL,10
+Santa Cruz,70102,Cotoca,2019,6,TOTAL,11
+Santa Cruz,71106,Cuatro Cañadas,2019,6,TOTAL,4
+La Paz,20105,El Alto,2019,6,TOTAL,411
+Santa Cruz,70105,El Torno,2019,6,TOTAL,44
+Tarija,60601,Entre Rios Trj,2019,6,TOTAL,4
+Beni,80202,Guayaramerin,2019,6,TOTAL,40
+Oruro,40701,Huanuni,2019,6,TOTAL,14
+Santa Cruz,70104,La Guardia,2019,6,TOTAL,2
+La Paz,20101,La Paz,2019,6,TOTAL,707
+Potosí,50203,Llallagua,2019,6,TOTAL,13
+Beni,80801,Magdalena,2019,6,TOTAL,10
+Cochabamba,31301,Mizque,2019,6,TOTAL,11
+Chuquisaca,10501,Monteagudo,2019,6,TOTAL,16
+Santa Cruz,71001,Montero,2019,6,TOTAL,226
+Oruro,40101,Oruro,2019,6,TOTAL,334
+Chuquisaca,10401,Padilla,2019,6,TOTAL,5
+Santa Cruz,70502,Pailon,2019,6,TOTAL,10
+La Paz,21305,Patacamaya,2019,6,TOTAL,5
+Santa Cruz,70601,Portachuelo,2019,6,TOTAL,21
+Potosí,50101,Potosi,2019,6,TOTAL,179
+Santa Cruz,71402,Puerto Quijarro,2019,6,TOTAL,12
+Santa Cruz,71401,Puerto Suarez,2019,6,TOTAL,9
+Cochabamba,31205,Puerto Villarroel,2019,6,TOTAL,54
+Cochabamba,31401,Punata,2019,6,TOTAL,21
+Cochabamba,30901,Quillacollo,2019,6,TOTAL,58
+Beni,80201,Riberalta,2019,6,TOTAL,88
+Santa Cruz,70503,Robore,2019,6,TOTAL,7
+Beni,80304,Rurrenabaque,2019,6,TOTAL,10
+Cochabamba,31001,Sacaba,2019,6,TOTAL,112
+Beni,80302,San Borja,2019,6,TOTAL,3
+La Paz,21502,San Buena Ventura,2019,6,TOTAL,1
+Santa Cruz,70402,San Carlos,2019,6,TOTAL,12
+Beni,80501,San Ignacio,2019,6,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2019,6,TOTAL,51
+Santa Cruz,71102,San Javier(stc),2019,6,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2019,6,TOTAL,18
+Santa Cruz,71104,San Julian,2019,6,TOTAL,2
+Santa Cruz,71201,San Matias,2019,6,TOTAL,2
+Beni,80702,San Ramon Beni,2019,6,TOTAL,4
+Santa Cruz,71103,San Ramon Scz,2019,6,TOTAL,3
+Beni,80401,Santa Ana,2019,6,TOTAL,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,6,TOTAL,2235
+Cochabamba,31602,Shinaota,2019,6,TOTAL,6
+La Paz,20601,Sorata,2019,6,TOTAL,0
+Chuquisaca,10101,Sucre,2019,6,TOTAL,257
+Chuquisaca,10601,Tarabuco,2019,6,TOTAL,6
+Tarija,60101,Tarija,2019,6,TOTAL,189
+Cochabamba,30903,Tiquipaya,2019,6,TOTAL,34
+Cochabamba,31201,Totora(cbba),2019,6,TOTAL,2
+Beni,80101,Trinidad,2019,6,TOTAL,34
+Potosí,50801,Tupiza,2019,6,TOTAL,26
+Potosí,50201,Uncia,2019,6,TOTAL,7
+Potosí,51201,Uyuni,2019,6,TOTAL,10
+Santa Cruz,70801,Vallegrande,2019,6,TOTAL,12
+La Paz,20801,Viacha,2019,6,TOTAL,20
+Tarija,60303,Villa Montes,2019,6,TOTAL,36
+Cochabamba,31003,Villa Tunari,2019,6,TOTAL,42
+Potosí,51501,Villazon,2019,6,TOTAL,12
+Santa Cruz,70201,Warnes,2019,6,TOTAL,31
+Tarija,60301,Yacuiba,2019,6,TOTAL,67
+Santa Cruz,70403,Yapacani,2019,6,TOTAL,47
+Chuquisaca,10102,Yotala,2019,6,TOTAL,1
+La Paz,20201,Achacachi,2019,7,TOTAL,3
+Cochabamba,30201,Aiquile,2019,7,TOTAL,10
+Santa Cruz,71501,Ascencion De Guarayos,2019,7,TOTAL,24
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,7,TOTAL,2
+Tarija,60202,Bermejo,2019,7,TOTAL,30
+Santa Cruz,70703,Cabezas,2019,7,TOTAL,1
+Chuquisaca,10701,Camargo,2019,7,TOTAL,1
+Santa Cruz,70706,Camiri,2019,7,TOTAL,45
+La Paz,22001,Caranavi,2019,7,TOTAL,36
+Oruro,40201,Challapata,2019,7,TOTAL,13
+Santa Cruz,70702,Charagua,2019,7,TOTAL,8
+La Paz,21101,Chulumani (v. De La Libertad),2019,7,TOTAL,5
+Cochabamba,30801,Cliza,2019,7,TOTAL,12
+Pando,90101,Cobija,2019,7,TOTAL,58
+Cochabamba,30101,Cochabamba,2019,7,TOTAL,787
+Cochabamba,30905,Colcapirhua,2019,7,TOTAL,18
+Santa Cruz,71301,Comarapa,2019,7,TOTAL,18
+Santa Cruz,71101,Concepcion,2019,7,TOTAL,4
+La Paz,21401,Coroico,2019,7,TOTAL,12
+Santa Cruz,70102,Cotoca,2019,7,TOTAL,12
+Santa Cruz,71106,Cuatro Cañadas,2019,7,TOTAL,9
+La Paz,20105,El Alto,2019,7,TOTAL,405
+Santa Cruz,70105,El Torno,2019,7,TOTAL,45
+Tarija,60601,Entre Rios Trj,2019,7,TOTAL,5
+Beni,80202,Guayaramerin,2019,7,TOTAL,49
+Oruro,40701,Huanuni,2019,7,TOTAL,15
+Santa Cruz,70104,La Guardia,2019,7,TOTAL,2
+La Paz,20101,La Paz,2019,7,TOTAL,810
+Potosí,50203,Llallagua,2019,7,TOTAL,20
+Beni,80801,Magdalena,2019,7,TOTAL,3
+Cochabamba,31301,Mizque,2019,7,TOTAL,9
+Chuquisaca,10501,Monteagudo,2019,7,TOTAL,13
+Santa Cruz,71001,Montero,2019,7,TOTAL,207
+Oruro,40101,Oruro,2019,7,TOTAL,333
+Chuquisaca,10401,Padilla,2019,7,TOTAL,8
+Santa Cruz,70502,Pailon,2019,7,TOTAL,12
+La Paz,21305,Patacamaya,2019,7,TOTAL,3
+Santa Cruz,70601,Portachuelo,2019,7,TOTAL,13
+Potosí,50101,Potosi,2019,7,TOTAL,170
+Santa Cruz,71402,Puerto Quijarro,2019,7,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2019,7,TOTAL,13
+Cochabamba,31205,Puerto Villarroel,2019,7,TOTAL,41
+Cochabamba,31401,Punata,2019,7,TOTAL,47
+Cochabamba,30901,Quillacollo,2019,7,TOTAL,74
+Beni,80201,Riberalta,2019,7,TOTAL,110
+Santa Cruz,70503,Robore,2019,7,TOTAL,12
+Beni,80304,Rurrenabaque,2019,7,TOTAL,12
+Cochabamba,31001,Sacaba,2019,7,TOTAL,117
+Beni,80302,San Borja,2019,7,TOTAL,14
+La Paz,21502,San Buena Ventura,2019,7,TOTAL,4
+Santa Cruz,70402,San Carlos,2019,7,TOTAL,13
+Santa Cruz,70301,San Ignacio De Velasco,2019,7,TOTAL,40
+Santa Cruz,71102,San Javier(stc),2019,7,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,7,TOTAL,20
+Santa Cruz,71104,San Julian,2019,7,TOTAL,7
+Beni,80702,San Ramon Beni,2019,7,TOTAL,2
+Santa Cruz,71103,San Ramon Scz,2019,7,TOTAL,3
+Beni,80401,Santa Ana,2019,7,TOTAL,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,7,TOTAL,2035
+Cochabamba,31602,Shinaota,2019,7,TOTAL,11
+Chuquisaca,10101,Sucre,2019,7,TOTAL,256
+Chuquisaca,10601,Tarabuco,2019,7,TOTAL,3
+Tarija,60101,Tarija,2019,7,TOTAL,171
+Cochabamba,30903,Tiquipaya,2019,7,TOTAL,36
+Cochabamba,31201,Totora(cbba),2019,7,TOTAL,6
+Beni,80101,Trinidad,2019,7,TOTAL,140
+Potosí,50801,Tupiza,2019,7,TOTAL,24
+Potosí,50201,Uncia,2019,7,TOTAL,9
+Potosí,51201,Uyuni,2019,7,TOTAL,8
+Santa Cruz,70801,Vallegrande,2019,7,TOTAL,21
+La Paz,20801,Viacha,2019,7,TOTAL,15
+Tarija,60303,Villa Montes,2019,7,TOTAL,32
+Cochabamba,31003,Villa Tunari,2019,7,TOTAL,46
+Potosí,51501,Villazon,2019,7,TOTAL,19
+Cochabamba,30904,Vinto,2019,7,TOTAL,3
+Santa Cruz,70201,Warnes,2019,7,TOTAL,42
+Tarija,60301,Yacuiba,2019,7,TOTAL,70
+Santa Cruz,70403,Yapacani,2019,7,TOTAL,30
+La Paz,20201,Achacachi,2019,8,TOTAL,3
+Cochabamba,30201,Aiquile,2019,8,TOTAL,6
+Cochabamba,30402,Anzaldo,2019,8,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2019,8,TOTAL,16
+Potosí,50802,Atocha,2019,8,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,8,TOTAL,1
+Chuquisaca,10201,Azurduy,2019,8,TOTAL,4
+Tarija,60202,Bermejo,2019,8,TOTAL,36
+Chuquisaca,10701,Camargo,2019,8,TOTAL,7
+Santa Cruz,70706,Camiri,2019,8,TOTAL,77
+La Paz,22001,Caranavi,2019,8,TOTAL,18
+Oruro,40201,Challapata,2019,8,TOTAL,16
+Santa Cruz,70702,Charagua,2019,8,TOTAL,8
+La Paz,21101,Chulumani (v. De La Libertad),2019,8,TOTAL,10
+Cochabamba,30801,Cliza,2019,8,TOTAL,11
+Pando,90101,Cobija,2019,8,TOTAL,57
+Cochabamba,30101,Cochabamba,2019,8,TOTAL,815
+Cochabamba,30905,Colcapirhua,2019,8,TOTAL,15
+Santa Cruz,71301,Comarapa,2019,8,TOTAL,10
+Santa Cruz,71101,Concepcion,2019,8,TOTAL,5
+La Paz,21401,Coroico,2019,8,TOTAL,9
+Santa Cruz,70102,Cotoca,2019,8,TOTAL,7
+Santa Cruz,71106,Cuatro Cañadas,2019,8,TOTAL,4
+La Paz,20105,El Alto,2019,8,TOTAL,383
+Santa Cruz,70105,El Torno,2019,8,TOTAL,29
+Tarija,60601,Entre Rios Trj,2019,8,TOTAL,9
+La Paz,20405,Escoma,2019,8,TOTAL,1
+La Paz,20602,Guanay,2019,8,TOTAL,1
+Beni,80202,Guayaramerin,2019,8,TOTAL,42
+Oruro,40701,Huanuni,2019,8,TOTAL,8
+Santa Cruz,70104,La Guardia,2019,8,TOTAL,7
+La Paz,20101,La Paz,2019,8,TOTAL,783
+Potosí,50203,Llallagua,2019,8,TOTAL,24
+Beni,80801,Magdalena,2019,8,TOTAL,7
+Santa Cruz,71003,Mineros,2019,8,TOTAL,1
+Cochabamba,31301,Mizque,2019,8,TOTAL,6
+Chuquisaca,10501,Monteagudo,2019,8,TOTAL,20
+Santa Cruz,71001,Montero,2019,8,TOTAL,218
+Oruro,40101,Oruro,2019,8,TOTAL,330
+Chuquisaca,10401,Padilla,2019,8,TOTAL,8
+Santa Cruz,70502,Pailon,2019,8,TOTAL,13
+La Paz,21305,Patacamaya,2019,8,TOTAL,3
+Santa Cruz,70601,Portachuelo,2019,8,TOTAL,15
+Potosí,50101,Potosi,2019,8,TOTAL,191
+Santa Cruz,71402,Puerto Quijarro,2019,8,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2019,8,TOTAL,10
+Cochabamba,31205,Puerto Villarroel,2019,8,TOTAL,40
+Cochabamba,31401,Punata,2019,8,TOTAL,34
+Cochabamba,30901,Quillacollo,2019,8,TOTAL,72
+Beni,80301,Reyes,2019,8,TOTAL,2
+Beni,80201,Riberalta,2019,8,TOTAL,123
+Santa Cruz,70503,Robore,2019,8,TOTAL,10
+Beni,80304,Rurrenabaque,2019,8,TOTAL,16
+Cochabamba,31001,Sacaba,2019,8,TOTAL,105
+Beni,80302,San Borja,2019,8,TOTAL,11
+La Paz,21502,San Buena Ventura,2019,8,TOTAL,7
+Santa Cruz,70402,San Carlos,2019,8,TOTAL,9
+Santa Cruz,70301,San Ignacio De Velasco,2019,8,TOTAL,42
+Santa Cruz,71102,San Javier(stc),2019,8,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,8,TOTAL,8
+Santa Cruz,71104,San Julian,2019,8,TOTAL,8
+Santa Cruz,71201,San Matias,2019,8,TOTAL,4
+Beni,80702,San Ramon Beni,2019,8,TOTAL,4
+Santa Cruz,71103,San Ramon Scz,2019,8,TOTAL,2
+Beni,80401,Santa Ana,2019,8,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,8,TOTAL,2132
+Beni,80303,Santa Rosa,2019,8,TOTAL,2
+Cochabamba,31602,Shinaota,2019,8,TOTAL,12
+La Paz,20601,Sorata,2019,8,TOTAL,0
+Chuquisaca,10101,Sucre,2019,8,TOTAL,262
+Chuquisaca,10601,Tarabuco,2019,8,TOTAL,3
+Tarija,60101,Tarija,2019,8,TOTAL,176
+Cochabamba,30903,Tiquipaya,2019,8,TOTAL,29
+Cochabamba,31201,Totora(cbba),2019,8,TOTAL,3
+Beni,80101,Trinidad,2019,8,TOTAL,109
+Potosí,50801,Tupiza,2019,8,TOTAL,19
+Potosí,50201,Uncia,2019,8,TOTAL,8
+Potosí,51201,Uyuni,2019,8,TOTAL,4
+Santa Cruz,70801,Vallegrande,2019,8,TOTAL,18
+La Paz,20801,Viacha,2019,8,TOTAL,15
+Tarija,60303,Villa Montes,2019,8,TOTAL,31
+Cochabamba,31003,Villa Tunari,2019,8,TOTAL,40
+Potosí,51501,Villazon,2019,8,TOTAL,5
+Cochabamba,30904,Vinto,2019,8,TOTAL,2
+Santa Cruz,70201,Warnes,2019,8,TOTAL,34
+Tarija,60301,Yacuiba,2019,8,TOTAL,67
+Santa Cruz,70403,Yapacani,2019,8,TOTAL,58
+La Paz,20201,Achacachi,2019,9,TOTAL,5
+Cochabamba,30201,Aiquile,2019,9,TOTAL,10
+Santa Cruz,71501,Ascencion De Guarayos,2019,9,TOTAL,23
+Potosí,50802,Atocha,2019,9,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,9,TOTAL,4
+Chuquisaca,10201,Azurduy,2019,9,TOTAL,1
+Tarija,60202,Bermejo,2019,9,TOTAL,34
+Santa Cruz,70703,Cabezas,2019,9,TOTAL,1
+Chuquisaca,10701,Camargo,2019,9,TOTAL,13
+Santa Cruz,70706,Camiri,2019,9,TOTAL,50
+Oruro,40102,Caracollo,2019,9,TOTAL,3
+La Paz,22001,Caranavi,2019,9,TOTAL,32
+Oruro,40201,Challapata,2019,9,TOTAL,10
+Santa Cruz,70702,Charagua,2019,9,TOTAL,16
+La Paz,21101,Chulumani (v. De La Libertad),2019,9,TOTAL,10
+Cochabamba,30801,Cliza,2019,9,TOTAL,17
+Pando,90101,Cobija,2019,9,TOTAL,91
+Cochabamba,30101,Cochabamba,2019,9,TOTAL,854
+Cochabamba,30905,Colcapirhua,2019,9,TOTAL,22
+Santa Cruz,71301,Comarapa,2019,9,TOTAL,13
+Santa Cruz,71101,Concepcion,2019,9,TOTAL,2
+La Paz,21401,Coroico,2019,9,TOTAL,11
+Santa Cruz,71106,Cuatro Cañadas,2019,9,TOTAL,4
+La Paz,20105,El Alto,2019,9,TOTAL,373
+Santa Cruz,70105,El Torno,2019,9,TOTAL,32
+Tarija,60601,Entre Rios Trj,2019,9,TOTAL,5
+La Paz,20405,Escoma,2019,9,TOTAL,3
+Beni,80202,Guayaramerin,2019,9,TOTAL,45
+Oruro,40701,Huanuni,2019,9,TOTAL,6
+Santa Cruz,70104,La Guardia,2019,9,TOTAL,9
+La Paz,20101,La Paz,2019,9,TOTAL,761
+Potosí,50203,Llallagua,2019,9,TOTAL,31
+Beni,80801,Magdalena,2019,9,TOTAL,5
+Santa Cruz,70903,Mairana,2019,9,TOTAL,3
+Cochabamba,31301,Mizque,2019,9,TOTAL,9
+Chuquisaca,10501,Monteagudo,2019,9,TOTAL,10
+Santa Cruz,71001,Montero,2019,9,TOTAL,212
+Oruro,40101,Oruro,2019,9,TOTAL,314
+Chuquisaca,10401,Padilla,2019,9,TOTAL,5
+Santa Cruz,70502,Pailon,2019,9,TOTAL,7
+La Paz,21305,Patacamaya,2019,9,TOTAL,2
+Santa Cruz,70601,Portachuelo,2019,9,TOTAL,18
+Potosí,50101,Potosi,2019,9,TOTAL,190
+Santa Cruz,71402,Puerto Quijarro,2019,9,TOTAL,8
+Santa Cruz,71401,Puerto Suarez,2019,9,TOTAL,7
+Cochabamba,31205,Puerto Villarroel,2019,9,TOTAL,54
+Cochabamba,31401,Punata,2019,9,TOTAL,48
+Cochabamba,30901,Quillacollo,2019,9,TOTAL,68
+Beni,80201,Riberalta,2019,9,TOTAL,92
+Santa Cruz,70503,Robore,2019,9,TOTAL,9
+Beni,80304,Rurrenabaque,2019,9,TOTAL,14
+Cochabamba,31001,Sacaba,2019,9,TOTAL,105
+Beni,80302,San Borja,2019,9,TOTAL,8
+La Paz,21502,San Buena Ventura,2019,9,TOTAL,9
+Santa Cruz,70402,San Carlos,2019,9,TOTAL,8
+Santa Cruz,70301,San Ignacio De Velasco,2019,9,TOTAL,39
+Santa Cruz,71102,San Javier(stc),2019,9,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2019,9,TOTAL,20
+Santa Cruz,71104,San Julian,2019,9,TOTAL,18
+Santa Cruz,71103,San Ramon Scz,2019,9,TOTAL,1
+Beni,80401,Santa Ana,2019,9,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,9,TOTAL,2185
+Cochabamba,31602,Shinaota,2019,9,TOTAL,7
+Chuquisaca,10101,Sucre,2019,9,TOTAL,264
+Chuquisaca,10601,Tarabuco,2019,9,TOTAL,4
+Tarija,60101,Tarija,2019,9,TOTAL,180
+Chuquisaca,10202,Tarvita,2019,9,TOTAL,2
+Cochabamba,30903,Tiquipaya,2019,9,TOTAL,33
+Cochabamba,31201,Totora(cbba),2019,9,TOTAL,4
+Beni,80101,Trinidad,2019,9,TOTAL,151
+Potosí,50801,Tupiza,2019,9,TOTAL,28
+Potosí,50201,Uncia,2019,9,TOTAL,5
+Potosí,51201,Uyuni,2019,9,TOTAL,6
+Santa Cruz,70801,Vallegrande,2019,9,TOTAL,22
+La Paz,20801,Viacha,2019,9,TOTAL,18
+Tarija,60303,Villa Montes,2019,9,TOTAL,44
+Cochabamba,31003,Villa Tunari,2019,9,TOTAL,47
+Potosí,51501,Villazon,2019,9,TOTAL,12
+Cochabamba,30904,Vinto,2019,9,TOTAL,2
+Santa Cruz,70201,Warnes,2019,9,TOTAL,38
+Tarija,60301,Yacuiba,2019,9,TOTAL,67
+Santa Cruz,70403,Yapacani,2019,9,TOTAL,38
+La Paz,20201,Achacachi,2019,10,TOTAL,8
+Cochabamba,30201,Aiquile,2019,10,TOTAL,5
+Santa Cruz,71501,Ascencion De Guarayos,2019,10,TOTAL,30
+Potosí,50802,Atocha,2019,10,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,10,TOTAL,1
+Tarija,60202,Bermejo,2019,10,TOTAL,26
+Chuquisaca,10701,Camargo,2019,10,TOTAL,13
+Santa Cruz,70706,Camiri,2019,10,TOTAL,58
+Oruro,40102,Caracollo,2019,10,TOTAL,3
+La Paz,22001,Caranavi,2019,10,TOTAL,31
+Oruro,40201,Challapata,2019,10,TOTAL,5
+Santa Cruz,70702,Charagua,2019,10,TOTAL,10
+La Paz,21101,Chulumani (v. De La Libertad),2019,10,TOTAL,12
+Cochabamba,30801,Cliza,2019,10,TOTAL,16
+Pando,90101,Cobija,2019,10,TOTAL,79
+Cochabamba,30101,Cochabamba,2019,10,TOTAL,809
+Cochabamba,30905,Colcapirhua,2019,10,TOTAL,23
+Santa Cruz,71301,Comarapa,2019,10,TOTAL,14
+Santa Cruz,71101,Concepcion,2019,10,TOTAL,1
+La Paz,21401,Coroico,2019,10,TOTAL,10
+Santa Cruz,71106,Cuatro Cañadas,2019,10,TOTAL,10
+La Paz,20105,El Alto,2019,10,TOTAL,387
+Santa Cruz,70105,El Torno,2019,10,TOTAL,43
+Tarija,60601,Entre Rios Trj,2019,10,TOTAL,7
+La Paz,20405,Escoma,2019,10,TOTAL,4
+La Paz,20602,Guanay,2019,10,TOTAL,1
+Beni,80202,Guayaramerin,2019,10,TOTAL,45
+Oruro,40701,Huanuni,2019,10,TOTAL,13
+Santa Cruz,70104,La Guardia,2019,10,TOTAL,4
+La Paz,20101,La Paz,2019,10,TOTAL,777
+Potosí,50203,Llallagua,2019,10,TOTAL,23
+Beni,80801,Magdalena,2019,10,TOTAL,8
+Santa Cruz,70903,Mairana,2019,10,TOTAL,10
+Santa Cruz,71003,Mineros,2019,10,TOTAL,1
+Cochabamba,31301,Mizque,2019,10,TOTAL,5
+Chuquisaca,10501,Monteagudo,2019,10,TOTAL,15
+Santa Cruz,71001,Montero,2019,10,TOTAL,217
+Oruro,40101,Oruro,2019,10,TOTAL,307
+Chuquisaca,10401,Padilla,2019,10,TOTAL,4
+Santa Cruz,70502,Pailon,2019,10,TOTAL,4
+La Paz,21305,Patacamaya,2019,10,TOTAL,4
+Santa Cruz,70601,Portachuelo,2019,10,TOTAL,21
+Potosí,50101,Potosi,2019,10,TOTAL,187
+Santa Cruz,71402,Puerto Quijarro,2019,10,TOTAL,5
+Santa Cruz,71401,Puerto Suarez,2019,10,TOTAL,9
+Cochabamba,31205,Puerto Villarroel,2019,10,TOTAL,48
+Cochabamba,31401,Punata,2019,10,TOTAL,39
+Cochabamba,30901,Quillacollo,2019,10,TOTAL,55
+Beni,80201,Riberalta,2019,10,TOTAL,104
+Santa Cruz,70503,Robore,2019,10,TOTAL,12
+Beni,80304,Rurrenabaque,2019,10,TOTAL,14
+Cochabamba,31001,Sacaba,2019,10,TOTAL,128
+Beni,80302,San Borja,2019,10,TOTAL,16
+La Paz,21502,San Buena Ventura,2019,10,TOTAL,7
+Santa Cruz,70402,San Carlos,2019,10,TOTAL,16
+Beni,80501,San Ignacio,2019,10,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2019,10,TOTAL,34
+Santa Cruz,71102,San Javier(stc),2019,10,TOTAL,7
+Santa Cruz,70501,San Jose De Chiquitos,2019,10,TOTAL,12
+Santa Cruz,71104,San Julian,2019,10,TOTAL,10
+Santa Cruz,71201,San Matias,2019,10,TOTAL,7
+Beni,80702,San Ramon Beni,2019,10,TOTAL,5
+Santa Cruz,71103,San Ramon Scz,2019,10,TOTAL,2
+Beni,80401,Santa Ana,2019,10,TOTAL,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,10,TOTAL,2041
+Beni,80303,Santa Rosa,2019,10,TOTAL,2
+Cochabamba,31602,Shinaota,2019,10,TOTAL,13
+Chuquisaca,10101,Sucre,2019,10,TOTAL,258
+Chuquisaca,10601,Tarabuco,2019,10,TOTAL,2
+Tarija,60101,Tarija,2019,10,TOTAL,172
+Chuquisaca,10202,Tarvita,2019,10,TOTAL,2
+Cochabamba,30903,Tiquipaya,2019,10,TOTAL,33
+Cochabamba,31201,Totora(cbba),2019,10,TOTAL,7
+Beni,80101,Trinidad,2019,10,TOTAL,131
+Potosí,50801,Tupiza,2019,10,TOTAL,22
+Potosí,50201,Uncia,2019,10,TOTAL,5
+Potosí,51201,Uyuni,2019,10,TOTAL,6
+Santa Cruz,70801,Vallegrande,2019,10,TOTAL,12
+La Paz,20801,Viacha,2019,10,TOTAL,14
+Tarija,60303,Villa Montes,2019,10,TOTAL,33
+Cochabamba,31003,Villa Tunari,2019,10,TOTAL,41
+Potosí,51501,Villazon,2019,10,TOTAL,12
+Cochabamba,30904,Vinto,2019,10,TOTAL,1
+Santa Cruz,70201,Warnes,2019,10,TOTAL,37
+Tarija,60301,Yacuiba,2019,10,TOTAL,56
+Santa Cruz,70403,Yapacani,2019,10,TOTAL,37
+Chuquisaca,10102,Yotala,2019,10,TOTAL,1
+La Paz,20201,Achacachi,2019,11,TOTAL,6
+Cochabamba,30201,Aiquile,2019,11,TOTAL,8
+Santa Cruz,71501,Ascencion De Guarayos,2019,11,TOTAL,28
+Potosí,50802,Atocha,2019,11,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,11,TOTAL,1
+Chuquisaca,10201,Azurduy,2019,11,TOTAL,3
+Tarija,60202,Bermejo,2019,11,TOTAL,17
+Chuquisaca,10701,Camargo,2019,11,TOTAL,16
+Santa Cruz,70706,Camiri,2019,11,TOTAL,57
+La Paz,22001,Caranavi,2019,11,TOTAL,34
+Oruro,40201,Challapata,2019,11,TOTAL,4
+Santa Cruz,70702,Charagua,2019,11,TOTAL,9
+La Paz,21101,Chulumani (v. De La Libertad),2019,11,TOTAL,6
+Cochabamba,30801,Cliza,2019,11,TOTAL,4
+Pando,90101,Cobija,2019,11,TOTAL,67
+Cochabamba,30101,Cochabamba,2019,11,TOTAL,750
+Cochabamba,30905,Colcapirhua,2019,11,TOTAL,25
+Santa Cruz,71301,Comarapa,2019,11,TOTAL,14
+Santa Cruz,71101,Concepcion,2019,11,TOTAL,5
+La Paz,21401,Coroico,2019,11,TOTAL,7
+Santa Cruz,70102,Cotoca,2019,11,TOTAL,6
+Santa Cruz,71106,Cuatro Cañadas,2019,11,TOTAL,11
+La Paz,20105,El Alto,2019,11,TOTAL,379
+Santa Cruz,70105,El Torno,2019,11,TOTAL,21
+Tarija,60601,Entre Rios Trj,2019,11,TOTAL,5
+Beni,80202,Guayaramerin,2019,11,TOTAL,51
+Oruro,40701,Huanuni,2019,11,TOTAL,9
+Santa Cruz,70104,La Guardia,2019,11,TOTAL,4
+La Paz,20101,La Paz,2019,11,TOTAL,739
+Potosí,50203,Llallagua,2019,11,TOTAL,26
+Beni,80801,Magdalena,2019,11,TOTAL,2
+Santa Cruz,70903,Mairana,2019,11,TOTAL,11
+Cochabamba,31301,Mizque,2019,11,TOTAL,18
+Chuquisaca,10501,Monteagudo,2019,11,TOTAL,14
+Santa Cruz,71001,Montero,2019,11,TOTAL,169
+Oruro,40101,Oruro,2019,11,TOTAL,326
+Chuquisaca,10401,Padilla,2019,11,TOTAL,4
+Santa Cruz,70502,Pailon,2019,11,TOTAL,5
+La Paz,21305,Patacamaya,2019,11,TOTAL,4
+Santa Cruz,70601,Portachuelo,2019,11,TOTAL,14
+Potosí,50101,Potosi,2019,11,TOTAL,190
+Santa Cruz,71402,Puerto Quijarro,2019,11,TOTAL,11
+Santa Cruz,71401,Puerto Suarez,2019,11,TOTAL,8
+Cochabamba,31205,Puerto Villarroel,2019,11,TOTAL,56
+Cochabamba,31401,Punata,2019,11,TOTAL,46
+Cochabamba,30901,Quillacollo,2019,11,TOTAL,60
+Beni,80301,Reyes,2019,11,TOTAL,1
+Beni,80201,Riberalta,2019,11,TOTAL,92
+Santa Cruz,70503,Robore,2019,11,TOTAL,6
+Beni,80304,Rurrenabaque,2019,11,TOTAL,13
+Cochabamba,31001,Sacaba,2019,11,TOTAL,87
+Beni,80302,San Borja,2019,11,TOTAL,25
+La Paz,21502,San Buena Ventura,2019,11,TOTAL,4
+Santa Cruz,70402,San Carlos,2019,11,TOTAL,17
+Beni,80501,San Ignacio,2019,11,TOTAL,5
+Santa Cruz,70301,San Ignacio De Velasco,2019,11,TOTAL,29
+Santa Cruz,71102,San Javier(stc),2019,11,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2019,11,TOTAL,16
+Santa Cruz,71104,San Julian,2019,11,TOTAL,8
+Santa Cruz,71201,San Matias,2019,11,TOTAL,1
+Beni,80702,San Ramon Beni,2019,11,TOTAL,2
+Santa Cruz,71103,San Ramon Scz,2019,11,TOTAL,1
+Beni,80401,Santa Ana,2019,11,TOTAL,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,11,TOTAL,1824
+Cochabamba,31602,Shinaota,2019,11,TOTAL,4
+Chuquisaca,10101,Sucre,2019,11,TOTAL,223
+Chuquisaca,10601,Tarabuco,2019,11,TOTAL,4
+Tarija,60101,Tarija,2019,11,TOTAL,183
+Chuquisaca,10202,Tarvita,2019,11,TOTAL,4
+Cochabamba,30903,Tiquipaya,2019,11,TOTAL,22
+Beni,80101,Trinidad,2019,11,TOTAL,124
+Potosí,50801,Tupiza,2019,11,TOTAL,18
+Potosí,50201,Uncia,2019,11,TOTAL,5
+Potosí,51201,Uyuni,2019,11,TOTAL,14
+Santa Cruz,70801,Vallegrande,2019,11,TOTAL,15
+La Paz,20801,Viacha,2019,11,TOTAL,13
+Tarija,60303,Villa Montes,2019,11,TOTAL,30
+Cochabamba,31003,Villa Tunari,2019,11,TOTAL,30
+Potosí,51501,Villazon,2019,11,TOTAL,5
+Santa Cruz,70201,Warnes,2019,11,TOTAL,22
+Tarija,60301,Yacuiba,2019,11,TOTAL,49
+Santa Cruz,70403,Yapacani,2019,11,TOTAL,35
+La Paz,20201,Achacachi,2019,12,TOTAL,6
+Cochabamba,30201,Aiquile,2019,12,TOTAL,4
+Santa Cruz,71501,Ascencion De Guarayos,2019,12,TOTAL,21
+Potosí,50802,Atocha,2019,12,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2019,12,TOTAL,3
+Beni,80802,Baures,2019,12,TOTAL,1
+Tarija,60202,Bermejo,2019,12,TOTAL,28
+Chuquisaca,10701,Camargo,2019,12,TOTAL,8
+Santa Cruz,70706,Camiri,2019,12,TOTAL,49
+Oruro,40102,Caracollo,2019,12,TOTAL,1
+La Paz,22001,Caranavi,2019,12,TOTAL,18
+Oruro,40201,Challapata,2019,12,TOTAL,7
+Santa Cruz,70702,Charagua,2019,12,TOTAL,14
+Cochabamba,30801,Cliza,2019,12,TOTAL,16
+Pando,90101,Cobija,2019,12,TOTAL,62
+Cochabamba,30101,Cochabamba,2019,12,TOTAL,800
+Cochabamba,30905,Colcapirhua,2019,12,TOTAL,22
+Santa Cruz,71301,Comarapa,2019,12,TOTAL,8
+Santa Cruz,71101,Concepcion,2019,12,TOTAL,5
+La Paz,21401,Coroico,2019,12,TOTAL,5
+Santa Cruz,70102,Cotoca,2019,12,TOTAL,9
+Santa Cruz,71106,Cuatro Cañadas,2019,12,TOTAL,4
+La Paz,20105,El Alto,2019,12,TOTAL,399
+Santa Cruz,70105,El Torno,2019,12,TOTAL,43
+Tarija,60601,Entre Rios Trj,2019,12,TOTAL,7
+La Paz,20405,Escoma,2019,12,TOTAL,3
+La Paz,20602,Guanay,2019,12,TOTAL,2
+Beni,80202,Guayaramerin,2019,12,TOTAL,44
+Oruro,40701,Huanuni,2019,12,TOTAL,16
+Santa Cruz,70104,La Guardia,2019,12,TOTAL,7
+La Paz,20101,La Paz,2019,12,TOTAL,764
+Potosí,50203,Llallagua,2019,12,TOTAL,24
+Beni,80801,Magdalena,2019,12,TOTAL,4
+Santa Cruz,70903,Mairana,2019,12,TOTAL,8
+Cochabamba,31301,Mizque,2019,12,TOTAL,8
+Chuquisaca,10501,Monteagudo,2019,12,TOTAL,14
+Santa Cruz,71001,Montero,2019,12,TOTAL,101
+Oruro,40101,Oruro,2019,12,TOTAL,324
+Chuquisaca,10401,Padilla,2019,12,TOTAL,3
+Santa Cruz,70502,Pailon,2019,12,TOTAL,6
+La Paz,21305,Patacamaya,2019,12,TOTAL,3
+Santa Cruz,70601,Portachuelo,2019,12,TOTAL,25
+Potosí,50101,Potosi,2019,12,TOTAL,156
+Santa Cruz,71402,Puerto Quijarro,2019,12,TOTAL,8
+Santa Cruz,71401,Puerto Suarez,2019,12,TOTAL,9
+Cochabamba,31205,Puerto Villarroel,2019,12,TOTAL,45
+Cochabamba,31401,Punata,2019,12,TOTAL,36
+Cochabamba,30901,Quillacollo,2019,12,TOTAL,91
+Beni,80201,Riberalta,2019,12,TOTAL,110
+Santa Cruz,70503,Robore,2019,12,TOTAL,10
+Beni,80304,Rurrenabaque,2019,12,TOTAL,18
+Cochabamba,31001,Sacaba,2019,12,TOTAL,92
+Beni,80302,San Borja,2019,12,TOTAL,25
+La Paz,21502,San Buena Ventura,2019,12,TOTAL,1
+Santa Cruz,70402,San Carlos,2019,12,TOTAL,12
+Beni,80501,San Ignacio,2019,12,TOTAL,8
+Santa Cruz,70301,San Ignacio De Velasco,2019,12,TOTAL,35
+Santa Cruz,71102,San Javier(stc),2019,12,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2019,12,TOTAL,12
+Santa Cruz,71104,San Julian,2019,12,TOTAL,4
+Chuquisaca,10702,San Lucas,2019,12,TOTAL,1
+Santa Cruz,71201,San Matias,2019,12,TOTAL,1
+Beni,80702,San Ramon Beni,2019,12,TOTAL,3
+Santa Cruz,71103,San Ramon Scz,2019,12,TOTAL,3
+Beni,80401,Santa Ana,2019,12,TOTAL,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2019,12,TOTAL,2084
+Cochabamba,31602,Shinaota,2019,12,TOTAL,3
+Chuquisaca,10403,Sopachuy,2019,12,TOTAL,2
+Chuquisaca,10101,Sucre,2019,12,TOTAL,241
+Chuquisaca,10601,Tarabuco,2019,12,TOTAL,1
+Tarija,60101,Tarija,2019,12,TOTAL,217
+Chuquisaca,10202,Tarvita,2019,12,TOTAL,1
+Cochabamba,30903,Tiquipaya,2019,12,TOTAL,25
+Cochabamba,31201,Totora(cbba),2019,12,TOTAL,2
+Beni,80101,Trinidad,2019,12,TOTAL,128
+Potosí,50801,Tupiza,2019,12,TOTAL,26
+Potosí,50201,Uncia,2019,12,TOTAL,3
+Potosí,51201,Uyuni,2019,12,TOTAL,13
+Santa Cruz,70801,Vallegrande,2019,12,TOTAL,6
+La Paz,20801,Viacha,2019,12,TOTAL,21
+Tarija,60303,Villa Montes,2019,12,TOTAL,31
+Cochabamba,31003,Villa Tunari,2019,12,TOTAL,29
+Potosí,51501,Villazon,2019,12,TOTAL,4
+Cochabamba,30904,Vinto,2019,12,TOTAL,1
+Santa Cruz,70201,Warnes,2019,12,TOTAL,41
+Tarija,60301,Yacuiba,2019,12,TOTAL,54
+Santa Cruz,70403,Yapacani,2019,12,TOTAL,39

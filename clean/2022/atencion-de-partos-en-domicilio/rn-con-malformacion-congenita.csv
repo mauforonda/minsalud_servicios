@@ -1,0 +1,93 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80501,San Ignacio,2022,1,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2022,1,RN con malformacion congenita,1
+Tarija,60601,Entre Rios Trj,2022,2,RN con malformacion congenita,1
+La Paz,20307,Nazacara De Pacajes,2022,2,RN con malformacion congenita,1
+Potosí,51103,Ckochas,2022,3,RN con malformacion congenita,1
+La Paz,21401,Coroico,2022,3,RN con malformacion congenita,1
+La Paz,21005,Ichoca,2022,3,RN con malformacion congenita,1
+Cochabamba,31301,Mizque,2022,3,RN con malformacion congenita,1
+La Paz,20601,Sorata,2022,3,RN con malformacion congenita,1
+Potosí,51103,Ckochas,2022,4,RN con malformacion congenita,1
+Potosí,50404,Ocuri,2022,4,RN con malformacion congenita,1
+La Paz,21201,Pucarani,2022,4,RN con malformacion congenita,1
+Beni,80302,San Borja,2022,4,RN con malformacion congenita,1
+Chuquisaca,10201,Azurduy,2022,5,RN con malformacion congenita,1
+La Paz,20204,Huarina,2022,5,RN con malformacion congenita,1
+La Paz,21301,Sica Sica (villa Aroma),2022,5,RN con malformacion congenita,1
+Chuquisaca,10202,Tarvita,2022,5,RN con malformacion congenita,1
+La Paz,21201,Pucarani,2022,6,RN con malformacion congenita,1
+Cochabamba,31101,Tapacari,2022,6,RN con malformacion congenita,1
+Chuquisaca,10601,Tarabuco,2022,6,RN con malformacion congenita,1
+Chuquisaca,10202,Tarvita,2022,6,RN con malformacion congenita,1
+La Paz,21105,La Asunta,2022,7,RN con malformacion congenita,1
+Potosí,50404,Ocuri,2022,7,RN con malformacion congenita,1
+Potosí,50602,Vitichi,2022,7,RN con malformacion congenita,1
+La Paz,21306,Colquencha,2022,8,RN con malformacion congenita,1
+La Paz,21104,Palos Blancos,2022,8,RN con malformacion congenita,1
+Potosí,50102,Tinguipaya,2022,8,RN con malformacion congenita,1
+Oruro,41301,Totora(orr),2022,8,RN con malformacion congenita,1
+Cochabamba,30601,Arque,2022,9,RN con malformacion congenita,1
+La Paz,20402,Mocomoco,2022,9,RN con malformacion congenita,1
+La Paz,20601,Sorata,2022,9,RN con malformacion congenita,1
+Tarija,60101,Tarija,2022,9,RN con malformacion congenita,1
+Potosí,50602,Vitichi,2022,9,RN con malformacion congenita,1
+La Paz,20201,Achacachi,2022,10,RN con malformacion congenita,1
+Potosí,50301,Betanzos,2022,10,RN con malformacion congenita,1
+La Paz,20102,Palca,2022,10,RN con malformacion congenita,1
+Cochabamba,30202,Pasorapa,2022,10,RN con malformacion congenita,1
+La Paz,21301,Sica Sica (villa Aroma),2022,10,RN con malformacion congenita,1
+Potosí,50102,Tinguipaya,2022,10,RN con malformacion congenita,1
+Potosí,51103,Ckochas,2022,11,RN con malformacion congenita,1
+Potosí,50401,Colquechaca,2022,11,RN con malformacion congenita,1
+Tarija,60502,El Puente(tja),2022,11,RN con malformacion congenita,1
+La Paz,20404,Humanata,2022,11,RN con malformacion congenita,1
+Chuquisaca,10703,Incahuasi,2022,11,RN con malformacion congenita,1
+Potosí,51102,"Caiza ""d""",2022,12,RN con malformacion congenita,1
+Santa Cruz,70303,San Rafael,2022,12,RN con malformacion congenita,1
+Beni,80501,San Ignacio,2022,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2022,1,TOTAL,1
+Tarija,60601,Entre Rios Trj,2022,2,TOTAL,1
+La Paz,20307,Nazacara De Pacajes,2022,2,TOTAL,1
+Potosí,51103,Ckochas,2022,3,TOTAL,1
+La Paz,21401,Coroico,2022,3,TOTAL,1
+La Paz,21005,Ichoca,2022,3,TOTAL,1
+Cochabamba,31301,Mizque,2022,3,TOTAL,1
+La Paz,20601,Sorata,2022,3,TOTAL,1
+Potosí,51103,Ckochas,2022,4,TOTAL,1
+Potosí,50404,Ocuri,2022,4,TOTAL,1
+La Paz,21201,Pucarani,2022,4,TOTAL,1
+Beni,80302,San Borja,2022,4,TOTAL,1
+Chuquisaca,10201,Azurduy,2022,5,TOTAL,1
+La Paz,20204,Huarina,2022,5,TOTAL,1
+La Paz,21301,Sica Sica (villa Aroma),2022,5,TOTAL,1
+Chuquisaca,10202,Tarvita,2022,5,TOTAL,1
+La Paz,21201,Pucarani,2022,6,TOTAL,1
+Cochabamba,31101,Tapacari,2022,6,TOTAL,1
+Chuquisaca,10601,Tarabuco,2022,6,TOTAL,1
+Chuquisaca,10202,Tarvita,2022,6,TOTAL,1
+La Paz,21105,La Asunta,2022,7,TOTAL,1
+Potosí,50404,Ocuri,2022,7,TOTAL,1
+Potosí,50602,Vitichi,2022,7,TOTAL,1
+La Paz,21306,Colquencha,2022,8,TOTAL,1
+La Paz,21104,Palos Blancos,2022,8,TOTAL,1
+Potosí,50102,Tinguipaya,2022,8,TOTAL,1
+Oruro,41301,Totora(orr),2022,8,TOTAL,1
+Cochabamba,30601,Arque,2022,9,TOTAL,1
+La Paz,20402,Mocomoco,2022,9,TOTAL,1
+La Paz,20601,Sorata,2022,9,TOTAL,1
+Tarija,60101,Tarija,2022,9,TOTAL,1
+Potosí,50602,Vitichi,2022,9,TOTAL,1
+La Paz,20201,Achacachi,2022,10,TOTAL,1
+Potosí,50301,Betanzos,2022,10,TOTAL,1
+La Paz,20102,Palca,2022,10,TOTAL,1
+Cochabamba,30202,Pasorapa,2022,10,TOTAL,1
+La Paz,21301,Sica Sica (villa Aroma),2022,10,TOTAL,1
+Potosí,50102,Tinguipaya,2022,10,TOTAL,1
+Potosí,51103,Ckochas,2022,11,TOTAL,1
+Potosí,50401,Colquechaca,2022,11,TOTAL,1
+Tarija,60502,El Puente(tja),2022,11,TOTAL,1
+La Paz,20404,Humanata,2022,11,TOTAL,1
+Chuquisaca,10703,Incahuasi,2022,11,TOTAL,1
+Potosí,51102,"Caiza ""d""",2022,12,TOTAL,1
+Santa Cruz,70303,San Rafael,2022,12,TOTAL,1

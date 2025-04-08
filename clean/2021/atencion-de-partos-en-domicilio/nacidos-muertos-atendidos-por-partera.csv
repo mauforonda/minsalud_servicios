@@ -1,0 +1,39 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20105,El Alto,2021,1,Nacidos muertos atendidos por partera,1
+Santa Cruz,71201,San Matias,2021,1,Nacidos muertos atendidos por partera,1
+Chuquisaca,10302,Presto,2021,3,Nacidos muertos atendidos por partera,1
+Oruro,40102,Caracollo,2021,4,Nacidos muertos atendidos por partera,1
+La Paz,20806,Jesus De Machaca,2021,4,Nacidos muertos atendidos por partera,1
+Potosí,50404,Ocuri,2021,4,Nacidos muertos atendidos por partera,1
+Beni,80302,San Borja,2021,5,Nacidos muertos atendidos por partera,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,Nacidos muertos atendidos por partera,1
+Tarija,60303,Villa Montes,2021,5,Nacidos muertos atendidos por partera,1
+Tarija,60402,Yunchara,2021,6,Nacidos muertos atendidos por partera,1
+Beni,80501,San Ignacio,2021,7,Nacidos muertos atendidos por partera,1
+Cochabamba,31201,Totora(cbba),2021,7,Nacidos muertos atendidos por partera,1
+La Paz,20306,Waldo Ballivian,2021,7,Nacidos muertos atendidos por partera,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2021,8,Nacidos muertos atendidos por partera,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,Nacidos muertos atendidos por partera,1
+Beni,80102,San Javier(bni),2021,9,Nacidos muertos atendidos por partera,2
+Santa Cruz,71502,Urubicha,2021,9,Nacidos muertos atendidos por partera,1
+Santa Cruz,70703,Cabezas,2021,10,Nacidos muertos atendidos por partera,11
+Beni,80101,Trinidad,2021,11,Nacidos muertos atendidos por partera,1
+La Paz,20105,El Alto,2021,1,TOTAL,1
+Santa Cruz,71201,San Matias,2021,1,TOTAL,1
+Chuquisaca,10302,Presto,2021,3,TOTAL,1
+Oruro,40102,Caracollo,2021,4,TOTAL,1
+La Paz,20806,Jesus De Machaca,2021,4,TOTAL,1
+Potosí,50404,Ocuri,2021,4,TOTAL,1
+Beni,80302,San Borja,2021,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,TOTAL,1
+Tarija,60303,Villa Montes,2021,5,TOTAL,1
+Tarija,60402,Yunchara,2021,6,TOTAL,1
+Beni,80501,San Ignacio,2021,7,TOTAL,1
+Cochabamba,31201,Totora(cbba),2021,7,TOTAL,1
+La Paz,20306,Waldo Ballivian,2021,7,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2021,8,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,TOTAL,1
+Beni,80102,San Javier(bni),2021,9,TOTAL,2
+Santa Cruz,71502,Urubicha,2021,9,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,10,TOTAL,11
+Beni,80101,Trinidad,2021,11,TOTAL,1

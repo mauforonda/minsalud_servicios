@@ -1,0 +1,45 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80703,Puerto Siles,2005,1,Viviendas rociadas por agente comunario,2
+Beni,80701,San Joaquin,2005,1,Viviendas rociadas por agente comunario,1
+Tarija,60202,Bermejo,2005,2,Viviendas rociadas por agente comunario,286
+Beni,80202,Guayaramerin,2005,3,Viviendas rociadas por agente comunario,1
+Chuquisaca,10201,Azurduy,2005,5,Viviendas rociadas por agente comunario,1
+Chuquisaca,10502,Huacareta,2005,5,Viviendas rociadas por agente comunario,4
+Chuquisaca,10403,Sopachuy,2005,5,Viviendas rociadas por agente comunario,3
+Chuquisaca,10402,Tomina,2005,5,Viviendas rociadas por agente comunario,183
+Tarija,60303,Villa Montes,2005,5,Viviendas rociadas por agente comunario,14
+Pando,90104,Bella Flor,2005,6,Viviendas rociadas por agente comunario,150
+Santa Cruz,70705,Gutierrez,2005,6,Viviendas rociadas por agente comunario,86
+Beni,80801,Magdalena,2005,7,Viviendas rociadas por agente comunario,50
+Chuquisaca,10501,Monteagudo,2005,8,Viviendas rociadas por agente comunario,12
+Cochabamba,30902,Sipe Sipe,2005,8,Viviendas rociadas por agente comunario,1
+Beni,80801,Magdalena,2005,9,Viviendas rociadas por agente comunario,28
+Pando,90501,Nuevo Manoa (nueva Esperanza),2005,9,Viviendas rociadas por agente comunario,220
+Pando,90501,Nuevo Manoa (nueva Esperanza),2005,10,Viviendas rociadas por agente comunario,21
+Pando,90302,San Lorenzo(pnd),2005,10,Viviendas rociadas por agente comunario,1
+Cochabamba,30601,Arque,2005,11,Viviendas rociadas por agente comunario,1
+Santa Cruz,70401,Buena Vista,2005,11,Viviendas rociadas por agente comunario,215
+Santa Cruz,71002,General Saavedra,2005,11,Viviendas rociadas por agente comunario,100
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,11,Viviendas rociadas por agente comunario,1
+Beni,80703,Puerto Siles,2005,1,TOTAL,2
+Beni,80701,San Joaquin,2005,1,TOTAL,1
+Tarija,60202,Bermejo,2005,2,TOTAL,286
+Beni,80202,Guayaramerin,2005,3,TOTAL,1
+Chuquisaca,10201,Azurduy,2005,5,TOTAL,1
+Chuquisaca,10502,Huacareta,2005,5,TOTAL,4
+Chuquisaca,10403,Sopachuy,2005,5,TOTAL,3
+Chuquisaca,10402,Tomina,2005,5,TOTAL,183
+Tarija,60303,Villa Montes,2005,5,TOTAL,14
+Pando,90104,Bella Flor,2005,6,TOTAL,150
+Santa Cruz,70705,Gutierrez,2005,6,TOTAL,86
+Beni,80801,Magdalena,2005,7,TOTAL,50
+Chuquisaca,10501,Monteagudo,2005,8,TOTAL,12
+Cochabamba,30902,Sipe Sipe,2005,8,TOTAL,1
+Beni,80801,Magdalena,2005,9,TOTAL,28
+Pando,90501,Nuevo Manoa (nueva Esperanza),2005,9,TOTAL,220
+Pando,90501,Nuevo Manoa (nueva Esperanza),2005,10,TOTAL,21
+Pando,90302,San Lorenzo(pnd),2005,10,TOTAL,1
+Cochabamba,30601,Arque,2005,11,TOTAL,1
+Santa Cruz,70401,Buena Vista,2005,11,TOTAL,215
+Santa Cruz,71002,General Saavedra,2005,11,TOTAL,100
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,11,TOTAL,1

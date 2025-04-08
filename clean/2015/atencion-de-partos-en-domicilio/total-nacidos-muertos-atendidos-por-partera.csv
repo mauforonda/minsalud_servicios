@@ -1,0 +1,91 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20302,Caquiaviri,2015,1,Total Nacidos muertos atendidos por partera,1
+Potosí,50403,Pocoata,2015,1,Total Nacidos muertos atendidos por partera,1
+Santa Cruz,70402,San Carlos,2015,1,Total Nacidos muertos atendidos por partera,1
+Santa Cruz,71403,Carmen Rivero Torrez,2015,2,Total Nacidos muertos atendidos por partera,1
+Potosí,50203,Llallagua,2015,2,Total Nacidos muertos atendidos por partera,1
+Santa Cruz,70402,San Carlos,2015,2,Total Nacidos muertos atendidos por partera,2
+Santa Cruz,71403,Carmen Rivero Torrez,2015,3,Total Nacidos muertos atendidos por partera,1
+Potosí,50401,Colquechaca,2015,4,Total Nacidos muertos atendidos por partera,1
+La Paz,21601,Gral. J.j. Perez (charazani),2015,4,Total Nacidos muertos atendidos por partera,1
+Potosí,50402,Ravelo,2015,4,Total Nacidos muertos atendidos por partera,1
+Cochabamba,31602,Shinaota,2015,4,Total Nacidos muertos atendidos por partera,2
+Potosí,50103,Yocalla,2015,4,Total Nacidos muertos atendidos por partera,2
+Potosí,50401,Colquechaca,2015,5,Total Nacidos muertos atendidos por partera,2
+Oruro,40401,Curahuara De Carangas,2015,5,Total Nacidos muertos atendidos por partera,1
+Chuquisaca,10302,Presto,2015,5,Total Nacidos muertos atendidos por partera,1
+Potosí,50102,Tinguipaya,2015,5,Total Nacidos muertos atendidos por partera,1
+Potosí,50302,Chaqui,2015,6,Total Nacidos muertos atendidos por partera,1
+Potosí,50202,Chayanta,2015,6,Total Nacidos muertos atendidos por partera,1
+Cochabamba,31204,Chimore,2015,6,Total Nacidos muertos atendidos por partera,1
+Potosí,50403,Pocoata,2015,6,Total Nacidos muertos atendidos por partera,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2015,7,Total Nacidos muertos atendidos por partera,2
+La Paz,20105,El Alto,2015,7,Total Nacidos muertos atendidos por partera,1
+Chuquisaca,10303,Mojocoya,2015,7,Total Nacidos muertos atendidos por partera,1
+Beni,80501,San Ignacio,2015,7,Total Nacidos muertos atendidos por partera,1
+Potosí,50102,Tinguipaya,2015,7,Total Nacidos muertos atendidos por partera,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2015,8,Total Nacidos muertos atendidos por partera,1
+Potosí,50402,Ravelo,2015,8,Total Nacidos muertos atendidos por partera,1
+Oruro,41001,Toledo,2015,8,Total Nacidos muertos atendidos por partera,1
+Potosí,50401,Colquechaca,2015,9,Total Nacidos muertos atendidos por partera,1
+Beni,80302,San Borja,2015,9,Total Nacidos muertos atendidos por partera,1
+Potosí,50801,Tupiza,2015,9,Total Nacidos muertos atendidos por partera,2
+Cochabamba,30201,Aiquile,2015,10,Total Nacidos muertos atendidos por partera,1
+Cochabamba,30101,Cochabamba,2015,10,Total Nacidos muertos atendidos por partera,31
+Santa Cruz,71001,Montero,2015,10,Total Nacidos muertos atendidos por partera,1
+Cochabamba,30602,Tacopaya,2015,10,Total Nacidos muertos atendidos por partera,1
+La Paz,21201,Pucarani,2015,11,Total Nacidos muertos atendidos por partera,1
+La Paz,21204,Puerto Perez,2015,11,Total Nacidos muertos atendidos por partera,1
+Potosí,50402,Ravelo,2015,11,Total Nacidos muertos atendidos por partera,1
+Potosí,50102,Tinguipaya,2015,11,Total Nacidos muertos atendidos por partera,2
+Cochabamba,30903,Tiquipaya,2015,11,Total Nacidos muertos atendidos por partera,2
+Santa Cruz,70201,Warnes,2015,11,Total Nacidos muertos atendidos por partera,1
+Santa Cruz,70703,Cabezas,2015,12,Total Nacidos muertos atendidos por partera,1
+Potosí,50404,Ocuri,2015,12,Total Nacidos muertos atendidos por partera,1
+La Paz,20401,Puerto Acosta,2015,12,Total Nacidos muertos atendidos por partera,1
+Santa Cruz,70402,San Carlos,2015,12,Total Nacidos muertos atendidos por partera,1
+La Paz,20302,Caquiaviri,2015,1,TOTAL,1
+Potosí,50403,Pocoata,2015,1,TOTAL,1
+Santa Cruz,70402,San Carlos,2015,1,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2015,2,TOTAL,1
+Potosí,50203,Llallagua,2015,2,TOTAL,1
+Santa Cruz,70402,San Carlos,2015,2,TOTAL,2
+Santa Cruz,71403,Carmen Rivero Torrez,2015,3,TOTAL,1
+Potosí,50401,Colquechaca,2015,4,TOTAL,1
+La Paz,21601,Gral. J.j. Perez (charazani),2015,4,TOTAL,1
+Potosí,50402,Ravelo,2015,4,TOTAL,1
+Cochabamba,31602,Shinaota,2015,4,TOTAL,2
+Potosí,50103,Yocalla,2015,4,TOTAL,2
+Potosí,50401,Colquechaca,2015,5,TOTAL,2
+Oruro,40401,Curahuara De Carangas,2015,5,TOTAL,1
+Chuquisaca,10302,Presto,2015,5,TOTAL,1
+Potosí,50102,Tinguipaya,2015,5,TOTAL,1
+Potosí,50302,Chaqui,2015,6,TOTAL,1
+Potosí,50202,Chayanta,2015,6,TOTAL,1
+Cochabamba,31204,Chimore,2015,6,TOTAL,1
+Potosí,50403,Pocoata,2015,6,TOTAL,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2015,7,TOTAL,2
+La Paz,20105,El Alto,2015,7,TOTAL,1
+Chuquisaca,10303,Mojocoya,2015,7,TOTAL,1
+Beni,80501,San Ignacio,2015,7,TOTAL,1
+Potosí,50102,Tinguipaya,2015,7,TOTAL,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2015,8,TOTAL,1
+Potosí,50402,Ravelo,2015,8,TOTAL,1
+Oruro,41001,Toledo,2015,8,TOTAL,1
+Potosí,50401,Colquechaca,2015,9,TOTAL,1
+Beni,80302,San Borja,2015,9,TOTAL,1
+Potosí,50801,Tupiza,2015,9,TOTAL,2
+Cochabamba,30201,Aiquile,2015,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,10,TOTAL,31
+Santa Cruz,71001,Montero,2015,10,TOTAL,1
+Cochabamba,30602,Tacopaya,2015,10,TOTAL,1
+La Paz,21201,Pucarani,2015,11,TOTAL,1
+La Paz,21204,Puerto Perez,2015,11,TOTAL,1
+Potosí,50402,Ravelo,2015,11,TOTAL,1
+Potosí,50102,Tinguipaya,2015,11,TOTAL,2
+Cochabamba,30903,Tiquipaya,2015,11,TOTAL,2
+Santa Cruz,70201,Warnes,2015,11,TOTAL,1
+Santa Cruz,70703,Cabezas,2015,12,TOTAL,1
+Potosí,50404,Ocuri,2015,12,TOTAL,1
+La Paz,20401,Puerto Acosta,2015,12,TOTAL,1
+Santa Cruz,70402,San Carlos,2015,12,TOTAL,1

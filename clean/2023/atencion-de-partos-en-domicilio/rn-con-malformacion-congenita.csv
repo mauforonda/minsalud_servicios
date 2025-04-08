@@ -1,0 +1,87 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20302,Caquiaviri,2023,1,RN con malformacion congenita,1
+Chuquisaca,10303,Mojocoya,2023,1,RN con malformacion congenita,1
+Potosí,50403,Pocoata,2023,1,RN con malformacion congenita,1
+Tarija,60101,Tarija,2023,1,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2023,1,RN con malformacion congenita,1
+Santa Cruz,70702,Charagua,2023,2,RN con malformacion congenita,1
+Chuquisaca,10703,Incahuasi,2023,2,RN con malformacion congenita,1
+La Paz,20607,Mapiri,2023,2,RN con malformacion congenita,1
+Oruro,41301,Totora(orr),2023,2,RN con malformacion congenita,1
+La Paz,20501,Chuma,2023,3,RN con malformacion congenita,1
+La Paz,21005,Ichoca,2023,3,RN con malformacion congenita,1
+La Paz,21104,Palos Blancos,2023,3,RN con malformacion congenita,1
+Beni,80304,Rurrenabaque,2023,3,RN con malformacion congenita,1
+La Paz,21801,San Pedro De Curahuara,2023,3,RN con malformacion congenita,1
+La Paz,20701,Apolo,2023,4,RN con malformacion congenita,1
+Cochabamba,30601,Arque,2023,4,RN con malformacion congenita,1
+Cochabamba,30602,Tacopaya,2023,4,RN con malformacion congenita,1
+Santa Cruz,70202,Okinawa,2023,5,RN con malformacion congenita,1
+Beni,80401,Santa Ana,2023,5,RN con malformacion congenita,1
+Cochabamba,30901,Quillacollo,2023,6,RN con malformacion congenita,1
+Cochabamba,31101,Tapacari,2023,6,RN con malformacion congenita,1
+La Paz,22001,Caranavi,2023,7,RN con malformacion congenita,1
+Potosí,50401,Colquechaca,2023,7,RN con malformacion congenita,1
+Cochabamba,31304,Raqaypampa(eta),2023,7,RN con malformacion congenita,1
+La Paz,20404,Humanata,2023,8,RN con malformacion congenita,1
+Santa Cruz,71001,Montero,2023,8,RN con malformacion congenita,113
+Chuquisaca,10702,San Lucas,2023,8,RN con malformacion congenita,1
+Chuquisaca,10202,Tarvita,2023,8,RN con malformacion congenita,1
+La Paz,20201,Achacachi,2023,9,RN con malformacion congenita,1
+Beni,80501,San Ignacio,2023,9,RN con malformacion congenita,1
+La Paz,20601,Sorata,2023,9,RN con malformacion congenita,1
+La Paz,21102,Irupana (villa De Lanza),2023,10,RN con malformacion congenita,1
+Potosí,50501,San Pedro De Buena Vista,2023,10,RN con malformacion congenita,1
+Beni,80101,Trinidad,2023,10,RN con malformacion congenita,1
+La Paz,20903,Yaco,2023,10,RN con malformacion congenita,1
+La Paz,20301,Coro Coro,2023,11,RN con malformacion congenita,1
+La Paz,20102,Palca,2023,11,RN con malformacion congenita,1
+La Paz,21306,Colquencha,2023,12,RN con malformacion congenita,1
+Chuquisaca,10902,Culpina,2023,12,RN con malformacion congenita,1
+Potosí,50403,Pocoata,2023,12,RN con malformacion congenita,1
+Potosí,51101,Puna,2023,12,RN con malformacion congenita,1
+Chuquisaca,10704,Villa Charcas,2023,12,RN con malformacion congenita,1
+Potosí,50602,Vitichi,2023,12,RN con malformacion congenita,2
+La Paz,20302,Caquiaviri,2023,1,TOTAL,1
+Chuquisaca,10303,Mojocoya,2023,1,TOTAL,1
+Potosí,50403,Pocoata,2023,1,TOTAL,1
+Tarija,60101,Tarija,2023,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2023,1,TOTAL,1
+Santa Cruz,70702,Charagua,2023,2,TOTAL,1
+Chuquisaca,10703,Incahuasi,2023,2,TOTAL,1
+La Paz,20607,Mapiri,2023,2,TOTAL,1
+Oruro,41301,Totora(orr),2023,2,TOTAL,1
+La Paz,20501,Chuma,2023,3,TOTAL,1
+La Paz,21005,Ichoca,2023,3,TOTAL,1
+La Paz,21104,Palos Blancos,2023,3,TOTAL,1
+Beni,80304,Rurrenabaque,2023,3,TOTAL,1
+La Paz,21801,San Pedro De Curahuara,2023,3,TOTAL,1
+La Paz,20701,Apolo,2023,4,TOTAL,1
+Cochabamba,30601,Arque,2023,4,TOTAL,1
+Cochabamba,30602,Tacopaya,2023,4,TOTAL,1
+Santa Cruz,70202,Okinawa,2023,5,TOTAL,1
+Beni,80401,Santa Ana,2023,5,TOTAL,1
+Cochabamba,30901,Quillacollo,2023,6,TOTAL,1
+Cochabamba,31101,Tapacari,2023,6,TOTAL,1
+La Paz,22001,Caranavi,2023,7,TOTAL,1
+Potosí,50401,Colquechaca,2023,7,TOTAL,1
+Cochabamba,31304,Raqaypampa(eta),2023,7,TOTAL,1
+La Paz,20404,Humanata,2023,8,TOTAL,1
+Santa Cruz,71001,Montero,2023,8,TOTAL,113
+Chuquisaca,10702,San Lucas,2023,8,TOTAL,1
+Chuquisaca,10202,Tarvita,2023,8,TOTAL,1
+La Paz,20201,Achacachi,2023,9,TOTAL,1
+Beni,80501,San Ignacio,2023,9,TOTAL,1
+La Paz,20601,Sorata,2023,9,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2023,10,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2023,10,TOTAL,1
+Beni,80101,Trinidad,2023,10,TOTAL,1
+La Paz,20903,Yaco,2023,10,TOTAL,1
+La Paz,20301,Coro Coro,2023,11,TOTAL,1
+La Paz,20102,Palca,2023,11,TOTAL,1
+La Paz,21306,Colquencha,2023,12,TOTAL,1
+Chuquisaca,10902,Culpina,2023,12,TOTAL,1
+Potosí,50403,Pocoata,2023,12,TOTAL,1
+Potosí,51101,Puna,2023,12,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2023,12,TOTAL,1
+Potosí,50602,Vitichi,2023,12,TOTAL,2

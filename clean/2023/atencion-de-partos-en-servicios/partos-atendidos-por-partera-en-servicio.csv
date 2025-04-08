@@ -1,0 +1,35 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,1,Partos atendidos por partera en servicio,6
+Santa Cruz,70201,Warnes,2023,2,Partos atendidos por partera en servicio,27
+Cochabamba,31401,Punata,2023,3,Partos atendidos por partera en servicio,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,3,Partos atendidos por partera en servicio,8
+Santa Cruz,71302,Saipina,2023,4,Partos atendidos por partera en servicio,1
+Santa Cruz,71003,Mineros,2023,5,Partos atendidos por partera en servicio,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,5,Partos atendidos por partera en servicio,7
+La Paz,20104,Achocalla,2023,6,Partos atendidos por partera en servicio,0
+Santa Cruz,71501,Ascencion De Guarayos,2023,6,Partos atendidos por partera en servicio,1
+La Paz,20105,El Alto,2023,6,Partos atendidos por partera en servicio,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,6,Partos atendidos por partera en servicio,8
+Oruro,40401,Curahuara De Carangas,2023,8,Partos atendidos por partera en servicio,1
+Santa Cruz,71201,San Matias,2023,8,Partos atendidos por partera en servicio,1
+La Paz,20101,La Paz,2023,10,Partos atendidos por partera en servicio,53
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,10,Partos atendidos por partera en servicio,1
+Pando,90302,San Lorenzo(pnd),2023,11,Partos atendidos por partera en servicio,1
+Beni,80501,San Ignacio,2023,12,Partos atendidos por partera en servicio,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,1,TOTAL,6
+Santa Cruz,70201,Warnes,2023,2,TOTAL,27
+Cochabamba,31401,Punata,2023,3,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,3,TOTAL,8
+Santa Cruz,71302,Saipina,2023,4,TOTAL,1
+Santa Cruz,71003,Mineros,2023,5,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,5,TOTAL,7
+La Paz,20104,Achocalla,2023,6,TOTAL,0
+Santa Cruz,71501,Ascencion De Guarayos,2023,6,TOTAL,1
+La Paz,20105,El Alto,2023,6,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,6,TOTAL,8
+Oruro,40401,Curahuara De Carangas,2023,8,TOTAL,1
+Santa Cruz,71201,San Matias,2023,8,TOTAL,1
+La Paz,20101,La Paz,2023,10,TOTAL,53
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,10,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2023,11,TOTAL,1
+Beni,80501,San Ignacio,2023,12,TOTAL,2

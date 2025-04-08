@@ -1,0 +1,93 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,50204,Chuquihuta Ayllu Jucumani,2017,1,Nacidos muertos atendidos por partera,1
+Beni,80302,San Borja,2017,1,Nacidos muertos atendidos por partera,7
+Cochabamba,31003,Villa Tunari,2017,1,Nacidos muertos atendidos por partera,1
+Cochabamba,30601,Arque,2017,2,Nacidos muertos atendidos por partera,1
+Beni,80304,Rurrenabaque,2017,2,Nacidos muertos atendidos por partera,1
+Beni,80302,San Borja,2017,2,Nacidos muertos atendidos por partera,1
+Potosí,50502,Toro Toro,2017,2,Nacidos muertos atendidos por partera,1
+Oruro,40402,Turco,2017,2,Nacidos muertos atendidos por partera,1
+Potosí,51201,Uyuni,2017,2,Nacidos muertos atendidos por partera,1
+Cochabamba,31206,Entre Rios Cbba,2017,3,Nacidos muertos atendidos por partera,1
+Beni,80501,San Ignacio,2017,3,Nacidos muertos atendidos por partera,1
+Potosí,51201,Uyuni,2017,3,Nacidos muertos atendidos por partera,1
+La Paz,20804,Desaguadero,2017,4,Nacidos muertos atendidos por partera,1
+Chuquisaca,10501,Monteagudo,2017,4,Nacidos muertos atendidos por partera,1
+Santa Cruz,70601,Portachuelo,2017,4,Nacidos muertos atendidos por partera,1
+Santa Cruz,71201,San Matias,2017,4,Nacidos muertos atendidos por partera,1
+Potosí,51201,Uyuni,2017,4,Nacidos muertos atendidos por partera,1
+Santa Cruz,70701,Lagunillas,2017,5,Nacidos muertos atendidos por partera,1
+Beni,80801,Magdalena,2017,5,Nacidos muertos atendidos por partera,3
+Potosí,50701,Sacaca,2017,5,Nacidos muertos atendidos por partera,1
+Potosí,50102,Tinguipaya,2017,5,Nacidos muertos atendidos por partera,2
+Potosí,50402,Ravelo,2017,6,Nacidos muertos atendidos por partera,1
+Cochabamba,31101,Tapacari,2017,6,Nacidos muertos atendidos por partera,1
+Santa Cruz,70703,Cabezas,2017,7,Nacidos muertos atendidos por partera,1
+Chuquisaca,10101,Sucre,2017,7,Nacidos muertos atendidos por partera,1
+Chuquisaca,10601,Tarabuco,2017,7,Nacidos muertos atendidos por partera,1
+Chuquisaca,10202,Tarvita,2017,7,Nacidos muertos atendidos por partera,1
+Santa Cruz,71501,Ascencion De Guarayos,2017,8,Nacidos muertos atendidos por partera,1
+Pando,90202,San Pedro(pnd),2017,8,Nacidos muertos atendidos por partera,1
+Beni,80301,Reyes,2017,9,Nacidos muertos atendidos por partera,2
+Cochabamba,31101,Tapacari,2017,9,Nacidos muertos atendidos por partera,1
+Potosí,50201,Uncia,2017,9,Nacidos muertos atendidos por partera,1
+Santa Cruz,71002,General Saavedra,2017,10,Nacidos muertos atendidos por partera,3
+Potosí,50404,Ocuri,2017,10,Nacidos muertos atendidos por partera,1
+Potosí,50701,Sacaca,2017,10,Nacidos muertos atendidos por partera,1
+Beni,80602,San Andres,2017,10,Nacidos muertos atendidos por partera,1
+Beni,80501,San Ignacio,2017,10,Nacidos muertos atendidos por partera,1
+Potosí,51201,Uyuni,2017,10,Nacidos muertos atendidos por partera,2
+Potosí,50401,Colquechaca,2017,11,Nacidos muertos atendidos por partera,1
+Cochabamba,30902,Sipe Sipe,2017,11,Nacidos muertos atendidos por partera,1
+Potosí,50102,Tinguipaya,2017,11,Nacidos muertos atendidos por partera,1
+Potosí,50201,Uncia,2017,11,Nacidos muertos atendidos por partera,1
+Potosí,51201,Uyuni,2017,11,Nacidos muertos atendidos por partera,2
+Santa Cruz,70703,Cabezas,2017,12,Nacidos muertos atendidos por partera,1
+La Paz,20403,Puerto Carabuco,2017,12,Nacidos muertos atendidos por partera,1
+Potosí,51201,Uyuni,2017,12,Nacidos muertos atendidos por partera,3
+Potosí,50204,Chuquihuta Ayllu Jucumani,2017,1,TOTAL,1
+Beni,80302,San Borja,2017,1,TOTAL,7
+Cochabamba,31003,Villa Tunari,2017,1,TOTAL,1
+Cochabamba,30601,Arque,2017,2,TOTAL,1
+Beni,80304,Rurrenabaque,2017,2,TOTAL,1
+Beni,80302,San Borja,2017,2,TOTAL,1
+Potosí,50502,Toro Toro,2017,2,TOTAL,1
+Oruro,40402,Turco,2017,2,TOTAL,1
+Potosí,51201,Uyuni,2017,2,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2017,3,TOTAL,1
+Beni,80501,San Ignacio,2017,3,TOTAL,1
+Potosí,51201,Uyuni,2017,3,TOTAL,1
+La Paz,20804,Desaguadero,2017,4,TOTAL,1
+Chuquisaca,10501,Monteagudo,2017,4,TOTAL,1
+Santa Cruz,70601,Portachuelo,2017,4,TOTAL,1
+Santa Cruz,71201,San Matias,2017,4,TOTAL,1
+Potosí,51201,Uyuni,2017,4,TOTAL,1
+Santa Cruz,70701,Lagunillas,2017,5,TOTAL,1
+Beni,80801,Magdalena,2017,5,TOTAL,3
+Potosí,50701,Sacaca,2017,5,TOTAL,1
+Potosí,50102,Tinguipaya,2017,5,TOTAL,2
+Potosí,50402,Ravelo,2017,6,TOTAL,1
+Cochabamba,31101,Tapacari,2017,6,TOTAL,1
+Santa Cruz,70703,Cabezas,2017,7,TOTAL,1
+Chuquisaca,10101,Sucre,2017,7,TOTAL,1
+Chuquisaca,10601,Tarabuco,2017,7,TOTAL,1
+Chuquisaca,10202,Tarvita,2017,7,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2017,8,TOTAL,1
+Pando,90202,San Pedro(pnd),2017,8,TOTAL,1
+Beni,80301,Reyes,2017,9,TOTAL,2
+Cochabamba,31101,Tapacari,2017,9,TOTAL,1
+Potosí,50201,Uncia,2017,9,TOTAL,1
+Santa Cruz,71002,General Saavedra,2017,10,TOTAL,3
+Potosí,50404,Ocuri,2017,10,TOTAL,1
+Potosí,50701,Sacaca,2017,10,TOTAL,1
+Beni,80602,San Andres,2017,10,TOTAL,1
+Beni,80501,San Ignacio,2017,10,TOTAL,1
+Potosí,51201,Uyuni,2017,10,TOTAL,2
+Potosí,50401,Colquechaca,2017,11,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2017,11,TOTAL,1
+Potosí,50102,Tinguipaya,2017,11,TOTAL,1
+Potosí,50201,Uncia,2017,11,TOTAL,1
+Potosí,51201,Uyuni,2017,11,TOTAL,2
+Santa Cruz,70703,Cabezas,2017,12,TOTAL,1
+La Paz,20403,Puerto Carabuco,2017,12,TOTAL,1
+Potosí,51201,Uyuni,2017,12,TOTAL,3

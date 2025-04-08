@@ -1,0 +1,825 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60202,Bermejo,2008,1,N de TBP BAAR (-) nuevos,3
+Santa Cruz,70702,Charagua,2008,1,N de TBP BAAR (-) nuevos,14
+Cochabamba,30101,Cochabamba,2008,1,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70102,Cotoca,2008,1,N de TBP BAAR (-) nuevos,33
+La Paz,20105,El Alto,2008,1,N de TBP BAAR (-) nuevos,8
+Santa Cruz,70105,El Torno,2008,1,N de TBP BAAR (-) nuevos,44
+Chuquisaca,11002,Huacaya (villa De Huacaya),2008,1,N de TBP BAAR (-) nuevos,4
+La Paz,21102,Irupana (villa De Lanza),2008,1,N de TBP BAAR (-) nuevos,1
+La Paz,21105,La Asunta,2008,1,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70104,La Guardia,2008,1,N de TBP BAAR (-) nuevos,1
+La Paz,20101,La Paz,2008,1,N de TBP BAAR (-) nuevos,20
+La Paz,20607,Mapiri,2008,1,N de TBP BAAR (-) nuevos,1
+Oruro,40101,Oruro,2008,1,N de TBP BAAR (-) nuevos,3
+Santa Cruz,70103,Porongo,2008,1,N de TBP BAAR (-) nuevos,9
+Potosí,50101,Potosi,2008,1,N de TBP BAAR (-) nuevos,3
+Chuquisaca,10302,Presto,2008,1,N de TBP BAAR (-) nuevos,5
+Cochabamba,31401,Punata,2008,1,N de TBP BAAR (-) nuevos,2
+Cochabamba,30901,Quillacollo,2008,1,N de TBP BAAR (-) nuevos,1
+Beni,80201,Riberalta,2008,1,N de TBP BAAR (-) nuevos,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,N de TBP BAAR (-) nuevos,4
+La Paz,20601,Sorata,2008,1,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10101,Sucre,2008,1,N de TBP BAAR (-) nuevos,7
+La Paz,20603,Tacacoma,2008,1,N de TBP BAAR (-) nuevos,1
+Tarija,60101,Tarija,2008,1,N de TBP BAAR (-) nuevos,1
+Beni,80101,Trinidad,2008,1,N de TBP BAAR (-) nuevos,2
+Potosí,50201,Uncia,2008,1,N de TBP BAAR (-) nuevos,1
+Tarija,60303,Villa Montes,2008,1,N de TBP BAAR (-) nuevos,6
+Cochabamba,31003,Villa Tunari,2008,1,N de TBP BAAR (-) nuevos,1
+Tarija,60301,Yacuiba,2008,1,N de TBP BAAR (-) nuevos,40
+La Paz,20201,Achacachi,2008,2,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10701,Camargo,2008,2,N de TBP BAAR (-) nuevos,2
+La Paz,22001,Caranavi,2008,2,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70702,Charagua,2008,2,N de TBP BAAR (-) nuevos,12
+Cochabamba,30801,Cliza,2008,2,N de TBP BAAR (-) nuevos,1
+Cochabamba,30101,Cochabamba,2008,2,N de TBP BAAR (-) nuevos,1
+Cochabamba,30905,Colcapirhua,2008,2,N de TBP BAAR (-) nuevos,1
+Cochabamba,31002,Colomi,2008,2,N de TBP BAAR (-) nuevos,1
+La Paz,21401,Coroico,2008,2,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70102,Cotoca,2008,2,N de TBP BAAR (-) nuevos,36
+Chuquisaca,10902,Culpina,2008,2,N de TBP BAAR (-) nuevos,2
+La Paz,20105,El Alto,2008,2,N de TBP BAAR (-) nuevos,5
+Santa Cruz,70105,El Torno,2008,2,N de TBP BAAR (-) nuevos,43
+La Paz,21105,La Asunta,2008,2,N de TBP BAAR (-) nuevos,1
+La Paz,20101,La Paz,2008,2,N de TBP BAAR (-) nuevos,10
+Santa Cruz,70701,Lagunillas,2008,2,N de TBP BAAR (-) nuevos,1
+Potosí,50203,Llallagua,2008,2,N de TBP BAAR (-) nuevos,1
+La Paz,21104,Palos Blancos,2008,2,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70103,Porongo,2008,2,N de TBP BAAR (-) nuevos,12
+Santa Cruz,70601,Portachuelo,2008,2,N de TBP BAAR (-) nuevos,2
+Potosí,50101,Potosi,2008,2,N de TBP BAAR (-) nuevos,3
+Cochabamba,31205,Puerto Villarroel,2008,2,N de TBP BAAR (-) nuevos,1
+Beni,80201,Riberalta,2008,2,N de TBP BAAR (-) nuevos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10403,Sopachuy,2008,2,N de TBP BAAR (-) nuevos,5
+Chuquisaca,10101,Sucre,2008,2,N de TBP BAAR (-) nuevos,5
+Tarija,60101,Tarija,2008,2,N de TBP BAAR (-) nuevos,2
+Chuquisaca,10402,Tomina,2008,2,N de TBP BAAR (-) nuevos,1
+Tarija,60401,Uriondo (a. Concepcion),2008,2,N de TBP BAAR (-) nuevos,1
+Tarija,60303,Villa Montes,2008,2,N de TBP BAAR (-) nuevos,1
+Cochabamba,31003,Villa Tunari,2008,2,N de TBP BAAR (-) nuevos,4
+La Paz,21103,Yanacachi,2008,2,N de TBP BAAR (-) nuevos,1
+Potosí,51102,"Caiza ""d""",2008,3,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70702,Charagua,2008,3,N de TBP BAAR (-) nuevos,19
+La Paz,21101,Chulumani (v. De La Libertad),2008,3,N de TBP BAAR (-) nuevos,2
+Cochabamba,30101,Cochabamba,2008,3,N de TBP BAAR (-) nuevos,1
+Potosí,50401,Colquechaca,2008,3,N de TBP BAAR (-) nuevos,1
+La Paz,21402,Coripata,2008,3,N de TBP BAAR (-) nuevos,3
+Santa Cruz,70102,Cotoca,2008,3,N de TBP BAAR (-) nuevos,1
+La Paz,20105,El Alto,2008,3,N de TBP BAAR (-) nuevos,11
+La Paz,20101,La Paz,2008,3,N de TBP BAAR (-) nuevos,18
+La Paz,21104,Palos Blancos,2008,3,N de TBP BAAR (-) nuevos,1
+Potosí,50101,Potosi,2008,3,N de TBP BAAR (-) nuevos,2
+Beni,80201,Riberalta,2008,3,N de TBP BAAR (-) nuevos,1
+Tarija,60501,San Lorenzo(tja),2008,3,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,N de TBP BAAR (-) nuevos,2
+Chuquisaca,10403,Sopachuy,2008,3,N de TBP BAAR (-) nuevos,9
+La Paz,20601,Sorata,2008,3,N de TBP BAAR (-) nuevos,3
+Chuquisaca,10101,Sucre,2008,3,N de TBP BAAR (-) nuevos,5
+Cochabamba,31601,Tiraque (cbba),2008,3,N de TBP BAAR (-) nuevos,1
+Beni,80101,Trinidad,2008,3,N de TBP BAAR (-) nuevos,1
+Potosí,50201,Uncia,2008,3,N de TBP BAAR (-) nuevos,4
+Tarija,60303,Villa Montes,2008,3,N de TBP BAAR (-) nuevos,4
+Cochabamba,31003,Villa Tunari,2008,3,N de TBP BAAR (-) nuevos,17
+Potosí,50602,Vitichi,2008,3,N de TBP BAAR (-) nuevos,5
+La Paz,20201,Achacachi,2008,4,N de TBP BAAR (-) nuevos,2
+La Paz,20502,Ayata,2008,4,N de TBP BAAR (-) nuevos,2
+Potosí,51102,"Caiza ""d""",2008,4,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70702,Charagua,2008,4,N de TBP BAAR (-) nuevos,13
+Pando,90101,Cobija,2008,4,N de TBP BAAR (-) nuevos,1
+Cochabamba,30101,Cochabamba,2008,4,N de TBP BAAR (-) nuevos,7
+Chuquisaca,10902,Culpina,2008,4,N de TBP BAAR (-) nuevos,1
+La Paz,20105,El Alto,2008,4,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70104,La Guardia,2008,4,N de TBP BAAR (-) nuevos,1
+La Paz,20101,La Paz,2008,4,N de TBP BAAR (-) nuevos,28
+Potosí,51203,Porco,2008,4,N de TBP BAAR (-) nuevos,12
+Pando,90102,Porvenir,2008,4,N de TBP BAAR (-) nuevos,1
+Potosí,50101,Potosi,2008,4,N de TBP BAAR (-) nuevos,15
+Chuquisaca,10302,Presto,2008,4,N de TBP BAAR (-) nuevos,3
+Potosí,51101,Puna,2008,4,N de TBP BAAR (-) nuevos,1
+Beni,80201,Riberalta,2008,4,N de TBP BAAR (-) nuevos,6
+Santa Cruz,70402,San Carlos,2008,4,N de TBP BAAR (-) nuevos,5
+Santa Cruz,71102,San Javier(stc),2008,4,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71104,San Julian,2008,4,N de TBP BAAR (-) nuevos,2
+Chuquisaca,10702,San Lucas,2008,4,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,N de TBP BAAR (-) nuevos,17
+Oruro,41401,Santiago De Huari,2008,4,N de TBP BAAR (-) nuevos,2
+La Paz,20601,Sorata,2008,4,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10101,Sucre,2008,4,N de TBP BAAR (-) nuevos,16
+Tarija,60101,Tarija,2008,4,N de TBP BAAR (-) nuevos,1
+La Paz,20606,Tipuani,2008,4,N de TBP BAAR (-) nuevos,1
+Cochabamba,30903,Tiquipaya,2008,4,N de TBP BAAR (-) nuevos,2
+Cochabamba,31601,Tiraque (cbba),2008,4,N de TBP BAAR (-) nuevos,1
+Beni,80101,Trinidad,2008,4,N de TBP BAAR (-) nuevos,1
+La Paz,21302,Umala,2008,4,N de TBP BAAR (-) nuevos,1
+La Paz,20801,Viacha,2008,4,N de TBP BAAR (-) nuevos,1
+Tarija,60303,Villa Montes,2008,4,N de TBP BAAR (-) nuevos,3
+Cochabamba,31003,Villa Tunari,2008,4,N de TBP BAAR (-) nuevos,9
+Santa Cruz,70201,Warnes,2008,4,N de TBP BAAR (-) nuevos,3
+Tarija,60301,Yacuiba,2008,4,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70403,Yapacani,2008,4,N de TBP BAAR (-) nuevos,14
+Potosí,50802,Atocha,2008,5,N de TBP BAAR (-) nuevos,28
+Santa Cruz,70401,Buena Vista,2008,5,N de TBP BAAR (-) nuevos,14
+Santa Cruz,70702,Charagua,2008,5,N de TBP BAAR (-) nuevos,12
+Cochabamba,31204,Chimore,2008,5,N de TBP BAAR (-) nuevos,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,5,N de TBP BAAR (-) nuevos,1
+Cochabamba,30101,Cochabamba,2008,5,N de TBP BAAR (-) nuevos,3
+La Paz,21402,Coripata,2008,5,N de TBP BAAR (-) nuevos,1
+La Paz,20105,El Alto,2008,5,N de TBP BAAR (-) nuevos,3
+Tarija,60502,El Puente(tja),2008,5,N de TBP BAAR (-) nuevos,3
+Santa Cruz,71002,General Saavedra,2008,5,N de TBP BAAR (-) nuevos,1
+La Paz,21102,Irupana (villa De Lanza),2008,5,N de TBP BAAR (-) nuevos,1
+La Paz,21105,La Asunta,2008,5,N de TBP BAAR (-) nuevos,1
+La Paz,20101,La Paz,2008,5,N de TBP BAAR (-) nuevos,20
+Santa Cruz,70701,Lagunillas,2008,5,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70903,Mairana,2008,5,N de TBP BAAR (-) nuevos,1
+Oruro,40101,Oruro,2008,5,N de TBP BAAR (-) nuevos,1
+Potosí,50101,Potosi,2008,5,N de TBP BAAR (-) nuevos,25
+Chuquisaca,10302,Presto,2008,5,N de TBP BAAR (-) nuevos,4
+Potosí,51101,Puna,2008,5,N de TBP BAAR (-) nuevos,2
+Beni,80201,Riberalta,2008,5,N de TBP BAAR (-) nuevos,1
+Cochabamba,31001,Sacaba,2008,5,N de TBP BAAR (-) nuevos,1
+Beni,80302,San Borja,2008,5,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,5,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71102,San Javier(stc),2008,5,N de TBP BAAR (-) nuevos,18
+Santa Cruz,71104,San Julian,2008,5,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10702,San Lucas,2008,5,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,N de TBP BAAR (-) nuevos,11
+Chuquisaca,10101,Sucre,2008,5,N de TBP BAAR (-) nuevos,7
+La Paz,20603,Tacacoma,2008,5,N de TBP BAAR (-) nuevos,1
+Tarija,60101,Tarija,2008,5,N de TBP BAAR (-) nuevos,1
+Beni,80101,Trinidad,2008,5,N de TBP BAAR (-) nuevos,6
+Potosí,50201,Uncia,2008,5,N de TBP BAAR (-) nuevos,19
+La Paz,20801,Viacha,2008,5,N de TBP BAAR (-) nuevos,1
+Tarija,60303,Villa Montes,2008,5,N de TBP BAAR (-) nuevos,3
+Cochabamba,31003,Villa Tunari,2008,5,N de TBP BAAR (-) nuevos,6
+Santa Cruz,70201,Warnes,2008,5,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70403,Yapacani,2008,5,N de TBP BAAR (-) nuevos,45
+Chuquisaca,10102,Yotala,2008,5,N de TBP BAAR (-) nuevos,1
+Potosí,50802,Atocha,2008,6,N de TBP BAAR (-) nuevos,17
+La Paz,22001,Caranavi,2008,6,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70702,Charagua,2008,6,N de TBP BAAR (-) nuevos,18
+Cochabamba,30101,Cochabamba,2008,6,N de TBP BAAR (-) nuevos,10
+La Paz,21402,Coripata,2008,6,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70102,Cotoca,2008,6,N de TBP BAAR (-) nuevos,3
+Santa Cruz,71106,Cuatro Cañadas,2008,6,N de TBP BAAR (-) nuevos,1
+La Paz,20105,El Alto,2008,6,N de TBP BAAR (-) nuevos,6
+Tarija,60601,Entre Rios,2008,6,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71002,General Saavedra,2008,6,N de TBP BAAR (-) nuevos,4
+La Paz,21105,La Asunta,2008,6,N de TBP BAAR (-) nuevos,1
+La Paz,20101,La Paz,2008,6,N de TBP BAAR (-) nuevos,25
+La Paz,20607,Mapiri,2008,6,N de TBP BAAR (-) nuevos,1
+Oruro,40101,Oruro,2008,6,N de TBP BAAR (-) nuevos,3
+Santa Cruz,70502,Pailon,2008,6,N de TBP BAAR (-) nuevos,13
+Potosí,51203,Porco,2008,6,N de TBP BAAR (-) nuevos,4
+Santa Cruz,70601,Portachuelo,2008,6,N de TBP BAAR (-) nuevos,3
+Potosí,50101,Potosi,2008,6,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10302,Presto,2008,6,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70805,Pucara,2008,6,N de TBP BAAR (-) nuevos,1
+Cochabamba,31401,Punata,2008,6,N de TBP BAAR (-) nuevos,1
+Beni,80201,Riberalta,2008,6,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70901,Samaipata,2008,6,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,6,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71102,San Javier(stc),2008,6,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70404,San Juan De Yapacani,2008,6,N de TBP BAAR (-) nuevos,4
+Tarija,60501,San Lorenzo(tja),2008,6,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,N de TBP BAAR (-) nuevos,16
+Chuquisaca,10101,Sucre,2008,6,N de TBP BAAR (-) nuevos,10
+Tarija,60101,Tarija,2008,6,N de TBP BAAR (-) nuevos,2
+Cochabamba,31601,Tiraque (cbba),2008,6,N de TBP BAAR (-) nuevos,1
+Potosí,50201,Uncia,2008,6,N de TBP BAAR (-) nuevos,5
+Tarija,60303,Villa Montes,2008,6,N de TBP BAAR (-) nuevos,5
+Cochabamba,31003,Villa Tunari,2008,6,N de TBP BAAR (-) nuevos,8
+Santa Cruz,70403,Yapacani,2008,6,N de TBP BAAR (-) nuevos,83
+La Paz,20202,Ancoraimes,2008,7,N de TBP BAAR (-) nuevos,1
+Potosí,50802,Atocha,2008,7,N de TBP BAAR (-) nuevos,21
+Chuquisaca,10201,Azurduy,2008,7,N de TBP BAAR (-) nuevos,1
+La Paz,21003,Cajuata,2008,7,N de TBP BAAR (-) nuevos,1
+La Paz,22001,Caranavi,2008,7,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70702,Charagua,2008,7,N de TBP BAAR (-) nuevos,5
+Cochabamba,30101,Cochabamba,2008,7,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70603,Colpa Belgica,2008,7,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70102,Cotoca,2008,7,N de TBP BAAR (-) nuevos,3
+La Paz,20105,El Alto,2008,7,N de TBP BAAR (-) nuevos,7
+Santa Cruz,71002,General Saavedra,2008,7,N de TBP BAAR (-) nuevos,9
+Beni,80202,Guayaramerin,2008,7,N de TBP BAAR (-) nuevos,1
+La Paz,20101,La Paz,2008,7,N de TBP BAAR (-) nuevos,19
+Santa Cruz,70701,Lagunillas,2008,7,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71001,Montero,2008,7,N de TBP BAAR (-) nuevos,1
+Oruro,40101,Oruro,2008,7,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70502,Pailon,2008,7,N de TBP BAAR (-) nuevos,31
+Potosí,50403,Pocoata,2008,7,N de TBP BAAR (-) nuevos,3
+Potosí,51203,Porco,2008,7,N de TBP BAAR (-) nuevos,9
+Santa Cruz,70601,Portachuelo,2008,7,N de TBP BAAR (-) nuevos,1
+Potosí,50101,Potosi,2008,7,N de TBP BAAR (-) nuevos,3
+Santa Cruz,71401,Puerto Suarez,2008,7,N de TBP BAAR (-) nuevos,3
+Beni,80201,Riberalta,2008,7,N de TBP BAAR (-) nuevos,1
+Potosí,50701,Sacaca,2008,7,N de TBP BAAR (-) nuevos,1
+Beni,80302,San Borja,2008,7,N de TBP BAAR (-) nuevos,3
+Santa Cruz,71102,San Javier(stc),2008,7,N de TBP BAAR (-) nuevos,27
+Santa Cruz,70404,San Juan De Yapacani,2008,7,N de TBP BAAR (-) nuevos,13
+Tarija,60501,San Lorenzo(tja),2008,7,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10702,San Lucas,2008,7,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71005,San Pedro,2008,7,N de TBP BAAR (-) nuevos,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,N de TBP BAAR (-) nuevos,23
+La Paz,21301,Sica Sica (villa Aroma),2008,7,N de TBP BAAR (-) nuevos,2
+La Paz,20601,Sorata,2008,7,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10101,Sucre,2008,7,N de TBP BAAR (-) nuevos,6
+Tarija,60101,Tarija,2008,7,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10402,Tomina,2008,7,N de TBP BAAR (-) nuevos,2
+Tarija,60303,Villa Montes,2008,7,N de TBP BAAR (-) nuevos,18
+Cochabamba,31003,Villa Tunari,2008,7,N de TBP BAAR (-) nuevos,6
+Tarija,60301,Yacuiba,2008,7,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70403,Yapacani,2008,7,N de TBP BAAR (-) nuevos,70
+Tarija,60202,Bermejo,2008,8,N de TBP BAAR (-) nuevos,2
+Potosí,51102,"Caiza ""d""",2008,8,N de TBP BAAR (-) nuevos,6
+Santa Cruz,70702,Charagua,2008,8,N de TBP BAAR (-) nuevos,19
+Pando,90101,Cobija,2008,8,N de TBP BAAR (-) nuevos,2
+Cochabamba,30101,Cochabamba,2008,8,N de TBP BAAR (-) nuevos,2
+Cochabamba,30905,Colcapirhua,2008,8,N de TBP BAAR (-) nuevos,1
+Potosí,50401,Colquechaca,2008,8,N de TBP BAAR (-) nuevos,1
+La Paz,21402,Coripata,2008,8,N de TBP BAAR (-) nuevos,2
+La Paz,21401,Coroico,2008,8,N de TBP BAAR (-) nuevos,2
+La Paz,20105,El Alto,2008,8,N de TBP BAAR (-) nuevos,4
+Tarija,60601,Entre Rios,2008,8,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71002,General Saavedra,2008,8,N de TBP BAAR (-) nuevos,3
+La Paz,20101,La Paz,2008,8,N de TBP BAAR (-) nuevos,17
+Santa Cruz,70701,Lagunillas,2008,8,N de TBP BAAR (-) nuevos,4
+Potosí,51401,Llica,2008,8,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70502,Pailon,2008,8,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70103,Porongo,2008,8,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70601,Portachuelo,2008,8,N de TBP BAAR (-) nuevos,7
+Potosí,50101,Potosi,2008,8,N de TBP BAAR (-) nuevos,8
+Santa Cruz,71401,Puerto Suarez,2008,8,N de TBP BAAR (-) nuevos,1
+Beni,80201,Riberalta,2008,8,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70503,Robore,2008,8,N de TBP BAAR (-) nuevos,2
+Beni,80302,San Borja,2008,8,N de TBP BAAR (-) nuevos,1
+Beni,80501,San Ignacio,2008,8,N de TBP BAAR (-) nuevos,6
+Santa Cruz,71102,San Javier(stc),2008,8,N de TBP BAAR (-) nuevos,19
+Santa Cruz,70404,San Juan De Yapacani,2008,8,N de TBP BAAR (-) nuevos,3
+Beni,80401,Santa Ana,2008,8,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,N de TBP BAAR (-) nuevos,13
+Santa Cruz,70602,Santa Rosa Del Sara,2008,8,N de TBP BAAR (-) nuevos,4
+Chuquisaca,10101,Sucre,2008,8,N de TBP BAAR (-) nuevos,8
+Tarija,60101,Tarija,2008,8,N de TBP BAAR (-) nuevos,1
+Potosí,51202,Tomave,2008,8,N de TBP BAAR (-) nuevos,5
+Tarija,60303,Villa Montes,2008,8,N de TBP BAAR (-) nuevos,31
+Cochabamba,31003,Villa Tunari,2008,8,N de TBP BAAR (-) nuevos,4
+Santa Cruz,70201,Warnes,2008,8,N de TBP BAAR (-) nuevos,2
+Tarija,60301,Yacuiba,2008,8,N de TBP BAAR (-) nuevos,4
+Santa Cruz,70403,Yapacani,2008,8,N de TBP BAAR (-) nuevos,68
+Potosí,50802,Atocha,2008,9,N de TBP BAAR (-) nuevos,26
+Chuquisaca,10201,Azurduy,2008,9,N de TBP BAAR (-) nuevos,13
+Tarija,60202,Bermejo,2008,9,N de TBP BAAR (-) nuevos,3
+Potosí,51102,"Caiza ""d""",2008,9,N de TBP BAAR (-) nuevos,2
+La Paz,22001,Caranavi,2008,9,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70702,Charagua,2008,9,N de TBP BAAR (-) nuevos,12
+Cochabamba,30101,Cochabamba,2008,9,N de TBP BAAR (-) nuevos,1
+La Paz,21401,Coroico,2008,9,N de TBP BAAR (-) nuevos,1
+La Paz,20105,El Alto,2008,9,N de TBP BAAR (-) nuevos,6
+La Paz,21102,Irupana (villa De Lanza),2008,9,N de TBP BAAR (-) nuevos,1
+La Paz,21105,La Asunta,2008,9,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70104,La Guardia,2008,9,N de TBP BAAR (-) nuevos,1
+La Paz,20101,La Paz,2008,9,N de TBP BAAR (-) nuevos,26
+Santa Cruz,70502,Pailon,2008,9,N de TBP BAAR (-) nuevos,13
+Potosí,50403,Pocoata,2008,9,N de TBP BAAR (-) nuevos,1
+Potosí,50101,Potosi,2008,9,N de TBP BAAR (-) nuevos,13
+Beni,80201,Riberalta,2008,9,N de TBP BAAR (-) nuevos,3
+Cochabamba,31001,Sacaba,2008,9,N de TBP BAAR (-) nuevos,1
+Potosí,50701,Sacaca,2008,9,N de TBP BAAR (-) nuevos,1
+Beni,80302,San Borja,2008,9,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,9,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71102,San Javier(stc),2008,9,N de TBP BAAR (-) nuevos,42
+Beni,80701,San Joaquin,2008,9,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70302,San Miguel De Velasco,2008,9,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,N de TBP BAAR (-) nuevos,6
+Santa Cruz,70602,Santa Rosa Del Sara,2008,9,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10101,Sucre,2008,9,N de TBP BAAR (-) nuevos,8
+Tarija,60101,Tarija,2008,9,N de TBP BAAR (-) nuevos,2
+Potosí,50502,Toro Toro,2008,9,N de TBP BAAR (-) nuevos,2
+Beni,80101,Trinidad,2008,9,N de TBP BAAR (-) nuevos,2
+Potosí,50201,Uncia,2008,9,N de TBP BAAR (-) nuevos,1
+Cochabamba,31003,Villa Tunari,2008,9,N de TBP BAAR (-) nuevos,4
+Cochabamba,30904,Vinto,2008,9,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70403,Yapacani,2008,9,N de TBP BAAR (-) nuevos,92
+Potosí,50802,Atocha,2008,10,N de TBP BAAR (-) nuevos,27
+La Paz,21203,Batallas,2008,10,N de TBP BAAR (-) nuevos,1
+Potosí,51102,"Caiza ""d""",2008,10,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10701,Camargo,2008,10,N de TBP BAAR (-) nuevos,1
+Tarija,60302,Carapari,2008,10,N de TBP BAAR (-) nuevos,3
+Santa Cruz,70702,Charagua,2008,10,N de TBP BAAR (-) nuevos,13
+Cochabamba,30101,Cochabamba,2008,10,N de TBP BAAR (-) nuevos,3
+Chuquisaca,10902,Culpina,2008,10,N de TBP BAAR (-) nuevos,1
+La Paz,20105,El Alto,2008,10,N de TBP BAAR (-) nuevos,7
+Tarija,60502,El Puente(tja),2008,10,N de TBP BAAR (-) nuevos,1
+La Paz,21105,La Asunta,2008,10,N de TBP BAAR (-) nuevos,1
+La Paz,20101,La Paz,2008,10,N de TBP BAAR (-) nuevos,15
+Santa Cruz,70202,Okinawa,2008,10,N de TBP BAAR (-) nuevos,1
+Oruro,40101,Oruro,2008,10,N de TBP BAAR (-) nuevos,1
+Tarija,60201,Padcaya,2008,10,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70502,Pailon,2008,10,N de TBP BAAR (-) nuevos,9
+La Paz,21305,Patacamaya,2008,10,N de TBP BAAR (-) nuevos,1
+Potosí,51203,Porco,2008,10,N de TBP BAAR (-) nuevos,6
+Potosí,50101,Potosi,2008,10,N de TBP BAAR (-) nuevos,2
+Beni,80201,Riberalta,2008,10,N de TBP BAAR (-) nuevos,1
+Beni,80501,San Ignacio,2008,10,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,10,N de TBP BAAR (-) nuevos,3
+Santa Cruz,71102,San Javier(stc),2008,10,N de TBP BAAR (-) nuevos,27
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,N de TBP BAAR (-) nuevos,9
+Chuquisaca,10101,Sucre,2008,10,N de TBP BAAR (-) nuevos,11
+Tarija,60101,Tarija,2008,10,N de TBP BAAR (-) nuevos,2
+Potosí,51202,Tomave,2008,10,N de TBP BAAR (-) nuevos,1
+Potosí,50502,Toro Toro,2008,10,N de TBP BAAR (-) nuevos,1
+Beni,80101,Trinidad,2008,10,N de TBP BAAR (-) nuevos,1
+Potosí,50801,Tupiza,2008,10,N de TBP BAAR (-) nuevos,1
+Tarija,60303,Villa Montes,2008,10,N de TBP BAAR (-) nuevos,1
+Cochabamba,31003,Villa Tunari,2008,10,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70201,Warnes,2008,10,N de TBP BAAR (-) nuevos,1
+Potosí,50802,Atocha,2008,11,N de TBP BAAR (-) nuevos,15
+Potosí,51102,"Caiza ""d""",2008,11,N de TBP BAAR (-) nuevos,5
+La Paz,21003,Cajuata,2008,11,N de TBP BAAR (-) nuevos,1
+Tarija,60302,Carapari,2008,11,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70702,Charagua,2008,11,N de TBP BAAR (-) nuevos,10
+Pando,90101,Cobija,2008,11,N de TBP BAAR (-) nuevos,4
+Cochabamba,30101,Cochabamba,2008,11,N de TBP BAAR (-) nuevos,7
+Potosí,50401,Colquechaca,2008,11,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71301,Comarapa,2008,11,N de TBP BAAR (-) nuevos,3
+La Paz,21401,Coroico,2008,11,N de TBP BAAR (-) nuevos,1
+La Paz,20105,El Alto,2008,11,N de TBP BAAR (-) nuevos,8
+Beni,80202,Guayaramerin,2008,11,N de TBP BAAR (-) nuevos,1
+Oruro,40701,Huanuni,2008,11,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10703,Incahuasi,2008,11,N de TBP BAAR (-) nuevos,2
+La Paz,21105,La Asunta,2008,11,N de TBP BAAR (-) nuevos,1
+La Paz,20101,La Paz,2008,11,N de TBP BAAR (-) nuevos,24
+Santa Cruz,70701,Lagunillas,2008,11,N de TBP BAAR (-) nuevos,1
+Potosí,50203,Llallagua,2008,11,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10501,Monteagudo,2008,11,N de TBP BAAR (-) nuevos,1
+Potosí,50404,Ocuri,2008,11,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70202,Okinawa,2008,11,N de TBP BAAR (-) nuevos,1
+Oruro,40101,Oruro,2008,11,N de TBP BAAR (-) nuevos,1
+La Paz,21104,Palos Blancos,2008,11,N de TBP BAAR (-) nuevos,1
+Potosí,51203,Porco,2008,11,N de TBP BAAR (-) nuevos,6
+Santa Cruz,70601,Portachuelo,2008,11,N de TBP BAAR (-) nuevos,12
+Potosí,50101,Potosi,2008,11,N de TBP BAAR (-) nuevos,1
+Chuquisaca,10302,Presto,2008,11,N de TBP BAAR (-) nuevos,4
+Beni,80201,Riberalta,2008,11,N de TBP BAAR (-) nuevos,3
+Santa Cruz,70503,Robore,2008,11,N de TBP BAAR (-) nuevos,1
+Cochabamba,31403,San Benito,2008,11,N de TBP BAAR (-) nuevos,1
+Beni,80302,San Borja,2008,11,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70402,San Carlos,2008,11,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71102,San Javier(stc),2008,11,N de TBP BAAR (-) nuevos,30
+Santa Cruz,70404,San Juan De Yapacani,2008,11,N de TBP BAAR (-) nuevos,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,N de TBP BAAR (-) nuevos,25
+Chuquisaca,10101,Sucre,2008,11,N de TBP BAAR (-) nuevos,3
+Tarija,60101,Tarija,2008,11,N de TBP BAAR (-) nuevos,4
+Cochabamba,30903,Tiquipaya,2008,11,N de TBP BAAR (-) nuevos,1
+Beni,80101,Trinidad,2008,11,N de TBP BAAR (-) nuevos,1
+Tarija,60303,Villa Montes,2008,11,N de TBP BAAR (-) nuevos,1
+Cochabamba,31003,Villa Tunari,2008,11,N de TBP BAAR (-) nuevos,2
+Santa Cruz,70201,Warnes,2008,11,N de TBP BAAR (-) nuevos,1
+Tarija,60301,Yacuiba,2008,11,N de TBP BAAR (-) nuevos,3
+La Paz,20201,Achacachi,2008,12,N de TBP BAAR (-) nuevos,1
+Potosí,50802,Atocha,2008,12,N de TBP BAAR (-) nuevos,13
+La Paz,21303,Ayo Ayo,2008,12,N de TBP BAAR (-) nuevos,3
+Potosí,51102,"Caiza ""d""",2008,12,N de TBP BAAR (-) nuevos,2
+Cochabamba,31204,Chimore,2008,12,N de TBP BAAR (-) nuevos,1
+Pando,90101,Cobija,2008,12,N de TBP BAAR (-) nuevos,3
+Cochabamba,30101,Cochabamba,2008,12,N de TBP BAAR (-) nuevos,3
+Santa Cruz,71301,Comarapa,2008,12,N de TBP BAAR (-) nuevos,11
+La Paz,20105,El Alto,2008,12,N de TBP BAAR (-) nuevos,7
+La Paz,20101,La Paz,2008,12,N de TBP BAAR (-) nuevos,9
+Santa Cruz,71001,Montero,2008,12,N de TBP BAAR (-) nuevos,1
+Oruro,40101,Oruro,2008,12,N de TBP BAAR (-) nuevos,3
+Santa Cruz,70601,Portachuelo,2008,12,N de TBP BAAR (-) nuevos,3
+Potosí,50101,Potosi,2008,12,N de TBP BAAR (-) nuevos,55
+Potosí,51101,Puna,2008,12,N de TBP BAAR (-) nuevos,1
+Beni,80201,Riberalta,2008,12,N de TBP BAAR (-) nuevos,1
+Cochabamba,31001,Sacaba,2008,12,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71102,San Javier(stc),2008,12,N de TBP BAAR (-) nuevos,27
+Santa Cruz,70501,San Jose De Chiquitos,2008,12,N de TBP BAAR (-) nuevos,14
+Santa Cruz,70404,San Juan De Yapacani,2008,12,N de TBP BAAR (-) nuevos,1
+Santa Cruz,71104,San Julian,2008,12,N de TBP BAAR (-) nuevos,13
+Santa Cruz,71005,San Pedro,2008,12,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,N de TBP BAAR (-) nuevos,8
+Chuquisaca,10101,Sucre,2008,12,N de TBP BAAR (-) nuevos,7
+Tarija,60101,Tarija,2008,12,N de TBP BAAR (-) nuevos,3
+La Paz,20606,Tipuani,2008,12,N de TBP BAAR (-) nuevos,1
+Cochabamba,31601,Tiraque (cbba),2008,12,N de TBP BAAR (-) nuevos,2
+Potosí,50801,Tupiza,2008,12,N de TBP BAAR (-) nuevos,1
+Tarija,60401,Uriondo (a. Concepcion),2008,12,N de TBP BAAR (-) nuevos,1
+Tarija,60303,Villa Montes,2008,12,N de TBP BAAR (-) nuevos,1
+Santa Cruz,70201,Warnes,2008,12,N de TBP BAAR (-) nuevos,3
+Tarija,60301,Yacuiba,2008,12,N de TBP BAAR (-) nuevos,1
+Tarija,60202,Bermejo,2008,1,TOTAL,3
+Santa Cruz,70702,Charagua,2008,1,TOTAL,14
+Cochabamba,30101,Cochabamba,2008,1,TOTAL,2
+Santa Cruz,70102,Cotoca,2008,1,TOTAL,33
+La Paz,20105,El Alto,2008,1,TOTAL,8
+Santa Cruz,70105,El Torno,2008,1,TOTAL,44
+Chuquisaca,11002,Huacaya (villa De Huacaya),2008,1,TOTAL,4
+La Paz,21102,Irupana (villa De Lanza),2008,1,TOTAL,1
+La Paz,21105,La Asunta,2008,1,TOTAL,2
+Santa Cruz,70104,La Guardia,2008,1,TOTAL,1
+La Paz,20101,La Paz,2008,1,TOTAL,20
+La Paz,20607,Mapiri,2008,1,TOTAL,1
+Oruro,40101,Oruro,2008,1,TOTAL,3
+Santa Cruz,70103,Porongo,2008,1,TOTAL,9
+Potosí,50101,Potosi,2008,1,TOTAL,3
+Chuquisaca,10302,Presto,2008,1,TOTAL,5
+Cochabamba,31401,Punata,2008,1,TOTAL,2
+Cochabamba,30901,Quillacollo,2008,1,TOTAL,1
+Beni,80201,Riberalta,2008,1,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTAL,4
+La Paz,20601,Sorata,2008,1,TOTAL,1
+Chuquisaca,10101,Sucre,2008,1,TOTAL,7
+La Paz,20603,Tacacoma,2008,1,TOTAL,1
+Tarija,60101,Tarija,2008,1,TOTAL,1
+Beni,80101,Trinidad,2008,1,TOTAL,2
+Potosí,50201,Uncia,2008,1,TOTAL,1
+Tarija,60303,Villa Montes,2008,1,TOTAL,6
+Cochabamba,31003,Villa Tunari,2008,1,TOTAL,1
+Tarija,60301,Yacuiba,2008,1,TOTAL,40
+La Paz,20201,Achacachi,2008,2,TOTAL,1
+Chuquisaca,10701,Camargo,2008,2,TOTAL,2
+La Paz,22001,Caranavi,2008,2,TOTAL,2
+Santa Cruz,70702,Charagua,2008,2,TOTAL,12
+Cochabamba,30801,Cliza,2008,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,2,TOTAL,1
+Cochabamba,30905,Colcapirhua,2008,2,TOTAL,1
+Cochabamba,31002,Colomi,2008,2,TOTAL,1
+La Paz,21401,Coroico,2008,2,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,2,TOTAL,36
+Chuquisaca,10902,Culpina,2008,2,TOTAL,2
+La Paz,20105,El Alto,2008,2,TOTAL,5
+Santa Cruz,70105,El Torno,2008,2,TOTAL,43
+La Paz,21105,La Asunta,2008,2,TOTAL,1
+La Paz,20101,La Paz,2008,2,TOTAL,10
+Santa Cruz,70701,Lagunillas,2008,2,TOTAL,1
+Potosí,50203,Llallagua,2008,2,TOTAL,1
+La Paz,21104,Palos Blancos,2008,2,TOTAL,1
+Santa Cruz,70103,Porongo,2008,2,TOTAL,12
+Santa Cruz,70601,Portachuelo,2008,2,TOTAL,2
+Potosí,50101,Potosi,2008,2,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2008,2,TOTAL,1
+Beni,80201,Riberalta,2008,2,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,TOTAL,1
+Chuquisaca,10403,Sopachuy,2008,2,TOTAL,5
+Chuquisaca,10101,Sucre,2008,2,TOTAL,5
+Tarija,60101,Tarija,2008,2,TOTAL,2
+Chuquisaca,10402,Tomina,2008,2,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2008,2,TOTAL,1
+Tarija,60303,Villa Montes,2008,2,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,2,TOTAL,4
+La Paz,21103,Yanacachi,2008,2,TOTAL,1
+Potosí,51102,"Caiza ""d""",2008,3,TOTAL,2
+Santa Cruz,70702,Charagua,2008,3,TOTAL,19
+La Paz,21101,Chulumani (v. De La Libertad),2008,3,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,3,TOTAL,1
+Potosí,50401,Colquechaca,2008,3,TOTAL,1
+La Paz,21402,Coripata,2008,3,TOTAL,3
+Santa Cruz,70102,Cotoca,2008,3,TOTAL,1
+La Paz,20105,El Alto,2008,3,TOTAL,11
+La Paz,20101,La Paz,2008,3,TOTAL,18
+La Paz,21104,Palos Blancos,2008,3,TOTAL,1
+Potosí,50101,Potosi,2008,3,TOTAL,2
+Beni,80201,Riberalta,2008,3,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2008,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTAL,2
+Chuquisaca,10403,Sopachuy,2008,3,TOTAL,9
+La Paz,20601,Sorata,2008,3,TOTAL,3
+Chuquisaca,10101,Sucre,2008,3,TOTAL,5
+Cochabamba,31601,Tiraque (cbba),2008,3,TOTAL,1
+Beni,80101,Trinidad,2008,3,TOTAL,1
+Potosí,50201,Uncia,2008,3,TOTAL,4
+Tarija,60303,Villa Montes,2008,3,TOTAL,4
+Cochabamba,31003,Villa Tunari,2008,3,TOTAL,17
+Potosí,50602,Vitichi,2008,3,TOTAL,5
+La Paz,20201,Achacachi,2008,4,TOTAL,2
+La Paz,20502,Ayata,2008,4,TOTAL,2
+Potosí,51102,"Caiza ""d""",2008,4,TOTAL,2
+Santa Cruz,70702,Charagua,2008,4,TOTAL,13
+Pando,90101,Cobija,2008,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,4,TOTAL,7
+Chuquisaca,10902,Culpina,2008,4,TOTAL,1
+La Paz,20105,El Alto,2008,4,TOTAL,2
+Santa Cruz,70104,La Guardia,2008,4,TOTAL,1
+La Paz,20101,La Paz,2008,4,TOTAL,28
+Potosí,51203,Porco,2008,4,TOTAL,12
+Pando,90102,Porvenir,2008,4,TOTAL,1
+Potosí,50101,Potosi,2008,4,TOTAL,15
+Chuquisaca,10302,Presto,2008,4,TOTAL,3
+Potosí,51101,Puna,2008,4,TOTAL,1
+Beni,80201,Riberalta,2008,4,TOTAL,6
+Santa Cruz,70402,San Carlos,2008,4,TOTAL,5
+Santa Cruz,71102,San Javier(stc),2008,4,TOTAL,1
+Santa Cruz,71104,San Julian,2008,4,TOTAL,2
+Chuquisaca,10702,San Lucas,2008,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTAL,17
+Oruro,41401,Santiago De Huari,2008,4,TOTAL,2
+La Paz,20601,Sorata,2008,4,TOTAL,1
+Chuquisaca,10101,Sucre,2008,4,TOTAL,16
+Tarija,60101,Tarija,2008,4,TOTAL,1
+La Paz,20606,Tipuani,2008,4,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,4,TOTAL,2
+Cochabamba,31601,Tiraque (cbba),2008,4,TOTAL,1
+Beni,80101,Trinidad,2008,4,TOTAL,1
+La Paz,21302,Umala,2008,4,TOTAL,1
+La Paz,20801,Viacha,2008,4,TOTAL,1
+Tarija,60303,Villa Montes,2008,4,TOTAL,3
+Cochabamba,31003,Villa Tunari,2008,4,TOTAL,9
+Santa Cruz,70201,Warnes,2008,4,TOTAL,3
+Tarija,60301,Yacuiba,2008,4,TOTAL,2
+Santa Cruz,70403,Yapacani,2008,4,TOTAL,14
+Potosí,50802,Atocha,2008,5,TOTAL,28
+Santa Cruz,70401,Buena Vista,2008,5,TOTAL,14
+Santa Cruz,70702,Charagua,2008,5,TOTAL,12
+Cochabamba,31204,Chimore,2008,5,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,5,TOTAL,3
+La Paz,21402,Coripata,2008,5,TOTAL,1
+La Paz,20105,El Alto,2008,5,TOTAL,3
+Tarija,60502,El Puente(tja),2008,5,TOTAL,3
+Santa Cruz,71002,General Saavedra,2008,5,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2008,5,TOTAL,1
+La Paz,21105,La Asunta,2008,5,TOTAL,1
+La Paz,20101,La Paz,2008,5,TOTAL,20
+Santa Cruz,70701,Lagunillas,2008,5,TOTAL,1
+Santa Cruz,70903,Mairana,2008,5,TOTAL,1
+Oruro,40101,Oruro,2008,5,TOTAL,1
+Potosí,50101,Potosi,2008,5,TOTAL,25
+Chuquisaca,10302,Presto,2008,5,TOTAL,4
+Potosí,51101,Puna,2008,5,TOTAL,2
+Beni,80201,Riberalta,2008,5,TOTAL,1
+Cochabamba,31001,Sacaba,2008,5,TOTAL,1
+Beni,80302,San Borja,2008,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,5,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2008,5,TOTAL,18
+Santa Cruz,71104,San Julian,2008,5,TOTAL,1
+Chuquisaca,10702,San Lucas,2008,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTAL,11
+Chuquisaca,10101,Sucre,2008,5,TOTAL,7
+La Paz,20603,Tacacoma,2008,5,TOTAL,1
+Tarija,60101,Tarija,2008,5,TOTAL,1
+Beni,80101,Trinidad,2008,5,TOTAL,6
+Potosí,50201,Uncia,2008,5,TOTAL,19
+La Paz,20801,Viacha,2008,5,TOTAL,1
+Tarija,60303,Villa Montes,2008,5,TOTAL,3
+Cochabamba,31003,Villa Tunari,2008,5,TOTAL,6
+Santa Cruz,70201,Warnes,2008,5,TOTAL,1
+Santa Cruz,70403,Yapacani,2008,5,TOTAL,45
+Chuquisaca,10102,Yotala,2008,5,TOTAL,1
+Potosí,50802,Atocha,2008,6,TOTAL,17
+La Paz,22001,Caranavi,2008,6,TOTAL,1
+Santa Cruz,70702,Charagua,2008,6,TOTAL,18
+Cochabamba,30101,Cochabamba,2008,6,TOTAL,10
+La Paz,21402,Coripata,2008,6,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,6,TOTAL,3
+Santa Cruz,71106,Cuatro Cañadas,2008,6,TOTAL,1
+La Paz,20105,El Alto,2008,6,TOTAL,6
+Tarija,60601,Entre Rios,2008,6,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,6,TOTAL,4
+La Paz,21105,La Asunta,2008,6,TOTAL,1
+La Paz,20101,La Paz,2008,6,TOTAL,25
+La Paz,20607,Mapiri,2008,6,TOTAL,1
+Oruro,40101,Oruro,2008,6,TOTAL,3
+Santa Cruz,70502,Pailon,2008,6,TOTAL,13
+Potosí,51203,Porco,2008,6,TOTAL,4
+Santa Cruz,70601,Portachuelo,2008,6,TOTAL,3
+Potosí,50101,Potosi,2008,6,TOTAL,1
+Chuquisaca,10302,Presto,2008,6,TOTAL,2
+Santa Cruz,70805,Pucara,2008,6,TOTAL,1
+Cochabamba,31401,Punata,2008,6,TOTAL,1
+Beni,80201,Riberalta,2008,6,TOTAL,1
+Santa Cruz,70901,Samaipata,2008,6,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,6,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2008,6,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2008,6,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2008,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTAL,16
+Chuquisaca,10101,Sucre,2008,6,TOTAL,10
+Tarija,60101,Tarija,2008,6,TOTAL,2
+Cochabamba,31601,Tiraque (cbba),2008,6,TOTAL,1
+Potosí,50201,Uncia,2008,6,TOTAL,5
+Tarija,60303,Villa Montes,2008,6,TOTAL,5
+Cochabamba,31003,Villa Tunari,2008,6,TOTAL,8
+Santa Cruz,70403,Yapacani,2008,6,TOTAL,83
+La Paz,20202,Ancoraimes,2008,7,TOTAL,1
+Potosí,50802,Atocha,2008,7,TOTAL,21
+Chuquisaca,10201,Azurduy,2008,7,TOTAL,1
+La Paz,21003,Cajuata,2008,7,TOTAL,1
+La Paz,22001,Caranavi,2008,7,TOTAL,1
+Santa Cruz,70702,Charagua,2008,7,TOTAL,5
+Cochabamba,30101,Cochabamba,2008,7,TOTAL,1
+Santa Cruz,70603,Colpa Belgica,2008,7,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,7,TOTAL,3
+La Paz,20105,El Alto,2008,7,TOTAL,7
+Santa Cruz,71002,General Saavedra,2008,7,TOTAL,9
+Beni,80202,Guayaramerin,2008,7,TOTAL,1
+La Paz,20101,La Paz,2008,7,TOTAL,19
+Santa Cruz,70701,Lagunillas,2008,7,TOTAL,1
+Santa Cruz,71001,Montero,2008,7,TOTAL,1
+Oruro,40101,Oruro,2008,7,TOTAL,1
+Santa Cruz,70502,Pailon,2008,7,TOTAL,31
+Potosí,50403,Pocoata,2008,7,TOTAL,3
+Potosí,51203,Porco,2008,7,TOTAL,9
+Santa Cruz,70601,Portachuelo,2008,7,TOTAL,1
+Potosí,50101,Potosi,2008,7,TOTAL,3
+Santa Cruz,71401,Puerto Suarez,2008,7,TOTAL,3
+Beni,80201,Riberalta,2008,7,TOTAL,1
+Potosí,50701,Sacaca,2008,7,TOTAL,1
+Beni,80302,San Borja,2008,7,TOTAL,3
+Santa Cruz,71102,San Javier(stc),2008,7,TOTAL,27
+Santa Cruz,70404,San Juan De Yapacani,2008,7,TOTAL,13
+Tarija,60501,San Lorenzo(tja),2008,7,TOTAL,1
+Chuquisaca,10702,San Lucas,2008,7,TOTAL,1
+Santa Cruz,71005,San Pedro,2008,7,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTAL,23
+La Paz,21301,Sica Sica (villa Aroma),2008,7,TOTAL,2
+La Paz,20601,Sorata,2008,7,TOTAL,1
+Chuquisaca,10101,Sucre,2008,7,TOTAL,6
+Tarija,60101,Tarija,2008,7,TOTAL,1
+Chuquisaca,10402,Tomina,2008,7,TOTAL,2
+Tarija,60303,Villa Montes,2008,7,TOTAL,18
+Cochabamba,31003,Villa Tunari,2008,7,TOTAL,6
+Tarija,60301,Yacuiba,2008,7,TOTAL,1
+Santa Cruz,70403,Yapacani,2008,7,TOTAL,70
+Tarija,60202,Bermejo,2008,8,TOTAL,2
+Potosí,51102,"Caiza ""d""",2008,8,TOTAL,6
+Santa Cruz,70702,Charagua,2008,8,TOTAL,19
+Pando,90101,Cobija,2008,8,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,8,TOTAL,2
+Cochabamba,30905,Colcapirhua,2008,8,TOTAL,1
+Potosí,50401,Colquechaca,2008,8,TOTAL,1
+La Paz,21402,Coripata,2008,8,TOTAL,2
+La Paz,21401,Coroico,2008,8,TOTAL,2
+La Paz,20105,El Alto,2008,8,TOTAL,4
+Tarija,60601,Entre Rios,2008,8,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,8,TOTAL,3
+La Paz,20101,La Paz,2008,8,TOTAL,17
+Santa Cruz,70701,Lagunillas,2008,8,TOTAL,4
+Potosí,51401,Llica,2008,8,TOTAL,2
+Santa Cruz,70502,Pailon,2008,8,TOTAL,2
+Santa Cruz,70103,Porongo,2008,8,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,8,TOTAL,7
+Potosí,50101,Potosi,2008,8,TOTAL,8
+Santa Cruz,71401,Puerto Suarez,2008,8,TOTAL,1
+Beni,80201,Riberalta,2008,8,TOTAL,1
+Santa Cruz,70503,Robore,2008,8,TOTAL,2
+Beni,80302,San Borja,2008,8,TOTAL,1
+Beni,80501,San Ignacio,2008,8,TOTAL,6
+Santa Cruz,71102,San Javier(stc),2008,8,TOTAL,19
+Santa Cruz,70404,San Juan De Yapacani,2008,8,TOTAL,3
+Beni,80401,Santa Ana,2008,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTAL,13
+Santa Cruz,70602,Santa Rosa Del Sara,2008,8,TOTAL,4
+Chuquisaca,10101,Sucre,2008,8,TOTAL,8
+Tarija,60101,Tarija,2008,8,TOTAL,1
+Potosí,51202,Tomave,2008,8,TOTAL,5
+Tarija,60303,Villa Montes,2008,8,TOTAL,31
+Cochabamba,31003,Villa Tunari,2008,8,TOTAL,4
+Santa Cruz,70201,Warnes,2008,8,TOTAL,2
+Tarija,60301,Yacuiba,2008,8,TOTAL,4
+Santa Cruz,70403,Yapacani,2008,8,TOTAL,68
+Potosí,50802,Atocha,2008,9,TOTAL,26
+Chuquisaca,10201,Azurduy,2008,9,TOTAL,13
+Tarija,60202,Bermejo,2008,9,TOTAL,3
+Potosí,51102,"Caiza ""d""",2008,9,TOTAL,2
+La Paz,22001,Caranavi,2008,9,TOTAL,1
+Santa Cruz,70702,Charagua,2008,9,TOTAL,12
+Cochabamba,30101,Cochabamba,2008,9,TOTAL,1
+La Paz,21401,Coroico,2008,9,TOTAL,1
+La Paz,20105,El Alto,2008,9,TOTAL,6
+La Paz,21102,Irupana (villa De Lanza),2008,9,TOTAL,1
+La Paz,21105,La Asunta,2008,9,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,9,TOTAL,1
+La Paz,20101,La Paz,2008,9,TOTAL,26
+Santa Cruz,70502,Pailon,2008,9,TOTAL,13
+Potosí,50403,Pocoata,2008,9,TOTAL,1
+Potosí,50101,Potosi,2008,9,TOTAL,13
+Beni,80201,Riberalta,2008,9,TOTAL,3
+Cochabamba,31001,Sacaba,2008,9,TOTAL,1
+Potosí,50701,Sacaca,2008,9,TOTAL,1
+Beni,80302,San Borja,2008,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,9,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2008,9,TOTAL,42
+Beni,80701,San Joaquin,2008,9,TOTAL,2
+Santa Cruz,70302,San Miguel De Velasco,2008,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTAL,6
+Santa Cruz,70602,Santa Rosa Del Sara,2008,9,TOTAL,1
+Chuquisaca,10101,Sucre,2008,9,TOTAL,8
+Tarija,60101,Tarija,2008,9,TOTAL,2
+Potosí,50502,Toro Toro,2008,9,TOTAL,2
+Beni,80101,Trinidad,2008,9,TOTAL,2
+Potosí,50201,Uncia,2008,9,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,9,TOTAL,4
+Cochabamba,30904,Vinto,2008,9,TOTAL,1
+Santa Cruz,70403,Yapacani,2008,9,TOTAL,92
+Potosí,50802,Atocha,2008,10,TOTAL,27
+La Paz,21203,Batallas,2008,10,TOTAL,1
+Potosí,51102,"Caiza ""d""",2008,10,TOTAL,1
+Chuquisaca,10701,Camargo,2008,10,TOTAL,1
+Tarija,60302,Carapari,2008,10,TOTAL,3
+Santa Cruz,70702,Charagua,2008,10,TOTAL,13
+Cochabamba,30101,Cochabamba,2008,10,TOTAL,3
+Chuquisaca,10902,Culpina,2008,10,TOTAL,1
+La Paz,20105,El Alto,2008,10,TOTAL,7
+Tarija,60502,El Puente(tja),2008,10,TOTAL,1
+La Paz,21105,La Asunta,2008,10,TOTAL,1
+La Paz,20101,La Paz,2008,10,TOTAL,15
+Santa Cruz,70202,Okinawa,2008,10,TOTAL,1
+Oruro,40101,Oruro,2008,10,TOTAL,1
+Tarija,60201,Padcaya,2008,10,TOTAL,1
+Santa Cruz,70502,Pailon,2008,10,TOTAL,9
+La Paz,21305,Patacamaya,2008,10,TOTAL,1
+Potosí,51203,Porco,2008,10,TOTAL,6
+Potosí,50101,Potosi,2008,10,TOTAL,2
+Beni,80201,Riberalta,2008,10,TOTAL,1
+Beni,80501,San Ignacio,2008,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,10,TOTAL,3
+Santa Cruz,71102,San Javier(stc),2008,10,TOTAL,27
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTAL,9
+Chuquisaca,10101,Sucre,2008,10,TOTAL,11
+Tarija,60101,Tarija,2008,10,TOTAL,2
+Potosí,51202,Tomave,2008,10,TOTAL,1
+Potosí,50502,Toro Toro,2008,10,TOTAL,1
+Beni,80101,Trinidad,2008,10,TOTAL,1
+Potosí,50801,Tupiza,2008,10,TOTAL,1
+Tarija,60303,Villa Montes,2008,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,10,TOTAL,1
+Santa Cruz,70201,Warnes,2008,10,TOTAL,1
+Potosí,50802,Atocha,2008,11,TOTAL,15
+Potosí,51102,"Caiza ""d""",2008,11,TOTAL,5
+La Paz,21003,Cajuata,2008,11,TOTAL,1
+Tarija,60302,Carapari,2008,11,TOTAL,1
+Santa Cruz,70702,Charagua,2008,11,TOTAL,10
+Pando,90101,Cobija,2008,11,TOTAL,4
+Cochabamba,30101,Cochabamba,2008,11,TOTAL,7
+Potosí,50401,Colquechaca,2008,11,TOTAL,1
+Santa Cruz,71301,Comarapa,2008,11,TOTAL,3
+La Paz,21401,Coroico,2008,11,TOTAL,1
+La Paz,20105,El Alto,2008,11,TOTAL,8
+Beni,80202,Guayaramerin,2008,11,TOTAL,1
+Oruro,40701,Huanuni,2008,11,TOTAL,1
+Chuquisaca,10703,Incahuasi,2008,11,TOTAL,2
+La Paz,21105,La Asunta,2008,11,TOTAL,1
+La Paz,20101,La Paz,2008,11,TOTAL,24
+Santa Cruz,70701,Lagunillas,2008,11,TOTAL,1
+Potosí,50203,Llallagua,2008,11,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,11,TOTAL,1
+Potosí,50404,Ocuri,2008,11,TOTAL,1
+Santa Cruz,70202,Okinawa,2008,11,TOTAL,1
+Oruro,40101,Oruro,2008,11,TOTAL,1
+La Paz,21104,Palos Blancos,2008,11,TOTAL,1
+Potosí,51203,Porco,2008,11,TOTAL,6
+Santa Cruz,70601,Portachuelo,2008,11,TOTAL,12
+Potosí,50101,Potosi,2008,11,TOTAL,1
+Chuquisaca,10302,Presto,2008,11,TOTAL,4
+Beni,80201,Riberalta,2008,11,TOTAL,3
+Santa Cruz,70503,Robore,2008,11,TOTAL,1
+Cochabamba,31403,San Benito,2008,11,TOTAL,1
+Beni,80302,San Borja,2008,11,TOTAL,2
+Santa Cruz,70402,San Carlos,2008,11,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2008,11,TOTAL,30
+Santa Cruz,70404,San Juan De Yapacani,2008,11,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTAL,25
+Chuquisaca,10101,Sucre,2008,11,TOTAL,3
+Tarija,60101,Tarija,2008,11,TOTAL,4
+Cochabamba,30903,Tiquipaya,2008,11,TOTAL,1
+Beni,80101,Trinidad,2008,11,TOTAL,1
+Tarija,60303,Villa Montes,2008,11,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,11,TOTAL,2
+Santa Cruz,70201,Warnes,2008,11,TOTAL,1
+Tarija,60301,Yacuiba,2008,11,TOTAL,3
+La Paz,20201,Achacachi,2008,12,TOTAL,1
+Potosí,50802,Atocha,2008,12,TOTAL,13
+La Paz,21303,Ayo Ayo,2008,12,TOTAL,3
+Potosí,51102,"Caiza ""d""",2008,12,TOTAL,2
+Cochabamba,31204,Chimore,2008,12,TOTAL,1
+Pando,90101,Cobija,2008,12,TOTAL,3
+Cochabamba,30101,Cochabamba,2008,12,TOTAL,3
+Santa Cruz,71301,Comarapa,2008,12,TOTAL,11
+La Paz,20105,El Alto,2008,12,TOTAL,7
+La Paz,20101,La Paz,2008,12,TOTAL,9
+Santa Cruz,71001,Montero,2008,12,TOTAL,1
+Oruro,40101,Oruro,2008,12,TOTAL,3
+Santa Cruz,70601,Portachuelo,2008,12,TOTAL,3
+Potosí,50101,Potosi,2008,12,TOTAL,55
+Potosí,51101,Puna,2008,12,TOTAL,1
+Beni,80201,Riberalta,2008,12,TOTAL,1
+Cochabamba,31001,Sacaba,2008,12,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2008,12,TOTAL,27
+Santa Cruz,70501,San Jose De Chiquitos,2008,12,TOTAL,14
+Santa Cruz,70404,San Juan De Yapacani,2008,12,TOTAL,1
+Santa Cruz,71104,San Julian,2008,12,TOTAL,13
+Santa Cruz,71005,San Pedro,2008,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,TOTAL,8
+Chuquisaca,10101,Sucre,2008,12,TOTAL,7
+Tarija,60101,Tarija,2008,12,TOTAL,3
+La Paz,20606,Tipuani,2008,12,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2008,12,TOTAL,2
+Potosí,50801,Tupiza,2008,12,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2008,12,TOTAL,1
+Tarija,60303,Villa Montes,2008,12,TOTAL,1
+Santa Cruz,70201,Warnes,2008,12,TOTAL,3
+Tarija,60301,Yacuiba,2008,12,TOTAL,1

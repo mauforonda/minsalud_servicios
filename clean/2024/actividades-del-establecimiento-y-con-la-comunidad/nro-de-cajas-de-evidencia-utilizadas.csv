@@ -1,0 +1,71 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10702,San Lucas,2024,1,9.26 Nro de cajas de evidencia utilizadas,2
+Potosí,50201,Uncia,2024,1,9.26 Nro de cajas de evidencia utilizadas,1
+La Paz,20105,El Alto,2024,2,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,50702,Caripuyo,2024,3,9.26 Nro de cajas de evidencia utilizadas,1
+Chuquisaca,10702,San Lucas,2024,3,9.26 Nro de cajas de evidencia utilizadas,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,9.26 Nro de cajas de evidencia utilizadas,2
+Chuquisaca,10704,Villa Charcas,2024,3,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,50702,Caripuyo,2024,4,9.26 Nro de cajas de evidencia utilizadas,1
+Chuquisaca,10405,El Villar,2024,4,9.26 Nro de cajas de evidencia utilizadas,1
+Chuquisaca,10702,San Lucas,2024,4,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,50401,Colquechaca,2024,5,9.26 Nro de cajas de evidencia utilizadas,1
+Oruro,40101,Oruro,2024,5,9.26 Nro de cajas de evidencia utilizadas,1
+Pando,90201,Puerto Rico,2024,5,9.26 Nro de cajas de evidencia utilizadas,1
+Chuquisaca,10404,Alcala,2024,6,9.26 Nro de cajas de evidencia utilizadas,1
+La Paz,20105,El Alto,2024,6,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,51101,Puna,2024,6,9.26 Nro de cajas de evidencia utilizadas,1
+Beni,80101,Trinidad,2024,6,9.26 Nro de cajas de evidencia utilizadas,6
+Potosí,51201,Uyuni,2024,6,9.26 Nro de cajas de evidencia utilizadas,1
+Chuquisaca,10301,Zudañez,2024,6,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,50401,Colquechaca,2024,7,9.26 Nro de cajas de evidencia utilizadas,1
+Santa Cruz,70302,San Miguel De Velasco,2024,7,9.26 Nro de cajas de evidencia utilizadas,1
+La Paz,20101,La Paz,2024,8,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,50501,San Pedro De Buena Vista,2024,8,9.26 Nro de cajas de evidencia utilizadas,1
+Oruro,40104,Soracachi,2024,8,9.26 Nro de cajas de evidencia utilizadas,1
+La Paz,20105,El Alto,2024,9,9.26 Nro de cajas de evidencia utilizadas,1
+Chuquisaca,10702,San Lucas,2024,9,9.26 Nro de cajas de evidencia utilizadas,2
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,9.26 Nro de cajas de evidencia utilizadas,1
+Chuquisaca,10702,San Lucas,2024,10,9.26 Nro de cajas de evidencia utilizadas,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,9.26 Nro de cajas de evidencia utilizadas,16
+Potosí,51101,Puna,2024,11,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,51201,Uyuni,2024,11,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,50401,Colquechaca,2024,12,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,51101,Puna,2024,12,9.26 Nro de cajas de evidencia utilizadas,1
+Potosí,51201,Uyuni,2024,12,9.26 Nro de cajas de evidencia utilizadas,1
+Chuquisaca,10301,Zudañez,2024,12,9.26 Nro de cajas de evidencia utilizadas,1
+Chuquisaca,10702,San Lucas,2024,1,TOTAL,2
+Potosí,50201,Uncia,2024,1,TOTAL,1
+La Paz,20105,El Alto,2024,2,TOTAL,1
+Potosí,50702,Caripuyo,2024,3,TOTAL,1
+Chuquisaca,10702,San Lucas,2024,3,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2024,3,TOTAL,1
+Potosí,50702,Caripuyo,2024,4,TOTAL,1
+Chuquisaca,10405,El Villar,2024,4,TOTAL,1
+Chuquisaca,10702,San Lucas,2024,4,TOTAL,1
+Potosí,50401,Colquechaca,2024,5,TOTAL,1
+Oruro,40101,Oruro,2024,5,TOTAL,1
+Pando,90201,Puerto Rico,2024,5,TOTAL,1
+Chuquisaca,10404,Alcala,2024,6,TOTAL,1
+La Paz,20105,El Alto,2024,6,TOTAL,1
+Potosí,51101,Puna,2024,6,TOTAL,1
+Beni,80101,Trinidad,2024,6,TOTAL,6
+Potosí,51201,Uyuni,2024,6,TOTAL,1
+Chuquisaca,10301,Zudañez,2024,6,TOTAL,1
+Potosí,50401,Colquechaca,2024,7,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2024,7,TOTAL,1
+La Paz,20101,La Paz,2024,8,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2024,8,TOTAL,1
+Oruro,40104,Soracachi,2024,8,TOTAL,1
+La Paz,20105,El Alto,2024,9,TOTAL,1
+Chuquisaca,10702,San Lucas,2024,9,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,TOTAL,1
+Chuquisaca,10702,San Lucas,2024,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTAL,16
+Potosí,51101,Puna,2024,11,TOTAL,1
+Potosí,51201,Uyuni,2024,11,TOTAL,1
+Potosí,50401,Colquechaca,2024,12,TOTAL,1
+Potosí,51101,Puna,2024,12,TOTAL,1
+Potosí,51201,Uyuni,2024,12,TOTAL,1
+Chuquisaca,10301,Zudañez,2024,12,TOTAL,1

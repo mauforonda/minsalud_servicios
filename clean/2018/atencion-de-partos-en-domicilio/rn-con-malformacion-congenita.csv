@@ -1,0 +1,119 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,21307,Collana,2018,1,RN con malformacion congenita,1
+La Paz,21306,Colquencha,2018,1,RN con malformacion congenita,1
+Chuquisaca,10103,Poroma,2018,1,RN con malformacion congenita,1
+Chuquisaca,10403,Sopachuy,2018,1,RN con malformacion congenita,1
+Beni,80101,Trinidad,2018,1,RN con malformacion congenita,1
+Santa Cruz,71501,Ascencion De Guarayos,2018,2,RN con malformacion congenita,1
+Potosí,51103,Ckochas,2018,2,RN con malformacion congenita,1
+Cochabamba,31301,Mizque,2018,2,RN con malformacion congenita,1
+Potosí,50401,Colquechaca,2018,3,RN con malformacion congenita,1
+La Paz,21201,Pucarani,2018,3,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,4,RN con malformacion congenita,1
+Potosí,50502,Toro Toro,2018,4,RN con malformacion congenita,1
+La Paz,20201,Achacachi,2018,5,RN con malformacion congenita,1
+La Paz,21203,Batallas,2018,5,RN con malformacion congenita,2
+Oruro,40302,Choque Cota,2018,5,RN con malformacion congenita,1
+Oruro,40401,Curahuara De Carangas,2018,5,RN con malformacion congenita,1
+La Paz,21001,Inquisivi,2018,5,RN con malformacion congenita,1
+La Paz,20702,Pelechuco,2018,5,RN con malformacion congenita,1
+La Paz,21201,Pucarani,2018,5,RN con malformacion congenita,1
+Potosí,51101,Puna,2018,5,RN con malformacion congenita,1
+La Paz,20205,Santiago De Huata,2018,5,RN con malformacion congenita,1
+Potosí,50302,Chaqui,2018,6,RN con malformacion congenita,1
+Potosí,51103,Ckochas,2018,6,RN con malformacion congenita,1
+La Paz,20304,Comanche,2018,6,RN con malformacion congenita,1
+Tarija,60601,Entre Rios Trj,2018,6,RN con malformacion congenita,3
+Potosí,50701,Sacaca,2018,6,RN con malformacion congenita,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,6,RN con malformacion congenita,1
+Potosí,50302,Chaqui,2018,7,RN con malformacion congenita,1
+Beni,80402,Exaltacion,2018,7,RN con malformacion congenita,1
+Potosí,50402,Ravelo,2018,7,RN con malformacion congenita,1
+Cochabamba,30601,Arque,2018,8,RN con malformacion congenita,1
+La Paz,20203,Chua Cocani,2018,8,RN con malformacion congenita,1
+Chuquisaca,10703,Incahuasi,2018,8,RN con malformacion congenita,1
+La Paz,20103,Mecapaca,2018,8,RN con malformacion congenita,1
+Potosí,50701,Sacaca,2018,8,RN con malformacion congenita,1
+La Paz,21301,Sica Sica (villa Aroma),2018,8,RN con malformacion congenita,1
+Cochabamba,31601,Tiraque (cbba),2018,8,RN con malformacion congenita,1
+Tarija,60301,Yacuiba,2018,8,RN con malformacion congenita,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,9,RN con malformacion congenita,1
+La Paz,21401,Coroico,2018,9,RN con malformacion congenita,1
+Chuquisaca,10103,Poroma,2018,9,RN con malformacion congenita,2
+Cochabamba,31201,Totora(cbba),2018,9,RN con malformacion congenita,1
+Chuquisaca,10801,Villa Serrano,2018,9,RN con malformacion congenita,1
+Chuquisaca,10602,Yamparaez,2018,9,RN con malformacion congenita,1
+Chuquisaca,10201,Azurduy,2018,10,RN con malformacion congenita,1
+Potosí,51103,Ckochas,2018,10,RN con malformacion congenita,1
+La Paz,21402,Coripata,2018,10,RN con malformacion congenita,1
+Beni,80402,Exaltacion,2018,10,RN con malformacion congenita,1
+La Paz,20404,Humanata,2018,10,RN con malformacion congenita,1
+La Paz,20803,Tiawanacu,2018,10,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2018,10,RN con malformacion congenita,1
+Cochabamba,30904,Vinto,2018,10,RN con malformacion congenita,1
+Potosí,50203,Llallagua,2018,11,RN con malformacion congenita,1
+Potosí,50501,San Pedro De Buena Vista,2018,11,RN con malformacion congenita,1
+La Paz,20308,Santiago De Callapa,2018,11,RN con malformacion congenita,1
+Santa Cruz,70104,La Guardia,2018,12,RN con malformacion congenita,1
+La Paz,20401,Puerto Acosta,2018,12,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2018,12,RN con malformacion congenita,1
+Cochabamba,30904,Vinto,2018,12,RN con malformacion congenita,1
+La Paz,21307,Collana,2018,1,TOTAL,1
+La Paz,21306,Colquencha,2018,1,TOTAL,1
+Chuquisaca,10103,Poroma,2018,1,TOTAL,1
+Chuquisaca,10403,Sopachuy,2018,1,TOTAL,1
+Beni,80101,Trinidad,2018,1,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2018,2,TOTAL,1
+Potosí,51103,Ckochas,2018,2,TOTAL,1
+Cochabamba,31301,Mizque,2018,2,TOTAL,1
+Potosí,50401,Colquechaca,2018,3,TOTAL,1
+La Paz,21201,Pucarani,2018,3,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,4,TOTAL,1
+Potosí,50502,Toro Toro,2018,4,TOTAL,1
+La Paz,20201,Achacachi,2018,5,TOTAL,1
+La Paz,21203,Batallas,2018,5,TOTAL,2
+Oruro,40302,Choque Cota,2018,5,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2018,5,TOTAL,1
+La Paz,21001,Inquisivi,2018,5,TOTAL,1
+La Paz,20702,Pelechuco,2018,5,TOTAL,1
+La Paz,21201,Pucarani,2018,5,TOTAL,1
+Potosí,51101,Puna,2018,5,TOTAL,1
+La Paz,20205,Santiago De Huata,2018,5,TOTAL,1
+Potosí,50302,Chaqui,2018,6,TOTAL,1
+Potosí,51103,Ckochas,2018,6,TOTAL,1
+La Paz,20304,Comanche,2018,6,TOTAL,1
+Tarija,60601,Entre Rios Trj,2018,6,TOTAL,3
+Potosí,50701,Sacaca,2018,6,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,6,TOTAL,1
+Potosí,50302,Chaqui,2018,7,TOTAL,1
+Beni,80402,Exaltacion,2018,7,TOTAL,1
+Potosí,50402,Ravelo,2018,7,TOTAL,1
+Cochabamba,30601,Arque,2018,8,TOTAL,1
+La Paz,20203,Chua Cocani,2018,8,TOTAL,1
+Chuquisaca,10703,Incahuasi,2018,8,TOTAL,1
+La Paz,20103,Mecapaca,2018,8,TOTAL,1
+Potosí,50701,Sacaca,2018,8,TOTAL,1
+La Paz,21301,Sica Sica (villa Aroma),2018,8,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2018,8,TOTAL,1
+Tarija,60301,Yacuiba,2018,8,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,9,TOTAL,1
+La Paz,21401,Coroico,2018,9,TOTAL,1
+Chuquisaca,10103,Poroma,2018,9,TOTAL,2
+Cochabamba,31201,Totora(cbba),2018,9,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2018,9,TOTAL,1
+Chuquisaca,10602,Yamparaez,2018,9,TOTAL,1
+Chuquisaca,10201,Azurduy,2018,10,TOTAL,1
+Potosí,51103,Ckochas,2018,10,TOTAL,1
+La Paz,21402,Coripata,2018,10,TOTAL,1
+Beni,80402,Exaltacion,2018,10,TOTAL,1
+La Paz,20404,Humanata,2018,10,TOTAL,1
+La Paz,20803,Tiawanacu,2018,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2018,10,TOTAL,1
+Cochabamba,30904,Vinto,2018,10,TOTAL,1
+Potosí,50203,Llallagua,2018,11,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2018,11,TOTAL,1
+La Paz,20308,Santiago De Callapa,2018,11,TOTAL,1
+Santa Cruz,70104,La Guardia,2018,12,TOTAL,1
+La Paz,20401,Puerto Acosta,2018,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2018,12,TOTAL,1
+Cochabamba,30904,Vinto,2018,12,TOTAL,1

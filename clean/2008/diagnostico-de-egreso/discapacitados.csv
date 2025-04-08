@@ -1,0 +1,211 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80202,Guayaramerin,2008,1,Discapacitados,9
+Oruro,40101,Oruro,2008,1,Discapacitados,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,Discapacitados,0
+Potosí,50801,Tupiza,2008,1,Discapacitados,1
+Cochabamba,30101,Cochabamba,2008,2,Discapacitados,2
+La Paz,20105,El Alto,2008,2,Discapacitados,5
+La Paz,20101,La Paz,2008,2,Discapacitados,3
+Beni,80201,Riberalta,2008,2,Discapacitados,4
+Beni,80303,Santa Rosa,2008,2,Discapacitados,48
+La Paz,20701,Apolo,2008,3,Discapacitados,1
+Cochabamba,30101,Cochabamba,2008,3,Discapacitados,2
+La Paz,20105,El Alto,2008,3,Discapacitados,7
+Beni,80202,Guayaramerin,2008,3,Discapacitados,3
+Oruro,40101,Oruro,2008,3,Discapacitados,1
+Cochabamba,31001,Sacaba,2008,3,Discapacitados,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,Discapacitados,0
+Tarija,60101,Tarija,2008,3,Discapacitados,67
+La Paz,20701,Apolo,2008,4,Discapacitados,1
+Pando,90101,Cobija,2008,4,Discapacitados,1
+Cochabamba,30101,Cochabamba,2008,4,Discapacitados,2
+La Paz,20105,El Alto,2008,4,Discapacitados,5
+Beni,80202,Guayaramerin,2008,4,Discapacitados,1
+Oruro,40101,Oruro,2008,4,Discapacitados,1
+La Paz,21305,Patacamaya,2008,4,Discapacitados,1
+Santa Cruz,70402,San Carlos,2008,4,Discapacitados,1
+Santa Cruz,70303,San Rafael,2008,4,Discapacitados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,Discapacitados,0
+Chuquisaca,10101,Sucre,2008,4,Discapacitados,3
+Potosí,50801,Tupiza,2008,4,Discapacitados,1
+Potosí,50802,Atocha,2008,5,Discapacitados,2
+Cochabamba,30101,Cochabamba,2008,5,Discapacitados,1
+La Paz,20105,El Alto,2008,5,Discapacitados,6
+Santa Cruz,70402,San Carlos,2008,5,Discapacitados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,Discapacitados,0
+Chuquisaca,10101,Sucre,2008,5,Discapacitados,2
+Tarija,60101,Tarija,2008,5,Discapacitados,50
+Chuquisaca,10701,Camargo,2008,6,Discapacitados,1
+Santa Cruz,70706,Camiri,2008,6,Discapacitados,1
+Cochabamba,30101,Cochabamba,2008,6,Discapacitados,1
+La Paz,20105,El Alto,2008,6,Discapacitados,4
+Beni,80302,San Borja,2008,6,Discapacitados,17
+Santa Cruz,70402,San Carlos,2008,6,Discapacitados,1
+Beni,80501,San Ignacio,2008,6,Discapacitados,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,6,Discapacitados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,Discapacitados,0
+Chuquisaca,10101,Sucre,2008,6,Discapacitados,4
+Santa Cruz,70706,Camiri,2008,7,Discapacitados,1
+Pando,90101,Cobija,2008,7,Discapacitados,1
+Cochabamba,30101,Cochabamba,2008,7,Discapacitados,1
+Beni,80402,Exaltacion,2008,7,Discapacitados,2
+La Paz,20101,La Paz,2008,7,Discapacitados,1
+Beni,80304,Rurrenabaque,2008,7,Discapacitados,1
+Santa Cruz,71105,San Antonio De Lomerio,2008,7,Discapacitados,10
+Santa Cruz,70301,San Ignacio De Velasco,2008,7,Discapacitados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,Discapacitados,0
+Chuquisaca,10101,Sucre,2008,7,Discapacitados,4
+Santa Cruz,70403,Yapacani,2008,7,Discapacitados,2
+La Paz,20105,El Alto,2008,8,Discapacitados,1
+Beni,80304,Rurrenabaque,2008,8,Discapacitados,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,8,Discapacitados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,Discapacitados,2
+Potosí,50301,Betanzos,2008,9,Discapacitados,4
+Santa Cruz,71403,Carmen Rivero Torrez,2008,9,Discapacitados,2
+Pando,90101,Cobija,2008,9,Discapacitados,1
+Cochabamba,30905,Colcapirhua,2008,9,Discapacitados,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,9,Discapacitados,3
+Chuquisaca,10702,San Lucas,2008,9,Discapacitados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,Discapacitados,8
+Chuquisaca,10601,Tarabuco,2008,9,Discapacitados,1
+Santa Cruz,70802,Trigal,2008,9,Discapacitados,1
+Potosí,50801,Tupiza,2008,9,Discapacitados,2
+Tarija,60301,Yacuiba,2008,9,Discapacitados,1
+Cochabamba,30101,Cochabamba,2008,10,Discapacitados,1
+La Paz,20105,El Alto,2008,10,Discapacitados,1
+Chuquisaca,10501,Monteagudo,2008,10,Discapacitados,1
+Oruro,40101,Oruro,2008,10,Discapacitados,1
+Potosí,50101,Potosi,2008,10,Discapacitados,19
+Santa Cruz,71401,Puerto Suarez,2008,10,Discapacitados,1
+Beni,80302,San Borja,2008,10,Discapacitados,2
+Santa Cruz,71201,San Matias,2008,10,Discapacitados,1
+Santa Cruz,71005,San Pedro,2008,10,Discapacitados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,Discapacitados,1
+Cochabamba,30904,Vinto,2008,10,Discapacitados,1
+Santa Cruz,70403,Yapacani,2008,10,Discapacitados,1
+La Paz,20701,Apolo,2008,11,Discapacitados,1
+Santa Cruz,70702,Charagua,2008,11,Discapacitados,2
+Cochabamba,30801,Cliza,2008,11,Discapacitados,1
+Santa Cruz,71401,Puerto Suarez,2008,11,Discapacitados,1
+Beni,80302,San Borja,2008,11,Discapacitados,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,11,Discapacitados,2
+Beni,80401,Santa Ana,2008,11,Discapacitados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,Discapacitados,2
+Cochabamba,31601,Tiraque (cbba),2008,11,Discapacitados,1
+Cochabamba,30904,Vinto,2008,11,Discapacitados,1
+Tarija,60301,Yacuiba,2008,11,Discapacitados,4
+Santa Cruz,70706,Camiri,2008,12,Discapacitados,2
+Santa Cruz,71403,Carmen Rivero Torrez,2008,12,Discapacitados,2
+Santa Cruz,70601,Portachuelo,2008,12,Discapacitados,1
+Beni,80302,San Borja,2008,12,Discapacitados,2
+Chuquisaca,10702,San Lucas,2008,12,Discapacitados,1
+Beni,80401,Santa Ana,2008,12,Discapacitados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,Discapacitados,2
+La Paz,20606,Tipuani,2008,12,Discapacitados,1
+Cochabamba,30904,Vinto,2008,12,Discapacitados,3
+Tarija,60301,Yacuiba,2008,12,Discapacitados,1
+Beni,80202,Guayaramerin,2008,1,TOTAL,9
+Oruro,40101,Oruro,2008,1,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTAL,0
+Potosí,50801,Tupiza,2008,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,2,TOTAL,2
+La Paz,20105,El Alto,2008,2,TOTAL,5
+La Paz,20101,La Paz,2008,2,TOTAL,3
+Beni,80201,Riberalta,2008,2,TOTAL,4
+Beni,80303,Santa Rosa,2008,2,TOTAL,48
+La Paz,20701,Apolo,2008,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,3,TOTAL,2
+La Paz,20105,El Alto,2008,3,TOTAL,7
+Beni,80202,Guayaramerin,2008,3,TOTAL,3
+Oruro,40101,Oruro,2008,3,TOTAL,1
+Cochabamba,31001,Sacaba,2008,3,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTAL,0
+Tarija,60101,Tarija,2008,3,TOTAL,67
+La Paz,20701,Apolo,2008,4,TOTAL,1
+Pando,90101,Cobija,2008,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,4,TOTAL,2
+La Paz,20105,El Alto,2008,4,TOTAL,5
+Beni,80202,Guayaramerin,2008,4,TOTAL,1
+Oruro,40101,Oruro,2008,4,TOTAL,1
+La Paz,21305,Patacamaya,2008,4,TOTAL,1
+Santa Cruz,70402,San Carlos,2008,4,TOTAL,1
+Santa Cruz,70303,San Rafael,2008,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTAL,0
+Chuquisaca,10101,Sucre,2008,4,TOTAL,3
+Potosí,50801,Tupiza,2008,4,TOTAL,1
+Potosí,50802,Atocha,2008,5,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,5,TOTAL,1
+La Paz,20105,El Alto,2008,5,TOTAL,6
+Santa Cruz,70402,San Carlos,2008,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTAL,0
+Chuquisaca,10101,Sucre,2008,5,TOTAL,2
+Tarija,60101,Tarija,2008,5,TOTAL,50
+Chuquisaca,10701,Camargo,2008,6,TOTAL,1
+Santa Cruz,70706,Camiri,2008,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,6,TOTAL,1
+La Paz,20105,El Alto,2008,6,TOTAL,4
+Beni,80302,San Borja,2008,6,TOTAL,17
+Santa Cruz,70402,San Carlos,2008,6,TOTAL,1
+Beni,80501,San Ignacio,2008,6,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTAL,0
+Chuquisaca,10101,Sucre,2008,6,TOTAL,4
+Santa Cruz,70706,Camiri,2008,7,TOTAL,1
+Pando,90101,Cobija,2008,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,7,TOTAL,1
+Beni,80402,Exaltacion,2008,7,TOTAL,2
+La Paz,20101,La Paz,2008,7,TOTAL,1
+Beni,80304,Rurrenabaque,2008,7,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2008,7,TOTAL,10
+Santa Cruz,70301,San Ignacio De Velasco,2008,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTAL,0
+Chuquisaca,10101,Sucre,2008,7,TOTAL,4
+Santa Cruz,70403,Yapacani,2008,7,TOTAL,2
+La Paz,20105,El Alto,2008,8,TOTAL,1
+Beni,80304,Rurrenabaque,2008,8,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTAL,2
+Potosí,50301,Betanzos,2008,9,TOTAL,4
+Santa Cruz,71403,Carmen Rivero Torrez,2008,9,TOTAL,2
+Pando,90101,Cobija,2008,9,TOTAL,1
+Cochabamba,30905,Colcapirhua,2008,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,9,TOTAL,3
+Chuquisaca,10702,San Lucas,2008,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTAL,8
+Chuquisaca,10601,Tarabuco,2008,9,TOTAL,1
+Santa Cruz,70802,Trigal,2008,9,TOTAL,1
+Potosí,50801,Tupiza,2008,9,TOTAL,2
+Tarija,60301,Yacuiba,2008,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,10,TOTAL,1
+La Paz,20105,El Alto,2008,10,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,10,TOTAL,1
+Oruro,40101,Oruro,2008,10,TOTAL,1
+Potosí,50101,Potosi,2008,10,TOTAL,19
+Santa Cruz,71401,Puerto Suarez,2008,10,TOTAL,1
+Beni,80302,San Borja,2008,10,TOTAL,2
+Santa Cruz,71201,San Matias,2008,10,TOTAL,1
+Santa Cruz,71005,San Pedro,2008,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTAL,1
+Cochabamba,30904,Vinto,2008,10,TOTAL,1
+Santa Cruz,70403,Yapacani,2008,10,TOTAL,1
+La Paz,20701,Apolo,2008,11,TOTAL,1
+Santa Cruz,70702,Charagua,2008,11,TOTAL,2
+Cochabamba,30801,Cliza,2008,11,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,11,TOTAL,1
+Beni,80302,San Borja,2008,11,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,11,TOTAL,2
+Beni,80401,Santa Ana,2008,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTAL,2
+Cochabamba,31601,Tiraque (cbba),2008,11,TOTAL,1
+Cochabamba,30904,Vinto,2008,11,TOTAL,1
+Tarija,60301,Yacuiba,2008,11,TOTAL,4
+Santa Cruz,70706,Camiri,2008,12,TOTAL,2
+Santa Cruz,71403,Carmen Rivero Torrez,2008,12,TOTAL,2
+Santa Cruz,70601,Portachuelo,2008,12,TOTAL,1
+Beni,80302,San Borja,2008,12,TOTAL,2
+Chuquisaca,10702,San Lucas,2008,12,TOTAL,1
+Beni,80401,Santa Ana,2008,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,TOTAL,2
+La Paz,20606,Tipuani,2008,12,TOTAL,1
+Cochabamba,30904,Vinto,2008,12,TOTAL,3
+Tarija,60301,Yacuiba,2008,12,TOTAL,1

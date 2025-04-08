@@ -1,0 +1,3289 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20201,Achacachi,2005,1,Antirrabica canina,66
+La Paz,20104,Achocalla,2005,1,Antirrabica canina,70
+Cochabamba,30201,Aiquile,2005,1,Antirrabica canina,15
+Cochabamba,31303,Alalay,2005,1,Antirrabica canina,34
+Oruro,41201,Andamarca,2005,1,Antirrabica canina,15
+Cochabamba,30402,Anzaldo,2005,1,Antirrabica canina,168
+Cochabamba,30501,Arani,2005,1,Antirrabica canina,45
+Cochabamba,30403,Arbieto,2005,1,Antirrabica canina,81
+Cochabamba,30601,Arque,2005,1,Antirrabica canina,19
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,1,Antirrabica canina,62
+Tarija,60202,Bermejo,2005,1,Antirrabica canina,500
+Cochabamba,31501,Bolivar,2005,1,Antirrabica canina,192
+Santa Cruz,70401,Buena Vista,2005,1,Antirrabica canina,249
+La Paz,20303,Calacoto,2005,1,Antirrabica canina,15
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,1,Antirrabica canina,50
+Cochabamba,30701,Capinota,2005,1,Antirrabica canina,1782
+La Paz,20302,Caquiaviri,2005,1,Antirrabica canina,20
+Oruro,40102,Caracollo,2005,1,Antirrabica canina,5
+Tarija,60302,Carapari,2005,1,Antirrabica canina,5424
+Potosí,50302,Chaqui,2005,1,Antirrabica canina,11
+La Paz,21101,Chulumani (v. De La Libertad),2005,1,Antirrabica canina,30
+Cochabamba,30801,Cliza,2005,1,Antirrabica canina,76
+Cochabamba,30101,Cochabamba,2005,1,Antirrabica canina,2558
+Cochabamba,30905,Colcapirhua,2005,1,Antirrabica canina,430
+Cochabamba,31002,Colomi,2005,1,Antirrabica canina,191
+La Paz,21306,Colquencha,2005,1,Antirrabica canina,98
+La Paz,21004,Colquiri,2005,1,Antirrabica canina,40
+Santa Cruz,71301,Comarapa,2005,1,Antirrabica canina,47
+La Paz,21701,Copacabana,2005,1,Antirrabica canina,17
+La Paz,21402,Coripata,2005,1,Antirrabica canina,84
+La Paz,21401,Coroico,2005,1,Antirrabica canina,345
+Oruro,40301,Corque,2005,1,Antirrabica canina,5
+Santa Cruz,71106,Cuatro Cañadas,2005,1,Antirrabica canina,1035
+Oruro,40401,Curahuara De Carangas,2005,1,Antirrabica canina,7
+La Paz,20804,Desaguadero,2005,1,Antirrabica canina,2
+La Paz,20105,El Alto,2005,1,Antirrabica canina,2780
+Santa Cruz,70105,El Torno,2005,1,Antirrabica canina,2292
+Tarija,60601,Entre Rios,2005,1,Antirrabica canina,1144
+Santa Cruz,71002,General Saavedra,2005,1,Antirrabica canina,38
+Chuquisaca,10502,Huacareta,2005,1,Antirrabica canina,153
+Oruro,40501,Huachacalla,2005,1,Antirrabica canina,18
+Chuquisaca,10703,Incahuasi,2005,1,Antirrabica canina,38
+La Paz,21001,Inquisivi,2005,1,Antirrabica canina,113
+La Paz,20806,Jesus De Machaca,2005,1,Antirrabica canina,6
+La Paz,21105,La Asunta,2005,1,Antirrabica canina,10
+Santa Cruz,70104,La Guardia,2005,1,Antirrabica canina,226
+La Paz,20101,La Paz,2005,1,Antirrabica canina,4412
+Chuquisaca,10903,Las Carreras,2005,1,Antirrabica canina,10
+Chuquisaca,11003,Machareti,2005,1,Antirrabica canina,250
+La Paz,20103,Mecapaca,2005,1,Antirrabica canina,49
+La Paz,20402,Mocomoco,2005,1,Antirrabica canina,9
+Chuquisaca,10303,Mojocoya,2005,1,Antirrabica canina,16
+Chuquisaca,10501,Monteagudo,2005,1,Antirrabica canina,50
+Santa Cruz,71001,Montero,2005,1,Antirrabica canina,1
+Cochabamba,30302,Morochata,2005,1,Antirrabica canina,369
+Potosí,50404,Ocuri,2005,1,Antirrabica canina,120
+Oruro,40101,Oruro,2005,1,Antirrabica canina,33
+Tarija,60201,Padcaya,2005,1,Antirrabica canina,171
+Chuquisaca,10401,Padilla,2005,1,Antirrabica canina,39
+La Paz,20102,Palca,2005,1,Antirrabica canina,18
+La Paz,21104,Palos Blancos,2005,1,Antirrabica canina,12
+La Paz,21305,Patacamaya,2005,1,Antirrabica canina,180
+Potosí,50403,Pocoata,2005,1,Antirrabica canina,8
+Cochabamba,31203,Pocona,2005,1,Antirrabica canina,56
+Cochabamba,31202,Pojo (cbba),2005,1,Antirrabica canina,68
+Chuquisaca,10103,Poroma,2005,1,Antirrabica canina,203
+Santa Cruz,70103,Porongo,2005,1,Antirrabica canina,125
+Potosí,50101,Potosi,2005,1,Antirrabica canina,14992
+La Paz,20401,Puerto Acosta,2005,1,Antirrabica canina,15
+Cochabamba,31205,Puerto Villarroel,2005,1,Antirrabica canina,97
+Cochabamba,31401,Punata,2005,1,Antirrabica canina,288
+Cochabamba,30901,Quillacollo,2005,1,Antirrabica canina,761
+Cochabamba,31001,Sacaba,2005,1,Antirrabica canina,3005
+Cochabamba,30404,Sacabamba,2005,1,Antirrabica canina,15
+La Paz,20805,San Andres De Machaca,2005,1,Antirrabica canina,18
+Cochabamba,31403,San Benito,2005,1,Antirrabica canina,30
+Santa Cruz,70402,San Carlos,2005,1,Antirrabica canina,464
+Beni,80501,San Ignacio,2005,1,Antirrabica canina,8
+Santa Cruz,71104,San Julian,2005,1,Antirrabica canina,3
+Tarija,60501,San Lorenzo(tja),2005,1,Antirrabica canina,172
+Chuquisaca,10702,San Lucas,2005,1,Antirrabica canina,46
+Santa Cruz,71005,San Pedro,2005,1,Antirrabica canina,1
+Potosí,50501,San Pedro De Buena Vista,2005,1,Antirrabica canina,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,Antirrabica canina,847
+Cochabamba,30702,Santivañes,2005,1,Antirrabica canina,44
+La Paz,21301,Sica Sica (villa Aroma),2005,1,Antirrabica canina,83
+Cochabamba,30703,Sicaya,2005,1,Antirrabica canina,86
+Cochabamba,30902,Sipe Sipe,2005,1,Antirrabica canina,163
+Chuquisaca,10403,Sopachuy,2005,1,Antirrabica canina,67
+Chuquisaca,10101,Sucre,2005,1,Antirrabica canina,59
+Cochabamba,30602,Tacopaya,2005,1,Antirrabica canina,337
+Cochabamba,31101,Tapacari,2005,1,Antirrabica canina,63
+Chuquisaca,10601,Tarabuco,2005,1,Antirrabica canina,60
+Cochabamba,30401,Tarata,2005,1,Antirrabica canina,28
+Tarija,60101,Tarija,2005,1,Antirrabica canina,365
+La Paz,20803,Tiawanacu,2005,1,Antirrabica canina,10
+Cochabamba,30903,Tiquipaya,2005,1,Antirrabica canina,1269
+Cochabamba,31601,Tiraque (cbba),2005,1,Antirrabica canina,75
+Cochabamba,30803,Tolata,2005,1,Antirrabica canina,8
+Chuquisaca,10402,Tomina,2005,1,Antirrabica canina,50
+Cochabamba,31201,Totora(cbba),2005,1,Antirrabica canina,88
+Potosí,50801,Tupiza,2005,1,Antirrabica canina,6
+Oruro,40402,Turco,2005,1,Antirrabica canina,93
+La Paz,21302,Umala,2005,1,Antirrabica canina,178
+Cochabamba,30502,Vacas,2005,1,Antirrabica canina,173
+La Paz,20801,Viacha,2005,1,Antirrabica canina,870
+Tarija,60303,Villa Montes,2005,1,Antirrabica canina,876
+Cochabamba,31402,Villa Rivero,2005,1,Antirrabica canina,88
+Cochabamba,31003,Villa Tunari,2005,1,Antirrabica canina,989
+Cochabamba,30904,Vinto,2005,1,Antirrabica canina,415
+Santa Cruz,70201,Warnes,2005,1,Antirrabica canina,201
+Tarija,60301,Yacuiba,2005,1,Antirrabica canina,3694
+Chuquisaca,10602,Yamparaez,2005,1,Antirrabica canina,47
+Chuquisaca,10301,Zudañez,2005,1,Antirrabica canina,28
+La Paz,20201,Achacachi,2005,2,Antirrabica canina,15
+Cochabamba,30201,Aiquile,2005,2,Antirrabica canina,83
+Oruro,41201,Andamarca,2005,2,Antirrabica canina,15
+Cochabamba,30402,Anzaldo,2005,2,Antirrabica canina,208
+La Paz,20701,Apolo,2005,2,Antirrabica canina,1
+Cochabamba,30501,Arani,2005,2,Antirrabica canina,12
+Cochabamba,30403,Arbieto,2005,2,Antirrabica canina,350
+Cochabamba,30601,Arque,2005,2,Antirrabica canina,288
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,2,Antirrabica canina,136
+Tarija,60202,Bermejo,2005,2,Antirrabica canina,136
+Cochabamba,31501,Bolivar,2005,2,Antirrabica canina,20
+Santa Cruz,70401,Buena Vista,2005,2,Antirrabica canina,238
+La Paz,21003,Cajuata,2005,2,Antirrabica canina,20
+Chuquisaca,10701,Camargo,2005,2,Antirrabica canina,8
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,2,Antirrabica canina,95
+Cochabamba,30701,Capinota,2005,2,Antirrabica canina,161
+La Paz,20302,Caquiaviri,2005,2,Antirrabica canina,37
+Oruro,40102,Caracollo,2005,2,Antirrabica canina,15
+Tarija,60302,Carapari,2005,2,Antirrabica canina,603
+Potosí,50302,Chaqui,2005,2,Antirrabica canina,38
+La Paz,21101,Chulumani (v. De La Libertad),2005,2,Antirrabica canina,101
+Cochabamba,30801,Cliza,2005,2,Antirrabica canina,18
+Cochabamba,30101,Cochabamba,2005,2,Antirrabica canina,3262
+Cochabamba,30905,Colcapirhua,2005,2,Antirrabica canina,469
+Cochabamba,31002,Colomi,2005,2,Antirrabica canina,172
+Santa Cruz,70603,Colpa Belgica,2005,2,Antirrabica canina,4
+La Paz,21306,Colquencha,2005,2,Antirrabica canina,55
+Santa Cruz,71301,Comarapa,2005,2,Antirrabica canina,11
+La Paz,21701,Copacabana,2005,2,Antirrabica canina,35
+La Paz,21402,Coripata,2005,2,Antirrabica canina,25
+La Paz,20301,Coro Coro,2005,2,Antirrabica canina,20
+La Paz,21401,Coroico,2005,2,Antirrabica canina,88
+Santa Cruz,71106,Cuatro Cañadas,2005,2,Antirrabica canina,40
+Chuquisaca,10902,Culpina,2005,2,Antirrabica canina,433
+Oruro,40401,Curahuara De Carangas,2005,2,Antirrabica canina,13
+La Paz,20105,El Alto,2005,2,Antirrabica canina,3047
+Santa Cruz,71503,El Puente(stc),2005,2,Antirrabica canina,621
+Tarija,60502,El Puente(tja),2005,2,Antirrabica canina,986
+Santa Cruz,70105,El Torno,2005,2,Antirrabica canina,438
+Tarija,60601,Entre Rios,2005,2,Antirrabica canina,1106
+Chuquisaca,10502,Huacareta,2005,2,Antirrabica canina,39
+Oruro,40501,Huachacalla,2005,2,Antirrabica canina,7
+Chuquisaca,10304,Icla,2005,2,Antirrabica canina,118
+Chuquisaca,10703,Incahuasi,2005,2,Antirrabica canina,25
+La Paz,21001,Inquisivi,2005,2,Antirrabica canina,40
+La Paz,21501,Ixiamas,2005,2,Antirrabica canina,10
+La Paz,20806,Jesus De Machaca,2005,2,Antirrabica canina,67
+La Paz,21105,La Asunta,2005,2,Antirrabica canina,38
+Santa Cruz,70104,La Guardia,2005,2,Antirrabica canina,681
+La Paz,20101,La Paz,2005,2,Antirrabica canina,1190
+Oruro,41501,La Rivera,2005,2,Antirrabica canina,3
+Chuquisaca,10903,Las Carreras,2005,2,Antirrabica canina,9
+La Paz,21006,Licoma Pampa,2005,2,Antirrabica canina,70
+La Paz,20103,Mecapaca,2005,2,Antirrabica canina,16
+Cochabamba,31301,Mizque,2005,2,Antirrabica canina,17
+La Paz,20402,Mocomoco,2005,2,Antirrabica canina,48
+Chuquisaca,10303,Mojocoya,2005,2,Antirrabica canina,33
+Chuquisaca,10501,Monteagudo,2005,2,Antirrabica canina,40
+Santa Cruz,71001,Montero,2005,2,Antirrabica canina,2
+Cochabamba,30302,Morochata,2005,2,Antirrabica canina,384
+Potosí,50404,Ocuri,2005,2,Antirrabica canina,43
+Oruro,40101,Oruro,2005,2,Antirrabica canina,23
+Tarija,60201,Padcaya,2005,2,Antirrabica canina,252
+Chuquisaca,10401,Padilla,2005,2,Antirrabica canina,46
+La Paz,20102,Palca,2005,2,Antirrabica canina,63
+La Paz,21104,Palos Blancos,2005,2,Antirrabica canina,25
+Santa Cruz,70902,Pampa Grande,2005,2,Antirrabica canina,362
+La Paz,21305,Patacamaya,2005,2,Antirrabica canina,20
+Potosí,50403,Pocoata,2005,2,Antirrabica canina,74
+Cochabamba,31203,Pocona,2005,2,Antirrabica canina,37
+Cochabamba,31202,Pojo (cbba),2005,2,Antirrabica canina,50
+Chuquisaca,10103,Poroma,2005,2,Antirrabica canina,214
+Santa Cruz,70103,Porongo,2005,2,Antirrabica canina,197
+Potosí,50101,Potosi,2005,2,Antirrabica canina,5
+La Paz,20401,Puerto Acosta,2005,2,Antirrabica canina,295
+La Paz,20403,Puerto Carabuco,2005,2,Antirrabica canina,315
+Cochabamba,31401,Punata,2005,2,Antirrabica canina,204
+Cochabamba,30901,Quillacollo,2005,2,Antirrabica canina,688
+La Paz,21002,Quime,2005,2,Antirrabica canina,61
+Potosí,50402,Ravelo,2005,2,Antirrabica canina,10
+Cochabamba,31001,Sacaba,2005,2,Antirrabica canina,326
+Cochabamba,30404,Sacabamba,2005,2,Antirrabica canina,126
+Potosí,50701,Sacaca,2005,2,Antirrabica canina,20
+Santa Cruz,71302,Saipina,2005,2,Antirrabica canina,383
+Beni,80602,San Andres,2005,2,Antirrabica canina,5
+La Paz,20805,San Andres De Machaca,2005,2,Antirrabica canina,89
+Cochabamba,31403,San Benito,2005,2,Antirrabica canina,51
+La Paz,21502,San Buena Ventura,2005,2,Antirrabica canina,11
+Santa Cruz,70402,San Carlos,2005,2,Antirrabica canina,164
+Santa Cruz,70301,San Ignacio De Velasco,2005,2,Antirrabica canina,3
+Santa Cruz,70404,San Juan De Yapacani,2005,2,Antirrabica canina,100
+Pando,90302,San Lorenzo(pnd),2005,2,Antirrabica canina,84
+Tarija,60501,San Lorenzo(tja),2005,2,Antirrabica canina,733
+Chuquisaca,10702,San Lucas,2005,2,Antirrabica canina,20
+La Paz,21702,San Pedro De Tiquina,2005,2,Antirrabica canina,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,Antirrabica canina,2967
+Santa Cruz,70602,Santa Rosa Del Sara,2005,2,Antirrabica canina,1360
+Cochabamba,30702,Santivañes,2005,2,Antirrabica canina,333
+La Paz,21301,Sica Sica (villa Aroma),2005,2,Antirrabica canina,123
+Cochabamba,30703,Sicaya,2005,2,Antirrabica canina,8
+Cochabamba,30902,Sipe Sipe,2005,2,Antirrabica canina,180
+Chuquisaca,10403,Sopachuy,2005,2,Antirrabica canina,105
+Chuquisaca,10101,Sucre,2005,2,Antirrabica canina,694
+Cochabamba,31404,Tacachi,2005,2,Antirrabica canina,15
+Cochabamba,30602,Tacopaya,2005,2,Antirrabica canina,115
+Cochabamba,31101,Tapacari,2005,2,Antirrabica canina,71
+Chuquisaca,10601,Tarabuco,2005,2,Antirrabica canina,94
+Cochabamba,30401,Tarata,2005,2,Antirrabica canina,89
+Tarija,60101,Tarija,2005,2,Antirrabica canina,1006
+La Paz,20803,Tiawanacu,2005,2,Antirrabica canina,40
+Cochabamba,30903,Tiquipaya,2005,2,Antirrabica canina,198
+Cochabamba,31601,Tiraque (cbba),2005,2,Antirrabica canina,432
+Potosí,50502,Toro Toro,2005,2,Antirrabica canina,1
+Cochabamba,31201,Totora(cbba),2005,2,Antirrabica canina,15
+Oruro,41301,Totora(orr),2005,2,Antirrabica canina,5
+Oruro,40402,Turco,2005,2,Antirrabica canina,18
+La Paz,21302,Umala,2005,2,Antirrabica canina,56
+Tarija,60401,Uriondo (a. Concepcion),2005,2,Antirrabica canina,2280
+Santa Cruz,71502,Urubicha,2005,2,Antirrabica canina,4
+Cochabamba,30502,Vacas,2005,2,Antirrabica canina,34
+La Paz,20801,Viacha,2005,2,Antirrabica canina,714
+Tarija,60303,Villa Montes,2005,2,Antirrabica canina,110
+Cochabamba,31402,Villa Rivero,2005,2,Antirrabica canina,13
+Cochabamba,31003,Villa Tunari,2005,2,Antirrabica canina,73
+Cochabamba,30904,Vinto,2005,2,Antirrabica canina,228
+Santa Cruz,70201,Warnes,2005,2,Antirrabica canina,73
+Tarija,60301,Yacuiba,2005,2,Antirrabica canina,23
+Chuquisaca,10602,Yamparaez,2005,2,Antirrabica canina,221
+La Paz,21103,Yanacachi,2005,2,Antirrabica canina,15
+Santa Cruz,70403,Yapacani,2005,2,Antirrabica canina,30
+Tarija,60402,Yunchara,2005,2,Antirrabica canina,478
+Chuquisaca,10301,Zudañez,2005,2,Antirrabica canina,296
+Potosí,51302,Acacio,2005,3,Antirrabica canina,26
+La Paz,20201,Achacachi,2005,3,Antirrabica canina,144
+La Paz,20104,Achocalla,2005,3,Antirrabica canina,50
+Cochabamba,30201,Aiquile,2005,3,Antirrabica canina,20
+Oruro,41201,Andamarca,2005,3,Antirrabica canina,33
+Cochabamba,30402,Anzaldo,2005,3,Antirrabica canina,326
+Cochabamba,30501,Arani,2005,3,Antirrabica canina,2500
+Cochabamba,30403,Arbieto,2005,3,Antirrabica canina,1467
+Cochabamba,30601,Arque,2005,3,Antirrabica canina,67
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,3,Antirrabica canina,294
+Chuquisaca,10201,Azurduy,2005,3,Antirrabica canina,243
+Oruro,41202,Belen De Andamarca,2005,3,Antirrabica canina,5
+Cochabamba,31501,Bolivar,2005,3,Antirrabica canina,53
+La Paz,20303,Calacoto,2005,3,Antirrabica canina,42
+Chuquisaca,10701,Camargo,2005,3,Antirrabica canina,34
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,3,Antirrabica canina,100
+Cochabamba,30701,Capinota,2005,3,Antirrabica canina,110
+La Paz,20302,Caquiaviri,2005,3,Antirrabica canina,20
+La Paz,22001,Caranavi,2005,3,Antirrabica canina,89
+Tarija,60302,Carapari,2005,3,Antirrabica canina,44
+La Paz,21101,Chulumani (v. De La Libertad),2005,3,Antirrabica canina,88
+Cochabamba,30801,Cliza,2005,3,Antirrabica canina,1061
+Cochabamba,30101,Cochabamba,2005,3,Antirrabica canina,147352
+Cochabamba,30905,Colcapirhua,2005,3,Antirrabica canina,9413
+Cochabamba,31002,Colomi,2005,3,Antirrabica canina,3282
+La Paz,21306,Colquencha,2005,3,Antirrabica canina,15
+Santa Cruz,71301,Comarapa,2005,3,Antirrabica canina,4
+La Paz,21701,Copacabana,2005,3,Antirrabica canina,6
+La Paz,21402,Coripata,2005,3,Antirrabica canina,66
+La Paz,21401,Coroico,2005,3,Antirrabica canina,74
+Oruro,40301,Corque,2005,3,Antirrabica canina,10
+Potosí,50601,Cotagaita,2005,3,Antirrabica canina,542
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2005,3,Antirrabica canina,430
+Chuquisaca,10902,Culpina,2005,3,Antirrabica canina,203
+Oruro,40401,Curahuara De Carangas,2005,3,Antirrabica canina,14
+La Paz,20804,Desaguadero,2005,3,Antirrabica canina,5
+La Paz,20105,El Alto,2005,3,Antirrabica canina,1594
+Santa Cruz,71503,El Puente(stc),2005,3,Antirrabica canina,86
+Tarija,60502,El Puente(tja),2005,3,Antirrabica canina,638
+Santa Cruz,70105,El Torno,2005,3,Antirrabica canina,102
+Tarija,60601,Entre Rios,2005,3,Antirrabica canina,220
+Santa Cruz,71002,General Saavedra,2005,3,Antirrabica canina,110
+Chuquisaca,10502,Huacareta,2005,3,Antirrabica canina,84
+Oruro,40501,Huachacalla,2005,3,Antirrabica canina,17
+Oruro,40701,Huanuni,2005,3,Antirrabica canina,20
+Oruro,41601,Huayllamarca,2005,3,Antirrabica canina,7
+Chuquisaca,10304,Icla,2005,3,Antirrabica canina,314
+Chuquisaca,10703,Incahuasi,2005,3,Antirrabica canina,136
+La Paz,21001,Inquisivi,2005,3,Antirrabica canina,48
+La Paz,20806,Jesus De Machaca,2005,3,Antirrabica canina,210
+Santa Cruz,70104,La Guardia,2005,3,Antirrabica canina,227
+La Paz,20101,La Paz,2005,3,Antirrabica canina,1547
+Chuquisaca,10903,Las Carreras,2005,3,Antirrabica canina,15
+Beni,80601,Loreto,2005,3,Antirrabica canina,4
+Chuquisaca,11003,Machareti,2005,3,Antirrabica canina,91
+La Paz,20103,Mecapaca,2005,3,Antirrabica canina,43
+Cochabamba,31301,Mizque,2005,3,Antirrabica canina,122
+La Paz,20402,Mocomoco,2005,3,Antirrabica canina,179
+Chuquisaca,10303,Mojocoya,2005,3,Antirrabica canina,87
+Cochabamba,30302,Morochata,2005,3,Antirrabica canina,627
+Potosí,50404,Ocuri,2005,3,Antirrabica canina,101
+Santa Cruz,70202,Okinawa,2005,3,Antirrabica canina,98
+Oruro,40101,Oruro,2005,3,Antirrabica canina,15566
+Tarija,60201,Padcaya,2005,3,Antirrabica canina,2314
+La Paz,20102,Palca,2005,3,Antirrabica canina,44
+La Paz,21104,Palos Blancos,2005,3,Antirrabica canina,12
+Santa Cruz,70902,Pampa Grande,2005,3,Antirrabica canina,106
+La Paz,21802,Papel Pampa,2005,3,Antirrabica canina,21
+Potosí,50403,Pocoata,2005,3,Antirrabica canina,58
+Cochabamba,31203,Pocona,2005,3,Antirrabica canina,4
+Cochabamba,31202,Pojo (cbba),2005,3,Antirrabica canina,10
+Chuquisaca,10103,Poroma,2005,3,Antirrabica canina,507
+Santa Cruz,70103,Porongo,2005,3,Antirrabica canina,87
+Potosí,50101,Potosi,2005,3,Antirrabica canina,19
+Chuquisaca,10302,Presto,2005,3,Antirrabica canina,118
+La Paz,20401,Puerto Acosta,2005,3,Antirrabica canina,264
+La Paz,20403,Puerto Carabuco,2005,3,Antirrabica canina,166
+Potosí,51101,Puna,2005,3,Antirrabica canina,10
+Cochabamba,31401,Punata,2005,3,Antirrabica canina,6635
+Cochabamba,30901,Quillacollo,2005,3,Antirrabica canina,28756
+Santa Cruz,70904,Quirusillas,2005,3,Antirrabica canina,184
+Potosí,50402,Ravelo,2005,3,Antirrabica canina,8
+Cochabamba,31001,Sacaba,2005,3,Antirrabica canina,29892
+Cochabamba,30404,Sacabamba,2005,3,Antirrabica canina,94
+Potosí,50701,Sacaca,2005,3,Antirrabica canina,5
+Santa Cruz,71302,Saipina,2005,3,Antirrabica canina,192
+Santa Cruz,70901,Samaipata,2005,3,Antirrabica canina,220
+La Paz,20805,San Andres De Machaca,2005,3,Antirrabica canina,162
+Cochabamba,31403,San Benito,2005,3,Antirrabica canina,3400
+La Paz,21502,San Buena Ventura,2005,3,Antirrabica canina,40
+Santa Cruz,70402,San Carlos,2005,3,Antirrabica canina,615
+Santa Cruz,71104,San Julian,2005,3,Antirrabica canina,335
+Tarija,60501,San Lorenzo(tja),2005,3,Antirrabica canina,1214
+Chuquisaca,10702,San Lucas,2005,3,Antirrabica canina,123
+Potosí,50501,San Pedro De Buena Vista,2005,3,Antirrabica canina,23
+La Paz,21702,San Pedro De Tiquina,2005,3,Antirrabica canina,20
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,Antirrabica canina,2954
+Santa Cruz,70602,Santa Rosa Del Sara,2005,3,Antirrabica canina,104
+Cochabamba,30702,Santivañes,2005,3,Antirrabica canina,43
+La Paz,21301,Sica Sica (villa Aroma),2005,3,Antirrabica canina,88
+Cochabamba,30703,Sicaya,2005,3,Antirrabica canina,7
+Cochabamba,30902,Sipe Sipe,2005,3,Antirrabica canina,9680
+Chuquisaca,10403,Sopachuy,2005,3,Antirrabica canina,213
+Chuquisaca,10101,Sucre,2005,3,Antirrabica canina,3226
+Cochabamba,31404,Tacachi,2005,3,Antirrabica canina,506
+Cochabamba,30602,Tacopaya,2005,3,Antirrabica canina,23
+Cochabamba,31101,Tapacari,2005,3,Antirrabica canina,294
+Chuquisaca,10601,Tarabuco,2005,3,Antirrabica canina,977
+Cochabamba,30401,Tarata,2005,3,Antirrabica canina,1465
+Tarija,60101,Tarija,2005,3,Antirrabica canina,382
+La Paz,20803,Tiawanacu,2005,3,Antirrabica canina,31
+Cochabamba,30903,Tiquipaya,2005,3,Antirrabica canina,8420
+Cochabamba,31601,Tiraque (cbba),2005,3,Antirrabica canina,2790
+Cochabamba,30802,Toco,2005,3,Antirrabica canina,168
+Cochabamba,30803,Tolata,2005,3,Antirrabica canina,1583
+Cochabamba,31201,Totora(cbba),2005,3,Antirrabica canina,29
+Oruro,40402,Turco,2005,3,Antirrabica canina,22
+La Paz,21302,Umala,2005,3,Antirrabica canina,78
+Tarija,60401,Uriondo (a. Concepcion),2005,3,Antirrabica canina,709
+Santa Cruz,71502,Urubicha,2005,3,Antirrabica canina,8
+Potosí,51201,Uyuni,2005,3,Antirrabica canina,587
+Cochabamba,30502,Vacas,2005,3,Antirrabica canina,1825
+La Paz,20801,Viacha,2005,3,Antirrabica canina,836
+Tarija,60303,Villa Montes,2005,3,Antirrabica canina,110
+Cochabamba,31402,Villa Rivero,2005,3,Antirrabica canina,1295
+Cochabamba,31003,Villa Tunari,2005,3,Antirrabica canina,65
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,3,Antirrabica canina,547
+Cochabamba,30904,Vinto,2005,3,Antirrabica canina,9793
+Santa Cruz,70201,Warnes,2005,3,Antirrabica canina,30
+Tarija,60301,Yacuiba,2005,3,Antirrabica canina,150
+Chuquisaca,10602,Yamparaez,2005,3,Antirrabica canina,278
+La Paz,21103,Yanacachi,2005,3,Antirrabica canina,41
+Santa Cruz,70403,Yapacani,2005,3,Antirrabica canina,337
+Chuquisaca,10102,Yotala,2005,3,Antirrabica canina,85
+Tarija,60402,Yunchara,2005,3,Antirrabica canina,482
+Chuquisaca,10301,Zudañez,2005,3,Antirrabica canina,15
+Cochabamba,30201,Aiquile,2005,4,Antirrabica canina,900
+Oruro,41201,Andamarca,2005,4,Antirrabica canina,10
+Cochabamba,30402,Anzaldo,2005,4,Antirrabica canina,386
+Cochabamba,30501,Arani,2005,4,Antirrabica canina,57
+Cochabamba,30403,Arbieto,2005,4,Antirrabica canina,903
+Cochabamba,30601,Arque,2005,4,Antirrabica canina,152
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,4,Antirrabica canina,487
+Chuquisaca,10201,Azurduy,2005,4,Antirrabica canina,258
+Oruro,41202,Belen De Andamarca,2005,4,Antirrabica canina,6
+Pando,90104,Bella Flor,2005,4,Antirrabica canina,43
+Tarija,60202,Bermejo,2005,4,Antirrabica canina,409
+Potosí,50301,Betanzos,2005,4,Antirrabica canina,126
+Cochabamba,31501,Bolivar,2005,4,Antirrabica canina,38
+Santa Cruz,70401,Buena Vista,2005,4,Antirrabica canina,425
+La Paz,21003,Cajuata,2005,4,Antirrabica canina,50
+La Paz,20303,Calacoto,2005,4,Antirrabica canina,31
+La Paz,21304,Calamarca,2005,4,Antirrabica canina,50
+Chuquisaca,10701,Camargo,2005,4,Antirrabica canina,110
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,4,Antirrabica canina,20
+Cochabamba,30701,Capinota,2005,4,Antirrabica canina,114
+La Paz,22001,Caranavi,2005,4,Antirrabica canina,93
+Tarija,60302,Carapari,2005,4,Antirrabica canina,188
+Oruro,40201,Challapata,2005,4,Antirrabica canina,2530
+La Paz,20305,Charaña,2005,4,Antirrabica canina,77
+Cochabamba,31204,Chimore,2005,4,Antirrabica canina,177
+Cochabamba,30801,Cliza,2005,4,Antirrabica canina,4587
+Pando,90101,Cobija,2005,4,Antirrabica canina,1554
+Cochabamba,30101,Cochabamba,2005,4,Antirrabica canina,2619
+Cochabamba,30905,Colcapirhua,2005,4,Antirrabica canina,311
+Cochabamba,31002,Colomi,2005,4,Antirrabica canina,301
+Santa Cruz,70603,Colpa Belgica,2005,4,Antirrabica canina,5
+La Paz,21306,Colquencha,2005,4,Antirrabica canina,4
+Santa Cruz,71301,Comarapa,2005,4,Antirrabica canina,25
+Santa Cruz,71101,Concepcion,2005,4,Antirrabica canina,2
+Oruro,40301,Corque,2005,4,Antirrabica canina,154
+Santa Cruz,71106,Cuatro Cañadas,2005,4,Antirrabica canina,902
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2005,4,Antirrabica canina,70
+Chuquisaca,10902,Culpina,2005,4,Antirrabica canina,75
+Oruro,40401,Curahuara De Carangas,2005,4,Antirrabica canina,10
+La Paz,20804,Desaguadero,2005,4,Antirrabica canina,634
+La Paz,20105,El Alto,2005,4,Antirrabica canina,1523
+Tarija,60502,El Puente(tja),2005,4,Antirrabica canina,1004
+Tarija,60601,Entre Rios,2005,4,Antirrabica canina,615
+Tarija,60601,Entre Rios,2005,4,Antirrabica canina,1005
+Oruro,40502,Escara,2005,4,Antirrabica canina,13
+Santa Cruz,71002,General Saavedra,2005,4,Antirrabica canina,149
+Beni,80202,Guayaramerin,2005,4,Antirrabica canina,1
+Oruro,40501,Huachacalla,2005,4,Antirrabica canina,3
+Oruro,40701,Huanuni,2005,4,Antirrabica canina,24
+Oruro,41601,Huayllamarca,2005,4,Antirrabica canina,135
+Chuquisaca,10304,Icla,2005,4,Antirrabica canina,68
+Chuquisaca,10703,Incahuasi,2005,4,Antirrabica canina,62
+La Paz,21001,Inquisivi,2005,4,Antirrabica canina,83
+La Paz,21501,Ixiamas,2005,4,Antirrabica canina,21
+La Paz,20806,Jesus De Machaca,2005,4,Antirrabica canina,148
+La Paz,20101,La Paz,2005,4,Antirrabica canina,742
+Chuquisaca,11003,Machareti,2005,4,Antirrabica canina,45
+Santa Cruz,70903,Mairana,2005,4,Antirrabica canina,1202
+La Paz,20103,Mecapaca,2005,4,Antirrabica canina,67
+Santa Cruz,71003,Mineros,2005,4,Antirrabica canina,95
+Cochabamba,31301,Mizque,2005,4,Antirrabica canina,263
+La Paz,20402,Mocomoco,2005,4,Antirrabica canina,93
+Chuquisaca,10303,Mojocoya,2005,4,Antirrabica canina,8
+Chuquisaca,10501,Monteagudo,2005,4,Antirrabica canina,6
+Santa Cruz,71001,Montero,2005,4,Antirrabica canina,401
+Cochabamba,30302,Morochata,2005,4,Antirrabica canina,788
+Potosí,50404,Ocuri,2005,4,Antirrabica canina,202
+Santa Cruz,70202,Okinawa,2005,4,Antirrabica canina,40
+Oruro,40101,Oruro,2005,4,Antirrabica canina,793
+Tarija,60201,Padcaya,2005,4,Antirrabica canina,314
+La Paz,20102,Palca,2005,4,Antirrabica canina,30
+La Paz,21104,Palos Blancos,2005,4,Antirrabica canina,13
+La Paz,21802,Papel Pampa,2005,4,Antirrabica canina,45
+Cochabamba,30202,Pasorapa,2005,4,Antirrabica canina,93
+Potosí,50403,Pocoata,2005,4,Antirrabica canina,104
+Cochabamba,31203,Pocona,2005,4,Antirrabica canina,243
+Cochabamba,31202,Pojo (cbba),2005,4,Antirrabica canina,376
+Chuquisaca,10103,Poroma,2005,4,Antirrabica canina,176
+Santa Cruz,70103,Porongo,2005,4,Antirrabica canina,482
+Potosí,50101,Potosi,2005,4,Antirrabica canina,1
+Chuquisaca,10302,Presto,2005,4,Antirrabica canina,85
+La Paz,20401,Puerto Acosta,2005,4,Antirrabica canina,7
+La Paz,20403,Puerto Carabuco,2005,4,Antirrabica canina,48
+Beni,80703,Puerto Siles,2005,4,Antirrabica canina,1
+Cochabamba,31205,Puerto Villarroel,2005,4,Antirrabica canina,2247
+Potosí,51101,Puna,2005,4,Antirrabica canina,5
+Cochabamba,31401,Punata,2005,4,Antirrabica canina,392
+Cochabamba,30901,Quillacollo,2005,4,Antirrabica canina,4244
+Potosí,50402,Ravelo,2005,4,Antirrabica canina,62
+Beni,80301,Reyes,2005,4,Antirrabica canina,12
+Cochabamba,31001,Sacaba,2005,4,Antirrabica canina,3000
+Cochabamba,30404,Sacabamba,2005,4,Antirrabica canina,123
+Potosí,50701,Sacaca,2005,4,Antirrabica canina,8
+La Paz,20805,San Andres De Machaca,2005,4,Antirrabica canina,68
+Cochabamba,31403,San Benito,2005,4,Antirrabica canina,257
+La Paz,21502,San Buena Ventura,2005,4,Antirrabica canina,5
+Santa Cruz,70402,San Carlos,2005,4,Antirrabica canina,50
+Santa Cruz,70404,San Juan De Yapacani,2005,4,Antirrabica canina,220
+Santa Cruz,71104,San Julian,2005,4,Antirrabica canina,350
+Tarija,60501,San Lorenzo(tja),2005,4,Antirrabica canina,431
+Chuquisaca,10702,San Lucas,2005,4,Antirrabica canina,97
+Santa Cruz,71005,San Pedro,2005,4,Antirrabica canina,30
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,4,Antirrabica canina,7647
+Cochabamba,30702,Santivañes,2005,4,Antirrabica canina,1338
+La Paz,21301,Sica Sica (villa Aroma),2005,4,Antirrabica canina,62
+Cochabamba,30703,Sicaya,2005,4,Antirrabica canina,119
+Cochabamba,30902,Sipe Sipe,2005,4,Antirrabica canina,234
+Chuquisaca,10403,Sopachuy,2005,4,Antirrabica canina,147
+Chuquisaca,10101,Sucre,2005,4,Antirrabica canina,1948
+Cochabamba,30602,Tacopaya,2005,4,Antirrabica canina,77
+Cochabamba,31101,Tapacari,2005,4,Antirrabica canina,687
+Chuquisaca,10601,Tarabuco,2005,4,Antirrabica canina,695
+La Paz,20807,Taraco,2005,4,Antirrabica canina,15
+Cochabamba,30401,Tarata,2005,4,Antirrabica canina,789
+Tarija,60101,Tarija,2005,4,Antirrabica canina,501
+Chuquisaca,10202,Tarvita,2005,4,Antirrabica canina,25
+La Paz,20803,Tiawanacu,2005,4,Antirrabica canina,40
+Cochabamba,30903,Tiquipaya,2005,4,Antirrabica canina,30
+Cochabamba,31601,Tiraque (cbba),2005,4,Antirrabica canina,431
+Cochabamba,30802,Toco,2005,4,Antirrabica canina,880
+Cochabamba,30803,Tolata,2005,4,Antirrabica canina,213
+Cochabamba,31201,Totora(cbba),2005,4,Antirrabica canina,323
+Potosí,50801,Tupiza,2005,4,Antirrabica canina,5
+Oruro,40402,Turco,2005,4,Antirrabica canina,26
+Potosí,50201,Uncia,2005,4,Antirrabica canina,109
+Tarija,60401,Uriondo (a. Concepcion),2005,4,Antirrabica canina,2529
+Cochabamba,30502,Vacas,2005,4,Antirrabica canina,46
+La Paz,20801,Viacha,2005,4,Antirrabica canina,94
+Cochabamba,31302,Vila Vila,2005,4,Antirrabica canina,69
+Tarija,60303,Villa Montes,2005,4,Antirrabica canina,49
+Cochabamba,31402,Villa Rivero,2005,4,Antirrabica canina,19
+Cochabamba,31003,Villa Tunari,2005,4,Antirrabica canina,629
+Potosí,51501,Villazon,2005,4,Antirrabica canina,306
+Cochabamba,30904,Vinto,2005,4,Antirrabica canina,300
+Tarija,60301,Yacuiba,2005,4,Antirrabica canina,142
+Chuquisaca,10602,Yamparaez,2005,4,Antirrabica canina,130
+Santa Cruz,70403,Yapacani,2005,4,Antirrabica canina,4576
+Chuquisaca,10102,Yotala,2005,4,Antirrabica canina,36
+Tarija,60402,Yunchara,2005,4,Antirrabica canina,615
+Chuquisaca,10301,Zudañez,2005,4,Antirrabica canina,399
+La Paz,20104,Achocalla,2005,5,Antirrabica canina,60
+Cochabamba,30201,Aiquile,2005,5,Antirrabica canina,15
+Cochabamba,31303,Alalay,2005,5,Antirrabica canina,2
+Oruro,41201,Andamarca,2005,5,Antirrabica canina,45
+Potosí,51301,Arampampa,2005,5,Antirrabica canina,10
+Cochabamba,30501,Arani,2005,5,Antirrabica canina,30
+Cochabamba,30403,Arbieto,2005,5,Antirrabica canina,60
+Cochabamba,30601,Arque,2005,5,Antirrabica canina,31
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,5,Antirrabica canina,120
+Chuquisaca,10201,Azurduy,2005,5,Antirrabica canina,73
+Oruro,41202,Belen De Andamarca,2005,5,Antirrabica canina,2
+Pando,90104,Bella Flor,2005,5,Antirrabica canina,12
+Tarija,60202,Bermejo,2005,5,Antirrabica canina,3
+Potosí,50301,Betanzos,2005,5,Antirrabica canina,207
+Cochabamba,31501,Bolivar,2005,5,Antirrabica canina,118
+La Paz,21003,Cajuata,2005,5,Antirrabica canina,60
+Chuquisaca,10701,Camargo,2005,5,Antirrabica canina,103
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,5,Antirrabica canina,40
+Cochabamba,30701,Capinota,2005,5,Antirrabica canina,1012
+La Paz,22001,Caranavi,2005,5,Antirrabica canina,42
+Tarija,60302,Carapari,2005,5,Antirrabica canina,3
+Oruro,40201,Challapata,2005,5,Antirrabica canina,220
+Cochabamba,31204,Chimore,2005,5,Antirrabica canina,990
+La Paz,21101,Chulumani (v. De La Libertad),2005,5,Antirrabica canina,6
+Cochabamba,30801,Cliza,2005,5,Antirrabica canina,67
+Cochabamba,30101,Cochabamba,2005,5,Antirrabica canina,615
+Cochabamba,30905,Colcapirhua,2005,5,Antirrabica canina,204
+La Paz,21307,Collana,2005,5,Antirrabica canina,50
+Cochabamba,31002,Colomi,2005,5,Antirrabica canina,47
+La Paz,21306,Colquencha,2005,5,Antirrabica canina,10
+La Paz,21701,Copacabana,2005,5,Antirrabica canina,8
+La Paz,21402,Coripata,2005,5,Antirrabica canina,112
+La Paz,21401,Coroico,2005,5,Antirrabica canina,4
+Oruro,40301,Corque,2005,5,Antirrabica canina,13
+Santa Cruz,70102,Cotoca,2005,5,Antirrabica canina,50
+Santa Cruz,71106,Cuatro Cañadas,2005,5,Antirrabica canina,285
+Chuquisaca,10902,Culpina,2005,5,Antirrabica canina,310
+Oruro,40401,Curahuara De Carangas,2005,5,Antirrabica canina,12
+La Paz,20804,Desaguadero,2005,5,Antirrabica canina,153
+La Paz,20105,El Alto,2005,5,Antirrabica canina,402
+Tarija,60502,El Puente(tja),2005,5,Antirrabica canina,386
+Tarija,60601,Entre Rios,2005,5,Antirrabica canina,227
+Tarija,60601,Entre Rios,2005,5,Antirrabica canina,69
+Pando,90203,Filadelfia,2005,5,Antirrabica canina,15
+La Paz,20802,Guaqui,2005,5,Antirrabica canina,344
+Oruro,40701,Huanuni,2005,5,Antirrabica canina,8
+Oruro,41601,Huayllamarca,2005,5,Antirrabica canina,17
+Chuquisaca,10304,Icla,2005,5,Antirrabica canina,32
+Chuquisaca,10703,Incahuasi,2005,5,Antirrabica canina,177
+La Paz,20806,Jesus De Machaca,2005,5,Antirrabica canina,182
+Santa Cruz,70104,La Guardia,2005,5,Antirrabica canina,40
+La Paz,20101,La Paz,2005,5,Antirrabica canina,559
+Santa Cruz,70701,Lagunillas,2005,5,Antirrabica canina,117
+Chuquisaca,11003,Machareti,2005,5,Antirrabica canina,35
+Cochabamba,31301,Mizque,2005,5,Antirrabica canina,120
+La Paz,20402,Mocomoco,2005,5,Antirrabica canina,29
+Cochabamba,30302,Morochata,2005,5,Antirrabica canina,697
+Potosí,50404,Ocuri,2005,5,Antirrabica canina,75
+Cochabamba,30203,Omereque,2005,5,Antirrabica canina,108
+Oruro,40101,Oruro,2005,5,Antirrabica canina,246
+Tarija,60201,Padcaya,2005,5,Antirrabica canina,115
+La Paz,20102,Palca,2005,5,Antirrabica canina,39
+La Paz,21104,Palos Blancos,2005,5,Antirrabica canina,12
+Cochabamba,30202,Pasorapa,2005,5,Antirrabica canina,170
+Potosí,50403,Pocoata,2005,5,Antirrabica canina,20
+Cochabamba,31203,Pocona,2005,5,Antirrabica canina,34
+Cochabamba,31202,Pojo (cbba),2005,5,Antirrabica canina,65
+Chuquisaca,10103,Poroma,2005,5,Antirrabica canina,300
+Santa Cruz,70103,Porongo,2005,5,Antirrabica canina,91
+La Paz,20401,Puerto Acosta,2005,5,Antirrabica canina,19
+La Paz,20403,Puerto Carabuco,2005,5,Antirrabica canina,28
+Pando,90301,Puerto Gonzalo Moreno,2005,5,Antirrabica canina,373
+Pando,90201,Puerto Rico,2005,5,Antirrabica canina,286
+Santa Cruz,71401,Puerto Suarez,2005,5,Antirrabica canina,900
+Cochabamba,31205,Puerto Villarroel,2005,5,Antirrabica canina,399
+Potosí,51101,Puna,2005,5,Antirrabica canina,76
+Cochabamba,30901,Quillacollo,2005,5,Antirrabica canina,1695
+Potosí,50402,Ravelo,2005,5,Antirrabica canina,148
+Cochabamba,31001,Sacaba,2005,5,Antirrabica canina,1840
+Cochabamba,30404,Sacabamba,2005,5,Antirrabica canina,8
+Potosí,50701,Sacaca,2005,5,Antirrabica canina,12
+La Paz,20805,San Andres De Machaca,2005,5,Antirrabica canina,9
+Cochabamba,31403,San Benito,2005,5,Antirrabica canina,50
+Beni,80302,San Borja,2005,5,Antirrabica canina,1
+Santa Cruz,71102,San Javier(stc),2005,5,Antirrabica canina,8
+Santa Cruz,70404,San Juan De Yapacani,2005,5,Antirrabica canina,22
+Santa Cruz,71104,San Julian,2005,5,Antirrabica canina,23
+Pando,90302,San Lorenzo(pnd),2005,5,Antirrabica canina,183
+Tarija,60501,San Lorenzo(tja),2005,5,Antirrabica canina,110
+Chuquisaca,10702,San Lucas,2005,5,Antirrabica canina,144
+Potosí,50501,San Pedro De Buena Vista,2005,5,Antirrabica canina,25
+La Paz,21702,San Pedro De Tiquina,2005,5,Antirrabica canina,130
+Santa Cruz,70303,San Rafael,2005,5,Antirrabica canina,100
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,5,Antirrabica canina,52574
+Cochabamba,30702,Santivañes,2005,5,Antirrabica canina,71
+Pando,90303,Sena,2005,5,Antirrabica canina,200
+La Paz,21301,Sica Sica (villa Aroma),2005,5,Antirrabica canina,42
+Cochabamba,30703,Sicaya,2005,5,Antirrabica canina,62
+Cochabamba,30902,Sipe Sipe,2005,5,Antirrabica canina,456
+Oruro,40104,Soracachi,2005,5,Antirrabica canina,29
+Chuquisaca,10101,Sucre,2005,5,Antirrabica canina,350
+Cochabamba,30602,Tacopaya,2005,5,Antirrabica canina,410
+Cochabamba,31101,Tapacari,2005,5,Antirrabica canina,1319
+Chuquisaca,10601,Tarabuco,2005,5,Antirrabica canina,116
+Cochabamba,30401,Tarata,2005,5,Antirrabica canina,95
+Tarija,60101,Tarija,2005,5,Antirrabica canina,75
+Cochabamba,30903,Tiquipaya,2005,5,Antirrabica canina,45
+Cochabamba,31601,Tiraque (cbba),2005,5,Antirrabica canina,764
+La Paz,21703,Tito Yupanqui (parquipujio),2005,5,Antirrabica canina,24
+Cochabamba,30802,Toco,2005,5,Antirrabica canina,160
+Cochabamba,30803,Tolata,2005,5,Antirrabica canina,67
+Potosí,51202,Tomave,2005,5,Antirrabica canina,20
+Cochabamba,31201,Totora(cbba),2005,5,Antirrabica canina,105
+Beni,80101,Trinidad,2005,5,Antirrabica canina,5
+Oruro,40402,Turco,2005,5,Antirrabica canina,9
+Tarija,60401,Uriondo (a. Concepcion),2005,5,Antirrabica canina,1558
+Cochabamba,30502,Vacas,2005,5,Antirrabica canina,67
+La Paz,20801,Viacha,2005,5,Antirrabica canina,151
+Cochabamba,31302,Vila Vila,2005,5,Antirrabica canina,29
+Tarija,60303,Villa Montes,2005,5,Antirrabica canina,44
+Cochabamba,31402,Villa Rivero,2005,5,Antirrabica canina,4
+Cochabamba,31003,Villa Tunari,2005,5,Antirrabica canina,468
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,5,Antirrabica canina,191
+Potosí,51501,Villazon,2005,5,Antirrabica canina,54
+Cochabamba,30904,Vinto,2005,5,Antirrabica canina,155
+Santa Cruz,70201,Warnes,2005,5,Antirrabica canina,399
+Tarija,60301,Yacuiba,2005,5,Antirrabica canina,61
+Chuquisaca,10602,Yamparaez,2005,5,Antirrabica canina,25
+La Paz,21103,Yanacachi,2005,5,Antirrabica canina,2
+Santa Cruz,70403,Yapacani,2005,5,Antirrabica canina,1
+Chuquisaca,10102,Yotala,2005,5,Antirrabica canina,2
+Tarija,60402,Yunchara,2005,5,Antirrabica canina,53
+Chuquisaca,10301,Zudañez,2005,5,Antirrabica canina,62
+La Paz,20104,Achocalla,2005,6,Antirrabica canina,176
+Cochabamba,30201,Aiquile,2005,6,Antirrabica canina,21
+Oruro,41201,Andamarca,2005,6,Antirrabica canina,38
+Potosí,51301,Arampampa,2005,6,Antirrabica canina,15
+Cochabamba,30501,Arani,2005,6,Antirrabica canina,3
+Cochabamba,30403,Arbieto,2005,6,Antirrabica canina,25
+Cochabamba,30601,Arque,2005,6,Antirrabica canina,20
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,6,Antirrabica canina,208
+Oruro,41202,Belen De Andamarca,2005,6,Antirrabica canina,8
+Tarija,60202,Bermejo,2005,6,Antirrabica canina,82
+Potosí,50301,Betanzos,2005,6,Antirrabica canina,118
+Cochabamba,31501,Bolivar,2005,6,Antirrabica canina,22
+Chuquisaca,10701,Camargo,2005,6,Antirrabica canina,44
+Cochabamba,30701,Capinota,2005,6,Antirrabica canina,539
+La Paz,20302,Caquiaviri,2005,6,Antirrabica canina,35
+La Paz,22001,Caranavi,2005,6,Antirrabica canina,327
+Oruro,40201,Challapata,2005,6,Antirrabica canina,48
+Potosí,50302,Chaqui,2005,6,Antirrabica canina,25
+La Paz,20305,Charaña,2005,6,Antirrabica canina,50
+Cochabamba,31204,Chimore,2005,6,Antirrabica canina,98
+Cochabamba,30801,Cliza,2005,6,Antirrabica canina,7
+Cochabamba,30101,Cochabamba,2005,6,Antirrabica canina,1139
+Cochabamba,30905,Colcapirhua,2005,6,Antirrabica canina,212
+Cochabamba,31002,Colomi,2005,6,Antirrabica canina,143
+La Paz,21306,Colquencha,2005,6,Antirrabica canina,23
+La Paz,21004,Colquiri,2005,6,Antirrabica canina,430
+La Paz,21701,Copacabana,2005,6,Antirrabica canina,100
+La Paz,21401,Coroico,2005,6,Antirrabica canina,12
+Oruro,40301,Corque,2005,6,Antirrabica canina,10
+Santa Cruz,70102,Cotoca,2005,6,Antirrabica canina,950
+Santa Cruz,71106,Cuatro Cañadas,2005,6,Antirrabica canina,54
+Chuquisaca,10902,Culpina,2005,6,Antirrabica canina,29
+Oruro,40401,Curahuara De Carangas,2005,6,Antirrabica canina,21
+La Paz,20105,El Alto,2005,6,Antirrabica canina,1884
+Tarija,60502,El Puente(tja),2005,6,Antirrabica canina,177
+Tarija,60601,Entre Rios,2005,6,Antirrabica canina,81
+Tarija,60601,Entre Rios,2005,6,Antirrabica canina,60
+La Paz,20802,Guaqui,2005,6,Antirrabica canina,6
+Oruro,40701,Huanuni,2005,6,Antirrabica canina,12
+Oruro,41601,Huayllamarca,2005,6,Antirrabica canina,26
+Chuquisaca,10703,Incahuasi,2005,6,Antirrabica canina,130
+La Paz,20806,Jesus De Machaca,2005,6,Antirrabica canina,68
+Santa Cruz,70104,La Guardia,2005,6,Antirrabica canina,544
+La Paz,20101,La Paz,2005,6,Antirrabica canina,1561
+Santa Cruz,70701,Lagunillas,2005,6,Antirrabica canina,1124
+La Paz,20103,Mecapaca,2005,6,Antirrabica canina,10
+Cochabamba,31301,Mizque,2005,6,Antirrabica canina,269
+Chuquisaca,10303,Mojocoya,2005,6,Antirrabica canina,8
+Santa Cruz,71001,Montero,2005,6,Antirrabica canina,185
+Cochabamba,30302,Morochata,2005,6,Antirrabica canina,546
+Potosí,50404,Ocuri,2005,6,Antirrabica canina,50
+Cochabamba,30203,Omereque,2005,6,Antirrabica canina,120
+Oruro,40101,Oruro,2005,6,Antirrabica canina,29
+La Paz,20102,Palca,2005,6,Antirrabica canina,43
+La Paz,21104,Palos Blancos,2005,6,Antirrabica canina,36
+Potosí,50403,Pocoata,2005,6,Antirrabica canina,28
+Cochabamba,31203,Pocona,2005,6,Antirrabica canina,99
+Cochabamba,31202,Pojo (cbba),2005,6,Antirrabica canina,1191
+Chuquisaca,10103,Poroma,2005,6,Antirrabica canina,328
+Potosí,50101,Potosi,2005,6,Antirrabica canina,163
+La Paz,20403,Puerto Carabuco,2005,6,Antirrabica canina,131
+Cochabamba,31205,Puerto Villarroel,2005,6,Antirrabica canina,81
+Potosí,51101,Puna,2005,6,Antirrabica canina,110
+Cochabamba,31401,Punata,2005,6,Antirrabica canina,21
+Cochabamba,30901,Quillacollo,2005,6,Antirrabica canina,339
+Cochabamba,31001,Sacaba,2005,6,Antirrabica canina,714
+Cochabamba,30404,Sacabamba,2005,6,Antirrabica canina,7
+Potosí,50701,Sacaca,2005,6,Antirrabica canina,7
+La Paz,20805,San Andres De Machaca,2005,6,Antirrabica canina,1
+Cochabamba,31403,San Benito,2005,6,Antirrabica canina,82
+Santa Cruz,71102,San Javier(stc),2005,6,Antirrabica canina,139
+Santa Cruz,70404,San Juan De Yapacani,2005,6,Antirrabica canina,59
+Santa Cruz,71104,San Julian,2005,6,Antirrabica canina,15
+Tarija,60501,San Lorenzo(tja),2005,6,Antirrabica canina,72
+Chuquisaca,10702,San Lucas,2005,6,Antirrabica canina,58
+Santa Cruz,71005,San Pedro,2005,6,Antirrabica canina,10
+Potosí,50501,San Pedro De Buena Vista,2005,6,Antirrabica canina,55
+La Paz,21702,San Pedro De Tiquina,2005,6,Antirrabica canina,71
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,Antirrabica canina,7738
+Santa Cruz,70602,Santa Rosa Del Sara,2005,6,Antirrabica canina,3879
+Cochabamba,30702,Santivañes,2005,6,Antirrabica canina,59
+La Paz,21301,Sica Sica (villa Aroma),2005,6,Antirrabica canina,37
+Cochabamba,30703,Sicaya,2005,6,Antirrabica canina,24
+Cochabamba,30902,Sipe Sipe,2005,6,Antirrabica canina,108
+Chuquisaca,10101,Sucre,2005,6,Antirrabica canina,26245
+Cochabamba,30602,Tacopaya,2005,6,Antirrabica canina,84
+Cochabamba,31101,Tapacari,2005,6,Antirrabica canina,375
+Chuquisaca,10601,Tarabuco,2005,6,Antirrabica canina,18
+La Paz,20807,Taraco,2005,6,Antirrabica canina,16
+Cochabamba,30401,Tarata,2005,6,Antirrabica canina,14
+Tarija,60101,Tarija,2005,6,Antirrabica canina,1084
+La Paz,20803,Tiawanacu,2005,6,Antirrabica canina,22
+Cochabamba,30903,Tiquipaya,2005,6,Antirrabica canina,175
+Cochabamba,31601,Tiraque (cbba),2005,6,Antirrabica canina,91
+Cochabamba,30802,Toco,2005,6,Antirrabica canina,12
+Potosí,51202,Tomave,2005,6,Antirrabica canina,20
+Chuquisaca,10402,Tomina,2005,6,Antirrabica canina,249
+Cochabamba,31201,Totora(cbba),2005,6,Antirrabica canina,142
+Potosí,50801,Tupiza,2005,6,Antirrabica canina,11
+Tarija,60401,Uriondo (a. Concepcion),2005,6,Antirrabica canina,222
+La Paz,20801,Viacha,2005,6,Antirrabica canina,212
+Cochabamba,31302,Vila Vila,2005,6,Antirrabica canina,4
+Tarija,60303,Villa Montes,2005,6,Antirrabica canina,10
+Cochabamba,31402,Villa Rivero,2005,6,Antirrabica canina,7
+Cochabamba,31003,Villa Tunari,2005,6,Antirrabica canina,420
+Potosí,51501,Villazon,2005,6,Antirrabica canina,1
+Cochabamba,30904,Vinto,2005,6,Antirrabica canina,809
+Santa Cruz,70201,Warnes,2005,6,Antirrabica canina,150
+Tarija,60301,Yacuiba,2005,6,Antirrabica canina,17
+Chuquisaca,10602,Yamparaez,2005,6,Antirrabica canina,34
+Santa Cruz,70403,Yapacani,2005,6,Antirrabica canina,5
+Tarija,60402,Yunchara,2005,6,Antirrabica canina,16
+La Paz,20104,Achocalla,2005,7,Antirrabica canina,10
+Cochabamba,30201,Aiquile,2005,7,Antirrabica canina,35
+Cochabamba,31303,Alalay,2005,7,Antirrabica canina,40
+Oruro,41201,Andamarca,2005,7,Antirrabica canina,10
+Potosí,51301,Arampampa,2005,7,Antirrabica canina,20
+Cochabamba,30501,Arani,2005,7,Antirrabica canina,10
+Cochabamba,30403,Arbieto,2005,7,Antirrabica canina,77
+Cochabamba,30601,Arque,2005,7,Antirrabica canina,88
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,7,Antirrabica canina,66
+Oruro,41202,Belen De Andamarca,2005,7,Antirrabica canina,5
+Tarija,60202,Bermejo,2005,7,Antirrabica canina,36
+Potosí,50301,Betanzos,2005,7,Antirrabica canina,55
+Cochabamba,31501,Bolivar,2005,7,Antirrabica canina,195
+Santa Cruz,70401,Buena Vista,2005,7,Antirrabica canina,18
+Chuquisaca,10701,Camargo,2005,7,Antirrabica canina,10
+Cochabamba,30701,Capinota,2005,7,Antirrabica canina,1846
+Oruro,40102,Caracollo,2005,7,Antirrabica canina,750
+La Paz,22001,Caranavi,2005,7,Antirrabica canina,12
+Tarija,60302,Carapari,2005,7,Antirrabica canina,45
+Oruro,40201,Challapata,2005,7,Antirrabica canina,30
+La Paz,20305,Charaña,2005,7,Antirrabica canina,16
+Cochabamba,31204,Chimore,2005,7,Antirrabica canina,116
+Cochabamba,30801,Cliza,2005,7,Antirrabica canina,49
+Cochabamba,30101,Cochabamba,2005,7,Antirrabica canina,878
+Cochabamba,30905,Colcapirhua,2005,7,Antirrabica canina,160
+Cochabamba,31002,Colomi,2005,7,Antirrabica canina,136
+Santa Cruz,70603,Colpa Belgica,2005,7,Antirrabica canina,450
+La Paz,21306,Colquencha,2005,7,Antirrabica canina,9
+La Paz,21701,Copacabana,2005,7,Antirrabica canina,148
+Oruro,40301,Corque,2005,7,Antirrabica canina,10
+Potosí,50601,Cotagaita,2005,7,Antirrabica canina,235
+Santa Cruz,71106,Cuatro Cañadas,2005,7,Antirrabica canina,23
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2005,7,Antirrabica canina,13
+Oruro,40401,Curahuara De Carangas,2005,7,Antirrabica canina,8
+La Paz,20804,Desaguadero,2005,7,Antirrabica canina,56
+La Paz,20105,El Alto,2005,7,Antirrabica canina,1875
+Tarija,60502,El Puente(tja),2005,7,Antirrabica canina,130
+Tarija,60601,Entre Rios,2005,7,Antirrabica canina,99
+Tarija,60601,Entre Rios,2005,7,Antirrabica canina,375
+Santa Cruz,71002,General Saavedra,2005,7,Antirrabica canina,142
+Oruro,40701,Huanuni,2005,7,Antirrabica canina,5
+Oruro,41601,Huayllamarca,2005,7,Antirrabica canina,73
+Chuquisaca,10703,Incahuasi,2005,7,Antirrabica canina,38
+La Paz,21501,Ixiamas,2005,7,Antirrabica canina,92
+La Paz,20806,Jesus De Machaca,2005,7,Antirrabica canina,99
+La Paz,20101,La Paz,2005,7,Antirrabica canina,4221
+Santa Cruz,70701,Lagunillas,2005,7,Antirrabica canina,135
+Beni,80801,Magdalena,2005,7,Antirrabica canina,5
+Santa Cruz,71003,Mineros,2005,7,Antirrabica canina,57
+Cochabamba,31301,Mizque,2005,7,Antirrabica canina,41
+Chuquisaca,10303,Mojocoya,2005,7,Antirrabica canina,41
+Santa Cruz,71001,Montero,2005,7,Antirrabica canina,39
+Cochabamba,30302,Morochata,2005,7,Antirrabica canina,530
+Pando,90501,Nuevo Manoa (nueva Esperanza),2005,7,Antirrabica canina,1
+Potosí,50404,Ocuri,2005,7,Antirrabica canina,118
+Cochabamba,30203,Omereque,2005,7,Antirrabica canina,207
+Oruro,40101,Oruro,2005,7,Antirrabica canina,140
+Tarija,60201,Padcaya,2005,7,Antirrabica canina,96
+La Paz,20102,Palca,2005,7,Antirrabica canina,20
+Cochabamba,31203,Pocona,2005,7,Antirrabica canina,20
+Chuquisaca,10103,Poroma,2005,7,Antirrabica canina,161
+Santa Cruz,70103,Porongo,2005,7,Antirrabica canina,14
+Santa Cruz,71402,Puerto Quijarro,2005,7,Antirrabica canina,5
+Cochabamba,31205,Puerto Villarroel,2005,7,Antirrabica canina,87
+Cochabamba,31401,Punata,2005,7,Antirrabica canina,39
+Cochabamba,30901,Quillacollo,2005,7,Antirrabica canina,474
+Oruro,40901,Sabaya,2005,7,Antirrabica canina,57
+Cochabamba,31001,Sacaba,2005,7,Antirrabica canina,568
+Cochabamba,30404,Sacabamba,2005,7,Antirrabica canina,22
+La Paz,20805,San Andres De Machaca,2005,7,Antirrabica canina,25
+Cochabamba,31403,San Benito,2005,7,Antirrabica canina,5
+La Paz,21502,San Buena Ventura,2005,7,Antirrabica canina,309
+Santa Cruz,70301,San Ignacio De Velasco,2005,7,Antirrabica canina,19
+Santa Cruz,71104,San Julian,2005,7,Antirrabica canina,41
+Tarija,60501,San Lorenzo(tja),2005,7,Antirrabica canina,31
+Chuquisaca,10702,San Lucas,2005,7,Antirrabica canina,195
+Santa Cruz,71005,San Pedro,2005,7,Antirrabica canina,240
+Potosí,50501,San Pedro De Buena Vista,2005,7,Antirrabica canina,103
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,Antirrabica canina,74764
+Santa Cruz,70602,Santa Rosa Del Sara,2005,7,Antirrabica canina,92
+Oruro,41401,Santiago De Huari,2005,7,Antirrabica canina,340
+Cochabamba,30702,Santivañes,2005,7,Antirrabica canina,28
+La Paz,21301,Sica Sica (villa Aroma),2005,7,Antirrabica canina,6
+Cochabamba,30703,Sicaya,2005,7,Antirrabica canina,71
+Cochabamba,30902,Sipe Sipe,2005,7,Antirrabica canina,131
+Oruro,40104,Soracachi,2005,7,Antirrabica canina,47
+Chuquisaca,10101,Sucre,2005,7,Antirrabica canina,2212
+Cochabamba,31404,Tacachi,2005,7,Antirrabica canina,10
+Cochabamba,30602,Tacopaya,2005,7,Antirrabica canina,66
+Cochabamba,31101,Tapacari,2005,7,Antirrabica canina,374
+Chuquisaca,10601,Tarabuco,2005,7,Antirrabica canina,98
+Cochabamba,30401,Tarata,2005,7,Antirrabica canina,46
+Tarija,60101,Tarija,2005,7,Antirrabica canina,261
+La Paz,20803,Tiawanacu,2005,7,Antirrabica canina,10
+Cochabamba,30903,Tiquipaya,2005,7,Antirrabica canina,42
+Cochabamba,31601,Tiraque (cbba),2005,7,Antirrabica canina,281
+La Paz,21703,Tito Yupanqui (parquipujio),2005,7,Antirrabica canina,4
+Cochabamba,30802,Toco,2005,7,Antirrabica canina,32
+Cochabamba,30803,Tolata,2005,7,Antirrabica canina,48
+Chuquisaca,10402,Tomina,2005,7,Antirrabica canina,256
+Oruro,40402,Turco,2005,7,Antirrabica canina,46
+La Paz,21302,Umala,2005,7,Antirrabica canina,3
+Tarija,60401,Uriondo (a. Concepcion),2005,7,Antirrabica canina,10
+Cochabamba,30502,Vacas,2005,7,Antirrabica canina,8
+La Paz,20801,Viacha,2005,7,Antirrabica canina,513
+Cochabamba,31003,Villa Tunari,2005,7,Antirrabica canina,1132
+Cochabamba,30904,Vinto,2005,7,Antirrabica canina,1413
+Chuquisaca,10602,Yamparaez,2005,7,Antirrabica canina,65
+Santa Cruz,70403,Yapacani,2005,7,Antirrabica canina,4
+Chuquisaca,10102,Yotala,2005,7,Antirrabica canina,4
+Chuquisaca,10301,Zudañez,2005,7,Antirrabica canina,124
+Cochabamba,30201,Aiquile,2005,8,Antirrabica canina,124
+Cochabamba,31303,Alalay,2005,8,Antirrabica canina,329
+Chuquisaca,10404,Alcala,2005,8,Antirrabica canina,350
+Oruro,41201,Andamarca,2005,8,Antirrabica canina,21
+Oruro,40603,Antequera,2005,8,Antirrabica canina,200
+Cochabamba,30402,Anzaldo,2005,8,Antirrabica canina,36
+Potosí,51301,Arampampa,2005,8,Antirrabica canina,10
+Cochabamba,30501,Arani,2005,8,Antirrabica canina,6
+Cochabamba,30403,Arbieto,2005,8,Antirrabica canina,24
+Cochabamba,30601,Arque,2005,8,Antirrabica canina,125
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,8,Antirrabica canina,43
+Chuquisaca,10201,Azurduy,2005,8,Antirrabica canina,140
+Tarija,60202,Bermejo,2005,8,Antirrabica canina,36
+Potosí,50301,Betanzos,2005,8,Antirrabica canina,735
+Cochabamba,31501,Bolivar,2005,8,Antirrabica canina,31
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,8,Antirrabica canina,18
+Cochabamba,30701,Capinota,2005,8,Antirrabica canina,68
+Oruro,40102,Caracollo,2005,8,Antirrabica canina,261
+La Paz,22001,Caranavi,2005,8,Antirrabica canina,21
+Tarija,60302,Carapari,2005,8,Antirrabica canina,1389
+Oruro,40201,Challapata,2005,8,Antirrabica canina,18
+Potosí,50302,Chaqui,2005,8,Antirrabica canina,81
+Cochabamba,31204,Chimore,2005,8,Antirrabica canina,157
+Cochabamba,30801,Cliza,2005,8,Antirrabica canina,114
+Cochabamba,30101,Cochabamba,2005,8,Antirrabica canina,4390
+Cochabamba,30905,Colcapirhua,2005,8,Antirrabica canina,163
+Cochabamba,31002,Colomi,2005,8,Antirrabica canina,1679
+Potosí,50401,Colquechaca,2005,8,Antirrabica canina,198
+La Paz,21306,Colquencha,2005,8,Antirrabica canina,136
+La Paz,21701,Copacabana,2005,8,Antirrabica canina,30
+Oruro,40301,Corque,2005,8,Antirrabica canina,5
+Potosí,50601,Cotagaita,2005,8,Antirrabica canina,3
+Santa Cruz,70102,Cotoca,2005,8,Antirrabica canina,110
+Santa Cruz,71106,Cuatro Cañadas,2005,8,Antirrabica canina,650
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2005,8,Antirrabica canina,19
+Chuquisaca,10902,Culpina,2005,8,Antirrabica canina,216
+Oruro,40401,Curahuara De Carangas,2005,8,Antirrabica canina,30
+La Paz,20804,Desaguadero,2005,8,Antirrabica canina,232
+La Paz,20105,El Alto,2005,8,Antirrabica canina,109444
+Tarija,60502,El Puente(tja),2005,8,Antirrabica canina,49
+Tarija,60601,Entre Rios,2005,8,Antirrabica canina,203
+Tarija,60601,Entre Rios,2005,8,Antirrabica canina,604
+Santa Cruz,71002,General Saavedra,2005,8,Antirrabica canina,476
+Oruro,40701,Huanuni,2005,8,Antirrabica canina,86
+Oruro,41601,Huayllamarca,2005,8,Antirrabica canina,23
+Chuquisaca,10304,Icla,2005,8,Antirrabica canina,436
+La Paz,21501,Ixiamas,2005,8,Antirrabica canina,38
+La Paz,20806,Jesus De Machaca,2005,8,Antirrabica canina,81
+Santa Cruz,70104,La Guardia,2005,8,Antirrabica canina,1682
+La Paz,20101,La Paz,2005,8,Antirrabica canina,101245
+Oruro,41501,La Rivera,2005,8,Antirrabica canina,30
+La Paz,20103,Mecapaca,2005,8,Antirrabica canina,18
+Cochabamba,31301,Mizque,2005,8,Antirrabica canina,382
+Chuquisaca,10303,Mojocoya,2005,8,Antirrabica canina,53
+Santa Cruz,71001,Montero,2005,8,Antirrabica canina,1
+Cochabamba,30302,Morochata,2005,8,Antirrabica canina,859
+Potosí,50404,Ocuri,2005,8,Antirrabica canina,165
+Cochabamba,30203,Omereque,2005,8,Antirrabica canina,22
+Oruro,40101,Oruro,2005,8,Antirrabica canina,189
+Tarija,60201,Padcaya,2005,8,Antirrabica canina,21
+La Paz,20102,Palca,2005,8,Antirrabica canina,98
+Cochabamba,30202,Pasorapa,2005,8,Antirrabica canina,23
+La Paz,21305,Patacamaya,2005,8,Antirrabica canina,20
+Oruro,40602,Pazña,2005,8,Antirrabica canina,63
+Potosí,50403,Pocoata,2005,8,Antirrabica canina,38
+Chuquisaca,10103,Poroma,2005,8,Antirrabica canina,87
+Santa Cruz,70103,Porongo,2005,8,Antirrabica canina,589
+Santa Cruz,70601,Portachuelo,2005,8,Antirrabica canina,246
+Santa Cruz,70804,Postrer Valle,2005,8,Antirrabica canina,80
+Cochabamba,31205,Puerto Villarroel,2005,8,Antirrabica canina,819
+Cochabamba,31401,Punata,2005,8,Antirrabica canina,30
+La Paz,20604,Quiabaya,2005,8,Antirrabica canina,88
+Cochabamba,30901,Quillacollo,2005,8,Antirrabica canina,3372
+Potosí,50402,Ravelo,2005,8,Antirrabica canina,18
+Beni,80301,Reyes,2005,8,Antirrabica canina,30
+Oruro,40901,Sabaya,2005,8,Antirrabica canina,130
+Cochabamba,31001,Sacaba,2005,8,Antirrabica canina,10639
+Cochabamba,30404,Sacabamba,2005,8,Antirrabica canina,15
+Oruro,40801,Salinas De Garci Mendoza,2005,8,Antirrabica canina,4
+La Paz,20805,San Andres De Machaca,2005,8,Antirrabica canina,30
+Beni,80302,San Borja,2005,8,Antirrabica canina,993
+Santa Cruz,70301,San Ignacio De Velasco,2005,8,Antirrabica canina,22
+Santa Cruz,70404,San Juan De Yapacani,2005,8,Antirrabica canina,20
+Tarija,60501,San Lorenzo(tja),2005,8,Antirrabica canina,183
+Chuquisaca,10702,San Lucas,2005,8,Antirrabica canina,151
+Santa Cruz,71005,San Pedro,2005,8,Antirrabica canina,30
+Potosí,50501,San Pedro De Buena Vista,2005,8,Antirrabica canina,228
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,Antirrabica canina,36764
+Santa Cruz,70602,Santa Rosa Del Sara,2005,8,Antirrabica canina,4
+Oruro,41401,Santiago De Huari,2005,8,Antirrabica canina,267
+Cochabamba,30702,Santivañes,2005,8,Antirrabica canina,121
+La Paz,21301,Sica Sica (villa Aroma),2005,8,Antirrabica canina,23
+Cochabamba,30703,Sicaya,2005,8,Antirrabica canina,15
+Cochabamba,30902,Sipe Sipe,2005,8,Antirrabica canina,481
+Oruro,40104,Soracachi,2005,8,Antirrabica canina,88
+Chuquisaca,10101,Sucre,2005,8,Antirrabica canina,354
+Cochabamba,30602,Tacopaya,2005,8,Antirrabica canina,141
+Cochabamba,31101,Tapacari,2005,8,Antirrabica canina,173
+Chuquisaca,10601,Tarabuco,2005,8,Antirrabica canina,206
+La Paz,20807,Taraco,2005,8,Antirrabica canina,72
+Cochabamba,30401,Tarata,2005,8,Antirrabica canina,16
+Tarija,60101,Tarija,2005,8,Antirrabica canina,19087
+La Paz,20803,Tiawanacu,2005,8,Antirrabica canina,61
+Cochabamba,30903,Tiquipaya,2005,8,Antirrabica canina,83
+Cochabamba,31601,Tiraque (cbba),2005,8,Antirrabica canina,288
+Cochabamba,30802,Toco,2005,8,Antirrabica canina,32
+Cochabamba,30803,Tolata,2005,8,Antirrabica canina,31
+Oruro,41001,Toledo,2005,8,Antirrabica canina,194
+Chuquisaca,10402,Tomina,2005,8,Antirrabica canina,1622
+Oruro,40402,Turco,2005,8,Antirrabica canina,126
+La Paz,21302,Umala,2005,8,Antirrabica canina,1
+Santa Cruz,71502,Urubicha,2005,8,Antirrabica canina,29
+Cochabamba,30502,Vacas,2005,8,Antirrabica canina,3
+La Paz,20801,Viacha,2005,8,Antirrabica canina,157
+Tarija,60303,Villa Montes,2005,8,Antirrabica canina,4794
+Cochabamba,31003,Villa Tunari,2005,8,Antirrabica canina,540
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,8,Antirrabica canina,278
+Potosí,51501,Villazon,2005,8,Antirrabica canina,3480
+Cochabamba,30904,Vinto,2005,8,Antirrabica canina,535
+Santa Cruz,70201,Warnes,2005,8,Antirrabica canina,1216
+Tarija,60301,Yacuiba,2005,8,Antirrabica canina,13489
+Santa Cruz,70403,Yapacani,2005,8,Antirrabica canina,17
+Chuquisaca,10102,Yotala,2005,8,Antirrabica canina,570
+Tarija,60402,Yunchara,2005,8,Antirrabica canina,103
+Potosí,51302,Acacio,2005,9,Antirrabica canina,270
+La Paz,20201,Achacachi,2005,9,Antirrabica canina,7039
+La Paz,20104,Achocalla,2005,9,Antirrabica canina,460
+Cochabamba,30201,Aiquile,2005,9,Antirrabica canina,403
+Chuquisaca,10404,Alcala,2005,9,Antirrabica canina,705
+La Paz,20202,Ancoraimes,2005,9,Antirrabica canina,286
+Oruro,40603,Antequera,2005,9,Antirrabica canina,68
+Cochabamba,30402,Anzaldo,2005,9,Antirrabica canina,20
+Potosí,51301,Arampampa,2005,9,Antirrabica canina,218
+Cochabamba,30501,Arani,2005,9,Antirrabica canina,2
+Cochabamba,30403,Arbieto,2005,9,Antirrabica canina,376
+Cochabamba,30601,Arque,2005,9,Antirrabica canina,433
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,9,Antirrabica canina,134
+Potosí,50104,Belen De Urmiri,2005,9,Antirrabica canina,11
+Tarija,60202,Bermejo,2005,9,Antirrabica canina,6129
+Cochabamba,31501,Bolivar,2005,9,Antirrabica canina,942
+Potosí,51102,"Caiza ""d""",2005,9,Antirrabica canina,80
+La Paz,21304,Calamarca,2005,9,Antirrabica canina,665
+Chuquisaca,10701,Camargo,2005,9,Antirrabica canina,33
+Cochabamba,30701,Capinota,2005,9,Antirrabica canina,2339
+Oruro,40102,Caracollo,2005,9,Antirrabica canina,271
+Tarija,60302,Carapari,2005,9,Antirrabica canina,2447
+Oruro,40201,Challapata,2005,9,Antirrabica canina,74
+Potosí,50302,Chaqui,2005,9,Antirrabica canina,50
+Cochabamba,30801,Cliza,2005,9,Antirrabica canina,109
+Cochabamba,30101,Cochabamba,2005,9,Antirrabica canina,5372
+Cochabamba,30905,Colcapirhua,2005,9,Antirrabica canina,192
+Cochabamba,31002,Colomi,2005,9,Antirrabica canina,46
+La Paz,21306,Colquencha,2005,9,Antirrabica canina,312
+Santa Cruz,71301,Comarapa,2005,9,Antirrabica canina,90
+La Paz,20605,Combaya,2005,9,Antirrabica canina,99
+La Paz,21402,Coripata,2005,9,Antirrabica canina,336
+La Paz,21401,Coroico,2005,9,Antirrabica canina,51
+Oruro,40301,Corque,2005,9,Antirrabica canina,58
+Potosí,50601,Cotagaita,2005,9,Antirrabica canina,796
+Santa Cruz,70102,Cotoca,2005,9,Antirrabica canina,1395
+Chuquisaca,10902,Culpina,2005,9,Antirrabica canina,10
+Oruro,40401,Curahuara De Carangas,2005,9,Antirrabica canina,30
+La Paz,20105,El Alto,2005,9,Antirrabica canina,5941
+Oruro,40103,El Choro,2005,9,Antirrabica canina,92
+Tarija,60502,El Puente(tja),2005,9,Antirrabica canina,24
+Santa Cruz,70105,El Torno,2005,9,Antirrabica canina,1847
+Tarija,60601,Entre Rios,2005,9,Antirrabica canina,379
+Tarija,60601,Entre Rios,2005,9,Antirrabica canina,918
+Santa Cruz,71004,Fernandez Alonso,2005,9,Antirrabica canina,1490
+Santa Cruz,71002,General Saavedra,2005,9,Antirrabica canina,344
+La Paz,21601,Gral. J.j. Perez (charazani),2005,9,Antirrabica canina,90
+La Paz,20802,Guaqui,2005,9,Antirrabica canina,20
+Chuquisaca,10502,Huacareta,2005,9,Antirrabica canina,181
+Oruro,40701,Huanuni,2005,9,Antirrabica canina,313
+Oruro,41601,Huayllamarca,2005,9,Antirrabica canina,3
+Chuquisaca,10304,Icla,2005,9,Antirrabica canina,505
+Chuquisaca,10703,Incahuasi,2005,9,Antirrabica canina,12
+La Paz,20806,Jesus De Machaca,2005,9,Antirrabica canina,105
+Santa Cruz,70104,La Guardia,2005,9,Antirrabica canina,2320
+La Paz,20101,La Paz,2005,9,Antirrabica canina,2134
+Oruro,40702,Machacamarca,2005,9,Antirrabica canina,279
+Chuquisaca,11003,Machareti,2005,9,Antirrabica canina,100
+La Paz,20607,Mapiri,2005,9,Antirrabica canina,15
+La Paz,20103,Mecapaca,2005,9,Antirrabica canina,10
+Santa Cruz,71003,Mineros,2005,9,Antirrabica canina,380
+Cochabamba,31301,Mizque,2005,9,Antirrabica canina,266
+La Paz,20402,Mocomoco,2005,9,Antirrabica canina,17
+Chuquisaca,10501,Monteagudo,2005,9,Antirrabica canina,700
+Santa Cruz,71001,Montero,2005,9,Antirrabica canina,5661
+Cochabamba,30302,Morochata,2005,9,Antirrabica canina,757
+Potosí,50404,Ocuri,2005,9,Antirrabica canina,10
+Santa Cruz,70202,Okinawa,2005,9,Antirrabica canina,597
+Cochabamba,30203,Omereque,2005,9,Antirrabica canina,89
+Oruro,40101,Oruro,2005,9,Antirrabica canina,17
+Tarija,60201,Padcaya,2005,9,Antirrabica canina,1146
+Santa Cruz,70502,Pailon,2005,9,Antirrabica canina,58
+La Paz,20102,Palca,2005,9,Antirrabica canina,22
+La Paz,21104,Palos Blancos,2005,9,Antirrabica canina,3106
+Cochabamba,30202,Pasorapa,2005,9,Antirrabica canina,24
+La Paz,21305,Patacamaya,2005,9,Antirrabica canina,20
+Oruro,40602,Pazña,2005,9,Antirrabica canina,168
+Potosí,50403,Pocoata,2005,9,Antirrabica canina,149
+Chuquisaca,10103,Poroma,2005,9,Antirrabica canina,254
+Santa Cruz,70103,Porongo,2005,9,Antirrabica canina,14
+Santa Cruz,70601,Portachuelo,2005,9,Antirrabica canina,2870
+Potosí,50101,Potosi,2005,9,Antirrabica canina,90
+Chuquisaca,10302,Presto,2005,9,Antirrabica canina,101
+La Paz,21201,Pucarani,2005,9,Antirrabica canina,255
+La Paz,20401,Puerto Acosta,2005,9,Antirrabica canina,298
+La Paz,20403,Puerto Carabuco,2005,9,Antirrabica canina,450
+Cochabamba,31205,Puerto Villarroel,2005,9,Antirrabica canina,74
+Cochabamba,31401,Punata,2005,9,Antirrabica canina,25
+La Paz,20604,Quiabaya,2005,9,Antirrabica canina,149
+Cochabamba,30901,Quillacollo,2005,9,Antirrabica canina,611
+Beni,80301,Reyes,2005,9,Antirrabica canina,1141
+Oruro,40901,Sabaya,2005,9,Antirrabica canina,4
+Cochabamba,31001,Sacaba,2005,9,Antirrabica canina,3
+Cochabamba,30404,Sacabamba,2005,9,Antirrabica canina,10
+La Paz,20805,San Andres De Machaca,2005,9,Antirrabica canina,41
+Cochabamba,31403,San Benito,2005,9,Antirrabica canina,84
+Beni,80302,San Borja,2005,9,Antirrabica canina,10
+Tarija,60501,San Lorenzo(tja),2005,9,Antirrabica canina,1920
+Chuquisaca,10702,San Lucas,2005,9,Antirrabica canina,188
+Santa Cruz,71005,San Pedro,2005,9,Antirrabica canina,1655
+Potosí,50501,San Pedro De Buena Vista,2005,9,Antirrabica canina,35
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,9,Antirrabica canina,7742
+Santa Cruz,70602,Santa Rosa Del Sara,2005,9,Antirrabica canina,802
+Oruro,41401,Santiago De Huari,2005,9,Antirrabica canina,63
+Cochabamba,30702,Santivañes,2005,9,Antirrabica canina,1429
+La Paz,20902,Sapahaqui,2005,9,Antirrabica canina,199
+La Paz,21301,Sica Sica (villa Aroma),2005,9,Antirrabica canina,5
+Cochabamba,30703,Sicaya,2005,9,Antirrabica canina,400
+Cochabamba,30902,Sipe Sipe,2005,9,Antirrabica canina,330
+Oruro,40104,Soracachi,2005,9,Antirrabica canina,198
+La Paz,20601,Sorata,2005,9,Antirrabica canina,548
+Chuquisaca,10101,Sucre,2005,9,Antirrabica canina,105
+La Paz,20603,Tacacoma,2005,9,Antirrabica canina,190
+Cochabamba,30602,Tacopaya,2005,9,Antirrabica canina,1744
+Cochabamba,31101,Tapacari,2005,9,Antirrabica canina,96
+Chuquisaca,10601,Tarabuco,2005,9,Antirrabica canina,255
+La Paz,20807,Taraco,2005,9,Antirrabica canina,28
+Cochabamba,30401,Tarata,2005,9,Antirrabica canina,34
+Tarija,60101,Tarija,2005,9,Antirrabica canina,861
+Chuquisaca,10202,Tarvita,2005,9,Antirrabica canina,570
+La Paz,20803,Tiawanacu,2005,9,Antirrabica canina,262
+Cochabamba,30903,Tiquipaya,2005,9,Antirrabica canina,72
+Cochabamba,31601,Tiraque (cbba),2005,9,Antirrabica canina,100
+Cochabamba,30802,Toco,2005,9,Antirrabica canina,40
+Cochabamba,30803,Tolata,2005,9,Antirrabica canina,23
+Oruro,41001,Toledo,2005,9,Antirrabica canina,118
+Potosí,51202,Tomave,2005,9,Antirrabica canina,35
+Chuquisaca,10402,Tomina,2005,9,Antirrabica canina,48
+Potosí,50502,Toro Toro,2005,9,Antirrabica canina,1068
+Beni,80101,Trinidad,2005,9,Antirrabica canina,5359
+Oruro,40402,Turco,2005,9,Antirrabica canina,22
+La Paz,21302,Umala,2005,9,Antirrabica canina,8
+Potosí,50201,Uncia,2005,9,Antirrabica canina,506
+Cochabamba,30502,Vacas,2005,9,Antirrabica canina,27
+La Paz,20801,Viacha,2005,9,Antirrabica canina,3499
+Tarija,60303,Villa Montes,2005,9,Antirrabica canina,1218
+Cochabamba,31402,Villa Rivero,2005,9,Antirrabica canina,2
+Cochabamba,31003,Villa Tunari,2005,9,Antirrabica canina,117
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,9,Antirrabica canina,168
+Potosí,51501,Villazon,2005,9,Antirrabica canina,219
+Cochabamba,30904,Vinto,2005,9,Antirrabica canina,136
+Santa Cruz,70201,Warnes,2005,9,Antirrabica canina,416
+Tarija,60301,Yacuiba,2005,9,Antirrabica canina,5573
+Santa Cruz,70403,Yapacani,2005,9,Antirrabica canina,46
+Chuquisaca,10102,Yotala,2005,9,Antirrabica canina,204
+Tarija,60402,Yunchara,2005,9,Antirrabica canina,14
+Potosí,51302,Acacio,2005,10,Antirrabica canina,1
+La Paz,20201,Achacachi,2005,10,Antirrabica canina,10
+La Paz,20104,Achocalla,2005,10,Antirrabica canina,131
+Cochabamba,30201,Aiquile,2005,10,Antirrabica canina,138
+Cochabamba,31303,Alalay,2005,10,Antirrabica canina,16
+Chuquisaca,10404,Alcala,2005,10,Antirrabica canina,194
+Oruro,41201,Andamarca,2005,10,Antirrabica canina,34
+Oruro,40603,Antequera,2005,10,Antirrabica canina,11
+Cochabamba,30402,Anzaldo,2005,10,Antirrabica canina,211
+La Paz,20701,Apolo,2005,10,Antirrabica canina,276
+Potosí,51301,Arampampa,2005,10,Antirrabica canina,44
+Cochabamba,30501,Arani,2005,10,Antirrabica canina,8
+Cochabamba,30403,Arbieto,2005,10,Antirrabica canina,118
+Cochabamba,30601,Arque,2005,10,Antirrabica canina,129
+Potosí,50802,Atocha,2005,10,Antirrabica canina,847
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,10,Antirrabica canina,106
+La Paz,21203,Batallas,2005,10,Antirrabica canina,1373
+Oruro,41202,Belen De Andamarca,2005,10,Antirrabica canina,23
+Potosí,50104,Belen De Urmiri,2005,10,Antirrabica canina,52
+Tarija,60202,Bermejo,2005,10,Antirrabica canina,196
+Cochabamba,31501,Bolivar,2005,10,Antirrabica canina,35
+La Paz,20905,Cairoma,2005,10,Antirrabica canina,29
+Potosí,51102,"Caiza ""d""",2005,10,Antirrabica canina,104
+La Paz,21304,Calamarca,2005,10,Antirrabica canina,90
+Chuquisaca,10701,Camargo,2005,10,Antirrabica canina,33
+Cochabamba,30701,Capinota,2005,10,Antirrabica canina,252
+La Paz,20302,Caquiaviri,2005,10,Antirrabica canina,10
+Oruro,40102,Caracollo,2005,10,Antirrabica canina,5
+La Paz,22001,Caranavi,2005,10,Antirrabica canina,1192
+Santa Cruz,71403,Carmen Rivero Torrez,2005,10,Antirrabica canina,100
+Oruro,40201,Challapata,2005,10,Antirrabica canina,33
+Potosí,50302,Chaqui,2005,10,Antirrabica canina,129
+Santa Cruz,70702,Charagua,2005,10,Antirrabica canina,12
+Potosí,50202,Chayanta,2005,10,Antirrabica canina,28
+La Paz,21101,Chulumani (v. De La Libertad),2005,10,Antirrabica canina,12
+Cochabamba,30801,Cliza,2005,10,Antirrabica canina,53
+Cochabamba,30101,Cochabamba,2005,10,Antirrabica canina,4088
+Cochabamba,30905,Colcapirhua,2005,10,Antirrabica canina,235
+La Paz,21307,Collana,2005,10,Antirrabica canina,170
+Cochabamba,31002,Colomi,2005,10,Antirrabica canina,36
+Santa Cruz,70603,Colpa Belgica,2005,10,Antirrabica canina,7
+Potosí,50401,Colquechaca,2005,10,Antirrabica canina,66
+La Paz,21306,Colquencha,2005,10,Antirrabica canina,535
+La Paz,21701,Copacabana,2005,10,Antirrabica canina,249
+La Paz,21402,Coripata,2005,10,Antirrabica canina,78
+La Paz,20301,Coro Coro,2005,10,Antirrabica canina,269
+La Paz,21401,Coroico,2005,10,Antirrabica canina,638
+Oruro,40301,Corque,2005,10,Antirrabica canina,210
+Potosí,50601,Cotagaita,2005,10,Antirrabica canina,285
+Santa Cruz,70102,Cotoca,2005,10,Antirrabica canina,1412
+Oruro,40401,Curahuara De Carangas,2005,10,Antirrabica canina,160
+La Paz,20105,El Alto,2005,10,Antirrabica canina,1650
+Oruro,40103,El Choro,2005,10,Antirrabica canina,242
+Santa Cruz,70105,El Torno,2005,10,Antirrabica canina,4245
+Tarija,60601,Entre Rios,2005,10,Antirrabica canina,324
+Tarija,60601,Entre Rios,2005,10,Antirrabica canina,83
+Oruro,41101,Eucaliptus,2005,10,Antirrabica canina,340
+Santa Cruz,71002,General Saavedra,2005,10,Antirrabica canina,454
+La Paz,21601,Gral. J.j. Perez (charazani),2005,10,Antirrabica canina,83
+La Paz,20802,Guaqui,2005,10,Antirrabica canina,848
+Beni,80202,Guayaramerin,2005,10,Antirrabica canina,3629
+Oruro,41601,Huayllamarca,2005,10,Antirrabica canina,39
+Chuquisaca,10304,Icla,2005,10,Antirrabica canina,296
+La Paz,21001,Inquisivi,2005,10,Antirrabica canina,486
+La Paz,20806,Jesus De Machaca,2005,10,Antirrabica canina,1016
+La Paz,21105,La Asunta,2005,10,Antirrabica canina,82
+Santa Cruz,70104,La Guardia,2005,10,Antirrabica canina,1756
+La Paz,20101,La Paz,2005,10,Antirrabica canina,2078
+La Paz,21202,Laja,2005,10,Antirrabica canina,2330
+Beni,80601,Loreto,2005,10,Antirrabica canina,3
+Oruro,40702,Machacamarca,2005,10,Antirrabica canina,410
+La Paz,20607,Mapiri,2005,10,Antirrabica canina,996
+La Paz,20103,Mecapaca,2005,10,Antirrabica canina,431
+Santa Cruz,71003,Mineros,2005,10,Antirrabica canina,1048
+Cochabamba,31301,Mizque,2005,10,Antirrabica canina,8
+La Paz,20402,Mocomoco,2005,10,Antirrabica canina,580
+Santa Cruz,71001,Montero,2005,10,Antirrabica canina,210
+Cochabamba,30302,Morochata,2005,10,Antirrabica canina,615
+Santa Cruz,70202,Okinawa,2005,10,Antirrabica canina,393
+Cochabamba,30203,Omereque,2005,10,Antirrabica canina,42
+Oruro,40101,Oruro,2005,10,Antirrabica canina,270
+Tarija,60201,Padcaya,2005,10,Antirrabica canina,60
+La Paz,20102,Palca,2005,10,Antirrabica canina,17
+La Paz,21104,Palos Blancos,2005,10,Antirrabica canina,71
+La Paz,21305,Patacamaya,2005,10,Antirrabica canina,1103
+Oruro,40602,Pazña,2005,10,Antirrabica canina,70
+Potosí,50403,Pocoata,2005,10,Antirrabica canina,476
+Chuquisaca,10103,Poroma,2005,10,Antirrabica canina,138
+Santa Cruz,70103,Porongo,2005,10,Antirrabica canina,12
+Chuquisaca,10302,Presto,2005,10,Antirrabica canina,455
+La Paz,21201,Pucarani,2005,10,Antirrabica canina,1913
+La Paz,20401,Puerto Acosta,2005,10,Antirrabica canina,605
+La Paz,20403,Puerto Carabuco,2005,10,Antirrabica canina,228
+La Paz,21204,Puerto Perez,2005,10,Antirrabica canina,223
+Santa Cruz,71402,Puerto Quijarro,2005,10,Antirrabica canina,500
+Beni,80703,Puerto Siles,2005,10,Antirrabica canina,80
+Cochabamba,31205,Puerto Villarroel,2005,10,Antirrabica canina,15
+Potosí,51101,Puna,2005,10,Antirrabica canina,391
+Cochabamba,31401,Punata,2005,10,Antirrabica canina,252
+Cochabamba,30901,Quillacollo,2005,10,Antirrabica canina,149
+Santa Cruz,70904,Quirusillas,2005,10,Antirrabica canina,203
+Beni,80301,Reyes,2005,10,Antirrabica canina,300
+Santa Cruz,70503,Robore,2005,10,Antirrabica canina,586
+Oruro,40901,Sabaya,2005,10,Antirrabica canina,5
+Cochabamba,31001,Sacaba,2005,10,Antirrabica canina,156
+Cochabamba,30404,Sacabamba,2005,10,Antirrabica canina,22
+Potosí,50701,Sacaca,2005,10,Antirrabica canina,20
+La Paz,20805,San Andres De Machaca,2005,10,Antirrabica canina,199
+Cochabamba,31403,San Benito,2005,10,Antirrabica canina,2
+Beni,80302,San Borja,2005,10,Antirrabica canina,55
+Santa Cruz,70402,San Carlos,2005,10,Antirrabica canina,20
+Beni,80501,San Ignacio,2005,10,Antirrabica canina,529
+Beni,80701,San Joaquin,2005,10,Antirrabica canina,690
+Santa Cruz,70404,San Juan De Yapacani,2005,10,Antirrabica canina,476
+Pando,90302,San Lorenzo(pnd),2005,10,Antirrabica canina,49
+Chuquisaca,10702,San Lucas,2005,10,Antirrabica canina,345
+Santa Cruz,71005,San Pedro,2005,10,Antirrabica canina,190
+Potosí,50501,San Pedro De Buena Vista,2005,10,Antirrabica canina,214
+La Paz,21702,San Pedro De Tiquina,2005,10,Antirrabica canina,25
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,10,Antirrabica canina,36278
+Santa Cruz,70602,Santa Rosa Del Sara,2005,10,Antirrabica canina,3
+Oruro,41401,Santiago De Huari,2005,10,Antirrabica canina,18
+Cochabamba,30702,Santivañes,2005,10,Antirrabica canina,34
+La Paz,20902,Sapahaqui,2005,10,Antirrabica canina,127
+Cochabamba,30703,Sicaya,2005,10,Antirrabica canina,20
+Cochabamba,30902,Sipe Sipe,2005,10,Antirrabica canina,276
+Oruro,40104,Soracachi,2005,10,Antirrabica canina,67
+La Paz,20601,Sorata,2005,10,Antirrabica canina,766
+Chuquisaca,10101,Sucre,2005,10,Antirrabica canina,226
+Cochabamba,31404,Tacachi,2005,10,Antirrabica canina,10
+Cochabamba,30602,Tacopaya,2005,10,Antirrabica canina,178
+Cochabamba,31101,Tapacari,2005,10,Antirrabica canina,33
+Chuquisaca,10601,Tarabuco,2005,10,Antirrabica canina,529
+Cochabamba,30401,Tarata,2005,10,Antirrabica canina,29
+Tarija,60101,Tarija,2005,10,Antirrabica canina,173
+Chuquisaca,10202,Tarvita,2005,10,Antirrabica canina,100
+La Paz,20606,Tipuani,2005,10,Antirrabica canina,1
+Cochabamba,30903,Tiquipaya,2005,10,Antirrabica canina,2505
+Cochabamba,31601,Tiraque (cbba),2005,10,Antirrabica canina,67
+Cochabamba,30802,Toco,2005,10,Antirrabica canina,122
+Cochabamba,30803,Tolata,2005,10,Antirrabica canina,53
+Oruro,41001,Toledo,2005,10,Antirrabica canina,59
+Potosí,51202,Tomave,2005,10,Antirrabica canina,98
+Potosí,50502,Toro Toro,2005,10,Antirrabica canina,442
+Potosí,50801,Tupiza,2005,10,Antirrabica canina,60
+Oruro,40402,Turco,2005,10,Antirrabica canina,32
+La Paz,21302,Umala,2005,10,Antirrabica canina,463
+Potosí,51201,Uyuni,2005,10,Antirrabica canina,241
+Cochabamba,30502,Vacas,2005,10,Antirrabica canina,21
+La Paz,20801,Viacha,2005,10,Antirrabica canina,185
+Tarija,60303,Villa Montes,2005,10,Antirrabica canina,218
+Cochabamba,31402,Villa Rivero,2005,10,Antirrabica canina,31
+Cochabamba,31003,Villa Tunari,2005,10,Antirrabica canina,345
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,10,Antirrabica canina,140
+Potosí,51501,Villazon,2005,10,Antirrabica canina,183
+Cochabamba,30904,Vinto,2005,10,Antirrabica canina,186
+Santa Cruz,70201,Warnes,2005,10,Antirrabica canina,786
+Tarija,60301,Yacuiba,2005,10,Antirrabica canina,8
+La Paz,21103,Yanacachi,2005,10,Antirrabica canina,71
+Santa Cruz,70403,Yapacani,2005,10,Antirrabica canina,65
+Chuquisaca,10102,Yotala,2005,10,Antirrabica canina,332
+Potosí,51302,Acacio,2005,11,Antirrabica canina,44
+La Paz,20104,Achocalla,2005,11,Antirrabica canina,1304
+Cochabamba,30201,Aiquile,2005,11,Antirrabica canina,28
+Chuquisaca,10404,Alcala,2005,11,Antirrabica canina,37
+Oruro,41201,Andamarca,2005,11,Antirrabica canina,10
+Oruro,40603,Antequera,2005,11,Antirrabica canina,11
+Cochabamba,30402,Anzaldo,2005,11,Antirrabica canina,38
+La Paz,20701,Apolo,2005,11,Antirrabica canina,15
+Cochabamba,30501,Arani,2005,11,Antirrabica canina,10
+Cochabamba,30403,Arbieto,2005,11,Antirrabica canina,119
+Cochabamba,30601,Arque,2005,11,Antirrabica canina,142
+Potosí,50802,Atocha,2005,11,Antirrabica canina,214
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,11,Antirrabica canina,66
+La Paz,21203,Batallas,2005,11,Antirrabica canina,733
+Oruro,41202,Belen De Andamarca,2005,11,Antirrabica canina,11
+Potosí,50104,Belen De Urmiri,2005,11,Antirrabica canina,27
+Tarija,60202,Bermejo,2005,11,Antirrabica canina,63
+Potosí,50301,Betanzos,2005,11,Antirrabica canina,304
+Cochabamba,31501,Bolivar,2005,11,Antirrabica canina,63
+La Paz,20905,Cairoma,2005,11,Antirrabica canina,182
+Potosí,51102,"Caiza ""d""",2005,11,Antirrabica canina,15
+Chuquisaca,10701,Camargo,2005,11,Antirrabica canina,20
+Cochabamba,30701,Capinota,2005,11,Antirrabica canina,150
+La Paz,20302,Caquiaviri,2005,11,Antirrabica canina,971
+Oruro,40102,Caracollo,2005,11,Antirrabica canina,13
+La Paz,22001,Caranavi,2005,11,Antirrabica canina,1089
+Tarija,60302,Carapari,2005,11,Antirrabica canina,7
+Potosí,50702,Caripuyo,2005,11,Antirrabica canina,55
+Santa Cruz,71403,Carmen Rivero Torrez,2005,11,Antirrabica canina,50
+Oruro,40201,Challapata,2005,11,Antirrabica canina,318
+Potosí,50302,Chaqui,2005,11,Antirrabica canina,10
+Oruro,40302,Choque Cota,2005,11,Antirrabica canina,16
+La Paz,21101,Chulumani (v. De La Libertad),2005,11,Antirrabica canina,10
+Cochabamba,30801,Cliza,2005,11,Antirrabica canina,144
+Cochabamba,30101,Cochabamba,2005,11,Antirrabica canina,4175
+Cochabamba,30905,Colcapirhua,2005,11,Antirrabica canina,343
+La Paz,21307,Collana,2005,11,Antirrabica canina,34
+Cochabamba,31002,Colomi,2005,11,Antirrabica canina,137
+Santa Cruz,70603,Colpa Belgica,2005,11,Antirrabica canina,4
+Potosí,50401,Colquechaca,2005,11,Antirrabica canina,290
+La Paz,21306,Colquencha,2005,11,Antirrabica canina,49
+La Paz,21004,Colquiri,2005,11,Antirrabica canina,516
+La Paz,20304,Comanche,2005,11,Antirrabica canina,300
+Santa Cruz,71301,Comarapa,2005,11,Antirrabica canina,730
+Santa Cruz,71101,Concepcion,2005,11,Antirrabica canina,1080
+La Paz,21701,Copacabana,2005,11,Antirrabica canina,195
+La Paz,20301,Coro Coro,2005,11,Antirrabica canina,473
+La Paz,21401,Coroico,2005,11,Antirrabica canina,165
+Oruro,40301,Corque,2005,11,Antirrabica canina,67
+Santa Cruz,70102,Cotoca,2005,11,Antirrabica canina,2394
+Santa Cruz,71106,Cuatro Cañadas,2005,11,Antirrabica canina,194
+Oruro,40401,Curahuara De Carangas,2005,11,Antirrabica canina,47
+La Paz,20105,El Alto,2005,11,Antirrabica canina,6224
+Oruro,40103,El Choro,2005,11,Antirrabica canina,140
+Santa Cruz,71503,El Puente(stc),2005,11,Antirrabica canina,534
+Santa Cruz,70105,El Torno,2005,11,Antirrabica canina,1600
+Chuquisaca,10405,El Villar,2005,11,Antirrabica canina,220
+Tarija,60601,Entre Rios,2005,11,Antirrabica canina,66
+Tarija,60601,Entre Rios,2005,11,Antirrabica canina,670
+Oruro,41101,Eucaliptus,2005,11,Antirrabica canina,119
+Santa Cruz,71002,General Saavedra,2005,11,Antirrabica canina,355
+La Paz,20602,Guanay,2005,11,Antirrabica canina,759
+La Paz,20802,Guaqui,2005,11,Antirrabica canina,137
+Santa Cruz,70705,Gutierrez,2005,11,Antirrabica canina,909
+Oruro,40501,Huachacalla,2005,11,Antirrabica canina,53
+Oruro,41601,Huayllamarca,2005,11,Antirrabica canina,22
+Chuquisaca,10304,Icla,2005,11,Antirrabica canina,134
+La Paz,21001,Inquisivi,2005,11,Antirrabica canina,1091
+La Paz,20806,Jesus De Machaca,2005,11,Antirrabica canina,160
+La Paz,21105,La Asunta,2005,11,Antirrabica canina,78
+Santa Cruz,70104,La Guardia,2005,11,Antirrabica canina,116
+La Paz,20101,La Paz,2005,11,Antirrabica canina,3366
+Oruro,41501,La Rivera,2005,11,Antirrabica canina,16
+La Paz,20607,Mapiri,2005,11,Antirrabica canina,104
+La Paz,20103,Mecapaca,2005,11,Antirrabica canina,226
+Cochabamba,31301,Mizque,2005,11,Antirrabica canina,708
+La Paz,20402,Mocomoco,2005,11,Antirrabica canina,162
+Chuquisaca,10501,Monteagudo,2005,11,Antirrabica canina,1
+Santa Cruz,71001,Montero,2005,11,Antirrabica canina,7
+Santa Cruz,70803,Moro Moro,2005,11,Antirrabica canina,164
+Cochabamba,30302,Morochata,2005,11,Antirrabica canina,654
+Potosí,50404,Ocuri,2005,11,Antirrabica canina,37
+Santa Cruz,70202,Okinawa,2005,11,Antirrabica canina,154
+Cochabamba,30203,Omereque,2005,11,Antirrabica canina,5
+Oruro,40101,Oruro,2005,11,Antirrabica canina,727
+Tarija,60201,Padcaya,2005,11,Antirrabica canina,25
+Chuquisaca,10401,Padilla,2005,11,Antirrabica canina,367
+La Paz,20102,Palca,2005,11,Antirrabica canina,201
+La Paz,21104,Palos Blancos,2005,11,Antirrabica canina,10
+Santa Cruz,70902,Pampa Grande,2005,11,Antirrabica canina,386
+La Paz,21802,Papel Pampa,2005,11,Antirrabica canina,89
+La Paz,21305,Patacamaya,2005,11,Antirrabica canina,92
+Oruro,40602,Pazña,2005,11,Antirrabica canina,3
+Cochabamba,31202,Pojo (cbba),2005,11,Antirrabica canina,16
+Chuquisaca,10103,Poroma,2005,11,Antirrabica canina,233
+Santa Cruz,70103,Porongo,2005,11,Antirrabica canina,527
+Santa Cruz,70601,Portachuelo,2005,11,Antirrabica canina,90
+Santa Cruz,70804,Postrer Valle,2005,11,Antirrabica canina,430
+Chuquisaca,10302,Presto,2005,11,Antirrabica canina,67
+La Paz,21201,Pucarani,2005,11,Antirrabica canina,182
+La Paz,20403,Puerto Carabuco,2005,11,Antirrabica canina,99
+La Paz,21204,Puerto Perez,2005,11,Antirrabica canina,64
+Santa Cruz,71402,Puerto Quijarro,2005,11,Antirrabica canina,131
+Potosí,51101,Puna,2005,11,Antirrabica canina,548
+Cochabamba,31401,Punata,2005,11,Antirrabica canina,109
+La Paz,20604,Quiabaya,2005,11,Antirrabica canina,45
+Cochabamba,30901,Quillacollo,2005,11,Antirrabica canina,618
+Potosí,50402,Ravelo,2005,11,Antirrabica canina,207
+Beni,80201,Riberalta,2005,11,Antirrabica canina,3502
+Santa Cruz,70503,Robore,2005,11,Antirrabica canina,95
+Cochabamba,31001,Sacaba,2005,11,Antirrabica canina,155
+Cochabamba,30404,Sacabamba,2005,11,Antirrabica canina,45
+Potosí,50701,Sacaca,2005,11,Antirrabica canina,64
+Santa Cruz,71302,Saipina,2005,11,Antirrabica canina,919
+Santa Cruz,70901,Samaipata,2005,11,Antirrabica canina,214
+Beni,80602,San Andres,2005,11,Antirrabica canina,1
+La Paz,20805,San Andres De Machaca,2005,11,Antirrabica canina,56
+Cochabamba,31403,San Benito,2005,11,Antirrabica canina,51
+Beni,80302,San Borja,2005,11,Antirrabica canina,541
+Beni,80501,San Ignacio,2005,11,Antirrabica canina,874
+Santa Cruz,70301,San Ignacio De Velasco,2005,11,Antirrabica canina,4393
+Santa Cruz,71102,San Javier(stc),2005,11,Antirrabica canina,1500
+Santa Cruz,71104,San Julian,2005,11,Antirrabica canina,1678
+Chuquisaca,10702,San Lucas,2005,11,Antirrabica canina,369
+Santa Cruz,70302,San Miguel De Velasco,2005,11,Antirrabica canina,241
+Potosí,50501,San Pedro De Buena Vista,2005,11,Antirrabica canina,125
+Santa Cruz,70303,San Rafael,2005,11,Antirrabica canina,241
+Beni,80702,San Ramon,2005,11,Antirrabica canina,828
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,11,Antirrabica canina,21624
+Santa Cruz,70602,Santa Rosa Del Sara,2005,11,Antirrabica canina,50
+Oruro,41401,Santiago De Huari,2005,11,Antirrabica canina,26
+Cochabamba,30702,Santivañes,2005,11,Antirrabica canina,51
+La Paz,20902,Sapahaqui,2005,11,Antirrabica canina,51
+La Paz,21301,Sica Sica (villa Aroma),2005,11,Antirrabica canina,14
+Cochabamba,30902,Sipe Sipe,2005,11,Antirrabica canina,153
+Oruro,40104,Soracachi,2005,11,Antirrabica canina,143
+La Paz,20601,Sorata,2005,11,Antirrabica canina,348
+Chuquisaca,10101,Sucre,2005,11,Antirrabica canina,238
+Cochabamba,31404,Tacachi,2005,11,Antirrabica canina,16
+Cochabamba,30602,Tacopaya,2005,11,Antirrabica canina,76
+Cochabamba,31101,Tapacari,2005,11,Antirrabica canina,48
+Chuquisaca,10601,Tarabuco,2005,11,Antirrabica canina,5
+La Paz,20807,Taraco,2005,11,Antirrabica canina,695
+Cochabamba,30401,Tarata,2005,11,Antirrabica canina,23
+Tarija,60101,Tarija,2005,11,Antirrabica canina,550
+Chuquisaca,10202,Tarvita,2005,11,Antirrabica canina,102
+La Paz,20608,Teoponte,2005,11,Antirrabica canina,114
+La Paz,20606,Tipuani,2005,11,Antirrabica canina,623
+Cochabamba,30903,Tiquipaya,2005,11,Antirrabica canina,54
+Cochabamba,31601,Tiraque (cbba),2005,11,Antirrabica canina,199
+Cochabamba,30802,Toco,2005,11,Antirrabica canina,241
+Cochabamba,30803,Tolata,2005,11,Antirrabica canina,72
+Oruro,41001,Toledo,2005,11,Antirrabica canina,61
+Potosí,51202,Tomave,2005,11,Antirrabica canina,33
+Potosí,50502,Toro Toro,2005,11,Antirrabica canina,193
+Potosí,50801,Tupiza,2005,11,Antirrabica canina,4547
+Oruro,40402,Turco,2005,11,Antirrabica canina,24
+La Paz,21302,Umala,2005,11,Antirrabica canina,147
+Santa Cruz,71502,Urubicha,2005,11,Antirrabica canina,1
+Potosí,51201,Uyuni,2005,11,Antirrabica canina,62
+Cochabamba,30502,Vacas,2005,11,Antirrabica canina,70
+La Paz,20801,Viacha,2005,11,Antirrabica canina,843
+Cochabamba,31302,Vila Vila,2005,11,Antirrabica canina,1
+Cochabamba,31402,Villa Rivero,2005,11,Antirrabica canina,36
+Cochabamba,31003,Villa Tunari,2005,11,Antirrabica canina,192
+Potosí,51501,Villazon,2005,11,Antirrabica canina,115
+Cochabamba,30904,Vinto,2005,11,Antirrabica canina,345
+Potosí,50602,Vitichi,2005,11,Antirrabica canina,288
+Santa Cruz,70201,Warnes,2005,11,Antirrabica canina,2060
+Tarija,60301,Yacuiba,2005,11,Antirrabica canina,152
+Chuquisaca,10602,Yamparaez,2005,11,Antirrabica canina,135
+La Paz,21103,Yanacachi,2005,11,Antirrabica canina,219
+Santa Cruz,70403,Yapacani,2005,11,Antirrabica canina,432
+Chuquisaca,10102,Yotala,2005,11,Antirrabica canina,259
+Chuquisaca,10301,Zudañez,2005,11,Antirrabica canina,268
+Potosí,51302,Acacio,2005,12,Antirrabica canina,26
+Cochabamba,30201,Aiquile,2005,12,Antirrabica canina,31
+Chuquisaca,10404,Alcala,2005,12,Antirrabica canina,52
+Oruro,40603,Antequera,2005,12,Antirrabica canina,11
+Cochabamba,30402,Anzaldo,2005,12,Antirrabica canina,70
+Cochabamba,30501,Arani,2005,12,Antirrabica canina,45
+Cochabamba,30403,Arbieto,2005,12,Antirrabica canina,310
+Cochabamba,30601,Arque,2005,12,Antirrabica canina,28
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,12,Antirrabica canina,48
+Oruro,41202,Belen De Andamarca,2005,12,Antirrabica canina,10
+Potosí,50104,Belen De Urmiri,2005,12,Antirrabica canina,10
+Tarija,60202,Bermejo,2005,12,Antirrabica canina,10
+Potosí,50301,Betanzos,2005,12,Antirrabica canina,120
+Cochabamba,31501,Bolivar,2005,12,Antirrabica canina,25
+Santa Cruz,70703,Cabezas,2005,12,Antirrabica canina,677
+La Paz,20905,Cairoma,2005,12,Antirrabica canina,9
+La Paz,21304,Calamarca,2005,12,Antirrabica canina,274
+Chuquisaca,10701,Camargo,2005,12,Antirrabica canina,6
+Cochabamba,30701,Capinota,2005,12,Antirrabica canina,108
+La Paz,20302,Caquiaviri,2005,12,Antirrabica canina,88
+Oruro,40102,Caracollo,2005,12,Antirrabica canina,5
+La Paz,22001,Caranavi,2005,12,Antirrabica canina,364
+Santa Cruz,71403,Carmen Rivero Torrez,2005,12,Antirrabica canina,10
+Oruro,40201,Challapata,2005,12,Antirrabica canina,38
+Cochabamba,31204,Chimore,2005,12,Antirrabica canina,91
+Oruro,40302,Choque Cota,2005,12,Antirrabica canina,5
+La Paz,21101,Chulumani (v. De La Libertad),2005,12,Antirrabica canina,80
+Cochabamba,30801,Cliza,2005,12,Antirrabica canina,73
+Pando,90101,Cobija,2005,12,Antirrabica canina,24
+Cochabamba,30101,Cochabamba,2005,12,Antirrabica canina,1139
+Cochabamba,30905,Colcapirhua,2005,12,Antirrabica canina,746
+Potosí,50901,"Colcha ""k""",2005,12,Antirrabica canina,20
+Cochabamba,31002,Colomi,2005,12,Antirrabica canina,61
+Santa Cruz,70603,Colpa Belgica,2005,12,Antirrabica canina,87
+Potosí,50401,Colquechaca,2005,12,Antirrabica canina,100
+La Paz,21306,Colquencha,2005,12,Antirrabica canina,123
+La Paz,21004,Colquiri,2005,12,Antirrabica canina,192
+Santa Cruz,71301,Comarapa,2005,12,Antirrabica canina,1618
+La Paz,21701,Copacabana,2005,12,Antirrabica canina,135
+La Paz,20301,Coro Coro,2005,12,Antirrabica canina,25
+La Paz,21401,Coroico,2005,12,Antirrabica canina,1
+Oruro,40301,Corque,2005,12,Antirrabica canina,22
+Santa Cruz,70102,Cotoca,2005,12,Antirrabica canina,1469
+Santa Cruz,71106,Cuatro Cañadas,2005,12,Antirrabica canina,70
+Santa Cruz,70704,Cuevo,2005,12,Antirrabica canina,810
+Oruro,40401,Curahuara De Carangas,2005,12,Antirrabica canina,25
+La Paz,20804,Desaguadero,2005,12,Antirrabica canina,47
+La Paz,20105,El Alto,2005,12,Antirrabica canina,3258
+Oruro,40103,El Choro,2005,12,Antirrabica canina,16
+Santa Cruz,71503,El Puente(stc),2005,12,Antirrabica canina,1707
+Santa Cruz,70105,El Torno,2005,12,Antirrabica canina,400
+Tarija,60601,Entre Rios,2005,12,Antirrabica canina,17
+Tarija,60601,Entre Rios,2005,12,Antirrabica canina,5
+Santa Cruz,71002,General Saavedra,2005,12,Antirrabica canina,144
+La Paz,20602,Guanay,2005,12,Antirrabica canina,74
+Santa Cruz,70705,Gutierrez,2005,12,Antirrabica canina,933
+Chuquisaca,10502,Huacareta,2005,12,Antirrabica canina,258
+Oruro,40501,Huachacalla,2005,12,Antirrabica canina,10
+La Paz,21005,Ichoca,2005,12,Antirrabica canina,254
+Chuquisaca,10304,Icla,2005,12,Antirrabica canina,12
+Chuquisaca,10703,Incahuasi,2005,12,Antirrabica canina,49
+La Paz,21001,Inquisivi,2005,12,Antirrabica canina,246
+La Paz,20806,Jesus De Machaca,2005,12,Antirrabica canina,91
+La Paz,20101,La Paz,2005,12,Antirrabica canina,1530
+Oruro,41501,La Rivera,2005,12,Antirrabica canina,4
+Santa Cruz,70701,Lagunillas,2005,12,Antirrabica canina,344
+La Paz,21006,Licoma Pampa,2005,12,Antirrabica canina,375
+Potosí,51401,Llica,2005,12,Antirrabica canina,57
+Beni,80601,Loreto,2005,12,Antirrabica canina,50
+Chuquisaca,11003,Machareti,2005,12,Antirrabica canina,572
+La Paz,20103,Mecapaca,2005,12,Antirrabica canina,90
+Cochabamba,31301,Mizque,2005,12,Antirrabica canina,379
+La Paz,20402,Mocomoco,2005,12,Antirrabica canina,2
+Chuquisaca,10303,Mojocoya,2005,12,Antirrabica canina,229
+Santa Cruz,71001,Montero,2005,12,Antirrabica canina,11
+Santa Cruz,70803,Moro Moro,2005,12,Antirrabica canina,170
+Cochabamba,30302,Morochata,2005,12,Antirrabica canina,920
+Santa Cruz,70202,Okinawa,2005,12,Antirrabica canina,98
+Cochabamba,30203,Omereque,2005,12,Antirrabica canina,99
+Oruro,40101,Oruro,2005,12,Antirrabica canina,2191
+Chuquisaca,10401,Padilla,2005,12,Antirrabica canina,968
+Santa Cruz,70502,Pailon,2005,12,Antirrabica canina,400
+La Paz,20102,Palca,2005,12,Antirrabica canina,28
+La Paz,21104,Palos Blancos,2005,12,Antirrabica canina,18
+La Paz,21802,Papel Pampa,2005,12,Antirrabica canina,15
+Cochabamba,30202,Pasorapa,2005,12,Antirrabica canina,520
+Cochabamba,31203,Pocona,2005,12,Antirrabica canina,348
+Cochabamba,31202,Pojo (cbba),2005,12,Antirrabica canina,60
+Chuquisaca,10103,Poroma,2005,12,Antirrabica canina,72
+Santa Cruz,70103,Porongo,2005,12,Antirrabica canina,84
+Santa Cruz,70804,Postrer Valle,2005,12,Antirrabica canina,170
+La Paz,20401,Puerto Acosta,2005,12,Antirrabica canina,2
+La Paz,20403,Puerto Carabuco,2005,12,Antirrabica canina,16
+Santa Cruz,71402,Puerto Quijarro,2005,12,Antirrabica canina,25
+Potosí,51101,Puna,2005,12,Antirrabica canina,19
+Cochabamba,31401,Punata,2005,12,Antirrabica canina,238
+Cochabamba,30901,Quillacollo,2005,12,Antirrabica canina,3361
+Potosí,50402,Ravelo,2005,12,Antirrabica canina,319
+Santa Cruz,70503,Robore,2005,12,Antirrabica canina,40
+Oruro,40901,Sabaya,2005,12,Antirrabica canina,8
+Cochabamba,31001,Sacaba,2005,12,Antirrabica canina,834
+Cochabamba,30404,Sacabamba,2005,12,Antirrabica canina,32
+Potosí,50701,Sacaca,2005,12,Antirrabica canina,202
+La Paz,20805,San Andres De Machaca,2005,12,Antirrabica canina,72
+Cochabamba,31403,San Benito,2005,12,Antirrabica canina,9
+Beni,80302,San Borja,2005,12,Antirrabica canina,59
+Santa Cruz,70301,San Ignacio De Velasco,2005,12,Antirrabica canina,504
+Santa Cruz,71104,San Julian,2005,12,Antirrabica canina,5403
+Chuquisaca,10702,San Lucas,2005,12,Antirrabica canina,10
+Santa Cruz,71201,San Matias,2005,12,Antirrabica canina,1114
+Santa Cruz,70302,San Miguel De Velasco,2005,12,Antirrabica canina,232
+Santa Cruz,71005,San Pedro,2005,12,Antirrabica canina,300
+Potosí,50501,San Pedro De Buena Vista,2005,12,Antirrabica canina,10
+Santa Cruz,70303,San Rafael,2005,12,Antirrabica canina,11
+Beni,80702,San Ramon,2005,12,Antirrabica canina,777
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,12,Antirrabica canina,66241
+Santa Cruz,70602,Santa Rosa Del Sara,2005,12,Antirrabica canina,260
+Oruro,41401,Santiago De Huari,2005,12,Antirrabica canina,13
+Cochabamba,30702,Santivañes,2005,12,Antirrabica canina,56
+La Paz,21301,Sica Sica (villa Aroma),2005,12,Antirrabica canina,55
+Cochabamba,30902,Sipe Sipe,2005,12,Antirrabica canina,308
+Oruro,40104,Soracachi,2005,12,Antirrabica canina,33
+Chuquisaca,10101,Sucre,2005,12,Antirrabica canina,6
+Cochabamba,31404,Tacachi,2005,12,Antirrabica canina,5
+Cochabamba,30602,Tacopaya,2005,12,Antirrabica canina,60
+Cochabamba,31101,Tapacari,2005,12,Antirrabica canina,125
+Cochabamba,30401,Tarata,2005,12,Antirrabica canina,23
+Tarija,60101,Tarija,2005,12,Antirrabica canina,646
+Chuquisaca,10202,Tarvita,2005,12,Antirrabica canina,540
+La Paz,20608,Teoponte,2005,12,Antirrabica canina,74
+La Paz,20803,Tiawanacu,2005,12,Antirrabica canina,69
+La Paz,20606,Tipuani,2005,12,Antirrabica canina,21
+Cochabamba,30903,Tiquipaya,2005,12,Antirrabica canina,10
+Cochabamba,31601,Tiraque (cbba),2005,12,Antirrabica canina,462
+Cochabamba,30802,Toco,2005,12,Antirrabica canina,2
+Cochabamba,30803,Tolata,2005,12,Antirrabica canina,404
+Oruro,41001,Toledo,2005,12,Antirrabica canina,44
+Potosí,51202,Tomave,2005,12,Antirrabica canina,25
+Potosí,50502,Toro Toro,2005,12,Antirrabica canina,2
+Santa Cruz,70802,Trigal,2005,12,Antirrabica canina,522
+Potosí,50801,Tupiza,2005,12,Antirrabica canina,107
+Oruro,40402,Turco,2005,12,Antirrabica canina,3
+La Paz,21302,Umala,2005,12,Antirrabica canina,71
+Santa Cruz,71502,Urubicha,2005,12,Antirrabica canina,950
+Potosí,51201,Uyuni,2005,12,Antirrabica canina,398
+Cochabamba,30502,Vacas,2005,12,Antirrabica canina,10
+Santa Cruz,70801,Vallegrande,2005,12,Antirrabica canina,2389
+La Paz,20801,Viacha,2005,12,Antirrabica canina,11
+Cochabamba,31302,Vila Vila,2005,12,Antirrabica canina,3
+Cochabamba,31402,Villa Rivero,2005,12,Antirrabica canina,5
+Cochabamba,31003,Villa Tunari,2005,12,Antirrabica canina,136
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,12,Antirrabica canina,641
+Potosí,51501,Villazon,2005,12,Antirrabica canina,2926
+Cochabamba,30904,Vinto,2005,12,Antirrabica canina,500
+Potosí,50602,Vitichi,2005,12,Antirrabica canina,150
+Santa Cruz,70201,Warnes,2005,12,Antirrabica canina,221
+Tarija,60301,Yacuiba,2005,12,Antirrabica canina,54
+La Paz,21103,Yanacachi,2005,12,Antirrabica canina,91
+Santa Cruz,70403,Yapacani,2005,12,Antirrabica canina,244
+Chuquisaca,10102,Yotala,2005,12,Antirrabica canina,107
+La Paz,20201,Achacachi,2005,1,TOTAL,66
+La Paz,20104,Achocalla,2005,1,TOTAL,70
+Cochabamba,30201,Aiquile,2005,1,TOTAL,15
+Cochabamba,31303,Alalay,2005,1,TOTAL,34
+Oruro,41201,Andamarca,2005,1,TOTAL,15
+Cochabamba,30402,Anzaldo,2005,1,TOTAL,168
+Cochabamba,30501,Arani,2005,1,TOTAL,45
+Cochabamba,30403,Arbieto,2005,1,TOTAL,81
+Cochabamba,30601,Arque,2005,1,TOTAL,19
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,1,TOTAL,62
+Tarija,60202,Bermejo,2005,1,TOTAL,500
+Cochabamba,31501,Bolivar,2005,1,TOTAL,192
+Santa Cruz,70401,Buena Vista,2005,1,TOTAL,249
+La Paz,20303,Calacoto,2005,1,TOTAL,15
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,1,TOTAL,50
+Cochabamba,30701,Capinota,2005,1,TOTAL,1782
+La Paz,20302,Caquiaviri,2005,1,TOTAL,20
+Oruro,40102,Caracollo,2005,1,TOTAL,5
+Tarija,60302,Carapari,2005,1,TOTAL,5424
+Potosí,50302,Chaqui,2005,1,TOTAL,11
+La Paz,21101,Chulumani (v. De La Libertad),2005,1,TOTAL,30
+Cochabamba,30801,Cliza,2005,1,TOTAL,76
+Cochabamba,30101,Cochabamba,2005,1,TOTAL,2558
+Cochabamba,30905,Colcapirhua,2005,1,TOTAL,430
+Cochabamba,31002,Colomi,2005,1,TOTAL,191
+La Paz,21306,Colquencha,2005,1,TOTAL,98
+La Paz,21004,Colquiri,2005,1,TOTAL,40
+Santa Cruz,71301,Comarapa,2005,1,TOTAL,47
+La Paz,21701,Copacabana,2005,1,TOTAL,17
+La Paz,21402,Coripata,2005,1,TOTAL,84
+La Paz,21401,Coroico,2005,1,TOTAL,345
+Oruro,40301,Corque,2005,1,TOTAL,5
+Santa Cruz,71106,Cuatro Cañadas,2005,1,TOTAL,1035
+Oruro,40401,Curahuara De Carangas,2005,1,TOTAL,7
+La Paz,20804,Desaguadero,2005,1,TOTAL,2
+La Paz,20105,El Alto,2005,1,TOTAL,2780
+Santa Cruz,70105,El Torno,2005,1,TOTAL,2292
+Tarija,60601,Entre Rios,2005,1,TOTAL,1144
+Santa Cruz,71002,General Saavedra,2005,1,TOTAL,38
+Chuquisaca,10502,Huacareta,2005,1,TOTAL,153
+Oruro,40501,Huachacalla,2005,1,TOTAL,18
+Chuquisaca,10703,Incahuasi,2005,1,TOTAL,38
+La Paz,21001,Inquisivi,2005,1,TOTAL,113
+La Paz,20806,Jesus De Machaca,2005,1,TOTAL,6
+La Paz,21105,La Asunta,2005,1,TOTAL,10
+Santa Cruz,70104,La Guardia,2005,1,TOTAL,226
+La Paz,20101,La Paz,2005,1,TOTAL,4412
+Chuquisaca,10903,Las Carreras,2005,1,TOTAL,10
+Chuquisaca,11003,Machareti,2005,1,TOTAL,250
+La Paz,20103,Mecapaca,2005,1,TOTAL,49
+La Paz,20402,Mocomoco,2005,1,TOTAL,9
+Chuquisaca,10303,Mojocoya,2005,1,TOTAL,16
+Chuquisaca,10501,Monteagudo,2005,1,TOTAL,50
+Santa Cruz,71001,Montero,2005,1,TOTAL,1
+Cochabamba,30302,Morochata,2005,1,TOTAL,369
+Potosí,50404,Ocuri,2005,1,TOTAL,120
+Oruro,40101,Oruro,2005,1,TOTAL,33
+Tarija,60201,Padcaya,2005,1,TOTAL,171
+Chuquisaca,10401,Padilla,2005,1,TOTAL,39
+La Paz,20102,Palca,2005,1,TOTAL,18
+La Paz,21104,Palos Blancos,2005,1,TOTAL,12
+La Paz,21305,Patacamaya,2005,1,TOTAL,180
+Potosí,50403,Pocoata,2005,1,TOTAL,8
+Cochabamba,31203,Pocona,2005,1,TOTAL,56
+Cochabamba,31202,Pojo (cbba),2005,1,TOTAL,68
+Chuquisaca,10103,Poroma,2005,1,TOTAL,203
+Santa Cruz,70103,Porongo,2005,1,TOTAL,125
+Potosí,50101,Potosi,2005,1,TOTAL,14992
+La Paz,20401,Puerto Acosta,2005,1,TOTAL,15
+Cochabamba,31205,Puerto Villarroel,2005,1,TOTAL,97
+Cochabamba,31401,Punata,2005,1,TOTAL,288
+Cochabamba,30901,Quillacollo,2005,1,TOTAL,761
+Cochabamba,31001,Sacaba,2005,1,TOTAL,3005
+Cochabamba,30404,Sacabamba,2005,1,TOTAL,15
+La Paz,20805,San Andres De Machaca,2005,1,TOTAL,18
+Cochabamba,31403,San Benito,2005,1,TOTAL,30
+Santa Cruz,70402,San Carlos,2005,1,TOTAL,464
+Beni,80501,San Ignacio,2005,1,TOTAL,8
+Santa Cruz,71104,San Julian,2005,1,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2005,1,TOTAL,172
+Chuquisaca,10702,San Lucas,2005,1,TOTAL,46
+Santa Cruz,71005,San Pedro,2005,1,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2005,1,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,1,TOTAL,847
+Cochabamba,30702,Santivañes,2005,1,TOTAL,44
+La Paz,21301,Sica Sica (villa Aroma),2005,1,TOTAL,83
+Cochabamba,30703,Sicaya,2005,1,TOTAL,86
+Cochabamba,30902,Sipe Sipe,2005,1,TOTAL,163
+Chuquisaca,10403,Sopachuy,2005,1,TOTAL,67
+Chuquisaca,10101,Sucre,2005,1,TOTAL,59
+Cochabamba,30602,Tacopaya,2005,1,TOTAL,337
+Cochabamba,31101,Tapacari,2005,1,TOTAL,63
+Chuquisaca,10601,Tarabuco,2005,1,TOTAL,60
+Cochabamba,30401,Tarata,2005,1,TOTAL,28
+Tarija,60101,Tarija,2005,1,TOTAL,365
+La Paz,20803,Tiawanacu,2005,1,TOTAL,10
+Cochabamba,30903,Tiquipaya,2005,1,TOTAL,1269
+Cochabamba,31601,Tiraque (cbba),2005,1,TOTAL,75
+Cochabamba,30803,Tolata,2005,1,TOTAL,8
+Chuquisaca,10402,Tomina,2005,1,TOTAL,50
+Cochabamba,31201,Totora(cbba),2005,1,TOTAL,88
+Potosí,50801,Tupiza,2005,1,TOTAL,6
+Oruro,40402,Turco,2005,1,TOTAL,93
+La Paz,21302,Umala,2005,1,TOTAL,178
+Cochabamba,30502,Vacas,2005,1,TOTAL,173
+La Paz,20801,Viacha,2005,1,TOTAL,870
+Tarija,60303,Villa Montes,2005,1,TOTAL,876
+Cochabamba,31402,Villa Rivero,2005,1,TOTAL,88
+Cochabamba,31003,Villa Tunari,2005,1,TOTAL,989
+Cochabamba,30904,Vinto,2005,1,TOTAL,415
+Santa Cruz,70201,Warnes,2005,1,TOTAL,201
+Tarija,60301,Yacuiba,2005,1,TOTAL,3694
+Chuquisaca,10602,Yamparaez,2005,1,TOTAL,47
+Chuquisaca,10301,Zudañez,2005,1,TOTAL,28
+La Paz,20201,Achacachi,2005,2,TOTAL,15
+Cochabamba,30201,Aiquile,2005,2,TOTAL,83
+Oruro,41201,Andamarca,2005,2,TOTAL,15
+Cochabamba,30402,Anzaldo,2005,2,TOTAL,208
+La Paz,20701,Apolo,2005,2,TOTAL,1
+Cochabamba,30501,Arani,2005,2,TOTAL,12
+Cochabamba,30403,Arbieto,2005,2,TOTAL,350
+Cochabamba,30601,Arque,2005,2,TOTAL,288
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,2,TOTAL,136
+Tarija,60202,Bermejo,2005,2,TOTAL,136
+Cochabamba,31501,Bolivar,2005,2,TOTAL,20
+Santa Cruz,70401,Buena Vista,2005,2,TOTAL,238
+La Paz,21003,Cajuata,2005,2,TOTAL,20
+Chuquisaca,10701,Camargo,2005,2,TOTAL,8
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,2,TOTAL,95
+Cochabamba,30701,Capinota,2005,2,TOTAL,161
+La Paz,20302,Caquiaviri,2005,2,TOTAL,37
+Oruro,40102,Caracollo,2005,2,TOTAL,15
+Tarija,60302,Carapari,2005,2,TOTAL,603
+Potosí,50302,Chaqui,2005,2,TOTAL,38
+La Paz,21101,Chulumani (v. De La Libertad),2005,2,TOTAL,101
+Cochabamba,30801,Cliza,2005,2,TOTAL,18
+Cochabamba,30101,Cochabamba,2005,2,TOTAL,3262
+Cochabamba,30905,Colcapirhua,2005,2,TOTAL,469
+Cochabamba,31002,Colomi,2005,2,TOTAL,172
+Santa Cruz,70603,Colpa Belgica,2005,2,TOTAL,4
+La Paz,21306,Colquencha,2005,2,TOTAL,55
+Santa Cruz,71301,Comarapa,2005,2,TOTAL,11
+La Paz,21701,Copacabana,2005,2,TOTAL,35
+La Paz,21402,Coripata,2005,2,TOTAL,25
+La Paz,20301,Coro Coro,2005,2,TOTAL,20
+La Paz,21401,Coroico,2005,2,TOTAL,88
+Santa Cruz,71106,Cuatro Cañadas,2005,2,TOTAL,40
+Chuquisaca,10902,Culpina,2005,2,TOTAL,433
+Oruro,40401,Curahuara De Carangas,2005,2,TOTAL,13
+La Paz,20105,El Alto,2005,2,TOTAL,3047
+Santa Cruz,71503,El Puente(stc),2005,2,TOTAL,621
+Tarija,60502,El Puente(tja),2005,2,TOTAL,986
+Santa Cruz,70105,El Torno,2005,2,TOTAL,438
+Tarija,60601,Entre Rios,2005,2,TOTAL,1106
+Chuquisaca,10502,Huacareta,2005,2,TOTAL,39
+Oruro,40501,Huachacalla,2005,2,TOTAL,7
+Chuquisaca,10304,Icla,2005,2,TOTAL,118
+Chuquisaca,10703,Incahuasi,2005,2,TOTAL,25
+La Paz,21001,Inquisivi,2005,2,TOTAL,40
+La Paz,21501,Ixiamas,2005,2,TOTAL,10
+La Paz,20806,Jesus De Machaca,2005,2,TOTAL,67
+La Paz,21105,La Asunta,2005,2,TOTAL,38
+Santa Cruz,70104,La Guardia,2005,2,TOTAL,681
+La Paz,20101,La Paz,2005,2,TOTAL,1190
+Oruro,41501,La Rivera,2005,2,TOTAL,3
+Chuquisaca,10903,Las Carreras,2005,2,TOTAL,9
+La Paz,21006,Licoma Pampa,2005,2,TOTAL,70
+La Paz,20103,Mecapaca,2005,2,TOTAL,16
+Cochabamba,31301,Mizque,2005,2,TOTAL,17
+La Paz,20402,Mocomoco,2005,2,TOTAL,48
+Chuquisaca,10303,Mojocoya,2005,2,TOTAL,33
+Chuquisaca,10501,Monteagudo,2005,2,TOTAL,40
+Santa Cruz,71001,Montero,2005,2,TOTAL,2
+Cochabamba,30302,Morochata,2005,2,TOTAL,384
+Potosí,50404,Ocuri,2005,2,TOTAL,43
+Oruro,40101,Oruro,2005,2,TOTAL,23
+Tarija,60201,Padcaya,2005,2,TOTAL,252
+Chuquisaca,10401,Padilla,2005,2,TOTAL,46
+La Paz,20102,Palca,2005,2,TOTAL,63
+La Paz,21104,Palos Blancos,2005,2,TOTAL,25
+Santa Cruz,70902,Pampa Grande,2005,2,TOTAL,362
+La Paz,21305,Patacamaya,2005,2,TOTAL,20
+Potosí,50403,Pocoata,2005,2,TOTAL,74
+Cochabamba,31203,Pocona,2005,2,TOTAL,37
+Cochabamba,31202,Pojo (cbba),2005,2,TOTAL,50
+Chuquisaca,10103,Poroma,2005,2,TOTAL,214
+Santa Cruz,70103,Porongo,2005,2,TOTAL,197
+Potosí,50101,Potosi,2005,2,TOTAL,5
+La Paz,20401,Puerto Acosta,2005,2,TOTAL,295
+La Paz,20403,Puerto Carabuco,2005,2,TOTAL,315
+Cochabamba,31401,Punata,2005,2,TOTAL,204
+Cochabamba,30901,Quillacollo,2005,2,TOTAL,688
+La Paz,21002,Quime,2005,2,TOTAL,61
+Potosí,50402,Ravelo,2005,2,TOTAL,10
+Cochabamba,31001,Sacaba,2005,2,TOTAL,326
+Cochabamba,30404,Sacabamba,2005,2,TOTAL,126
+Potosí,50701,Sacaca,2005,2,TOTAL,20
+Santa Cruz,71302,Saipina,2005,2,TOTAL,383
+Beni,80602,San Andres,2005,2,TOTAL,5
+La Paz,20805,San Andres De Machaca,2005,2,TOTAL,89
+Cochabamba,31403,San Benito,2005,2,TOTAL,51
+La Paz,21502,San Buena Ventura,2005,2,TOTAL,11
+Santa Cruz,70402,San Carlos,2005,2,TOTAL,164
+Santa Cruz,70301,San Ignacio De Velasco,2005,2,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2005,2,TOTAL,100
+Pando,90302,San Lorenzo(pnd),2005,2,TOTAL,84
+Tarija,60501,San Lorenzo(tja),2005,2,TOTAL,733
+Chuquisaca,10702,San Lucas,2005,2,TOTAL,20
+La Paz,21702,San Pedro De Tiquina,2005,2,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,2,TOTAL,2967
+Santa Cruz,70602,Santa Rosa Del Sara,2005,2,TOTAL,1360
+Cochabamba,30702,Santivañes,2005,2,TOTAL,333
+La Paz,21301,Sica Sica (villa Aroma),2005,2,TOTAL,123
+Cochabamba,30703,Sicaya,2005,2,TOTAL,8
+Cochabamba,30902,Sipe Sipe,2005,2,TOTAL,180
+Chuquisaca,10403,Sopachuy,2005,2,TOTAL,105
+Chuquisaca,10101,Sucre,2005,2,TOTAL,694
+Cochabamba,31404,Tacachi,2005,2,TOTAL,15
+Cochabamba,30602,Tacopaya,2005,2,TOTAL,115
+Cochabamba,31101,Tapacari,2005,2,TOTAL,71
+Chuquisaca,10601,Tarabuco,2005,2,TOTAL,94
+Cochabamba,30401,Tarata,2005,2,TOTAL,89
+Tarija,60101,Tarija,2005,2,TOTAL,1006
+La Paz,20803,Tiawanacu,2005,2,TOTAL,40
+Cochabamba,30903,Tiquipaya,2005,2,TOTAL,198
+Cochabamba,31601,Tiraque (cbba),2005,2,TOTAL,432
+Potosí,50502,Toro Toro,2005,2,TOTAL,1
+Cochabamba,31201,Totora(cbba),2005,2,TOTAL,15
+Oruro,41301,Totora(orr),2005,2,TOTAL,5
+Oruro,40402,Turco,2005,2,TOTAL,18
+La Paz,21302,Umala,2005,2,TOTAL,56
+Tarija,60401,Uriondo (a. Concepcion),2005,2,TOTAL,2280
+Santa Cruz,71502,Urubicha,2005,2,TOTAL,4
+Cochabamba,30502,Vacas,2005,2,TOTAL,34
+La Paz,20801,Viacha,2005,2,TOTAL,714
+Tarija,60303,Villa Montes,2005,2,TOTAL,110
+Cochabamba,31402,Villa Rivero,2005,2,TOTAL,13
+Cochabamba,31003,Villa Tunari,2005,2,TOTAL,73
+Cochabamba,30904,Vinto,2005,2,TOTAL,228
+Santa Cruz,70201,Warnes,2005,2,TOTAL,73
+Tarija,60301,Yacuiba,2005,2,TOTAL,23
+Chuquisaca,10602,Yamparaez,2005,2,TOTAL,221
+La Paz,21103,Yanacachi,2005,2,TOTAL,15
+Santa Cruz,70403,Yapacani,2005,2,TOTAL,30
+Tarija,60402,Yunchara,2005,2,TOTAL,478
+Chuquisaca,10301,Zudañez,2005,2,TOTAL,296
+Potosí,51302,Acacio,2005,3,TOTAL,26
+La Paz,20201,Achacachi,2005,3,TOTAL,144
+La Paz,20104,Achocalla,2005,3,TOTAL,50
+Cochabamba,30201,Aiquile,2005,3,TOTAL,20
+Oruro,41201,Andamarca,2005,3,TOTAL,33
+Cochabamba,30402,Anzaldo,2005,3,TOTAL,326
+Cochabamba,30501,Arani,2005,3,TOTAL,2500
+Cochabamba,30403,Arbieto,2005,3,TOTAL,1467
+Cochabamba,30601,Arque,2005,3,TOTAL,67
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,3,TOTAL,294
+Chuquisaca,10201,Azurduy,2005,3,TOTAL,243
+Oruro,41202,Belen De Andamarca,2005,3,TOTAL,5
+Cochabamba,31501,Bolivar,2005,3,TOTAL,53
+La Paz,20303,Calacoto,2005,3,TOTAL,42
+Chuquisaca,10701,Camargo,2005,3,TOTAL,34
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,3,TOTAL,100
+Cochabamba,30701,Capinota,2005,3,TOTAL,110
+La Paz,20302,Caquiaviri,2005,3,TOTAL,20
+La Paz,22001,Caranavi,2005,3,TOTAL,89
+Tarija,60302,Carapari,2005,3,TOTAL,44
+La Paz,21101,Chulumani (v. De La Libertad),2005,3,TOTAL,88
+Cochabamba,30801,Cliza,2005,3,TOTAL,1061
+Cochabamba,30101,Cochabamba,2005,3,TOTAL,147352
+Cochabamba,30905,Colcapirhua,2005,3,TOTAL,9413
+Cochabamba,31002,Colomi,2005,3,TOTAL,3282
+La Paz,21306,Colquencha,2005,3,TOTAL,15
+Santa Cruz,71301,Comarapa,2005,3,TOTAL,4
+La Paz,21701,Copacabana,2005,3,TOTAL,6
+La Paz,21402,Coripata,2005,3,TOTAL,66
+La Paz,21401,Coroico,2005,3,TOTAL,74
+Oruro,40301,Corque,2005,3,TOTAL,10
+Potosí,50601,Cotagaita,2005,3,TOTAL,542
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2005,3,TOTAL,430
+Chuquisaca,10902,Culpina,2005,3,TOTAL,203
+Oruro,40401,Curahuara De Carangas,2005,3,TOTAL,14
+La Paz,20804,Desaguadero,2005,3,TOTAL,5
+La Paz,20105,El Alto,2005,3,TOTAL,1594
+Santa Cruz,71503,El Puente(stc),2005,3,TOTAL,86
+Tarija,60502,El Puente(tja),2005,3,TOTAL,638
+Santa Cruz,70105,El Torno,2005,3,TOTAL,102
+Tarija,60601,Entre Rios,2005,3,TOTAL,220
+Santa Cruz,71002,General Saavedra,2005,3,TOTAL,110
+Chuquisaca,10502,Huacareta,2005,3,TOTAL,84
+Oruro,40501,Huachacalla,2005,3,TOTAL,17
+Oruro,40701,Huanuni,2005,3,TOTAL,20
+Oruro,41601,Huayllamarca,2005,3,TOTAL,7
+Chuquisaca,10304,Icla,2005,3,TOTAL,314
+Chuquisaca,10703,Incahuasi,2005,3,TOTAL,136
+La Paz,21001,Inquisivi,2005,3,TOTAL,48
+La Paz,20806,Jesus De Machaca,2005,3,TOTAL,210
+Santa Cruz,70104,La Guardia,2005,3,TOTAL,227
+La Paz,20101,La Paz,2005,3,TOTAL,1547
+Chuquisaca,10903,Las Carreras,2005,3,TOTAL,15
+Beni,80601,Loreto,2005,3,TOTAL,4
+Chuquisaca,11003,Machareti,2005,3,TOTAL,91
+La Paz,20103,Mecapaca,2005,3,TOTAL,43
+Cochabamba,31301,Mizque,2005,3,TOTAL,122
+La Paz,20402,Mocomoco,2005,3,TOTAL,179
+Chuquisaca,10303,Mojocoya,2005,3,TOTAL,87
+Cochabamba,30302,Morochata,2005,3,TOTAL,627
+Potosí,50404,Ocuri,2005,3,TOTAL,101
+Santa Cruz,70202,Okinawa,2005,3,TOTAL,98
+Oruro,40101,Oruro,2005,3,TOTAL,15566
+Tarija,60201,Padcaya,2005,3,TOTAL,2314
+La Paz,20102,Palca,2005,3,TOTAL,44
+La Paz,21104,Palos Blancos,2005,3,TOTAL,12
+Santa Cruz,70902,Pampa Grande,2005,3,TOTAL,106
+La Paz,21802,Papel Pampa,2005,3,TOTAL,21
+Potosí,50403,Pocoata,2005,3,TOTAL,58
+Cochabamba,31203,Pocona,2005,3,TOTAL,4
+Cochabamba,31202,Pojo (cbba),2005,3,TOTAL,10
+Chuquisaca,10103,Poroma,2005,3,TOTAL,507
+Santa Cruz,70103,Porongo,2005,3,TOTAL,87
+Potosí,50101,Potosi,2005,3,TOTAL,19
+Chuquisaca,10302,Presto,2005,3,TOTAL,118
+La Paz,20401,Puerto Acosta,2005,3,TOTAL,264
+La Paz,20403,Puerto Carabuco,2005,3,TOTAL,166
+Potosí,51101,Puna,2005,3,TOTAL,10
+Cochabamba,31401,Punata,2005,3,TOTAL,6635
+Cochabamba,30901,Quillacollo,2005,3,TOTAL,28756
+Santa Cruz,70904,Quirusillas,2005,3,TOTAL,184
+Potosí,50402,Ravelo,2005,3,TOTAL,8
+Cochabamba,31001,Sacaba,2005,3,TOTAL,29892
+Cochabamba,30404,Sacabamba,2005,3,TOTAL,94
+Potosí,50701,Sacaca,2005,3,TOTAL,5
+Santa Cruz,71302,Saipina,2005,3,TOTAL,192
+Santa Cruz,70901,Samaipata,2005,3,TOTAL,220
+La Paz,20805,San Andres De Machaca,2005,3,TOTAL,162
+Cochabamba,31403,San Benito,2005,3,TOTAL,3400
+La Paz,21502,San Buena Ventura,2005,3,TOTAL,40
+Santa Cruz,70402,San Carlos,2005,3,TOTAL,615
+Santa Cruz,71104,San Julian,2005,3,TOTAL,335
+Tarija,60501,San Lorenzo(tja),2005,3,TOTAL,1214
+Chuquisaca,10702,San Lucas,2005,3,TOTAL,123
+Potosí,50501,San Pedro De Buena Vista,2005,3,TOTAL,23
+La Paz,21702,San Pedro De Tiquina,2005,3,TOTAL,20
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,3,TOTAL,2954
+Santa Cruz,70602,Santa Rosa Del Sara,2005,3,TOTAL,104
+Cochabamba,30702,Santivañes,2005,3,TOTAL,43
+La Paz,21301,Sica Sica (villa Aroma),2005,3,TOTAL,88
+Cochabamba,30703,Sicaya,2005,3,TOTAL,7
+Cochabamba,30902,Sipe Sipe,2005,3,TOTAL,9680
+Chuquisaca,10403,Sopachuy,2005,3,TOTAL,213
+Chuquisaca,10101,Sucre,2005,3,TOTAL,3226
+Cochabamba,31404,Tacachi,2005,3,TOTAL,506
+Cochabamba,30602,Tacopaya,2005,3,TOTAL,23
+Cochabamba,31101,Tapacari,2005,3,TOTAL,294
+Chuquisaca,10601,Tarabuco,2005,3,TOTAL,977
+Cochabamba,30401,Tarata,2005,3,TOTAL,1465
+Tarija,60101,Tarija,2005,3,TOTAL,382
+La Paz,20803,Tiawanacu,2005,3,TOTAL,31
+Cochabamba,30903,Tiquipaya,2005,3,TOTAL,8420
+Cochabamba,31601,Tiraque (cbba),2005,3,TOTAL,2790
+Cochabamba,30802,Toco,2005,3,TOTAL,168
+Cochabamba,30803,Tolata,2005,3,TOTAL,1583
+Cochabamba,31201,Totora(cbba),2005,3,TOTAL,29
+Oruro,40402,Turco,2005,3,TOTAL,22
+La Paz,21302,Umala,2005,3,TOTAL,78
+Tarija,60401,Uriondo (a. Concepcion),2005,3,TOTAL,709
+Santa Cruz,71502,Urubicha,2005,3,TOTAL,8
+Potosí,51201,Uyuni,2005,3,TOTAL,587
+Cochabamba,30502,Vacas,2005,3,TOTAL,1825
+La Paz,20801,Viacha,2005,3,TOTAL,836
+Tarija,60303,Villa Montes,2005,3,TOTAL,110
+Cochabamba,31402,Villa Rivero,2005,3,TOTAL,1295
+Cochabamba,31003,Villa Tunari,2005,3,TOTAL,65
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,3,TOTAL,547
+Cochabamba,30904,Vinto,2005,3,TOTAL,9793
+Santa Cruz,70201,Warnes,2005,3,TOTAL,30
+Tarija,60301,Yacuiba,2005,3,TOTAL,150
+Chuquisaca,10602,Yamparaez,2005,3,TOTAL,278
+La Paz,21103,Yanacachi,2005,3,TOTAL,41
+Santa Cruz,70403,Yapacani,2005,3,TOTAL,337
+Chuquisaca,10102,Yotala,2005,3,TOTAL,85
+Tarija,60402,Yunchara,2005,3,TOTAL,482
+Chuquisaca,10301,Zudañez,2005,3,TOTAL,15
+Cochabamba,30201,Aiquile,2005,4,TOTAL,900
+Oruro,41201,Andamarca,2005,4,TOTAL,10
+Cochabamba,30402,Anzaldo,2005,4,TOTAL,386
+Cochabamba,30501,Arani,2005,4,TOTAL,57
+Cochabamba,30403,Arbieto,2005,4,TOTAL,903
+Cochabamba,30601,Arque,2005,4,TOTAL,152
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,4,TOTAL,487
+Chuquisaca,10201,Azurduy,2005,4,TOTAL,258
+Oruro,41202,Belen De Andamarca,2005,4,TOTAL,6
+Pando,90104,Bella Flor,2005,4,TOTAL,43
+Tarija,60202,Bermejo,2005,4,TOTAL,409
+Potosí,50301,Betanzos,2005,4,TOTAL,126
+Cochabamba,31501,Bolivar,2005,4,TOTAL,38
+Santa Cruz,70401,Buena Vista,2005,4,TOTAL,425
+La Paz,21003,Cajuata,2005,4,TOTAL,50
+La Paz,20303,Calacoto,2005,4,TOTAL,31
+La Paz,21304,Calamarca,2005,4,TOTAL,50
+Chuquisaca,10701,Camargo,2005,4,TOTAL,110
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,4,TOTAL,20
+Cochabamba,30701,Capinota,2005,4,TOTAL,114
+La Paz,22001,Caranavi,2005,4,TOTAL,93
+Tarija,60302,Carapari,2005,4,TOTAL,188
+Oruro,40201,Challapata,2005,4,TOTAL,2530
+La Paz,20305,Charaña,2005,4,TOTAL,77
+Cochabamba,31204,Chimore,2005,4,TOTAL,177
+Cochabamba,30801,Cliza,2005,4,TOTAL,4587
+Pando,90101,Cobija,2005,4,TOTAL,1554
+Cochabamba,30101,Cochabamba,2005,4,TOTAL,2619
+Cochabamba,30905,Colcapirhua,2005,4,TOTAL,311
+Cochabamba,31002,Colomi,2005,4,TOTAL,301
+Santa Cruz,70603,Colpa Belgica,2005,4,TOTAL,5
+La Paz,21306,Colquencha,2005,4,TOTAL,4
+Santa Cruz,71301,Comarapa,2005,4,TOTAL,25
+Santa Cruz,71101,Concepcion,2005,4,TOTAL,2
+Oruro,40301,Corque,2005,4,TOTAL,154
+Santa Cruz,71106,Cuatro Cañadas,2005,4,TOTAL,902
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2005,4,TOTAL,70
+Chuquisaca,10902,Culpina,2005,4,TOTAL,75
+Oruro,40401,Curahuara De Carangas,2005,4,TOTAL,10
+La Paz,20804,Desaguadero,2005,4,TOTAL,634
+La Paz,20105,El Alto,2005,4,TOTAL,1523
+Tarija,60502,El Puente(tja),2005,4,TOTAL,1004
+Tarija,60601,Entre Rios,2005,4,TOTAL,615
+Tarija,60601,Entre Rios,2005,4,TOTAL,1005
+Oruro,40502,Escara,2005,4,TOTAL,13
+Santa Cruz,71002,General Saavedra,2005,4,TOTAL,149
+Beni,80202,Guayaramerin,2005,4,TOTAL,1
+Oruro,40501,Huachacalla,2005,4,TOTAL,3
+Oruro,40701,Huanuni,2005,4,TOTAL,24
+Oruro,41601,Huayllamarca,2005,4,TOTAL,135
+Chuquisaca,10304,Icla,2005,4,TOTAL,68
+Chuquisaca,10703,Incahuasi,2005,4,TOTAL,62
+La Paz,21001,Inquisivi,2005,4,TOTAL,83
+La Paz,21501,Ixiamas,2005,4,TOTAL,21
+La Paz,20806,Jesus De Machaca,2005,4,TOTAL,148
+La Paz,20101,La Paz,2005,4,TOTAL,742
+Chuquisaca,11003,Machareti,2005,4,TOTAL,45
+Santa Cruz,70903,Mairana,2005,4,TOTAL,1202
+La Paz,20103,Mecapaca,2005,4,TOTAL,67
+Santa Cruz,71003,Mineros,2005,4,TOTAL,95
+Cochabamba,31301,Mizque,2005,4,TOTAL,263
+La Paz,20402,Mocomoco,2005,4,TOTAL,93
+Chuquisaca,10303,Mojocoya,2005,4,TOTAL,8
+Chuquisaca,10501,Monteagudo,2005,4,TOTAL,6
+Santa Cruz,71001,Montero,2005,4,TOTAL,401
+Cochabamba,30302,Morochata,2005,4,TOTAL,788
+Potosí,50404,Ocuri,2005,4,TOTAL,202
+Santa Cruz,70202,Okinawa,2005,4,TOTAL,40
+Oruro,40101,Oruro,2005,4,TOTAL,793
+Tarija,60201,Padcaya,2005,4,TOTAL,314
+La Paz,20102,Palca,2005,4,TOTAL,30
+La Paz,21104,Palos Blancos,2005,4,TOTAL,13
+La Paz,21802,Papel Pampa,2005,4,TOTAL,45
+Cochabamba,30202,Pasorapa,2005,4,TOTAL,93
+Potosí,50403,Pocoata,2005,4,TOTAL,104
+Cochabamba,31203,Pocona,2005,4,TOTAL,243
+Cochabamba,31202,Pojo (cbba),2005,4,TOTAL,376
+Chuquisaca,10103,Poroma,2005,4,TOTAL,176
+Santa Cruz,70103,Porongo,2005,4,TOTAL,482
+Potosí,50101,Potosi,2005,4,TOTAL,1
+Chuquisaca,10302,Presto,2005,4,TOTAL,85
+La Paz,20401,Puerto Acosta,2005,4,TOTAL,7
+La Paz,20403,Puerto Carabuco,2005,4,TOTAL,48
+Beni,80703,Puerto Siles,2005,4,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2005,4,TOTAL,2247
+Potosí,51101,Puna,2005,4,TOTAL,5
+Cochabamba,31401,Punata,2005,4,TOTAL,392
+Cochabamba,30901,Quillacollo,2005,4,TOTAL,4244
+Potosí,50402,Ravelo,2005,4,TOTAL,62
+Beni,80301,Reyes,2005,4,TOTAL,12
+Cochabamba,31001,Sacaba,2005,4,TOTAL,3000
+Cochabamba,30404,Sacabamba,2005,4,TOTAL,123
+Potosí,50701,Sacaca,2005,4,TOTAL,8
+La Paz,20805,San Andres De Machaca,2005,4,TOTAL,68
+Cochabamba,31403,San Benito,2005,4,TOTAL,257
+La Paz,21502,San Buena Ventura,2005,4,TOTAL,5
+Santa Cruz,70402,San Carlos,2005,4,TOTAL,50
+Santa Cruz,70404,San Juan De Yapacani,2005,4,TOTAL,220
+Santa Cruz,71104,San Julian,2005,4,TOTAL,350
+Tarija,60501,San Lorenzo(tja),2005,4,TOTAL,431
+Chuquisaca,10702,San Lucas,2005,4,TOTAL,97
+Santa Cruz,71005,San Pedro,2005,4,TOTAL,30
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,4,TOTAL,7647
+Cochabamba,30702,Santivañes,2005,4,TOTAL,1338
+La Paz,21301,Sica Sica (villa Aroma),2005,4,TOTAL,62
+Cochabamba,30703,Sicaya,2005,4,TOTAL,119
+Cochabamba,30902,Sipe Sipe,2005,4,TOTAL,234
+Chuquisaca,10403,Sopachuy,2005,4,TOTAL,147
+Chuquisaca,10101,Sucre,2005,4,TOTAL,1948
+Cochabamba,30602,Tacopaya,2005,4,TOTAL,77
+Cochabamba,31101,Tapacari,2005,4,TOTAL,687
+Chuquisaca,10601,Tarabuco,2005,4,TOTAL,695
+La Paz,20807,Taraco,2005,4,TOTAL,15
+Cochabamba,30401,Tarata,2005,4,TOTAL,789
+Tarija,60101,Tarija,2005,4,TOTAL,501
+Chuquisaca,10202,Tarvita,2005,4,TOTAL,25
+La Paz,20803,Tiawanacu,2005,4,TOTAL,40
+Cochabamba,30903,Tiquipaya,2005,4,TOTAL,30
+Cochabamba,31601,Tiraque (cbba),2005,4,TOTAL,431
+Cochabamba,30802,Toco,2005,4,TOTAL,880
+Cochabamba,30803,Tolata,2005,4,TOTAL,213
+Cochabamba,31201,Totora(cbba),2005,4,TOTAL,323
+Potosí,50801,Tupiza,2005,4,TOTAL,5
+Oruro,40402,Turco,2005,4,TOTAL,26
+Potosí,50201,Uncia,2005,4,TOTAL,109
+Tarija,60401,Uriondo (a. Concepcion),2005,4,TOTAL,2529
+Cochabamba,30502,Vacas,2005,4,TOTAL,46
+La Paz,20801,Viacha,2005,4,TOTAL,94
+Cochabamba,31302,Vila Vila,2005,4,TOTAL,69
+Tarija,60303,Villa Montes,2005,4,TOTAL,49
+Cochabamba,31402,Villa Rivero,2005,4,TOTAL,19
+Cochabamba,31003,Villa Tunari,2005,4,TOTAL,629
+Potosí,51501,Villazon,2005,4,TOTAL,306
+Cochabamba,30904,Vinto,2005,4,TOTAL,300
+Tarija,60301,Yacuiba,2005,4,TOTAL,142
+Chuquisaca,10602,Yamparaez,2005,4,TOTAL,130
+Santa Cruz,70403,Yapacani,2005,4,TOTAL,4576
+Chuquisaca,10102,Yotala,2005,4,TOTAL,36
+Tarija,60402,Yunchara,2005,4,TOTAL,615
+Chuquisaca,10301,Zudañez,2005,4,TOTAL,399
+La Paz,20104,Achocalla,2005,5,TOTAL,60
+Cochabamba,30201,Aiquile,2005,5,TOTAL,15
+Cochabamba,31303,Alalay,2005,5,TOTAL,2
+Oruro,41201,Andamarca,2005,5,TOTAL,45
+Potosí,51301,Arampampa,2005,5,TOTAL,10
+Cochabamba,30501,Arani,2005,5,TOTAL,30
+Cochabamba,30403,Arbieto,2005,5,TOTAL,60
+Cochabamba,30601,Arque,2005,5,TOTAL,31
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,5,TOTAL,120
+Chuquisaca,10201,Azurduy,2005,5,TOTAL,73
+Oruro,41202,Belen De Andamarca,2005,5,TOTAL,2
+Pando,90104,Bella Flor,2005,5,TOTAL,12
+Tarija,60202,Bermejo,2005,5,TOTAL,3
+Potosí,50301,Betanzos,2005,5,TOTAL,207
+Cochabamba,31501,Bolivar,2005,5,TOTAL,118
+La Paz,21003,Cajuata,2005,5,TOTAL,60
+Chuquisaca,10701,Camargo,2005,5,TOTAL,103
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,5,TOTAL,40
+Cochabamba,30701,Capinota,2005,5,TOTAL,1012
+La Paz,22001,Caranavi,2005,5,TOTAL,42
+Tarija,60302,Carapari,2005,5,TOTAL,3
+Oruro,40201,Challapata,2005,5,TOTAL,220
+Cochabamba,31204,Chimore,2005,5,TOTAL,990
+La Paz,21101,Chulumani (v. De La Libertad),2005,5,TOTAL,6
+Cochabamba,30801,Cliza,2005,5,TOTAL,67
+Cochabamba,30101,Cochabamba,2005,5,TOTAL,615
+Cochabamba,30905,Colcapirhua,2005,5,TOTAL,204
+La Paz,21307,Collana,2005,5,TOTAL,50
+Cochabamba,31002,Colomi,2005,5,TOTAL,47
+La Paz,21306,Colquencha,2005,5,TOTAL,10
+La Paz,21701,Copacabana,2005,5,TOTAL,8
+La Paz,21402,Coripata,2005,5,TOTAL,112
+La Paz,21401,Coroico,2005,5,TOTAL,4
+Oruro,40301,Corque,2005,5,TOTAL,13
+Santa Cruz,70102,Cotoca,2005,5,TOTAL,50
+Santa Cruz,71106,Cuatro Cañadas,2005,5,TOTAL,285
+Chuquisaca,10902,Culpina,2005,5,TOTAL,310
+Oruro,40401,Curahuara De Carangas,2005,5,TOTAL,12
+La Paz,20804,Desaguadero,2005,5,TOTAL,153
+La Paz,20105,El Alto,2005,5,TOTAL,402
+Tarija,60502,El Puente(tja),2005,5,TOTAL,386
+Tarija,60601,Entre Rios,2005,5,TOTAL,227
+Tarija,60601,Entre Rios,2005,5,TOTAL,69
+Pando,90203,Filadelfia,2005,5,TOTAL,15
+La Paz,20802,Guaqui,2005,5,TOTAL,344
+Oruro,40701,Huanuni,2005,5,TOTAL,8
+Oruro,41601,Huayllamarca,2005,5,TOTAL,17
+Chuquisaca,10304,Icla,2005,5,TOTAL,32
+Chuquisaca,10703,Incahuasi,2005,5,TOTAL,177
+La Paz,20806,Jesus De Machaca,2005,5,TOTAL,182
+Santa Cruz,70104,La Guardia,2005,5,TOTAL,40
+La Paz,20101,La Paz,2005,5,TOTAL,559
+Santa Cruz,70701,Lagunillas,2005,5,TOTAL,117
+Chuquisaca,11003,Machareti,2005,5,TOTAL,35
+Cochabamba,31301,Mizque,2005,5,TOTAL,120
+La Paz,20402,Mocomoco,2005,5,TOTAL,29
+Cochabamba,30302,Morochata,2005,5,TOTAL,697
+Potosí,50404,Ocuri,2005,5,TOTAL,75
+Cochabamba,30203,Omereque,2005,5,TOTAL,108
+Oruro,40101,Oruro,2005,5,TOTAL,246
+Tarija,60201,Padcaya,2005,5,TOTAL,115
+La Paz,20102,Palca,2005,5,TOTAL,39
+La Paz,21104,Palos Blancos,2005,5,TOTAL,12
+Cochabamba,30202,Pasorapa,2005,5,TOTAL,170
+Potosí,50403,Pocoata,2005,5,TOTAL,20
+Cochabamba,31203,Pocona,2005,5,TOTAL,34
+Cochabamba,31202,Pojo (cbba),2005,5,TOTAL,65
+Chuquisaca,10103,Poroma,2005,5,TOTAL,300
+Santa Cruz,70103,Porongo,2005,5,TOTAL,91
+La Paz,20401,Puerto Acosta,2005,5,TOTAL,19
+La Paz,20403,Puerto Carabuco,2005,5,TOTAL,28
+Pando,90301,Puerto Gonzalo Moreno,2005,5,TOTAL,373
+Pando,90201,Puerto Rico,2005,5,TOTAL,286
+Santa Cruz,71401,Puerto Suarez,2005,5,TOTAL,900
+Cochabamba,31205,Puerto Villarroel,2005,5,TOTAL,399
+Potosí,51101,Puna,2005,5,TOTAL,76
+Cochabamba,30901,Quillacollo,2005,5,TOTAL,1695
+Potosí,50402,Ravelo,2005,5,TOTAL,148
+Cochabamba,31001,Sacaba,2005,5,TOTAL,1840
+Cochabamba,30404,Sacabamba,2005,5,TOTAL,8
+Potosí,50701,Sacaca,2005,5,TOTAL,12
+La Paz,20805,San Andres De Machaca,2005,5,TOTAL,9
+Cochabamba,31403,San Benito,2005,5,TOTAL,50
+Beni,80302,San Borja,2005,5,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2005,5,TOTAL,8
+Santa Cruz,70404,San Juan De Yapacani,2005,5,TOTAL,22
+Santa Cruz,71104,San Julian,2005,5,TOTAL,23
+Pando,90302,San Lorenzo(pnd),2005,5,TOTAL,183
+Tarija,60501,San Lorenzo(tja),2005,5,TOTAL,110
+Chuquisaca,10702,San Lucas,2005,5,TOTAL,144
+Potosí,50501,San Pedro De Buena Vista,2005,5,TOTAL,25
+La Paz,21702,San Pedro De Tiquina,2005,5,TOTAL,130
+Santa Cruz,70303,San Rafael,2005,5,TOTAL,100
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,5,TOTAL,52574
+Cochabamba,30702,Santivañes,2005,5,TOTAL,71
+Pando,90303,Sena,2005,5,TOTAL,200
+La Paz,21301,Sica Sica (villa Aroma),2005,5,TOTAL,42
+Cochabamba,30703,Sicaya,2005,5,TOTAL,62
+Cochabamba,30902,Sipe Sipe,2005,5,TOTAL,456
+Oruro,40104,Soracachi,2005,5,TOTAL,29
+Chuquisaca,10101,Sucre,2005,5,TOTAL,350
+Cochabamba,30602,Tacopaya,2005,5,TOTAL,410
+Cochabamba,31101,Tapacari,2005,5,TOTAL,1319
+Chuquisaca,10601,Tarabuco,2005,5,TOTAL,116
+Cochabamba,30401,Tarata,2005,5,TOTAL,95
+Tarija,60101,Tarija,2005,5,TOTAL,75
+Cochabamba,30903,Tiquipaya,2005,5,TOTAL,45
+Cochabamba,31601,Tiraque (cbba),2005,5,TOTAL,764
+La Paz,21703,Tito Yupanqui (parquipujio),2005,5,TOTAL,24
+Cochabamba,30802,Toco,2005,5,TOTAL,160
+Cochabamba,30803,Tolata,2005,5,TOTAL,67
+Potosí,51202,Tomave,2005,5,TOTAL,20
+Cochabamba,31201,Totora(cbba),2005,5,TOTAL,105
+Beni,80101,Trinidad,2005,5,TOTAL,5
+Oruro,40402,Turco,2005,5,TOTAL,9
+Tarija,60401,Uriondo (a. Concepcion),2005,5,TOTAL,1558
+Cochabamba,30502,Vacas,2005,5,TOTAL,67
+La Paz,20801,Viacha,2005,5,TOTAL,151
+Cochabamba,31302,Vila Vila,2005,5,TOTAL,29
+Tarija,60303,Villa Montes,2005,5,TOTAL,44
+Cochabamba,31402,Villa Rivero,2005,5,TOTAL,4
+Cochabamba,31003,Villa Tunari,2005,5,TOTAL,468
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,5,TOTAL,191
+Potosí,51501,Villazon,2005,5,TOTAL,54
+Cochabamba,30904,Vinto,2005,5,TOTAL,155
+Santa Cruz,70201,Warnes,2005,5,TOTAL,399
+Tarija,60301,Yacuiba,2005,5,TOTAL,61
+Chuquisaca,10602,Yamparaez,2005,5,TOTAL,25
+La Paz,21103,Yanacachi,2005,5,TOTAL,2
+Santa Cruz,70403,Yapacani,2005,5,TOTAL,1
+Chuquisaca,10102,Yotala,2005,5,TOTAL,2
+Tarija,60402,Yunchara,2005,5,TOTAL,53
+Chuquisaca,10301,Zudañez,2005,5,TOTAL,62
+La Paz,20104,Achocalla,2005,6,TOTAL,176
+Cochabamba,30201,Aiquile,2005,6,TOTAL,21
+Oruro,41201,Andamarca,2005,6,TOTAL,38
+Potosí,51301,Arampampa,2005,6,TOTAL,15
+Cochabamba,30501,Arani,2005,6,TOTAL,3
+Cochabamba,30403,Arbieto,2005,6,TOTAL,25
+Cochabamba,30601,Arque,2005,6,TOTAL,20
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,6,TOTAL,208
+Oruro,41202,Belen De Andamarca,2005,6,TOTAL,8
+Tarija,60202,Bermejo,2005,6,TOTAL,82
+Potosí,50301,Betanzos,2005,6,TOTAL,118
+Cochabamba,31501,Bolivar,2005,6,TOTAL,22
+Chuquisaca,10701,Camargo,2005,6,TOTAL,44
+Cochabamba,30701,Capinota,2005,6,TOTAL,539
+La Paz,20302,Caquiaviri,2005,6,TOTAL,35
+La Paz,22001,Caranavi,2005,6,TOTAL,327
+Oruro,40201,Challapata,2005,6,TOTAL,48
+Potosí,50302,Chaqui,2005,6,TOTAL,25
+La Paz,20305,Charaña,2005,6,TOTAL,50
+Cochabamba,31204,Chimore,2005,6,TOTAL,98
+Cochabamba,30801,Cliza,2005,6,TOTAL,7
+Cochabamba,30101,Cochabamba,2005,6,TOTAL,1139
+Cochabamba,30905,Colcapirhua,2005,6,TOTAL,212
+Cochabamba,31002,Colomi,2005,6,TOTAL,143
+La Paz,21306,Colquencha,2005,6,TOTAL,23
+La Paz,21004,Colquiri,2005,6,TOTAL,430
+La Paz,21701,Copacabana,2005,6,TOTAL,100
+La Paz,21401,Coroico,2005,6,TOTAL,12
+Oruro,40301,Corque,2005,6,TOTAL,10
+Santa Cruz,70102,Cotoca,2005,6,TOTAL,950
+Santa Cruz,71106,Cuatro Cañadas,2005,6,TOTAL,54
+Chuquisaca,10902,Culpina,2005,6,TOTAL,29
+Oruro,40401,Curahuara De Carangas,2005,6,TOTAL,21
+La Paz,20105,El Alto,2005,6,TOTAL,1884
+Tarija,60502,El Puente(tja),2005,6,TOTAL,177
+Tarija,60601,Entre Rios,2005,6,TOTAL,81
+Tarija,60601,Entre Rios,2005,6,TOTAL,60
+La Paz,20802,Guaqui,2005,6,TOTAL,6
+Oruro,40701,Huanuni,2005,6,TOTAL,12
+Oruro,41601,Huayllamarca,2005,6,TOTAL,26
+Chuquisaca,10703,Incahuasi,2005,6,TOTAL,130
+La Paz,20806,Jesus De Machaca,2005,6,TOTAL,68
+Santa Cruz,70104,La Guardia,2005,6,TOTAL,544
+La Paz,20101,La Paz,2005,6,TOTAL,1561
+Santa Cruz,70701,Lagunillas,2005,6,TOTAL,1124
+La Paz,20103,Mecapaca,2005,6,TOTAL,10
+Cochabamba,31301,Mizque,2005,6,TOTAL,269
+Chuquisaca,10303,Mojocoya,2005,6,TOTAL,8
+Santa Cruz,71001,Montero,2005,6,TOTAL,185
+Cochabamba,30302,Morochata,2005,6,TOTAL,546
+Potosí,50404,Ocuri,2005,6,TOTAL,50
+Cochabamba,30203,Omereque,2005,6,TOTAL,120
+Oruro,40101,Oruro,2005,6,TOTAL,29
+La Paz,20102,Palca,2005,6,TOTAL,43
+La Paz,21104,Palos Blancos,2005,6,TOTAL,36
+Potosí,50403,Pocoata,2005,6,TOTAL,28
+Cochabamba,31203,Pocona,2005,6,TOTAL,99
+Cochabamba,31202,Pojo (cbba),2005,6,TOTAL,1191
+Chuquisaca,10103,Poroma,2005,6,TOTAL,328
+Potosí,50101,Potosi,2005,6,TOTAL,163
+La Paz,20403,Puerto Carabuco,2005,6,TOTAL,131
+Cochabamba,31205,Puerto Villarroel,2005,6,TOTAL,81
+Potosí,51101,Puna,2005,6,TOTAL,110
+Cochabamba,31401,Punata,2005,6,TOTAL,21
+Cochabamba,30901,Quillacollo,2005,6,TOTAL,339
+Cochabamba,31001,Sacaba,2005,6,TOTAL,714
+Cochabamba,30404,Sacabamba,2005,6,TOTAL,7
+Potosí,50701,Sacaca,2005,6,TOTAL,7
+La Paz,20805,San Andres De Machaca,2005,6,TOTAL,1
+Cochabamba,31403,San Benito,2005,6,TOTAL,82
+Santa Cruz,71102,San Javier(stc),2005,6,TOTAL,139
+Santa Cruz,70404,San Juan De Yapacani,2005,6,TOTAL,59
+Santa Cruz,71104,San Julian,2005,6,TOTAL,15
+Tarija,60501,San Lorenzo(tja),2005,6,TOTAL,72
+Chuquisaca,10702,San Lucas,2005,6,TOTAL,58
+Santa Cruz,71005,San Pedro,2005,6,TOTAL,10
+Potosí,50501,San Pedro De Buena Vista,2005,6,TOTAL,55
+La Paz,21702,San Pedro De Tiquina,2005,6,TOTAL,71
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,6,TOTAL,7738
+Santa Cruz,70602,Santa Rosa Del Sara,2005,6,TOTAL,3879
+Cochabamba,30702,Santivañes,2005,6,TOTAL,59
+La Paz,21301,Sica Sica (villa Aroma),2005,6,TOTAL,37
+Cochabamba,30703,Sicaya,2005,6,TOTAL,24
+Cochabamba,30902,Sipe Sipe,2005,6,TOTAL,108
+Chuquisaca,10101,Sucre,2005,6,TOTAL,26245
+Cochabamba,30602,Tacopaya,2005,6,TOTAL,84
+Cochabamba,31101,Tapacari,2005,6,TOTAL,375
+Chuquisaca,10601,Tarabuco,2005,6,TOTAL,18
+La Paz,20807,Taraco,2005,6,TOTAL,16
+Cochabamba,30401,Tarata,2005,6,TOTAL,14
+Tarija,60101,Tarija,2005,6,TOTAL,1084
+La Paz,20803,Tiawanacu,2005,6,TOTAL,22
+Cochabamba,30903,Tiquipaya,2005,6,TOTAL,175
+Cochabamba,31601,Tiraque (cbba),2005,6,TOTAL,91
+Cochabamba,30802,Toco,2005,6,TOTAL,12
+Potosí,51202,Tomave,2005,6,TOTAL,20
+Chuquisaca,10402,Tomina,2005,6,TOTAL,249
+Cochabamba,31201,Totora(cbba),2005,6,TOTAL,142
+Potosí,50801,Tupiza,2005,6,TOTAL,11
+Tarija,60401,Uriondo (a. Concepcion),2005,6,TOTAL,222
+La Paz,20801,Viacha,2005,6,TOTAL,212
+Cochabamba,31302,Vila Vila,2005,6,TOTAL,4
+Tarija,60303,Villa Montes,2005,6,TOTAL,10
+Cochabamba,31402,Villa Rivero,2005,6,TOTAL,7
+Cochabamba,31003,Villa Tunari,2005,6,TOTAL,420
+Potosí,51501,Villazon,2005,6,TOTAL,1
+Cochabamba,30904,Vinto,2005,6,TOTAL,809
+Santa Cruz,70201,Warnes,2005,6,TOTAL,150
+Tarija,60301,Yacuiba,2005,6,TOTAL,17
+Chuquisaca,10602,Yamparaez,2005,6,TOTAL,34
+Santa Cruz,70403,Yapacani,2005,6,TOTAL,5
+Tarija,60402,Yunchara,2005,6,TOTAL,16
+La Paz,20104,Achocalla,2005,7,TOTAL,10
+Cochabamba,30201,Aiquile,2005,7,TOTAL,35
+Cochabamba,31303,Alalay,2005,7,TOTAL,40
+Oruro,41201,Andamarca,2005,7,TOTAL,10
+Potosí,51301,Arampampa,2005,7,TOTAL,20
+Cochabamba,30501,Arani,2005,7,TOTAL,10
+Cochabamba,30403,Arbieto,2005,7,TOTAL,77
+Cochabamba,30601,Arque,2005,7,TOTAL,88
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,7,TOTAL,66
+Oruro,41202,Belen De Andamarca,2005,7,TOTAL,5
+Tarija,60202,Bermejo,2005,7,TOTAL,36
+Potosí,50301,Betanzos,2005,7,TOTAL,55
+Cochabamba,31501,Bolivar,2005,7,TOTAL,195
+Santa Cruz,70401,Buena Vista,2005,7,TOTAL,18
+Chuquisaca,10701,Camargo,2005,7,TOTAL,10
+Cochabamba,30701,Capinota,2005,7,TOTAL,1846
+Oruro,40102,Caracollo,2005,7,TOTAL,750
+La Paz,22001,Caranavi,2005,7,TOTAL,12
+Tarija,60302,Carapari,2005,7,TOTAL,45
+Oruro,40201,Challapata,2005,7,TOTAL,30
+La Paz,20305,Charaña,2005,7,TOTAL,16
+Cochabamba,31204,Chimore,2005,7,TOTAL,116
+Cochabamba,30801,Cliza,2005,7,TOTAL,49
+Cochabamba,30101,Cochabamba,2005,7,TOTAL,878
+Cochabamba,30905,Colcapirhua,2005,7,TOTAL,160
+Cochabamba,31002,Colomi,2005,7,TOTAL,136
+Santa Cruz,70603,Colpa Belgica,2005,7,TOTAL,450
+La Paz,21306,Colquencha,2005,7,TOTAL,9
+La Paz,21701,Copacabana,2005,7,TOTAL,148
+Oruro,40301,Corque,2005,7,TOTAL,10
+Potosí,50601,Cotagaita,2005,7,TOTAL,235
+Santa Cruz,71106,Cuatro Cañadas,2005,7,TOTAL,23
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2005,7,TOTAL,13
+Oruro,40401,Curahuara De Carangas,2005,7,TOTAL,8
+La Paz,20804,Desaguadero,2005,7,TOTAL,56
+La Paz,20105,El Alto,2005,7,TOTAL,1875
+Tarija,60502,El Puente(tja),2005,7,TOTAL,130
+Tarija,60601,Entre Rios,2005,7,TOTAL,99
+Tarija,60601,Entre Rios,2005,7,TOTAL,375
+Santa Cruz,71002,General Saavedra,2005,7,TOTAL,142
+Oruro,40701,Huanuni,2005,7,TOTAL,5
+Oruro,41601,Huayllamarca,2005,7,TOTAL,73
+Chuquisaca,10703,Incahuasi,2005,7,TOTAL,38
+La Paz,21501,Ixiamas,2005,7,TOTAL,92
+La Paz,20806,Jesus De Machaca,2005,7,TOTAL,99
+La Paz,20101,La Paz,2005,7,TOTAL,4221
+Santa Cruz,70701,Lagunillas,2005,7,TOTAL,135
+Beni,80801,Magdalena,2005,7,TOTAL,5
+Santa Cruz,71003,Mineros,2005,7,TOTAL,57
+Cochabamba,31301,Mizque,2005,7,TOTAL,41
+Chuquisaca,10303,Mojocoya,2005,7,TOTAL,41
+Santa Cruz,71001,Montero,2005,7,TOTAL,39
+Cochabamba,30302,Morochata,2005,7,TOTAL,530
+Pando,90501,Nuevo Manoa (nueva Esperanza),2005,7,TOTAL,1
+Potosí,50404,Ocuri,2005,7,TOTAL,118
+Cochabamba,30203,Omereque,2005,7,TOTAL,207
+Oruro,40101,Oruro,2005,7,TOTAL,140
+Tarija,60201,Padcaya,2005,7,TOTAL,96
+La Paz,20102,Palca,2005,7,TOTAL,20
+Cochabamba,31203,Pocona,2005,7,TOTAL,20
+Chuquisaca,10103,Poroma,2005,7,TOTAL,161
+Santa Cruz,70103,Porongo,2005,7,TOTAL,14
+Santa Cruz,71402,Puerto Quijarro,2005,7,TOTAL,5
+Cochabamba,31205,Puerto Villarroel,2005,7,TOTAL,87
+Cochabamba,31401,Punata,2005,7,TOTAL,39
+Cochabamba,30901,Quillacollo,2005,7,TOTAL,474
+Oruro,40901,Sabaya,2005,7,TOTAL,57
+Cochabamba,31001,Sacaba,2005,7,TOTAL,568
+Cochabamba,30404,Sacabamba,2005,7,TOTAL,22
+La Paz,20805,San Andres De Machaca,2005,7,TOTAL,25
+Cochabamba,31403,San Benito,2005,7,TOTAL,5
+La Paz,21502,San Buena Ventura,2005,7,TOTAL,309
+Santa Cruz,70301,San Ignacio De Velasco,2005,7,TOTAL,19
+Santa Cruz,71104,San Julian,2005,7,TOTAL,41
+Tarija,60501,San Lorenzo(tja),2005,7,TOTAL,31
+Chuquisaca,10702,San Lucas,2005,7,TOTAL,195
+Santa Cruz,71005,San Pedro,2005,7,TOTAL,240
+Potosí,50501,San Pedro De Buena Vista,2005,7,TOTAL,103
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,7,TOTAL,74764
+Santa Cruz,70602,Santa Rosa Del Sara,2005,7,TOTAL,92
+Oruro,41401,Santiago De Huari,2005,7,TOTAL,340
+Cochabamba,30702,Santivañes,2005,7,TOTAL,28
+La Paz,21301,Sica Sica (villa Aroma),2005,7,TOTAL,6
+Cochabamba,30703,Sicaya,2005,7,TOTAL,71
+Cochabamba,30902,Sipe Sipe,2005,7,TOTAL,131
+Oruro,40104,Soracachi,2005,7,TOTAL,47
+Chuquisaca,10101,Sucre,2005,7,TOTAL,2212
+Cochabamba,31404,Tacachi,2005,7,TOTAL,10
+Cochabamba,30602,Tacopaya,2005,7,TOTAL,66
+Cochabamba,31101,Tapacari,2005,7,TOTAL,374
+Chuquisaca,10601,Tarabuco,2005,7,TOTAL,98
+Cochabamba,30401,Tarata,2005,7,TOTAL,46
+Tarija,60101,Tarija,2005,7,TOTAL,261
+La Paz,20803,Tiawanacu,2005,7,TOTAL,10
+Cochabamba,30903,Tiquipaya,2005,7,TOTAL,42
+Cochabamba,31601,Tiraque (cbba),2005,7,TOTAL,281
+La Paz,21703,Tito Yupanqui (parquipujio),2005,7,TOTAL,4
+Cochabamba,30802,Toco,2005,7,TOTAL,32
+Cochabamba,30803,Tolata,2005,7,TOTAL,48
+Chuquisaca,10402,Tomina,2005,7,TOTAL,256
+Oruro,40402,Turco,2005,7,TOTAL,46
+La Paz,21302,Umala,2005,7,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2005,7,TOTAL,10
+Cochabamba,30502,Vacas,2005,7,TOTAL,8
+La Paz,20801,Viacha,2005,7,TOTAL,513
+Cochabamba,31003,Villa Tunari,2005,7,TOTAL,1132
+Cochabamba,30904,Vinto,2005,7,TOTAL,1413
+Chuquisaca,10602,Yamparaez,2005,7,TOTAL,65
+Santa Cruz,70403,Yapacani,2005,7,TOTAL,4
+Chuquisaca,10102,Yotala,2005,7,TOTAL,4
+Chuquisaca,10301,Zudañez,2005,7,TOTAL,124
+Cochabamba,30201,Aiquile,2005,8,TOTAL,124
+Cochabamba,31303,Alalay,2005,8,TOTAL,329
+Chuquisaca,10404,Alcala,2005,8,TOTAL,350
+Oruro,41201,Andamarca,2005,8,TOTAL,21
+Oruro,40603,Antequera,2005,8,TOTAL,200
+Cochabamba,30402,Anzaldo,2005,8,TOTAL,36
+Potosí,51301,Arampampa,2005,8,TOTAL,10
+Cochabamba,30501,Arani,2005,8,TOTAL,6
+Cochabamba,30403,Arbieto,2005,8,TOTAL,24
+Cochabamba,30601,Arque,2005,8,TOTAL,125
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,8,TOTAL,43
+Chuquisaca,10201,Azurduy,2005,8,TOTAL,140
+Tarija,60202,Bermejo,2005,8,TOTAL,36
+Potosí,50301,Betanzos,2005,8,TOTAL,735
+Cochabamba,31501,Bolivar,2005,8,TOTAL,31
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2005,8,TOTAL,18
+Cochabamba,30701,Capinota,2005,8,TOTAL,68
+Oruro,40102,Caracollo,2005,8,TOTAL,261
+La Paz,22001,Caranavi,2005,8,TOTAL,21
+Tarija,60302,Carapari,2005,8,TOTAL,1389
+Oruro,40201,Challapata,2005,8,TOTAL,18
+Potosí,50302,Chaqui,2005,8,TOTAL,81
+Cochabamba,31204,Chimore,2005,8,TOTAL,157
+Cochabamba,30801,Cliza,2005,8,TOTAL,114
+Cochabamba,30101,Cochabamba,2005,8,TOTAL,4390
+Cochabamba,30905,Colcapirhua,2005,8,TOTAL,163
+Cochabamba,31002,Colomi,2005,8,TOTAL,1679
+Potosí,50401,Colquechaca,2005,8,TOTAL,198
+La Paz,21306,Colquencha,2005,8,TOTAL,136
+La Paz,21701,Copacabana,2005,8,TOTAL,30
+Oruro,40301,Corque,2005,8,TOTAL,5
+Potosí,50601,Cotagaita,2005,8,TOTAL,3
+Santa Cruz,70102,Cotoca,2005,8,TOTAL,110
+Santa Cruz,71106,Cuatro Cañadas,2005,8,TOTAL,650
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2005,8,TOTAL,19
+Chuquisaca,10902,Culpina,2005,8,TOTAL,216
+Oruro,40401,Curahuara De Carangas,2005,8,TOTAL,30
+La Paz,20804,Desaguadero,2005,8,TOTAL,232
+La Paz,20105,El Alto,2005,8,TOTAL,109444
+Tarija,60502,El Puente(tja),2005,8,TOTAL,49
+Tarija,60601,Entre Rios,2005,8,TOTAL,203
+Tarija,60601,Entre Rios,2005,8,TOTAL,604
+Santa Cruz,71002,General Saavedra,2005,8,TOTAL,476
+Oruro,40701,Huanuni,2005,8,TOTAL,86
+Oruro,41601,Huayllamarca,2005,8,TOTAL,23
+Chuquisaca,10304,Icla,2005,8,TOTAL,436
+La Paz,21501,Ixiamas,2005,8,TOTAL,38
+La Paz,20806,Jesus De Machaca,2005,8,TOTAL,81
+Santa Cruz,70104,La Guardia,2005,8,TOTAL,1682
+La Paz,20101,La Paz,2005,8,TOTAL,101245
+Oruro,41501,La Rivera,2005,8,TOTAL,30
+La Paz,20103,Mecapaca,2005,8,TOTAL,18
+Cochabamba,31301,Mizque,2005,8,TOTAL,382
+Chuquisaca,10303,Mojocoya,2005,8,TOTAL,53
+Santa Cruz,71001,Montero,2005,8,TOTAL,1
+Cochabamba,30302,Morochata,2005,8,TOTAL,859
+Potosí,50404,Ocuri,2005,8,TOTAL,165
+Cochabamba,30203,Omereque,2005,8,TOTAL,22
+Oruro,40101,Oruro,2005,8,TOTAL,189
+Tarija,60201,Padcaya,2005,8,TOTAL,21
+La Paz,20102,Palca,2005,8,TOTAL,98
+Cochabamba,30202,Pasorapa,2005,8,TOTAL,23
+La Paz,21305,Patacamaya,2005,8,TOTAL,20
+Oruro,40602,Pazña,2005,8,TOTAL,63
+Potosí,50403,Pocoata,2005,8,TOTAL,38
+Chuquisaca,10103,Poroma,2005,8,TOTAL,87
+Santa Cruz,70103,Porongo,2005,8,TOTAL,589
+Santa Cruz,70601,Portachuelo,2005,8,TOTAL,246
+Santa Cruz,70804,Postrer Valle,2005,8,TOTAL,80
+Cochabamba,31205,Puerto Villarroel,2005,8,TOTAL,819
+Cochabamba,31401,Punata,2005,8,TOTAL,30
+La Paz,20604,Quiabaya,2005,8,TOTAL,88
+Cochabamba,30901,Quillacollo,2005,8,TOTAL,3372
+Potosí,50402,Ravelo,2005,8,TOTAL,18
+Beni,80301,Reyes,2005,8,TOTAL,30
+Oruro,40901,Sabaya,2005,8,TOTAL,130
+Cochabamba,31001,Sacaba,2005,8,TOTAL,10639
+Cochabamba,30404,Sacabamba,2005,8,TOTAL,15
+Oruro,40801,Salinas De Garci Mendoza,2005,8,TOTAL,4
+La Paz,20805,San Andres De Machaca,2005,8,TOTAL,30
+Beni,80302,San Borja,2005,8,TOTAL,993
+Santa Cruz,70301,San Ignacio De Velasco,2005,8,TOTAL,22
+Santa Cruz,70404,San Juan De Yapacani,2005,8,TOTAL,20
+Tarija,60501,San Lorenzo(tja),2005,8,TOTAL,183
+Chuquisaca,10702,San Lucas,2005,8,TOTAL,151
+Santa Cruz,71005,San Pedro,2005,8,TOTAL,30
+Potosí,50501,San Pedro De Buena Vista,2005,8,TOTAL,228
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,8,TOTAL,36764
+Santa Cruz,70602,Santa Rosa Del Sara,2005,8,TOTAL,4
+Oruro,41401,Santiago De Huari,2005,8,TOTAL,267
+Cochabamba,30702,Santivañes,2005,8,TOTAL,121
+La Paz,21301,Sica Sica (villa Aroma),2005,8,TOTAL,23
+Cochabamba,30703,Sicaya,2005,8,TOTAL,15
+Cochabamba,30902,Sipe Sipe,2005,8,TOTAL,481
+Oruro,40104,Soracachi,2005,8,TOTAL,88
+Chuquisaca,10101,Sucre,2005,8,TOTAL,354
+Cochabamba,30602,Tacopaya,2005,8,TOTAL,141
+Cochabamba,31101,Tapacari,2005,8,TOTAL,173
+Chuquisaca,10601,Tarabuco,2005,8,TOTAL,206
+La Paz,20807,Taraco,2005,8,TOTAL,72
+Cochabamba,30401,Tarata,2005,8,TOTAL,16
+Tarija,60101,Tarija,2005,8,TOTAL,19087
+La Paz,20803,Tiawanacu,2005,8,TOTAL,61
+Cochabamba,30903,Tiquipaya,2005,8,TOTAL,83
+Cochabamba,31601,Tiraque (cbba),2005,8,TOTAL,288
+Cochabamba,30802,Toco,2005,8,TOTAL,32
+Cochabamba,30803,Tolata,2005,8,TOTAL,31
+Oruro,41001,Toledo,2005,8,TOTAL,194
+Chuquisaca,10402,Tomina,2005,8,TOTAL,1622
+Oruro,40402,Turco,2005,8,TOTAL,126
+La Paz,21302,Umala,2005,8,TOTAL,1
+Santa Cruz,71502,Urubicha,2005,8,TOTAL,29
+Cochabamba,30502,Vacas,2005,8,TOTAL,3
+La Paz,20801,Viacha,2005,8,TOTAL,157
+Tarija,60303,Villa Montes,2005,8,TOTAL,4794
+Cochabamba,31003,Villa Tunari,2005,8,TOTAL,540
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,8,TOTAL,278
+Potosí,51501,Villazon,2005,8,TOTAL,3480
+Cochabamba,30904,Vinto,2005,8,TOTAL,535
+Santa Cruz,70201,Warnes,2005,8,TOTAL,1216
+Tarija,60301,Yacuiba,2005,8,TOTAL,13489
+Santa Cruz,70403,Yapacani,2005,8,TOTAL,17
+Chuquisaca,10102,Yotala,2005,8,TOTAL,570
+Tarija,60402,Yunchara,2005,8,TOTAL,103
+Potosí,51302,Acacio,2005,9,TOTAL,270
+La Paz,20201,Achacachi,2005,9,TOTAL,7039
+La Paz,20104,Achocalla,2005,9,TOTAL,460
+Cochabamba,30201,Aiquile,2005,9,TOTAL,403
+Chuquisaca,10404,Alcala,2005,9,TOTAL,705
+La Paz,20202,Ancoraimes,2005,9,TOTAL,286
+Oruro,40603,Antequera,2005,9,TOTAL,68
+Cochabamba,30402,Anzaldo,2005,9,TOTAL,20
+Potosí,51301,Arampampa,2005,9,TOTAL,218
+Cochabamba,30501,Arani,2005,9,TOTAL,2
+Cochabamba,30403,Arbieto,2005,9,TOTAL,376
+Cochabamba,30601,Arque,2005,9,TOTAL,433
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,9,TOTAL,134
+Potosí,50104,Belen De Urmiri,2005,9,TOTAL,11
+Tarija,60202,Bermejo,2005,9,TOTAL,6129
+Cochabamba,31501,Bolivar,2005,9,TOTAL,942
+Potosí,51102,"Caiza ""d""",2005,9,TOTAL,80
+La Paz,21304,Calamarca,2005,9,TOTAL,665
+Chuquisaca,10701,Camargo,2005,9,TOTAL,33
+Cochabamba,30701,Capinota,2005,9,TOTAL,2339
+Oruro,40102,Caracollo,2005,9,TOTAL,271
+Tarija,60302,Carapari,2005,9,TOTAL,2447
+Oruro,40201,Challapata,2005,9,TOTAL,74
+Potosí,50302,Chaqui,2005,9,TOTAL,50
+Cochabamba,30801,Cliza,2005,9,TOTAL,109
+Cochabamba,30101,Cochabamba,2005,9,TOTAL,5372
+Cochabamba,30905,Colcapirhua,2005,9,TOTAL,192
+Cochabamba,31002,Colomi,2005,9,TOTAL,46
+La Paz,21306,Colquencha,2005,9,TOTAL,312
+Santa Cruz,71301,Comarapa,2005,9,TOTAL,90
+La Paz,20605,Combaya,2005,9,TOTAL,99
+La Paz,21402,Coripata,2005,9,TOTAL,336
+La Paz,21401,Coroico,2005,9,TOTAL,51
+Oruro,40301,Corque,2005,9,TOTAL,58
+Potosí,50601,Cotagaita,2005,9,TOTAL,796
+Santa Cruz,70102,Cotoca,2005,9,TOTAL,1395
+Chuquisaca,10902,Culpina,2005,9,TOTAL,10
+Oruro,40401,Curahuara De Carangas,2005,9,TOTAL,30
+La Paz,20105,El Alto,2005,9,TOTAL,5941
+Oruro,40103,El Choro,2005,9,TOTAL,92
+Tarija,60502,El Puente(tja),2005,9,TOTAL,24
+Santa Cruz,70105,El Torno,2005,9,TOTAL,1847
+Tarija,60601,Entre Rios,2005,9,TOTAL,379
+Tarija,60601,Entre Rios,2005,9,TOTAL,918
+Santa Cruz,71004,Fernandez Alonso,2005,9,TOTAL,1490
+Santa Cruz,71002,General Saavedra,2005,9,TOTAL,344
+La Paz,21601,Gral. J.j. Perez (charazani),2005,9,TOTAL,90
+La Paz,20802,Guaqui,2005,9,TOTAL,20
+Chuquisaca,10502,Huacareta,2005,9,TOTAL,181
+Oruro,40701,Huanuni,2005,9,TOTAL,313
+Oruro,41601,Huayllamarca,2005,9,TOTAL,3
+Chuquisaca,10304,Icla,2005,9,TOTAL,505
+Chuquisaca,10703,Incahuasi,2005,9,TOTAL,12
+La Paz,20806,Jesus De Machaca,2005,9,TOTAL,105
+Santa Cruz,70104,La Guardia,2005,9,TOTAL,2320
+La Paz,20101,La Paz,2005,9,TOTAL,2134
+Oruro,40702,Machacamarca,2005,9,TOTAL,279
+Chuquisaca,11003,Machareti,2005,9,TOTAL,100
+La Paz,20607,Mapiri,2005,9,TOTAL,15
+La Paz,20103,Mecapaca,2005,9,TOTAL,10
+Santa Cruz,71003,Mineros,2005,9,TOTAL,380
+Cochabamba,31301,Mizque,2005,9,TOTAL,266
+La Paz,20402,Mocomoco,2005,9,TOTAL,17
+Chuquisaca,10501,Monteagudo,2005,9,TOTAL,700
+Santa Cruz,71001,Montero,2005,9,TOTAL,5661
+Cochabamba,30302,Morochata,2005,9,TOTAL,757
+Potosí,50404,Ocuri,2005,9,TOTAL,10
+Santa Cruz,70202,Okinawa,2005,9,TOTAL,597
+Cochabamba,30203,Omereque,2005,9,TOTAL,89
+Oruro,40101,Oruro,2005,9,TOTAL,17
+Tarija,60201,Padcaya,2005,9,TOTAL,1146
+Santa Cruz,70502,Pailon,2005,9,TOTAL,58
+La Paz,20102,Palca,2005,9,TOTAL,22
+La Paz,21104,Palos Blancos,2005,9,TOTAL,3106
+Cochabamba,30202,Pasorapa,2005,9,TOTAL,24
+La Paz,21305,Patacamaya,2005,9,TOTAL,20
+Oruro,40602,Pazña,2005,9,TOTAL,168
+Potosí,50403,Pocoata,2005,9,TOTAL,149
+Chuquisaca,10103,Poroma,2005,9,TOTAL,254
+Santa Cruz,70103,Porongo,2005,9,TOTAL,14
+Santa Cruz,70601,Portachuelo,2005,9,TOTAL,2870
+Potosí,50101,Potosi,2005,9,TOTAL,90
+Chuquisaca,10302,Presto,2005,9,TOTAL,101
+La Paz,21201,Pucarani,2005,9,TOTAL,255
+La Paz,20401,Puerto Acosta,2005,9,TOTAL,298
+La Paz,20403,Puerto Carabuco,2005,9,TOTAL,450
+Cochabamba,31205,Puerto Villarroel,2005,9,TOTAL,74
+Cochabamba,31401,Punata,2005,9,TOTAL,25
+La Paz,20604,Quiabaya,2005,9,TOTAL,149
+Cochabamba,30901,Quillacollo,2005,9,TOTAL,611
+Beni,80301,Reyes,2005,9,TOTAL,1141
+Oruro,40901,Sabaya,2005,9,TOTAL,4
+Cochabamba,31001,Sacaba,2005,9,TOTAL,3
+Cochabamba,30404,Sacabamba,2005,9,TOTAL,10
+La Paz,20805,San Andres De Machaca,2005,9,TOTAL,41
+Cochabamba,31403,San Benito,2005,9,TOTAL,84
+Beni,80302,San Borja,2005,9,TOTAL,10
+Tarija,60501,San Lorenzo(tja),2005,9,TOTAL,1920
+Chuquisaca,10702,San Lucas,2005,9,TOTAL,188
+Santa Cruz,71005,San Pedro,2005,9,TOTAL,1655
+Potosí,50501,San Pedro De Buena Vista,2005,9,TOTAL,35
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,9,TOTAL,7742
+Santa Cruz,70602,Santa Rosa Del Sara,2005,9,TOTAL,802
+Oruro,41401,Santiago De Huari,2005,9,TOTAL,63
+Cochabamba,30702,Santivañes,2005,9,TOTAL,1429
+La Paz,20902,Sapahaqui,2005,9,TOTAL,199
+La Paz,21301,Sica Sica (villa Aroma),2005,9,TOTAL,5
+Cochabamba,30703,Sicaya,2005,9,TOTAL,400
+Cochabamba,30902,Sipe Sipe,2005,9,TOTAL,330
+Oruro,40104,Soracachi,2005,9,TOTAL,198
+La Paz,20601,Sorata,2005,9,TOTAL,548
+Chuquisaca,10101,Sucre,2005,9,TOTAL,105
+La Paz,20603,Tacacoma,2005,9,TOTAL,190
+Cochabamba,30602,Tacopaya,2005,9,TOTAL,1744
+Cochabamba,31101,Tapacari,2005,9,TOTAL,96
+Chuquisaca,10601,Tarabuco,2005,9,TOTAL,255
+La Paz,20807,Taraco,2005,9,TOTAL,28
+Cochabamba,30401,Tarata,2005,9,TOTAL,34
+Tarija,60101,Tarija,2005,9,TOTAL,861
+Chuquisaca,10202,Tarvita,2005,9,TOTAL,570
+La Paz,20803,Tiawanacu,2005,9,TOTAL,262
+Cochabamba,30903,Tiquipaya,2005,9,TOTAL,72
+Cochabamba,31601,Tiraque (cbba),2005,9,TOTAL,100
+Cochabamba,30802,Toco,2005,9,TOTAL,40
+Cochabamba,30803,Tolata,2005,9,TOTAL,23
+Oruro,41001,Toledo,2005,9,TOTAL,118
+Potosí,51202,Tomave,2005,9,TOTAL,35
+Chuquisaca,10402,Tomina,2005,9,TOTAL,48
+Potosí,50502,Toro Toro,2005,9,TOTAL,1068
+Beni,80101,Trinidad,2005,9,TOTAL,5359
+Oruro,40402,Turco,2005,9,TOTAL,22
+La Paz,21302,Umala,2005,9,TOTAL,8
+Potosí,50201,Uncia,2005,9,TOTAL,506
+Cochabamba,30502,Vacas,2005,9,TOTAL,27
+La Paz,20801,Viacha,2005,9,TOTAL,3499
+Tarija,60303,Villa Montes,2005,9,TOTAL,1218
+Cochabamba,31402,Villa Rivero,2005,9,TOTAL,2
+Cochabamba,31003,Villa Tunari,2005,9,TOTAL,117
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,9,TOTAL,168
+Potosí,51501,Villazon,2005,9,TOTAL,219
+Cochabamba,30904,Vinto,2005,9,TOTAL,136
+Santa Cruz,70201,Warnes,2005,9,TOTAL,416
+Tarija,60301,Yacuiba,2005,9,TOTAL,5573
+Santa Cruz,70403,Yapacani,2005,9,TOTAL,46
+Chuquisaca,10102,Yotala,2005,9,TOTAL,204
+Tarija,60402,Yunchara,2005,9,TOTAL,14
+Potosí,51302,Acacio,2005,10,TOTAL,1
+La Paz,20201,Achacachi,2005,10,TOTAL,10
+La Paz,20104,Achocalla,2005,10,TOTAL,131
+Cochabamba,30201,Aiquile,2005,10,TOTAL,138
+Cochabamba,31303,Alalay,2005,10,TOTAL,16
+Chuquisaca,10404,Alcala,2005,10,TOTAL,194
+Oruro,41201,Andamarca,2005,10,TOTAL,34
+Oruro,40603,Antequera,2005,10,TOTAL,11
+Cochabamba,30402,Anzaldo,2005,10,TOTAL,211
+La Paz,20701,Apolo,2005,10,TOTAL,276
+Potosí,51301,Arampampa,2005,10,TOTAL,44
+Cochabamba,30501,Arani,2005,10,TOTAL,8
+Cochabamba,30403,Arbieto,2005,10,TOTAL,118
+Cochabamba,30601,Arque,2005,10,TOTAL,129
+Potosí,50802,Atocha,2005,10,TOTAL,847
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,10,TOTAL,106
+La Paz,21203,Batallas,2005,10,TOTAL,1373
+Oruro,41202,Belen De Andamarca,2005,10,TOTAL,23
+Potosí,50104,Belen De Urmiri,2005,10,TOTAL,52
+Tarija,60202,Bermejo,2005,10,TOTAL,196
+Cochabamba,31501,Bolivar,2005,10,TOTAL,35
+La Paz,20905,Cairoma,2005,10,TOTAL,29
+Potosí,51102,"Caiza ""d""",2005,10,TOTAL,104
+La Paz,21304,Calamarca,2005,10,TOTAL,90
+Chuquisaca,10701,Camargo,2005,10,TOTAL,33
+Cochabamba,30701,Capinota,2005,10,TOTAL,252
+La Paz,20302,Caquiaviri,2005,10,TOTAL,10
+Oruro,40102,Caracollo,2005,10,TOTAL,5
+La Paz,22001,Caranavi,2005,10,TOTAL,1192
+Santa Cruz,71403,Carmen Rivero Torrez,2005,10,TOTAL,100
+Oruro,40201,Challapata,2005,10,TOTAL,33
+Potosí,50302,Chaqui,2005,10,TOTAL,129
+Santa Cruz,70702,Charagua,2005,10,TOTAL,12
+Potosí,50202,Chayanta,2005,10,TOTAL,28
+La Paz,21101,Chulumani (v. De La Libertad),2005,10,TOTAL,12
+Cochabamba,30801,Cliza,2005,10,TOTAL,53
+Cochabamba,30101,Cochabamba,2005,10,TOTAL,4088
+Cochabamba,30905,Colcapirhua,2005,10,TOTAL,235
+La Paz,21307,Collana,2005,10,TOTAL,170
+Cochabamba,31002,Colomi,2005,10,TOTAL,36
+Santa Cruz,70603,Colpa Belgica,2005,10,TOTAL,7
+Potosí,50401,Colquechaca,2005,10,TOTAL,66
+La Paz,21306,Colquencha,2005,10,TOTAL,535
+La Paz,21701,Copacabana,2005,10,TOTAL,249
+La Paz,21402,Coripata,2005,10,TOTAL,78
+La Paz,20301,Coro Coro,2005,10,TOTAL,269
+La Paz,21401,Coroico,2005,10,TOTAL,638
+Oruro,40301,Corque,2005,10,TOTAL,210
+Potosí,50601,Cotagaita,2005,10,TOTAL,285
+Santa Cruz,70102,Cotoca,2005,10,TOTAL,1412
+Oruro,40401,Curahuara De Carangas,2005,10,TOTAL,160
+La Paz,20105,El Alto,2005,10,TOTAL,1650
+Oruro,40103,El Choro,2005,10,TOTAL,242
+Santa Cruz,70105,El Torno,2005,10,TOTAL,4245
+Tarija,60601,Entre Rios,2005,10,TOTAL,324
+Tarija,60601,Entre Rios,2005,10,TOTAL,83
+Oruro,41101,Eucaliptus,2005,10,TOTAL,340
+Santa Cruz,71002,General Saavedra,2005,10,TOTAL,454
+La Paz,21601,Gral. J.j. Perez (charazani),2005,10,TOTAL,83
+La Paz,20802,Guaqui,2005,10,TOTAL,848
+Beni,80202,Guayaramerin,2005,10,TOTAL,3629
+Oruro,41601,Huayllamarca,2005,10,TOTAL,39
+Chuquisaca,10304,Icla,2005,10,TOTAL,296
+La Paz,21001,Inquisivi,2005,10,TOTAL,486
+La Paz,20806,Jesus De Machaca,2005,10,TOTAL,1016
+La Paz,21105,La Asunta,2005,10,TOTAL,82
+Santa Cruz,70104,La Guardia,2005,10,TOTAL,1756
+La Paz,20101,La Paz,2005,10,TOTAL,2078
+La Paz,21202,Laja,2005,10,TOTAL,2330
+Beni,80601,Loreto,2005,10,TOTAL,3
+Oruro,40702,Machacamarca,2005,10,TOTAL,410
+La Paz,20607,Mapiri,2005,10,TOTAL,996
+La Paz,20103,Mecapaca,2005,10,TOTAL,431
+Santa Cruz,71003,Mineros,2005,10,TOTAL,1048
+Cochabamba,31301,Mizque,2005,10,TOTAL,8
+La Paz,20402,Mocomoco,2005,10,TOTAL,580
+Santa Cruz,71001,Montero,2005,10,TOTAL,210
+Cochabamba,30302,Morochata,2005,10,TOTAL,615
+Santa Cruz,70202,Okinawa,2005,10,TOTAL,393
+Cochabamba,30203,Omereque,2005,10,TOTAL,42
+Oruro,40101,Oruro,2005,10,TOTAL,270
+Tarija,60201,Padcaya,2005,10,TOTAL,60
+La Paz,20102,Palca,2005,10,TOTAL,17
+La Paz,21104,Palos Blancos,2005,10,TOTAL,71
+La Paz,21305,Patacamaya,2005,10,TOTAL,1103
+Oruro,40602,Pazña,2005,10,TOTAL,70
+Potosí,50403,Pocoata,2005,10,TOTAL,476
+Chuquisaca,10103,Poroma,2005,10,TOTAL,138
+Santa Cruz,70103,Porongo,2005,10,TOTAL,12
+Chuquisaca,10302,Presto,2005,10,TOTAL,455
+La Paz,21201,Pucarani,2005,10,TOTAL,1913
+La Paz,20401,Puerto Acosta,2005,10,TOTAL,605
+La Paz,20403,Puerto Carabuco,2005,10,TOTAL,228
+La Paz,21204,Puerto Perez,2005,10,TOTAL,223
+Santa Cruz,71402,Puerto Quijarro,2005,10,TOTAL,500
+Beni,80703,Puerto Siles,2005,10,TOTAL,80
+Cochabamba,31205,Puerto Villarroel,2005,10,TOTAL,15
+Potosí,51101,Puna,2005,10,TOTAL,391
+Cochabamba,31401,Punata,2005,10,TOTAL,252
+Cochabamba,30901,Quillacollo,2005,10,TOTAL,149
+Santa Cruz,70904,Quirusillas,2005,10,TOTAL,203
+Beni,80301,Reyes,2005,10,TOTAL,300
+Santa Cruz,70503,Robore,2005,10,TOTAL,586
+Oruro,40901,Sabaya,2005,10,TOTAL,5
+Cochabamba,31001,Sacaba,2005,10,TOTAL,156
+Cochabamba,30404,Sacabamba,2005,10,TOTAL,22
+Potosí,50701,Sacaca,2005,10,TOTAL,20
+La Paz,20805,San Andres De Machaca,2005,10,TOTAL,199
+Cochabamba,31403,San Benito,2005,10,TOTAL,2
+Beni,80302,San Borja,2005,10,TOTAL,55
+Santa Cruz,70402,San Carlos,2005,10,TOTAL,20
+Beni,80501,San Ignacio,2005,10,TOTAL,529
+Beni,80701,San Joaquin,2005,10,TOTAL,690
+Santa Cruz,70404,San Juan De Yapacani,2005,10,TOTAL,476
+Pando,90302,San Lorenzo(pnd),2005,10,TOTAL,49
+Chuquisaca,10702,San Lucas,2005,10,TOTAL,345
+Santa Cruz,71005,San Pedro,2005,10,TOTAL,190
+Potosí,50501,San Pedro De Buena Vista,2005,10,TOTAL,214
+La Paz,21702,San Pedro De Tiquina,2005,10,TOTAL,25
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,10,TOTAL,36278
+Santa Cruz,70602,Santa Rosa Del Sara,2005,10,TOTAL,3
+Oruro,41401,Santiago De Huari,2005,10,TOTAL,18
+Cochabamba,30702,Santivañes,2005,10,TOTAL,34
+La Paz,20902,Sapahaqui,2005,10,TOTAL,127
+Cochabamba,30703,Sicaya,2005,10,TOTAL,20
+Cochabamba,30902,Sipe Sipe,2005,10,TOTAL,276
+Oruro,40104,Soracachi,2005,10,TOTAL,67
+La Paz,20601,Sorata,2005,10,TOTAL,766
+Chuquisaca,10101,Sucre,2005,10,TOTAL,226
+Cochabamba,31404,Tacachi,2005,10,TOTAL,10
+Cochabamba,30602,Tacopaya,2005,10,TOTAL,178
+Cochabamba,31101,Tapacari,2005,10,TOTAL,33
+Chuquisaca,10601,Tarabuco,2005,10,TOTAL,529
+Cochabamba,30401,Tarata,2005,10,TOTAL,29
+Tarija,60101,Tarija,2005,10,TOTAL,173
+Chuquisaca,10202,Tarvita,2005,10,TOTAL,100
+La Paz,20606,Tipuani,2005,10,TOTAL,1
+Cochabamba,30903,Tiquipaya,2005,10,TOTAL,2505
+Cochabamba,31601,Tiraque (cbba),2005,10,TOTAL,67
+Cochabamba,30802,Toco,2005,10,TOTAL,122
+Cochabamba,30803,Tolata,2005,10,TOTAL,53
+Oruro,41001,Toledo,2005,10,TOTAL,59
+Potosí,51202,Tomave,2005,10,TOTAL,98
+Potosí,50502,Toro Toro,2005,10,TOTAL,442
+Potosí,50801,Tupiza,2005,10,TOTAL,60
+Oruro,40402,Turco,2005,10,TOTAL,32
+La Paz,21302,Umala,2005,10,TOTAL,463
+Potosí,51201,Uyuni,2005,10,TOTAL,241
+Cochabamba,30502,Vacas,2005,10,TOTAL,21
+La Paz,20801,Viacha,2005,10,TOTAL,185
+Tarija,60303,Villa Montes,2005,10,TOTAL,218
+Cochabamba,31402,Villa Rivero,2005,10,TOTAL,31
+Cochabamba,31003,Villa Tunari,2005,10,TOTAL,345
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,10,TOTAL,140
+Potosí,51501,Villazon,2005,10,TOTAL,183
+Cochabamba,30904,Vinto,2005,10,TOTAL,186
+Santa Cruz,70201,Warnes,2005,10,TOTAL,786
+Tarija,60301,Yacuiba,2005,10,TOTAL,8
+La Paz,21103,Yanacachi,2005,10,TOTAL,71
+Santa Cruz,70403,Yapacani,2005,10,TOTAL,65
+Chuquisaca,10102,Yotala,2005,10,TOTAL,332
+Potosí,51302,Acacio,2005,11,TOTAL,44
+La Paz,20104,Achocalla,2005,11,TOTAL,1304
+Cochabamba,30201,Aiquile,2005,11,TOTAL,28
+Chuquisaca,10404,Alcala,2005,11,TOTAL,37
+Oruro,41201,Andamarca,2005,11,TOTAL,10
+Oruro,40603,Antequera,2005,11,TOTAL,11
+Cochabamba,30402,Anzaldo,2005,11,TOTAL,38
+La Paz,20701,Apolo,2005,11,TOTAL,15
+Cochabamba,30501,Arani,2005,11,TOTAL,10
+Cochabamba,30403,Arbieto,2005,11,TOTAL,119
+Cochabamba,30601,Arque,2005,11,TOTAL,142
+Potosí,50802,Atocha,2005,11,TOTAL,214
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,11,TOTAL,66
+La Paz,21203,Batallas,2005,11,TOTAL,733
+Oruro,41202,Belen De Andamarca,2005,11,TOTAL,11
+Potosí,50104,Belen De Urmiri,2005,11,TOTAL,27
+Tarija,60202,Bermejo,2005,11,TOTAL,63
+Potosí,50301,Betanzos,2005,11,TOTAL,304
+Cochabamba,31501,Bolivar,2005,11,TOTAL,63
+La Paz,20905,Cairoma,2005,11,TOTAL,182
+Potosí,51102,"Caiza ""d""",2005,11,TOTAL,15
+Chuquisaca,10701,Camargo,2005,11,TOTAL,20
+Cochabamba,30701,Capinota,2005,11,TOTAL,150
+La Paz,20302,Caquiaviri,2005,11,TOTAL,971
+Oruro,40102,Caracollo,2005,11,TOTAL,13
+La Paz,22001,Caranavi,2005,11,TOTAL,1089
+Tarija,60302,Carapari,2005,11,TOTAL,7
+Potosí,50702,Caripuyo,2005,11,TOTAL,55
+Santa Cruz,71403,Carmen Rivero Torrez,2005,11,TOTAL,50
+Oruro,40201,Challapata,2005,11,TOTAL,318
+Potosí,50302,Chaqui,2005,11,TOTAL,10
+Oruro,40302,Choque Cota,2005,11,TOTAL,16
+La Paz,21101,Chulumani (v. De La Libertad),2005,11,TOTAL,10
+Cochabamba,30801,Cliza,2005,11,TOTAL,144
+Cochabamba,30101,Cochabamba,2005,11,TOTAL,4175
+Cochabamba,30905,Colcapirhua,2005,11,TOTAL,343
+La Paz,21307,Collana,2005,11,TOTAL,34
+Cochabamba,31002,Colomi,2005,11,TOTAL,137
+Santa Cruz,70603,Colpa Belgica,2005,11,TOTAL,4
+Potosí,50401,Colquechaca,2005,11,TOTAL,290
+La Paz,21306,Colquencha,2005,11,TOTAL,49
+La Paz,21004,Colquiri,2005,11,TOTAL,516
+La Paz,20304,Comanche,2005,11,TOTAL,300
+Santa Cruz,71301,Comarapa,2005,11,TOTAL,730
+Santa Cruz,71101,Concepcion,2005,11,TOTAL,1080
+La Paz,21701,Copacabana,2005,11,TOTAL,195
+La Paz,20301,Coro Coro,2005,11,TOTAL,473
+La Paz,21401,Coroico,2005,11,TOTAL,165
+Oruro,40301,Corque,2005,11,TOTAL,67
+Santa Cruz,70102,Cotoca,2005,11,TOTAL,2394
+Santa Cruz,71106,Cuatro Cañadas,2005,11,TOTAL,194
+Oruro,40401,Curahuara De Carangas,2005,11,TOTAL,47
+La Paz,20105,El Alto,2005,11,TOTAL,6224
+Oruro,40103,El Choro,2005,11,TOTAL,140
+Santa Cruz,71503,El Puente(stc),2005,11,TOTAL,534
+Santa Cruz,70105,El Torno,2005,11,TOTAL,1600
+Chuquisaca,10405,El Villar,2005,11,TOTAL,220
+Tarija,60601,Entre Rios,2005,11,TOTAL,66
+Tarija,60601,Entre Rios,2005,11,TOTAL,670
+Oruro,41101,Eucaliptus,2005,11,TOTAL,119
+Santa Cruz,71002,General Saavedra,2005,11,TOTAL,355
+La Paz,20602,Guanay,2005,11,TOTAL,759
+La Paz,20802,Guaqui,2005,11,TOTAL,137
+Santa Cruz,70705,Gutierrez,2005,11,TOTAL,909
+Oruro,40501,Huachacalla,2005,11,TOTAL,53
+Oruro,41601,Huayllamarca,2005,11,TOTAL,22
+Chuquisaca,10304,Icla,2005,11,TOTAL,134
+La Paz,21001,Inquisivi,2005,11,TOTAL,1091
+La Paz,20806,Jesus De Machaca,2005,11,TOTAL,160
+La Paz,21105,La Asunta,2005,11,TOTAL,78
+Santa Cruz,70104,La Guardia,2005,11,TOTAL,116
+La Paz,20101,La Paz,2005,11,TOTAL,3366
+Oruro,41501,La Rivera,2005,11,TOTAL,16
+La Paz,20607,Mapiri,2005,11,TOTAL,104
+La Paz,20103,Mecapaca,2005,11,TOTAL,226
+Cochabamba,31301,Mizque,2005,11,TOTAL,708
+La Paz,20402,Mocomoco,2005,11,TOTAL,162
+Chuquisaca,10501,Monteagudo,2005,11,TOTAL,1
+Santa Cruz,71001,Montero,2005,11,TOTAL,7
+Santa Cruz,70803,Moro Moro,2005,11,TOTAL,164
+Cochabamba,30302,Morochata,2005,11,TOTAL,654
+Potosí,50404,Ocuri,2005,11,TOTAL,37
+Santa Cruz,70202,Okinawa,2005,11,TOTAL,154
+Cochabamba,30203,Omereque,2005,11,TOTAL,5
+Oruro,40101,Oruro,2005,11,TOTAL,727
+Tarija,60201,Padcaya,2005,11,TOTAL,25
+Chuquisaca,10401,Padilla,2005,11,TOTAL,367
+La Paz,20102,Palca,2005,11,TOTAL,201
+La Paz,21104,Palos Blancos,2005,11,TOTAL,10
+Santa Cruz,70902,Pampa Grande,2005,11,TOTAL,386
+La Paz,21802,Papel Pampa,2005,11,TOTAL,89
+La Paz,21305,Patacamaya,2005,11,TOTAL,92
+Oruro,40602,Pazña,2005,11,TOTAL,3
+Cochabamba,31202,Pojo (cbba),2005,11,TOTAL,16
+Chuquisaca,10103,Poroma,2005,11,TOTAL,233
+Santa Cruz,70103,Porongo,2005,11,TOTAL,527
+Santa Cruz,70601,Portachuelo,2005,11,TOTAL,90
+Santa Cruz,70804,Postrer Valle,2005,11,TOTAL,430
+Chuquisaca,10302,Presto,2005,11,TOTAL,67
+La Paz,21201,Pucarani,2005,11,TOTAL,182
+La Paz,20403,Puerto Carabuco,2005,11,TOTAL,99
+La Paz,21204,Puerto Perez,2005,11,TOTAL,64
+Santa Cruz,71402,Puerto Quijarro,2005,11,TOTAL,131
+Potosí,51101,Puna,2005,11,TOTAL,548
+Cochabamba,31401,Punata,2005,11,TOTAL,109
+La Paz,20604,Quiabaya,2005,11,TOTAL,45
+Cochabamba,30901,Quillacollo,2005,11,TOTAL,618
+Potosí,50402,Ravelo,2005,11,TOTAL,207
+Beni,80201,Riberalta,2005,11,TOTAL,3502
+Santa Cruz,70503,Robore,2005,11,TOTAL,95
+Cochabamba,31001,Sacaba,2005,11,TOTAL,155
+Cochabamba,30404,Sacabamba,2005,11,TOTAL,45
+Potosí,50701,Sacaca,2005,11,TOTAL,64
+Santa Cruz,71302,Saipina,2005,11,TOTAL,919
+Santa Cruz,70901,Samaipata,2005,11,TOTAL,214
+Beni,80602,San Andres,2005,11,TOTAL,1
+La Paz,20805,San Andres De Machaca,2005,11,TOTAL,56
+Cochabamba,31403,San Benito,2005,11,TOTAL,51
+Beni,80302,San Borja,2005,11,TOTAL,541
+Beni,80501,San Ignacio,2005,11,TOTAL,874
+Santa Cruz,70301,San Ignacio De Velasco,2005,11,TOTAL,4393
+Santa Cruz,71102,San Javier(stc),2005,11,TOTAL,1500
+Santa Cruz,71104,San Julian,2005,11,TOTAL,1678
+Chuquisaca,10702,San Lucas,2005,11,TOTAL,369
+Santa Cruz,70302,San Miguel De Velasco,2005,11,TOTAL,241
+Potosí,50501,San Pedro De Buena Vista,2005,11,TOTAL,125
+Santa Cruz,70303,San Rafael,2005,11,TOTAL,241
+Beni,80702,San Ramon,2005,11,TOTAL,828
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,11,TOTAL,21624
+Santa Cruz,70602,Santa Rosa Del Sara,2005,11,TOTAL,50
+Oruro,41401,Santiago De Huari,2005,11,TOTAL,26
+Cochabamba,30702,Santivañes,2005,11,TOTAL,51
+La Paz,20902,Sapahaqui,2005,11,TOTAL,51
+La Paz,21301,Sica Sica (villa Aroma),2005,11,TOTAL,14
+Cochabamba,30902,Sipe Sipe,2005,11,TOTAL,153
+Oruro,40104,Soracachi,2005,11,TOTAL,143
+La Paz,20601,Sorata,2005,11,TOTAL,348
+Chuquisaca,10101,Sucre,2005,11,TOTAL,238
+Cochabamba,31404,Tacachi,2005,11,TOTAL,16
+Cochabamba,30602,Tacopaya,2005,11,TOTAL,76
+Cochabamba,31101,Tapacari,2005,11,TOTAL,48
+Chuquisaca,10601,Tarabuco,2005,11,TOTAL,5
+La Paz,20807,Taraco,2005,11,TOTAL,695
+Cochabamba,30401,Tarata,2005,11,TOTAL,23
+Tarija,60101,Tarija,2005,11,TOTAL,550
+Chuquisaca,10202,Tarvita,2005,11,TOTAL,102
+La Paz,20608,Teoponte,2005,11,TOTAL,114
+La Paz,20606,Tipuani,2005,11,TOTAL,623
+Cochabamba,30903,Tiquipaya,2005,11,TOTAL,54
+Cochabamba,31601,Tiraque (cbba),2005,11,TOTAL,199
+Cochabamba,30802,Toco,2005,11,TOTAL,241
+Cochabamba,30803,Tolata,2005,11,TOTAL,72
+Oruro,41001,Toledo,2005,11,TOTAL,61
+Potosí,51202,Tomave,2005,11,TOTAL,33
+Potosí,50502,Toro Toro,2005,11,TOTAL,193
+Potosí,50801,Tupiza,2005,11,TOTAL,4547
+Oruro,40402,Turco,2005,11,TOTAL,24
+La Paz,21302,Umala,2005,11,TOTAL,147
+Santa Cruz,71502,Urubicha,2005,11,TOTAL,1
+Potosí,51201,Uyuni,2005,11,TOTAL,62
+Cochabamba,30502,Vacas,2005,11,TOTAL,70
+La Paz,20801,Viacha,2005,11,TOTAL,843
+Cochabamba,31302,Vila Vila,2005,11,TOTAL,1
+Cochabamba,31402,Villa Rivero,2005,11,TOTAL,36
+Cochabamba,31003,Villa Tunari,2005,11,TOTAL,192
+Potosí,51501,Villazon,2005,11,TOTAL,115
+Cochabamba,30904,Vinto,2005,11,TOTAL,345
+Potosí,50602,Vitichi,2005,11,TOTAL,288
+Santa Cruz,70201,Warnes,2005,11,TOTAL,2060
+Tarija,60301,Yacuiba,2005,11,TOTAL,152
+Chuquisaca,10602,Yamparaez,2005,11,TOTAL,135
+La Paz,21103,Yanacachi,2005,11,TOTAL,219
+Santa Cruz,70403,Yapacani,2005,11,TOTAL,432
+Chuquisaca,10102,Yotala,2005,11,TOTAL,259
+Chuquisaca,10301,Zudañez,2005,11,TOTAL,268
+Potosí,51302,Acacio,2005,12,TOTAL,26
+Cochabamba,30201,Aiquile,2005,12,TOTAL,31
+Chuquisaca,10404,Alcala,2005,12,TOTAL,52
+Oruro,40603,Antequera,2005,12,TOTAL,11
+Cochabamba,30402,Anzaldo,2005,12,TOTAL,70
+Cochabamba,30501,Arani,2005,12,TOTAL,45
+Cochabamba,30403,Arbieto,2005,12,TOTAL,310
+Cochabamba,30601,Arque,2005,12,TOTAL,28
+Cochabamba,30301,Ayopaya (v. De Independencia),2005,12,TOTAL,48
+Oruro,41202,Belen De Andamarca,2005,12,TOTAL,10
+Potosí,50104,Belen De Urmiri,2005,12,TOTAL,10
+Tarija,60202,Bermejo,2005,12,TOTAL,10
+Potosí,50301,Betanzos,2005,12,TOTAL,120
+Cochabamba,31501,Bolivar,2005,12,TOTAL,25
+Santa Cruz,70703,Cabezas,2005,12,TOTAL,677
+La Paz,20905,Cairoma,2005,12,TOTAL,9
+La Paz,21304,Calamarca,2005,12,TOTAL,274
+Chuquisaca,10701,Camargo,2005,12,TOTAL,6
+Cochabamba,30701,Capinota,2005,12,TOTAL,108
+La Paz,20302,Caquiaviri,2005,12,TOTAL,88
+Oruro,40102,Caracollo,2005,12,TOTAL,5
+La Paz,22001,Caranavi,2005,12,TOTAL,364
+Santa Cruz,71403,Carmen Rivero Torrez,2005,12,TOTAL,10
+Oruro,40201,Challapata,2005,12,TOTAL,38
+Cochabamba,31204,Chimore,2005,12,TOTAL,91
+Oruro,40302,Choque Cota,2005,12,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2005,12,TOTAL,80
+Cochabamba,30801,Cliza,2005,12,TOTAL,73
+Pando,90101,Cobija,2005,12,TOTAL,24
+Cochabamba,30101,Cochabamba,2005,12,TOTAL,1139
+Cochabamba,30905,Colcapirhua,2005,12,TOTAL,746
+Potosí,50901,"Colcha ""k""",2005,12,TOTAL,20
+Cochabamba,31002,Colomi,2005,12,TOTAL,61
+Santa Cruz,70603,Colpa Belgica,2005,12,TOTAL,87
+Potosí,50401,Colquechaca,2005,12,TOTAL,100
+La Paz,21306,Colquencha,2005,12,TOTAL,123
+La Paz,21004,Colquiri,2005,12,TOTAL,192
+Santa Cruz,71301,Comarapa,2005,12,TOTAL,1618
+La Paz,21701,Copacabana,2005,12,TOTAL,135
+La Paz,20301,Coro Coro,2005,12,TOTAL,25
+La Paz,21401,Coroico,2005,12,TOTAL,1
+Oruro,40301,Corque,2005,12,TOTAL,22
+Santa Cruz,70102,Cotoca,2005,12,TOTAL,1469
+Santa Cruz,71106,Cuatro Cañadas,2005,12,TOTAL,70
+Santa Cruz,70704,Cuevo,2005,12,TOTAL,810
+Oruro,40401,Curahuara De Carangas,2005,12,TOTAL,25
+La Paz,20804,Desaguadero,2005,12,TOTAL,47
+La Paz,20105,El Alto,2005,12,TOTAL,3258
+Oruro,40103,El Choro,2005,12,TOTAL,16
+Santa Cruz,71503,El Puente(stc),2005,12,TOTAL,1707
+Santa Cruz,70105,El Torno,2005,12,TOTAL,400
+Tarija,60601,Entre Rios,2005,12,TOTAL,17
+Tarija,60601,Entre Rios,2005,12,TOTAL,5
+Santa Cruz,71002,General Saavedra,2005,12,TOTAL,144
+La Paz,20602,Guanay,2005,12,TOTAL,74
+Santa Cruz,70705,Gutierrez,2005,12,TOTAL,933
+Chuquisaca,10502,Huacareta,2005,12,TOTAL,258
+Oruro,40501,Huachacalla,2005,12,TOTAL,10
+La Paz,21005,Ichoca,2005,12,TOTAL,254
+Chuquisaca,10304,Icla,2005,12,TOTAL,12
+Chuquisaca,10703,Incahuasi,2005,12,TOTAL,49
+La Paz,21001,Inquisivi,2005,12,TOTAL,246
+La Paz,20806,Jesus De Machaca,2005,12,TOTAL,91
+La Paz,20101,La Paz,2005,12,TOTAL,1530
+Oruro,41501,La Rivera,2005,12,TOTAL,4
+Santa Cruz,70701,Lagunillas,2005,12,TOTAL,344
+La Paz,21006,Licoma Pampa,2005,12,TOTAL,375
+Potosí,51401,Llica,2005,12,TOTAL,57
+Beni,80601,Loreto,2005,12,TOTAL,50
+Chuquisaca,11003,Machareti,2005,12,TOTAL,572
+La Paz,20103,Mecapaca,2005,12,TOTAL,90
+Cochabamba,31301,Mizque,2005,12,TOTAL,379
+La Paz,20402,Mocomoco,2005,12,TOTAL,2
+Chuquisaca,10303,Mojocoya,2005,12,TOTAL,229
+Santa Cruz,71001,Montero,2005,12,TOTAL,11
+Santa Cruz,70803,Moro Moro,2005,12,TOTAL,170
+Cochabamba,30302,Morochata,2005,12,TOTAL,920
+Santa Cruz,70202,Okinawa,2005,12,TOTAL,98
+Cochabamba,30203,Omereque,2005,12,TOTAL,99
+Oruro,40101,Oruro,2005,12,TOTAL,2191
+Chuquisaca,10401,Padilla,2005,12,TOTAL,968
+Santa Cruz,70502,Pailon,2005,12,TOTAL,400
+La Paz,20102,Palca,2005,12,TOTAL,28
+La Paz,21104,Palos Blancos,2005,12,TOTAL,18
+La Paz,21802,Papel Pampa,2005,12,TOTAL,15
+Cochabamba,30202,Pasorapa,2005,12,TOTAL,520
+Cochabamba,31203,Pocona,2005,12,TOTAL,348
+Cochabamba,31202,Pojo (cbba),2005,12,TOTAL,60
+Chuquisaca,10103,Poroma,2005,12,TOTAL,72
+Santa Cruz,70103,Porongo,2005,12,TOTAL,84
+Santa Cruz,70804,Postrer Valle,2005,12,TOTAL,170
+La Paz,20401,Puerto Acosta,2005,12,TOTAL,2
+La Paz,20403,Puerto Carabuco,2005,12,TOTAL,16
+Santa Cruz,71402,Puerto Quijarro,2005,12,TOTAL,25
+Potosí,51101,Puna,2005,12,TOTAL,19
+Cochabamba,31401,Punata,2005,12,TOTAL,238
+Cochabamba,30901,Quillacollo,2005,12,TOTAL,3361
+Potosí,50402,Ravelo,2005,12,TOTAL,319
+Santa Cruz,70503,Robore,2005,12,TOTAL,40
+Oruro,40901,Sabaya,2005,12,TOTAL,8
+Cochabamba,31001,Sacaba,2005,12,TOTAL,834
+Cochabamba,30404,Sacabamba,2005,12,TOTAL,32
+Potosí,50701,Sacaca,2005,12,TOTAL,202
+La Paz,20805,San Andres De Machaca,2005,12,TOTAL,72
+Cochabamba,31403,San Benito,2005,12,TOTAL,9
+Beni,80302,San Borja,2005,12,TOTAL,59
+Santa Cruz,70301,San Ignacio De Velasco,2005,12,TOTAL,504
+Santa Cruz,71104,San Julian,2005,12,TOTAL,5403
+Chuquisaca,10702,San Lucas,2005,12,TOTAL,10
+Santa Cruz,71201,San Matias,2005,12,TOTAL,1114
+Santa Cruz,70302,San Miguel De Velasco,2005,12,TOTAL,232
+Santa Cruz,71005,San Pedro,2005,12,TOTAL,300
+Potosí,50501,San Pedro De Buena Vista,2005,12,TOTAL,10
+Santa Cruz,70303,San Rafael,2005,12,TOTAL,11
+Beni,80702,San Ramon,2005,12,TOTAL,777
+Santa Cruz,70101,Santa Cruz De La Sierra,2005,12,TOTAL,66241
+Santa Cruz,70602,Santa Rosa Del Sara,2005,12,TOTAL,260
+Oruro,41401,Santiago De Huari,2005,12,TOTAL,13
+Cochabamba,30702,Santivañes,2005,12,TOTAL,56
+La Paz,21301,Sica Sica (villa Aroma),2005,12,TOTAL,55
+Cochabamba,30902,Sipe Sipe,2005,12,TOTAL,308
+Oruro,40104,Soracachi,2005,12,TOTAL,33
+Chuquisaca,10101,Sucre,2005,12,TOTAL,6
+Cochabamba,31404,Tacachi,2005,12,TOTAL,5
+Cochabamba,30602,Tacopaya,2005,12,TOTAL,60
+Cochabamba,31101,Tapacari,2005,12,TOTAL,125
+Cochabamba,30401,Tarata,2005,12,TOTAL,23
+Tarija,60101,Tarija,2005,12,TOTAL,646
+Chuquisaca,10202,Tarvita,2005,12,TOTAL,540
+La Paz,20608,Teoponte,2005,12,TOTAL,74
+La Paz,20803,Tiawanacu,2005,12,TOTAL,69
+La Paz,20606,Tipuani,2005,12,TOTAL,21
+Cochabamba,30903,Tiquipaya,2005,12,TOTAL,10
+Cochabamba,31601,Tiraque (cbba),2005,12,TOTAL,462
+Cochabamba,30802,Toco,2005,12,TOTAL,2
+Cochabamba,30803,Tolata,2005,12,TOTAL,404
+Oruro,41001,Toledo,2005,12,TOTAL,44
+Potosí,51202,Tomave,2005,12,TOTAL,25
+Potosí,50502,Toro Toro,2005,12,TOTAL,2
+Santa Cruz,70802,Trigal,2005,12,TOTAL,522
+Potosí,50801,Tupiza,2005,12,TOTAL,107
+Oruro,40402,Turco,2005,12,TOTAL,3
+La Paz,21302,Umala,2005,12,TOTAL,71
+Santa Cruz,71502,Urubicha,2005,12,TOTAL,950
+Potosí,51201,Uyuni,2005,12,TOTAL,398
+Cochabamba,30502,Vacas,2005,12,TOTAL,10
+Santa Cruz,70801,Vallegrande,2005,12,TOTAL,2389
+La Paz,20801,Viacha,2005,12,TOTAL,11
+Cochabamba,31302,Vila Vila,2005,12,TOTAL,3
+Cochabamba,31402,Villa Rivero,2005,12,TOTAL,5
+Cochabamba,31003,Villa Tunari,2005,12,TOTAL,136
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2005,12,TOTAL,641
+Potosí,51501,Villazon,2005,12,TOTAL,2926
+Cochabamba,30904,Vinto,2005,12,TOTAL,500
+Potosí,50602,Vitichi,2005,12,TOTAL,150
+Santa Cruz,70201,Warnes,2005,12,TOTAL,221
+Tarija,60301,Yacuiba,2005,12,TOTAL,54
+La Paz,21103,Yanacachi,2005,12,TOTAL,91
+Santa Cruz,70403,Yapacani,2005,12,TOTAL,244
+Chuquisaca,10102,Yotala,2005,12,TOTAL,107

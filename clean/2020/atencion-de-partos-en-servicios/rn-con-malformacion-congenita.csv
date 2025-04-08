@@ -1,0 +1,523 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60202,Bermejo,2020,1,RN con malformacion congenita,2
+Santa Cruz,70702,Charagua,2020,1,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,1,RN con malformacion congenita,9
+Chuquisaca,10902,Culpina,2020,1,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,1,RN con malformacion congenita,4
+Cochabamba,31206,Entre Rios Cbba,2020,1,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,1,RN con malformacion congenita,14
+La Paz,20901,Luribay,2020,1,RN con malformacion congenita,1
+Chuquisaca,11003,Machareti,2020,1,RN con malformacion congenita,1
+Oruro,40101,Oruro,2020,1,RN con malformacion congenita,4
+Potosí,50101,Potosi,2020,1,RN con malformacion congenita,1
+Cochabamba,30901,Quillacollo,2020,1,RN con malformacion congenita,2
+Beni,80302,San Borja,2020,1,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,1,RN con malformacion congenita,3
+Chuquisaca,10702,San Lucas,2020,1,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,1,RN con malformacion congenita,27
+Tarija,60101,Tarija,2020,1,RN con malformacion congenita,1
+Beni,80101,Trinidad,2020,1,RN con malformacion congenita,1
+Tarija,60303,Villa Montes,2020,1,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2020,1,RN con malformacion congenita,1
+Potosí,50602,Vitichi,2020,1,RN con malformacion congenita,1
+La Paz,20701,Apolo,2020,2,RN con malformacion congenita,1
+Santa Cruz,71501,Ascencion De Guarayos,2020,2,RN con malformacion congenita,35
+Santa Cruz,70706,Camiri,2020,2,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,2,RN con malformacion congenita,3
+Oruro,40401,Curahuara De Carangas,2020,2,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,2,RN con malformacion congenita,7
+Tarija,60601,Entre Rios Trj,2020,2,RN con malformacion congenita,1
+La Paz,21105,La Asunta,2020,2,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,2,RN con malformacion congenita,10
+Santa Cruz,71001,Montero,2020,2,RN con malformacion congenita,1
+Oruro,40101,Oruro,2020,2,RN con malformacion congenita,5
+Cochabamba,31401,Punata,2020,2,RN con malformacion congenita,5
+Cochabamba,31001,Sacaba,2020,2,RN con malformacion congenita,2
+Santa Cruz,71105,San Antonio De Lomerio,2020,2,RN con malformacion congenita,1
+Beni,80302,San Borja,2020,2,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,2,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,2,RN con malformacion congenita,6
+Chuquisaca,10101,Sucre,2020,2,RN con malformacion congenita,4
+Tarija,60101,Tarija,2020,2,RN con malformacion congenita,2
+Santa Cruz,71501,Ascencion De Guarayos,2020,3,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,3,RN con malformacion congenita,2
+La Paz,20105,El Alto,2020,3,RN con malformacion congenita,2
+Santa Cruz,70105,El Torno,2020,3,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,3,RN con malformacion congenita,15
+Oruro,40101,Oruro,2020,3,RN con malformacion congenita,1
+Cochabamba,30901,Quillacollo,2020,3,RN con malformacion congenita,1
+Beni,80201,Riberalta,2020,3,RN con malformacion congenita,6
+Santa Cruz,70301,San Ignacio De Velasco,2020,3,RN con malformacion congenita,3
+Chuquisaca,10101,Sucre,2020,3,RN con malformacion congenita,9
+Cochabamba,31101,Tapacari,2020,3,RN con malformacion congenita,1
+Cochabamba,30903,Tiquipaya,2020,3,RN con malformacion congenita,1
+Tarija,60301,Yacuiba,2020,3,RN con malformacion congenita,1
+Santa Cruz,70706,Camiri,2020,4,RN con malformacion congenita,1
+La Paz,21902,Catacora,2020,4,RN con malformacion congenita,1
+Pando,90101,Cobija,2020,4,RN con malformacion congenita,1
+Santa Cruz,71301,Comarapa,2020,4,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,4,RN con malformacion congenita,3
+Oruro,40701,Huanuni,2020,4,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,4,RN con malformacion congenita,6
+Potosí,50203,Llallagua,2020,4,RN con malformacion congenita,1
+Potosí,50404,Ocuri,2020,4,RN con malformacion congenita,1
+Oruro,40101,Oruro,2020,4,RN con malformacion congenita,2
+Santa Cruz,70601,Portachuelo,2020,4,RN con malformacion congenita,1
+Cochabamba,31205,Puerto Villarroel,2020,4,RN con malformacion congenita,1
+Cochabamba,30901,Quillacollo,2020,4,RN con malformacion congenita,1
+Santa Cruz,70503,Robore,2020,4,RN con malformacion congenita,1
+Cochabamba,31001,Sacaba,2020,4,RN con malformacion congenita,1
+Beni,80302,San Borja,2020,4,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,4,RN con malformacion congenita,2
+Santa Cruz,71201,San Matias,2020,4,RN con malformacion congenita,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,4,RN con malformacion congenita,6
+Chuquisaca,10101,Sucre,2020,4,RN con malformacion congenita,3
+Tarija,60101,Tarija,2020,4,RN con malformacion congenita,3
+Santa Cruz,70801,Vallegrande,2020,4,RN con malformacion congenita,1
+Cochabamba,31302,Vila Vila,2020,4,RN con malformacion congenita,1
+Tarija,60303,Villa Montes,2020,4,RN con malformacion congenita,1
+La Paz,20701,Apolo,2020,5,RN con malformacion congenita,1
+Santa Cruz,70707,Boyuibe,2020,5,RN con malformacion congenita,1
+Santa Cruz,70706,Camiri,2020,5,RN con malformacion congenita,1
+La Paz,22001,Caranavi,2020,5,RN con malformacion congenita,1
+Tarija,60302,Carapari,2020,5,RN con malformacion congenita,1
+Cochabamba,30303,Cocapata,2020,5,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,5,RN con malformacion congenita,2
+Tarija,60601,Entre Rios Trj,2020,5,RN con malformacion congenita,1
+La Paz,21105,La Asunta,2020,5,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,5,RN con malformacion congenita,14
+Chuquisaca,10501,Monteagudo,2020,5,RN con malformacion congenita,1
+Oruro,40101,Oruro,2020,5,RN con malformacion congenita,2
+Cochabamba,31401,Punata,2020,5,RN con malformacion congenita,1
+Beni,80201,Riberalta,2020,5,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,5,RN con malformacion congenita,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,5,RN con malformacion congenita,4
+Chuquisaca,10101,Sucre,2020,5,RN con malformacion congenita,1
+Tarija,60101,Tarija,2020,5,RN con malformacion congenita,1
+Beni,80101,Trinidad,2020,5,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2020,5,RN con malformacion congenita,1
+Potosí,50103,Yocalla,2020,5,RN con malformacion congenita,3
+Santa Cruz,70706,Camiri,2020,6,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,6,RN con malformacion congenita,1
+Potosí,50601,Cotagaita,2020,6,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,6,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,6,RN con malformacion congenita,12
+Cochabamba,31301,Mizque,2020,6,RN con malformacion congenita,1
+Oruro,40101,Oruro,2020,6,RN con malformacion congenita,3
+Potosí,50101,Potosi,2020,6,RN con malformacion congenita,1
+La Paz,20403,Puerto Carabuco,2020,6,RN con malformacion congenita,1
+Cochabamba,30901,Quillacollo,2020,6,RN con malformacion congenita,1
+Beni,80201,Riberalta,2020,6,RN con malformacion congenita,2
+Beni,80304,Rurrenabaque,2020,6,RN con malformacion congenita,3
+Santa Cruz,71302,Saipina,2020,6,RN con malformacion congenita,1
+Beni,80302,San Borja,2020,6,RN con malformacion congenita,1
+Beni,80501,San Ignacio,2020,6,RN con malformacion congenita,1
+Potosí,50501,San Pedro De Buena Vista,2020,6,RN con malformacion congenita,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,6,RN con malformacion congenita,6
+La Paz,21301,Sica Sica (villa Aroma),2020,6,RN con malformacion congenita,1
+Oruro,40104,Soracachi,2020,6,RN con malformacion congenita,1
+Chuquisaca,10101,Sucre,2020,6,RN con malformacion congenita,3
+Tarija,60101,Tarija,2020,6,RN con malformacion congenita,1
+Cochabamba,30903,Tiquipaya,2020,6,RN con malformacion congenita,2
+Oruro,41001,Toledo,2020,6,RN con malformacion congenita,1
+Chuquisaca,10402,Tomina,2020,6,RN con malformacion congenita,1
+Potosí,50801,Tupiza,2020,6,RN con malformacion congenita,2
+Tarija,60303,Villa Montes,2020,6,RN con malformacion congenita,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2020,7,RN con malformacion congenita,1
+Tarija,60202,Bermejo,2020,7,RN con malformacion congenita,1
+Potosí,50302,Chaqui,2020,7,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,7,RN con malformacion congenita,1
+La Paz,21306,Colquencha,2020,7,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,7,RN con malformacion congenita,3
+Santa Cruz,71503,El Puente(stc),2020,7,RN con malformacion congenita,1
+Santa Cruz,70105,El Torno,2020,7,RN con malformacion congenita,1
+La Paz,20802,Guaqui,2020,7,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,7,RN con malformacion congenita,14
+Oruro,40101,Oruro,2020,7,RN con malformacion congenita,1
+Chuquisaca,10401,Padilla,2020,7,RN con malformacion congenita,1
+La Paz,21201,Pucarani,2020,7,RN con malformacion congenita,1
+Cochabamba,30901,Quillacollo,2020,7,RN con malformacion congenita,2
+Beni,80301,Reyes,2020,7,RN con malformacion congenita,1
+Beni,80201,Riberalta,2020,7,RN con malformacion congenita,2
+Santa Cruz,71005,San Pedro,2020,7,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,7,RN con malformacion congenita,1
+Cochabamba,31602,Shinaota,2020,7,RN con malformacion congenita,1
+Chuquisaca,10101,Sucre,2020,7,RN con malformacion congenita,3
+Cochabamba,30903,Tiquipaya,2020,7,RN con malformacion congenita,1
+Beni,80101,Trinidad,2020,7,RN con malformacion congenita,2
+Potosí,50801,Tupiza,2020,7,RN con malformacion congenita,1
+Tarija,60301,Yacuiba,2020,7,RN con malformacion congenita,1
+Beni,80802,Baures,2020,8,RN con malformacion congenita,2
+Cochabamba,30701,Capinota,2020,8,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,8,RN con malformacion congenita,2
+Santa Cruz,71301,Comarapa,2020,8,RN con malformacion congenita,1
+Santa Cruz,71101,Concepcion,2020,8,RN con malformacion congenita,2
+Potosí,50601,Cotagaita,2020,8,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,8,RN con malformacion congenita,5
+Oruro,40701,Huanuni,2020,8,RN con malformacion congenita,2
+La Paz,20101,La Paz,2020,8,RN con malformacion congenita,265
+Potosí,50404,Ocuri,2020,8,RN con malformacion congenita,1
+Cochabamba,30901,Quillacollo,2020,8,RN con malformacion congenita,2
+Beni,80201,Riberalta,2020,8,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,8,RN con malformacion congenita,4
+Chuquisaca,10101,Sucre,2020,8,RN con malformacion congenita,2
+Beni,80101,Trinidad,2020,8,RN con malformacion congenita,1
+Tarija,60303,Villa Montes,2020,8,RN con malformacion congenita,1
+Potosí,51501,Villazon,2020,8,RN con malformacion congenita,1
+Chuquisaca,10602,Yamparaez,2020,8,RN con malformacion congenita,1
+Santa Cruz,70403,Yapacani,2020,8,RN con malformacion congenita,1
+La Paz,20701,Apolo,2020,9,RN con malformacion congenita,1
+Tarija,60202,Bermejo,2020,9,RN con malformacion congenita,2
+Oruro,40201,Challapata,2020,9,RN con malformacion congenita,1
+Potosí,50202,Chayanta,2020,9,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,9,RN con malformacion congenita,2
+Potosí,50601,Cotagaita,2020,9,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,9,RN con malformacion congenita,5
+Cochabamba,31206,Entre Rios Cbba,2020,9,RN con malformacion congenita,2
+Chuquisaca,10502,Huacareta,2020,9,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,9,RN con malformacion congenita,5
+Potosí,50203,Llallagua,2020,9,RN con malformacion congenita,1
+Cochabamba,31301,Mizque,2020,9,RN con malformacion congenita,2
+Cochabamba,30302,Morochata,2020,9,RN con malformacion congenita,1
+Chuquisaca,10401,Padilla,2020,9,RN con malformacion congenita,1
+Cochabamba,30901,Quillacollo,2020,9,RN con malformacion congenita,2
+Beni,80201,Riberalta,2020,9,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,9,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,9,RN con malformacion congenita,24
+Chuquisaca,10101,Sucre,2020,9,RN con malformacion congenita,3
+Chuquisaca,10601,Tarabuco,2020,9,RN con malformacion congenita,1
+Tarija,60101,Tarija,2020,9,RN con malformacion congenita,2
+Beni,80101,Trinidad,2020,9,RN con malformacion congenita,2
+Chuquisaca,10704,Villa Charcas,2020,9,RN con malformacion congenita,1
+Santa Cruz,70403,Yapacani,2020,9,RN con malformacion congenita,1
+La Paz,22001,Caranavi,2020,10,RN con malformacion congenita,1
+Oruro,40201,Challapata,2020,10,RN con malformacion congenita,2
+Santa Cruz,70702,Charagua,2020,10,RN con malformacion congenita,1
+La Paz,20501,Chuma,2020,10,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,10,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,10,RN con malformacion congenita,3
+Tarija,60502,El Puente(tja),2020,10,RN con malformacion congenita,1
+Cochabamba,31206,Entre Rios Cbba,2020,10,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,10,RN con malformacion congenita,14
+Potosí,50203,Llallagua,2020,10,RN con malformacion congenita,1
+Chuquisaca,10501,Monteagudo,2020,10,RN con malformacion congenita,2
+Oruro,40101,Oruro,2020,10,RN con malformacion congenita,10
+Cochabamba,30901,Quillacollo,2020,10,RN con malformacion congenita,3
+Beni,80201,Riberalta,2020,10,RN con malformacion congenita,1
+Cochabamba,31001,Sacaba,2020,10,RN con malformacion congenita,1
+La Paz,21502,San Buena Ventura,2020,10,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,10,RN con malformacion congenita,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,10,RN con malformacion congenita,5
+Cochabamba,30702,Santivañes,2020,10,RN con malformacion congenita,1
+Chuquisaca,10101,Sucre,2020,10,RN con malformacion congenita,2
+Cochabamba,30502,Vacas,2020,10,RN con malformacion congenita,1
+La Paz,20801,Viacha,2020,10,RN con malformacion congenita,1
+Santa Cruz,71501,Ascencion De Guarayos,2020,11,RN con malformacion congenita,1
+Chuquisaca,10201,Azurduy,2020,11,RN con malformacion congenita,1
+Potosí,50301,Betanzos,2020,11,RN con malformacion congenita,1
+Potosí,50202,Chayanta,2020,11,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,11,RN con malformacion congenita,2
+La Paz,20105,El Alto,2020,11,RN con malformacion congenita,10
+La Paz,20101,La Paz,2020,11,RN con malformacion congenita,6
+Santa Cruz,70903,Mairana,2020,11,RN con malformacion congenita,1
+Cochabamba,31301,Mizque,2020,11,RN con malformacion congenita,1
+Chuquisaca,10501,Monteagudo,2020,11,RN con malformacion congenita,1
+Oruro,40101,Oruro,2020,11,RN con malformacion congenita,5
+Potosí,51203,Porco,2020,11,RN con malformacion congenita,2
+Potosí,50101,Potosi,2020,11,RN con malformacion congenita,1
+Cochabamba,31205,Puerto Villarroel,2020,11,RN con malformacion congenita,1
+Cochabamba,30901,Quillacollo,2020,11,RN con malformacion congenita,2
+Potosí,50402,Ravelo,2020,11,RN con malformacion congenita,1
+Beni,80201,Riberalta,2020,11,RN con malformacion congenita,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,11,RN con malformacion congenita,208
+Cochabamba,31602,Shinaota,2020,11,RN con malformacion congenita,2
+Chuquisaca,10101,Sucre,2020,11,RN con malformacion congenita,2
+Chuquisaca,10301,Zudañez,2020,11,RN con malformacion congenita,1
+Santa Cruz,70706,Camiri,2020,12,RN con malformacion congenita,1
+Oruro,40201,Challapata,2020,12,RN con malformacion congenita,1
+Cochabamba,30801,Cliza,2020,12,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2020,12,RN con malformacion congenita,4
+La Paz,21401,Coroico,2020,12,RN con malformacion congenita,1
+La Paz,20105,El Alto,2020,12,RN con malformacion congenita,1
+La Paz,20101,La Paz,2020,12,RN con malformacion congenita,9
+Potosí,50203,Llallagua,2020,12,RN con malformacion congenita,1
+Santa Cruz,71001,Montero,2020,12,RN con malformacion congenita,1
+Oruro,40101,Oruro,2020,12,RN con malformacion congenita,2
+Cochabamba,30901,Quillacollo,2020,12,RN con malformacion congenita,2
+Beni,80201,Riberalta,2020,12,RN con malformacion congenita,1
+Cochabamba,31001,Sacaba,2020,12,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,12,RN con malformacion congenita,1
+Chuquisaca,10702,San Lucas,2020,12,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,12,RN con malformacion congenita,1
+Cochabamba,31602,Shinaota,2020,12,RN con malformacion congenita,1
+Cochabamba,30902,Sipe Sipe,2020,12,RN con malformacion congenita,1
+Chuquisaca,10101,Sucre,2020,12,RN con malformacion congenita,2
+Chuquisaca,10601,Tarabuco,2020,12,RN con malformacion congenita,1
+Cochabamba,30401,Tarata,2020,12,RN con malformacion congenita,1
+Tarija,60101,Tarija,2020,12,RN con malformacion congenita,1
+La Paz,20803,Tiahuanacu,2020,12,RN con malformacion congenita,1
+Cochabamba,30903,Tiquipaya,2020,12,RN con malformacion congenita,1
+Potosí,50801,Tupiza,2020,12,RN con malformacion congenita,1
+La Paz,20801,Viacha,2020,12,RN con malformacion congenita,2
+Potosí,51501,Villazon,2020,12,RN con malformacion congenita,1
+Tarija,60202,Bermejo,2020,1,TOTAL,2
+Santa Cruz,70702,Charagua,2020,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,1,TOTAL,9
+Chuquisaca,10902,Culpina,2020,1,TOTAL,1
+La Paz,20105,El Alto,2020,1,TOTAL,4
+Cochabamba,31206,Entre Rios Cbba,2020,1,TOTAL,1
+La Paz,20101,La Paz,2020,1,TOTAL,14
+La Paz,20901,Luribay,2020,1,TOTAL,1
+Chuquisaca,11003,Machareti,2020,1,TOTAL,1
+Oruro,40101,Oruro,2020,1,TOTAL,4
+Potosí,50101,Potosi,2020,1,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,1,TOTAL,2
+Beni,80302,San Borja,2020,1,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,1,TOTAL,3
+Chuquisaca,10702,San Lucas,2020,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,1,TOTAL,27
+Tarija,60101,Tarija,2020,1,TOTAL,1
+Beni,80101,Trinidad,2020,1,TOTAL,1
+Tarija,60303,Villa Montes,2020,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,1,TOTAL,1
+Potosí,50602,Vitichi,2020,1,TOTAL,1
+La Paz,20701,Apolo,2020,2,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2020,2,TOTAL,35
+Santa Cruz,70706,Camiri,2020,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,2,TOTAL,3
+Oruro,40401,Curahuara De Carangas,2020,2,TOTAL,1
+La Paz,20105,El Alto,2020,2,TOTAL,7
+Tarija,60601,Entre Rios Trj,2020,2,TOTAL,1
+La Paz,21105,La Asunta,2020,2,TOTAL,1
+La Paz,20101,La Paz,2020,2,TOTAL,10
+Santa Cruz,71001,Montero,2020,2,TOTAL,1
+Oruro,40101,Oruro,2020,2,TOTAL,5
+Cochabamba,31401,Punata,2020,2,TOTAL,5
+Cochabamba,31001,Sacaba,2020,2,TOTAL,2
+Santa Cruz,71105,San Antonio De Lomerio,2020,2,TOTAL,1
+Beni,80302,San Borja,2020,2,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,2,TOTAL,6
+Chuquisaca,10101,Sucre,2020,2,TOTAL,4
+Tarija,60101,Tarija,2020,2,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2020,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,3,TOTAL,2
+La Paz,20105,El Alto,2020,3,TOTAL,2
+Santa Cruz,70105,El Torno,2020,3,TOTAL,1
+La Paz,20101,La Paz,2020,3,TOTAL,15
+Oruro,40101,Oruro,2020,3,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,3,TOTAL,1
+Beni,80201,Riberalta,2020,3,TOTAL,6
+Santa Cruz,70301,San Ignacio De Velasco,2020,3,TOTAL,3
+Chuquisaca,10101,Sucre,2020,3,TOTAL,9
+Cochabamba,31101,Tapacari,2020,3,TOTAL,1
+Cochabamba,30903,Tiquipaya,2020,3,TOTAL,1
+Tarija,60301,Yacuiba,2020,3,TOTAL,1
+Santa Cruz,70706,Camiri,2020,4,TOTAL,1
+La Paz,21902,Catacora,2020,4,TOTAL,1
+Pando,90101,Cobija,2020,4,TOTAL,1
+Santa Cruz,71301,Comarapa,2020,4,TOTAL,1
+La Paz,20105,El Alto,2020,4,TOTAL,3
+Oruro,40701,Huanuni,2020,4,TOTAL,1
+La Paz,20101,La Paz,2020,4,TOTAL,6
+Potosí,50203,Llallagua,2020,4,TOTAL,1
+Potosí,50404,Ocuri,2020,4,TOTAL,1
+Oruro,40101,Oruro,2020,4,TOTAL,2
+Santa Cruz,70601,Portachuelo,2020,4,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2020,4,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,4,TOTAL,1
+Santa Cruz,70503,Robore,2020,4,TOTAL,1
+Cochabamba,31001,Sacaba,2020,4,TOTAL,1
+Beni,80302,San Borja,2020,4,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,4,TOTAL,2
+Santa Cruz,71201,San Matias,2020,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,4,TOTAL,6
+Chuquisaca,10101,Sucre,2020,4,TOTAL,3
+Tarija,60101,Tarija,2020,4,TOTAL,3
+Santa Cruz,70801,Vallegrande,2020,4,TOTAL,1
+Cochabamba,31302,Vila Vila,2020,4,TOTAL,1
+Tarija,60303,Villa Montes,2020,4,TOTAL,1
+La Paz,20701,Apolo,2020,5,TOTAL,1
+Santa Cruz,70707,Boyuibe,2020,5,TOTAL,1
+Santa Cruz,70706,Camiri,2020,5,TOTAL,1
+La Paz,22001,Caranavi,2020,5,TOTAL,1
+Tarija,60302,Carapari,2020,5,TOTAL,1
+Cochabamba,30303,Cocapata,2020,5,TOTAL,1
+La Paz,20105,El Alto,2020,5,TOTAL,2
+Tarija,60601,Entre Rios Trj,2020,5,TOTAL,1
+La Paz,21105,La Asunta,2020,5,TOTAL,1
+La Paz,20101,La Paz,2020,5,TOTAL,14
+Chuquisaca,10501,Monteagudo,2020,5,TOTAL,1
+Oruro,40101,Oruro,2020,5,TOTAL,2
+Cochabamba,31401,Punata,2020,5,TOTAL,1
+Beni,80201,Riberalta,2020,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,5,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,5,TOTAL,4
+Chuquisaca,10101,Sucre,2020,5,TOTAL,1
+Tarija,60101,Tarija,2020,5,TOTAL,1
+Beni,80101,Trinidad,2020,5,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,5,TOTAL,1
+Potosí,50103,Yocalla,2020,5,TOTAL,3
+Santa Cruz,70706,Camiri,2020,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,6,TOTAL,1
+Potosí,50601,Cotagaita,2020,6,TOTAL,1
+La Paz,20105,El Alto,2020,6,TOTAL,1
+La Paz,20101,La Paz,2020,6,TOTAL,12
+Cochabamba,31301,Mizque,2020,6,TOTAL,1
+Oruro,40101,Oruro,2020,6,TOTAL,3
+Potosí,50101,Potosi,2020,6,TOTAL,1
+La Paz,20403,Puerto Carabuco,2020,6,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,6,TOTAL,1
+Beni,80201,Riberalta,2020,6,TOTAL,2
+Beni,80304,Rurrenabaque,2020,6,TOTAL,3
+Santa Cruz,71302,Saipina,2020,6,TOTAL,1
+Beni,80302,San Borja,2020,6,TOTAL,1
+Beni,80501,San Ignacio,2020,6,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2020,6,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,6,TOTAL,6
+La Paz,21301,Sica Sica (villa Aroma),2020,6,TOTAL,1
+Oruro,40104,Soracachi,2020,6,TOTAL,1
+Chuquisaca,10101,Sucre,2020,6,TOTAL,3
+Tarija,60101,Tarija,2020,6,TOTAL,1
+Cochabamba,30903,Tiquipaya,2020,6,TOTAL,2
+Oruro,41001,Toledo,2020,6,TOTAL,1
+Chuquisaca,10402,Tomina,2020,6,TOTAL,1
+Potosí,50801,Tupiza,2020,6,TOTAL,2
+Tarija,60303,Villa Montes,2020,6,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2020,7,TOTAL,1
+Tarija,60202,Bermejo,2020,7,TOTAL,1
+Potosí,50302,Chaqui,2020,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,7,TOTAL,1
+La Paz,21306,Colquencha,2020,7,TOTAL,1
+La Paz,20105,El Alto,2020,7,TOTAL,3
+Santa Cruz,71503,El Puente(stc),2020,7,TOTAL,1
+Santa Cruz,70105,El Torno,2020,7,TOTAL,1
+La Paz,20802,Guaqui,2020,7,TOTAL,1
+La Paz,20101,La Paz,2020,7,TOTAL,14
+Oruro,40101,Oruro,2020,7,TOTAL,1
+Chuquisaca,10401,Padilla,2020,7,TOTAL,1
+La Paz,21201,Pucarani,2020,7,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,7,TOTAL,2
+Beni,80301,Reyes,2020,7,TOTAL,1
+Beni,80201,Riberalta,2020,7,TOTAL,2
+Santa Cruz,71005,San Pedro,2020,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,7,TOTAL,1
+Cochabamba,31602,Shinaota,2020,7,TOTAL,1
+Chuquisaca,10101,Sucre,2020,7,TOTAL,3
+Cochabamba,30903,Tiquipaya,2020,7,TOTAL,1
+Beni,80101,Trinidad,2020,7,TOTAL,2
+Potosí,50801,Tupiza,2020,7,TOTAL,1
+Tarija,60301,Yacuiba,2020,7,TOTAL,1
+Beni,80802,Baures,2020,8,TOTAL,2
+Cochabamba,30701,Capinota,2020,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,8,TOTAL,2
+Santa Cruz,71301,Comarapa,2020,8,TOTAL,1
+Santa Cruz,71101,Concepcion,2020,8,TOTAL,2
+Potosí,50601,Cotagaita,2020,8,TOTAL,1
+La Paz,20105,El Alto,2020,8,TOTAL,5
+Oruro,40701,Huanuni,2020,8,TOTAL,2
+La Paz,20101,La Paz,2020,8,TOTAL,265
+Potosí,50404,Ocuri,2020,8,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,8,TOTAL,2
+Beni,80201,Riberalta,2020,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,8,TOTAL,4
+Chuquisaca,10101,Sucre,2020,8,TOTAL,2
+Beni,80101,Trinidad,2020,8,TOTAL,1
+Tarija,60303,Villa Montes,2020,8,TOTAL,1
+Potosí,51501,Villazon,2020,8,TOTAL,1
+Chuquisaca,10602,Yamparaez,2020,8,TOTAL,1
+Santa Cruz,70403,Yapacani,2020,8,TOTAL,1
+La Paz,20701,Apolo,2020,9,TOTAL,1
+Tarija,60202,Bermejo,2020,9,TOTAL,2
+Oruro,40201,Challapata,2020,9,TOTAL,1
+Potosí,50202,Chayanta,2020,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,9,TOTAL,2
+Potosí,50601,Cotagaita,2020,9,TOTAL,1
+La Paz,20105,El Alto,2020,9,TOTAL,5
+Cochabamba,31206,Entre Rios Cbba,2020,9,TOTAL,2
+Chuquisaca,10502,Huacareta,2020,9,TOTAL,1
+La Paz,20101,La Paz,2020,9,TOTAL,5
+Potosí,50203,Llallagua,2020,9,TOTAL,1
+Cochabamba,31301,Mizque,2020,9,TOTAL,2
+Cochabamba,30302,Morochata,2020,9,TOTAL,1
+Chuquisaca,10401,Padilla,2020,9,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,9,TOTAL,2
+Beni,80201,Riberalta,2020,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,9,TOTAL,24
+Chuquisaca,10101,Sucre,2020,9,TOTAL,3
+Chuquisaca,10601,Tarabuco,2020,9,TOTAL,1
+Tarija,60101,Tarija,2020,9,TOTAL,2
+Beni,80101,Trinidad,2020,9,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2020,9,TOTAL,1
+Santa Cruz,70403,Yapacani,2020,9,TOTAL,1
+La Paz,22001,Caranavi,2020,10,TOTAL,1
+Oruro,40201,Challapata,2020,10,TOTAL,2
+Santa Cruz,70702,Charagua,2020,10,TOTAL,1
+La Paz,20501,Chuma,2020,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,10,TOTAL,1
+La Paz,20105,El Alto,2020,10,TOTAL,3
+Tarija,60502,El Puente(tja),2020,10,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2020,10,TOTAL,1
+La Paz,20101,La Paz,2020,10,TOTAL,14
+Potosí,50203,Llallagua,2020,10,TOTAL,1
+Chuquisaca,10501,Monteagudo,2020,10,TOTAL,2
+Oruro,40101,Oruro,2020,10,TOTAL,10
+Cochabamba,30901,Quillacollo,2020,10,TOTAL,3
+Beni,80201,Riberalta,2020,10,TOTAL,1
+Cochabamba,31001,Sacaba,2020,10,TOTAL,1
+La Paz,21502,San Buena Ventura,2020,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,10,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,10,TOTAL,5
+Cochabamba,30702,Santivañes,2020,10,TOTAL,1
+Chuquisaca,10101,Sucre,2020,10,TOTAL,2
+Cochabamba,30502,Vacas,2020,10,TOTAL,1
+La Paz,20801,Viacha,2020,10,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2020,11,TOTAL,1
+Chuquisaca,10201,Azurduy,2020,11,TOTAL,1
+Potosí,50301,Betanzos,2020,11,TOTAL,1
+Potosí,50202,Chayanta,2020,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,11,TOTAL,2
+La Paz,20105,El Alto,2020,11,TOTAL,10
+La Paz,20101,La Paz,2020,11,TOTAL,6
+Santa Cruz,70903,Mairana,2020,11,TOTAL,1
+Cochabamba,31301,Mizque,2020,11,TOTAL,1
+Chuquisaca,10501,Monteagudo,2020,11,TOTAL,1
+Oruro,40101,Oruro,2020,11,TOTAL,5
+Potosí,51203,Porco,2020,11,TOTAL,2
+Potosí,50101,Potosi,2020,11,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2020,11,TOTAL,1
+Cochabamba,30901,Quillacollo,2020,11,TOTAL,2
+Potosí,50402,Ravelo,2020,11,TOTAL,1
+Beni,80201,Riberalta,2020,11,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,11,TOTAL,208
+Cochabamba,31602,Shinaota,2020,11,TOTAL,2
+Chuquisaca,10101,Sucre,2020,11,TOTAL,2
+Chuquisaca,10301,Zudañez,2020,11,TOTAL,1
+Santa Cruz,70706,Camiri,2020,12,TOTAL,1
+Oruro,40201,Challapata,2020,12,TOTAL,1
+Cochabamba,30801,Cliza,2020,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,12,TOTAL,4
+La Paz,21401,Coroico,2020,12,TOTAL,1
+La Paz,20105,El Alto,2020,12,TOTAL,1
+La Paz,20101,La Paz,2020,12,TOTAL,9
+Potosí,50203,Llallagua,2020,12,TOTAL,1
+Santa Cruz,71001,Montero,2020,12,TOTAL,1
+Oruro,40101,Oruro,2020,12,TOTAL,2
+Cochabamba,30901,Quillacollo,2020,12,TOTAL,2
+Beni,80201,Riberalta,2020,12,TOTAL,1
+Cochabamba,31001,Sacaba,2020,12,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,12,TOTAL,1
+Chuquisaca,10702,San Lucas,2020,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,12,TOTAL,1
+Cochabamba,31602,Shinaota,2020,12,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2020,12,TOTAL,1
+Chuquisaca,10101,Sucre,2020,12,TOTAL,2
+Chuquisaca,10601,Tarabuco,2020,12,TOTAL,1
+Cochabamba,30401,Tarata,2020,12,TOTAL,1
+Tarija,60101,Tarija,2020,12,TOTAL,1
+La Paz,20803,Tiahuanacu,2020,12,TOTAL,1
+Cochabamba,30903,Tiquipaya,2020,12,TOTAL,1
+Potosí,50801,Tupiza,2020,12,TOTAL,1
+La Paz,20801,Viacha,2020,12,TOTAL,2
+Potosí,51501,Villazon,2020,12,TOTAL,1

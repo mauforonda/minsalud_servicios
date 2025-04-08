@@ -1,0 +1,724 @@
+,group,variable,month,TELEDISPOSITIVOS OTOSCOPIO < A 6 MESES,TELEDISPOSITIVOS OTOSCOPIO < A 6 MESES,TELEDISPOSITIVOS OTOSCOPIO 6 MESES < 1 AÑO,TELEDISPOSITIVOS OTOSCOPIO 6 MESES < 1 AÑO,TELEDISPOSITIVOS OTOSCOPIO 1 A 4 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 1 A 4 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 5 A 9 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 5 A 9 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 10 A 14 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 10 A 14 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 15 A 19 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 15 A 19 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 20 A 39 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 20 A 39 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 40 A 49 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 40 A 49 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 50 A 59 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 50 A 59 AÑOS,TELEDISPOSITIVOS OTOSCOPIO 60 A MAS,TELEDISPOSITIVOS OTOSCOPIO 60 A MAS,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL MASCULINO,TOTAL FEMENINO,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+AUCAPATA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+CAMIRI,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,3,2,5
+CHUMA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,3,2,5
+COLPA BELGICA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,1,0,0,0,2,5,1,0,0,0,0,0,4,5,9
+CORIPATA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CORO CORO,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,0,0,2,2,4
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,3
+CURVA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL CHORO,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ESCOMA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+GRAL. J.J. PEREZ (CHARAZANI),telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+HUARINA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0,8,8
+INCAHUASI,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,3,3,6
+INQUISIVI,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+LAS CARRERAS,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MACHACAMARCA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,4
+MACHARETI,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,1,0,1,0,6,6
+MECAPACA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,2,2,4
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+MOJINETE,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+OMEREQUE,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+PAMPA AULLAGAS,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PELECHUCO,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+POOPO,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PUERTO PEREZ,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+PUNA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,2,4
+SAN AGUSTIN,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+SAN PEDRO DE TIQUINA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,2,0,2,5,7
+SANTIAGO DE MACHACA,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+TITO YUPANQUI (PARQUIPUJIO),telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,1,3,2,5
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,2,0,1,1,0,0,0,2,0,0,0,0,1,2,4,5,9
+VITICHI,telesalud,teledispositivos otoscopio,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+APOLO,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,0,2,2,5,7
+AYATA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+CHACARILLA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+CHUMA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+COLLANA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+COLQUECHACA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,1,1,3,4
+CORIPATA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,0,3,2,5
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-02-01,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,2,4,4,7,11
+EL VILLAR,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,1,1,3,4
+ESCOMA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2,3
+GAIOC JATUN AYLLU YURA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+GUAQUI,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+HUMANATA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3,3,4,4,8
+INCAHUASI,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,2,3,5
+LAS CARRERAS,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+MACHACAMARCA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2,2,3,5
+MACHARETI,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,2,3
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,3
+OCURI,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+OMEREQUE,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PAILON,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,2,3,4,6,0,6,4,8,9,6,9,29,28,57
+PAMPA AULLAGAS,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+POOPO,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PUERTO CARABUCO,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,1,3
+PUERTO PEREZ,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2,3
+SAN AGUSTIN,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,1,2,0,4,4,8
+SAN ANTONIO DE LOMERIO,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN BENITO,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,2,4,6
+SAN PEDRO DE QUEMES,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2,2,3,5
+SAN RAMON SCZ,telesalud,teledispositivos otoscopio,2024-02-01,0,0,1,0,0,0,0,1,0,0,0,0,0,3,0,1,0,0,2,0,3,5,8
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,1,0,1,0,5,5,10
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,4,1,0,2,0,0,1,0,5,4,9
+SANTIAGO DE MACHACA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,1,1,26,1,27
+SAPAHAQUI,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,3
+TARIJA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+TIAHUANACU,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,4
+TOLATA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+TOMINA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+VILA VILA,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,3,2,1,5,4,10,14
+WARNES,telesalud,teledispositivos otoscopio,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,6,0,3,0,13,0,13
+APOLO,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,1,1,4,5
+AYATA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,4,4
+CAIROMA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,0,0,0,0,1,4,5
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,1,0,0,0,1,4,6,10
+CHAQUI,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,3,4,3,7
+CHUMA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,5,1,6,2,8
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COLQUECHACA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,1,0,0,0,1,0,2,1,1,2,0,0,0,1,2,4,7,11
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,2,3,5
+CORIPATA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+CORO CORO,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,1,1,0,0,0,0,0,0,5,0,0,0,0,0,1,1,7,8
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,5,1,5,3,8
+ESCOMA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,2,1,3
+HUARINA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,2,4,4,8
+HUMANATA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3,4,4,8
+INQUISIVI,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+LAS CARRERAS,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,3
+MACHACAMARCA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+MACHARETI,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MECAPACA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,2,2,0,0,0,5,4,9
+MIZQUE,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,3,4
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MOJINETE,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+OKINAWA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,1,0,1,1,0,5,0,0,1,1,0,0,3,7,10
+OMEREQUE,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAILON,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,1,1,1,1,2,0,0,4,8,0,1,2,8,6,5,4,6,18,32,50
+PATACAMAYA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PUERTO ACOSTA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,1,0,1,4,3,7
+PUNA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,2,2,4,6
+SAN AGUSTIN,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+SAN ANTONIO DE LOMERIO,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,3,1,4
+SAN BENITO,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,2,2,4,6
+SAN BORJA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SAN JUAN DE YAPACANI,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,6,5,4,1,1,4,3,8,2,1,0,3,8,6,24,28,52
+SAN RAFAEL,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,5,6,6,12
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,3,2,5
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,1,5
+SANTIAGO DE MACHACA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,1,0,3,4,7
+SAPAHAQUI,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,1,3
+SORATA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,1,0,1,1,0,2,6,8
+TARIJA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+TITO YUPANQUI (PARQUIPUJIO),telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,1,0,0,1,1,3,4,7
+TOLATA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+TOMINA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+WALDO BALLIVIAN,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+WARNES,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,6,2,0,0,0,0,4,11,0,0,0,0,10,13,23
+YOTALA,telesalud,teledispositivos otoscopio,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,3,6,3,1,5,8,13,20,33
+ANDAMARCA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,7
+APOLO,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+AYATA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+BELEN DE URMIRI,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,3
+CAQUIAVIRI,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+CHACARILLA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+CHUMA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,3,21,34,13,8,0,0,0,0,0,0,0,0,2,0,37,45,82
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+COIPASA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+COLLANA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,2,2,4
+COLQUECHACA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,6,6,7,7,14
+CORIPATA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3,2,5
+CORO CORO,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,1,7,9,0,4,0,1,0,0,0,0,0,1,2,0,10,16,26
+CURVA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+EL VILLAR,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ESCARA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,7
+GUANAY,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+GUTIERREZ,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,1,1,0,1,1,0,2,0,2,0,0,2,1,4,7,11
+HUARINA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,0,0,0,1,0,0,0,2,2,0,1,0,1,0,1,4,5,9
+HUMANATA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,1,7,17,2,16,1,5,0,0,0,2,0,2,1,1,11,44,55
+INCAHUASI,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,2,1,3
+JESUS DE MACHACA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA ASUNTA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LAS CARRERAS,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+MECAPACA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+MIZQUE,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,1,2,2,5,7
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,2,1,3
+MOJINETE,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+OKINAWA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,1,0,1,1,0,5,0,0,1,1,0,0,3,7,10
+OMEREQUE,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PADCAYA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,1,3,1,3,6,9
+PAILON,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,1,1,1,1,2,0,1,1,1,2,1,6,1,4,4,16,12,28
+PELECHUCO,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+POCOATA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+PUERTO PEREZ,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+PUERTO SUAREZ,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,1,1,2,1,2,1,2,3,9,6,12,8,10,20,38,58
+PUNA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,3
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,2,0,5,3,8
+SAN BENITO,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,2,2,4,6
+SAN JUAN DE YAPACANI,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,3,5,2,1,1,5,1,2,5,3,4,1,3,0,19,17,36
+SAN PEDRO DE QUEMES,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,1,0,2,3,5
+SAN RAFAEL,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,0,4,2,1,2,0,0,2,21,0,3,1,5,6,1,15,34,49
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,4,0,4
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,2,1,0,0,0,0,0,1,0,3,0,0,0,0,1,1,3,6,9
+SANTIAGO DE MACHACA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,2,0,11,0,11
+SANTUARIO DE QUILLACAS,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,10
+SAPAHAQUI,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2,2,4
+SUCRE,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,1,0,0,0,0,1,0,1,2,7,3,1,3,6,0,4,9,20,29
+TITO YUPANQUI (PARQUIPUJIO),telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2,3
+TURCO,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,13,17,4,8,0,0,0,0,0,0,0,0,0,0,0,0,17,25,42
+UNCIA,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,2,1,3
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,3,3,1,0,0,0,0,0,1,4,3,2,1,3,3,3,12,15,27
+WARNES,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,2,0,0,0,4,4,8
+YAMPARAEZ,telesalud,teledispositivos otoscopio,2024-04-01,0,0,0,0,0,3,0,0,1,1,0,1,2,2,0,2,0,2,3,2,6,13,19
+APOLO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+AUCAPATA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+BELEN DE URMIRI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,2,2,4
+BETANZOS,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,4,6
+CABEZAS,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,1,0,1,1,0,3,0,0,0,0,1,0,0,0,0,0,3,4,7
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CAMIRI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+CARACOLLO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,0,0,0,0,1,4,5
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,1,4,5
+CHACARILLA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+CHUMA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,1,4,5,4,4,1,1,0,2,0,0,0,1,0,0,9,14,23
+COLLANA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,1,1,5,4,9,8,17
+COLOMI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+COLQUECHACA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,1,3,0,2,0,0,0,0,1,0,0,0,0,0,0,0,2,5,7
+CORO CORO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,2,2,0,3,0,0,0,0,0,0,1,0,0,0,0,0,3,5,8
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,2,0,0,0,0,1,3,0,3,0,0,4,3,5,11,16
+CURVA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,2,3,4,7
+EL CHORO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+ESCOMA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4,4
+GAIOC JATUN AYLLU YURA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,2,6,8
+HUACHACALLA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HUMANATA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,2,0,1,1,1,1,7,8
+INCAHUASI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+INQUISIVI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LAS CARRERAS,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LLICA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,5,5
+MACHACAMARCA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,2,3,5
+MACHARETI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,4,4
+MECAPACA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,3,2,5
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,5,3,8
+MOJINETE,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PAILON,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,4,2,3,2,4,4,6,2,4,9,21,19,40
+PELECHUCO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+POCOATA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3,4
+POOPO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORCO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+POROMA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,1,1,4,5
+PUERTO ACOSTA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,3
+PUERTO CARABUCO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+PUERTO GONZALO MORENO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+PUERTO PEREZ,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,2,0,0,1,0,0,3,10,0,6,0,0,7,2,12,19,31
+PUERTO SUAREZ,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,1,1,3,4,7,2,1,3,1,4,6,5,7,4,2,13,14,36,42,78
+PUNA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,1,2,2,6,5,11
+SAN AGUSTIN,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,3,3,3,6
+SAN BENITO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,2,3,5
+SAN JUAN DE YAPACANI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,2,3,0,0,0,0,2,3,1,0,0,0,0,0,5,6,11
+SAN RAFAEL,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,1,1,1,0,4,1,4,0,12,1,1,1,2,3,4,7,29,36
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTIAGO DE CALLAPA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,3
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,2,1,5,3,8
+SANTIAGO DE MACHACA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,2,3
+SANTUARIO DE QUILLACAS,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAPAHAQUI,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,2,1,1,1,2,0,9,3,12
+SUCRE,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,1,1,3,0,0,0,2,0,6,0,3,0,4,3,3,4,22,26
+TACACOMA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4
+TITO YUPANQUI (PARQUIPUJIO),telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+TOMINA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,1,0,4,1,5
+UMALA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+UNCIA,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,1,0,0,0,0,0,0,0,4,5,3,2,5,1,9,5,22,13,35
+VALLEGRANDE,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,3,2,5
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,1,1,0,0,3,1,2,0,4,4,5,6,15,21
+WALDO BALLIVIAN,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+YAMPARAEZ,telesalud,teledispositivos otoscopio,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2,3
+AIQUILE,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ANCORAIMES,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,3,2,5
+APOLO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,9,9
+AUCAPATA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+BELEN DE URMIRI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,1,1,3,4,7
+CARACOLLO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,2,2,4,6
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,4,2,6
+CHAQUI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CHUMA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,1,3,3,6
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CKOCHAS,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+COLLANA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,1,0,0,0,1,0,0,0,0,6,0,1,0,0,0,0,2,7,9
+COLOMI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,4
+COLQUECHACA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,2,0,6,6
+CORIPATA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2,1,1,2,1,3,7,10
+CORO CORO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+CORQUE,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,1,0,3,0,0,1,0,5,1,4,0,1,0,2,2,0,7,13,20
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,5,3,6,9
+CURVA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,4,2,6
+EL CHORO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+EL VILLAR,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,2,3
+ESCOMA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,2,4
+FERNANDEZ ALONSO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+GAIOC JATUN AYLLU YURA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,2,6,8
+HUACARETA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,0,0,0,0,5,5
+HUACHACALLA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,3
+HUMANATA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,2,6,8
+INQUISIVI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,5,6,1,0,8,7,15
+JESUS DE MACHACA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+LA PAZ,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,2,1,5,1,14,5,19
+LLICA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+MACHARETI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+MAIRANA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+MECAPACA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,2,0,1,0,0,0,0,0,3,0,0,0,0,0,0,3,6,3,9
+MIZQUE,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+MOJINETE,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,2,1,3
+MONTEAGUDO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,2,1,3,6,9
+OMEREQUE,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+PAILON,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,5,4,2,0,0,4,2,4,3,1,2,2,1,5,2,20,17,37
+PUERTO CARABUCO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+PUERTO GONZALO MORENO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+PUERTO PEREZ,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2,2,4
+PUERTO SUAREZ,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,1,2,1,3,2,0,2,4,5,2,5,4,3,6,5,21,24,45
+PUNA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+QUIABAYA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,1,0,1,0,0,0,0,0,1,2,0,1,0,1,2,0,5,4,9
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,2,0,0,1,3,4,7
+SAN BENITO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,3,4,7
+SAN CARLOS,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN JUAN DE YAPACANI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,2,3,0,0,0,0,1,2,0,0,0,0,0,0,3,5,8
+SAN PEDRO DE QUEMES,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAN RAFAEL,telesalud,teledispositivos otoscopio,2024-06-01,0,0,1,0,1,0,3,1,1,0,0,4,3,11,0,5,2,2,0,0,11,23,34
+SANTIAGO DE CALLAPA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,2,4
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,3,1,0,1,4,5,9
+SANTIAGO DE MACHACA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,4,0,7,0,19,19
+SANTUARIO DE QUILLACAS,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SAPAHAQUI,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,1,4,5
+SORATA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,1,0,0,0,0,1,1,4,1,1,1,0,8,2,12,8,20
+TACACOMA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,1,0,0,0,3,3,6
+TITO YUPANQUI (PARQUIPUJIO),telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+UMALA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+VILA VILA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA NUEVA (LOMA ALTA),telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,2,2,6,0,1,2,0,0,2,4,11,15
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,3,4
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,0,1,1,0,5,3,8
+WALDO BALLIVIAN,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,2
+YOCALLA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+YOTALA,telesalud,teledispositivos otoscopio,2024-06-01,0,0,0,0,1,1,0,0,1,1,0,0,2,9,3,1,0,0,2,6,9,18,27
+APOLO,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+AUCAPATA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,0,3,1,4
+AYATA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+BELEN DE URMIRI,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,0,0,0,3,1,5,5,10
+BETANZOS,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CALAMARCA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,1,2,1,0,1,4,2,5,0,3,2,7,7,21,28
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,4,6
+CARACOLLO,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,0,3,1,4
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,2,0,2,0,0,2,3,0,0,0,0,1,1,3,8,11
+CHUMA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,3,4
+CKOCHAS,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,1,3,1,7,8
+COLLANA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,1,3
+COLOMI,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+COLQUECHACA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COLQUENCHA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,0,0,11,11
+CORQUE,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,3,2,4,6
+COTOCA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+CUATRO CAÑADAS,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,1,0,3,3,6,9
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,4,3,7
+CURVA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,3
+EL CHORO,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,4,4,5,6,11
+ESCOMA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+FERNANDEZ ALONSO,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+GAIOC JATUN AYLLU YURA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,2,2,3,5
+HUACHACALLA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1,3,4
+HUARINA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,4,4,7,5,12
+HUMANATA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,2,0,6,3,11,4,15
+LAS CARRERAS,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,2,3
+LICOMA PAMPA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MACHARETI,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MECAPACA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,2,1,2,1,0,4,5,9
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+OCURI,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PAILON,telesalud,teledispositivos otoscopio,2024-07-01,0,0,2,1,1,2,1,1,1,1,1,2,2,2,1,2,1,4,1,2,11,17,28
+PELECHUCO,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3,1,0,2,5,7
+PUERTO ACOSTA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,3
+PUERTO CARABUCO,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,3,3,6
+PUNA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,0,0,4,4
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,1,1,0,0,0,0,0,2,4,1,0,1,0,1,1,6,6,12
+SAN CARLOS,telesalud,teledispositivos otoscopio,2024-07-01,0,0,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+SAN PEDRO DE QUEMES,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,2,1,5,6
+SANTIAGO DE CALLAPA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,6,6
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,2,4
+SANTUARIO DE QUILLACAS,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SORATA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,3,3
+SUCRE,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,1,1,2,1,3,6,9
+TACACOMA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,1,0,0,0,0,0,0,0,4,5,3,1,0,1,0,0,8,7,15
+TOMINA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+TURCO,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,3,1,4
+UNCIA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+VACAS,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+VALLEGRANDE,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+VILA VILA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,2,1,3
+WALDO BALLIVIAN,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+WARNES,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,3,2,0,1,5,9,14
+YAMPARAEZ,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+YOTALA,telesalud,teledispositivos otoscopio,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,6,1,9,10
+AYO AYO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,1,3,5,3,10,13
+BELEN DE URMIRI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,0,6,5,6,11
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,0,1,1,2,4,6,10
+CAQUIAVIRI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,0,1,5,6
+CHACARILLA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,4,4,8
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,2,0,0,0,0,0,6,6
+COLLANA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,1,0,2,2,9,2,11
+COLQUECHACA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,1,0,0,1,0,3,4,7
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,3,6
+CORQUE,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,2,1,3
+CURVA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,0,0,1,1,1,5,3,8
+EL CHORO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,3,2,4,6
+EL VILLAR,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+GRAL. J.J. PEREZ (CHARAZANI),telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GUAQUI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+HUACARETA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HUACHACALLA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,3,0,3
+HUARINA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,1,0,1,0,1,1,2,0,2,2,2,2,0,4,3,6,12,15,27
+HUMANATA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,1,0,0,3,4,5,9,14
+ICLA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,5,5,9,6,15
+INCAHUASI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,2,3
+INQUISIVI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,3,0,3,0,2,0,0,4,0,5,8,9,17
+JESUS DE MACHACA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+LAS CARRERAS,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,3
+LICOMA PAMPA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LLICA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2,0,2,4,6
+LURIBAY,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+MACHACAMARCA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,3,1,5,6
+MACHARETI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,5,5,10
+MOJINETE,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+OCURI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+OKINAWA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+OMEREQUE,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+PAILON,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,1,1,1,1,1,2,3,1,2,3,4,2,3,5,15,15,30
+PALCA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,2,1,2,2,6,8
+PELECHUCO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+PORCO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+PORVENIR,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,1,3,2,0,0,0,3,2,0,1,0,1,1,1,7,8,15
+PUERTO ACOSTA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,1,1,2,5,7
+PUERTO CARABUCO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,4,3,4,6,10
+PUERTO GONZALO MORENO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,1,0,0,1,0,0,0,0,1,4,1,1,1,1,0,0,4,7,11
+PUERTO SUAREZ,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,1,3,5,8,4,7,6,4,6,8,5,9,7,8,6,3,40,50,90
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,1,0,3,3,6
+SAN ANTONIO DE LOMERIO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,1,0,1,0,0,1,4,5
+SAN BENITO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+SAN CARLOS,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,2,0,0,1,0,2,0,2,2,0,0,0,0,1,1,6,5,11
+SAN JUAN DE YAPACANI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,2,2,4
+SAN JULIAN,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2,3
+SAN PEDRO DE QUEMES,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,3,0,1,1,1,3,7,10
+SANTIAGO DE CALLAPA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,2,6,8
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,2,1,4,2,9,11
+SOPACHUY,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,4,1,5,5,10
+SORATA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+SUCRE,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,3,1,0,2,0,3,4,42,9,18,4,11,8,20,28,97,125
+TACACOMA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,1,1,0,0,0,0,1,4,0,0,0,2,1,3,3,10,13
+TIAHUANACU,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+TITO YUPANQUI (PARQUIPUJIO),telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+TOLATA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TOTORA(CBBA),telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+UNCIA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,2,1,3
+VILA VILA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+YOTALA,telesalud,teledispositivos otoscopio,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,7,2,11,13
+ANCORAIMES,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,4,0,4,0,2,1,11,12
+APOLO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,4
+AUCAPATA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+AYATA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+AYO AYO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,2,2,4,6
+CABEZAS,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,1,3,2,5
+CAMIRI,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,2,2,0,1,1,0,3,0,1,0,0,1,0,4,7,11
+CHACARILLA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,7,0,11,11
+CHUMA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,3,3,2,5,15,10,24,18,42
+COLLANA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,2,4
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,1,0,0,0,11,11
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+CURVA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+EL CHORO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,2,0,10,15,3,0,0,0,0,0,0,0,0,0,5,2,20,17,37
+ESCOMA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,2,7,4,11
+GUAQUI,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,1,1,0,0,1,1,2,2,1,0,0,2,0,6,5,11
+HUACARETA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,3,1,4
+HUARINA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,2,0,0,0,0,0,1,1,1,1,1,0,1,1,2,3,8,11
+HUMANATA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,8,1,11,12
+ICLA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,6,3,9,12
+INCAHUASI,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+INQUISIVI,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,1,3,1,5,4,9
+JESUS DE MACHACA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+LICOMA PAMPA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LLICA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,1,0,1,0,0,0,0,4,0,1,1,2,2,3,5,10,15
+MACHARETI,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+MECAPACA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,8,0,12,12
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+MOJINETE,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+OCURI,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+PAILON,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,1,1,1,1,1,1,2,1,2,1,1,2,1,1,9,8,17
+PALCA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+PELECHUCO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+POOPO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PORCO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PUERTO ACOSTA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,2,5
+PUERTO CARABUCO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1,2,0,4,4,8
+PUERTO GONZALO MORENO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,4,2,3,2,0,0,0,3,0,0,0,0,1,0,8,7,15
+PUERTO SUAREZ,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,2,1,6,7,4,5,6,9,6,8,6,5,4,7,34,42,76
+PUNA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+SALINAS DE GARCI MENDOZA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1,2,3,5
+SAN ANTONIO DE LOMERIO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN BENITO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,2,1,3
+SAN BORJA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+SAN PEDRO DE QUEMES,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,1,0,0,0,1,0,2,4,1,1,0,1,0,0,5,6,11
+SANTIAGO DE CALLAPA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,1,2,1,4,4,8
+SOPACHUY,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,10,0,6,0,1,0,23,23
+SORATA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SUCRE,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,1,1,1,0,1,3,10,0,5,3,5,7,16,14,39,53
+TIAHUANACU,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,4,3,7
+UMALA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+VILA VILA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+VILLA MONTES,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,2,0,5,5
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,2,1,3,3,6
+WARNES,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,1,3,1,13,14
+YAMPARAEZ,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+YOTALA,telesalud,teledispositivos otoscopio,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,4,0,0,2,1,2,8,10
+ANCORAIMES,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4,1,5,6
+APOLO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,2,3
+AUCAPATA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,10,13,3,0,0,1,2,6,0,0,4,1,3,1,22,22,44
+AYATA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+AYO AYO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,2,3,3,6
+BELEN DE URMIRI,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,4,3,5,8
+CABEZAS,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,1,0,0,0,0,1,1,3,0,2,0,0,1,2,6,8,9,16,25
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,3,4,4,8,12
+CAQUIAVIRI,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CARACOLLO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,1,1,0,2,1,2,0,1,1,0,0,0,0,6,3,9
+CARAPARI,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2,3
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,1,2,2,1,1,0,0,0,0,1,1,0,3,4,8,12
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,10,12,8,0,0,0,3,0,0,0,21,12,33
+COLLANA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,4,7,2,0,1,0,2,0,0,0,0,0,0,0,9,7,16
+COMBAYA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,2,1,3,3,6
+CORQUE,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,6,1,10,11
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+EL CHORO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+EL VILLAR,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+ESCOMA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,1,0,0,2,1,2,1,1,0,0,0,4,6,9,9,18
+FERNANDEZ ALONSO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GAIOC JATUN AYLLU YURA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,3,0,0,1,2,3,6,9
+GRAL. J.J. PEREZ (CHARAZANI),telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+GUTIERREZ,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,4,6,0,0,0,1,1,1,5,8,13
+HUACARETA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,3,1,4
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+HUACHACALLA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,5
+HUARINA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,1,1,2,1,2,0,3,1,0,2,1,1,7,7,0,0,16,13,29
+HUMANATA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,2,8,0,3,2,1,5,6,9,19,28
+INCAHUASI,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,1,0,0,3,1,1,1,0,0,0,1,4,4,8
+INQUISIVI,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,5,0,2,0,3,0,10,0,10,0,30,30
+JESUS DE MACHACA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,2,3
+LA ASUNTA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+LAS CARRERAS,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,1,0,2,1,0,0,2,7,2,2,0,3,7,9,14,22,36
+MACHACAMARCA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,2,0,0,1,3,6,0,0,2,1,0,2,7,10,17
+MIZQUE,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,3
+MOJINETE,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+OCURI,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+OMEREQUE,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,3
+PADCAYA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1,4,2,4,3,11,7,23,30
+PALCA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,0,0,0,0,0,1,4,5
+PATACAMAYA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,2,0,1,0,7,7
+PELECHUCO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,1,17,1,1,3,1,1,1,0,3,2,23,8,31
+POOPO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORCO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,2,3
+POROMA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,1,3,3,6
+PUERTO ACOSTA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,1,5
+PUERTO CARABUCO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,2,0,4,2,6
+PUERTO GONZALO MORENO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,1,4,0,2,0,5,0,3,0,0,0,0,1,14,15
+PUERTO SUAREZ,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,1,1,0,1,2,2,1,0,1,1,3,5,4,9,12,9,8,28,32,60
+PUNA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+QUIABAYA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,5,5,7,7,14
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,1,1,0,0,2,0,1,0,1,2,1,2,6,5,11
+SAN ANTONIO DE LOMERIO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+SAN JULIAN,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAN PEDRO DE QUEMES,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,4,6,0,0,0,1,0,0,0,0,0,0,4,7,11
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SANTIAGO DE CALLAPA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,4,4
+SOPACHUY,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SORATA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,1,1,2,2,8,10
+SUCRE,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,2,0,0,0,0,1,0,1,17,0,1,0,3,1,0,3,23,26
+TACACOMA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,11,0,0,0,1,0,1,1,1,2,1,3,15,18
+TOLATA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+UNCIA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILA VILA,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,1,1,0,3,3,6
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,1,4,1,5
+WALDO BALLIVIAN,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,1,0,5,9,8,12,20
+WARNES,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,3,1,4
+YAPACANI,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,3,0,2,0,0,0,17,17
+ZUDAÑEZ,telesalud,teledispositivos otoscopio,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,9,4,11,15
+ACHOCALLA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,2,0,7,7
+ANCORAIMES,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,3
+AUCAPATA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,2,0,1,1,1,9,1,0,0,0,0,0,5,10,15
+AYO AYO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,1,0,0,0,1,0,0,2,2,2,1,0,2,2,7,6,13
+BELEN DE URMIRI,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,2,3,3,6
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+CALAMARCA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,0,5,1,6
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,1,0,1,2,7,4,4,0,1,8,3,14,17,31
+CAMIRI,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+CAQUIAVIRI,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,4,3,6,6,12
+CARACOLLO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,1,1,0,0,0,1,2,2,0,1,0,1,0,0,3,6,9
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,1,1,0,0,2,0,0,2,1,0,1,0,0,1,5,4,9
+CHACARILLA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CHUMA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,3,1,4
+CKOCHAS,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+COBIJA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,10,0,3,2,0,0,0,0,0,0,13,2,15
+COLLANA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,2,4
+COLQUECHACA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,3
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,9,9
+COPACABANA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CORQUE,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,2,2,5,5,10
+CURAHUARA DE CARANGAS,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+CURVA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,3,3,6
+EL CHORO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,1,4
+ESCOMA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,1,2,1,2,5,6,11
+GAIOC JATUN AYLLU YURA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,1,0,0,0,0,0,1,2,2,0,3,0,0,4,4,6,11,17
+GUAQUI,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,8,5,9,14
+GUTIERREZ,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,0,2,3,5
+HUACARETA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HUACHACALLA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUARINA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,2,1,6,7,9,11,20
+INCAHUASI,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+JESUS DE MACHACA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4,4,5,5,10
+LA ASUNTA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+LA PAZ,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,1,1,4,5
+LICOMA PAMPA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LLICA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+MACHACAMARCA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,1,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2,3,4,7
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,5,7,5,12
+MOJINETE,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+OCURI,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+OKINAWA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+OMEREQUE,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,2,2,4
+ORURO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,12,8,13,21
+PALCA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,2,3,1,4,5,9
+PELECHUCO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,2,2,2,2,2,0,2,1,0,0,0,0,0,0,8,5,13
+POOPO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+PORCO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3
+POROMA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,1,1,1,2,0,6,4,10
+PORTACHUELO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+PUERTO ACOSTA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+PUERTO CARABUCO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,1,2,1,1,1,0,0,0,5,3,1,1,3,6,7,13,19,32
+PUERTO RICO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,3
+PUERTO SUAREZ,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,1,1,2,1,2,1,3,1,2,2,3,5,7,3,7,9,11,23,38,61
+PUNA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,3
+QUIABAYA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,1,0,0,2,1,5,4,9
+SACACA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,6,5,11
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,2,3,5
+SAN ANTONIO DE LOMERIO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+SAN BENITO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN PEDRO DE CURAHUARA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,8,2,6,3,0,0,0,2,0,0,0,0,0,0,14,7,21
+SAN PEDRO DE QUEMES,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,4,4
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,3
+SANTIAGO DE CALLAPA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+SANTIAGO DE HUATA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,4,6
+SUCRE,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,3,0,0,0,0,1,0,0,1,18,0,1,0,4,4,0,8,24,32
+TACACOMA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,1,0,5,1,1,0,0,1,2,3,9,5,14
+TITO YUPANQUI (PARQUIPUJIO),telesalud,teledispositivos otoscopio,2024-11-01,0,0,1,0,0,0,0,0,0,0,0,0,2,2,0,1,0,2,3,7,6,12,18
+TOLATA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UNCIA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,2,0,0,0,0,3,0,0,0,1,0,1,0,0,0,1,2,6,8
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+VILLA VACA GUZMAN (MUYUPAMPA),telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,2,2,4
+WALDO BALLIVIAN,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,4,0,9,0,14,13,12,0,0,0,0,0,0,0,1,13,40,53
+WARNES,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4,0,3,0,6,0,19,19
+YAPACANI,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,9,0,2,0,1,0,31,31
+YOTALA,telesalud,teledispositivos otoscopio,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,1,2,1,7,8
+ANCORAIMES,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,3,5
+AUCAPATA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,15,13,3,2,0,0,0,0,0,0,0,0,0,0,18,15,33
+AYO AYO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1,0,0,2,5,4,8,12
+BERMEJO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,2,0,2,4,1,4,9,13
+"CAIZA ""D""",telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,1,2,6,5,8,13
+CALAMARCA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,5
+CARACOLLO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,4,4
+CARANAVI,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+CARIPUYO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,1,1,0,0,0,0,0,0,0,0,0,5,1,1,0,0,2,3,4,10,14
+CHACARILLA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,1,3,4
+CHUMA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+COLQUECHACA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,2,2,4
+COLQUIRI,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+COMANCHE,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,4,2,5,4,9
+CORO CORO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+CORQUE,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,1,0,0,0,0,0,0,1,3,3,0,0,2,0,4,4,10,8,18
+CUCHUMUELA (V. G. VILLARROEL),telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,10
+CURVA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+DESAGUADERO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+EL VILLAR,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+ESCOMA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,5,9,6,10,16
+FERNANDEZ ALONSO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+GRAL. J.J. PEREZ (CHARAZANI),telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+HUACARETA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,3,1,4
+HUMANATA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,3,3,4,6,10
+JESUS DE MACHACA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,1,0,0,0,0,0,0,4,6,1,1,2,1,4,9,11,18,29
+LICOMA PAMPA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+LLICA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2,2,4,6
+MOCOMOCO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,4
+MOJINETE,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+OCURI,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,4,0,0,1,0,2,6,8
+ORURO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,21,7,21,28
+PAILON,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,1,2,1,6,5,11
+PALCA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,1,2,0,1,0,1,1,2,0,2,1,0,0,0,3,8,11
+PELECHUCO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,1,1,4,4,8
+POCOATA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+POROMA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,3,0,4,0,0,2,0,0,7,3,10
+PUERTO RICO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,4,4
+PUERTO SUAREZ,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,1,0,1,1,1,1,2,1,3,2,4,3,2,5,9,13,23,36
+PUNA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,3,2,4,6
+QUIABAYA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,2,0,2,1,0,0,0,0,0,1,1,0,0,0,0,1,5,3,8
+SAMAIPATA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,1,1,2,4,6
+SAN ANDRES DE MACHACA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,1,1,2,0,0,1,1,0,0,0,1,2,0,4,5,9
+SAN BENITO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+SAN PEDRO DE CURAHUARA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,0,0,4,2,5,5,10
+SANTIAGO DE CALLAPA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,3,5
+SANTIAGO DE HUARI,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,1,1,1,0,2,0,0,0,1,2,1,3,6,9
+SANTIAGO DE MACHACA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,6,9,0,0,0,0,0,0,0,0,0,0,0,0,6,9,15
+SANTUARIO DE QUILLACAS,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SORATA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,1,0,1,4,2,13,15
+TOLATA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+TOTORA(ORR),telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+VILA VILA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+VILLA SERRANO,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,2,2,4
+YAPACANI,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,17,0,8,0,3,0,0,0,29,29
+YOTALA,telesalud,teledispositivos otoscopio,2024-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,9,1,4,0,2,0,0,1,16,17

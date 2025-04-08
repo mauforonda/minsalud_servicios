@@ -1,0 +1,519 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,21304,Calamarca,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,22001,Caranavi,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,4
+Oruro,40201,Challapata,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Cochabamba,30101,Cochabamba,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,20
+Santa Cruz,70603,Colpa Belgica,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Santa Cruz,71106,Cuatro Cañadas,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20105,El Alto,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Santa Cruz,70105,El Torno,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80202,Guayaramerin,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,3
+La Paz,20806,Jesus De Machaca,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,70502,Pailon,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Potosí,50101,Potosi,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,24
+La Paz,20604,Quiabaya,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Cochabamba,30901,Quillacollo,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80201,Riberalta,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Cochabamba,31001,Sacaba,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80302,San Borja,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Santa Cruz,71104,San Julian,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,71201,San Matias,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,18
+Beni,80101,Trinidad,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,10
+Chuquisaca,10801,Villa Serrano,2024,1,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,22001,Caranavi,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,6
+Oruro,40201,Challapata,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,11
+Santa Cruz,70702,Charagua,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Cochabamba,30101,Cochabamba,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,7
+Santa Cruz,70603,Colpa Belgica,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20105,El Alto,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,17
+Santa Cruz,70105,El Torno,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20101,La Paz,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,10
+Oruro,40101,Oruro,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Potosí,50101,Potosi,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Cochabamba,30901,Quillacollo,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80201,Riberalta,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Cochabamba,31001,Sacaba,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80302,San Borja,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,13
+Chuquisaca,10702,San Lucas,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10601,Tarabuco,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Beni,80101,Trinidad,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,11
+Tarija,60301,Yacuiba,2024,2,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Oruro,40102,Caracollo,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,9
+La Paz,22001,Caranavi,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,19
+Oruro,40201,Challapata,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Pando,90101,Cobija,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Cochabamba,30101,Cochabamba,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,74
+La Paz,20105,El Alto,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,8
+La Paz,20101,La Paz,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,21305,Patacamaya,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Potosí,50101,Potosi,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,28
+Cochabamba,30901,Quillacollo,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80304,Rurrenabaque,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80302,San Borja,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,309
+Santa Cruz,70602,Santa Rosa Del Sara,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10101,Sucre,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Cochabamba,30401,Tarata,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Tarija,60101,Tarija,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,36
+Chuquisaca,10202,Tarvita,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Beni,80101,Trinidad,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,12
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Tarija,60301,Yacuiba,2024,3,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Santa Cruz,71501,Ascencion De Guarayos,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,2
+La Paz,22001,Caranavi,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,23
+Oruro,40201,Challapata,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,8
+Potosí,51103,Ckochas,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,14
+Cochabamba,30101,Cochabamba,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,28
+La Paz,20301,Coro Coro,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Santa Cruz,70102,Cotoca,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,33
+La Paz,20105,El Alto,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,10
+Santa Cruz,70105,El Torno,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,3
+La Paz,20101,La Paz,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,10
+Tarija,60201,Padcaya,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,70502,Pailon,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Potosí,50101,Potosi,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,16
+Beni,80201,Riberalta,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80302,San Borja,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,6
+Beni,80501,San Ignacio,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10702,San Lucas,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80401,Santa Ana,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10101,Sucre,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Chuquisaca,10601,Tarabuco,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Cochabamba,30401,Tarata,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Tarija,60101,Tarija,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,24
+Chuquisaca,10202,Tarvita,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80101,Trinidad,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,6
+Cochabamba,31003,Villa Tunari,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,70201,Warnes,2024,4,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Cochabamba,30501,Arani,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,11
+Santa Cruz,71501,Ascencion De Guarayos,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Oruro,40102,Caracollo,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,5
+La Paz,22001,Caranavi,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,14
+Oruro,40201,Challapata,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Cochabamba,30101,Cochabamba,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,73
+La Paz,20105,El Alto,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,143
+La Paz,20101,La Paz,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,11
+Santa Cruz,71001,Montero,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Cochabamba,30302,Morochata,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,70502,Pailon,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Potosí,50101,Potosi,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,13
+Chuquisaca,10302,Presto,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,4
+La Paz,20403,Puerto Carabuco,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20604,Quiabaya,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Cochabamba,31001,Sacaba,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80302,San Borja,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,12
+Santa Cruz,70404,San Juan De Yapacani,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10601,Tarabuco,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Tarija,60101,Tarija,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,4
+Beni,80101,Trinidad,2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,5,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Oruro,40102,Caracollo,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,22001,Caranavi,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,8
+Oruro,40201,Challapata,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Cochabamba,30101,Cochabamba,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,48
+Santa Cruz,70102,Cotoca,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,12
+La Paz,20105,El Alto,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,9
+La Paz,20101,La Paz,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,8
+Potosí,50101,Potosi,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,13
+Beni,80201,Riberalta,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80302,San Borja,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Tarija,60101,Tarija,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,9
+Beni,80101,Trinidad,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,11
+La Paz,20801,Viacha,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10801,Villa Serrano,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Cochabamba,30904,Vinto,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Tarija,60301,Yacuiba,2024,6,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Santa Cruz,70703,Cabezas,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,3
+La Paz,21304,Calamarca,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,22001,Caranavi,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,9
+Pando,90101,Cobija,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,148
+Cochabamba,30101,Cochabamba,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,77
+Santa Cruz,70102,Cotoca,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,23
+La Paz,20105,El Alto,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,15
+Santa Cruz,70105,El Torno,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20602,Guanay,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,12
+Chuquisaca,10703,Incahuasi,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,5
+La Paz,20806,Jesus De Machaca,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20101,La Paz,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,7
+Santa Cruz,71001,Montero,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,70202,Okinawa,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,70502,Pailon,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Potosí,50101,Potosi,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Chuquisaca,10302,Presto,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80201,Riberalta,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Beni,80302,San Borja,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20205,Santiago De Huata,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10601,Tarabuco,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Tarija,60101,Tarija,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,12
+Beni,80101,Trinidad,2024,7,PCD referidos a Unidades de Calificacion de Discapacidad,17
+La Paz,22001,Caranavi,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,9
+Cochabamba,30101,Cochabamba,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,40
+Santa Cruz,70102,Cotoca,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,34
+La Paz,20105,El Alto,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Santa Cruz,70105,El Torno,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,2
+La Paz,20101,La Paz,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,3
+La Paz,20402,Mocomoco,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,4
+Santa Cruz,70502,Pailon,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10302,Presto,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,4
+Beni,80201,Riberalta,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,36
+Beni,80602,San Andres,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80302,San Borja,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,6
+Santa Cruz,71103,San Ramon Scz,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,23
+Chuquisaca,10101,Sucre,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Tarija,60101,Tarija,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Chuquisaca,10202,Tarvita,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Cochabamba,31601,Tiraque (cbba),2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Beni,80101,Trinidad,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,107
+Tarija,60301,Yacuiba,2024,8,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Cochabamba,30402,Anzaldo,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Oruro,40102,Caracollo,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,8
+La Paz,22001,Caranavi,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,8
+Cochabamba,31204,Chimore,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,4
+Cochabamba,30101,Cochabamba,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,49
+Cochabamba,30905,Colcapirhua,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,70102,Cotoca,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,24
+La Paz,20105,El Alto,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,260
+Santa Cruz,70105,El Torno,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Beni,80202,Guayaramerin,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,5
+La Paz,20806,Jesus De Machaca,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20101,La Paz,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,9
+Oruro,40101,Oruro,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,7
+La Paz,20702,Pelechuco,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,70103,Porongo,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Potosí,50101,Potosi,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,15
+Cochabamba,30901,Quillacollo,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80302,San Borja,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Chuquisaca,10101,Sucre,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Tarija,60101,Tarija,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Beni,80101,Trinidad,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,35
+La Paz,20801,Viacha,2024,9,PCD referidos a Unidades de Calificacion de Discapacidad,61
+La Paz,21304,Calamarca,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Oruro,40102,Caracollo,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,8
+La Paz,22001,Caranavi,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,33
+Oruro,40201,Challapata,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Cochabamba,30101,Cochabamba,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,93
+Santa Cruz,70102,Cotoca,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,9
+La Paz,20105,El Alto,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,24
+Santa Cruz,70105,El Torno,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,71004,Fernandez Alonso,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20602,Guanay,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10703,Incahuasi,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20101,La Paz,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Oruro,40101,Oruro,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,13
+Potosí,50101,Potosi,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,16
+Cochabamba,30901,Quillacollo,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Beni,80302,San Borja,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Tarija,60101,Tarija,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Beni,80101,Trinidad,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,22
+Potosí,50801,Tupiza,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10801,Villa Serrano,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Tarija,60301,Yacuiba,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Chuquisaca,10602,Yamparaez,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Santa Cruz,70403,Yapacani,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10102,Yotala,2024,10,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10201,Azurduy,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Tarija,60202,Bermejo,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,21304,Calamarca,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Oruro,40102,Caracollo,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,4
+La Paz,22001,Caranavi,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,15
+Cochabamba,30101,Cochabamba,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,10
+Santa Cruz,70102,Cotoca,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,15
+La Paz,20105,El Alto,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,11
+Santa Cruz,70105,El Torno,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Beni,80202,Guayaramerin,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,31
+La Paz,20101,La Paz,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,7
+Santa Cruz,71001,Montero,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Potosí,50101,Potosi,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,15
+Cochabamba,30901,Quillacollo,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Beni,80302,San Borja,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,4
+Chuquisaca,10101,Sucre,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,3
+La Paz,20803,Tiahuanacu,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Cochabamba,30903,Tiquipaya,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80101,Trinidad,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,26
+Tarija,60401,Uriondo (a. Concepcion),2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,2
+La Paz,20801,Viacha,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10602,Yamparaez,2024,11,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,22001,Caranavi,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,6
+Oruro,40201,Challapata,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,2
+Cochabamba,30101,Cochabamba,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,23
+Potosí,50601,Cotagaita,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Santa Cruz,70102,Cotoca,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,20
+La Paz,20105,El Alto,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,1
+La Paz,20101,La Paz,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,3
+Oruro,40101,Oruro,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Chuquisaca,10401,Padilla,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Potosí,50101,Potosi,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,21
+Santa Cruz,70503,Robore,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,5
+Beni,80302,San Borja,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,6
+Cochabamba,30902,Sipe Sipe,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,14
+Chuquisaca,10101,Sucre,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Tarija,60101,Tarija,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,13
+Cochabamba,31601,Tiraque (cbba),2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,1
+Beni,80101,Trinidad,2024,12,PCD referidos a Unidades de Calificacion de Discapacidad,31
+La Paz,21304,Calamarca,2024,1,TOTAL,1
+La Paz,22001,Caranavi,2024,1,TOTAL,4
+Oruro,40201,Challapata,2024,1,TOTAL,3
+Cochabamba,30101,Cochabamba,2024,1,TOTAL,20
+Santa Cruz,70603,Colpa Belgica,2024,1,TOTAL,2
+Santa Cruz,71106,Cuatro Cañadas,2024,1,TOTAL,1
+La Paz,20105,El Alto,2024,1,TOTAL,5
+Santa Cruz,70105,El Torno,2024,1,TOTAL,1
+Beni,80202,Guayaramerin,2024,1,TOTAL,3
+La Paz,20806,Jesus De Machaca,2024,1,TOTAL,1
+Santa Cruz,70502,Pailon,2024,1,TOTAL,1
+Potosí,50101,Potosi,2024,1,TOTAL,24
+La Paz,20604,Quiabaya,2024,1,TOTAL,1
+Cochabamba,30901,Quillacollo,2024,1,TOTAL,1
+Beni,80201,Riberalta,2024,1,TOTAL,1
+Cochabamba,31001,Sacaba,2024,1,TOTAL,1
+Beni,80302,San Borja,2024,1,TOTAL,2
+Santa Cruz,71104,San Julian,2024,1,TOTAL,1
+Santa Cruz,71201,San Matias,2024,1,TOTAL,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTAL,18
+Beni,80101,Trinidad,2024,1,TOTAL,10
+Chuquisaca,10801,Villa Serrano,2024,1,TOTAL,1
+La Paz,22001,Caranavi,2024,2,TOTAL,6
+Oruro,40201,Challapata,2024,2,TOTAL,11
+Santa Cruz,70702,Charagua,2024,2,TOTAL,2
+Cochabamba,30101,Cochabamba,2024,2,TOTAL,7
+Santa Cruz,70603,Colpa Belgica,2024,2,TOTAL,1
+La Paz,20105,El Alto,2024,2,TOTAL,17
+Santa Cruz,70105,El Torno,2024,2,TOTAL,1
+La Paz,20101,La Paz,2024,2,TOTAL,10
+Oruro,40101,Oruro,2024,2,TOTAL,3
+Potosí,50101,Potosi,2024,2,TOTAL,2
+Cochabamba,30901,Quillacollo,2024,2,TOTAL,1
+Beni,80201,Riberalta,2024,2,TOTAL,3
+Cochabamba,31001,Sacaba,2024,2,TOTAL,1
+Beni,80302,San Borja,2024,2,TOTAL,13
+Chuquisaca,10702,San Lucas,2024,2,TOTAL,1
+Chuquisaca,10601,Tarabuco,2024,2,TOTAL,3
+Beni,80101,Trinidad,2024,2,TOTAL,11
+Tarija,60301,Yacuiba,2024,2,TOTAL,2
+Oruro,40102,Caracollo,2024,3,TOTAL,9
+La Paz,22001,Caranavi,2024,3,TOTAL,19
+Oruro,40201,Challapata,2024,3,TOTAL,3
+Pando,90101,Cobija,2024,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2024,3,TOTAL,74
+La Paz,20105,El Alto,2024,3,TOTAL,8
+La Paz,20101,La Paz,2024,3,TOTAL,1
+La Paz,21305,Patacamaya,2024,3,TOTAL,1
+Potosí,50101,Potosi,2024,3,TOTAL,28
+Cochabamba,30901,Quillacollo,2024,3,TOTAL,1
+Beni,80304,Rurrenabaque,2024,3,TOTAL,1
+Beni,80302,San Borja,2024,3,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTAL,309
+Santa Cruz,70602,Santa Rosa Del Sara,2024,3,TOTAL,1
+Chuquisaca,10101,Sucre,2024,3,TOTAL,1
+Cochabamba,30401,Tarata,2024,3,TOTAL,3
+Tarija,60101,Tarija,2024,3,TOTAL,36
+Chuquisaca,10202,Tarvita,2024,3,TOTAL,3
+Beni,80101,Trinidad,2024,3,TOTAL,12
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,3,TOTAL,1
+Tarija,60301,Yacuiba,2024,3,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2024,4,TOTAL,2
+La Paz,22001,Caranavi,2024,4,TOTAL,23
+Oruro,40201,Challapata,2024,4,TOTAL,8
+Potosí,51103,Ckochas,2024,4,TOTAL,14
+Cochabamba,30101,Cochabamba,2024,4,TOTAL,28
+La Paz,20301,Coro Coro,2024,4,TOTAL,2
+Santa Cruz,70102,Cotoca,2024,4,TOTAL,33
+La Paz,20105,El Alto,2024,4,TOTAL,10
+Santa Cruz,70105,El Torno,2024,4,TOTAL,3
+La Paz,20101,La Paz,2024,4,TOTAL,10
+Tarija,60201,Padcaya,2024,4,TOTAL,1
+Santa Cruz,70502,Pailon,2024,4,TOTAL,1
+Potosí,50101,Potosi,2024,4,TOTAL,16
+Beni,80201,Riberalta,2024,4,TOTAL,1
+Beni,80302,San Borja,2024,4,TOTAL,6
+Beni,80501,San Ignacio,2024,4,TOTAL,1
+Chuquisaca,10702,San Lucas,2024,4,TOTAL,1
+Beni,80401,Santa Ana,2024,4,TOTAL,1
+Chuquisaca,10101,Sucre,2024,4,TOTAL,2
+Chuquisaca,10601,Tarabuco,2024,4,TOTAL,1
+Cochabamba,30401,Tarata,2024,4,TOTAL,1
+Tarija,60101,Tarija,2024,4,TOTAL,24
+Chuquisaca,10202,Tarvita,2024,4,TOTAL,1
+Beni,80101,Trinidad,2024,4,TOTAL,6
+Cochabamba,31003,Villa Tunari,2024,4,TOTAL,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,4,TOTAL,1
+Santa Cruz,70201,Warnes,2024,4,TOTAL,2
+Cochabamba,30501,Arani,2024,5,TOTAL,11
+Santa Cruz,71501,Ascencion De Guarayos,2024,5,TOTAL,1
+Oruro,40102,Caracollo,2024,5,TOTAL,5
+La Paz,22001,Caranavi,2024,5,TOTAL,14
+Oruro,40201,Challapata,2024,5,TOTAL,2
+Cochabamba,30101,Cochabamba,2024,5,TOTAL,73
+La Paz,20105,El Alto,2024,5,TOTAL,143
+La Paz,20101,La Paz,2024,5,TOTAL,11
+Santa Cruz,71001,Montero,2024,5,TOTAL,2
+Cochabamba,30302,Morochata,2024,5,TOTAL,1
+Santa Cruz,70502,Pailon,2024,5,TOTAL,1
+Potosí,50101,Potosi,2024,5,TOTAL,13
+Chuquisaca,10302,Presto,2024,5,TOTAL,4
+La Paz,20403,Puerto Carabuco,2024,5,TOTAL,1
+La Paz,20604,Quiabaya,2024,5,TOTAL,1
+Cochabamba,31001,Sacaba,2024,5,TOTAL,1
+Beni,80302,San Borja,2024,5,TOTAL,12
+Santa Cruz,70404,San Juan De Yapacani,2024,5,TOTAL,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTAL,1
+Chuquisaca,10601,Tarabuco,2024,5,TOTAL,1
+Tarija,60101,Tarija,2024,5,TOTAL,4
+Beni,80101,Trinidad,2024,5,TOTAL,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,5,TOTAL,1
+Oruro,40102,Caracollo,2024,6,TOTAL,1
+La Paz,22001,Caranavi,2024,6,TOTAL,8
+Oruro,40201,Challapata,2024,6,TOTAL,5
+Cochabamba,30101,Cochabamba,2024,6,TOTAL,48
+Santa Cruz,70102,Cotoca,2024,6,TOTAL,12
+La Paz,20105,El Alto,2024,6,TOTAL,9
+La Paz,20101,La Paz,2024,6,TOTAL,8
+Potosí,50101,Potosi,2024,6,TOTAL,13
+Beni,80201,Riberalta,2024,6,TOTAL,1
+Beni,80302,San Borja,2024,6,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTAL,5
+Tarija,60101,Tarija,2024,6,TOTAL,9
+Beni,80101,Trinidad,2024,6,TOTAL,11
+La Paz,20801,Viacha,2024,6,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2024,6,TOTAL,1
+Cochabamba,30904,Vinto,2024,6,TOTAL,1
+Tarija,60301,Yacuiba,2024,6,TOTAL,5
+Santa Cruz,70703,Cabezas,2024,7,TOTAL,3
+La Paz,21304,Calamarca,2024,7,TOTAL,1
+La Paz,22001,Caranavi,2024,7,TOTAL,9
+Pando,90101,Cobija,2024,7,TOTAL,148
+Cochabamba,30101,Cochabamba,2024,7,TOTAL,77
+Santa Cruz,70102,Cotoca,2024,7,TOTAL,23
+La Paz,20105,El Alto,2024,7,TOTAL,15
+Santa Cruz,70105,El Torno,2024,7,TOTAL,1
+La Paz,20602,Guanay,2024,7,TOTAL,12
+Chuquisaca,10703,Incahuasi,2024,7,TOTAL,5
+La Paz,20806,Jesus De Machaca,2024,7,TOTAL,1
+La Paz,20101,La Paz,2024,7,TOTAL,7
+Santa Cruz,71001,Montero,2024,7,TOTAL,1
+Santa Cruz,70202,Okinawa,2024,7,TOTAL,1
+Santa Cruz,70502,Pailon,2024,7,TOTAL,1
+Potosí,50101,Potosi,2024,7,TOTAL,3
+Chuquisaca,10302,Presto,2024,7,TOTAL,1
+Beni,80201,Riberalta,2024,7,TOTAL,2
+Beni,80302,San Borja,2024,7,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTAL,1
+La Paz,20205,Santiago De Huata,2024,7,TOTAL,1
+Chuquisaca,10601,Tarabuco,2024,7,TOTAL,1
+Tarija,60101,Tarija,2024,7,TOTAL,12
+Beni,80101,Trinidad,2024,7,TOTAL,17
+La Paz,22001,Caranavi,2024,8,TOTAL,9
+Cochabamba,30101,Cochabamba,2024,8,TOTAL,40
+Santa Cruz,70102,Cotoca,2024,8,TOTAL,34
+La Paz,20105,El Alto,2024,8,TOTAL,5
+Santa Cruz,70105,El Torno,2024,8,TOTAL,2
+La Paz,20101,La Paz,2024,8,TOTAL,3
+La Paz,20402,Mocomoco,2024,8,TOTAL,4
+Santa Cruz,70502,Pailon,2024,8,TOTAL,1
+Chuquisaca,10302,Presto,2024,8,TOTAL,4
+Beni,80201,Riberalta,2024,8,TOTAL,36
+Beni,80602,San Andres,2024,8,TOTAL,1
+Beni,80302,San Borja,2024,8,TOTAL,6
+Santa Cruz,71103,San Ramon Scz,2024,8,TOTAL,23
+Chuquisaca,10101,Sucre,2024,8,TOTAL,1
+Tarija,60101,Tarija,2024,8,TOTAL,2
+Chuquisaca,10202,Tarvita,2024,8,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2024,8,TOTAL,3
+Beni,80101,Trinidad,2024,8,TOTAL,107
+Tarija,60301,Yacuiba,2024,8,TOTAL,1
+Cochabamba,30402,Anzaldo,2024,9,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2024,9,TOTAL,2
+Oruro,40102,Caracollo,2024,9,TOTAL,8
+La Paz,22001,Caranavi,2024,9,TOTAL,8
+Cochabamba,31204,Chimore,2024,9,TOTAL,4
+Cochabamba,30101,Cochabamba,2024,9,TOTAL,49
+Cochabamba,30905,Colcapirhua,2024,9,TOTAL,1
+Santa Cruz,70102,Cotoca,2024,9,TOTAL,24
+La Paz,20105,El Alto,2024,9,TOTAL,260
+Santa Cruz,70105,El Torno,2024,9,TOTAL,3
+Beni,80202,Guayaramerin,2024,9,TOTAL,5
+La Paz,20806,Jesus De Machaca,2024,9,TOTAL,1
+La Paz,20101,La Paz,2024,9,TOTAL,9
+Oruro,40101,Oruro,2024,9,TOTAL,7
+La Paz,20702,Pelechuco,2024,9,TOTAL,1
+Santa Cruz,70103,Porongo,2024,9,TOTAL,2
+Potosí,50101,Potosi,2024,9,TOTAL,15
+Cochabamba,30901,Quillacollo,2024,9,TOTAL,1
+Beni,80302,San Borja,2024,9,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTAL,3
+Chuquisaca,10101,Sucre,2024,9,TOTAL,1
+Tarija,60101,Tarija,2024,9,TOTAL,5
+Beni,80101,Trinidad,2024,9,TOTAL,35
+La Paz,20801,Viacha,2024,9,TOTAL,61
+La Paz,21304,Calamarca,2024,10,TOTAL,1
+Oruro,40102,Caracollo,2024,10,TOTAL,8
+La Paz,22001,Caranavi,2024,10,TOTAL,33
+Oruro,40201,Challapata,2024,10,TOTAL,3
+Cochabamba,30101,Cochabamba,2024,10,TOTAL,93
+Santa Cruz,70102,Cotoca,2024,10,TOTAL,9
+La Paz,20105,El Alto,2024,10,TOTAL,24
+Santa Cruz,70105,El Torno,2024,10,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2024,10,TOTAL,1
+La Paz,20602,Guanay,2024,10,TOTAL,1
+Chuquisaca,10703,Incahuasi,2024,10,TOTAL,1
+La Paz,20101,La Paz,2024,10,TOTAL,2
+Oruro,40101,Oruro,2024,10,TOTAL,13
+Potosí,50101,Potosi,2024,10,TOTAL,16
+Cochabamba,30901,Quillacollo,2024,10,TOTAL,5
+Beni,80302,San Borja,2024,10,TOTAL,5
+Tarija,60101,Tarija,2024,10,TOTAL,5
+Beni,80101,Trinidad,2024,10,TOTAL,22
+Potosí,50801,Tupiza,2024,10,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2024,10,TOTAL,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,10,TOTAL,2
+Tarija,60301,Yacuiba,2024,10,TOTAL,2
+Chuquisaca,10602,Yamparaez,2024,10,TOTAL,2
+Santa Cruz,70403,Yapacani,2024,10,TOTAL,1
+Chuquisaca,10102,Yotala,2024,10,TOTAL,1
+Chuquisaca,10201,Azurduy,2024,11,TOTAL,1
+Tarija,60202,Bermejo,2024,11,TOTAL,1
+La Paz,21304,Calamarca,2024,11,TOTAL,1
+Oruro,40102,Caracollo,2024,11,TOTAL,4
+La Paz,22001,Caranavi,2024,11,TOTAL,15
+Cochabamba,30101,Cochabamba,2024,11,TOTAL,10
+Santa Cruz,70102,Cotoca,2024,11,TOTAL,15
+La Paz,20105,El Alto,2024,11,TOTAL,11
+Santa Cruz,70105,El Torno,2024,11,TOTAL,2
+Beni,80202,Guayaramerin,2024,11,TOTAL,31
+La Paz,20101,La Paz,2024,11,TOTAL,7
+Santa Cruz,71001,Montero,2024,11,TOTAL,2
+Potosí,50101,Potosi,2024,11,TOTAL,15
+Cochabamba,30901,Quillacollo,2024,11,TOTAL,2
+Beni,80302,San Borja,2024,11,TOTAL,4
+Chuquisaca,10101,Sucre,2024,11,TOTAL,3
+La Paz,20803,Tiahuanacu,2024,11,TOTAL,5
+Cochabamba,30903,Tiquipaya,2024,11,TOTAL,1
+Beni,80101,Trinidad,2024,11,TOTAL,26
+Tarija,60401,Uriondo (a. Concepcion),2024,11,TOTAL,2
+La Paz,20801,Viacha,2024,11,TOTAL,1
+Chuquisaca,10602,Yamparaez,2024,11,TOTAL,1
+La Paz,22001,Caranavi,2024,12,TOTAL,6
+Oruro,40201,Challapata,2024,12,TOTAL,2
+Cochabamba,30101,Cochabamba,2024,12,TOTAL,23
+Potosí,50601,Cotagaita,2024,12,TOTAL,1
+Santa Cruz,70102,Cotoca,2024,12,TOTAL,20
+La Paz,20105,El Alto,2024,12,TOTAL,1
+La Paz,20101,La Paz,2024,12,TOTAL,3
+Oruro,40101,Oruro,2024,12,TOTAL,1
+Chuquisaca,10401,Padilla,2024,12,TOTAL,1
+Potosí,50101,Potosi,2024,12,TOTAL,21
+Santa Cruz,70503,Robore,2024,12,TOTAL,5
+Beni,80302,San Borja,2024,12,TOTAL,6
+Cochabamba,30902,Sipe Sipe,2024,12,TOTAL,14
+Chuquisaca,10101,Sucre,2024,12,TOTAL,1
+Tarija,60101,Tarija,2024,12,TOTAL,13
+Cochabamba,31601,Tiraque (cbba),2024,12,TOTAL,1
+Beni,80101,Trinidad,2024,12,TOTAL,31

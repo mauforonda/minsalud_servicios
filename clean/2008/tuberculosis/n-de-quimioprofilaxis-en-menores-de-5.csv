@@ -1,0 +1,935 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2008,1,N de Quimioprofilaxis en menores de 5,15
+La Paz,21402,Coripata,2008,1,N de Quimioprofilaxis en menores de 5,1
+La Paz,20105,El Alto,2008,1,N de Quimioprofilaxis en menores de 5,19
+Tarija,60601,Entre Rios,2008,1,N de Quimioprofilaxis en menores de 5,1
+La Paz,20101,La Paz,2008,1,N de Quimioprofilaxis en menores de 5,2
+Potosí,50101,Potosi,2008,1,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31205,Puerto Villarroel,2008,1,N de Quimioprofilaxis en menores de 5,4
+Cochabamba,31401,Punata,2008,1,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30901,Quillacollo,2008,1,N de Quimioprofilaxis en menores de 5,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,N de Quimioprofilaxis en menores de 5,0
+Chuquisaca,10101,Sucre,2008,1,N de Quimioprofilaxis en menores de 5,1
+Tarija,60101,Tarija,2008,1,N de Quimioprofilaxis en menores de 5,4
+La Paz,20608,Teoponte,2008,1,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31601,Tiraque (cbba),2008,1,N de Quimioprofilaxis en menores de 5,3
+Potosí,50801,Tupiza,2008,1,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30904,Vinto,2008,1,N de Quimioprofilaxis en menores de 5,1
+Tarija,60301,Yacuiba,2008,1,N de Quimioprofilaxis en menores de 5,12
+Tarija,60202,Bermejo,2008,2,N de Quimioprofilaxis en menores de 5,4
+Cochabamba,30701,Capinota,2008,2,N de Quimioprofilaxis en menores de 5,3
+Tarija,60302,Carapari,2008,2,N de Quimioprofilaxis en menores de 5,1
+Oruro,40201,Challapata,2008,2,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31204,Chimore,2008,2,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,30101,Cochabamba,2008,2,N de Quimioprofilaxis en menores de 5,12
+La Paz,21401,Coroico,2008,2,N de Quimioprofilaxis en menores de 5,1
+La Paz,20105,El Alto,2008,2,N de Quimioprofilaxis en menores de 5,10
+Tarija,60601,Entre Rios,2008,2,N de Quimioprofilaxis en menores de 5,5
+La Paz,20101,La Paz,2008,2,N de Quimioprofilaxis en menores de 5,5
+La Paz,20607,Mapiri,2008,2,N de Quimioprofilaxis en menores de 5,1
+Oruro,40101,Oruro,2008,2,N de Quimioprofilaxis en menores de 5,1
+Potosí,50101,Potosi,2008,2,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31205,Puerto Villarroel,2008,2,N de Quimioprofilaxis en menores de 5,8
+Cochabamba,30901,Quillacollo,2008,2,N de Quimioprofilaxis en menores de 5,9
+Beni,80304,Rurrenabaque,2008,2,N de Quimioprofilaxis en menores de 5,1
+Tarija,60501,San Lorenzo(tja),2008,2,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,N de Quimioprofilaxis en menores de 5,3
+Tarija,60101,Tarija,2008,2,N de Quimioprofilaxis en menores de 5,10
+La Paz,20608,Teoponte,2008,2,N de Quimioprofilaxis en menores de 5,2
+Potosí,50102,Tinguipaya,2008,2,N de Quimioprofilaxis en menores de 5,1
+La Paz,20606,Tipuani,2008,2,N de Quimioprofilaxis en menores de 5,4
+Cochabamba,31601,Tiraque (cbba),2008,2,N de Quimioprofilaxis en menores de 5,1
+Beni,80101,Trinidad,2008,2,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70801,Vallegrande,2008,2,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31003,Villa Tunari,2008,2,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30904,Vinto,2008,2,N de Quimioprofilaxis en menores de 5,1
+Tarija,60301,Yacuiba,2008,2,N de Quimioprofilaxis en menores de 5,5
+La Paz,21103,Yanacachi,2008,2,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30201,Aiquile,2008,3,N de Quimioprofilaxis en menores de 5,3
+Tarija,60202,Bermejo,2008,3,N de Quimioprofilaxis en menores de 5,3
+La Paz,22001,Caranavi,2008,3,N de Quimioprofilaxis en menores de 5,1
+Tarija,60302,Carapari,2008,3,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30101,Cochabamba,2008,3,N de Quimioprofilaxis en menores de 5,11
+Cochabamba,30905,Colcapirhua,2008,3,N de Quimioprofilaxis en menores de 5,4
+La Paz,21401,Coroico,2008,3,N de Quimioprofilaxis en menores de 5,5
+La Paz,20105,El Alto,2008,3,N de Quimioprofilaxis en menores de 5,12
+La Paz,21105,La Asunta,2008,3,N de Quimioprofilaxis en menores de 5,5
+La Paz,20101,La Paz,2008,3,N de Quimioprofilaxis en menores de 5,9
+La Paz,20607,Mapiri,2008,3,N de Quimioprofilaxis en menores de 5,9
+La Paz,20402,Mocomoco,2008,3,N de Quimioprofilaxis en menores de 5,2
+Oruro,40601,Poopo,2008,3,N de Quimioprofilaxis en menores de 5,2
+Potosí,50101,Potosi,2008,3,N de Quimioprofilaxis en menores de 5,3
+La Paz,20403,Puerto Carabuco,2008,3,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,31205,Puerto Villarroel,2008,3,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,30901,Quillacollo,2008,3,N de Quimioprofilaxis en menores de 5,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,N de Quimioprofilaxis en menores de 5,13
+Chuquisaca,10403,Sopachuy,2008,3,N de Quimioprofilaxis en menores de 5,1
+La Paz,20601,Sorata,2008,3,N de Quimioprofilaxis en menores de 5,1
+Tarija,60101,Tarija,2008,3,N de Quimioprofilaxis en menores de 5,8
+La Paz,20608,Teoponte,2008,3,N de Quimioprofilaxis en menores de 5,4
+La Paz,20606,Tipuani,2008,3,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31601,Tiraque (cbba),2008,3,N de Quimioprofilaxis en menores de 5,2
+Beni,80101,Trinidad,2008,3,N de Quimioprofilaxis en menores de 5,1
+Potosí,51201,Uyuni,2008,3,N de Quimioprofilaxis en menores de 5,1
+Tarija,60303,Villa Montes,2008,3,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31003,Villa Tunari,2008,3,N de Quimioprofilaxis en menores de 5,13
+Cochabamba,30904,Vinto,2008,3,N de Quimioprofilaxis en menores de 5,1
+Tarija,60301,Yacuiba,2008,3,N de Quimioprofilaxis en menores de 5,14
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,4,N de Quimioprofilaxis en menores de 5,2
+Tarija,60202,Bermejo,2008,4,N de Quimioprofilaxis en menores de 5,2
+La Paz,22001,Caranavi,2008,4,N de Quimioprofilaxis en menores de 5,6
+Cochabamba,31204,Chimore,2008,4,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30101,Cochabamba,2008,4,N de Quimioprofilaxis en menores de 5,13
+Cochabamba,30905,Colcapirhua,2008,4,N de Quimioprofilaxis en menores de 5,1
+La Paz,20105,El Alto,2008,4,N de Quimioprofilaxis en menores de 5,10
+Santa Cruz,71503,El Puente(stc),2008,4,N de Quimioprofilaxis en menores de 5,3
+Tarija,60601,Entre Rios,2008,4,N de Quimioprofilaxis en menores de 5,14
+La Paz,20602,Guanay,2008,4,N de Quimioprofilaxis en menores de 5,1
+La Paz,21102,Irupana (villa De Lanza),2008,4,N de Quimioprofilaxis en menores de 5,3
+La Paz,21105,La Asunta,2008,4,N de Quimioprofilaxis en menores de 5,2
+La Paz,20101,La Paz,2008,4,N de Quimioprofilaxis en menores de 5,1
+La Paz,21202,Laja,2008,4,N de Quimioprofilaxis en menores de 5,2
+Potosí,50203,Llallagua,2008,4,N de Quimioprofilaxis en menores de 5,1
+La Paz,20607,Mapiri,2008,4,N de Quimioprofilaxis en menores de 5,4
+Cochabamba,31301,Mizque,2008,4,N de Quimioprofilaxis en menores de 5,1
+Chuquisaca,10501,Monteagudo,2008,4,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,71001,Montero,2008,4,N de Quimioprofilaxis en menores de 5,2
+Oruro,40101,Oruro,2008,4,N de Quimioprofilaxis en menores de 5,2
+La Paz,20102,Palca,2008,4,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31205,Puerto Villarroel,2008,4,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,30901,Quillacollo,2008,4,N de Quimioprofilaxis en menores de 5,6
+Santa Cruz,70901,Samaipata,2008,4,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70402,San Carlos,2008,4,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71104,San Julian,2008,4,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,N de Quimioprofilaxis en menores de 5,10
+Cochabamba,30902,Sipe Sipe,2008,4,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,30602,Tacopaya,2008,4,N de Quimioprofilaxis en menores de 5,1
+Tarija,60101,Tarija,2008,4,N de Quimioprofilaxis en menores de 5,8
+La Paz,20606,Tipuani,2008,4,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31601,Tiraque (cbba),2008,4,N de Quimioprofilaxis en menores de 5,7
+Beni,80101,Trinidad,2008,4,N de Quimioprofilaxis en menores de 5,2
+Potosí,50201,Uncia,2008,4,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31003,Villa Tunari,2008,4,N de Quimioprofilaxis en menores de 5,10
+Potosí,51501,Villazon,2008,4,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30904,Vinto,2008,4,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70201,Warnes,2008,4,N de Quimioprofilaxis en menores de 5,2
+La Paz,20903,Yaco,2008,4,N de Quimioprofilaxis en menores de 5,2
+Tarija,60301,Yacuiba,2008,4,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70403,Yapacani,2008,4,N de Quimioprofilaxis en menores de 5,1
+La Paz,20201,Achacachi,2008,5,N de Quimioprofilaxis en menores de 5,1
+Tarija,60202,Bermejo,2008,5,N de Quimioprofilaxis en menores de 5,4
+La Paz,22001,Caranavi,2008,5,N de Quimioprofilaxis en menores de 5,6
+Potosí,50302,Chaqui,2008,5,N de Quimioprofilaxis en menores de 5,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,5,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30101,Cochabamba,2008,5,N de Quimioprofilaxis en menores de 5,11
+La Paz,21402,Coripata,2008,5,N de Quimioprofilaxis en menores de 5,2
+La Paz,20105,El Alto,2008,5,N de Quimioprofilaxis en menores de 5,9
+Tarija,60601,Entre Rios,2008,5,N de Quimioprofilaxis en menores de 5,4
+La Paz,21102,Irupana (villa De Lanza),2008,5,N de Quimioprofilaxis en menores de 5,1
+La Paz,21105,La Asunta,2008,5,N de Quimioprofilaxis en menores de 5,3
+La Paz,20101,La Paz,2008,5,N de Quimioprofilaxis en menores de 5,4
+Potosí,50203,Llallagua,2008,5,N de Quimioprofilaxis en menores de 5,1
+La Paz,20901,Luribay,2008,5,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71003,Mineros,2008,5,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71001,Montero,2008,5,N de Quimioprofilaxis en menores de 5,6
+Tarija,60201,Padcaya,2008,5,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70902,Pampa Grande,2008,5,N de Quimioprofilaxis en menores de 5,2
+Potosí,50101,Potosi,2008,5,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31205,Puerto Villarroel,2008,5,N de Quimioprofilaxis en menores de 5,4
+Beni,80201,Riberalta,2008,5,N de Quimioprofilaxis en menores de 5,4
+Beni,80304,Rurrenabaque,2008,5,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31001,Sacaba,2008,5,N de Quimioprofilaxis en menores de 5,3
+Potosí,51601,San Agustin,2008,5,N de Quimioprofilaxis en menores de 5,1
+Beni,80302,San Borja,2008,5,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70402,San Carlos,2008,5,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71104,San Julian,2008,5,N de Quimioprofilaxis en menores de 5,1
+Tarija,60501,San Lorenzo(tja),2008,5,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,N de Quimioprofilaxis en menores de 5,15
+Cochabamba,30902,Sipe Sipe,2008,5,N de Quimioprofilaxis en menores de 5,1
+Tarija,60101,Tarija,2008,5,N de Quimioprofilaxis en menores de 5,5
+La Paz,20608,Teoponte,2008,5,N de Quimioprofilaxis en menores de 5,1
+La Paz,20606,Tipuani,2008,5,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31601,Tiraque (cbba),2008,5,N de Quimioprofilaxis en menores de 5,4
+Chuquisaca,10402,Tomina,2008,5,N de Quimioprofilaxis en menores de 5,2
+Beni,80101,Trinidad,2008,5,N de Quimioprofilaxis en menores de 5,4
+Potosí,50201,Uncia,2008,5,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,30502,Vacas,2008,5,N de Quimioprofilaxis en menores de 5,2
+Tarija,60303,Villa Montes,2008,5,N de Quimioprofilaxis en menores de 5,6
+Cochabamba,31003,Villa Tunari,2008,5,N de Quimioprofilaxis en menores de 5,6
+Santa Cruz,70201,Warnes,2008,5,N de Quimioprofilaxis en menores de 5,4
+Tarija,60301,Yacuiba,2008,5,N de Quimioprofilaxis en menores de 5,10
+Santa Cruz,70403,Yapacani,2008,5,N de Quimioprofilaxis en menores de 5,1
+La Paz,20201,Achacachi,2008,6,N de Quimioprofilaxis en menores de 5,1
+Tarija,60202,Bermejo,2008,6,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70706,Camiri,2008,6,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,30701,Capinota,2008,6,N de Quimioprofilaxis en menores de 5,2
+La Paz,22001,Caranavi,2008,6,N de Quimioprofilaxis en menores de 5,8
+Tarija,60302,Carapari,2008,6,N de Quimioprofilaxis en menores de 5,7
+Santa Cruz,70702,Charagua,2008,6,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31204,Chimore,2008,6,N de Quimioprofilaxis en menores de 5,3
+La Paz,21101,Chulumani (v. De La Libertad),2008,6,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30101,Cochabamba,2008,6,N de Quimioprofilaxis en menores de 5,15
+Santa Cruz,71106,Cuatro Cañadas,2008,6,N de Quimioprofilaxis en menores de 5,3
+La Paz,20105,El Alto,2008,6,N de Quimioprofilaxis en menores de 5,16
+Tarija,60601,Entre Rios,2008,6,N de Quimioprofilaxis en menores de 5,7
+Santa Cruz,71002,General Saavedra,2008,6,N de Quimioprofilaxis en menores de 5,1
+Beni,80202,Guayaramerin,2008,6,N de Quimioprofilaxis en menores de 5,3
+Oruro,40701,Huanuni,2008,6,N de Quimioprofilaxis en menores de 5,1
+Beni,80803,Huaracaje,2008,6,N de Quimioprofilaxis en menores de 5,1
+La Paz,21105,La Asunta,2008,6,N de Quimioprofilaxis en menores de 5,3
+La Paz,20101,La Paz,2008,6,N de Quimioprofilaxis en menores de 5,4
+Potosí,50203,Llallagua,2008,6,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,71001,Montero,2008,6,N de Quimioprofilaxis en menores de 5,3
+Potosí,50404,Ocuri,2008,6,N de Quimioprofilaxis en menores de 5,1
+Oruro,40101,Oruro,2008,6,N de Quimioprofilaxis en menores de 5,2
+La Paz,21104,Palos Blancos,2008,6,N de Quimioprofilaxis en menores de 5,3
+Oruro,40602,Pazña,2008,6,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70601,Portachuelo,2008,6,N de Quimioprofilaxis en menores de 5,3
+Potosí,50101,Potosi,2008,6,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,31205,Puerto Villarroel,2008,6,N de Quimioprofilaxis en menores de 5,2
+Beni,80201,Riberalta,2008,6,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31001,Sacaba,2008,6,N de Quimioprofilaxis en menores de 5,2
+Beni,80302,San Borja,2008,6,N de Quimioprofilaxis en menores de 5,4
+Santa Cruz,71104,San Julian,2008,6,N de Quimioprofilaxis en menores de 5,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,N de Quimioprofilaxis en menores de 5,17
+Cochabamba,30902,Sipe Sipe,2008,6,N de Quimioprofilaxis en menores de 5,3
+Chuquisaca,10101,Sucre,2008,6,N de Quimioprofilaxis en menores de 5,5
+Tarija,60101,Tarija,2008,6,N de Quimioprofilaxis en menores de 5,3
+La Paz,20608,Teoponte,2008,6,N de Quimioprofilaxis en menores de 5,2
+La Paz,20606,Tipuani,2008,6,N de Quimioprofilaxis en menores de 5,4
+Cochabamba,30903,Tiquipaya,2008,6,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31601,Tiraque (cbba),2008,6,N de Quimioprofilaxis en menores de 5,3
+Beni,80101,Trinidad,2008,6,N de Quimioprofilaxis en menores de 5,3
+Potosí,50801,Tupiza,2008,6,N de Quimioprofilaxis en menores de 5,1
+Tarija,60401,Uriondo (a. Concepcion),2008,6,N de Quimioprofilaxis en menores de 5,3
+Tarija,60303,Villa Montes,2008,6,N de Quimioprofilaxis en menores de 5,1
+Chuquisaca,10801,Villa Serrano,2008,6,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31003,Villa Tunari,2008,6,N de Quimioprofilaxis en menores de 5,6
+Santa Cruz,70201,Warnes,2008,6,N de Quimioprofilaxis en menores de 5,4
+Tarija,60301,Yacuiba,2008,6,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70403,Yapacani,2008,6,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,7,N de Quimioprofilaxis en menores de 5,2
+Potosí,50301,Betanzos,2008,7,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70706,Camiri,2008,7,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,30701,Capinota,2008,7,N de Quimioprofilaxis en menores de 5,1
+La Paz,22001,Caranavi,2008,7,N de Quimioprofilaxis en menores de 5,5
+Cochabamba,31204,Chimore,2008,7,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,30101,Cochabamba,2008,7,N de Quimioprofilaxis en menores de 5,16
+Cochabamba,31002,Colomi,2008,7,N de Quimioprofilaxis en menores de 5,1
+La Paz,21402,Coripata,2008,7,N de Quimioprofilaxis en menores de 5,2
+La Paz,21401,Coroico,2008,7,N de Quimioprofilaxis en menores de 5,1
+La Paz,20105,El Alto,2008,7,N de Quimioprofilaxis en menores de 5,11
+Santa Cruz,70105,El Torno,2008,7,N de Quimioprofilaxis en menores de 5,2
+Tarija,60601,Entre Rios,2008,7,N de Quimioprofilaxis en menores de 5,1
+Oruro,40501,Huachacalla,2008,7,N de Quimioprofilaxis en menores de 5,1
+La Paz,21105,La Asunta,2008,7,N de Quimioprofilaxis en menores de 5,4
+Santa Cruz,70104,La Guardia,2008,7,N de Quimioprofilaxis en menores de 5,6
+La Paz,20101,La Paz,2008,7,N de Quimioprofilaxis en menores de 5,4
+Potosí,50203,Llallagua,2008,7,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,70903,Mairana,2008,7,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71001,Montero,2008,7,N de Quimioprofilaxis en menores de 5,1
+Potosí,50404,Ocuri,2008,7,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70202,Okinawa,2008,7,N de Quimioprofilaxis en menores de 5,1
+Oruro,40101,Oruro,2008,7,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70601,Portachuelo,2008,7,N de Quimioprofilaxis en menores de 5,1
+Potosí,50101,Potosi,2008,7,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31205,Puerto Villarroel,2008,7,N de Quimioprofilaxis en menores de 5,9
+Beni,80201,Riberalta,2008,7,N de Quimioprofilaxis en menores de 5,12
+Cochabamba,31001,Sacaba,2008,7,N de Quimioprofilaxis en menores de 5,7
+Beni,80302,San Borja,2008,7,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,N de Quimioprofilaxis en menores de 5,26
+Tarija,60101,Tarija,2008,7,N de Quimioprofilaxis en menores de 5,4
+Cochabamba,30903,Tiquipaya,2008,7,N de Quimioprofilaxis en menores de 5,4
+Beni,80101,Trinidad,2008,7,N de Quimioprofilaxis en menores de 5,3
+Tarija,60401,Uriondo (a. Concepcion),2008,7,N de Quimioprofilaxis en menores de 5,2
+Tarija,60303,Villa Montes,2008,7,N de Quimioprofilaxis en menores de 5,13
+Cochabamba,31003,Villa Tunari,2008,7,N de Quimioprofilaxis en menores de 5,6
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,7,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30904,Vinto,2008,7,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70201,Warnes,2008,7,N de Quimioprofilaxis en menores de 5,2
+Tarija,60301,Yacuiba,2008,7,N de Quimioprofilaxis en menores de 5,4
+La Paz,21103,Yanacachi,2008,7,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70403,Yapacani,2008,7,N de Quimioprofilaxis en menores de 5,6
+Santa Cruz,71501,Ascencion De Guarayos,2008,8,N de Quimioprofilaxis en menores de 5,3
+Tarija,60202,Bermejo,2008,8,N de Quimioprofilaxis en menores de 5,4
+Santa Cruz,70707,Boyuibe,2008,8,N de Quimioprofilaxis en menores de 5,1
+La Paz,20303,Calacoto,2008,8,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70706,Camiri,2008,8,N de Quimioprofilaxis en menores de 5,1
+La Paz,22001,Caranavi,2008,8,N de Quimioprofilaxis en menores de 5,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,8,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30101,Cochabamba,2008,8,N de Quimioprofilaxis en menores de 5,18
+Cochabamba,31002,Colomi,2008,8,N de Quimioprofilaxis en menores de 5,1
+La Paz,20804,Desaguadero,2008,8,N de Quimioprofilaxis en menores de 5,1
+La Paz,20105,El Alto,2008,8,N de Quimioprofilaxis en menores de 5,14
+Santa Cruz,71503,El Puente(stc),2008,8,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70105,El Torno,2008,8,N de Quimioprofilaxis en menores de 5,2
+Tarija,60601,Entre Rios,2008,8,N de Quimioprofilaxis en menores de 5,2
+La Paz,21105,La Asunta,2008,8,N de Quimioprofilaxis en menores de 5,4
+Santa Cruz,70104,La Guardia,2008,8,N de Quimioprofilaxis en menores de 5,2
+La Paz,20101,La Paz,2008,8,N de Quimioprofilaxis en menores de 5,2
+Potosí,50203,Llallagua,2008,8,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71003,Mineros,2008,8,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31301,Mizque,2008,8,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71001,Montero,2008,8,N de Quimioprofilaxis en menores de 5,4
+La Paz,21305,Patacamaya,2008,8,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31203,Pocona,2008,8,N de Quimioprofilaxis en menores de 5,1
+Potosí,50101,Potosi,2008,8,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31205,Puerto Villarroel,2008,8,N de Quimioprofilaxis en menores de 5,6
+Cochabamba,30901,Quillacollo,2008,8,N de Quimioprofilaxis en menores de 5,3
+Beni,80201,Riberalta,2008,8,N de Quimioprofilaxis en menores de 5,9
+Santa Cruz,70503,Robore,2008,8,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31001,Sacaba,2008,8,N de Quimioprofilaxis en menores de 5,3
+Beni,80302,San Borja,2008,8,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71104,San Julian,2008,8,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70302,San Miguel De Velasco,2008,8,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,N de Quimioprofilaxis en menores de 5,15
+Cochabamba,30902,Sipe Sipe,2008,8,N de Quimioprofilaxis en menores de 5,3
+Chuquisaca,10101,Sucre,2008,8,N de Quimioprofilaxis en menores de 5,1
+Chuquisaca,10601,Tarabuco,2008,8,N de Quimioprofilaxis en menores de 5,3
+Tarija,60101,Tarija,2008,8,N de Quimioprofilaxis en menores de 5,3
+La Paz,20608,Teoponte,2008,8,N de Quimioprofilaxis en menores de 5,1
+La Paz,20606,Tipuani,2008,8,N de Quimioprofilaxis en menores de 5,7
+Beni,80101,Trinidad,2008,8,N de Quimioprofilaxis en menores de 5,4
+Potosí,50801,Tupiza,2008,8,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71502,Urubicha,2008,8,N de Quimioprofilaxis en menores de 5,2
+Potosí,51201,Uyuni,2008,8,N de Quimioprofilaxis en menores de 5,1
+Tarija,60303,Villa Montes,2008,8,N de Quimioprofilaxis en menores de 5,4
+Cochabamba,31003,Villa Tunari,2008,8,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,30904,Vinto,2008,8,N de Quimioprofilaxis en menores de 5,1
+Tarija,60301,Yacuiba,2008,8,N de Quimioprofilaxis en menores de 5,13
+Tarija,60202,Bermejo,2008,9,N de Quimioprofilaxis en menores de 5,1
+Potosí,50301,Betanzos,2008,9,N de Quimioprofilaxis en menores de 5,3
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2008,9,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70706,Camiri,2008,9,N de Quimioprofilaxis en menores de 5,2
+La Paz,22001,Caranavi,2008,9,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31204,Chimore,2008,9,N de Quimioprofilaxis en menores de 5,3
+La Paz,20501,Chuma,2008,9,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30101,Cochabamba,2008,9,N de Quimioprofilaxis en menores de 5,6
+Santa Cruz,71106,Cuatro Cañadas,2008,9,N de Quimioprofilaxis en menores de 5,1
+Chuquisaca,10902,Culpina,2008,9,N de Quimioprofilaxis en menores de 5,1
+La Paz,20105,El Alto,2008,9,N de Quimioprofilaxis en menores de 5,11
+Santa Cruz,70105,El Torno,2008,9,N de Quimioprofilaxis en menores de 5,4
+Tarija,60601,Entre Rios,2008,9,N de Quimioprofilaxis en menores de 5,4
+Santa Cruz,71004,Fernandez Alonso,2008,9,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,71002,General Saavedra,2008,9,N de Quimioprofilaxis en menores de 5,3
+La Paz,20602,Guanay,2008,9,N de Quimioprofilaxis en menores de 5,2
+La Paz,21105,La Asunta,2008,9,N de Quimioprofilaxis en menores de 5,8
+Santa Cruz,70104,La Guardia,2008,9,N de Quimioprofilaxis en menores de 5,3
+La Paz,20607,Mapiri,2008,9,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,71003,Mineros,2008,9,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,31301,Mizque,2008,9,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,71001,Montero,2008,9,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,30203,Omereque,2008,9,N de Quimioprofilaxis en menores de 5,1
+La Paz,21104,Palos Blancos,2008,9,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,31205,Puerto Villarroel,2008,9,N de Quimioprofilaxis en menores de 5,5
+Cochabamba,30901,Quillacollo,2008,9,N de Quimioprofilaxis en menores de 5,1
+Beni,80201,Riberalta,2008,9,N de Quimioprofilaxis en menores de 5,8
+Beni,80302,San Borja,2008,9,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,N de Quimioprofilaxis en menores de 5,30
+Cochabamba,30902,Sipe Sipe,2008,9,N de Quimioprofilaxis en menores de 5,1
+Tarija,60101,Tarija,2008,9,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,31601,Tiraque (cbba),2008,9,N de Quimioprofilaxis en menores de 5,8
+Potosí,51202,Tomave,2008,9,N de Quimioprofilaxis en menores de 5,1
+Beni,80101,Trinidad,2008,9,N de Quimioprofilaxis en menores de 5,2
+Potosí,51201,Uyuni,2008,9,N de Quimioprofilaxis en menores de 5,1
+Tarija,60303,Villa Montes,2008,9,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31003,Villa Tunari,2008,9,N de Quimioprofilaxis en menores de 5,7
+Cochabamba,30904,Vinto,2008,9,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70201,Warnes,2008,9,N de Quimioprofilaxis en menores de 5,1
+Tarija,60301,Yacuiba,2008,9,N de Quimioprofilaxis en menores de 5,12
+Santa Cruz,70403,Yapacani,2008,9,N de Quimioprofilaxis en menores de 5,2
+Potosí,51302,Acacio,2008,10,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,10,N de Quimioprofilaxis en menores de 5,3
+Tarija,60202,Bermejo,2008,10,N de Quimioprofilaxis en menores de 5,1
+Potosí,50301,Betanzos,2008,10,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70703,Cabezas,2008,10,N de Quimioprofilaxis en menores de 5,1
+La Paz,22001,Caranavi,2008,10,N de Quimioprofilaxis en menores de 5,7
+La Paz,21101,Chulumani (v. De La Libertad),2008,10,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30101,Cochabamba,2008,10,N de Quimioprofilaxis en menores de 5,8
+La Paz,21402,Coripata,2008,10,N de Quimioprofilaxis en menores de 5,3
+La Paz,20301,Coro Coro,2008,10,N de Quimioprofilaxis en menores de 5,1
+La Paz,20105,El Alto,2008,10,N de Quimioprofilaxis en menores de 5,12
+Santa Cruz,71503,El Puente(stc),2008,10,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70105,El Torno,2008,10,N de Quimioprofilaxis en menores de 5,2
+Tarija,60601,Entre Rios,2008,10,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71002,General Saavedra,2008,10,N de Quimioprofilaxis en menores de 5,2
+Beni,80202,Guayaramerin,2008,10,N de Quimioprofilaxis en menores de 5,2
+La Paz,21102,Irupana (villa De Lanza),2008,10,N de Quimioprofilaxis en menores de 5,1
+La Paz,20101,La Paz,2008,10,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70701,Lagunillas,2008,10,N de Quimioprofilaxis en menores de 5,1
+Beni,80801,Magdalena,2008,10,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71003,Mineros,2008,10,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31301,Mizque,2008,10,N de Quimioprofilaxis en menores de 5,1
+La Paz,20402,Mocomoco,2008,10,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,71001,Montero,2008,10,N de Quimioprofilaxis en menores de 5,5
+Oruro,40101,Oruro,2008,10,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,31203,Pocona,2008,10,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,71402,Puerto Quijarro,2008,10,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,31205,Puerto Villarroel,2008,10,N de Quimioprofilaxis en menores de 5,9
+Cochabamba,30901,Quillacollo,2008,10,N de Quimioprofilaxis en menores de 5,4
+Cochabamba,31001,Sacaba,2008,10,N de Quimioprofilaxis en menores de 5,2
+Beni,80302,San Borja,2008,10,N de Quimioprofilaxis en menores de 5,5
+Tarija,60501,San Lorenzo(tja),2008,10,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,N de Quimioprofilaxis en menores de 5,15
+Tarija,60101,Tarija,2008,10,N de Quimioprofilaxis en menores de 5,1
+La Paz,20606,Tipuani,2008,10,N de Quimioprofilaxis en menores de 5,1
+Beni,80101,Trinidad,2008,10,N de Quimioprofilaxis en menores de 5,3
+Tarija,60303,Villa Montes,2008,10,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31003,Villa Tunari,2008,10,N de Quimioprofilaxis en menores de 5,4
+Santa Cruz,70201,Warnes,2008,10,N de Quimioprofilaxis en menores de 5,6
+Tarija,60301,Yacuiba,2008,10,N de Quimioprofilaxis en menores de 5,5
+La Paz,21103,Yanacachi,2008,10,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70403,Yapacani,2008,10,N de Quimioprofilaxis en menores de 5,6
+Tarija,60202,Bermejo,2008,11,N de Quimioprofilaxis en menores de 5,8
+Santa Cruz,70703,Cabezas,2008,11,N de Quimioprofilaxis en menores de 5,1
+La Paz,22001,Caranavi,2008,11,N de Quimioprofilaxis en menores de 5,4
+Potosí,50302,Chaqui,2008,11,N de Quimioprofilaxis en menores de 5,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,11,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30101,Cochabamba,2008,11,N de Quimioprofilaxis en menores de 5,7
+Cochabamba,30905,Colcapirhua,2008,11,N de Quimioprofilaxis en menores de 5,1
+Potosí,50601,Cotagaita,2008,11,N de Quimioprofilaxis en menores de 5,1
+La Paz,20804,Desaguadero,2008,11,N de Quimioprofilaxis en menores de 5,2
+La Paz,20105,El Alto,2008,11,N de Quimioprofilaxis en menores de 5,21
+Santa Cruz,70105,El Torno,2008,11,N de Quimioprofilaxis en menores de 5,1
+Oruro,40701,Huanuni,2008,11,N de Quimioprofilaxis en menores de 5,2
+La Paz,21105,La Asunta,2008,11,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,70104,La Guardia,2008,11,N de Quimioprofilaxis en menores de 5,2
+La Paz,20101,La Paz,2008,11,N de Quimioprofilaxis en menores de 5,2
+Potosí,50203,Llallagua,2008,11,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31301,Mizque,2008,11,N de Quimioprofilaxis en menores de 5,4
+Santa Cruz,71001,Montero,2008,11,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,70502,Pailon,2008,11,N de Quimioprofilaxis en menores de 5,1
+Chuquisaca,10103,Poroma,2008,11,N de Quimioprofilaxis en menores de 5,1
+Beni,80201,Riberalta,2008,11,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,70503,Robore,2008,11,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31001,Sacaba,2008,11,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,70402,San Carlos,2008,11,N de Quimioprofilaxis en menores de 5,1
+Beni,80501,San Ignacio,2008,11,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70404,San Juan De Yapacani,2008,11,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,71104,San Julian,2008,11,N de Quimioprofilaxis en menores de 5,1
+Tarija,60501,San Lorenzo(tja),2008,11,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,N de Quimioprofilaxis en menores de 5,23
+Santa Cruz,70602,Santa Rosa Del Sara,2008,11,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,30602,Tacopaya,2008,11,N de Quimioprofilaxis en menores de 5,2
+La Paz,20606,Tipuani,2008,11,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,31601,Tiraque (cbba),2008,11,N de Quimioprofilaxis en menores de 5,3
+Chuquisaca,10402,Tomina,2008,11,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31201,Totora(cbba),2008,11,N de Quimioprofilaxis en menores de 5,3
+Beni,80101,Trinidad,2008,11,N de Quimioprofilaxis en menores de 5,5
+Tarija,60401,Uriondo (a. Concepcion),2008,11,N de Quimioprofilaxis en menores de 5,2
+Tarija,60303,Villa Montes,2008,11,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31003,Villa Tunari,2008,11,N de Quimioprofilaxis en menores de 5,9
+Cochabamba,30904,Vinto,2008,11,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70201,Warnes,2008,11,N de Quimioprofilaxis en menores de 5,6
+Tarija,60301,Yacuiba,2008,11,N de Quimioprofilaxis en menores de 5,8
+Santa Cruz,70403,Yapacani,2008,11,N de Quimioprofilaxis en menores de 5,3
+La Paz,20201,Achacachi,2008,12,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,71501,Ascencion De Guarayos,2008,12,N de Quimioprofilaxis en menores de 5,1
+Tarija,60202,Bermejo,2008,12,N de Quimioprofilaxis en menores de 5,3
+Cochabamba,31501,Bolivar,2008,12,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70707,Boyuibe,2008,12,N de Quimioprofilaxis en menores de 5,1
+La Paz,22001,Caranavi,2008,12,N de Quimioprofilaxis en menores de 5,2
+Potosí,50702,Caripuyo,2008,12,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31204,Chimore,2008,12,N de Quimioprofilaxis en menores de 5,5
+La Paz,21101,Chulumani (v. De La Libertad),2008,12,N de Quimioprofilaxis en menores de 5,2
+Pando,90101,Cobija,2008,12,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30101,Cochabamba,2008,12,N de Quimioprofilaxis en menores de 5,7
+Cochabamba,30905,Colcapirhua,2008,12,N de Quimioprofilaxis en menores de 5,1
+La Paz,21402,Coripata,2008,12,N de Quimioprofilaxis en menores de 5,2
+La Paz,20105,El Alto,2008,12,N de Quimioprofilaxis en menores de 5,10
+Tarija,60601,Entre Rios,2008,12,N de Quimioprofilaxis en menores de 5,1
+La Paz,20602,Guanay,2008,12,N de Quimioprofilaxis en menores de 5,1
+La Paz,21105,La Asunta,2008,12,N de Quimioprofilaxis en menores de 5,4
+La Paz,20101,La Paz,2008,12,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,71001,Montero,2008,12,N de Quimioprofilaxis en menores de 5,3
+Oruro,40101,Oruro,2008,12,N de Quimioprofilaxis en menores de 5,2
+Potosí,50101,Potosi,2008,12,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31205,Puerto Villarroel,2008,12,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,30901,Quillacollo,2008,12,N de Quimioprofilaxis en menores de 5,1
+Beni,80201,Riberalta,2008,12,N de Quimioprofilaxis en menores de 5,2
+Cochabamba,31001,Sacaba,2008,12,N de Quimioprofilaxis en menores de 5,1
+Beni,80302,San Borja,2008,12,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70402,San Carlos,2008,12,N de Quimioprofilaxis en menores de 5,2
+Beni,80501,San Ignacio,2008,12,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,70404,San Juan De Yapacani,2008,12,N de Quimioprofilaxis en menores de 5,1
+Tarija,60501,San Lorenzo(tja),2008,12,N de Quimioprofilaxis en menores de 5,2
+Santa Cruz,71005,San Pedro,2008,12,N de Quimioprofilaxis en menores de 5,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,N de Quimioprofilaxis en menores de 5,17
+Santa Cruz,70602,Santa Rosa Del Sara,2008,12,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,30902,Sipe Sipe,2008,12,N de Quimioprofilaxis en menores de 5,1
+Chuquisaca,10101,Sucre,2008,12,N de Quimioprofilaxis en menores de 5,1
+Tarija,60101,Tarija,2008,12,N de Quimioprofilaxis en menores de 5,2
+La Paz,20606,Tipuani,2008,12,N de Quimioprofilaxis en menores de 5,1
+Cochabamba,31601,Tiraque (cbba),2008,12,N de Quimioprofilaxis en menores de 5,3
+Beni,80101,Trinidad,2008,12,N de Quimioprofilaxis en menores de 5,5
+Tarija,60303,Villa Montes,2008,12,N de Quimioprofilaxis en menores de 5,5
+Cochabamba,31003,Villa Tunari,2008,12,N de Quimioprofilaxis en menores de 5,2
+Tarija,60301,Yacuiba,2008,12,N de Quimioprofilaxis en menores de 5,3
+Santa Cruz,70403,Yapacani,2008,12,N de Quimioprofilaxis en menores de 5,7
+Cochabamba,30101,Cochabamba,2008,1,TOTAL,15
+La Paz,21402,Coripata,2008,1,TOTAL,1
+La Paz,20105,El Alto,2008,1,TOTAL,19
+Tarija,60601,Entre Rios,2008,1,TOTAL,1
+La Paz,20101,La Paz,2008,1,TOTAL,2
+Potosí,50101,Potosi,2008,1,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,1,TOTAL,4
+Cochabamba,31401,Punata,2008,1,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,1,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTAL,0
+Chuquisaca,10101,Sucre,2008,1,TOTAL,1
+Tarija,60101,Tarija,2008,1,TOTAL,4
+La Paz,20608,Teoponte,2008,1,TOTAL,2
+Cochabamba,31601,Tiraque (cbba),2008,1,TOTAL,3
+Potosí,50801,Tupiza,2008,1,TOTAL,1
+Cochabamba,30904,Vinto,2008,1,TOTAL,1
+Tarija,60301,Yacuiba,2008,1,TOTAL,12
+Tarija,60202,Bermejo,2008,2,TOTAL,4
+Cochabamba,30701,Capinota,2008,2,TOTAL,3
+Tarija,60302,Carapari,2008,2,TOTAL,1
+Oruro,40201,Challapata,2008,2,TOTAL,2
+Cochabamba,31204,Chimore,2008,2,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,2,TOTAL,12
+La Paz,21401,Coroico,2008,2,TOTAL,1
+La Paz,20105,El Alto,2008,2,TOTAL,10
+Tarija,60601,Entre Rios,2008,2,TOTAL,5
+La Paz,20101,La Paz,2008,2,TOTAL,5
+La Paz,20607,Mapiri,2008,2,TOTAL,1
+Oruro,40101,Oruro,2008,2,TOTAL,1
+Potosí,50101,Potosi,2008,2,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2008,2,TOTAL,8
+Cochabamba,30901,Quillacollo,2008,2,TOTAL,9
+Beni,80304,Rurrenabaque,2008,2,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2008,2,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,TOTAL,3
+Tarija,60101,Tarija,2008,2,TOTAL,10
+La Paz,20608,Teoponte,2008,2,TOTAL,2
+Potosí,50102,Tinguipaya,2008,2,TOTAL,1
+La Paz,20606,Tipuani,2008,2,TOTAL,4
+Cochabamba,31601,Tiraque (cbba),2008,2,TOTAL,1
+Beni,80101,Trinidad,2008,2,TOTAL,2
+Santa Cruz,70801,Vallegrande,2008,2,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,2,TOTAL,1
+Cochabamba,30904,Vinto,2008,2,TOTAL,1
+Tarija,60301,Yacuiba,2008,2,TOTAL,5
+La Paz,21103,Yanacachi,2008,2,TOTAL,1
+Cochabamba,30201,Aiquile,2008,3,TOTAL,3
+Tarija,60202,Bermejo,2008,3,TOTAL,3
+La Paz,22001,Caranavi,2008,3,TOTAL,1
+Tarija,60302,Carapari,2008,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,3,TOTAL,11
+Cochabamba,30905,Colcapirhua,2008,3,TOTAL,4
+La Paz,21401,Coroico,2008,3,TOTAL,5
+La Paz,20105,El Alto,2008,3,TOTAL,12
+La Paz,21105,La Asunta,2008,3,TOTAL,5
+La Paz,20101,La Paz,2008,3,TOTAL,9
+La Paz,20607,Mapiri,2008,3,TOTAL,9
+La Paz,20402,Mocomoco,2008,3,TOTAL,2
+Oruro,40601,Poopo,2008,3,TOTAL,2
+Potosí,50101,Potosi,2008,3,TOTAL,3
+La Paz,20403,Puerto Carabuco,2008,3,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2008,3,TOTAL,3
+Cochabamba,30901,Quillacollo,2008,3,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTAL,13
+Chuquisaca,10403,Sopachuy,2008,3,TOTAL,1
+La Paz,20601,Sorata,2008,3,TOTAL,1
+Tarija,60101,Tarija,2008,3,TOTAL,8
+La Paz,20608,Teoponte,2008,3,TOTAL,4
+La Paz,20606,Tipuani,2008,3,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2008,3,TOTAL,2
+Beni,80101,Trinidad,2008,3,TOTAL,1
+Potosí,51201,Uyuni,2008,3,TOTAL,1
+Tarija,60303,Villa Montes,2008,3,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,3,TOTAL,13
+Cochabamba,30904,Vinto,2008,3,TOTAL,1
+Tarija,60301,Yacuiba,2008,3,TOTAL,14
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,4,TOTAL,2
+Tarija,60202,Bermejo,2008,4,TOTAL,2
+La Paz,22001,Caranavi,2008,4,TOTAL,6
+Cochabamba,31204,Chimore,2008,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,4,TOTAL,13
+Cochabamba,30905,Colcapirhua,2008,4,TOTAL,1
+La Paz,20105,El Alto,2008,4,TOTAL,10
+Santa Cruz,71503,El Puente(stc),2008,4,TOTAL,3
+Tarija,60601,Entre Rios,2008,4,TOTAL,14
+La Paz,20602,Guanay,2008,4,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2008,4,TOTAL,3
+La Paz,21105,La Asunta,2008,4,TOTAL,2
+La Paz,20101,La Paz,2008,4,TOTAL,1
+La Paz,21202,Laja,2008,4,TOTAL,2
+Potosí,50203,Llallagua,2008,4,TOTAL,1
+La Paz,20607,Mapiri,2008,4,TOTAL,4
+Cochabamba,31301,Mizque,2008,4,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,4,TOTAL,3
+Santa Cruz,71001,Montero,2008,4,TOTAL,2
+Oruro,40101,Oruro,2008,4,TOTAL,2
+La Paz,20102,Palca,2008,4,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2008,4,TOTAL,3
+Cochabamba,30901,Quillacollo,2008,4,TOTAL,6
+Santa Cruz,70901,Samaipata,2008,4,TOTAL,1
+Santa Cruz,70402,San Carlos,2008,4,TOTAL,1
+Santa Cruz,71104,San Julian,2008,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTAL,10
+Cochabamba,30902,Sipe Sipe,2008,4,TOTAL,3
+Cochabamba,30602,Tacopaya,2008,4,TOTAL,1
+Tarija,60101,Tarija,2008,4,TOTAL,8
+La Paz,20606,Tipuani,2008,4,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2008,4,TOTAL,7
+Beni,80101,Trinidad,2008,4,TOTAL,2
+Potosí,50201,Uncia,2008,4,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,4,TOTAL,10
+Potosí,51501,Villazon,2008,4,TOTAL,1
+Cochabamba,30904,Vinto,2008,4,TOTAL,1
+Santa Cruz,70201,Warnes,2008,4,TOTAL,2
+La Paz,20903,Yaco,2008,4,TOTAL,2
+Tarija,60301,Yacuiba,2008,4,TOTAL,2
+Santa Cruz,70403,Yapacani,2008,4,TOTAL,1
+La Paz,20201,Achacachi,2008,5,TOTAL,1
+Tarija,60202,Bermejo,2008,5,TOTAL,4
+La Paz,22001,Caranavi,2008,5,TOTAL,6
+Potosí,50302,Chaqui,2008,5,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,5,TOTAL,11
+La Paz,21402,Coripata,2008,5,TOTAL,2
+La Paz,20105,El Alto,2008,5,TOTAL,9
+Tarija,60601,Entre Rios,2008,5,TOTAL,4
+La Paz,21102,Irupana (villa De Lanza),2008,5,TOTAL,1
+La Paz,21105,La Asunta,2008,5,TOTAL,3
+La Paz,20101,La Paz,2008,5,TOTAL,4
+Potosí,50203,Llallagua,2008,5,TOTAL,1
+La Paz,20901,Luribay,2008,5,TOTAL,1
+Santa Cruz,71003,Mineros,2008,5,TOTAL,1
+Santa Cruz,71001,Montero,2008,5,TOTAL,6
+Tarija,60201,Padcaya,2008,5,TOTAL,2
+Santa Cruz,70902,Pampa Grande,2008,5,TOTAL,2
+Potosí,50101,Potosi,2008,5,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2008,5,TOTAL,4
+Beni,80201,Riberalta,2008,5,TOTAL,4
+Beni,80304,Rurrenabaque,2008,5,TOTAL,1
+Cochabamba,31001,Sacaba,2008,5,TOTAL,3
+Potosí,51601,San Agustin,2008,5,TOTAL,1
+Beni,80302,San Borja,2008,5,TOTAL,2
+Santa Cruz,70402,San Carlos,2008,5,TOTAL,1
+Santa Cruz,71104,San Julian,2008,5,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2008,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTAL,15
+Cochabamba,30902,Sipe Sipe,2008,5,TOTAL,1
+Tarija,60101,Tarija,2008,5,TOTAL,5
+La Paz,20608,Teoponte,2008,5,TOTAL,1
+La Paz,20606,Tipuani,2008,5,TOTAL,2
+Cochabamba,31601,Tiraque (cbba),2008,5,TOTAL,4
+Chuquisaca,10402,Tomina,2008,5,TOTAL,2
+Beni,80101,Trinidad,2008,5,TOTAL,4
+Potosí,50201,Uncia,2008,5,TOTAL,2
+Cochabamba,30502,Vacas,2008,5,TOTAL,2
+Tarija,60303,Villa Montes,2008,5,TOTAL,6
+Cochabamba,31003,Villa Tunari,2008,5,TOTAL,6
+Santa Cruz,70201,Warnes,2008,5,TOTAL,4
+Tarija,60301,Yacuiba,2008,5,TOTAL,10
+Santa Cruz,70403,Yapacani,2008,5,TOTAL,1
+La Paz,20201,Achacachi,2008,6,TOTAL,1
+Tarija,60202,Bermejo,2008,6,TOTAL,1
+Santa Cruz,70706,Camiri,2008,6,TOTAL,2
+Cochabamba,30701,Capinota,2008,6,TOTAL,2
+La Paz,22001,Caranavi,2008,6,TOTAL,8
+Tarija,60302,Carapari,2008,6,TOTAL,7
+Santa Cruz,70702,Charagua,2008,6,TOTAL,1
+Cochabamba,31204,Chimore,2008,6,TOTAL,3
+La Paz,21101,Chulumani (v. De La Libertad),2008,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,6,TOTAL,15
+Santa Cruz,71106,Cuatro Cañadas,2008,6,TOTAL,3
+La Paz,20105,El Alto,2008,6,TOTAL,16
+Tarija,60601,Entre Rios,2008,6,TOTAL,7
+Santa Cruz,71002,General Saavedra,2008,6,TOTAL,1
+Beni,80202,Guayaramerin,2008,6,TOTAL,3
+Oruro,40701,Huanuni,2008,6,TOTAL,1
+Beni,80803,Huaracaje,2008,6,TOTAL,1
+La Paz,21105,La Asunta,2008,6,TOTAL,3
+La Paz,20101,La Paz,2008,6,TOTAL,4
+Potosí,50203,Llallagua,2008,6,TOTAL,2
+Santa Cruz,71001,Montero,2008,6,TOTAL,3
+Potosí,50404,Ocuri,2008,6,TOTAL,1
+Oruro,40101,Oruro,2008,6,TOTAL,2
+La Paz,21104,Palos Blancos,2008,6,TOTAL,3
+Oruro,40602,Pazña,2008,6,TOTAL,2
+Santa Cruz,70601,Portachuelo,2008,6,TOTAL,3
+Potosí,50101,Potosi,2008,6,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2008,6,TOTAL,2
+Beni,80201,Riberalta,2008,6,TOTAL,1
+Cochabamba,31001,Sacaba,2008,6,TOTAL,2
+Beni,80302,San Borja,2008,6,TOTAL,4
+Santa Cruz,71104,San Julian,2008,6,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTAL,17
+Cochabamba,30902,Sipe Sipe,2008,6,TOTAL,3
+Chuquisaca,10101,Sucre,2008,6,TOTAL,5
+Tarija,60101,Tarija,2008,6,TOTAL,3
+La Paz,20608,Teoponte,2008,6,TOTAL,2
+La Paz,20606,Tipuani,2008,6,TOTAL,4
+Cochabamba,30903,Tiquipaya,2008,6,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2008,6,TOTAL,3
+Beni,80101,Trinidad,2008,6,TOTAL,3
+Potosí,50801,Tupiza,2008,6,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2008,6,TOTAL,3
+Tarija,60303,Villa Montes,2008,6,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2008,6,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,6,TOTAL,6
+Santa Cruz,70201,Warnes,2008,6,TOTAL,4
+Tarija,60301,Yacuiba,2008,6,TOTAL,1
+Santa Cruz,70403,Yapacani,2008,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,7,TOTAL,2
+Potosí,50301,Betanzos,2008,7,TOTAL,1
+Santa Cruz,70706,Camiri,2008,7,TOTAL,2
+Cochabamba,30701,Capinota,2008,7,TOTAL,1
+La Paz,22001,Caranavi,2008,7,TOTAL,5
+Cochabamba,31204,Chimore,2008,7,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,7,TOTAL,16
+Cochabamba,31002,Colomi,2008,7,TOTAL,1
+La Paz,21402,Coripata,2008,7,TOTAL,2
+La Paz,21401,Coroico,2008,7,TOTAL,1
+La Paz,20105,El Alto,2008,7,TOTAL,11
+Santa Cruz,70105,El Torno,2008,7,TOTAL,2
+Tarija,60601,Entre Rios,2008,7,TOTAL,1
+Oruro,40501,Huachacalla,2008,7,TOTAL,1
+La Paz,21105,La Asunta,2008,7,TOTAL,4
+Santa Cruz,70104,La Guardia,2008,7,TOTAL,6
+La Paz,20101,La Paz,2008,7,TOTAL,4
+Potosí,50203,Llallagua,2008,7,TOTAL,3
+Santa Cruz,70903,Mairana,2008,7,TOTAL,1
+Santa Cruz,71001,Montero,2008,7,TOTAL,1
+Potosí,50404,Ocuri,2008,7,TOTAL,1
+Santa Cruz,70202,Okinawa,2008,7,TOTAL,1
+Oruro,40101,Oruro,2008,7,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,7,TOTAL,1
+Potosí,50101,Potosi,2008,7,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,7,TOTAL,9
+Beni,80201,Riberalta,2008,7,TOTAL,12
+Cochabamba,31001,Sacaba,2008,7,TOTAL,7
+Beni,80302,San Borja,2008,7,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTAL,26
+Tarija,60101,Tarija,2008,7,TOTAL,4
+Cochabamba,30903,Tiquipaya,2008,7,TOTAL,4
+Beni,80101,Trinidad,2008,7,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2008,7,TOTAL,2
+Tarija,60303,Villa Montes,2008,7,TOTAL,13
+Cochabamba,31003,Villa Tunari,2008,7,TOTAL,6
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2008,7,TOTAL,1
+Cochabamba,30904,Vinto,2008,7,TOTAL,1
+Santa Cruz,70201,Warnes,2008,7,TOTAL,2
+Tarija,60301,Yacuiba,2008,7,TOTAL,4
+La Paz,21103,Yanacachi,2008,7,TOTAL,2
+Santa Cruz,70403,Yapacani,2008,7,TOTAL,6
+Santa Cruz,71501,Ascencion De Guarayos,2008,8,TOTAL,3
+Tarija,60202,Bermejo,2008,8,TOTAL,4
+Santa Cruz,70707,Boyuibe,2008,8,TOTAL,1
+La Paz,20303,Calacoto,2008,8,TOTAL,1
+Santa Cruz,70706,Camiri,2008,8,TOTAL,1
+La Paz,22001,Caranavi,2008,8,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,8,TOTAL,18
+Cochabamba,31002,Colomi,2008,8,TOTAL,1
+La Paz,20804,Desaguadero,2008,8,TOTAL,1
+La Paz,20105,El Alto,2008,8,TOTAL,14
+Santa Cruz,71503,El Puente(stc),2008,8,TOTAL,1
+Santa Cruz,70105,El Torno,2008,8,TOTAL,2
+Tarija,60601,Entre Rios,2008,8,TOTAL,2
+La Paz,21105,La Asunta,2008,8,TOTAL,4
+Santa Cruz,70104,La Guardia,2008,8,TOTAL,2
+La Paz,20101,La Paz,2008,8,TOTAL,2
+Potosí,50203,Llallagua,2008,8,TOTAL,1
+Santa Cruz,71003,Mineros,2008,8,TOTAL,1
+Cochabamba,31301,Mizque,2008,8,TOTAL,1
+Santa Cruz,71001,Montero,2008,8,TOTAL,4
+La Paz,21305,Patacamaya,2008,8,TOTAL,1
+Cochabamba,31203,Pocona,2008,8,TOTAL,1
+Potosí,50101,Potosi,2008,8,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,8,TOTAL,6
+Cochabamba,30901,Quillacollo,2008,8,TOTAL,3
+Beni,80201,Riberalta,2008,8,TOTAL,9
+Santa Cruz,70503,Robore,2008,8,TOTAL,1
+Cochabamba,31001,Sacaba,2008,8,TOTAL,3
+Beni,80302,San Borja,2008,8,TOTAL,1
+Santa Cruz,71104,San Julian,2008,8,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2008,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTAL,15
+Cochabamba,30902,Sipe Sipe,2008,8,TOTAL,3
+Chuquisaca,10101,Sucre,2008,8,TOTAL,1
+Chuquisaca,10601,Tarabuco,2008,8,TOTAL,3
+Tarija,60101,Tarija,2008,8,TOTAL,3
+La Paz,20608,Teoponte,2008,8,TOTAL,1
+La Paz,20606,Tipuani,2008,8,TOTAL,7
+Beni,80101,Trinidad,2008,8,TOTAL,4
+Potosí,50801,Tupiza,2008,8,TOTAL,1
+Santa Cruz,71502,Urubicha,2008,8,TOTAL,2
+Potosí,51201,Uyuni,2008,8,TOTAL,1
+Tarija,60303,Villa Montes,2008,8,TOTAL,4
+Cochabamba,31003,Villa Tunari,2008,8,TOTAL,2
+Cochabamba,30904,Vinto,2008,8,TOTAL,1
+Tarija,60301,Yacuiba,2008,8,TOTAL,13
+Tarija,60202,Bermejo,2008,9,TOTAL,1
+Potosí,50301,Betanzos,2008,9,TOTAL,3
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2008,9,TOTAL,2
+Santa Cruz,70706,Camiri,2008,9,TOTAL,2
+La Paz,22001,Caranavi,2008,9,TOTAL,2
+Cochabamba,31204,Chimore,2008,9,TOTAL,3
+La Paz,20501,Chuma,2008,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,9,TOTAL,6
+Santa Cruz,71106,Cuatro Cañadas,2008,9,TOTAL,1
+Chuquisaca,10902,Culpina,2008,9,TOTAL,1
+La Paz,20105,El Alto,2008,9,TOTAL,11
+Santa Cruz,70105,El Torno,2008,9,TOTAL,4
+Tarija,60601,Entre Rios,2008,9,TOTAL,4
+Santa Cruz,71004,Fernandez Alonso,2008,9,TOTAL,2
+Santa Cruz,71002,General Saavedra,2008,9,TOTAL,3
+La Paz,20602,Guanay,2008,9,TOTAL,2
+La Paz,21105,La Asunta,2008,9,TOTAL,8
+Santa Cruz,70104,La Guardia,2008,9,TOTAL,3
+La Paz,20607,Mapiri,2008,9,TOTAL,2
+Santa Cruz,71003,Mineros,2008,9,TOTAL,3
+Cochabamba,31301,Mizque,2008,9,TOTAL,2
+Santa Cruz,71001,Montero,2008,9,TOTAL,2
+Cochabamba,30203,Omereque,2008,9,TOTAL,1
+La Paz,21104,Palos Blancos,2008,9,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2008,9,TOTAL,5
+Cochabamba,30901,Quillacollo,2008,9,TOTAL,1
+Beni,80201,Riberalta,2008,9,TOTAL,8
+Beni,80302,San Borja,2008,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTAL,30
+Cochabamba,30902,Sipe Sipe,2008,9,TOTAL,1
+Tarija,60101,Tarija,2008,9,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2008,9,TOTAL,8
+Potosí,51202,Tomave,2008,9,TOTAL,1
+Beni,80101,Trinidad,2008,9,TOTAL,2
+Potosí,51201,Uyuni,2008,9,TOTAL,1
+Tarija,60303,Villa Montes,2008,9,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,9,TOTAL,7
+Cochabamba,30904,Vinto,2008,9,TOTAL,1
+Santa Cruz,70201,Warnes,2008,9,TOTAL,1
+Tarija,60301,Yacuiba,2008,9,TOTAL,12
+Santa Cruz,70403,Yapacani,2008,9,TOTAL,2
+Potosí,51302,Acacio,2008,10,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,10,TOTAL,3
+Tarija,60202,Bermejo,2008,10,TOTAL,1
+Potosí,50301,Betanzos,2008,10,TOTAL,1
+Santa Cruz,70703,Cabezas,2008,10,TOTAL,1
+La Paz,22001,Caranavi,2008,10,TOTAL,7
+La Paz,21101,Chulumani (v. De La Libertad),2008,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,10,TOTAL,8
+La Paz,21402,Coripata,2008,10,TOTAL,3
+La Paz,20301,Coro Coro,2008,10,TOTAL,1
+La Paz,20105,El Alto,2008,10,TOTAL,12
+Santa Cruz,71503,El Puente(stc),2008,10,TOTAL,1
+Santa Cruz,70105,El Torno,2008,10,TOTAL,2
+Tarija,60601,Entre Rios,2008,10,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,10,TOTAL,2
+Beni,80202,Guayaramerin,2008,10,TOTAL,2
+La Paz,21102,Irupana (villa De Lanza),2008,10,TOTAL,1
+La Paz,20101,La Paz,2008,10,TOTAL,2
+Santa Cruz,70701,Lagunillas,2008,10,TOTAL,1
+Beni,80801,Magdalena,2008,10,TOTAL,1
+Santa Cruz,71003,Mineros,2008,10,TOTAL,2
+Cochabamba,31301,Mizque,2008,10,TOTAL,1
+La Paz,20402,Mocomoco,2008,10,TOTAL,1
+Santa Cruz,71001,Montero,2008,10,TOTAL,5
+Oruro,40101,Oruro,2008,10,TOTAL,3
+Cochabamba,31203,Pocona,2008,10,TOTAL,3
+Santa Cruz,71402,Puerto Quijarro,2008,10,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2008,10,TOTAL,9
+Cochabamba,30901,Quillacollo,2008,10,TOTAL,4
+Cochabamba,31001,Sacaba,2008,10,TOTAL,2
+Beni,80302,San Borja,2008,10,TOTAL,5
+Tarija,60501,San Lorenzo(tja),2008,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTAL,15
+Tarija,60101,Tarija,2008,10,TOTAL,1
+La Paz,20606,Tipuani,2008,10,TOTAL,1
+Beni,80101,Trinidad,2008,10,TOTAL,3
+Tarija,60303,Villa Montes,2008,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,10,TOTAL,4
+Santa Cruz,70201,Warnes,2008,10,TOTAL,6
+Tarija,60301,Yacuiba,2008,10,TOTAL,5
+La Paz,21103,Yanacachi,2008,10,TOTAL,1
+Santa Cruz,70403,Yapacani,2008,10,TOTAL,6
+Tarija,60202,Bermejo,2008,11,TOTAL,8
+Santa Cruz,70703,Cabezas,2008,11,TOTAL,1
+La Paz,22001,Caranavi,2008,11,TOTAL,4
+Potosí,50302,Chaqui,2008,11,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,11,TOTAL,7
+Cochabamba,30905,Colcapirhua,2008,11,TOTAL,1
+Potosí,50601,Cotagaita,2008,11,TOTAL,1
+La Paz,20804,Desaguadero,2008,11,TOTAL,2
+La Paz,20105,El Alto,2008,11,TOTAL,21
+Santa Cruz,70105,El Torno,2008,11,TOTAL,1
+Oruro,40701,Huanuni,2008,11,TOTAL,2
+La Paz,21105,La Asunta,2008,11,TOTAL,3
+Santa Cruz,70104,La Guardia,2008,11,TOTAL,2
+La Paz,20101,La Paz,2008,11,TOTAL,2
+Potosí,50203,Llallagua,2008,11,TOTAL,1
+Cochabamba,31301,Mizque,2008,11,TOTAL,4
+Santa Cruz,71001,Montero,2008,11,TOTAL,3
+Santa Cruz,70502,Pailon,2008,11,TOTAL,1
+Chuquisaca,10103,Poroma,2008,11,TOTAL,1
+Beni,80201,Riberalta,2008,11,TOTAL,3
+Santa Cruz,70503,Robore,2008,11,TOTAL,1
+Cochabamba,31001,Sacaba,2008,11,TOTAL,3
+Santa Cruz,70402,San Carlos,2008,11,TOTAL,1
+Beni,80501,San Ignacio,2008,11,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2008,11,TOTAL,2
+Santa Cruz,71104,San Julian,2008,11,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2008,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTAL,23
+Santa Cruz,70602,Santa Rosa Del Sara,2008,11,TOTAL,3
+Cochabamba,30602,Tacopaya,2008,11,TOTAL,2
+La Paz,20606,Tipuani,2008,11,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2008,11,TOTAL,3
+Chuquisaca,10402,Tomina,2008,11,TOTAL,1
+Cochabamba,31201,Totora(cbba),2008,11,TOTAL,3
+Beni,80101,Trinidad,2008,11,TOTAL,5
+Tarija,60401,Uriondo (a. Concepcion),2008,11,TOTAL,2
+Tarija,60303,Villa Montes,2008,11,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,11,TOTAL,9
+Cochabamba,30904,Vinto,2008,11,TOTAL,1
+Santa Cruz,70201,Warnes,2008,11,TOTAL,6
+Tarija,60301,Yacuiba,2008,11,TOTAL,8
+Santa Cruz,70403,Yapacani,2008,11,TOTAL,3
+La Paz,20201,Achacachi,2008,12,TOTAL,3
+Santa Cruz,71501,Ascencion De Guarayos,2008,12,TOTAL,1
+Tarija,60202,Bermejo,2008,12,TOTAL,3
+Cochabamba,31501,Bolivar,2008,12,TOTAL,1
+Santa Cruz,70707,Boyuibe,2008,12,TOTAL,1
+La Paz,22001,Caranavi,2008,12,TOTAL,2
+Potosí,50702,Caripuyo,2008,12,TOTAL,1
+Cochabamba,31204,Chimore,2008,12,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2008,12,TOTAL,2
+Pando,90101,Cobija,2008,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,12,TOTAL,7
+Cochabamba,30905,Colcapirhua,2008,12,TOTAL,1
+La Paz,21402,Coripata,2008,12,TOTAL,2
+La Paz,20105,El Alto,2008,12,TOTAL,10
+Tarija,60601,Entre Rios,2008,12,TOTAL,1
+La Paz,20602,Guanay,2008,12,TOTAL,1
+La Paz,21105,La Asunta,2008,12,TOTAL,4
+La Paz,20101,La Paz,2008,12,TOTAL,3
+Santa Cruz,71001,Montero,2008,12,TOTAL,3
+Oruro,40101,Oruro,2008,12,TOTAL,2
+Potosí,50101,Potosi,2008,12,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2008,12,TOTAL,2
+Cochabamba,30901,Quillacollo,2008,12,TOTAL,1
+Beni,80201,Riberalta,2008,12,TOTAL,2
+Cochabamba,31001,Sacaba,2008,12,TOTAL,1
+Beni,80302,San Borja,2008,12,TOTAL,2
+Santa Cruz,70402,San Carlos,2008,12,TOTAL,2
+Beni,80501,San Ignacio,2008,12,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2008,12,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2008,12,TOTAL,2
+Santa Cruz,71005,San Pedro,2008,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,TOTAL,17
+Santa Cruz,70602,Santa Rosa Del Sara,2008,12,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2008,12,TOTAL,1
+Chuquisaca,10101,Sucre,2008,12,TOTAL,1
+Tarija,60101,Tarija,2008,12,TOTAL,2
+La Paz,20606,Tipuani,2008,12,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2008,12,TOTAL,3
+Beni,80101,Trinidad,2008,12,TOTAL,5
+Tarija,60303,Villa Montes,2008,12,TOTAL,5
+Cochabamba,31003,Villa Tunari,2008,12,TOTAL,2
+Tarija,60301,Yacuiba,2008,12,TOTAL,3
+Santa Cruz,70403,Yapacani,2008,12,TOTAL,7

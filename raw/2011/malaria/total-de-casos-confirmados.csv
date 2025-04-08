@@ -1,0 +1,503 @@
+,group,variable,month,TOTAL DE CASOS CONFIRMADOS VIVAX,TOTAL DE CASOS CONFIRMADOS VIVAX,TOTAL DE CASOS CONFIRMADOS FALCIPARUM,TOTAL DE CASOS CONFIRMADOS FALCIPARUM,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL MASCULINO,TOTAL FEMENINO,TOTAL
+municipality,,,,,,,,,,
+AIQUILE,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+AZURDUY,malaria,total de casos confirmados,2011-01-01,4,2,0,0,4,2,6
+BERMEJO,malaria,total de casos confirmados,2011-01-01,4,1,0,0,4,1,5
+BUENA VISTA,malaria,total de casos confirmados,2011-01-01,6,7,0,0,6,7,13
+CAMIRI,malaria,total de casos confirmados,2011-01-01,0,1,0,0,0,1,1
+CARANAVI,malaria,total de casos confirmados,2011-01-01,3,2,0,0,3,2,5
+CARAPARI,malaria,total de casos confirmados,2011-01-01,5,3,0,0,5,3,8
+CHARAGUA,malaria,total de casos confirmados,2011-01-01,0,1,0,0,0,1,1
+COBIJA,malaria,total de casos confirmados,2011-01-01,6,1,0,0,6,1,7
+COMARAPA,malaria,total de casos confirmados,2011-01-01,0,1,0,0,0,1,1
+COROICO,malaria,total de casos confirmados,2011-01-01,5,4,0,0,5,4,9
+CULPINA,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+EL TORNO,malaria,total de casos confirmados,2011-01-01,27,8,0,0,27,8,35
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-01-01,3,2,0,0,3,2,5
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-01-01,4,1,0,0,4,1,5
+GRAL. J.J. PEREZ (CHARAZANI),malaria,total de casos confirmados,2011-01-01,0,3,0,0,0,3,3
+GUANAY,malaria,total de casos confirmados,2011-01-01,2,0,0,0,2,0,2
+GUAYARAMERIN,malaria,total de casos confirmados,2011-01-01,96,86,7,6,103,92,195
+LA GUARDIA,malaria,total de casos confirmados,2011-01-01,4,2,0,0,4,2,6
+LA PAZ,malaria,total de casos confirmados,2011-01-01,10,9,0,0,10,9,19
+MAPIRI,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+MIZQUE,malaria,total de casos confirmados,2011-01-01,1,5,0,0,1,5,6
+MONTEAGUDO,malaria,total de casos confirmados,2011-01-01,3,4,0,0,3,4,7
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-01-01,9,8,0,0,9,8,17
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-01-01,6,8,0,0,6,8,14
+OMEREQUE,malaria,total de casos confirmados,2011-01-01,0,1,0,0,0,1,1
+PADCAYA,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+PADILLA,malaria,total de casos confirmados,2011-01-01,1,4,0,0,1,4,5
+PALOS BLANCOS,malaria,total de casos confirmados,2011-01-01,3,1,0,0,3,1,4
+PORONGO,malaria,total de casos confirmados,2011-01-01,2,3,0,0,2,3,5
+PORTACHUELO,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+PORVENIR,malaria,total de casos confirmados,2011-01-01,5,3,0,0,5,3,8
+POSTRER VALLE,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+PUERTO RICO,malaria,total de casos confirmados,2011-01-01,12,4,0,0,12,4,16
+REYES,malaria,total de casos confirmados,2011-01-01,2,2,0,0,2,2,4
+RIBERALTA,malaria,total de casos confirmados,2011-01-01,69,53,5,3,74,56,130
+RURRENABAQUE,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+SAIPINA,malaria,total de casos confirmados,2011-01-01,14,5,0,0,14,5,19
+SAN BORJA,malaria,total de casos confirmados,2011-01-01,5,2,0,0,5,2,7
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+SAN PEDRO(PND),malaria,total de casos confirmados,2011-01-01,0,2,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-01-01,7,2,0,0,7,2,9
+SENA,malaria,total de casos confirmados,2011-01-01,7,1,1,0,8,1,9
+SHINAOTA,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+TARABUCO,malaria,total de casos confirmados,2011-01-01,0,1,0,0,0,1,1
+TEOPONTE,malaria,total de casos confirmados,2011-01-01,1,1,0,0,1,1,2
+TORO TORO,malaria,total de casos confirmados,2011-01-01,0,1,0,0,0,1,1
+TRIGAL,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+VALLEGRANDE,malaria,total de casos confirmados,2011-01-01,1,0,0,0,1,0,1
+VILLA CHARCAS,malaria,total de casos confirmados,2011-01-01,0,1,0,0,0,1,1
+VILLA MONTES,malaria,total de casos confirmados,2011-01-01,4,1,0,0,4,1,5
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-01-01,0,1,0,0,0,1,1
+VILLA SERRANO,malaria,total de casos confirmados,2011-01-01,1,1,0,0,1,1,2
+VILLA TUNARI,malaria,total de casos confirmados,2011-01-01,2,2,0,0,2,2,4
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,total de casos confirmados,2011-01-01,0,1,0,0,0,1,1
+YACUIBA,malaria,total de casos confirmados,2011-01-01,1,4,0,0,1,4,5
+APOLO,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+AZURDUY,malaria,total de casos confirmados,2011-02-01,2,2,0,0,2,2,4
+BAURES,malaria,total de casos confirmados,2011-02-01,2,2,0,0,2,2,4
+BELLA FLOR,malaria,total de casos confirmados,2011-02-01,0,0,1,0,1,0,1
+BERMEJO,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+CABEZAS,malaria,total de casos confirmados,2011-02-01,4,0,0,0,4,0,4
+CAMARGO,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+CARANAVI,malaria,total de casos confirmados,2011-02-01,4,0,0,0,4,0,4
+CARAPARI,malaria,total de casos confirmados,2011-02-01,10,0,0,0,10,0,10
+COBIJA,malaria,total de casos confirmados,2011-02-01,13,8,1,0,14,8,22
+COMARAPA,malaria,total de casos confirmados,2011-02-01,1,1,0,0,1,1,2
+CULPINA,malaria,total de casos confirmados,2011-02-01,2,1,0,0,2,1,3
+EL TORNO,malaria,total de casos confirmados,2011-02-01,15,10,0,0,15,10,25
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-02-01,8,2,0,0,8,2,10
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-02-01,6,4,0,0,6,4,10
+GRAL. J.J. PEREZ (CHARAZANI),malaria,total de casos confirmados,2011-02-01,2,4,0,0,2,4,6
+GUAYARAMERIN,malaria,total de casos confirmados,2011-02-01,81,77,7,1,88,78,166
+INCAHUASI,malaria,total de casos confirmados,2011-02-01,1,1,0,0,1,1,2
+LA GUARDIA,malaria,total de casos confirmados,2011-02-01,6,1,0,0,6,1,7
+LA PAZ,malaria,total de casos confirmados,2011-02-01,1,1,0,0,1,1,2
+MIZQUE,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+MONTEAGUDO,malaria,total de casos confirmados,2011-02-01,4,4,0,0,4,4,8
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-02-01,4,5,0,0,4,5,9
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-02-01,8,2,0,0,8,2,10
+PADILLA,malaria,total de casos confirmados,2011-02-01,2,3,0,0,2,3,5
+PALOS BLANCOS,malaria,total de casos confirmados,2011-02-01,1,2,0,0,1,2,3
+PORONGO,malaria,total de casos confirmados,2011-02-01,9,4,0,0,9,4,13
+PORVENIR,malaria,total de casos confirmados,2011-02-01,8,2,0,0,8,2,10
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-02-01,0,2,0,0,0,2,2
+PUERTO RICO,malaria,total de casos confirmados,2011-02-01,22,4,1,0,23,4,27
+PUNATA,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+REYES,malaria,total de casos confirmados,2011-02-01,5,4,0,0,5,4,9
+RIBERALTA,malaria,total de casos confirmados,2011-02-01,75,44,5,2,80,46,126
+ROBORE,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+SAIPINA,malaria,total de casos confirmados,2011-02-01,16,9,0,0,16,9,25
+SAN BORJA,malaria,total de casos confirmados,2011-02-01,4,1,0,0,4,1,5
+SAN BUENA VENTURA,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+SAN IGNACIO DE VELASCO,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+SAN JULIAN,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-02-01,2,1,0,0,2,1,3
+SAN PEDRO(PND),malaria,total de casos confirmados,2011-02-01,4,3,0,0,4,3,7
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-02-01,8,4,0,0,8,4,12
+SANTA ROSA,malaria,total de casos confirmados,2011-02-01,2,0,0,0,2,0,2
+SENA,malaria,total de casos confirmados,2011-02-01,8,3,0,0,8,3,11
+TOCO,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+TOMINA,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+VALLEGRANDE,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+VILLA MONTES,malaria,total de casos confirmados,2011-02-01,8,7,0,0,8,7,15
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-02-01,1,1,0,0,1,1,2
+VILLA TUNARI,malaria,total de casos confirmados,2011-02-01,1,0,0,0,1,0,1
+YACUIBA,malaria,total de casos confirmados,2011-02-01,20,5,0,0,20,5,25
+ALCALA,malaria,total de casos confirmados,2011-03-01,2,1,0,0,2,1,3
+APOLO,malaria,total de casos confirmados,2011-03-01,2,1,0,0,2,1,3
+AZURDUY,malaria,total de casos confirmados,2011-03-01,0,1,0,0,0,1,1
+BAURES,malaria,total de casos confirmados,2011-03-01,3,0,0,0,3,0,3
+BELLA FLOR,malaria,total de casos confirmados,2011-03-01,3,4,0,0,3,4,7
+BERMEJO,malaria,total de casos confirmados,2011-03-01,1,0,0,0,1,0,1
+BUENA VISTA,malaria,total de casos confirmados,2011-03-01,2,0,0,0,2,0,2
+CABEZAS,malaria,total de casos confirmados,2011-03-01,4,2,0,0,4,2,6
+CARANAVI,malaria,total de casos confirmados,2011-03-01,2,1,0,0,2,1,3
+CARAPARI,malaria,total de casos confirmados,2011-03-01,2,2,0,0,2,2,4
+COBIJA,malaria,total de casos confirmados,2011-03-01,8,0,1,0,9,0,9
+COMARAPA,malaria,total de casos confirmados,2011-03-01,0,1,0,0,0,1,1
+EL TORNO,malaria,total de casos confirmados,2011-03-01,6,7,0,0,6,7,13
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-03-01,3,7,0,0,3,7,10
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-03-01,2,1,0,0,2,1,3
+GRAL. J.J. PEREZ (CHARAZANI),malaria,total de casos confirmados,2011-03-01,1,0,0,0,1,0,1
+GUAYARAMERIN,malaria,total de casos confirmados,2011-03-01,111,67,7,1,118,68,186
+INCAHUASI,malaria,total de casos confirmados,2011-03-01,1,2,0,0,1,2,3
+INGAVI (HUMAITA),malaria,total de casos confirmados,2011-03-01,2,0,0,0,2,0,2
+LA GUARDIA,malaria,total de casos confirmados,2011-03-01,2,1,0,0,2,1,3
+LA PAZ,malaria,total de casos confirmados,2011-03-01,2,1,0,0,2,1,3
+MAPIRI,malaria,total de casos confirmados,2011-03-01,1,0,0,0,1,0,1
+MOJOCOYA,malaria,total de casos confirmados,2011-03-01,1,2,0,0,1,2,3
+MONTEAGUDO,malaria,total de casos confirmados,2011-03-01,1,0,0,0,1,0,1
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-03-01,1,1,0,0,1,1,2
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-03-01,1,3,0,0,1,3,4
+PADILLA,malaria,total de casos confirmados,2011-03-01,1,0,0,0,1,0,1
+PORONGO,malaria,total de casos confirmados,2011-03-01,2,3,0,0,2,3,5
+PORVENIR,malaria,total de casos confirmados,2011-03-01,4,2,0,0,4,2,6
+POSTRER VALLE,malaria,total de casos confirmados,2011-03-01,1,0,0,0,1,0,1
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-03-01,1,0,0,0,1,0,1
+PUERTO RICO,malaria,total de casos confirmados,2011-03-01,10,4,0,0,10,4,14
+REYES,malaria,total de casos confirmados,2011-03-01,13,31,0,0,13,31,44
+RIBERALTA,malaria,total de casos confirmados,2011-03-01,64,49,2,0,66,49,115
+RURRENABAQUE,malaria,total de casos confirmados,2011-03-01,1,0,0,0,1,0,1
+SAIPINA,malaria,total de casos confirmados,2011-03-01,9,3,0,0,9,3,12
+SAN BORJA,malaria,total de casos confirmados,2011-03-01,1,1,0,0,1,1,2
+SAN BUENA VENTURA,malaria,total de casos confirmados,2011-03-01,0,0,0,1,0,1,1
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-03-01,8,0,1,0,9,0,9
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-03-01,0,0,0,0,0,0,0
+SANTA ROSA,malaria,total de casos confirmados,2011-03-01,1,0,0,0,1,0,1
+SENA,malaria,total de casos confirmados,2011-03-01,10,6,0,0,10,6,16
+TORO TORO,malaria,total de casos confirmados,2011-03-01,3,2,0,0,3,2,5
+VILLA MONTES,malaria,total de casos confirmados,2011-03-01,9,9,0,0,9,9,18
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-03-01,3,3,0,0,3,3,6
+VILLA SERRANO,malaria,total de casos confirmados,2011-03-01,0,1,0,0,0,1,1
+YACUIBA,malaria,total de casos confirmados,2011-03-01,8,16,0,0,8,16,24
+AIQUILE,malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+APOLO,malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+AZURDUY,malaria,total de casos confirmados,2011-04-01,1,1,0,0,1,1,2
+BAURES,malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+CABEZAS,malaria,total de casos confirmados,2011-04-01,2,3,0,0,2,3,5
+CARAPARI,malaria,total de casos confirmados,2011-04-01,0,1,0,0,0,1,1
+COBIJA,malaria,total de casos confirmados,2011-04-01,4,1,0,0,4,1,5
+EL TORNO,malaria,total de casos confirmados,2011-04-01,5,2,0,0,5,2,7
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-04-01,2,0,0,0,2,0,2
+GRAL. J.J. PEREZ (CHARAZANI),malaria,total de casos confirmados,2011-04-01,2,2,0,0,2,2,4
+GUAYARAMERIN,malaria,total de casos confirmados,2011-04-01,93,39,5,3,98,42,140
+GUTIERREZ,malaria,total de casos confirmados,2011-04-01,2,0,0,0,2,0,2
+HUACARETA,malaria,total de casos confirmados,2011-04-01,5,5,0,0,5,5,10
+INCAHUASI,malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+INGAVI (HUMAITA),malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+IXIAMAS,malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+LA GUARDIA,malaria,total de casos confirmados,2011-04-01,1,3,0,0,1,3,4
+MIZQUE,malaria,total de casos confirmados,2011-04-01,4,4,0,0,4,4,8
+MOJOCOYA,malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+MONTEAGUDO,malaria,total de casos confirmados,2011-04-01,1,2,0,0,1,2,3
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-04-01,3,0,0,0,3,0,3
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-04-01,3,0,1,0,4,0,4
+PADILLA,malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+PORONGO,malaria,total de casos confirmados,2011-04-01,8,4,0,0,8,4,12
+PORVENIR,malaria,total de casos confirmados,2011-04-01,2,3,0,0,2,3,5
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-04-01,5,0,0,0,5,0,5
+PUERTO RICO,malaria,total de casos confirmados,2011-04-01,4,3,0,0,4,3,7
+REYES,malaria,total de casos confirmados,2011-04-01,2,3,0,0,2,3,5
+RIBERALTA,malaria,total de casos confirmados,2011-04-01,70,24,3,2,73,26,99
+SAIPINA,malaria,total de casos confirmados,2011-04-01,11,2,0,0,11,2,13
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-04-01,5,0,0,0,5,0,5
+SAN PEDRO DE BUENA VISTA,malaria,total de casos confirmados,2011-04-01,1,1,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-04-01,1,0,0,0,1,0,1
+SANTA ROSA,malaria,total de casos confirmados,2011-04-01,1,1,0,0,1,1,2
+SENA,malaria,total de casos confirmados,2011-04-01,6,0,0,0,6,0,6
+VILA VILA,malaria,total de casos confirmados,2011-04-01,1,2,0,0,1,2,3
+VILLA MONTES,malaria,total de casos confirmados,2011-04-01,4,3,0,0,4,3,7
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-04-01,0,2,1,0,1,2,3
+YACUIBA,malaria,total de casos confirmados,2011-04-01,3,0,0,0,3,0,3
+YOTALA,malaria,total de casos confirmados,2011-04-01,0,1,0,0,0,1,1
+APOLO,malaria,total de casos confirmados,2011-05-01,3,0,0,0,3,0,3
+AZURDUY,malaria,total de casos confirmados,2011-05-01,2,0,0,0,2,0,2
+BAURES,malaria,total de casos confirmados,2011-05-01,1,2,0,0,1,2,3
+BELLA FLOR,malaria,total de casos confirmados,2011-05-01,4,1,0,0,4,1,5
+CAMIRI,malaria,total de casos confirmados,2011-05-01,1,0,0,0,1,0,1
+CARANAVI,malaria,total de casos confirmados,2011-05-01,1,0,0,0,1,0,1
+CARAPARI,malaria,total de casos confirmados,2011-05-01,0,1,0,0,0,1,1
+COBIJA,malaria,total de casos confirmados,2011-05-01,9,4,0,0,9,4,13
+EL TORNO,malaria,total de casos confirmados,2011-05-01,7,6,0,0,7,6,13
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-05-01,0,2,0,0,0,2,2
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-05-01,1,0,0,0,1,0,1
+GUAYARAMERIN,malaria,total de casos confirmados,2011-05-01,106,65,3,4,109,69,178
+HUACARETA,malaria,total de casos confirmados,2011-05-01,5,3,0,0,5,3,8
+INCAHUASI,malaria,total de casos confirmados,2011-05-01,0,2,0,0,0,2,2
+LA GUARDIA,malaria,total de casos confirmados,2011-05-01,1,0,0,0,1,0,1
+MIZQUE,malaria,total de casos confirmados,2011-05-01,13,5,0,0,13,5,18
+MONTEAGUDO,malaria,total de casos confirmados,2011-05-01,0,2,0,0,0,2,2
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-05-01,2,0,0,0,2,0,2
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-05-01,6,3,0,0,6,3,9
+PORONGO,malaria,total de casos confirmados,2011-05-01,2,2,0,0,2,2,4
+PORVENIR,malaria,total de casos confirmados,2011-05-01,1,1,0,0,1,1,2
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-05-01,5,1,0,0,5,1,6
+PUERTO RICO,malaria,total de casos confirmados,2011-05-01,3,3,0,0,3,3,6
+PUNATA,malaria,total de casos confirmados,2011-05-01,1,0,0,0,1,0,1
+REYES,malaria,total de casos confirmados,2011-05-01,1,2,0,0,1,2,3
+RIBERALTA,malaria,total de casos confirmados,2011-05-01,76,22,2,1,78,23,101
+RURRENABAQUE,malaria,total de casos confirmados,2011-05-01,1,1,1,0,2,1,3
+SAIPINA,malaria,total de casos confirmados,2011-05-01,14,9,0,0,14,9,23
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-05-01,7,8,0,0,7,8,15
+SAN LUCAS,malaria,total de casos confirmados,2011-05-01,1,1,0,0,1,1,2
+SAN PEDRO(PND),malaria,total de casos confirmados,2011-05-01,1,0,0,0,1,0,1
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-05-01,0,0,0,0,0,0,0
+SENA,malaria,total de casos confirmados,2011-05-01,2,3,0,1,2,4,6
+VILA VILA,malaria,total de casos confirmados,2011-05-01,2,3,0,0,2,3,5
+VILLA MONTES,malaria,total de casos confirmados,2011-05-01,3,3,0,0,3,3,6
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-05-01,5,1,0,0,5,1,6
+VILLA SERRANO,malaria,total de casos confirmados,2011-05-01,1,3,0,0,1,3,4
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,total de casos confirmados,2011-05-01,0,1,0,0,0,1,1
+YACUIBA,malaria,total de casos confirmados,2011-05-01,4,2,0,0,4,2,6
+APOLO,malaria,total de casos confirmados,2011-06-01,1,4,0,0,1,4,5
+AZURDUY,malaria,total de casos confirmados,2011-06-01,4,2,0,0,4,2,6
+BAURES,malaria,total de casos confirmados,2011-06-01,2,0,0,0,2,0,2
+BELLA FLOR,malaria,total de casos confirmados,2011-06-01,9,0,0,0,9,0,9
+BUENA VISTA,malaria,total de casos confirmados,2011-06-01,0,1,0,0,0,1,1
+CABEZAS,malaria,total de casos confirmados,2011-06-01,1,3,0,0,1,3,4
+CARAPARI,malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+COBIJA,malaria,total de casos confirmados,2011-06-01,7,2,1,0,8,2,10
+EL TORNO,malaria,total de casos confirmados,2011-06-01,12,12,0,0,12,12,24
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-06-01,4,1,0,0,4,1,5
+GUAYARAMERIN,malaria,total de casos confirmados,2011-06-01,136,104,7,7,143,111,254
+INCAHUASI,malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+INGAVI (HUMAITA),malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+MAIRANA,malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+MIZQUE,malaria,total de casos confirmados,2011-06-01,16,9,0,0,16,9,25
+MONTEAGUDO,malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+MONTERO,malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-06-01,11,2,1,2,12,4,16
+PADILLA,malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+PALOS BLANCOS,malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+POROMA,malaria,total de casos confirmados,2011-06-01,1,0,0,0,1,0,1
+PORONGO,malaria,total de casos confirmados,2011-06-01,3,1,0,0,3,1,4
+PORVENIR,malaria,total de casos confirmados,2011-06-01,3,0,0,0,3,0,3
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-06-01,5,0,0,0,5,0,5
+PUERTO RICO,malaria,total de casos confirmados,2011-06-01,2,1,0,0,2,1,3
+PUNATA,malaria,total de casos confirmados,2011-06-01,0,1,0,0,0,1,1
+REYES,malaria,total de casos confirmados,2011-06-01,1,1,0,0,1,1,2
+RIBERALTA,malaria,total de casos confirmados,2011-06-01,73,48,2,2,75,50,125
+SAIPINA,malaria,total de casos confirmados,2011-06-01,3,2,0,0,3,2,5
+SAN BORJA,malaria,total de casos confirmados,2011-06-01,1,1,0,0,1,1,2
+SAN IGNACIO DE VELASCO,malaria,total de casos confirmados,2011-06-01,0,1,0,0,0,1,1
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-06-01,2,4,1,0,3,4,7
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-06-01,0,0,0,0,0,0,0
+SANTA ROSA,malaria,total de casos confirmados,2011-06-01,0,1,0,0,0,1,1
+SENA,malaria,total de casos confirmados,2011-06-01,2,0,0,0,2,0,2
+TORO TORO,malaria,total de casos confirmados,2011-06-01,5,1,0,0,5,1,6
+VILA VILA,malaria,total de casos confirmados,2011-06-01,0,1,0,0,0,1,1
+VILLA MONTES,malaria,total de casos confirmados,2011-06-01,4,7,0,0,4,7,11
+VILLA SERRANO,malaria,total de casos confirmados,2011-06-01,1,4,0,0,1,4,5
+YACUIBA,malaria,total de casos confirmados,2011-06-01,4,1,0,0,4,1,5
+APOLO,malaria,total de casos confirmados,2011-07-01,3,2,0,0,3,2,5
+AZURDUY,malaria,total de casos confirmados,2011-07-01,2,0,0,0,2,0,2
+BAURES,malaria,total de casos confirmados,2011-07-01,3,2,0,0,3,2,5
+BELLA FLOR,malaria,total de casos confirmados,2011-07-01,4,1,0,0,4,1,5
+BERMEJO,malaria,total de casos confirmados,2011-07-01,1,0,0,0,1,0,1
+CABEZAS,malaria,total de casos confirmados,2011-07-01,1,1,0,0,1,1,2
+CHIMORE,malaria,total de casos confirmados,2011-07-01,2,0,0,0,2,0,2
+COBIJA,malaria,total de casos confirmados,2011-07-01,3,0,0,0,3,0,3
+EL TORNO,malaria,total de casos confirmados,2011-07-01,4,5,0,0,4,5,9
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-07-01,1,0,0,0,1,0,1
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-07-01,8,0,0,0,8,0,8
+GRAL. J.J. PEREZ (CHARAZANI),malaria,total de casos confirmados,2011-07-01,1,1,0,0,1,1,2
+GUAYARAMERIN,malaria,total de casos confirmados,2011-07-01,86,82,3,1,89,83,172
+HUACARETA,malaria,total de casos confirmados,2011-07-01,4,1,0,0,4,1,5
+INCAHUASI,malaria,total de casos confirmados,2011-07-01,1,0,0,0,1,0,1
+MACHARETI,malaria,total de casos confirmados,2011-07-01,1,0,0,0,1,0,1
+MAGDALENA,malaria,total de casos confirmados,2011-07-01,0,1,0,0,0,1,1
+MIZQUE,malaria,total de casos confirmados,2011-07-01,4,3,0,0,4,3,7
+MONTEAGUDO,malaria,total de casos confirmados,2011-07-01,0,1,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-07-01,3,0,0,0,3,0,3
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-07-01,3,1,3,2,6,3,9
+PADILLA,malaria,total de casos confirmados,2011-07-01,1,0,0,0,1,0,1
+PORONGO,malaria,total de casos confirmados,2011-07-01,1,1,0,0,1,1,2
+PORTACHUELO,malaria,total de casos confirmados,2011-07-01,1,0,0,0,1,0,1
+PORVENIR,malaria,total de casos confirmados,2011-07-01,1,1,0,0,1,1,2
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-07-01,3,0,0,0,3,0,3
+PUERTO RICO,malaria,total de casos confirmados,2011-07-01,1,0,0,0,1,0,1
+PUNATA,malaria,total de casos confirmados,2011-07-01,0,1,0,0,0,1,1
+REYES,malaria,total de casos confirmados,2011-07-01,1,2,1,0,2,2,4
+RIBERALTA,malaria,total de casos confirmados,2011-07-01,66,46,0,2,66,48,114
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-07-01,2,0,0,0,2,0,2
+SANTA ROSA,malaria,total de casos confirmados,2011-07-01,0,1,0,0,0,1,1
+SENA,malaria,total de casos confirmados,2011-07-01,1,2,0,0,1,2,3
+TEOPONTE,malaria,total de casos confirmados,2011-07-01,1,0,0,0,1,0,1
+TORO TORO,malaria,total de casos confirmados,2011-07-01,2,1,0,0,2,1,3
+VILA VILA,malaria,total de casos confirmados,2011-07-01,3,0,0,0,3,0,3
+VILLA MONTES,malaria,total de casos confirmados,2011-07-01,4,3,0,0,4,3,7
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-07-01,3,0,0,0,3,0,3
+VILLA SERRANO,malaria,total de casos confirmados,2011-07-01,0,1,0,0,0,1,1
+YACUIBA,malaria,total de casos confirmados,2011-07-01,0,1,0,0,0,1,1
+APOLO,malaria,total de casos confirmados,2011-08-01,2,3,0,0,2,3,5
+AZURDUY,malaria,total de casos confirmados,2011-08-01,2,0,0,0,2,0,2
+BAURES,malaria,total de casos confirmados,2011-08-01,10,7,0,0,10,7,17
+BELLA FLOR,malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+BUENA VISTA,malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+CABEZAS,malaria,total de casos confirmados,2011-08-01,2,0,0,0,2,0,2
+CARAPARI,malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+COBIJA,malaria,total de casos confirmados,2011-08-01,3,0,0,0,3,0,3
+COMARAPA,malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+COROICO,malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+EL TORNO,malaria,total de casos confirmados,2011-08-01,6,9,0,0,6,9,15
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-08-01,2,1,0,0,2,1,3
+FILADELFIA,malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+GRAL. J.J. PEREZ (CHARAZANI),malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+GUAYARAMERIN,malaria,total de casos confirmados,2011-08-01,124,94,6,0,130,94,224
+HUACARETA,malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+INCAHUASI,malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+INGAVI (HUMAITA),malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+IXIAMAS,malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+LA GUARDIA,malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+MACHARETI,malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+MIZQUE,malaria,total de casos confirmados,2011-08-01,2,3,0,0,2,3,5
+MONTEAGUDO,malaria,total de casos confirmados,2011-08-01,0,2,0,0,0,2,2
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-08-01,2,0,0,0,2,0,2
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-08-01,5,2,0,0,5,2,7
+PORONGO,malaria,total de casos confirmados,2011-08-01,1,1,0,0,1,1,2
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-08-01,2,0,0,0,2,0,2
+REYES,malaria,total de casos confirmados,2011-08-01,6,7,0,0,6,7,13
+RIBERALTA,malaria,total de casos confirmados,2011-08-01,70,37,3,3,73,40,113
+RURRENABAQUE,malaria,total de casos confirmados,2011-08-01,2,0,0,0,2,0,2
+SAIPINA,malaria,total de casos confirmados,2011-08-01,3,0,0,0,3,0,3
+SAN CARLOS,malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-08-01,2,5,0,0,2,5,7
+SAN PEDRO(PND),malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+SENA,malaria,total de casos confirmados,2011-08-01,2,1,0,0,2,1,3
+TORO TORO,malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+VILA VILA,malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-08-01,0,1,0,0,0,1,1
+VILLA SERRANO,malaria,total de casos confirmados,2011-08-01,6,2,0,0,6,2,8
+YACUIBA,malaria,total de casos confirmados,2011-08-01,1,2,0,0,1,2,3
+ZUDAÑEZ,malaria,total de casos confirmados,2011-08-01,1,0,0,0,1,0,1
+APOLO,malaria,total de casos confirmados,2011-09-01,1,1,0,0,1,1,2
+AZURDUY,malaria,total de casos confirmados,2011-09-01,0,1,0,0,0,1,1
+BAURES,malaria,total de casos confirmados,2011-09-01,10,5,0,0,10,5,15
+BELLA FLOR,malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+BERMEJO,malaria,total de casos confirmados,2011-09-01,1,1,0,0,1,1,2
+CHIMORE,malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+COBIJA,malaria,total de casos confirmados,2011-09-01,1,4,0,0,1,4,5
+COMARAPA,malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+EL TORNO,malaria,total de casos confirmados,2011-09-01,3,2,0,0,3,2,5
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-09-01,7,0,0,0,7,0,7
+FILADELFIA,malaria,total de casos confirmados,2011-09-01,0,1,0,0,0,1,1
+GRAL. J.J. PEREZ (CHARAZANI),malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+GUAYARAMERIN,malaria,total de casos confirmados,2011-09-01,93,67,0,1,93,68,161
+MAGDALENA,malaria,total de casos confirmados,2011-09-01,2,0,0,0,2,0,2
+MIZQUE,malaria,total de casos confirmados,2011-09-01,1,2,0,0,1,2,3
+MONTEAGUDO,malaria,total de casos confirmados,2011-09-01,1,1,0,0,1,1,2
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-09-01,1,1,0,0,1,1,2
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-09-01,2,4,0,1,2,5,7
+PADCAYA,malaria,total de casos confirmados,2011-09-01,0,1,0,0,0,1,1
+PORONGO,malaria,total de casos confirmados,2011-09-01,1,2,0,0,1,2,3
+PORVENIR,malaria,total de casos confirmados,2011-09-01,2,0,0,0,2,0,2
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-09-01,6,0,0,0,6,0,6
+REYES,malaria,total de casos confirmados,2011-09-01,5,3,0,0,5,3,8
+RIBERALTA,malaria,total de casos confirmados,2011-09-01,54,32,1,0,55,32,87
+RURRENABAQUE,malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+SAIPINA,malaria,total de casos confirmados,2011-09-01,0,1,0,0,0,1,1
+SAN IGNACIO DE VELASCO,malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-09-01,12,3,0,0,12,3,15
+SAN PEDRO(PND),malaria,total de casos confirmados,2011-09-01,0,1,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-09-01,0,0,0,0,0,0,0
+SENA,malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+SHINAOTA,malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+TIPUANI,malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+TORO TORO,malaria,total de casos confirmados,2011-09-01,1,1,0,0,1,1,2
+VILLA MONTES,malaria,total de casos confirmados,2011-09-01,0,2,0,0,0,2,2
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-09-01,1,3,1,0,2,3,5
+VILLA TUNARI,malaria,total de casos confirmados,2011-09-01,1,0,0,0,1,0,1
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,total de casos confirmados,2011-09-01,0,1,0,0,0,1,1
+YACUIBA,malaria,total de casos confirmados,2011-09-01,3,3,0,0,3,3,6
+APOLO,malaria,total de casos confirmados,2011-10-01,1,1,0,0,1,1,2
+BAURES,malaria,total de casos confirmados,2011-10-01,6,2,0,0,6,2,8
+CABEZAS,malaria,total de casos confirmados,2011-10-01,1,0,0,0,1,0,1
+COBIJA,malaria,total de casos confirmados,2011-10-01,6,0,0,0,6,0,6
+EL TORNO,malaria,total de casos confirmados,2011-10-01,3,5,0,0,3,5,8
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-10-01,2,1,0,0,2,1,3
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-10-01,2,0,0,0,2,0,2
+FILADELFIA,malaria,total de casos confirmados,2011-10-01,1,0,0,0,1,0,1
+GUAYARAMERIN,malaria,total de casos confirmados,2011-10-01,106,67,15,12,121,79,200
+INGAVI (HUMAITA),malaria,total de casos confirmados,2011-10-01,4,0,0,0,4,0,4
+LA GUARDIA,malaria,total de casos confirmados,2011-10-01,2,0,0,0,2,0,2
+MAGDALENA,malaria,total de casos confirmados,2011-10-01,1,0,0,0,1,0,1
+MONTEAGUDO,malaria,total de casos confirmados,2011-10-01,0,1,0,0,0,1,1
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-10-01,13,6,0,1,13,7,20
+PORONGO,malaria,total de casos confirmados,2011-10-01,2,4,0,0,2,4,6
+PORVENIR,malaria,total de casos confirmados,2011-10-01,1,0,0,0,1,0,1
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-10-01,4,0,0,0,4,0,4
+PUERTO RICO,malaria,total de casos confirmados,2011-10-01,7,0,0,0,7,0,7
+REYES,malaria,total de casos confirmados,2011-10-01,2,2,0,0,2,2,4
+RIBERALTA,malaria,total de casos confirmados,2011-10-01,63,36,4,4,67,40,107
+RURRENABAQUE,malaria,total de casos confirmados,2011-10-01,1,0,1,0,2,0,2
+SAIPINA,malaria,total de casos confirmados,2011-10-01,3,1,0,0,3,1,4
+SAN BORJA,malaria,total de casos confirmados,2011-10-01,0,1,0,0,0,1,1
+SAN BUENA VENTURA,malaria,total de casos confirmados,2011-10-01,1,0,0,0,1,0,1
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-10-01,9,5,0,0,9,5,14
+SAN PEDRO(PND),malaria,total de casos confirmados,2011-10-01,2,0,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-10-01,0,0,0,0,0,0,0
+SENA,malaria,total de casos confirmados,2011-10-01,1,0,0,0,1,0,1
+VILLA MONTES,malaria,total de casos confirmados,2011-10-01,2,0,0,0,2,0,2
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-10-01,3,0,0,0,3,0,3
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,total de casos confirmados,2011-10-01,0,1,0,0,0,1,1
+YACUIBA,malaria,total de casos confirmados,2011-10-01,1,1,0,0,1,1,2
+AIQUILE,malaria,total de casos confirmados,2011-11-01,0,1,0,0,0,1,1
+APOLO,malaria,total de casos confirmados,2011-11-01,4,4,0,0,4,4,8
+BAURES,malaria,total de casos confirmados,2011-11-01,3,3,0,0,3,3,6
+BERMEJO,malaria,total de casos confirmados,2011-11-01,1,2,0,0,1,2,3
+CARANAVI,malaria,total de casos confirmados,2011-11-01,1,0,0,0,1,0,1
+CARAPARI,malaria,total de casos confirmados,2011-11-01,1,0,0,0,1,0,1
+COBIJA,malaria,total de casos confirmados,2011-11-01,6,0,0,0,6,0,6
+EL TORNO,malaria,total de casos confirmados,2011-11-01,3,0,0,0,3,0,3
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-11-01,3,1,0,0,3,1,4
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-11-01,5,2,0,0,5,2,7
+GRAL. J.J. PEREZ (CHARAZANI),malaria,total de casos confirmados,2011-11-01,3,0,0,0,3,0,3
+GUAYARAMERIN,malaria,total de casos confirmados,2011-11-01,169,112,4,0,173,112,285
+HUACARETA,malaria,total de casos confirmados,2011-11-01,1,0,0,0,1,0,1
+INGAVI (HUMAITA),malaria,total de casos confirmados,2011-11-01,4,2,0,0,4,2,6
+LA GUARDIA,malaria,total de casos confirmados,2011-11-01,0,1,0,0,0,1,1
+MAGDALENA,malaria,total de casos confirmados,2011-11-01,1,1,0,0,1,1,2
+MINEROS,malaria,total de casos confirmados,2011-11-01,0,0,6,0,6,0,6
+MONTEAGUDO,malaria,total de casos confirmados,2011-11-01,0,1,0,0,0,1,1
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-11-01,1,1,0,0,1,1,2
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-11-01,5,5,0,2,5,7,12
+OMEREQUE,malaria,total de casos confirmados,2011-11-01,1,0,0,0,1,0,1
+PORONGO,malaria,total de casos confirmados,2011-11-01,3,3,0,0,3,3,6
+PORVENIR,malaria,total de casos confirmados,2011-11-01,3,0,0,0,3,0,3
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-11-01,2,0,0,0,2,0,2
+PUERTO RICO,malaria,total de casos confirmados,2011-11-01,4,2,0,0,4,2,6
+REYES,malaria,total de casos confirmados,2011-11-01,3,2,0,0,3,2,5
+RIBERALTA,malaria,total de casos confirmados,2011-11-01,57,36,0,1,57,37,94
+RURRENABAQUE,malaria,total de casos confirmados,2011-11-01,1,0,0,0,1,0,1
+SAIPINA,malaria,total de casos confirmados,2011-11-01,0,1,0,0,0,1,1
+SAN BORJA,malaria,total de casos confirmados,2011-11-01,3,2,0,0,3,2,5
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-11-01,4,6,0,0,4,6,10
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-11-01,0,0,0,0,0,0,0
+TEOPONTE,malaria,total de casos confirmados,2011-11-01,2,3,0,0,2,3,5
+VILLA MONTES,malaria,total de casos confirmados,2011-11-01,1,0,0,0,1,0,1
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-11-01,1,0,0,0,1,0,1
+VILLA SERRANO,malaria,total de casos confirmados,2011-11-01,1,1,0,0,1,1,2
+YACUIBA,malaria,total de casos confirmados,2011-11-01,4,1,0,0,4,1,5
+APOLO,malaria,total de casos confirmados,2011-12-01,1,2,0,0,1,2,3
+BAURES,malaria,total de casos confirmados,2011-12-01,6,3,0,0,6,3,9
+BELLA FLOR,malaria,total de casos confirmados,2011-12-01,1,0,0,0,1,0,1
+COBIJA,malaria,total de casos confirmados,2011-12-01,6,1,0,0,6,1,7
+EL TORNO,malaria,total de casos confirmados,2011-12-01,7,1,0,0,7,1,8
+ENTRE RIOS TRJ,malaria,total de casos confirmados,2011-12-01,0,4,0,0,0,4,4
+EUREKA (SANTOS MERCADO),malaria,total de casos confirmados,2011-12-01,3,0,0,0,3,0,3
+FILADELFIA,malaria,total de casos confirmados,2011-12-01,2,0,0,0,2,0,2
+GRAL. J.J. PEREZ (CHARAZANI),malaria,total de casos confirmados,2011-12-01,0,2,0,0,0,2,2
+GUAYARAMERIN,malaria,total de casos confirmados,2011-12-01,130,89,3,4,133,93,226
+INGAVI (HUMAITA),malaria,total de casos confirmados,2011-12-01,1,2,0,0,1,2,3
+LA GUARDIA,malaria,total de casos confirmados,2011-12-01,2,1,0,0,2,1,3
+MAGDALENA,malaria,total de casos confirmados,2011-12-01,4,4,0,0,4,4,8
+MOJOCOYA,malaria,total de casos confirmados,2011-12-01,1,0,0,0,1,0,1
+MONTEAGUDO,malaria,total de casos confirmados,2011-12-01,1,1,0,0,1,1,2
+NACEBE (SANTA ROSA DEL ABUNA),malaria,total de casos confirmados,2011-12-01,2,0,0,0,2,0,2
+NUEVO MANOA (NUEVA ESPERANZA),malaria,total de casos confirmados,2011-12-01,7,2,4,3,11,5,16
+OMEREQUE,malaria,total de casos confirmados,2011-12-01,0,1,0,0,0,1,1
+PADILLA,malaria,total de casos confirmados,2011-12-01,1,0,0,0,1,0,1
+PORONGO,malaria,total de casos confirmados,2011-12-01,1,2,0,0,1,2,3
+PORVENIR,malaria,total de casos confirmados,2011-12-01,1,0,0,0,1,0,1
+PUERTO GONZALO MORENO,malaria,total de casos confirmados,2011-12-01,4,1,0,0,4,1,5
+PUERTO RICO,malaria,total de casos confirmados,2011-12-01,1,0,0,0,1,0,1
+RIBERALTA,malaria,total de casos confirmados,2011-12-01,67,19,7,3,74,22,96
+RURRENABAQUE,malaria,total de casos confirmados,2011-12-01,1,0,0,0,1,0,1
+SAIPINA,malaria,total de casos confirmados,2011-12-01,10,5,0,0,10,5,15
+SAN CARLOS,malaria,total de casos confirmados,2011-12-01,0,1,0,0,0,1,1
+SAN LORENZO(PND),malaria,total de casos confirmados,2011-12-01,9,1,0,0,9,1,10
+SANTA CRUZ DE LA SIERRA,malaria,total de casos confirmados,2011-12-01,0,0,0,0,0,0,0
+SANTA ROSA,malaria,total de casos confirmados,2011-12-01,0,2,0,0,0,2,2
+SHINAOTA,malaria,total de casos confirmados,2011-12-01,0,1,0,0,0,1,1
+TEOPONTE,malaria,total de casos confirmados,2011-12-01,2,1,0,0,2,1,3
+VILLA MONTES,malaria,total de casos confirmados,2011-12-01,0,1,0,0,0,1,1
+VILLA NUEVA (LOMA ALTA),malaria,total de casos confirmados,2011-12-01,2,0,0,0,2,0,2
+YACUIBA,malaria,total de casos confirmados,2011-12-01,1,1,0,0,1,1,2

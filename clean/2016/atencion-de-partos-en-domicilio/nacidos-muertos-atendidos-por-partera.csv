@@ -1,0 +1,103 @@
+department,municipality_id,municipality,year,month,population,value
+Pando,90104,Bella Flor,2016,1,Nacidos muertos atendidos por partera,1
+Cochabamba,30901,Quillacollo,2016,1,Nacidos muertos atendidos por partera,1
+Potosí,50301,Betanzos,2016,2,Nacidos muertos atendidos por partera,1
+Cochabamba,30701,Capinota,2016,2,Nacidos muertos atendidos por partera,1
+Cochabamba,31001,Sacaba,2016,2,Nacidos muertos atendidos por partera,1
+Beni,80302,San Borja,2016,2,Nacidos muertos atendidos por partera,1
+La Paz,20807,Taraco,2016,2,Nacidos muertos atendidos por partera,1
+Oruro,41001,Toledo,2016,2,Nacidos muertos atendidos por partera,2
+Potosí,50401,Colquechaca,2016,3,Nacidos muertos atendidos por partera,2
+Santa Cruz,71101,Concepcion,2016,4,Nacidos muertos atendidos por partera,1
+Santa Cruz,70503,Robore,2016,4,Nacidos muertos atendidos por partera,1
+Chuquisaca,10101,Sucre,2016,4,Nacidos muertos atendidos por partera,4
+Cochabamba,31101,Tapacari,2016,4,Nacidos muertos atendidos por partera,1
+Potosí,50502,Toro Toro,2016,4,Nacidos muertos atendidos por partera,1
+Oruro,40101,Oruro,2016,5,Nacidos muertos atendidos por partera,1
+Beni,80501,San Ignacio,2016,5,Nacidos muertos atendidos por partera,1
+Cochabamba,31101,Tapacari,2016,5,Nacidos muertos atendidos por partera,1
+Potosí,51201,Uyuni,2016,5,Nacidos muertos atendidos por partera,4
+Chuquisaca,10702,San Lucas,2016,6,Nacidos muertos atendidos por partera,2
+Cochabamba,30302,Morochata,2016,7,Nacidos muertos atendidos por partera,2
+La Paz,20403,Puerto Carabuco,2016,7,Nacidos muertos atendidos por partera,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,Nacidos muertos atendidos por partera,1
+Potosí,50102,Tinguipaya,2016,7,Nacidos muertos atendidos por partera,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2016,8,Nacidos muertos atendidos por partera,1
+Oruro,41001,Toledo,2016,8,Nacidos muertos atendidos por partera,1
+Cochabamba,31003,Villa Tunari,2016,8,Nacidos muertos atendidos por partera,1
+La Paz,20202,Ancoraimes,2016,9,Nacidos muertos atendidos por partera,1
+Oruro,40101,Oruro,2016,9,Nacidos muertos atendidos por partera,1
+Santa Cruz,71105,San Antonio De Lomerio,2016,9,Nacidos muertos atendidos por partera,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,Nacidos muertos atendidos por partera,1
+Potosí,50102,Tinguipaya,2016,9,Nacidos muertos atendidos por partera,1
+La Paz,20302,Caquiaviri,2016,10,Nacidos muertos atendidos por partera,1
+La Paz,20402,Mocomoco,2016,10,Nacidos muertos atendidos por partera,1
+Beni,80302,San Borja,2016,10,Nacidos muertos atendidos por partera,2
+Chuquisaca,10702,San Lucas,2016,10,Nacidos muertos atendidos por partera,1
+Potosí,50102,Tinguipaya,2016,10,Nacidos muertos atendidos por partera,1
+Oruro,40902,Coipasa,2016,11,Nacidos muertos atendidos por partera,1
+La Paz,20105,El Alto,2016,11,Nacidos muertos atendidos por partera,1
+Chuquisaca,10501,Monteagudo,2016,11,Nacidos muertos atendidos por partera,1
+Cochabamba,31203,Pocona,2016,11,Nacidos muertos atendidos por partera,1
+La Paz,20403,Puerto Carabuco,2016,11,Nacidos muertos atendidos por partera,1
+Beni,80501,San Ignacio,2016,11,Nacidos muertos atendidos por partera,1
+Cochabamba,31101,Tapacari,2016,11,Nacidos muertos atendidos por partera,1
+Potosí,51201,Uyuni,2016,11,Nacidos muertos atendidos por partera,1
+Cochabamba,31501,Bolivar,2016,12,Nacidos muertos atendidos por partera,1
+Potosí,50401,Colquechaca,2016,12,Nacidos muertos atendidos por partera,1
+Potosí,51203,Porco,2016,12,Nacidos muertos atendidos por partera,1
+Potosí,51101,Puna,2016,12,Nacidos muertos atendidos por partera,1
+Potosí,50402,Ravelo,2016,12,Nacidos muertos atendidos por partera,1
+Potosí,50102,Tinguipaya,2016,12,Nacidos muertos atendidos por partera,7
+Santa Cruz,70201,Warnes,2016,12,Nacidos muertos atendidos por partera,1
+Pando,90104,Bella Flor,2016,1,TOTAL,1
+Cochabamba,30901,Quillacollo,2016,1,TOTAL,1
+Potosí,50301,Betanzos,2016,2,TOTAL,1
+Cochabamba,30701,Capinota,2016,2,TOTAL,1
+Cochabamba,31001,Sacaba,2016,2,TOTAL,1
+Beni,80302,San Borja,2016,2,TOTAL,1
+La Paz,20807,Taraco,2016,2,TOTAL,1
+Oruro,41001,Toledo,2016,2,TOTAL,2
+Potosí,50401,Colquechaca,2016,3,TOTAL,2
+Santa Cruz,71101,Concepcion,2016,4,TOTAL,1
+Santa Cruz,70503,Robore,2016,4,TOTAL,1
+Chuquisaca,10101,Sucre,2016,4,TOTAL,4
+Cochabamba,31101,Tapacari,2016,4,TOTAL,1
+Potosí,50502,Toro Toro,2016,4,TOTAL,1
+Oruro,40101,Oruro,2016,5,TOTAL,1
+Beni,80501,San Ignacio,2016,5,TOTAL,1
+Cochabamba,31101,Tapacari,2016,5,TOTAL,1
+Potosí,51201,Uyuni,2016,5,TOTAL,4
+Chuquisaca,10702,San Lucas,2016,6,TOTAL,2
+Cochabamba,30302,Morochata,2016,7,TOTAL,2
+La Paz,20403,Puerto Carabuco,2016,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,TOTAL,1
+Potosí,50102,Tinguipaya,2016,7,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2016,8,TOTAL,1
+Oruro,41001,Toledo,2016,8,TOTAL,1
+Cochabamba,31003,Villa Tunari,2016,8,TOTAL,1
+La Paz,20202,Ancoraimes,2016,9,TOTAL,1
+Oruro,40101,Oruro,2016,9,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2016,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,TOTAL,1
+Potosí,50102,Tinguipaya,2016,9,TOTAL,1
+La Paz,20302,Caquiaviri,2016,10,TOTAL,1
+La Paz,20402,Mocomoco,2016,10,TOTAL,1
+Beni,80302,San Borja,2016,10,TOTAL,2
+Chuquisaca,10702,San Lucas,2016,10,TOTAL,1
+Potosí,50102,Tinguipaya,2016,10,TOTAL,1
+Oruro,40902,Coipasa,2016,11,TOTAL,1
+La Paz,20105,El Alto,2016,11,TOTAL,1
+Chuquisaca,10501,Monteagudo,2016,11,TOTAL,1
+Cochabamba,31203,Pocona,2016,11,TOTAL,1
+La Paz,20403,Puerto Carabuco,2016,11,TOTAL,1
+Beni,80501,San Ignacio,2016,11,TOTAL,1
+Cochabamba,31101,Tapacari,2016,11,TOTAL,1
+Potosí,51201,Uyuni,2016,11,TOTAL,1
+Cochabamba,31501,Bolivar,2016,12,TOTAL,1
+Potosí,50401,Colquechaca,2016,12,TOTAL,1
+Potosí,51203,Porco,2016,12,TOTAL,1
+Potosí,51101,Puna,2016,12,TOTAL,1
+Potosí,50402,Ravelo,2016,12,TOTAL,1
+Potosí,50102,Tinguipaya,2016,12,TOTAL,7
+Santa Cruz,70201,Warnes,2016,12,TOTAL,1

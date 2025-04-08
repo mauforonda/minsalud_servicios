@@ -1,0 +1,533 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70707,Boyuibe,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70401,Buena Vista,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,70703,Cabezas,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20302,Caquiaviri,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,21101,Chulumani (v. De La Libertad),2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Cochabamba,30101,Cochabamba,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,35
+Santa Cruz,71106,Cuatro Cañadas,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20105,El Alto,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,7
+La Paz,20204,Huarina,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20101,La Paz,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+La Paz,21202,Laja,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Oruro,40101,Oruro,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+Cochabamba,31001,Sacaba,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10702,San Lucas,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Chuquisaca,10101,Sucre,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Tarija,60101,Tarija,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,12
+Cochabamba,31402,Villa Rivero,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10102,Yotala,2015,1,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,71501,Ascencion De Guarayos,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Beni,80802,Baures,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10701,Camargo,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Potosí,50202,Chayanta,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,30101,Cochabamba,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,21401,Coroico,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20105,El Alto,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+Oruro,40701,Huanuni,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20101,La Paz,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+La Paz,21202,Laja,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10303,Mojocoya,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Oruro,40101,Oruro,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+Potosí,50101,Potosi,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,71401,Puerto Suarez,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,31001,Sacaba,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10702,San Lucas,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,18
+Chuquisaca,10403,Sopachuy,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Tarija,60101,Tarija,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,48
+Chuquisaca,10402,Tomina,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Cochabamba,31003,Villa Tunari,2015,2,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20701,Apolo,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70401,Buena Vista,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10701,Camargo,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Cochabamba,30101,Cochabamba,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Potosí,50601,Cotagaita,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,71106,Cuatro Cañadas,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20105,El Alto,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,11
+Chuquisaca,10502,Huacareta,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Oruro,40701,Huanuni,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+Chuquisaca,10304,Icla,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20101,La Paz,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Chuquisaca,10501,Monteagudo,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,71001,Montero,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+Oruro,40101,Oruro,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,31202,Pojo (cbba),2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Potosí,50101,Potosi,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Pando,90201,Puerto Rico,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,71401,Puerto Suarez,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,71201,San Matias,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,9
+La Paz,21301,Sica Sica (villa Aroma),2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10403,Sopachuy,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Chuquisaca,10101,Sucre,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Cochabamba,30803,Tolata,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Potosí,50801,Tupiza,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Potosí,50201,Uncia,2015,3,PCD referidas a Unidades de Calificacion de Discapacidad.,51
+Chuquisaca,10201,Azurduy,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70401,Buena Vista,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+La Paz,20302,Caquiaviri,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,30101,Cochabamba,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,71106,Cuatro Cañadas,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20105,El Alto,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,22
+Santa Cruz,70105,El Torno,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Tarija,60601,Entre Rios Trj,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Oruro,40701,Huanuni,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20101,La Paz,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+La Paz,21202,Laja,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10501,Monteagudo,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Oruro,40101,Oruro,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+Potosí,50101,Potosi,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,71401,Puerto Suarez,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Cochabamba,30901,Quillacollo,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Beni,80201,Riberalta,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,70404,San Juan De Yapacani,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,10
+Chuquisaca,10403,Sopachuy,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10101,Sucre,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,129
+Tarija,60101,Tarija,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,306
+Beni,80101,Trinidad,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10801,Villa Serrano,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70201,Warnes,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70403,Yapacani,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,68
+Chuquisaca,10102,Yotala,2015,4,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70401,Buena Vista,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+Cochabamba,30701,Capinota,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,30101,Cochabamba,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,71101,Concepcion,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20105,El Alto,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,9
+Santa Cruz,70105,El Torno,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Oruro,40701,Huanuni,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+La Paz,20101,La Paz,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,15
+Chuquisaca,10501,Monteagudo,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Oruro,40101,Oruro,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+Santa Cruz,71401,Puerto Suarez,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70503,Robore,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10702,San Lucas,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Chuquisaca,10403,Sopachuy,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10101,Sucre,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Tarija,60101,Tarija,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Beni,80101,Trinidad,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Potosí,50801,Tupiza,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,15
+Santa Cruz,70801,Vallegrande,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20801,Viacha,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10801,Villa Serrano,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70403,Yapacani,2015,5,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Cochabamba,30601,Arque,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,21203,Batallas,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70401,Buena Vista,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+Cochabamba,30801,Cliza,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+Cochabamba,30101,Cochabamba,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,12
+Santa Cruz,70102,Cotoca,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,71106,Cuatro Cañadas,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20105,El Alto,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,16
+Santa Cruz,70105,El Torno,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10502,Huacareta,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,21105,La Asunta,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+La Paz,20101,La Paz,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,60
+La Paz,21202,Laja,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10501,Monteagudo,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Cochabamba,30302,Morochata,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Potosí,50101,Potosi,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,31205,Puerto Villarroel,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10101,Sucre,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Tarija,60101,Tarija,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,276
+Cochabamba,30803,Tolata,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Potosí,50801,Tupiza,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+La Paz,21103,Yanacachi,2015,6,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,71501,Ascencion De Guarayos,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,21303,Ayo Ayo,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,9
+Santa Cruz,70401,Buena Vista,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Cochabamba,30701,Capinota,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,30101,Cochabamba,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,7
+Santa Cruz,70105,El Torno,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20101,La Paz,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,8
+Chuquisaca,10501,Monteagudo,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+Chuquisaca,10702,San Lucas,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,71103,San Ramon Scz,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10101,Sucre,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Tarija,60101,Tarija,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20803,Tiawanacu,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Chuquisaca,10402,Tomina,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Beni,80101,Trinidad,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Potosí,50801,Tupiza,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,20
+Santa Cruz,70801,Vallegrande,2015,7,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,21203,Batallas,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,70401,Buena Vista,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Oruro,40201,Challapata,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Cochabamba,30101,Cochabamba,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Santa Cruz,70102,Cotoca,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Chuquisaca,10902,Culpina,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20105,El Alto,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,18
+Santa Cruz,70105,El Torno,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+Tarija,60601,Entre Rios Trj,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10502,Huacareta,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Oruro,40701,Huanuni,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20101,La Paz,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,10
+Santa Cruz,70701,Lagunillas,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,8
+La Paz,21202,Laja,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Oruro,40101,Oruro,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,70601,Portachuelo,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,10
+Potosí,50402,Ravelo,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10702,San Lucas,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,8
+Chuquisaca,10403,Sopachuy,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10101,Sucre,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,30401,Tarata,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Potosí,50801,Tupiza,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,9
+Santa Cruz,70801,Vallegrande,2015,8,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70401,Buena Vista,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,21304,Calamarca,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Chuquisaca,10701,Camargo,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,70706,Camiri,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,21101,Chulumani (v. De La Libertad),2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,18
+Cochabamba,30101,Cochabamba,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+La Paz,21701,Copacabana,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,70102,Cotoca,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,71106,Cuatro Cañadas,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20105,El Alto,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,12
+Santa Cruz,70105,El Torno,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Oruro,40701,Huanuni,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20101,La Paz,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,32
+Oruro,40101,Oruro,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Potosí,50101,Potosi,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,31205,Puerto Villarroel,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70503,Robore,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70402,San Carlos,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10702,San Lucas,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,11
+Chuquisaca,10403,Sopachuy,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10101,Sucre,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Potosí,50801,Tupiza,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,7
+Santa Cruz,70801,Vallegrande,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20801,Viacha,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,9
+Cochabamba,31003,Villa Tunari,2015,9,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20701,Apolo,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,70703,Cabezas,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Cochabamba,30701,Capinota,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,30101,Cochabamba,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,71301,Comarapa,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,71106,Cuatro Cañadas,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20105,El Alto,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,14
+Santa Cruz,70105,El Torno,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20405,Escoma,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Oruro,40701,Huanuni,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,21001,Inquisivi,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20101,La Paz,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,8
+Oruro,40101,Oruro,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Cochabamba,31205,Puerto Villarroel,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70501,San Jose De Chiquitos,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10702,San Lucas,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,21301,Sica Sica (villa Aroma),2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Tarija,60101,Tarija,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,112
+La Paz,20606,Tipuani,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+Cochabamba,30802,Toco,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Beni,80101,Trinidad,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,11
+Cochabamba,31003,Villa Tunari,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70201,Warnes,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70403,Yapacani,2015,10,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70401,Buena Vista,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70706,Camiri,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Cochabamba,30101,Cochabamba,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,71106,Cuatro Cañadas,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20105,El Alto,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+Santa Cruz,70105,El Torno,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Beni,80202,Guayaramerin,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,70705,Gutierrez,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Oruro,40701,Huanuni,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,21105,La Asunta,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Santa Cruz,70104,La Guardia,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,4
+La Paz,20101,La Paz,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,64
+Oruro,40101,Oruro,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,70503,Robore,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Oruro,40104,Soracachi,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Chuquisaca,10101,Sucre,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+La Paz,20803,Tiawanacu,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Cochabamba,30802,Toco,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,7
+Beni,80101,Trinidad,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,8
+Potosí,50801,Tupiza,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,30
+Oruro,40402,Turco,2015,11,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Cochabamba,30101,Cochabamba,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+La Paz,20105,El Alto,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,12
+Oruro,40701,Huanuni,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,6
+La Paz,20101,La Paz,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Oruro,40101,Oruro,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,3
+Chuquisaca,10403,Sopachuy,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,2
+Chuquisaca,10101,Sucre,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,5
+Tarija,60101,Tarija,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,228
+Beni,80101,Trinidad,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,32
+Potosí,50801,Tupiza,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,11
+Chuquisaca,10102,Yotala,2015,12,PCD referidas a Unidades de Calificacion de Discapacidad.,1
+Santa Cruz,70707,Boyuibe,2015,1,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,1,TOTAL,2
+Santa Cruz,70703,Cabezas,2015,1,TOTAL,1
+La Paz,20302,Caquiaviri,2015,1,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2015,1,TOTAL,2
+Cochabamba,30101,Cochabamba,2015,1,TOTAL,35
+Santa Cruz,71106,Cuatro Cañadas,2015,1,TOTAL,2
+La Paz,20105,El Alto,2015,1,TOTAL,7
+La Paz,20204,Huarina,2015,1,TOTAL,1
+La Paz,20101,La Paz,2015,1,TOTAL,6
+La Paz,21202,Laja,2015,1,TOTAL,1
+Oruro,40101,Oruro,2015,1,TOTAL,5
+Cochabamba,31001,Sacaba,2015,1,TOTAL,2
+Chuquisaca,10702,San Lucas,2015,1,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,1,TOTAL,4
+Chuquisaca,10101,Sucre,2015,1,TOTAL,2
+Tarija,60101,Tarija,2015,1,TOTAL,12
+Cochabamba,31402,Villa Rivero,2015,1,TOTAL,1
+Chuquisaca,10102,Yotala,2015,1,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2015,2,TOTAL,2
+Beni,80802,Baures,2015,2,TOTAL,1
+Chuquisaca,10701,Camargo,2015,2,TOTAL,1
+Potosí,50202,Chayanta,2015,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,2,TOTAL,2
+La Paz,21401,Coroico,2015,2,TOTAL,1
+La Paz,20105,El Alto,2015,2,TOTAL,6
+Oruro,40701,Huanuni,2015,2,TOTAL,1
+La Paz,20101,La Paz,2015,2,TOTAL,6
+La Paz,21202,Laja,2015,2,TOTAL,1
+Chuquisaca,10303,Mojocoya,2015,2,TOTAL,1
+Oruro,40101,Oruro,2015,2,TOTAL,5
+Potosí,50101,Potosi,2015,2,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2015,2,TOTAL,1
+Cochabamba,31001,Sacaba,2015,2,TOTAL,2
+Chuquisaca,10702,San Lucas,2015,2,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,2,TOTAL,18
+Chuquisaca,10403,Sopachuy,2015,2,TOTAL,2
+Tarija,60101,Tarija,2015,2,TOTAL,48
+Chuquisaca,10402,Tomina,2015,2,TOTAL,3
+Cochabamba,31003,Villa Tunari,2015,2,TOTAL,2
+La Paz,20701,Apolo,2015,3,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,3,TOTAL,1
+Chuquisaca,10701,Camargo,2015,3,TOTAL,4
+Cochabamba,30101,Cochabamba,2015,3,TOTAL,4
+Potosí,50601,Cotagaita,2015,3,TOTAL,3
+Santa Cruz,71106,Cuatro Cañadas,2015,3,TOTAL,1
+La Paz,20105,El Alto,2015,3,TOTAL,11
+Chuquisaca,10502,Huacareta,2015,3,TOTAL,1
+Oruro,40701,Huanuni,2015,3,TOTAL,6
+Chuquisaca,10304,Icla,2015,3,TOTAL,2
+La Paz,20101,La Paz,2015,3,TOTAL,4
+Chuquisaca,10501,Monteagudo,2015,3,TOTAL,3
+Santa Cruz,71001,Montero,2015,3,TOTAL,6
+Oruro,40101,Oruro,2015,3,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2015,3,TOTAL,1
+Potosí,50101,Potosi,2015,3,TOTAL,3
+Pando,90201,Puerto Rico,2015,3,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2015,3,TOTAL,3
+Santa Cruz,71201,San Matias,2015,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,3,TOTAL,9
+La Paz,21301,Sica Sica (villa Aroma),2015,3,TOTAL,2
+Chuquisaca,10403,Sopachuy,2015,3,TOTAL,3
+Chuquisaca,10101,Sucre,2015,3,TOTAL,3
+Cochabamba,30803,Tolata,2015,3,TOTAL,1
+Potosí,50801,Tupiza,2015,3,TOTAL,3
+Potosí,50201,Uncia,2015,3,TOTAL,51
+Chuquisaca,10201,Azurduy,2015,4,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,4,TOTAL,3
+La Paz,20302,Caquiaviri,2015,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,4,TOTAL,3
+Santa Cruz,71106,Cuatro Cañadas,2015,4,TOTAL,2
+La Paz,20105,El Alto,2015,4,TOTAL,22
+Santa Cruz,70105,El Torno,2015,4,TOTAL,1
+Tarija,60601,Entre Rios Trj,2015,4,TOTAL,1
+Oruro,40701,Huanuni,2015,4,TOTAL,1
+La Paz,20101,La Paz,2015,4,TOTAL,6
+La Paz,21202,Laja,2015,4,TOTAL,1
+Chuquisaca,10501,Monteagudo,2015,4,TOTAL,1
+Oruro,40101,Oruro,2015,4,TOTAL,5
+Potosí,50101,Potosi,2015,4,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2015,4,TOTAL,2
+Cochabamba,30901,Quillacollo,2015,4,TOTAL,2
+Beni,80201,Riberalta,2015,4,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2015,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,TOTAL,10
+Chuquisaca,10403,Sopachuy,2015,4,TOTAL,2
+Chuquisaca,10101,Sucre,2015,4,TOTAL,129
+Tarija,60101,Tarija,2015,4,TOTAL,306
+Beni,80101,Trinidad,2015,4,TOTAL,2
+Chuquisaca,10801,Villa Serrano,2015,4,TOTAL,1
+Santa Cruz,70201,Warnes,2015,4,TOTAL,1
+Santa Cruz,70403,Yapacani,2015,4,TOTAL,68
+Chuquisaca,10102,Yotala,2015,4,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,5,TOTAL,6
+Cochabamba,30701,Capinota,2015,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,5,TOTAL,3
+Santa Cruz,71101,Concepcion,2015,5,TOTAL,1
+La Paz,20105,El Alto,2015,5,TOTAL,9
+Santa Cruz,70105,El Torno,2015,5,TOTAL,3
+Oruro,40701,Huanuni,2015,5,TOTAL,5
+La Paz,20101,La Paz,2015,5,TOTAL,15
+Chuquisaca,10501,Monteagudo,2015,5,TOTAL,1
+Oruro,40101,Oruro,2015,5,TOTAL,5
+Santa Cruz,71401,Puerto Suarez,2015,5,TOTAL,1
+Santa Cruz,70503,Robore,2015,5,TOTAL,1
+Chuquisaca,10702,San Lucas,2015,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,5,TOTAL,4
+Chuquisaca,10403,Sopachuy,2015,5,TOTAL,2
+Chuquisaca,10101,Sucre,2015,5,TOTAL,4
+Tarija,60101,Tarija,2015,5,TOTAL,2
+Beni,80101,Trinidad,2015,5,TOTAL,1
+Potosí,50801,Tupiza,2015,5,TOTAL,15
+Santa Cruz,70801,Vallegrande,2015,5,TOTAL,1
+La Paz,20801,Viacha,2015,5,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2015,5,TOTAL,1
+Santa Cruz,70403,Yapacani,2015,5,TOTAL,4
+Cochabamba,30601,Arque,2015,6,TOTAL,1
+La Paz,21203,Batallas,2015,6,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,6,TOTAL,5
+Cochabamba,30801,Cliza,2015,6,TOTAL,6
+Cochabamba,30101,Cochabamba,2015,6,TOTAL,12
+Santa Cruz,70102,Cotoca,2015,6,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2015,6,TOTAL,2
+La Paz,20105,El Alto,2015,6,TOTAL,16
+Santa Cruz,70105,El Torno,2015,6,TOTAL,1
+Chuquisaca,10502,Huacareta,2015,6,TOTAL,1
+La Paz,21105,La Asunta,2015,6,TOTAL,3
+La Paz,20101,La Paz,2015,6,TOTAL,60
+La Paz,21202,Laja,2015,6,TOTAL,1
+Chuquisaca,10501,Monteagudo,2015,6,TOTAL,2
+Cochabamba,30302,Morochata,2015,6,TOTAL,1
+Potosí,50101,Potosi,2015,6,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2015,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,6,TOTAL,2
+Chuquisaca,10101,Sucre,2015,6,TOTAL,2
+Tarija,60101,Tarija,2015,6,TOTAL,276
+Cochabamba,30803,Tolata,2015,6,TOTAL,4
+Potosí,50801,Tupiza,2015,6,TOTAL,5
+La Paz,21103,Yanacachi,2015,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2015,7,TOTAL,2
+La Paz,21303,Ayo Ayo,2015,7,TOTAL,9
+Santa Cruz,70401,Buena Vista,2015,7,TOTAL,2
+Cochabamba,30701,Capinota,2015,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,7,TOTAL,7
+Santa Cruz,70105,El Torno,2015,7,TOTAL,1
+La Paz,20101,La Paz,2015,7,TOTAL,8
+Chuquisaca,10501,Monteagudo,2015,7,TOTAL,5
+Chuquisaca,10702,San Lucas,2015,7,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2015,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,TOTAL,2
+Chuquisaca,10101,Sucre,2015,7,TOTAL,3
+Tarija,60101,Tarija,2015,7,TOTAL,2
+La Paz,20803,Tiawanacu,2015,7,TOTAL,3
+Chuquisaca,10402,Tomina,2015,7,TOTAL,3
+Beni,80101,Trinidad,2015,7,TOTAL,1
+Potosí,50801,Tupiza,2015,7,TOTAL,20
+Santa Cruz,70801,Vallegrande,2015,7,TOTAL,1
+La Paz,21203,Batallas,2015,8,TOTAL,2
+Santa Cruz,70401,Buena Vista,2015,8,TOTAL,3
+Oruro,40201,Challapata,2015,8,TOTAL,4
+Cochabamba,30101,Cochabamba,2015,8,TOTAL,4
+Santa Cruz,70102,Cotoca,2015,8,TOTAL,4
+Chuquisaca,10902,Culpina,2015,8,TOTAL,2
+La Paz,20105,El Alto,2015,8,TOTAL,18
+Santa Cruz,70105,El Torno,2015,8,TOTAL,5
+Tarija,60601,Entre Rios Trj,2015,8,TOTAL,2
+Chuquisaca,10502,Huacareta,2015,8,TOTAL,1
+Oruro,40701,Huanuni,2015,8,TOTAL,2
+La Paz,20101,La Paz,2015,8,TOTAL,10
+Santa Cruz,70701,Lagunillas,2015,8,TOTAL,8
+La Paz,21202,Laja,2015,8,TOTAL,1
+Oruro,40101,Oruro,2015,8,TOTAL,3
+Santa Cruz,70601,Portachuelo,2015,8,TOTAL,10
+Potosí,50402,Ravelo,2015,8,TOTAL,1
+Chuquisaca,10702,San Lucas,2015,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,8,TOTAL,8
+Chuquisaca,10403,Sopachuy,2015,8,TOTAL,2
+Chuquisaca,10101,Sucre,2015,8,TOTAL,1
+Cochabamba,30401,Tarata,2015,8,TOTAL,2
+Potosí,50801,Tupiza,2015,8,TOTAL,9
+Santa Cruz,70801,Vallegrande,2015,8,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,9,TOTAL,1
+La Paz,21304,Calamarca,2015,9,TOTAL,3
+Chuquisaca,10701,Camargo,2015,9,TOTAL,3
+Santa Cruz,70706,Camiri,2015,9,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2015,9,TOTAL,18
+Cochabamba,30101,Cochabamba,2015,9,TOTAL,4
+La Paz,21701,Copacabana,2015,9,TOTAL,2
+Santa Cruz,70102,Cotoca,2015,9,TOTAL,2
+Santa Cruz,71106,Cuatro Cañadas,2015,9,TOTAL,1
+La Paz,20105,El Alto,2015,9,TOTAL,12
+Santa Cruz,70105,El Torno,2015,9,TOTAL,2
+Oruro,40701,Huanuni,2015,9,TOTAL,2
+La Paz,20101,La Paz,2015,9,TOTAL,32
+Oruro,40101,Oruro,2015,9,TOTAL,2
+Potosí,50101,Potosi,2015,9,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2015,9,TOTAL,1
+Santa Cruz,70503,Robore,2015,9,TOTAL,1
+Santa Cruz,70402,San Carlos,2015,9,TOTAL,1
+Chuquisaca,10702,San Lucas,2015,9,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,9,TOTAL,11
+Chuquisaca,10403,Sopachuy,2015,9,TOTAL,1
+Chuquisaca,10101,Sucre,2015,9,TOTAL,2
+Potosí,50801,Tupiza,2015,9,TOTAL,7
+Santa Cruz,70801,Vallegrande,2015,9,TOTAL,1
+La Paz,20801,Viacha,2015,9,TOTAL,9
+Cochabamba,31003,Villa Tunari,2015,9,TOTAL,1
+La Paz,20701,Apolo,2015,10,TOTAL,2
+Santa Cruz,70703,Cabezas,2015,10,TOTAL,2
+Cochabamba,30701,Capinota,2015,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,10,TOTAL,3
+Santa Cruz,71301,Comarapa,2015,10,TOTAL,3
+Santa Cruz,71106,Cuatro Cañadas,2015,10,TOTAL,1
+La Paz,20105,El Alto,2015,10,TOTAL,14
+Santa Cruz,70105,El Torno,2015,10,TOTAL,1
+La Paz,20405,Escoma,2015,10,TOTAL,4
+Oruro,40701,Huanuni,2015,10,TOTAL,2
+La Paz,21001,Inquisivi,2015,10,TOTAL,1
+La Paz,20101,La Paz,2015,10,TOTAL,8
+Oruro,40101,Oruro,2015,10,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2015,10,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2015,10,TOTAL,2
+Chuquisaca,10702,San Lucas,2015,10,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,10,TOTAL,1
+La Paz,21301,Sica Sica (villa Aroma),2015,10,TOTAL,1
+Tarija,60101,Tarija,2015,10,TOTAL,112
+La Paz,20606,Tipuani,2015,10,TOTAL,6
+Cochabamba,30802,Toco,2015,10,TOTAL,1
+Beni,80101,Trinidad,2015,10,TOTAL,11
+Cochabamba,31003,Villa Tunari,2015,10,TOTAL,1
+Santa Cruz,70201,Warnes,2015,10,TOTAL,1
+Santa Cruz,70403,Yapacani,2015,10,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,11,TOTAL,1
+Santa Cruz,70706,Camiri,2015,11,TOTAL,2
+Cochabamba,30101,Cochabamba,2015,11,TOTAL,2
+Santa Cruz,71106,Cuatro Cañadas,2015,11,TOTAL,1
+La Paz,20105,El Alto,2015,11,TOTAL,4
+Santa Cruz,70105,El Torno,2015,11,TOTAL,1
+Beni,80202,Guayaramerin,2015,11,TOTAL,3
+Santa Cruz,70705,Gutierrez,2015,11,TOTAL,2
+Oruro,40701,Huanuni,2015,11,TOTAL,2
+La Paz,21105,La Asunta,2015,11,TOTAL,3
+Santa Cruz,70104,La Guardia,2015,11,TOTAL,4
+La Paz,20101,La Paz,2015,11,TOTAL,64
+Oruro,40101,Oruro,2015,11,TOTAL,2
+Santa Cruz,70503,Robore,2015,11,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,11,TOTAL,2
+Oruro,40104,Soracachi,2015,11,TOTAL,1
+Chuquisaca,10101,Sucre,2015,11,TOTAL,2
+La Paz,20803,Tiawanacu,2015,11,TOTAL,1
+Cochabamba,30802,Toco,2015,11,TOTAL,7
+Beni,80101,Trinidad,2015,11,TOTAL,8
+Potosí,50801,Tupiza,2015,11,TOTAL,30
+Oruro,40402,Turco,2015,11,TOTAL,2
+Cochabamba,30101,Cochabamba,2015,12,TOTAL,1
+La Paz,20105,El Alto,2015,12,TOTAL,12
+Oruro,40701,Huanuni,2015,12,TOTAL,6
+La Paz,20101,La Paz,2015,12,TOTAL,1
+Oruro,40101,Oruro,2015,12,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,12,TOTAL,3
+Chuquisaca,10403,Sopachuy,2015,12,TOTAL,2
+Chuquisaca,10101,Sucre,2015,12,TOTAL,5
+Tarija,60101,Tarija,2015,12,TOTAL,228
+Beni,80101,Trinidad,2015,12,TOTAL,32
+Potosí,50801,Tupiza,2015,12,TOTAL,11
+Chuquisaca,10102,Yotala,2015,12,TOTAL,1

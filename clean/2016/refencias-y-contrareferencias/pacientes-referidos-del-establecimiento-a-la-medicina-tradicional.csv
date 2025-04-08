@@ -1,0 +1,405 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2016,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Potosí,50601,Cotagaita,2016,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2016,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2016,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60201,Padcaya,2016,1,Pacientes referidos del establecimiento a la medicina tradicional,5
+Santa Cruz,70404,San Juan De Yapacani,2016,1,Pacientes referidos del establecimiento a la medicina tradicional,6
+Tarija,60401,Uriondo (a. Concepcion),2016,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70403,Yapacani,2016,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2016,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10903,Las Carreras,2016,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10501,Monteagudo,2016,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60201,Padcaya,2016,2,Pacientes referidos del establecimiento a la medicina tradicional,4
+Tarija,60101,Tarija,2016,2,Pacientes referidos del establecimiento a la medicina tradicional,21
+Cochabamba,30403,Arbieto,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,2
+Potosí,50601,Cotagaita,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60502,El Puente(tja),2016,3,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10501,Monteagudo,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,2
+Potosí,50101,Potosi,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70402,San Carlos,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70404,San Juan De Yapacani,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,12
+Chuquisaca,10702,San Lucas,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60101,Tarija,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,39
+Potosí,50102,Tinguipaya,2016,3,Pacientes referidos del establecimiento a la medicina tradicional,7
+Cochabamba,30101,Cochabamba,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60502,El Puente(tja),2016,4,Pacientes referidos del establecimiento a la medicina tradicional,3
+Santa Cruz,71004,Fernandez Alonso,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,70104,La Guardia,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20101,La Paz,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,3
+Santa Cruz,70701,Lagunillas,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60201,Padcaya,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,2
+Cochabamba,30901,Quillacollo,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,3
+Potosí,50402,Ravelo,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70402,San Carlos,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70404,San Juan De Yapacani,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,9
+Chuquisaca,10702,San Lucas,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,18
+Tarija,60101,Tarija,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,27
+Potosí,50102,Tinguipaya,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,6
+Tarija,60303,Villa Montes,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,17
+Santa Cruz,70201,Warnes,2016,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,2
+Cochabamba,30101,Cochabamba,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60502,El Puente(tja),2016,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10405,El Villar,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,5
+Tarija,60601,Entre Rios Trj,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,5
+Beni,80202,Guayaramerin,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10502,Huacareta,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10304,Icla,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20102,Palca,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10103,Poroma,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,70402,San Carlos,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70404,San Juan De Yapacani,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,8
+Chuquisaca,10702,San Lucas,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,10
+Chuquisaca,10403,Sopachuy,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10202,Tarvita,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Potosí,50102,Tinguipaya,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60303,Villa Montes,2016,5,Pacientes referidos del establecimiento a la medicina tradicional,21
+Santa Cruz,71501,Ascencion De Guarayos,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70702,Charagua,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,21401,Coroico,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,3
+Santa Cruz,71106,Cuatro Cañadas,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60502,El Puente(tja),2016,6,Pacientes referidos del establecimiento a la medicina tradicional,3
+Santa Cruz,71004,Fernandez Alonso,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10501,Monteagudo,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60201,Padcaya,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10401,Padilla,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,4
+Chuquisaca,10103,Poroma,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,3
+Santa Cruz,70402,San Carlos,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70404,San Juan De Yapacani,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,12
+Chuquisaca,10702,San Lucas,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10101,Sucre,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10202,Tarvita,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,6
+Potosí,50102,Tinguipaya,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10402,Tomina,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60303,Villa Montes,2016,6,Pacientes referidos del establecimiento a la medicina tradicional,24
+Santa Cruz,71501,Ascencion De Guarayos,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10902,Culpina,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60502,El Puente(tja),2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10304,Icla,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,30
+Santa Cruz,70701,Lagunillas,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10903,Las Carreras,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71003,Mineros,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10303,Mojocoya,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10501,Monteagudo,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,6
+Oruro,40101,Oruro,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60201,Padcaya,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10103,Poroma,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,12
+Santa Cruz,70402,San Carlos,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70404,San Juan De Yapacani,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,12
+Chuquisaca,10101,Sucre,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,60
+Chuquisaca,10202,Tarvita,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,4
+Potosí,50102,Tinguipaya,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10402,Tomina,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60401,Uriondo (a. Concepcion),2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,4
+Tarija,60303,Villa Montes,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,22
+Santa Cruz,70201,Warnes,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60301,Yacuiba,2016,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70401,Buena Vista,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10902,Culpina,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60502,El Puente(tja),2016,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,8,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10303,Mojocoya,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,13
+Chuquisaca,10501,Monteagudo,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,7
+Oruro,40101,Oruro,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10103,Poroma,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,23
+Beni,80201,Riberalta,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70404,San Juan De Yapacani,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,5
+Chuquisaca,10702,San Lucas,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,35
+Chuquisaca,10403,Sopachuy,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10101,Sucre,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,15
+Chuquisaca,10202,Tarvita,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,7
+Potosí,50102,Tinguipaya,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,5
+Chuquisaca,10402,Tomina,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,70801,Vallegrande,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,14
+La Paz,20801,Viacha,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,15
+Tarija,60303,Villa Montes,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,25
+Tarija,60301,Yacuiba,2016,8,Pacientes referidos del establecimiento a la medicina tradicional,3
+Santa Cruz,71501,Ascencion De Guarayos,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70401,Buena Vista,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10701,Camargo,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60601,Entre Rios Trj,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,9,Pacientes referidos del establecimiento a la medicina tradicional,3
+Santa Cruz,70701,Lagunillas,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,8
+Chuquisaca,10303,Mojocoya,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+Oruro,40101,Oruro,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60201,Padcaya,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10103,Poroma,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,16
+Chuquisaca,10302,Presto,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,7
+Beni,80102,San Javier(bni),2016,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,70404,San Juan De Yapacani,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,12
+Chuquisaca,10702,San Lucas,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,6
+Chuquisaca,10101,Sucre,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,6
+Chuquisaca,10202,Tarvita,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,56
+Potosí,51202,Tomave,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+La Paz,20801,Viacha,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,15
+Tarija,60303,Villa Montes,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70201,Warnes,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,51
+Santa Cruz,70403,Yapacani,2016,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70401,Buena Vista,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,3
+Potosí,51103,Ckochas,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10502,Huacareta,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,5
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+La Paz,20101,La Paz,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10303,Mojocoya,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10501,Monteagudo,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+Oruro,40101,Oruro,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,11
+Chuquisaca,10103,Poroma,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,15
+Santa Cruz,71104,San Julian,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,97
+Chuquisaca,10101,Sucre,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,28
+Cochabamba,30401,Tarata,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60101,Tarija,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10202,Tarvita,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,12
+Chuquisaca,10402,Tomina,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60303,Villa Montes,2016,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,11,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10501,Monteagudo,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,7
+Chuquisaca,10103,Poroma,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,26
+Santa Cruz,70404,San Juan De Yapacani,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,8
+Santa Cruz,71104,San Julian,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,66
+Chuquisaca,10702,San Lucas,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,55
+Chuquisaca,10101,Sucre,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,103
+Chuquisaca,10202,Tarvita,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,32
+Potosí,50102,Tinguipaya,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,37
+Tarija,60303,Villa Montes,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,26
+Tarija,60301,Yacuiba,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,4
+Santa Cruz,70403,Yapacani,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60402,Yunchara,2016,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10501,Monteagudo,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10103,Poroma,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,11
+Cochabamba,31205,Puerto Villarroel,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71104,San Julian,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,75
+Chuquisaca,10702,San Lucas,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,9
+Chuquisaca,10202,Tarvita,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,2
+Potosí,50102,Tinguipaya,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,15
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60301,Yacuiba,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60402,Yunchara,2016,12,Pacientes referidos del establecimiento a la medicina tradicional,2
+Cochabamba,30101,Cochabamba,2016,1,TOTAL,1
+Potosí,50601,Cotagaita,2016,1,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2016,1,TOTAL,1
+La Paz,20105,El Alto,2016,1,TOTAL,1
+Tarija,60201,Padcaya,2016,1,TOTAL,5
+Santa Cruz,70404,San Juan De Yapacani,2016,1,TOTAL,6
+Tarija,60401,Uriondo (a. Concepcion),2016,1,TOTAL,1
+Santa Cruz,70403,Yapacani,2016,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,2,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2016,2,TOTAL,1
+Chuquisaca,10903,Las Carreras,2016,2,TOTAL,1
+Chuquisaca,10501,Monteagudo,2016,2,TOTAL,1
+Tarija,60201,Padcaya,2016,2,TOTAL,4
+Tarija,60101,Tarija,2016,2,TOTAL,21
+Cochabamba,30403,Arbieto,2016,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,3,TOTAL,2
+Potosí,50601,Cotagaita,2016,3,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2016,3,TOTAL,1
+Tarija,60502,El Puente(tja),2016,3,TOTAL,2
+Chuquisaca,10501,Monteagudo,2016,3,TOTAL,2
+Potosí,50101,Potosi,2016,3,TOTAL,1
+Santa Cruz,70402,San Carlos,2016,3,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2016,3,TOTAL,12
+Chuquisaca,10702,San Lucas,2016,3,TOTAL,3
+Tarija,60101,Tarija,2016,3,TOTAL,39
+Potosí,50102,Tinguipaya,2016,3,TOTAL,7
+Cochabamba,30101,Cochabamba,2016,4,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2016,4,TOTAL,1
+Tarija,60502,El Puente(tja),2016,4,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2016,4,TOTAL,2
+Santa Cruz,70104,La Guardia,2016,4,TOTAL,1
+La Paz,20101,La Paz,2016,4,TOTAL,3
+Santa Cruz,70701,Lagunillas,2016,4,TOTAL,1
+Tarija,60201,Padcaya,2016,4,TOTAL,2
+Cochabamba,30901,Quillacollo,2016,4,TOTAL,3
+Potosí,50402,Ravelo,2016,4,TOTAL,1
+Santa Cruz,70402,San Carlos,2016,4,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2016,4,TOTAL,9
+Chuquisaca,10702,San Lucas,2016,4,TOTAL,18
+Tarija,60101,Tarija,2016,4,TOTAL,27
+Potosí,50102,Tinguipaya,2016,4,TOTAL,6
+Tarija,60303,Villa Montes,2016,4,TOTAL,17
+Santa Cruz,70201,Warnes,2016,4,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,5,TOTAL,2
+Cochabamba,30101,Cochabamba,2016,5,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2016,5,TOTAL,1
+Tarija,60502,El Puente(tja),2016,5,TOTAL,1
+Chuquisaca,10405,El Villar,2016,5,TOTAL,5
+Tarija,60601,Entre Rios Trj,2016,5,TOTAL,5
+Beni,80202,Guayaramerin,2016,5,TOTAL,1
+Chuquisaca,10502,Huacareta,2016,5,TOTAL,1
+Chuquisaca,10304,Icla,2016,5,TOTAL,1
+La Paz,20102,Palca,2016,5,TOTAL,1
+Chuquisaca,10103,Poroma,2016,5,TOTAL,2
+Santa Cruz,70402,San Carlos,2016,5,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2016,5,TOTAL,8
+Chuquisaca,10702,San Lucas,2016,5,TOTAL,10
+Chuquisaca,10403,Sopachuy,2016,5,TOTAL,2
+Chuquisaca,10202,Tarvita,2016,5,TOTAL,1
+Potosí,50102,Tinguipaya,2016,5,TOTAL,2
+Tarija,60303,Villa Montes,2016,5,TOTAL,21
+Santa Cruz,71501,Ascencion De Guarayos,2016,6,TOTAL,1
+Santa Cruz,70702,Charagua,2016,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,6,TOTAL,1
+La Paz,21401,Coroico,2016,6,TOTAL,3
+Santa Cruz,71106,Cuatro Cañadas,2016,6,TOTAL,1
+Tarija,60502,El Puente(tja),2016,6,TOTAL,3
+Santa Cruz,71004,Fernandez Alonso,2016,6,TOTAL,1
+Chuquisaca,10501,Monteagudo,2016,6,TOTAL,2
+Tarija,60201,Padcaya,2016,6,TOTAL,3
+Chuquisaca,10401,Padilla,2016,6,TOTAL,4
+Chuquisaca,10103,Poroma,2016,6,TOTAL,3
+Santa Cruz,70402,San Carlos,2016,6,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2016,6,TOTAL,12
+Chuquisaca,10702,San Lucas,2016,6,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,TOTAL,1
+Chuquisaca,10101,Sucre,2016,6,TOTAL,2
+Chuquisaca,10202,Tarvita,2016,6,TOTAL,6
+Potosí,50102,Tinguipaya,2016,6,TOTAL,2
+Chuquisaca,10402,Tomina,2016,6,TOTAL,1
+Tarija,60303,Villa Montes,2016,6,TOTAL,24
+Santa Cruz,71501,Ascencion De Guarayos,2016,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,7,TOTAL,1
+Chuquisaca,10902,Culpina,2016,7,TOTAL,1
+Tarija,60502,El Puente(tja),2016,7,TOTAL,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,7,TOTAL,1
+Chuquisaca,10304,Icla,2016,7,TOTAL,30
+Santa Cruz,70701,Lagunillas,2016,7,TOTAL,2
+Chuquisaca,10903,Las Carreras,2016,7,TOTAL,1
+Santa Cruz,71003,Mineros,2016,7,TOTAL,3
+Chuquisaca,10303,Mojocoya,2016,7,TOTAL,1
+Chuquisaca,10501,Monteagudo,2016,7,TOTAL,6
+Oruro,40101,Oruro,2016,7,TOTAL,2
+Tarija,60201,Padcaya,2016,7,TOTAL,2
+Chuquisaca,10103,Poroma,2016,7,TOTAL,12
+Santa Cruz,70402,San Carlos,2016,7,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2016,7,TOTAL,12
+Chuquisaca,10101,Sucre,2016,7,TOTAL,60
+Chuquisaca,10202,Tarvita,2016,7,TOTAL,4
+Potosí,50102,Tinguipaya,2016,7,TOTAL,2
+Chuquisaca,10402,Tomina,2016,7,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2016,7,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2016,7,TOTAL,4
+Tarija,60303,Villa Montes,2016,7,TOTAL,22
+Santa Cruz,70201,Warnes,2016,7,TOTAL,1
+Tarija,60301,Yacuiba,2016,7,TOTAL,1
+Santa Cruz,70401,Buena Vista,2016,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,8,TOTAL,1
+Chuquisaca,10902,Culpina,2016,8,TOTAL,2
+Tarija,60502,El Puente(tja),2016,8,TOTAL,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,8,TOTAL,3
+Chuquisaca,10303,Mojocoya,2016,8,TOTAL,13
+Chuquisaca,10501,Monteagudo,2016,8,TOTAL,7
+Oruro,40101,Oruro,2016,8,TOTAL,2
+Chuquisaca,10103,Poroma,2016,8,TOTAL,23
+Beni,80201,Riberalta,2016,8,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2016,8,TOTAL,5
+Chuquisaca,10702,San Lucas,2016,8,TOTAL,35
+Chuquisaca,10403,Sopachuy,2016,8,TOTAL,3
+Chuquisaca,10101,Sucre,2016,8,TOTAL,15
+Chuquisaca,10202,Tarvita,2016,8,TOTAL,7
+Potosí,50102,Tinguipaya,2016,8,TOTAL,5
+Chuquisaca,10402,Tomina,2016,8,TOTAL,2
+Santa Cruz,70801,Vallegrande,2016,8,TOTAL,14
+La Paz,20801,Viacha,2016,8,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2016,8,TOTAL,15
+Tarija,60303,Villa Montes,2016,8,TOTAL,25
+Tarija,60301,Yacuiba,2016,8,TOTAL,3
+Santa Cruz,71501,Ascencion De Guarayos,2016,9,TOTAL,1
+Santa Cruz,70401,Buena Vista,2016,9,TOTAL,1
+Chuquisaca,10701,Camargo,2016,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,9,TOTAL,1
+La Paz,20105,El Alto,2016,9,TOTAL,3
+Tarija,60601,Entre Rios Trj,2016,9,TOTAL,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,9,TOTAL,3
+Santa Cruz,70701,Lagunillas,2016,9,TOTAL,8
+Chuquisaca,10303,Mojocoya,2016,9,TOTAL,2
+Oruro,40101,Oruro,2016,9,TOTAL,1
+Tarija,60201,Padcaya,2016,9,TOTAL,2
+Chuquisaca,10103,Poroma,2016,9,TOTAL,16
+Chuquisaca,10302,Presto,2016,9,TOTAL,7
+Beni,80102,San Javier(bni),2016,9,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2016,9,TOTAL,12
+Chuquisaca,10702,San Lucas,2016,9,TOTAL,6
+Chuquisaca,10101,Sucre,2016,9,TOTAL,6
+Chuquisaca,10202,Tarvita,2016,9,TOTAL,56
+Potosí,51202,Tomave,2016,9,TOTAL,2
+La Paz,20801,Viacha,2016,9,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2016,9,TOTAL,15
+Tarija,60303,Villa Montes,2016,9,TOTAL,1
+Santa Cruz,70201,Warnes,2016,9,TOTAL,51
+Santa Cruz,70403,Yapacani,2016,9,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,10,TOTAL,1
+Santa Cruz,70401,Buena Vista,2016,10,TOTAL,3
+Potosí,51103,Ckochas,2016,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,10,TOTAL,1
+Chuquisaca,10502,Huacareta,2016,10,TOTAL,5
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,10,TOTAL,2
+La Paz,20101,La Paz,2016,10,TOTAL,3
+Chuquisaca,10303,Mojocoya,2016,10,TOTAL,3
+Chuquisaca,10501,Monteagudo,2016,10,TOTAL,2
+Oruro,40101,Oruro,2016,10,TOTAL,11
+Chuquisaca,10103,Poroma,2016,10,TOTAL,15
+Santa Cruz,71104,San Julian,2016,10,TOTAL,97
+Chuquisaca,10101,Sucre,2016,10,TOTAL,28
+Cochabamba,30401,Tarata,2016,10,TOTAL,1
+Tarija,60101,Tarija,2016,10,TOTAL,1
+Chuquisaca,10202,Tarvita,2016,10,TOTAL,12
+Chuquisaca,10402,Tomina,2016,10,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2016,10,TOTAL,1
+Tarija,60303,Villa Montes,2016,10,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,11,TOTAL,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,11,TOTAL,2
+Chuquisaca,10501,Monteagudo,2016,11,TOTAL,7
+Chuquisaca,10103,Poroma,2016,11,TOTAL,26
+Santa Cruz,70404,San Juan De Yapacani,2016,11,TOTAL,8
+Santa Cruz,71104,San Julian,2016,11,TOTAL,66
+Chuquisaca,10702,San Lucas,2016,11,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,TOTAL,55
+Chuquisaca,10101,Sucre,2016,11,TOTAL,103
+Chuquisaca,10202,Tarvita,2016,11,TOTAL,32
+Potosí,50102,Tinguipaya,2016,11,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2016,11,TOTAL,37
+Tarija,60303,Villa Montes,2016,11,TOTAL,26
+Tarija,60301,Yacuiba,2016,11,TOTAL,4
+Santa Cruz,70403,Yapacani,2016,11,TOTAL,1
+Tarija,60402,Yunchara,2016,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,12,TOTAL,1
+La Paz,20105,El Alto,2016,12,TOTAL,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,12,TOTAL,1
+Chuquisaca,10501,Monteagudo,2016,12,TOTAL,1
+Chuquisaca,10103,Poroma,2016,12,TOTAL,11
+Cochabamba,31205,Puerto Villarroel,2016,12,TOTAL,1
+Santa Cruz,71104,San Julian,2016,12,TOTAL,75
+Chuquisaca,10702,San Lucas,2016,12,TOTAL,9
+Chuquisaca,10202,Tarvita,2016,12,TOTAL,2
+Potosí,50102,Tinguipaya,2016,12,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2016,12,TOTAL,15
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,12,TOTAL,1
+Tarija,60301,Yacuiba,2016,12,TOTAL,1
+Tarija,60402,Yunchara,2016,12,TOTAL,2

@@ -1,0 +1,1965 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20201,Achacachi,2011,1,Cesareas,3
+Cochabamba,30201,Aiquile,2011,1,Cesareas,8
+Santa Cruz,71501,Ascencion De Guarayos,2011,1,Cesareas,18
+Beni,80802,Baures,2011,1,Cesareas,1
+Tarija,60202,Bermejo,2011,1,Cesareas,20
+Chuquisaca,10701,Camargo,2011,1,Cesareas,9
+Santa Cruz,70706,Camiri,2011,1,Cesareas,30
+La Paz,22001,Caranavi,2011,1,Cesareas,18
+Oruro,40201,Challapata,2011,1,Cesareas,2
+Santa Cruz,70702,Charagua,2011,1,Cesareas,7
+La Paz,21101,Chulumani (v. De La Libertad),2011,1,Cesareas,2
+Pando,90101,Cobija,2011,1,Cesareas,54
+Cochabamba,30101,Cochabamba,2011,1,Cesareas,723
+Cochabamba,30905,Colcapirhua,2011,1,Cesareas,15
+Santa Cruz,71301,Comarapa,2011,1,Cesareas,6
+Santa Cruz,71101,Concepcion,2011,1,Cesareas,6
+La Paz,21401,Coroico,2011,1,Cesareas,11
+Santa Cruz,70102,Cotoca,2011,1,Cesareas,1
+Chuquisaca,10902,Culpina,2011,1,Cesareas,5
+La Paz,20105,El Alto,2011,1,Cesareas,252
+Santa Cruz,70105,El Torno,2011,1,Cesareas,11
+Beni,80202,Guayaramerin,2011,1,Cesareas,37
+Beni,80803,Huaracaje,2011,1,Cesareas,2
+La Paz,20101,La Paz,2011,1,Cesareas,557
+Potosí,50203,Llallagua,2011,1,Cesareas,9
+Beni,80801,Magdalena,2011,1,Cesareas,5
+Santa Cruz,70903,Mairana,2011,1,Cesareas,14
+Chuquisaca,10501,Monteagudo,2011,1,Cesareas,9
+Santa Cruz,71001,Montero,2011,1,Cesareas,98
+Oruro,40101,Oruro,2011,1,Cesareas,249
+Chuquisaca,10401,Padilla,2011,1,Cesareas,10
+Santa Cruz,70601,Portachuelo,2011,1,Cesareas,34
+Potosí,50101,Potosi,2011,1,Cesareas,77
+Santa Cruz,71402,Puerto Quijarro,2011,1,Cesareas,7
+Santa Cruz,71401,Puerto Suarez,2011,1,Cesareas,12
+Cochabamba,31205,Puerto Villarroel,2011,1,Cesareas,12
+Cochabamba,31401,Punata,2011,1,Cesareas,28
+Cochabamba,30901,Quillacollo,2011,1,Cesareas,35
+Beni,80301,Reyes,2011,1,Cesareas,2
+Beni,80201,Riberalta,2011,1,Cesareas,49
+Santa Cruz,70503,Robore,2011,1,Cesareas,12
+Beni,80304,Rurrenabaque,2011,1,Cesareas,5
+Cochabamba,31001,Sacaba,2011,1,Cesareas,46
+Santa Cruz,70901,Samaipata,2011,1,Cesareas,10
+Beni,80302,San Borja,2011,1,Cesareas,17
+La Paz,21502,San Buena Ventura,2011,1,Cesareas,4
+Santa Cruz,70402,San Carlos,2011,1,Cesareas,15
+Beni,80501,San Ignacio,2011,1,Cesareas,1
+Santa Cruz,70301,San Ignacio De Velasco,2011,1,Cesareas,34
+Santa Cruz,71102,San Javier(stc),2011,1,Cesareas,6
+Beni,80701,San Joaquin,2011,1,Cesareas,2
+Santa Cruz,70501,San Jose De Chiquitos,2011,1,Cesareas,8
+Santa Cruz,70404,San Juan De Yapacani,2011,1,Cesareas,2
+Santa Cruz,71104,San Julian,2011,1,Cesareas,2
+Beni,80702,San Ramon Beni,2011,1,Cesareas,3
+Santa Cruz,71103,San Ramon Scz,2011,1,Cesareas,5
+Beni,80401,Santa Ana,2011,1,Cesareas,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,Cesareas,1398
+Beni,80303,Santa Rosa,2011,1,Cesareas,3
+Cochabamba,31602,Shinaota,2011,1,Cesareas,21
+Chuquisaca,10403,Sopachuy,2011,1,Cesareas,1
+Chuquisaca,10101,Sucre,2011,1,Cesareas,209
+Chuquisaca,10601,Tarabuco,2011,1,Cesareas,2
+Tarija,60101,Tarija,2011,1,Cesareas,156
+Cochabamba,30903,Tiquipaya,2011,1,Cesareas,17
+Beni,80101,Trinidad,2011,1,Cesareas,85
+Potosí,50801,Tupiza,2011,1,Cesareas,8
+Potosí,51201,Uyuni,2011,1,Cesareas,10
+Santa Cruz,70801,Vallegrande,2011,1,Cesareas,21
+Tarija,60303,Villa Montes,2011,1,Cesareas,31
+Cochabamba,31003,Villa Tunari,2011,1,Cesareas,19
+Potosí,51501,Villazon,2011,1,Cesareas,14
+Cochabamba,30904,Vinto,2011,1,Cesareas,6
+Santa Cruz,70201,Warnes,2011,1,Cesareas,13
+Tarija,60301,Yacuiba,2011,1,Cesareas,50
+Santa Cruz,70403,Yapacani,2011,1,Cesareas,22
+Cochabamba,30201,Aiquile,2011,2,Cesareas,9
+Santa Cruz,71501,Ascencion De Guarayos,2011,2,Cesareas,8
+Beni,80802,Baures,2011,2,Cesareas,2
+Tarija,60202,Bermejo,2011,2,Cesareas,22
+Chuquisaca,10701,Camargo,2011,2,Cesareas,1
+Santa Cruz,70706,Camiri,2011,2,Cesareas,30
+La Paz,22001,Caranavi,2011,2,Cesareas,18
+Oruro,40201,Challapata,2011,2,Cesareas,3
+Santa Cruz,70702,Charagua,2011,2,Cesareas,15
+La Paz,21101,Chulumani (v. De La Libertad),2011,2,Cesareas,4
+Pando,90101,Cobija,2011,2,Cesareas,67
+Cochabamba,30101,Cochabamba,2011,2,Cesareas,639
+Cochabamba,30905,Colcapirhua,2011,2,Cesareas,17
+Santa Cruz,71301,Comarapa,2011,2,Cesareas,19
+Santa Cruz,71101,Concepcion,2011,2,Cesareas,8
+La Paz,21401,Coroico,2011,2,Cesareas,7
+Santa Cruz,70102,Cotoca,2011,2,Cesareas,6
+Chuquisaca,10902,Culpina,2011,2,Cesareas,3
+La Paz,20105,El Alto,2011,2,Cesareas,226
+Santa Cruz,70105,El Torno,2011,2,Cesareas,14
+Beni,80202,Guayaramerin,2011,2,Cesareas,37
+Beni,80803,Huaracaje,2011,2,Cesareas,1
+La Paz,20101,La Paz,2011,2,Cesareas,426
+Potosí,50203,Llallagua,2011,2,Cesareas,2
+Beni,80801,Magdalena,2011,2,Cesareas,6
+Santa Cruz,70903,Mairana,2011,2,Cesareas,9
+Chuquisaca,10501,Monteagudo,2011,2,Cesareas,15
+Santa Cruz,71001,Montero,2011,2,Cesareas,84
+Oruro,40101,Oruro,2011,2,Cesareas,252
+Chuquisaca,10401,Padilla,2011,2,Cesareas,3
+Santa Cruz,70601,Portachuelo,2011,2,Cesareas,27
+Potosí,50101,Potosi,2011,2,Cesareas,76
+Santa Cruz,71402,Puerto Quijarro,2011,2,Cesareas,9
+Santa Cruz,71401,Puerto Suarez,2011,2,Cesareas,17
+Cochabamba,31205,Puerto Villarroel,2011,2,Cesareas,6
+Cochabamba,31401,Punata,2011,2,Cesareas,35
+Cochabamba,30901,Quillacollo,2011,2,Cesareas,24
+Beni,80301,Reyes,2011,2,Cesareas,4
+Beni,80201,Riberalta,2011,2,Cesareas,49
+Santa Cruz,70503,Robore,2011,2,Cesareas,13
+Beni,80304,Rurrenabaque,2011,2,Cesareas,6
+Cochabamba,31001,Sacaba,2011,2,Cesareas,41
+Santa Cruz,70901,Samaipata,2011,2,Cesareas,8
+Beni,80302,San Borja,2011,2,Cesareas,25
+La Paz,21502,San Buena Ventura,2011,2,Cesareas,7
+Santa Cruz,70402,San Carlos,2011,2,Cesareas,13
+Beni,80501,San Ignacio,2011,2,Cesareas,7
+Santa Cruz,70301,San Ignacio De Velasco,2011,2,Cesareas,33
+Santa Cruz,71102,San Javier(stc),2011,2,Cesareas,5
+Beni,80701,San Joaquin,2011,2,Cesareas,5
+Santa Cruz,70501,San Jose De Chiquitos,2011,2,Cesareas,12
+Santa Cruz,70404,San Juan De Yapacani,2011,2,Cesareas,3
+Santa Cruz,71104,San Julian,2011,2,Cesareas,13
+Santa Cruz,71201,San Matias,2011,2,Cesareas,1
+Beni,80702,San Ramon Beni,2011,2,Cesareas,1
+Santa Cruz,71103,San Ramon Scz,2011,2,Cesareas,2
+Beni,80401,Santa Ana,2011,2,Cesareas,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,Cesareas,1583
+Beni,80303,Santa Rosa,2011,2,Cesareas,3
+Cochabamba,31602,Shinaota,2011,2,Cesareas,14
+Chuquisaca,10101,Sucre,2011,2,Cesareas,207
+Chuquisaca,10601,Tarabuco,2011,2,Cesareas,2
+Tarija,60101,Tarija,2011,2,Cesareas,149
+Chuquisaca,10202,Tarvita,2011,2,Cesareas,2
+Cochabamba,30903,Tiquipaya,2011,2,Cesareas,20
+Cochabamba,31201,Totora(cbba),2011,2,Cesareas,1
+Beni,80101,Trinidad,2011,2,Cesareas,130
+Potosí,50801,Tupiza,2011,2,Cesareas,15
+Potosí,51201,Uyuni,2011,2,Cesareas,12
+Santa Cruz,70801,Vallegrande,2011,2,Cesareas,9
+Tarija,60303,Villa Montes,2011,2,Cesareas,45
+Cochabamba,31003,Villa Tunari,2011,2,Cesareas,36
+Potosí,51501,Villazon,2011,2,Cesareas,6
+Cochabamba,30904,Vinto,2011,2,Cesareas,4
+Santa Cruz,70201,Warnes,2011,2,Cesareas,8
+Tarija,60301,Yacuiba,2011,2,Cesareas,64
+Santa Cruz,70403,Yapacani,2011,2,Cesareas,19
+Chuquisaca,10301,Zudañez,2011,2,Cesareas,1
+Cochabamba,30201,Aiquile,2011,3,Cesareas,17
+Santa Cruz,71501,Ascencion De Guarayos,2011,3,Cesareas,16
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,3,Cesareas,1
+Beni,80802,Baures,2011,3,Cesareas,1
+Tarija,60202,Bermejo,2011,3,Cesareas,14
+Chuquisaca,10701,Camargo,2011,3,Cesareas,2
+Santa Cruz,70706,Camiri,2011,3,Cesareas,35
+La Paz,22001,Caranavi,2011,3,Cesareas,27
+Oruro,40201,Challapata,2011,3,Cesareas,4
+Santa Cruz,70702,Charagua,2011,3,Cesareas,10
+La Paz,21101,Chulumani (v. De La Libertad),2011,3,Cesareas,5
+Pando,90101,Cobija,2011,3,Cesareas,68
+Cochabamba,30101,Cochabamba,2011,3,Cesareas,783
+Cochabamba,30905,Colcapirhua,2011,3,Cesareas,14
+Santa Cruz,71301,Comarapa,2011,3,Cesareas,10
+Santa Cruz,71101,Concepcion,2011,3,Cesareas,7
+La Paz,21401,Coroico,2011,3,Cesareas,7
+Santa Cruz,70102,Cotoca,2011,3,Cesareas,21
+Chuquisaca,10902,Culpina,2011,3,Cesareas,3
+La Paz,20105,El Alto,2011,3,Cesareas,204
+Santa Cruz,70105,El Torno,2011,3,Cesareas,12
+Beni,80202,Guayaramerin,2011,3,Cesareas,34
+Beni,80803,Huaracaje,2011,3,Cesareas,2
+La Paz,20101,La Paz,2011,3,Cesareas,563
+Potosí,50203,Llallagua,2011,3,Cesareas,4
+Beni,80801,Magdalena,2011,3,Cesareas,3
+Santa Cruz,70903,Mairana,2011,3,Cesareas,14
+Chuquisaca,10501,Monteagudo,2011,3,Cesareas,13
+Santa Cruz,71001,Montero,2011,3,Cesareas,120
+Potosí,50404,Ocuri,2011,3,Cesareas,2
+Oruro,40101,Oruro,2011,3,Cesareas,266
+Chuquisaca,10401,Padilla,2011,3,Cesareas,5
+Santa Cruz,70601,Portachuelo,2011,3,Cesareas,32
+Potosí,50101,Potosi,2011,3,Cesareas,79
+Santa Cruz,71402,Puerto Quijarro,2011,3,Cesareas,5
+Santa Cruz,71401,Puerto Suarez,2011,3,Cesareas,28
+Cochabamba,31205,Puerto Villarroel,2011,3,Cesareas,21
+Cochabamba,31401,Punata,2011,3,Cesareas,46
+Cochabamba,30901,Quillacollo,2011,3,Cesareas,45
+Beni,80301,Reyes,2011,3,Cesareas,1
+Beni,80201,Riberalta,2011,3,Cesareas,65
+Santa Cruz,70503,Robore,2011,3,Cesareas,6
+Beni,80304,Rurrenabaque,2011,3,Cesareas,16
+Cochabamba,31001,Sacaba,2011,3,Cesareas,47
+Santa Cruz,70901,Samaipata,2011,3,Cesareas,5
+Beni,80302,San Borja,2011,3,Cesareas,25
+La Paz,21502,San Buena Ventura,2011,3,Cesareas,6
+Santa Cruz,70402,San Carlos,2011,3,Cesareas,25
+Beni,80501,San Ignacio,2011,3,Cesareas,2
+Santa Cruz,70301,San Ignacio De Velasco,2011,3,Cesareas,33
+Santa Cruz,71102,San Javier(stc),2011,3,Cesareas,5
+Beni,80701,San Joaquin,2011,3,Cesareas,2
+Santa Cruz,70501,San Jose De Chiquitos,2011,3,Cesareas,14
+Santa Cruz,71104,San Julian,2011,3,Cesareas,4
+Santa Cruz,71201,San Matias,2011,3,Cesareas,3
+Beni,80702,San Ramon Beni,2011,3,Cesareas,4
+Santa Cruz,71103,San Ramon Scz,2011,3,Cesareas,8
+Beni,80401,Santa Ana,2011,3,Cesareas,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,Cesareas,1736
+Beni,80303,Santa Rosa,2011,3,Cesareas,2
+Cochabamba,31602,Shinaota,2011,3,Cesareas,12
+Chuquisaca,10403,Sopachuy,2011,3,Cesareas,3
+Chuquisaca,10101,Sucre,2011,3,Cesareas,213
+Chuquisaca,10601,Tarabuco,2011,3,Cesareas,1
+Tarija,60101,Tarija,2011,3,Cesareas,161
+Cochabamba,30903,Tiquipaya,2011,3,Cesareas,19
+Cochabamba,31201,Totora(cbba),2011,3,Cesareas,4
+Beni,80101,Trinidad,2011,3,Cesareas,107
+Potosí,50801,Tupiza,2011,3,Cesareas,11
+Potosí,51201,Uyuni,2011,3,Cesareas,8
+Santa Cruz,70801,Vallegrande,2011,3,Cesareas,27
+La Paz,20801,Viacha,2011,3,Cesareas,2
+Tarija,60303,Villa Montes,2011,3,Cesareas,27
+Cochabamba,31003,Villa Tunari,2011,3,Cesareas,37
+Potosí,51501,Villazon,2011,3,Cesareas,7
+Cochabamba,30904,Vinto,2011,3,Cesareas,1
+Santa Cruz,70201,Warnes,2011,3,Cesareas,7
+Tarija,60301,Yacuiba,2011,3,Cesareas,87
+Santa Cruz,70403,Yapacani,2011,3,Cesareas,15
+Cochabamba,30201,Aiquile,2011,4,Cesareas,21
+Santa Cruz,71501,Ascencion De Guarayos,2011,4,Cesareas,20
+Beni,80802,Baures,2011,4,Cesareas,2
+Tarija,60202,Bermejo,2011,4,Cesareas,17
+Chuquisaca,10701,Camargo,2011,4,Cesareas,10
+Santa Cruz,70706,Camiri,2011,4,Cesareas,37
+La Paz,22001,Caranavi,2011,4,Cesareas,21
+Oruro,40201,Challapata,2011,4,Cesareas,2
+Santa Cruz,70702,Charagua,2011,4,Cesareas,9
+La Paz,21101,Chulumani (v. De La Libertad),2011,4,Cesareas,5
+Pando,90101,Cobija,2011,4,Cesareas,58
+Cochabamba,30101,Cochabamba,2011,4,Cesareas,761
+Cochabamba,30905,Colcapirhua,2011,4,Cesareas,25
+Santa Cruz,71301,Comarapa,2011,4,Cesareas,9
+Santa Cruz,71101,Concepcion,2011,4,Cesareas,3
+La Paz,21401,Coroico,2011,4,Cesareas,7
+Santa Cruz,70102,Cotoca,2011,4,Cesareas,10
+Chuquisaca,10902,Culpina,2011,4,Cesareas,1
+La Paz,20105,El Alto,2011,4,Cesareas,276
+Santa Cruz,70105,El Torno,2011,4,Cesareas,11
+Beni,80202,Guayaramerin,2011,4,Cesareas,42
+Oruro,40701,Huanuni,2011,4,Cesareas,2
+La Paz,20806,Jesus De Machaca,2011,4,Cesareas,2
+La Paz,20101,La Paz,2011,4,Cesareas,571
+Potosí,50203,Llallagua,2011,4,Cesareas,8
+Beni,80801,Magdalena,2011,4,Cesareas,9
+Santa Cruz,70903,Mairana,2011,4,Cesareas,11
+Chuquisaca,10501,Monteagudo,2011,4,Cesareas,14
+Santa Cruz,71001,Montero,2011,4,Cesareas,124
+Oruro,40101,Oruro,2011,4,Cesareas,234
+Chuquisaca,10401,Padilla,2011,4,Cesareas,3
+La Paz,21305,Patacamaya,2011,4,Cesareas,2
+Santa Cruz,70601,Portachuelo,2011,4,Cesareas,25
+Potosí,50101,Potosi,2011,4,Cesareas,59
+Santa Cruz,71402,Puerto Quijarro,2011,4,Cesareas,8
+Santa Cruz,71401,Puerto Suarez,2011,4,Cesareas,28
+Cochabamba,31205,Puerto Villarroel,2011,4,Cesareas,9
+Cochabamba,31401,Punata,2011,4,Cesareas,39
+Cochabamba,30901,Quillacollo,2011,4,Cesareas,43
+Beni,80301,Reyes,2011,4,Cesareas,5
+Beni,80201,Riberalta,2011,4,Cesareas,71
+Santa Cruz,70503,Robore,2011,4,Cesareas,12
+Beni,80304,Rurrenabaque,2011,4,Cesareas,8
+Cochabamba,31001,Sacaba,2011,4,Cesareas,36
+Santa Cruz,70901,Samaipata,2011,4,Cesareas,1
+Beni,80302,San Borja,2011,4,Cesareas,29
+La Paz,21502,San Buena Ventura,2011,4,Cesareas,4
+Santa Cruz,70402,San Carlos,2011,4,Cesareas,12
+Beni,80501,San Ignacio,2011,4,Cesareas,4
+Santa Cruz,70301,San Ignacio De Velasco,2011,4,Cesareas,45
+Santa Cruz,71102,San Javier(stc),2011,4,Cesareas,4
+Beni,80701,San Joaquin,2011,4,Cesareas,7
+Santa Cruz,70501,San Jose De Chiquitos,2011,4,Cesareas,14
+Santa Cruz,70404,San Juan De Yapacani,2011,4,Cesareas,8
+Santa Cruz,71104,San Julian,2011,4,Cesareas,7
+Santa Cruz,71201,San Matias,2011,4,Cesareas,4
+Beni,80702,San Ramon Beni,2011,4,Cesareas,5
+Santa Cruz,71103,San Ramon Scz,2011,4,Cesareas,4
+Beni,80401,Santa Ana,2011,4,Cesareas,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,Cesareas,1586
+Cochabamba,31602,Shinaota,2011,4,Cesareas,20
+Chuquisaca,10403,Sopachuy,2011,4,Cesareas,2
+Chuquisaca,10101,Sucre,2011,4,Cesareas,222
+Tarija,60101,Tarija,2011,4,Cesareas,165
+Cochabamba,30903,Tiquipaya,2011,4,Cesareas,20
+Beni,80101,Trinidad,2011,4,Cesareas,132
+Potosí,50801,Tupiza,2011,4,Cesareas,6
+Potosí,51201,Uyuni,2011,4,Cesareas,12
+Santa Cruz,70801,Vallegrande,2011,4,Cesareas,22
+Tarija,60303,Villa Montes,2011,4,Cesareas,29
+Cochabamba,31003,Villa Tunari,2011,4,Cesareas,35
+Potosí,51501,Villazon,2011,4,Cesareas,7
+Cochabamba,30904,Vinto,2011,4,Cesareas,13
+Santa Cruz,70201,Warnes,2011,4,Cesareas,25
+Tarija,60301,Yacuiba,2011,4,Cesareas,57
+Santa Cruz,70403,Yapacani,2011,4,Cesareas,13
+La Paz,20201,Achacachi,2011,5,Cesareas,2
+Cochabamba,30201,Aiquile,2011,5,Cesareas,8
+Santa Cruz,71501,Ascencion De Guarayos,2011,5,Cesareas,26
+Beni,80802,Baures,2011,5,Cesareas,1
+Tarija,60202,Bermejo,2011,5,Cesareas,29
+Chuquisaca,10701,Camargo,2011,5,Cesareas,9
+Santa Cruz,70706,Camiri,2011,5,Cesareas,47
+La Paz,22001,Caranavi,2011,5,Cesareas,22
+Oruro,40201,Challapata,2011,5,Cesareas,4
+Santa Cruz,70702,Charagua,2011,5,Cesareas,7
+La Paz,21101,Chulumani (v. De La Libertad),2011,5,Cesareas,7
+Pando,90101,Cobija,2011,5,Cesareas,61
+Cochabamba,30101,Cochabamba,2011,5,Cesareas,769
+Cochabamba,30905,Colcapirhua,2011,5,Cesareas,15
+Santa Cruz,71301,Comarapa,2011,5,Cesareas,17
+Santa Cruz,71101,Concepcion,2011,5,Cesareas,10
+La Paz,21401,Coroico,2011,5,Cesareas,9
+Santa Cruz,70102,Cotoca,2011,5,Cesareas,7
+Chuquisaca,10902,Culpina,2011,5,Cesareas,3
+La Paz,20105,El Alto,2011,5,Cesareas,255
+Santa Cruz,70105,El Torno,2011,5,Cesareas,10
+La Paz,20405,Escoma,2011,5,Cesareas,1
+Beni,80202,Guayaramerin,2011,5,Cesareas,40
+Oruro,40701,Huanuni,2011,5,Cesareas,3
+La Paz,20101,La Paz,2011,5,Cesareas,559
+Potosí,50203,Llallagua,2011,5,Cesareas,3
+Beni,80801,Magdalena,2011,5,Cesareas,5
+Santa Cruz,70903,Mairana,2011,5,Cesareas,12
+Chuquisaca,10501,Monteagudo,2011,5,Cesareas,13
+Santa Cruz,71001,Montero,2011,5,Cesareas,120
+Oruro,40101,Oruro,2011,5,Cesareas,253
+Chuquisaca,10401,Padilla,2011,5,Cesareas,3
+La Paz,21305,Patacamaya,2011,5,Cesareas,3
+Santa Cruz,70601,Portachuelo,2011,5,Cesareas,25
+Potosí,50101,Potosi,2011,5,Cesareas,101
+Santa Cruz,71402,Puerto Quijarro,2011,5,Cesareas,4
+Santa Cruz,71401,Puerto Suarez,2011,5,Cesareas,25
+Cochabamba,31205,Puerto Villarroel,2011,5,Cesareas,8
+Cochabamba,31401,Punata,2011,5,Cesareas,46
+Cochabamba,30901,Quillacollo,2011,5,Cesareas,38
+Beni,80301,Reyes,2011,5,Cesareas,7
+Beni,80201,Riberalta,2011,5,Cesareas,74
+Santa Cruz,70503,Robore,2011,5,Cesareas,8
+Beni,80304,Rurrenabaque,2011,5,Cesareas,17
+Cochabamba,31001,Sacaba,2011,5,Cesareas,48
+Santa Cruz,70901,Samaipata,2011,5,Cesareas,8
+Beni,80302,San Borja,2011,5,Cesareas,27
+La Paz,21502,San Buena Ventura,2011,5,Cesareas,1
+Santa Cruz,70402,San Carlos,2011,5,Cesareas,20
+Beni,80501,San Ignacio,2011,5,Cesareas,1
+Santa Cruz,70301,San Ignacio De Velasco,2011,5,Cesareas,39
+Santa Cruz,71102,San Javier(stc),2011,5,Cesareas,8
+Beni,80701,San Joaquin,2011,5,Cesareas,5
+Santa Cruz,70501,San Jose De Chiquitos,2011,5,Cesareas,13
+Santa Cruz,70404,San Juan De Yapacani,2011,5,Cesareas,1
+Santa Cruz,71104,San Julian,2011,5,Cesareas,13
+Chuquisaca,10702,San Lucas,2011,5,Cesareas,1
+Santa Cruz,71201,San Matias,2011,5,Cesareas,4
+Beni,80702,San Ramon Beni,2011,5,Cesareas,3
+Santa Cruz,71103,San Ramon Scz,2011,5,Cesareas,2
+Beni,80401,Santa Ana,2011,5,Cesareas,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,Cesareas,1561
+Beni,80303,Santa Rosa,2011,5,Cesareas,2
+Cochabamba,31602,Shinaota,2011,5,Cesareas,28
+Chuquisaca,10403,Sopachuy,2011,5,Cesareas,1
+Chuquisaca,10101,Sucre,2011,5,Cesareas,190
+Chuquisaca,10601,Tarabuco,2011,5,Cesareas,1
+Tarija,60101,Tarija,2011,5,Cesareas,168
+Cochabamba,30903,Tiquipaya,2011,5,Cesareas,21
+Cochabamba,31201,Totora(cbba),2011,5,Cesareas,3
+Beni,80101,Trinidad,2011,5,Cesareas,122
+Potosí,50801,Tupiza,2011,5,Cesareas,10
+Potosí,51201,Uyuni,2011,5,Cesareas,10
+Santa Cruz,70801,Vallegrande,2011,5,Cesareas,17
+La Paz,20801,Viacha,2011,5,Cesareas,1
+Tarija,60303,Villa Montes,2011,5,Cesareas,39
+Cochabamba,31003,Villa Tunari,2011,5,Cesareas,48
+Potosí,51501,Villazon,2011,5,Cesareas,5
+Cochabamba,30904,Vinto,2011,5,Cesareas,13
+Santa Cruz,70201,Warnes,2011,5,Cesareas,27
+Tarija,60301,Yacuiba,2011,5,Cesareas,86
+Santa Cruz,70403,Yapacani,2011,5,Cesareas,26
+Chuquisaca,10102,Yotala,2011,5,Cesareas,3
+Chuquisaca,10301,Zudañez,2011,5,Cesareas,1
+La Paz,20201,Achacachi,2011,6,Cesareas,4
+Cochabamba,30201,Aiquile,2011,6,Cesareas,12
+Santa Cruz,71501,Ascencion De Guarayos,2011,6,Cesareas,9
+Potosí,50802,Atocha,2011,6,Cesareas,1
+Chuquisaca,10201,Azurduy,2011,6,Cesareas,1
+Beni,80802,Baures,2011,6,Cesareas,1
+Tarija,60202,Bermejo,2011,6,Cesareas,18
+Chuquisaca,10701,Camargo,2011,6,Cesareas,8
+Santa Cruz,70706,Camiri,2011,6,Cesareas,47
+La Paz,22001,Caranavi,2011,6,Cesareas,18
+Oruro,40201,Challapata,2011,6,Cesareas,2
+Santa Cruz,70702,Charagua,2011,6,Cesareas,10
+La Paz,21101,Chulumani (v. De La Libertad),2011,6,Cesareas,4
+Cochabamba,30801,Cliza,2011,6,Cesareas,5
+Pando,90101,Cobija,2011,6,Cesareas,69
+Cochabamba,30101,Cochabamba,2011,6,Cesareas,704
+Cochabamba,30905,Colcapirhua,2011,6,Cesareas,16
+Santa Cruz,71301,Comarapa,2011,6,Cesareas,15
+Santa Cruz,71101,Concepcion,2011,6,Cesareas,7
+La Paz,21401,Coroico,2011,6,Cesareas,10
+Santa Cruz,70102,Cotoca,2011,6,Cesareas,10
+Chuquisaca,10902,Culpina,2011,6,Cesareas,3
+La Paz,20105,El Alto,2011,6,Cesareas,304
+Santa Cruz,70105,El Torno,2011,6,Cesareas,6
+Tarija,60601,Entre Rios Trj,2011,6,Cesareas,2
+La Paz,20405,Escoma,2011,6,Cesareas,1
+Beni,80202,Guayaramerin,2011,6,Cesareas,47
+Oruro,40701,Huanuni,2011,6,Cesareas,5
+Chuquisaca,10703,Incahuasi,2011,6,Cesareas,1
+La Paz,20101,La Paz,2011,6,Cesareas,576
+Potosí,50203,Llallagua,2011,6,Cesareas,2
+Beni,80801,Magdalena,2011,6,Cesareas,3
+Santa Cruz,70903,Mairana,2011,6,Cesareas,10
+Chuquisaca,10501,Monteagudo,2011,6,Cesareas,15
+Santa Cruz,71001,Montero,2011,6,Cesareas,126
+Oruro,40101,Oruro,2011,6,Cesareas,216
+Chuquisaca,10401,Padilla,2011,6,Cesareas,6
+La Paz,21305,Patacamaya,2011,6,Cesareas,8
+Santa Cruz,70601,Portachuelo,2011,6,Cesareas,26
+Potosí,50101,Potosi,2011,6,Cesareas,112
+Santa Cruz,71402,Puerto Quijarro,2011,6,Cesareas,4
+Santa Cruz,71401,Puerto Suarez,2011,6,Cesareas,12
+Cochabamba,31205,Puerto Villarroel,2011,6,Cesareas,7
+Cochabamba,31401,Punata,2011,6,Cesareas,36
+Cochabamba,30901,Quillacollo,2011,6,Cesareas,35
+Beni,80301,Reyes,2011,6,Cesareas,4
+Beni,80201,Riberalta,2011,6,Cesareas,88
+Santa Cruz,70503,Robore,2011,6,Cesareas,4
+Beni,80304,Rurrenabaque,2011,6,Cesareas,12
+Cochabamba,31001,Sacaba,2011,6,Cesareas,50
+Santa Cruz,70901,Samaipata,2011,6,Cesareas,6
+Beni,80302,San Borja,2011,6,Cesareas,24
+La Paz,21502,San Buena Ventura,2011,6,Cesareas,4
+Santa Cruz,70402,San Carlos,2011,6,Cesareas,10
+Beni,80501,San Ignacio,2011,6,Cesareas,7
+Santa Cruz,70301,San Ignacio De Velasco,2011,6,Cesareas,38
+Santa Cruz,71102,San Javier(stc),2011,6,Cesareas,4
+Beni,80701,San Joaquin,2011,6,Cesareas,1
+Santa Cruz,70501,San Jose De Chiquitos,2011,6,Cesareas,9
+Santa Cruz,70404,San Juan De Yapacani,2011,6,Cesareas,1
+Santa Cruz,71104,San Julian,2011,6,Cesareas,12
+Santa Cruz,71201,San Matias,2011,6,Cesareas,3
+Santa Cruz,71103,San Ramon Scz,2011,6,Cesareas,1
+Beni,80401,Santa Ana,2011,6,Cesareas,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,Cesareas,1397
+Beni,80303,Santa Rosa,2011,6,Cesareas,1
+Cochabamba,31602,Shinaota,2011,6,Cesareas,7
+Chuquisaca,10403,Sopachuy,2011,6,Cesareas,2
+Chuquisaca,10101,Sucre,2011,6,Cesareas,201
+Chuquisaca,10601,Tarabuco,2011,6,Cesareas,1
+Tarija,60101,Tarija,2011,6,Cesareas,163
+Cochabamba,30903,Tiquipaya,2011,6,Cesareas,21
+Beni,80101,Trinidad,2011,6,Cesareas,94
+Potosí,50801,Tupiza,2011,6,Cesareas,11
+Potosí,51201,Uyuni,2011,6,Cesareas,15
+Santa Cruz,70801,Vallegrande,2011,6,Cesareas,17
+Tarija,60303,Villa Montes,2011,6,Cesareas,34
+Cochabamba,31003,Villa Tunari,2011,6,Cesareas,48
+Potosí,51501,Villazon,2011,6,Cesareas,7
+Cochabamba,30904,Vinto,2011,6,Cesareas,9
+Santa Cruz,70201,Warnes,2011,6,Cesareas,23
+Tarija,60301,Yacuiba,2011,6,Cesareas,64
+Santa Cruz,70403,Yapacani,2011,6,Cesareas,22
+La Paz,20201,Achacachi,2011,7,Cesareas,2
+Cochabamba,30201,Aiquile,2011,7,Cesareas,10
+Santa Cruz,71501,Ascencion De Guarayos,2011,7,Cesareas,12
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,7,Cesareas,2
+Chuquisaca,10201,Azurduy,2011,7,Cesareas,2
+Beni,80802,Baures,2011,7,Cesareas,2
+Tarija,60202,Bermejo,2011,7,Cesareas,26
+Chuquisaca,10701,Camargo,2011,7,Cesareas,5
+Santa Cruz,70706,Camiri,2011,7,Cesareas,37
+La Paz,22001,Caranavi,2011,7,Cesareas,12
+Oruro,40201,Challapata,2011,7,Cesareas,6
+Santa Cruz,70702,Charagua,2011,7,Cesareas,16
+La Paz,21101,Chulumani (v. De La Libertad),2011,7,Cesareas,6
+Cochabamba,30801,Cliza,2011,7,Cesareas,8
+Pando,90101,Cobija,2011,7,Cesareas,52
+Cochabamba,30101,Cochabamba,2011,7,Cesareas,759
+Cochabamba,30905,Colcapirhua,2011,7,Cesareas,25
+Santa Cruz,71301,Comarapa,2011,7,Cesareas,8
+Santa Cruz,71101,Concepcion,2011,7,Cesareas,10
+La Paz,21401,Coroico,2011,7,Cesareas,11
+Santa Cruz,70102,Cotoca,2011,7,Cesareas,1
+Chuquisaca,10902,Culpina,2011,7,Cesareas,3
+La Paz,20105,El Alto,2011,7,Cesareas,250
+Santa Cruz,70105,El Torno,2011,7,Cesareas,6
+Tarija,60601,Entre Rios Trj,2011,7,Cesareas,2
+Beni,80202,Guayaramerin,2011,7,Cesareas,41
+Oruro,40701,Huanuni,2011,7,Cesareas,5
+La Paz,20806,Jesus De Machaca,2011,7,Cesareas,1
+La Paz,20101,La Paz,2011,7,Cesareas,622
+Potosí,50203,Llallagua,2011,7,Cesareas,7
+Beni,80801,Magdalena,2011,7,Cesareas,2
+Santa Cruz,70903,Mairana,2011,7,Cesareas,6
+Chuquisaca,10501,Monteagudo,2011,7,Cesareas,19
+Santa Cruz,71001,Montero,2011,7,Cesareas,75
+Oruro,40101,Oruro,2011,7,Cesareas,252
+Chuquisaca,10401,Padilla,2011,7,Cesareas,6
+Santa Cruz,70502,Pailon,2011,7,Cesareas,2
+La Paz,21305,Patacamaya,2011,7,Cesareas,5
+Santa Cruz,70601,Portachuelo,2011,7,Cesareas,23
+Potosí,50101,Potosi,2011,7,Cesareas,93
+Santa Cruz,71402,Puerto Quijarro,2011,7,Cesareas,9
+Santa Cruz,71401,Puerto Suarez,2011,7,Cesareas,20
+Cochabamba,31205,Puerto Villarroel,2011,7,Cesareas,12
+Cochabamba,31401,Punata,2011,7,Cesareas,29
+Cochabamba,30901,Quillacollo,2011,7,Cesareas,42
+Beni,80301,Reyes,2011,7,Cesareas,3
+Beni,80201,Riberalta,2011,7,Cesareas,60
+Santa Cruz,70503,Robore,2011,7,Cesareas,11
+Beni,80304,Rurrenabaque,2011,7,Cesareas,8
+Cochabamba,31001,Sacaba,2011,7,Cesareas,33
+Santa Cruz,70901,Samaipata,2011,7,Cesareas,5
+Beni,80302,San Borja,2011,7,Cesareas,30
+La Paz,21502,San Buena Ventura,2011,7,Cesareas,3
+Santa Cruz,70402,San Carlos,2011,7,Cesareas,14
+Santa Cruz,70301,San Ignacio De Velasco,2011,7,Cesareas,43
+Santa Cruz,71102,San Javier(stc),2011,7,Cesareas,3
+Beni,80701,San Joaquin,2011,7,Cesareas,5
+Santa Cruz,70501,San Jose De Chiquitos,2011,7,Cesareas,10
+Santa Cruz,70404,San Juan De Yapacani,2011,7,Cesareas,5
+Santa Cruz,71104,San Julian,2011,7,Cesareas,3
+Santa Cruz,71201,San Matias,2011,7,Cesareas,3
+Beni,80401,Santa Ana,2011,7,Cesareas,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,Cesareas,1486
+Beni,80303,Santa Rosa,2011,7,Cesareas,2
+Cochabamba,31602,Shinaota,2011,7,Cesareas,5
+Chuquisaca,10403,Sopachuy,2011,7,Cesareas,4
+Chuquisaca,10101,Sucre,2011,7,Cesareas,202
+Chuquisaca,10601,Tarabuco,2011,7,Cesareas,1
+Tarija,60101,Tarija,2011,7,Cesareas,147
+Cochabamba,30903,Tiquipaya,2011,7,Cesareas,18
+Cochabamba,31201,Totora(cbba),2011,7,Cesareas,2
+Beni,80101,Trinidad,2011,7,Cesareas,105
+Potosí,50801,Tupiza,2011,7,Cesareas,10
+Potosí,51201,Uyuni,2011,7,Cesareas,24
+Santa Cruz,70801,Vallegrande,2011,7,Cesareas,12
+Tarija,60303,Villa Montes,2011,7,Cesareas,28
+Cochabamba,31003,Villa Tunari,2011,7,Cesareas,58
+Potosí,51501,Villazon,2011,7,Cesareas,11
+Cochabamba,30904,Vinto,2011,7,Cesareas,14
+Santa Cruz,70201,Warnes,2011,7,Cesareas,25
+Tarija,60301,Yacuiba,2011,7,Cesareas,61
+Santa Cruz,70403,Yapacani,2011,7,Cesareas,29
+La Paz,20201,Achacachi,2011,8,Cesareas,3
+Cochabamba,30201,Aiquile,2011,8,Cesareas,11
+Santa Cruz,71501,Ascencion De Guarayos,2011,8,Cesareas,9
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,8,Cesareas,1
+Chuquisaca,10201,Azurduy,2011,8,Cesareas,1
+Beni,80802,Baures,2011,8,Cesareas,1
+Tarija,60202,Bermejo,2011,8,Cesareas,21
+Chuquisaca,10701,Camargo,2011,8,Cesareas,3
+Santa Cruz,70706,Camiri,2011,8,Cesareas,31
+La Paz,22001,Caranavi,2011,8,Cesareas,4
+Oruro,40201,Challapata,2011,8,Cesareas,10
+Santa Cruz,70702,Charagua,2011,8,Cesareas,16
+La Paz,21101,Chulumani (v. De La Libertad),2011,8,Cesareas,5
+Cochabamba,30801,Cliza,2011,8,Cesareas,2
+Pando,90101,Cobija,2011,8,Cesareas,54
+Cochabamba,30101,Cochabamba,2011,8,Cesareas,730
+Cochabamba,30905,Colcapirhua,2011,8,Cesareas,17
+Santa Cruz,71301,Comarapa,2011,8,Cesareas,17
+Santa Cruz,71101,Concepcion,2011,8,Cesareas,6
+La Paz,21401,Coroico,2011,8,Cesareas,15
+Santa Cruz,70102,Cotoca,2011,8,Cesareas,7
+Chuquisaca,10902,Culpina,2011,8,Cesareas,2
+La Paz,20105,El Alto,2011,8,Cesareas,250
+Santa Cruz,70105,El Torno,2011,8,Cesareas,10
+Beni,80202,Guayaramerin,2011,8,Cesareas,32
+Oruro,40701,Huanuni,2011,8,Cesareas,9
+La Paz,20101,La Paz,2011,8,Cesareas,644
+Potosí,50203,Llallagua,2011,8,Cesareas,12
+Beni,80801,Magdalena,2011,8,Cesareas,10
+Santa Cruz,70903,Mairana,2011,8,Cesareas,4
+Chuquisaca,10501,Monteagudo,2011,8,Cesareas,23
+Santa Cruz,71001,Montero,2011,8,Cesareas,100
+Oruro,40101,Oruro,2011,8,Cesareas,267
+Chuquisaca,10401,Padilla,2011,8,Cesareas,9
+Santa Cruz,70502,Pailon,2011,8,Cesareas,9
+La Paz,21305,Patacamaya,2011,8,Cesareas,8
+Santa Cruz,70601,Portachuelo,2011,8,Cesareas,18
+Potosí,50101,Potosi,2011,8,Cesareas,230
+Santa Cruz,71402,Puerto Quijarro,2011,8,Cesareas,3
+Santa Cruz,71401,Puerto Suarez,2011,8,Cesareas,28
+Cochabamba,31205,Puerto Villarroel,2011,8,Cesareas,21
+Cochabamba,31401,Punata,2011,8,Cesareas,38
+Cochabamba,30901,Quillacollo,2011,8,Cesareas,65
+Beni,80301,Reyes,2011,8,Cesareas,4
+Beni,80201,Riberalta,2011,8,Cesareas,80
+Santa Cruz,70503,Robore,2011,8,Cesareas,7
+Beni,80304,Rurrenabaque,2011,8,Cesareas,15
+Cochabamba,31001,Sacaba,2011,8,Cesareas,47
+Santa Cruz,70901,Samaipata,2011,8,Cesareas,10
+Beni,80302,San Borja,2011,8,Cesareas,19
+La Paz,21502,San Buena Ventura,2011,8,Cesareas,4
+Santa Cruz,70402,San Carlos,2011,8,Cesareas,11
+Beni,80501,San Ignacio,2011,8,Cesareas,2
+Santa Cruz,70301,San Ignacio De Velasco,2011,8,Cesareas,51
+Santa Cruz,71102,San Javier(stc),2011,8,Cesareas,3
+Beni,80701,San Joaquin,2011,8,Cesareas,3
+Santa Cruz,70501,San Jose De Chiquitos,2011,8,Cesareas,9
+Santa Cruz,70404,San Juan De Yapacani,2011,8,Cesareas,1
+Santa Cruz,71104,San Julian,2011,8,Cesareas,7
+Santa Cruz,71201,San Matias,2011,8,Cesareas,3
+Beni,80702,San Ramon Beni,2011,8,Cesareas,7
+Beni,80401,Santa Ana,2011,8,Cesareas,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,Cesareas,1486
+Cochabamba,31602,Shinaota,2011,8,Cesareas,9
+Chuquisaca,10403,Sopachuy,2011,8,Cesareas,4
+Chuquisaca,10101,Sucre,2011,8,Cesareas,181
+Chuquisaca,10601,Tarabuco,2011,8,Cesareas,2
+Tarija,60101,Tarija,2011,8,Cesareas,187
+Chuquisaca,10202,Tarvita,2011,8,Cesareas,1
+Cochabamba,30903,Tiquipaya,2011,8,Cesareas,17
+Cochabamba,31201,Totora(cbba),2011,8,Cesareas,1
+Beni,80101,Trinidad,2011,8,Cesareas,115
+Potosí,50801,Tupiza,2011,8,Cesareas,5
+Potosí,51201,Uyuni,2011,8,Cesareas,16
+Santa Cruz,70801,Vallegrande,2011,8,Cesareas,14
+La Paz,20801,Viacha,2011,8,Cesareas,1
+Tarija,60303,Villa Montes,2011,8,Cesareas,31
+Cochabamba,31003,Villa Tunari,2011,8,Cesareas,51
+Potosí,51501,Villazon,2011,8,Cesareas,8
+Cochabamba,30904,Vinto,2011,8,Cesareas,12
+Santa Cruz,70201,Warnes,2011,8,Cesareas,19
+Tarija,60301,Yacuiba,2011,8,Cesareas,79
+Santa Cruz,70403,Yapacani,2011,8,Cesareas,18
+La Paz,20201,Achacachi,2011,9,Cesareas,3
+Cochabamba,30201,Aiquile,2011,9,Cesareas,6
+Santa Cruz,71501,Ascencion De Guarayos,2011,9,Cesareas,14
+Potosí,50802,Atocha,2011,9,Cesareas,1
+Chuquisaca,10201,Azurduy,2011,9,Cesareas,1
+Beni,80802,Baures,2011,9,Cesareas,1
+Tarija,60202,Bermejo,2011,9,Cesareas,26
+Chuquisaca,10701,Camargo,2011,9,Cesareas,7
+Santa Cruz,70706,Camiri,2011,9,Cesareas,36
+La Paz,22001,Caranavi,2011,9,Cesareas,23
+Oruro,40201,Challapata,2011,9,Cesareas,10
+Santa Cruz,70702,Charagua,2011,9,Cesareas,17
+La Paz,21101,Chulumani (v. De La Libertad),2011,9,Cesareas,9
+Pando,90101,Cobija,2011,9,Cesareas,48
+Cochabamba,30101,Cochabamba,2011,9,Cesareas,805
+Cochabamba,30905,Colcapirhua,2011,9,Cesareas,16
+Santa Cruz,71301,Comarapa,2011,9,Cesareas,8
+Santa Cruz,71101,Concepcion,2011,9,Cesareas,11
+La Paz,21401,Coroico,2011,9,Cesareas,11
+Santa Cruz,70102,Cotoca,2011,9,Cesareas,5
+Chuquisaca,10902,Culpina,2011,9,Cesareas,4
+La Paz,20105,El Alto,2011,9,Cesareas,257
+Santa Cruz,70105,El Torno,2011,9,Cesareas,15
+Tarija,60601,Entre Rios Trj,2011,9,Cesareas,2
+La Paz,20405,Escoma,2011,9,Cesareas,1
+Beni,80202,Guayaramerin,2011,9,Cesareas,29
+Oruro,40701,Huanuni,2011,9,Cesareas,1
+La Paz,20101,La Paz,2011,9,Cesareas,649
+Potosí,50203,Llallagua,2011,9,Cesareas,15
+Beni,80801,Magdalena,2011,9,Cesareas,5
+Santa Cruz,70903,Mairana,2011,9,Cesareas,5
+Chuquisaca,10501,Monteagudo,2011,9,Cesareas,16
+Santa Cruz,71001,Montero,2011,9,Cesareas,64
+Potosí,50404,Ocuri,2011,9,Cesareas,2
+Oruro,40101,Oruro,2011,9,Cesareas,245
+Chuquisaca,10401,Padilla,2011,9,Cesareas,4
+Santa Cruz,70502,Pailon,2011,9,Cesareas,1
+La Paz,21305,Patacamaya,2011,9,Cesareas,6
+Santa Cruz,70601,Portachuelo,2011,9,Cesareas,18
+Potosí,50101,Potosi,2011,9,Cesareas,134
+Santa Cruz,71402,Puerto Quijarro,2011,9,Cesareas,2
+Santa Cruz,71401,Puerto Suarez,2011,9,Cesareas,14
+Cochabamba,31205,Puerto Villarroel,2011,9,Cesareas,21
+Cochabamba,31401,Punata,2011,9,Cesareas,32
+Cochabamba,30901,Quillacollo,2011,9,Cesareas,75
+Beni,80301,Reyes,2011,9,Cesareas,5
+Beni,80201,Riberalta,2011,9,Cesareas,107
+Santa Cruz,70503,Robore,2011,9,Cesareas,8
+Beni,80304,Rurrenabaque,2011,9,Cesareas,8
+Cochabamba,31001,Sacaba,2011,9,Cesareas,42
+Santa Cruz,70901,Samaipata,2011,9,Cesareas,3
+Beni,80302,San Borja,2011,9,Cesareas,26
+La Paz,21502,San Buena Ventura,2011,9,Cesareas,2
+Santa Cruz,70402,San Carlos,2011,9,Cesareas,17
+Beni,80501,San Ignacio,2011,9,Cesareas,2
+Santa Cruz,70301,San Ignacio De Velasco,2011,9,Cesareas,31
+Santa Cruz,71102,San Javier(stc),2011,9,Cesareas,4
+Beni,80701,San Joaquin,2011,9,Cesareas,4
+Santa Cruz,70501,San Jose De Chiquitos,2011,9,Cesareas,12
+Santa Cruz,70404,San Juan De Yapacani,2011,9,Cesareas,3
+Santa Cruz,71104,San Julian,2011,9,Cesareas,11
+Chuquisaca,10702,San Lucas,2011,9,Cesareas,2
+Santa Cruz,71201,San Matias,2011,9,Cesareas,1
+Beni,80702,San Ramon Beni,2011,9,Cesareas,2
+Beni,80401,Santa Ana,2011,9,Cesareas,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,Cesareas,1430
+Cochabamba,31602,Shinaota,2011,9,Cesareas,3
+Chuquisaca,10403,Sopachuy,2011,9,Cesareas,2
+Chuquisaca,10101,Sucre,2011,9,Cesareas,192
+Chuquisaca,10601,Tarabuco,2011,9,Cesareas,3
+Tarija,60101,Tarija,2011,9,Cesareas,195
+Chuquisaca,10202,Tarvita,2011,9,Cesareas,2
+Cochabamba,30903,Tiquipaya,2011,9,Cesareas,31
+Cochabamba,31201,Totora(cbba),2011,9,Cesareas,1
+Beni,80101,Trinidad,2011,9,Cesareas,94
+Potosí,50801,Tupiza,2011,9,Cesareas,5
+Potosí,51201,Uyuni,2011,9,Cesareas,19
+Santa Cruz,70801,Vallegrande,2011,9,Cesareas,16
+La Paz,20801,Viacha,2011,9,Cesareas,4
+Tarija,60303,Villa Montes,2011,9,Cesareas,30
+Cochabamba,31003,Villa Tunari,2011,9,Cesareas,38
+Potosí,51501,Villazon,2011,9,Cesareas,5
+Cochabamba,30904,Vinto,2011,9,Cesareas,4
+Santa Cruz,70201,Warnes,2011,9,Cesareas,23
+Tarija,60301,Yacuiba,2011,9,Cesareas,49
+Santa Cruz,70403,Yapacani,2011,9,Cesareas,23
+La Paz,20201,Achacachi,2011,10,Cesareas,3
+Cochabamba,30201,Aiquile,2011,10,Cesareas,12
+Santa Cruz,71501,Ascencion De Guarayos,2011,10,Cesareas,9
+Potosí,50802,Atocha,2011,10,Cesareas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,10,Cesareas,1
+Chuquisaca,10201,Azurduy,2011,10,Cesareas,1
+Beni,80802,Baures,2011,10,Cesareas,2
+Tarija,60202,Bermejo,2011,10,Cesareas,16
+Chuquisaca,10701,Camargo,2011,10,Cesareas,8
+Santa Cruz,70706,Camiri,2011,10,Cesareas,42
+La Paz,22001,Caranavi,2011,10,Cesareas,17
+Oruro,40201,Challapata,2011,10,Cesareas,11
+Santa Cruz,70702,Charagua,2011,10,Cesareas,10
+La Paz,21101,Chulumani (v. De La Libertad),2011,10,Cesareas,9
+Cochabamba,30801,Cliza,2011,10,Cesareas,2
+Pando,90101,Cobija,2011,10,Cesareas,46
+Cochabamba,30101,Cochabamba,2011,10,Cesareas,798
+Cochabamba,30905,Colcapirhua,2011,10,Cesareas,16
+Santa Cruz,71301,Comarapa,2011,10,Cesareas,9
+Santa Cruz,71101,Concepcion,2011,10,Cesareas,9
+La Paz,21401,Coroico,2011,10,Cesareas,4
+Santa Cruz,70102,Cotoca,2011,10,Cesareas,7
+Chuquisaca,10902,Culpina,2011,10,Cesareas,4
+La Paz,20105,El Alto,2011,10,Cesareas,252
+Santa Cruz,70105,El Torno,2011,10,Cesareas,12
+La Paz,20405,Escoma,2011,10,Cesareas,2
+Beni,80202,Guayaramerin,2011,10,Cesareas,38
+Oruro,40701,Huanuni,2011,10,Cesareas,7
+La Paz,20101,La Paz,2011,10,Cesareas,613
+Potosí,50203,Llallagua,2011,10,Cesareas,14
+Beni,80801,Magdalena,2011,10,Cesareas,2
+Santa Cruz,70903,Mairana,2011,10,Cesareas,10
+Chuquisaca,10501,Monteagudo,2011,10,Cesareas,13
+Santa Cruz,71001,Montero,2011,10,Cesareas,79
+Potosí,50404,Ocuri,2011,10,Cesareas,2
+Oruro,40101,Oruro,2011,10,Cesareas,239
+Chuquisaca,10401,Padilla,2011,10,Cesareas,3
+Santa Cruz,70502,Pailon,2011,10,Cesareas,2
+La Paz,21305,Patacamaya,2011,10,Cesareas,10
+Santa Cruz,70601,Portachuelo,2011,10,Cesareas,19
+Potosí,50101,Potosi,2011,10,Cesareas,109
+Santa Cruz,71402,Puerto Quijarro,2011,10,Cesareas,2
+Santa Cruz,71401,Puerto Suarez,2011,10,Cesareas,19
+Cochabamba,31205,Puerto Villarroel,2011,10,Cesareas,22
+Cochabamba,31401,Punata,2011,10,Cesareas,26
+Cochabamba,30901,Quillacollo,2011,10,Cesareas,56
+Beni,80301,Reyes,2011,10,Cesareas,8
+Beni,80201,Riberalta,2011,10,Cesareas,96
+Santa Cruz,70503,Robore,2011,10,Cesareas,6
+Beni,80304,Rurrenabaque,2011,10,Cesareas,13
+Cochabamba,31001,Sacaba,2011,10,Cesareas,40
+Santa Cruz,70901,Samaipata,2011,10,Cesareas,6
+Beni,80302,San Borja,2011,10,Cesareas,28
+La Paz,21502,San Buena Ventura,2011,10,Cesareas,6
+Santa Cruz,70402,San Carlos,2011,10,Cesareas,7
+Beni,80501,San Ignacio,2011,10,Cesareas,1
+Santa Cruz,70301,San Ignacio De Velasco,2011,10,Cesareas,29
+Santa Cruz,71102,San Javier(stc),2011,10,Cesareas,4
+Beni,80701,San Joaquin,2011,10,Cesareas,7
+Santa Cruz,70501,San Jose De Chiquitos,2011,10,Cesareas,13
+Santa Cruz,70404,San Juan De Yapacani,2011,10,Cesareas,3
+Santa Cruz,71104,San Julian,2011,10,Cesareas,7
+Chuquisaca,10702,San Lucas,2011,10,Cesareas,1
+Beni,80702,San Ramon Beni,2011,10,Cesareas,3
+Beni,80401,Santa Ana,2011,10,Cesareas,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,Cesareas,1439
+Beni,80303,Santa Rosa,2011,10,Cesareas,3
+Cochabamba,31602,Shinaota,2011,10,Cesareas,4
+Chuquisaca,10403,Sopachuy,2011,10,Cesareas,2
+Chuquisaca,10101,Sucre,2011,10,Cesareas,207
+Chuquisaca,10601,Tarabuco,2011,10,Cesareas,3
+Tarija,60101,Tarija,2011,10,Cesareas,172
+Chuquisaca,10202,Tarvita,2011,10,Cesareas,1
+Cochabamba,30903,Tiquipaya,2011,10,Cesareas,21
+Cochabamba,31201,Totora(cbba),2011,10,Cesareas,1
+Beni,80101,Trinidad,2011,10,Cesareas,81
+Potosí,50801,Tupiza,2011,10,Cesareas,7
+Potosí,51201,Uyuni,2011,10,Cesareas,18
+Santa Cruz,70801,Vallegrande,2011,10,Cesareas,8
+Tarija,60303,Villa Montes,2011,10,Cesareas,30
+Cochabamba,31003,Villa Tunari,2011,10,Cesareas,51
+Potosí,51501,Villazon,2011,10,Cesareas,3
+Cochabamba,30904,Vinto,2011,10,Cesareas,11
+Santa Cruz,70201,Warnes,2011,10,Cesareas,22
+Tarija,60301,Yacuiba,2011,10,Cesareas,58
+Santa Cruz,70403,Yapacani,2011,10,Cesareas,16
+Chuquisaca,10102,Yotala,2011,10,Cesareas,1
+La Paz,20201,Achacachi,2011,11,Cesareas,3
+Cochabamba,30201,Aiquile,2011,11,Cesareas,5
+Santa Cruz,71501,Ascencion De Guarayos,2011,11,Cesareas,10
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,11,Cesareas,1
+Chuquisaca,10201,Azurduy,2011,11,Cesareas,2
+Beni,80802,Baures,2011,11,Cesareas,1
+Tarija,60202,Bermejo,2011,11,Cesareas,24
+Chuquisaca,10701,Camargo,2011,11,Cesareas,10
+Santa Cruz,70706,Camiri,2011,11,Cesareas,51
+La Paz,22001,Caranavi,2011,11,Cesareas,19
+Oruro,40201,Challapata,2011,11,Cesareas,6
+Santa Cruz,70702,Charagua,2011,11,Cesareas,18
+La Paz,21101,Chulumani (v. De La Libertad),2011,11,Cesareas,6
+Cochabamba,30801,Cliza,2011,11,Cesareas,1
+Pando,90101,Cobija,2011,11,Cesareas,61
+Cochabamba,30101,Cochabamba,2011,11,Cesareas,745
+Cochabamba,30905,Colcapirhua,2011,11,Cesareas,14
+Santa Cruz,71301,Comarapa,2011,11,Cesareas,12
+Santa Cruz,71101,Concepcion,2011,11,Cesareas,6
+La Paz,21401,Coroico,2011,11,Cesareas,6
+Santa Cruz,70102,Cotoca,2011,11,Cesareas,2
+Chuquisaca,10902,Culpina,2011,11,Cesareas,2
+La Paz,20105,El Alto,2011,11,Cesareas,254
+Santa Cruz,70105,El Torno,2011,11,Cesareas,15
+Tarija,60601,Entre Rios Trj,2011,11,Cesareas,3
+Beni,80202,Guayaramerin,2011,11,Cesareas,40
+Oruro,40701,Huanuni,2011,11,Cesareas,9
+Beni,80803,Huaracaje,2011,11,Cesareas,1
+La Paz,20101,La Paz,2011,11,Cesareas,632
+Potosí,50203,Llallagua,2011,11,Cesareas,10
+Beni,80801,Magdalena,2011,11,Cesareas,7
+Santa Cruz,70903,Mairana,2011,11,Cesareas,10
+Chuquisaca,10501,Monteagudo,2011,11,Cesareas,14
+Santa Cruz,71001,Montero,2011,11,Cesareas,98
+Potosí,50404,Ocuri,2011,11,Cesareas,1
+Oruro,40101,Oruro,2011,11,Cesareas,256
+Chuquisaca,10401,Padilla,2011,11,Cesareas,4
+Santa Cruz,70502,Pailon,2011,11,Cesareas,4
+La Paz,21305,Patacamaya,2011,11,Cesareas,4
+Santa Cruz,70601,Portachuelo,2011,11,Cesareas,17
+Potosí,50101,Potosi,2011,11,Cesareas,101
+Santa Cruz,71402,Puerto Quijarro,2011,11,Cesareas,4
+Santa Cruz,71401,Puerto Suarez,2011,11,Cesareas,21
+Cochabamba,31205,Puerto Villarroel,2011,11,Cesareas,18
+Cochabamba,31401,Punata,2011,11,Cesareas,25
+Cochabamba,30901,Quillacollo,2011,11,Cesareas,49
+Beni,80301,Reyes,2011,11,Cesareas,3
+Beni,80201,Riberalta,2011,11,Cesareas,68
+Santa Cruz,70503,Robore,2011,11,Cesareas,10
+Beni,80304,Rurrenabaque,2011,11,Cesareas,15
+Cochabamba,31001,Sacaba,2011,11,Cesareas,39
+Santa Cruz,70901,Samaipata,2011,11,Cesareas,4
+Beni,80302,San Borja,2011,11,Cesareas,19
+La Paz,21502,San Buena Ventura,2011,11,Cesareas,2
+Santa Cruz,70402,San Carlos,2011,11,Cesareas,12
+Beni,80501,San Ignacio,2011,11,Cesareas,4
+Santa Cruz,70301,San Ignacio De Velasco,2011,11,Cesareas,28
+Santa Cruz,71102,San Javier(stc),2011,11,Cesareas,5
+Beni,80701,San Joaquin,2011,11,Cesareas,14
+Santa Cruz,70501,San Jose De Chiquitos,2011,11,Cesareas,17
+Santa Cruz,70404,San Juan De Yapacani,2011,11,Cesareas,1
+Santa Cruz,71104,San Julian,2011,11,Cesareas,4
+Beni,80702,San Ramon Beni,2011,11,Cesareas,3
+Santa Cruz,71103,San Ramon Scz,2011,11,Cesareas,1
+Beni,80401,Santa Ana,2011,11,Cesareas,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,Cesareas,1423
+Beni,80303,Santa Rosa,2011,11,Cesareas,1
+Cochabamba,31602,Shinaota,2011,11,Cesareas,4
+Chuquisaca,10403,Sopachuy,2011,11,Cesareas,1
+Chuquisaca,10101,Sucre,2011,11,Cesareas,123
+Chuquisaca,10601,Tarabuco,2011,11,Cesareas,6
+Tarija,60101,Tarija,2011,11,Cesareas,184
+Chuquisaca,10202,Tarvita,2011,11,Cesareas,3
+Cochabamba,30903,Tiquipaya,2011,11,Cesareas,26
+Cochabamba,31201,Totora(cbba),2011,11,Cesareas,4
+Beni,80101,Trinidad,2011,11,Cesareas,72
+Potosí,50801,Tupiza,2011,11,Cesareas,5
+Potosí,51201,Uyuni,2011,11,Cesareas,22
+Santa Cruz,70801,Vallegrande,2011,11,Cesareas,12
+Tarija,60303,Villa Montes,2011,11,Cesareas,30
+Cochabamba,31003,Villa Tunari,2011,11,Cesareas,55
+Potosí,51501,Villazon,2011,11,Cesareas,9
+Cochabamba,30904,Vinto,2011,11,Cesareas,9
+Santa Cruz,70201,Warnes,2011,11,Cesareas,17
+Tarija,60301,Yacuiba,2011,11,Cesareas,63
+Santa Cruz,70403,Yapacani,2011,11,Cesareas,8
+Chuquisaca,10102,Yotala,2011,11,Cesareas,1
+La Paz,20201,Achacachi,2011,12,Cesareas,2
+Cochabamba,30201,Aiquile,2011,12,Cesareas,7
+Santa Cruz,71501,Ascencion De Guarayos,2011,12,Cesareas,9
+Chuquisaca,10201,Azurduy,2011,12,Cesareas,1
+Beni,80802,Baures,2011,12,Cesareas,1
+Tarija,60202,Bermejo,2011,12,Cesareas,16
+Chuquisaca,10701,Camargo,2011,12,Cesareas,13
+Santa Cruz,70706,Camiri,2011,12,Cesareas,52
+La Paz,22001,Caranavi,2011,12,Cesareas,16
+Oruro,40201,Challapata,2011,12,Cesareas,7
+Santa Cruz,70702,Charagua,2011,12,Cesareas,7
+La Paz,21101,Chulumani (v. De La Libertad),2011,12,Cesareas,6
+Cochabamba,30801,Cliza,2011,12,Cesareas,1
+Pando,90101,Cobija,2011,12,Cesareas,64
+Cochabamba,30101,Cochabamba,2011,12,Cesareas,788
+Cochabamba,30905,Colcapirhua,2011,12,Cesareas,21
+Santa Cruz,71301,Comarapa,2011,12,Cesareas,11
+Santa Cruz,71101,Concepcion,2011,12,Cesareas,4
+La Paz,21401,Coroico,2011,12,Cesareas,11
+Santa Cruz,70102,Cotoca,2011,12,Cesareas,7
+Chuquisaca,10902,Culpina,2011,12,Cesareas,2
+La Paz,20105,El Alto,2011,12,Cesareas,247
+Santa Cruz,70105,El Torno,2011,12,Cesareas,10
+Tarija,60601,Entre Rios Trj,2011,12,Cesareas,2
+Beni,80202,Guayaramerin,2011,12,Cesareas,38
+Oruro,40701,Huanuni,2011,12,Cesareas,12
+Beni,80803,Huaracaje,2011,12,Cesareas,1
+La Paz,20101,La Paz,2011,12,Cesareas,589
+Potosí,50203,Llallagua,2011,12,Cesareas,5
+Beni,80801,Magdalena,2011,12,Cesareas,7
+Santa Cruz,70903,Mairana,2011,12,Cesareas,14
+Chuquisaca,10501,Monteagudo,2011,12,Cesareas,24
+Santa Cruz,71001,Montero,2011,12,Cesareas,79
+Oruro,40101,Oruro,2011,12,Cesareas,266
+Chuquisaca,10401,Padilla,2011,12,Cesareas,8
+Santa Cruz,70502,Pailon,2011,12,Cesareas,9
+La Paz,21305,Patacamaya,2011,12,Cesareas,5
+Santa Cruz,70601,Portachuelo,2011,12,Cesareas,25
+Potosí,50101,Potosi,2011,12,Cesareas,98
+Santa Cruz,71401,Puerto Suarez,2011,12,Cesareas,19
+Cochabamba,31205,Puerto Villarroel,2011,12,Cesareas,29
+Cochabamba,31401,Punata,2011,12,Cesareas,20
+Cochabamba,30901,Quillacollo,2011,12,Cesareas,56
+Beni,80301,Reyes,2011,12,Cesareas,8
+Beni,80201,Riberalta,2011,12,Cesareas,102
+Santa Cruz,70503,Robore,2011,12,Cesareas,3
+Beni,80304,Rurrenabaque,2011,12,Cesareas,16
+Cochabamba,31001,Sacaba,2011,12,Cesareas,47
+Santa Cruz,70901,Samaipata,2011,12,Cesareas,7
+Beni,80302,San Borja,2011,12,Cesareas,24
+La Paz,21502,San Buena Ventura,2011,12,Cesareas,3
+Santa Cruz,70402,San Carlos,2011,12,Cesareas,9
+Beni,80501,San Ignacio,2011,12,Cesareas,1
+Santa Cruz,70301,San Ignacio De Velasco,2011,12,Cesareas,28
+Santa Cruz,71102,San Javier(stc),2011,12,Cesareas,3
+Beni,80701,San Joaquin,2011,12,Cesareas,6
+Santa Cruz,70501,San Jose De Chiquitos,2011,12,Cesareas,3
+Santa Cruz,70404,San Juan De Yapacani,2011,12,Cesareas,3
+Santa Cruz,71104,San Julian,2011,12,Cesareas,4
+Chuquisaca,10702,San Lucas,2011,12,Cesareas,1
+Beni,80702,San Ramon Beni,2011,12,Cesareas,7
+Beni,80401,Santa Ana,2011,12,Cesareas,26
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,Cesareas,1471
+Beni,80303,Santa Rosa,2011,12,Cesareas,6
+Cochabamba,31602,Shinaota,2011,12,Cesareas,4
+Chuquisaca,10403,Sopachuy,2011,12,Cesareas,2
+Chuquisaca,10101,Sucre,2011,12,Cesareas,212
+Tarija,60101,Tarija,2011,12,Cesareas,192
+Cochabamba,30903,Tiquipaya,2011,12,Cesareas,22
+Cochabamba,31201,Totora(cbba),2011,12,Cesareas,4
+Beni,80101,Trinidad,2011,12,Cesareas,87
+Potosí,50801,Tupiza,2011,12,Cesareas,10
+Potosí,51201,Uyuni,2011,12,Cesareas,24
+Santa Cruz,70801,Vallegrande,2011,12,Cesareas,9
+Tarija,60303,Villa Montes,2011,12,Cesareas,40
+Cochabamba,31003,Villa Tunari,2011,12,Cesareas,48
+Potosí,51501,Villazon,2011,12,Cesareas,8
+Cochabamba,30904,Vinto,2011,12,Cesareas,10
+Santa Cruz,70201,Warnes,2011,12,Cesareas,20
+Tarija,60301,Yacuiba,2011,12,Cesareas,75
+Santa Cruz,70403,Yapacani,2011,12,Cesareas,7
+La Paz,20201,Achacachi,2011,1,TOTAL,3
+Cochabamba,30201,Aiquile,2011,1,TOTAL,8
+Santa Cruz,71501,Ascencion De Guarayos,2011,1,TOTAL,18
+Beni,80802,Baures,2011,1,TOTAL,1
+Tarija,60202,Bermejo,2011,1,TOTAL,20
+Chuquisaca,10701,Camargo,2011,1,TOTAL,9
+Santa Cruz,70706,Camiri,2011,1,TOTAL,30
+La Paz,22001,Caranavi,2011,1,TOTAL,18
+Oruro,40201,Challapata,2011,1,TOTAL,2
+Santa Cruz,70702,Charagua,2011,1,TOTAL,7
+La Paz,21101,Chulumani (v. De La Libertad),2011,1,TOTAL,2
+Pando,90101,Cobija,2011,1,TOTAL,54
+Cochabamba,30101,Cochabamba,2011,1,TOTAL,723
+Cochabamba,30905,Colcapirhua,2011,1,TOTAL,15
+Santa Cruz,71301,Comarapa,2011,1,TOTAL,6
+Santa Cruz,71101,Concepcion,2011,1,TOTAL,6
+La Paz,21401,Coroico,2011,1,TOTAL,11
+Santa Cruz,70102,Cotoca,2011,1,TOTAL,1
+Chuquisaca,10902,Culpina,2011,1,TOTAL,5
+La Paz,20105,El Alto,2011,1,TOTAL,252
+Santa Cruz,70105,El Torno,2011,1,TOTAL,11
+Beni,80202,Guayaramerin,2011,1,TOTAL,37
+Beni,80803,Huaracaje,2011,1,TOTAL,2
+La Paz,20101,La Paz,2011,1,TOTAL,557
+Potosí,50203,Llallagua,2011,1,TOTAL,9
+Beni,80801,Magdalena,2011,1,TOTAL,5
+Santa Cruz,70903,Mairana,2011,1,TOTAL,14
+Chuquisaca,10501,Monteagudo,2011,1,TOTAL,9
+Santa Cruz,71001,Montero,2011,1,TOTAL,98
+Oruro,40101,Oruro,2011,1,TOTAL,249
+Chuquisaca,10401,Padilla,2011,1,TOTAL,10
+Santa Cruz,70601,Portachuelo,2011,1,TOTAL,34
+Potosí,50101,Potosi,2011,1,TOTAL,77
+Santa Cruz,71402,Puerto Quijarro,2011,1,TOTAL,7
+Santa Cruz,71401,Puerto Suarez,2011,1,TOTAL,12
+Cochabamba,31205,Puerto Villarroel,2011,1,TOTAL,12
+Cochabamba,31401,Punata,2011,1,TOTAL,28
+Cochabamba,30901,Quillacollo,2011,1,TOTAL,35
+Beni,80301,Reyes,2011,1,TOTAL,2
+Beni,80201,Riberalta,2011,1,TOTAL,49
+Santa Cruz,70503,Robore,2011,1,TOTAL,12
+Beni,80304,Rurrenabaque,2011,1,TOTAL,5
+Cochabamba,31001,Sacaba,2011,1,TOTAL,46
+Santa Cruz,70901,Samaipata,2011,1,TOTAL,10
+Beni,80302,San Borja,2011,1,TOTAL,17
+La Paz,21502,San Buena Ventura,2011,1,TOTAL,4
+Santa Cruz,70402,San Carlos,2011,1,TOTAL,15
+Beni,80501,San Ignacio,2011,1,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2011,1,TOTAL,34
+Santa Cruz,71102,San Javier(stc),2011,1,TOTAL,6
+Beni,80701,San Joaquin,2011,1,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2011,1,TOTAL,8
+Santa Cruz,70404,San Juan De Yapacani,2011,1,TOTAL,2
+Santa Cruz,71104,San Julian,2011,1,TOTAL,2
+Beni,80702,San Ramon Beni,2011,1,TOTAL,3
+Santa Cruz,71103,San Ramon Scz,2011,1,TOTAL,5
+Beni,80401,Santa Ana,2011,1,TOTAL,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,1,TOTAL,1398
+Beni,80303,Santa Rosa,2011,1,TOTAL,3
+Cochabamba,31602,Shinaota,2011,1,TOTAL,21
+Chuquisaca,10403,Sopachuy,2011,1,TOTAL,1
+Chuquisaca,10101,Sucre,2011,1,TOTAL,209
+Chuquisaca,10601,Tarabuco,2011,1,TOTAL,2
+Tarija,60101,Tarija,2011,1,TOTAL,156
+Cochabamba,30903,Tiquipaya,2011,1,TOTAL,17
+Beni,80101,Trinidad,2011,1,TOTAL,85
+Potosí,50801,Tupiza,2011,1,TOTAL,8
+Potosí,51201,Uyuni,2011,1,TOTAL,10
+Santa Cruz,70801,Vallegrande,2011,1,TOTAL,21
+Tarija,60303,Villa Montes,2011,1,TOTAL,31
+Cochabamba,31003,Villa Tunari,2011,1,TOTAL,19
+Potosí,51501,Villazon,2011,1,TOTAL,14
+Cochabamba,30904,Vinto,2011,1,TOTAL,6
+Santa Cruz,70201,Warnes,2011,1,TOTAL,13
+Tarija,60301,Yacuiba,2011,1,TOTAL,50
+Santa Cruz,70403,Yapacani,2011,1,TOTAL,22
+Cochabamba,30201,Aiquile,2011,2,TOTAL,9
+Santa Cruz,71501,Ascencion De Guarayos,2011,2,TOTAL,8
+Beni,80802,Baures,2011,2,TOTAL,2
+Tarija,60202,Bermejo,2011,2,TOTAL,22
+Chuquisaca,10701,Camargo,2011,2,TOTAL,1
+Santa Cruz,70706,Camiri,2011,2,TOTAL,30
+La Paz,22001,Caranavi,2011,2,TOTAL,18
+Oruro,40201,Challapata,2011,2,TOTAL,3
+Santa Cruz,70702,Charagua,2011,2,TOTAL,15
+La Paz,21101,Chulumani (v. De La Libertad),2011,2,TOTAL,4
+Pando,90101,Cobija,2011,2,TOTAL,67
+Cochabamba,30101,Cochabamba,2011,2,TOTAL,639
+Cochabamba,30905,Colcapirhua,2011,2,TOTAL,17
+Santa Cruz,71301,Comarapa,2011,2,TOTAL,19
+Santa Cruz,71101,Concepcion,2011,2,TOTAL,8
+La Paz,21401,Coroico,2011,2,TOTAL,7
+Santa Cruz,70102,Cotoca,2011,2,TOTAL,6
+Chuquisaca,10902,Culpina,2011,2,TOTAL,3
+La Paz,20105,El Alto,2011,2,TOTAL,226
+Santa Cruz,70105,El Torno,2011,2,TOTAL,14
+Beni,80202,Guayaramerin,2011,2,TOTAL,37
+Beni,80803,Huaracaje,2011,2,TOTAL,1
+La Paz,20101,La Paz,2011,2,TOTAL,426
+Potosí,50203,Llallagua,2011,2,TOTAL,2
+Beni,80801,Magdalena,2011,2,TOTAL,6
+Santa Cruz,70903,Mairana,2011,2,TOTAL,9
+Chuquisaca,10501,Monteagudo,2011,2,TOTAL,15
+Santa Cruz,71001,Montero,2011,2,TOTAL,84
+Oruro,40101,Oruro,2011,2,TOTAL,252
+Chuquisaca,10401,Padilla,2011,2,TOTAL,3
+Santa Cruz,70601,Portachuelo,2011,2,TOTAL,27
+Potosí,50101,Potosi,2011,2,TOTAL,76
+Santa Cruz,71402,Puerto Quijarro,2011,2,TOTAL,9
+Santa Cruz,71401,Puerto Suarez,2011,2,TOTAL,17
+Cochabamba,31205,Puerto Villarroel,2011,2,TOTAL,6
+Cochabamba,31401,Punata,2011,2,TOTAL,35
+Cochabamba,30901,Quillacollo,2011,2,TOTAL,24
+Beni,80301,Reyes,2011,2,TOTAL,4
+Beni,80201,Riberalta,2011,2,TOTAL,49
+Santa Cruz,70503,Robore,2011,2,TOTAL,13
+Beni,80304,Rurrenabaque,2011,2,TOTAL,6
+Cochabamba,31001,Sacaba,2011,2,TOTAL,41
+Santa Cruz,70901,Samaipata,2011,2,TOTAL,8
+Beni,80302,San Borja,2011,2,TOTAL,25
+La Paz,21502,San Buena Ventura,2011,2,TOTAL,7
+Santa Cruz,70402,San Carlos,2011,2,TOTAL,13
+Beni,80501,San Ignacio,2011,2,TOTAL,7
+Santa Cruz,70301,San Ignacio De Velasco,2011,2,TOTAL,33
+Santa Cruz,71102,San Javier(stc),2011,2,TOTAL,5
+Beni,80701,San Joaquin,2011,2,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2011,2,TOTAL,12
+Santa Cruz,70404,San Juan De Yapacani,2011,2,TOTAL,3
+Santa Cruz,71104,San Julian,2011,2,TOTAL,13
+Santa Cruz,71201,San Matias,2011,2,TOTAL,1
+Beni,80702,San Ramon Beni,2011,2,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2011,2,TOTAL,2
+Beni,80401,Santa Ana,2011,2,TOTAL,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,2,TOTAL,1583
+Beni,80303,Santa Rosa,2011,2,TOTAL,3
+Cochabamba,31602,Shinaota,2011,2,TOTAL,14
+Chuquisaca,10101,Sucre,2011,2,TOTAL,207
+Chuquisaca,10601,Tarabuco,2011,2,TOTAL,2
+Tarija,60101,Tarija,2011,2,TOTAL,149
+Chuquisaca,10202,Tarvita,2011,2,TOTAL,2
+Cochabamba,30903,Tiquipaya,2011,2,TOTAL,20
+Cochabamba,31201,Totora(cbba),2011,2,TOTAL,1
+Beni,80101,Trinidad,2011,2,TOTAL,130
+Potosí,50801,Tupiza,2011,2,TOTAL,15
+Potosí,51201,Uyuni,2011,2,TOTAL,12
+Santa Cruz,70801,Vallegrande,2011,2,TOTAL,9
+Tarija,60303,Villa Montes,2011,2,TOTAL,45
+Cochabamba,31003,Villa Tunari,2011,2,TOTAL,36
+Potosí,51501,Villazon,2011,2,TOTAL,6
+Cochabamba,30904,Vinto,2011,2,TOTAL,4
+Santa Cruz,70201,Warnes,2011,2,TOTAL,8
+Tarija,60301,Yacuiba,2011,2,TOTAL,64
+Santa Cruz,70403,Yapacani,2011,2,TOTAL,19
+Chuquisaca,10301,Zudañez,2011,2,TOTAL,1
+Cochabamba,30201,Aiquile,2011,3,TOTAL,17
+Santa Cruz,71501,Ascencion De Guarayos,2011,3,TOTAL,16
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,3,TOTAL,1
+Beni,80802,Baures,2011,3,TOTAL,1
+Tarija,60202,Bermejo,2011,3,TOTAL,14
+Chuquisaca,10701,Camargo,2011,3,TOTAL,2
+Santa Cruz,70706,Camiri,2011,3,TOTAL,35
+La Paz,22001,Caranavi,2011,3,TOTAL,27
+Oruro,40201,Challapata,2011,3,TOTAL,4
+Santa Cruz,70702,Charagua,2011,3,TOTAL,10
+La Paz,21101,Chulumani (v. De La Libertad),2011,3,TOTAL,5
+Pando,90101,Cobija,2011,3,TOTAL,68
+Cochabamba,30101,Cochabamba,2011,3,TOTAL,783
+Cochabamba,30905,Colcapirhua,2011,3,TOTAL,14
+Santa Cruz,71301,Comarapa,2011,3,TOTAL,10
+Santa Cruz,71101,Concepcion,2011,3,TOTAL,7
+La Paz,21401,Coroico,2011,3,TOTAL,7
+Santa Cruz,70102,Cotoca,2011,3,TOTAL,21
+Chuquisaca,10902,Culpina,2011,3,TOTAL,3
+La Paz,20105,El Alto,2011,3,TOTAL,204
+Santa Cruz,70105,El Torno,2011,3,TOTAL,12
+Beni,80202,Guayaramerin,2011,3,TOTAL,34
+Beni,80803,Huaracaje,2011,3,TOTAL,2
+La Paz,20101,La Paz,2011,3,TOTAL,563
+Potosí,50203,Llallagua,2011,3,TOTAL,4
+Beni,80801,Magdalena,2011,3,TOTAL,3
+Santa Cruz,70903,Mairana,2011,3,TOTAL,14
+Chuquisaca,10501,Monteagudo,2011,3,TOTAL,13
+Santa Cruz,71001,Montero,2011,3,TOTAL,120
+Potosí,50404,Ocuri,2011,3,TOTAL,2
+Oruro,40101,Oruro,2011,3,TOTAL,266
+Chuquisaca,10401,Padilla,2011,3,TOTAL,5
+Santa Cruz,70601,Portachuelo,2011,3,TOTAL,32
+Potosí,50101,Potosi,2011,3,TOTAL,79
+Santa Cruz,71402,Puerto Quijarro,2011,3,TOTAL,5
+Santa Cruz,71401,Puerto Suarez,2011,3,TOTAL,28
+Cochabamba,31205,Puerto Villarroel,2011,3,TOTAL,21
+Cochabamba,31401,Punata,2011,3,TOTAL,46
+Cochabamba,30901,Quillacollo,2011,3,TOTAL,45
+Beni,80301,Reyes,2011,3,TOTAL,1
+Beni,80201,Riberalta,2011,3,TOTAL,65
+Santa Cruz,70503,Robore,2011,3,TOTAL,6
+Beni,80304,Rurrenabaque,2011,3,TOTAL,16
+Cochabamba,31001,Sacaba,2011,3,TOTAL,47
+Santa Cruz,70901,Samaipata,2011,3,TOTAL,5
+Beni,80302,San Borja,2011,3,TOTAL,25
+La Paz,21502,San Buena Ventura,2011,3,TOTAL,6
+Santa Cruz,70402,San Carlos,2011,3,TOTAL,25
+Beni,80501,San Ignacio,2011,3,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2011,3,TOTAL,33
+Santa Cruz,71102,San Javier(stc),2011,3,TOTAL,5
+Beni,80701,San Joaquin,2011,3,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2011,3,TOTAL,14
+Santa Cruz,71104,San Julian,2011,3,TOTAL,4
+Santa Cruz,71201,San Matias,2011,3,TOTAL,3
+Beni,80702,San Ramon Beni,2011,3,TOTAL,4
+Santa Cruz,71103,San Ramon Scz,2011,3,TOTAL,8
+Beni,80401,Santa Ana,2011,3,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,3,TOTAL,1736
+Beni,80303,Santa Rosa,2011,3,TOTAL,2
+Cochabamba,31602,Shinaota,2011,3,TOTAL,12
+Chuquisaca,10403,Sopachuy,2011,3,TOTAL,3
+Chuquisaca,10101,Sucre,2011,3,TOTAL,213
+Chuquisaca,10601,Tarabuco,2011,3,TOTAL,1
+Tarija,60101,Tarija,2011,3,TOTAL,161
+Cochabamba,30903,Tiquipaya,2011,3,TOTAL,19
+Cochabamba,31201,Totora(cbba),2011,3,TOTAL,4
+Beni,80101,Trinidad,2011,3,TOTAL,107
+Potosí,50801,Tupiza,2011,3,TOTAL,11
+Potosí,51201,Uyuni,2011,3,TOTAL,8
+Santa Cruz,70801,Vallegrande,2011,3,TOTAL,27
+La Paz,20801,Viacha,2011,3,TOTAL,2
+Tarija,60303,Villa Montes,2011,3,TOTAL,27
+Cochabamba,31003,Villa Tunari,2011,3,TOTAL,37
+Potosí,51501,Villazon,2011,3,TOTAL,7
+Cochabamba,30904,Vinto,2011,3,TOTAL,1
+Santa Cruz,70201,Warnes,2011,3,TOTAL,7
+Tarija,60301,Yacuiba,2011,3,TOTAL,87
+Santa Cruz,70403,Yapacani,2011,3,TOTAL,15
+Cochabamba,30201,Aiquile,2011,4,TOTAL,21
+Santa Cruz,71501,Ascencion De Guarayos,2011,4,TOTAL,20
+Beni,80802,Baures,2011,4,TOTAL,2
+Tarija,60202,Bermejo,2011,4,TOTAL,17
+Chuquisaca,10701,Camargo,2011,4,TOTAL,10
+Santa Cruz,70706,Camiri,2011,4,TOTAL,37
+La Paz,22001,Caranavi,2011,4,TOTAL,21
+Oruro,40201,Challapata,2011,4,TOTAL,2
+Santa Cruz,70702,Charagua,2011,4,TOTAL,9
+La Paz,21101,Chulumani (v. De La Libertad),2011,4,TOTAL,5
+Pando,90101,Cobija,2011,4,TOTAL,58
+Cochabamba,30101,Cochabamba,2011,4,TOTAL,761
+Cochabamba,30905,Colcapirhua,2011,4,TOTAL,25
+Santa Cruz,71301,Comarapa,2011,4,TOTAL,9
+Santa Cruz,71101,Concepcion,2011,4,TOTAL,3
+La Paz,21401,Coroico,2011,4,TOTAL,7
+Santa Cruz,70102,Cotoca,2011,4,TOTAL,10
+Chuquisaca,10902,Culpina,2011,4,TOTAL,1
+La Paz,20105,El Alto,2011,4,TOTAL,276
+Santa Cruz,70105,El Torno,2011,4,TOTAL,11
+Beni,80202,Guayaramerin,2011,4,TOTAL,42
+Oruro,40701,Huanuni,2011,4,TOTAL,2
+La Paz,20806,Jesus De Machaca,2011,4,TOTAL,2
+La Paz,20101,La Paz,2011,4,TOTAL,571
+Potosí,50203,Llallagua,2011,4,TOTAL,8
+Beni,80801,Magdalena,2011,4,TOTAL,9
+Santa Cruz,70903,Mairana,2011,4,TOTAL,11
+Chuquisaca,10501,Monteagudo,2011,4,TOTAL,14
+Santa Cruz,71001,Montero,2011,4,TOTAL,124
+Oruro,40101,Oruro,2011,4,TOTAL,234
+Chuquisaca,10401,Padilla,2011,4,TOTAL,3
+La Paz,21305,Patacamaya,2011,4,TOTAL,2
+Santa Cruz,70601,Portachuelo,2011,4,TOTAL,25
+Potosí,50101,Potosi,2011,4,TOTAL,59
+Santa Cruz,71402,Puerto Quijarro,2011,4,TOTAL,8
+Santa Cruz,71401,Puerto Suarez,2011,4,TOTAL,28
+Cochabamba,31205,Puerto Villarroel,2011,4,TOTAL,9
+Cochabamba,31401,Punata,2011,4,TOTAL,39
+Cochabamba,30901,Quillacollo,2011,4,TOTAL,43
+Beni,80301,Reyes,2011,4,TOTAL,5
+Beni,80201,Riberalta,2011,4,TOTAL,71
+Santa Cruz,70503,Robore,2011,4,TOTAL,12
+Beni,80304,Rurrenabaque,2011,4,TOTAL,8
+Cochabamba,31001,Sacaba,2011,4,TOTAL,36
+Santa Cruz,70901,Samaipata,2011,4,TOTAL,1
+Beni,80302,San Borja,2011,4,TOTAL,29
+La Paz,21502,San Buena Ventura,2011,4,TOTAL,4
+Santa Cruz,70402,San Carlos,2011,4,TOTAL,12
+Beni,80501,San Ignacio,2011,4,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2011,4,TOTAL,45
+Santa Cruz,71102,San Javier(stc),2011,4,TOTAL,4
+Beni,80701,San Joaquin,2011,4,TOTAL,7
+Santa Cruz,70501,San Jose De Chiquitos,2011,4,TOTAL,14
+Santa Cruz,70404,San Juan De Yapacani,2011,4,TOTAL,8
+Santa Cruz,71104,San Julian,2011,4,TOTAL,7
+Santa Cruz,71201,San Matias,2011,4,TOTAL,4
+Beni,80702,San Ramon Beni,2011,4,TOTAL,5
+Santa Cruz,71103,San Ramon Scz,2011,4,TOTAL,4
+Beni,80401,Santa Ana,2011,4,TOTAL,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,4,TOTAL,1586
+Cochabamba,31602,Shinaota,2011,4,TOTAL,20
+Chuquisaca,10403,Sopachuy,2011,4,TOTAL,2
+Chuquisaca,10101,Sucre,2011,4,TOTAL,222
+Tarija,60101,Tarija,2011,4,TOTAL,165
+Cochabamba,30903,Tiquipaya,2011,4,TOTAL,20
+Beni,80101,Trinidad,2011,4,TOTAL,132
+Potosí,50801,Tupiza,2011,4,TOTAL,6
+Potosí,51201,Uyuni,2011,4,TOTAL,12
+Santa Cruz,70801,Vallegrande,2011,4,TOTAL,22
+Tarija,60303,Villa Montes,2011,4,TOTAL,29
+Cochabamba,31003,Villa Tunari,2011,4,TOTAL,35
+Potosí,51501,Villazon,2011,4,TOTAL,7
+Cochabamba,30904,Vinto,2011,4,TOTAL,13
+Santa Cruz,70201,Warnes,2011,4,TOTAL,25
+Tarija,60301,Yacuiba,2011,4,TOTAL,57
+Santa Cruz,70403,Yapacani,2011,4,TOTAL,13
+La Paz,20201,Achacachi,2011,5,TOTAL,2
+Cochabamba,30201,Aiquile,2011,5,TOTAL,8
+Santa Cruz,71501,Ascencion De Guarayos,2011,5,TOTAL,26
+Beni,80802,Baures,2011,5,TOTAL,1
+Tarija,60202,Bermejo,2011,5,TOTAL,29
+Chuquisaca,10701,Camargo,2011,5,TOTAL,9
+Santa Cruz,70706,Camiri,2011,5,TOTAL,47
+La Paz,22001,Caranavi,2011,5,TOTAL,22
+Oruro,40201,Challapata,2011,5,TOTAL,4
+Santa Cruz,70702,Charagua,2011,5,TOTAL,7
+La Paz,21101,Chulumani (v. De La Libertad),2011,5,TOTAL,7
+Pando,90101,Cobija,2011,5,TOTAL,61
+Cochabamba,30101,Cochabamba,2011,5,TOTAL,769
+Cochabamba,30905,Colcapirhua,2011,5,TOTAL,15
+Santa Cruz,71301,Comarapa,2011,5,TOTAL,17
+Santa Cruz,71101,Concepcion,2011,5,TOTAL,10
+La Paz,21401,Coroico,2011,5,TOTAL,9
+Santa Cruz,70102,Cotoca,2011,5,TOTAL,7
+Chuquisaca,10902,Culpina,2011,5,TOTAL,3
+La Paz,20105,El Alto,2011,5,TOTAL,255
+Santa Cruz,70105,El Torno,2011,5,TOTAL,10
+La Paz,20405,Escoma,2011,5,TOTAL,1
+Beni,80202,Guayaramerin,2011,5,TOTAL,40
+Oruro,40701,Huanuni,2011,5,TOTAL,3
+La Paz,20101,La Paz,2011,5,TOTAL,559
+Potosí,50203,Llallagua,2011,5,TOTAL,3
+Beni,80801,Magdalena,2011,5,TOTAL,5
+Santa Cruz,70903,Mairana,2011,5,TOTAL,12
+Chuquisaca,10501,Monteagudo,2011,5,TOTAL,13
+Santa Cruz,71001,Montero,2011,5,TOTAL,120
+Oruro,40101,Oruro,2011,5,TOTAL,253
+Chuquisaca,10401,Padilla,2011,5,TOTAL,3
+La Paz,21305,Patacamaya,2011,5,TOTAL,3
+Santa Cruz,70601,Portachuelo,2011,5,TOTAL,25
+Potosí,50101,Potosi,2011,5,TOTAL,101
+Santa Cruz,71402,Puerto Quijarro,2011,5,TOTAL,4
+Santa Cruz,71401,Puerto Suarez,2011,5,TOTAL,25
+Cochabamba,31205,Puerto Villarroel,2011,5,TOTAL,8
+Cochabamba,31401,Punata,2011,5,TOTAL,46
+Cochabamba,30901,Quillacollo,2011,5,TOTAL,38
+Beni,80301,Reyes,2011,5,TOTAL,7
+Beni,80201,Riberalta,2011,5,TOTAL,74
+Santa Cruz,70503,Robore,2011,5,TOTAL,8
+Beni,80304,Rurrenabaque,2011,5,TOTAL,17
+Cochabamba,31001,Sacaba,2011,5,TOTAL,48
+Santa Cruz,70901,Samaipata,2011,5,TOTAL,8
+Beni,80302,San Borja,2011,5,TOTAL,27
+La Paz,21502,San Buena Ventura,2011,5,TOTAL,1
+Santa Cruz,70402,San Carlos,2011,5,TOTAL,20
+Beni,80501,San Ignacio,2011,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2011,5,TOTAL,39
+Santa Cruz,71102,San Javier(stc),2011,5,TOTAL,8
+Beni,80701,San Joaquin,2011,5,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2011,5,TOTAL,13
+Santa Cruz,70404,San Juan De Yapacani,2011,5,TOTAL,1
+Santa Cruz,71104,San Julian,2011,5,TOTAL,13
+Chuquisaca,10702,San Lucas,2011,5,TOTAL,1
+Santa Cruz,71201,San Matias,2011,5,TOTAL,4
+Beni,80702,San Ramon Beni,2011,5,TOTAL,3
+Santa Cruz,71103,San Ramon Scz,2011,5,TOTAL,2
+Beni,80401,Santa Ana,2011,5,TOTAL,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,5,TOTAL,1561
+Beni,80303,Santa Rosa,2011,5,TOTAL,2
+Cochabamba,31602,Shinaota,2011,5,TOTAL,28
+Chuquisaca,10403,Sopachuy,2011,5,TOTAL,1
+Chuquisaca,10101,Sucre,2011,5,TOTAL,190
+Chuquisaca,10601,Tarabuco,2011,5,TOTAL,1
+Tarija,60101,Tarija,2011,5,TOTAL,168
+Cochabamba,30903,Tiquipaya,2011,5,TOTAL,21
+Cochabamba,31201,Totora(cbba),2011,5,TOTAL,3
+Beni,80101,Trinidad,2011,5,TOTAL,122
+Potosí,50801,Tupiza,2011,5,TOTAL,10
+Potosí,51201,Uyuni,2011,5,TOTAL,10
+Santa Cruz,70801,Vallegrande,2011,5,TOTAL,17
+La Paz,20801,Viacha,2011,5,TOTAL,1
+Tarija,60303,Villa Montes,2011,5,TOTAL,39
+Cochabamba,31003,Villa Tunari,2011,5,TOTAL,48
+Potosí,51501,Villazon,2011,5,TOTAL,5
+Cochabamba,30904,Vinto,2011,5,TOTAL,13
+Santa Cruz,70201,Warnes,2011,5,TOTAL,27
+Tarija,60301,Yacuiba,2011,5,TOTAL,86
+Santa Cruz,70403,Yapacani,2011,5,TOTAL,26
+Chuquisaca,10102,Yotala,2011,5,TOTAL,3
+Chuquisaca,10301,Zudañez,2011,5,TOTAL,1
+La Paz,20201,Achacachi,2011,6,TOTAL,4
+Cochabamba,30201,Aiquile,2011,6,TOTAL,12
+Santa Cruz,71501,Ascencion De Guarayos,2011,6,TOTAL,9
+Potosí,50802,Atocha,2011,6,TOTAL,1
+Chuquisaca,10201,Azurduy,2011,6,TOTAL,1
+Beni,80802,Baures,2011,6,TOTAL,1
+Tarija,60202,Bermejo,2011,6,TOTAL,18
+Chuquisaca,10701,Camargo,2011,6,TOTAL,8
+Santa Cruz,70706,Camiri,2011,6,TOTAL,47
+La Paz,22001,Caranavi,2011,6,TOTAL,18
+Oruro,40201,Challapata,2011,6,TOTAL,2
+Santa Cruz,70702,Charagua,2011,6,TOTAL,10
+La Paz,21101,Chulumani (v. De La Libertad),2011,6,TOTAL,4
+Cochabamba,30801,Cliza,2011,6,TOTAL,5
+Pando,90101,Cobija,2011,6,TOTAL,69
+Cochabamba,30101,Cochabamba,2011,6,TOTAL,704
+Cochabamba,30905,Colcapirhua,2011,6,TOTAL,16
+Santa Cruz,71301,Comarapa,2011,6,TOTAL,15
+Santa Cruz,71101,Concepcion,2011,6,TOTAL,7
+La Paz,21401,Coroico,2011,6,TOTAL,10
+Santa Cruz,70102,Cotoca,2011,6,TOTAL,10
+Chuquisaca,10902,Culpina,2011,6,TOTAL,3
+La Paz,20105,El Alto,2011,6,TOTAL,304
+Santa Cruz,70105,El Torno,2011,6,TOTAL,6
+Tarija,60601,Entre Rios Trj,2011,6,TOTAL,2
+La Paz,20405,Escoma,2011,6,TOTAL,1
+Beni,80202,Guayaramerin,2011,6,TOTAL,47
+Oruro,40701,Huanuni,2011,6,TOTAL,5
+Chuquisaca,10703,Incahuasi,2011,6,TOTAL,1
+La Paz,20101,La Paz,2011,6,TOTAL,576
+Potosí,50203,Llallagua,2011,6,TOTAL,2
+Beni,80801,Magdalena,2011,6,TOTAL,3
+Santa Cruz,70903,Mairana,2011,6,TOTAL,10
+Chuquisaca,10501,Monteagudo,2011,6,TOTAL,15
+Santa Cruz,71001,Montero,2011,6,TOTAL,126
+Oruro,40101,Oruro,2011,6,TOTAL,216
+Chuquisaca,10401,Padilla,2011,6,TOTAL,6
+La Paz,21305,Patacamaya,2011,6,TOTAL,8
+Santa Cruz,70601,Portachuelo,2011,6,TOTAL,26
+Potosí,50101,Potosi,2011,6,TOTAL,112
+Santa Cruz,71402,Puerto Quijarro,2011,6,TOTAL,4
+Santa Cruz,71401,Puerto Suarez,2011,6,TOTAL,12
+Cochabamba,31205,Puerto Villarroel,2011,6,TOTAL,7
+Cochabamba,31401,Punata,2011,6,TOTAL,36
+Cochabamba,30901,Quillacollo,2011,6,TOTAL,35
+Beni,80301,Reyes,2011,6,TOTAL,4
+Beni,80201,Riberalta,2011,6,TOTAL,88
+Santa Cruz,70503,Robore,2011,6,TOTAL,4
+Beni,80304,Rurrenabaque,2011,6,TOTAL,12
+Cochabamba,31001,Sacaba,2011,6,TOTAL,50
+Santa Cruz,70901,Samaipata,2011,6,TOTAL,6
+Beni,80302,San Borja,2011,6,TOTAL,24
+La Paz,21502,San Buena Ventura,2011,6,TOTAL,4
+Santa Cruz,70402,San Carlos,2011,6,TOTAL,10
+Beni,80501,San Ignacio,2011,6,TOTAL,7
+Santa Cruz,70301,San Ignacio De Velasco,2011,6,TOTAL,38
+Santa Cruz,71102,San Javier(stc),2011,6,TOTAL,4
+Beni,80701,San Joaquin,2011,6,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2011,6,TOTAL,9
+Santa Cruz,70404,San Juan De Yapacani,2011,6,TOTAL,1
+Santa Cruz,71104,San Julian,2011,6,TOTAL,12
+Santa Cruz,71201,San Matias,2011,6,TOTAL,3
+Santa Cruz,71103,San Ramon Scz,2011,6,TOTAL,1
+Beni,80401,Santa Ana,2011,6,TOTAL,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,6,TOTAL,1397
+Beni,80303,Santa Rosa,2011,6,TOTAL,1
+Cochabamba,31602,Shinaota,2011,6,TOTAL,7
+Chuquisaca,10403,Sopachuy,2011,6,TOTAL,2
+Chuquisaca,10101,Sucre,2011,6,TOTAL,201
+Chuquisaca,10601,Tarabuco,2011,6,TOTAL,1
+Tarija,60101,Tarija,2011,6,TOTAL,163
+Cochabamba,30903,Tiquipaya,2011,6,TOTAL,21
+Beni,80101,Trinidad,2011,6,TOTAL,94
+Potosí,50801,Tupiza,2011,6,TOTAL,11
+Potosí,51201,Uyuni,2011,6,TOTAL,15
+Santa Cruz,70801,Vallegrande,2011,6,TOTAL,17
+Tarija,60303,Villa Montes,2011,6,TOTAL,34
+Cochabamba,31003,Villa Tunari,2011,6,TOTAL,48
+Potosí,51501,Villazon,2011,6,TOTAL,7
+Cochabamba,30904,Vinto,2011,6,TOTAL,9
+Santa Cruz,70201,Warnes,2011,6,TOTAL,23
+Tarija,60301,Yacuiba,2011,6,TOTAL,64
+Santa Cruz,70403,Yapacani,2011,6,TOTAL,22
+La Paz,20201,Achacachi,2011,7,TOTAL,2
+Cochabamba,30201,Aiquile,2011,7,TOTAL,10
+Santa Cruz,71501,Ascencion De Guarayos,2011,7,TOTAL,12
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,7,TOTAL,2
+Chuquisaca,10201,Azurduy,2011,7,TOTAL,2
+Beni,80802,Baures,2011,7,TOTAL,2
+Tarija,60202,Bermejo,2011,7,TOTAL,26
+Chuquisaca,10701,Camargo,2011,7,TOTAL,5
+Santa Cruz,70706,Camiri,2011,7,TOTAL,37
+La Paz,22001,Caranavi,2011,7,TOTAL,12
+Oruro,40201,Challapata,2011,7,TOTAL,6
+Santa Cruz,70702,Charagua,2011,7,TOTAL,16
+La Paz,21101,Chulumani (v. De La Libertad),2011,7,TOTAL,6
+Cochabamba,30801,Cliza,2011,7,TOTAL,8
+Pando,90101,Cobija,2011,7,TOTAL,52
+Cochabamba,30101,Cochabamba,2011,7,TOTAL,759
+Cochabamba,30905,Colcapirhua,2011,7,TOTAL,25
+Santa Cruz,71301,Comarapa,2011,7,TOTAL,8
+Santa Cruz,71101,Concepcion,2011,7,TOTAL,10
+La Paz,21401,Coroico,2011,7,TOTAL,11
+Santa Cruz,70102,Cotoca,2011,7,TOTAL,1
+Chuquisaca,10902,Culpina,2011,7,TOTAL,3
+La Paz,20105,El Alto,2011,7,TOTAL,250
+Santa Cruz,70105,El Torno,2011,7,TOTAL,6
+Tarija,60601,Entre Rios Trj,2011,7,TOTAL,2
+Beni,80202,Guayaramerin,2011,7,TOTAL,41
+Oruro,40701,Huanuni,2011,7,TOTAL,5
+La Paz,20806,Jesus De Machaca,2011,7,TOTAL,1
+La Paz,20101,La Paz,2011,7,TOTAL,622
+Potosí,50203,Llallagua,2011,7,TOTAL,7
+Beni,80801,Magdalena,2011,7,TOTAL,2
+Santa Cruz,70903,Mairana,2011,7,TOTAL,6
+Chuquisaca,10501,Monteagudo,2011,7,TOTAL,19
+Santa Cruz,71001,Montero,2011,7,TOTAL,75
+Oruro,40101,Oruro,2011,7,TOTAL,252
+Chuquisaca,10401,Padilla,2011,7,TOTAL,6
+Santa Cruz,70502,Pailon,2011,7,TOTAL,2
+La Paz,21305,Patacamaya,2011,7,TOTAL,5
+Santa Cruz,70601,Portachuelo,2011,7,TOTAL,23
+Potosí,50101,Potosi,2011,7,TOTAL,93
+Santa Cruz,71402,Puerto Quijarro,2011,7,TOTAL,9
+Santa Cruz,71401,Puerto Suarez,2011,7,TOTAL,20
+Cochabamba,31205,Puerto Villarroel,2011,7,TOTAL,12
+Cochabamba,31401,Punata,2011,7,TOTAL,29
+Cochabamba,30901,Quillacollo,2011,7,TOTAL,42
+Beni,80301,Reyes,2011,7,TOTAL,3
+Beni,80201,Riberalta,2011,7,TOTAL,60
+Santa Cruz,70503,Robore,2011,7,TOTAL,11
+Beni,80304,Rurrenabaque,2011,7,TOTAL,8
+Cochabamba,31001,Sacaba,2011,7,TOTAL,33
+Santa Cruz,70901,Samaipata,2011,7,TOTAL,5
+Beni,80302,San Borja,2011,7,TOTAL,30
+La Paz,21502,San Buena Ventura,2011,7,TOTAL,3
+Santa Cruz,70402,San Carlos,2011,7,TOTAL,14
+Santa Cruz,70301,San Ignacio De Velasco,2011,7,TOTAL,43
+Santa Cruz,71102,San Javier(stc),2011,7,TOTAL,3
+Beni,80701,San Joaquin,2011,7,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2011,7,TOTAL,10
+Santa Cruz,70404,San Juan De Yapacani,2011,7,TOTAL,5
+Santa Cruz,71104,San Julian,2011,7,TOTAL,3
+Santa Cruz,71201,San Matias,2011,7,TOTAL,3
+Beni,80401,Santa Ana,2011,7,TOTAL,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,7,TOTAL,1486
+Beni,80303,Santa Rosa,2011,7,TOTAL,2
+Cochabamba,31602,Shinaota,2011,7,TOTAL,5
+Chuquisaca,10403,Sopachuy,2011,7,TOTAL,4
+Chuquisaca,10101,Sucre,2011,7,TOTAL,202
+Chuquisaca,10601,Tarabuco,2011,7,TOTAL,1
+Tarija,60101,Tarija,2011,7,TOTAL,147
+Cochabamba,30903,Tiquipaya,2011,7,TOTAL,18
+Cochabamba,31201,Totora(cbba),2011,7,TOTAL,2
+Beni,80101,Trinidad,2011,7,TOTAL,105
+Potosí,50801,Tupiza,2011,7,TOTAL,10
+Potosí,51201,Uyuni,2011,7,TOTAL,24
+Santa Cruz,70801,Vallegrande,2011,7,TOTAL,12
+Tarija,60303,Villa Montes,2011,7,TOTAL,28
+Cochabamba,31003,Villa Tunari,2011,7,TOTAL,58
+Potosí,51501,Villazon,2011,7,TOTAL,11
+Cochabamba,30904,Vinto,2011,7,TOTAL,14
+Santa Cruz,70201,Warnes,2011,7,TOTAL,25
+Tarija,60301,Yacuiba,2011,7,TOTAL,61
+Santa Cruz,70403,Yapacani,2011,7,TOTAL,29
+La Paz,20201,Achacachi,2011,8,TOTAL,3
+Cochabamba,30201,Aiquile,2011,8,TOTAL,11
+Santa Cruz,71501,Ascencion De Guarayos,2011,8,TOTAL,9
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,8,TOTAL,1
+Chuquisaca,10201,Azurduy,2011,8,TOTAL,1
+Beni,80802,Baures,2011,8,TOTAL,1
+Tarija,60202,Bermejo,2011,8,TOTAL,21
+Chuquisaca,10701,Camargo,2011,8,TOTAL,3
+Santa Cruz,70706,Camiri,2011,8,TOTAL,31
+La Paz,22001,Caranavi,2011,8,TOTAL,4
+Oruro,40201,Challapata,2011,8,TOTAL,10
+Santa Cruz,70702,Charagua,2011,8,TOTAL,16
+La Paz,21101,Chulumani (v. De La Libertad),2011,8,TOTAL,5
+Cochabamba,30801,Cliza,2011,8,TOTAL,2
+Pando,90101,Cobija,2011,8,TOTAL,54
+Cochabamba,30101,Cochabamba,2011,8,TOTAL,730
+Cochabamba,30905,Colcapirhua,2011,8,TOTAL,17
+Santa Cruz,71301,Comarapa,2011,8,TOTAL,17
+Santa Cruz,71101,Concepcion,2011,8,TOTAL,6
+La Paz,21401,Coroico,2011,8,TOTAL,15
+Santa Cruz,70102,Cotoca,2011,8,TOTAL,7
+Chuquisaca,10902,Culpina,2011,8,TOTAL,2
+La Paz,20105,El Alto,2011,8,TOTAL,250
+Santa Cruz,70105,El Torno,2011,8,TOTAL,10
+Beni,80202,Guayaramerin,2011,8,TOTAL,32
+Oruro,40701,Huanuni,2011,8,TOTAL,9
+La Paz,20101,La Paz,2011,8,TOTAL,644
+Potosí,50203,Llallagua,2011,8,TOTAL,12
+Beni,80801,Magdalena,2011,8,TOTAL,10
+Santa Cruz,70903,Mairana,2011,8,TOTAL,4
+Chuquisaca,10501,Monteagudo,2011,8,TOTAL,23
+Santa Cruz,71001,Montero,2011,8,TOTAL,100
+Oruro,40101,Oruro,2011,8,TOTAL,267
+Chuquisaca,10401,Padilla,2011,8,TOTAL,9
+Santa Cruz,70502,Pailon,2011,8,TOTAL,9
+La Paz,21305,Patacamaya,2011,8,TOTAL,8
+Santa Cruz,70601,Portachuelo,2011,8,TOTAL,18
+Potosí,50101,Potosi,2011,8,TOTAL,230
+Santa Cruz,71402,Puerto Quijarro,2011,8,TOTAL,3
+Santa Cruz,71401,Puerto Suarez,2011,8,TOTAL,28
+Cochabamba,31205,Puerto Villarroel,2011,8,TOTAL,21
+Cochabamba,31401,Punata,2011,8,TOTAL,38
+Cochabamba,30901,Quillacollo,2011,8,TOTAL,65
+Beni,80301,Reyes,2011,8,TOTAL,4
+Beni,80201,Riberalta,2011,8,TOTAL,80
+Santa Cruz,70503,Robore,2011,8,TOTAL,7
+Beni,80304,Rurrenabaque,2011,8,TOTAL,15
+Cochabamba,31001,Sacaba,2011,8,TOTAL,47
+Santa Cruz,70901,Samaipata,2011,8,TOTAL,10
+Beni,80302,San Borja,2011,8,TOTAL,19
+La Paz,21502,San Buena Ventura,2011,8,TOTAL,4
+Santa Cruz,70402,San Carlos,2011,8,TOTAL,11
+Beni,80501,San Ignacio,2011,8,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2011,8,TOTAL,51
+Santa Cruz,71102,San Javier(stc),2011,8,TOTAL,3
+Beni,80701,San Joaquin,2011,8,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2011,8,TOTAL,9
+Santa Cruz,70404,San Juan De Yapacani,2011,8,TOTAL,1
+Santa Cruz,71104,San Julian,2011,8,TOTAL,7
+Santa Cruz,71201,San Matias,2011,8,TOTAL,3
+Beni,80702,San Ramon Beni,2011,8,TOTAL,7
+Beni,80401,Santa Ana,2011,8,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,8,TOTAL,1486
+Cochabamba,31602,Shinaota,2011,8,TOTAL,9
+Chuquisaca,10403,Sopachuy,2011,8,TOTAL,4
+Chuquisaca,10101,Sucre,2011,8,TOTAL,181
+Chuquisaca,10601,Tarabuco,2011,8,TOTAL,2
+Tarija,60101,Tarija,2011,8,TOTAL,187
+Chuquisaca,10202,Tarvita,2011,8,TOTAL,1
+Cochabamba,30903,Tiquipaya,2011,8,TOTAL,17
+Cochabamba,31201,Totora(cbba),2011,8,TOTAL,1
+Beni,80101,Trinidad,2011,8,TOTAL,115
+Potosí,50801,Tupiza,2011,8,TOTAL,5
+Potosí,51201,Uyuni,2011,8,TOTAL,16
+Santa Cruz,70801,Vallegrande,2011,8,TOTAL,14
+La Paz,20801,Viacha,2011,8,TOTAL,1
+Tarija,60303,Villa Montes,2011,8,TOTAL,31
+Cochabamba,31003,Villa Tunari,2011,8,TOTAL,51
+Potosí,51501,Villazon,2011,8,TOTAL,8
+Cochabamba,30904,Vinto,2011,8,TOTAL,12
+Santa Cruz,70201,Warnes,2011,8,TOTAL,19
+Tarija,60301,Yacuiba,2011,8,TOTAL,79
+Santa Cruz,70403,Yapacani,2011,8,TOTAL,18
+La Paz,20201,Achacachi,2011,9,TOTAL,3
+Cochabamba,30201,Aiquile,2011,9,TOTAL,6
+Santa Cruz,71501,Ascencion De Guarayos,2011,9,TOTAL,14
+Potosí,50802,Atocha,2011,9,TOTAL,1
+Chuquisaca,10201,Azurduy,2011,9,TOTAL,1
+Beni,80802,Baures,2011,9,TOTAL,1
+Tarija,60202,Bermejo,2011,9,TOTAL,26
+Chuquisaca,10701,Camargo,2011,9,TOTAL,7
+Santa Cruz,70706,Camiri,2011,9,TOTAL,36
+La Paz,22001,Caranavi,2011,9,TOTAL,23
+Oruro,40201,Challapata,2011,9,TOTAL,10
+Santa Cruz,70702,Charagua,2011,9,TOTAL,17
+La Paz,21101,Chulumani (v. De La Libertad),2011,9,TOTAL,9
+Pando,90101,Cobija,2011,9,TOTAL,48
+Cochabamba,30101,Cochabamba,2011,9,TOTAL,805
+Cochabamba,30905,Colcapirhua,2011,9,TOTAL,16
+Santa Cruz,71301,Comarapa,2011,9,TOTAL,8
+Santa Cruz,71101,Concepcion,2011,9,TOTAL,11
+La Paz,21401,Coroico,2011,9,TOTAL,11
+Santa Cruz,70102,Cotoca,2011,9,TOTAL,5
+Chuquisaca,10902,Culpina,2011,9,TOTAL,4
+La Paz,20105,El Alto,2011,9,TOTAL,257
+Santa Cruz,70105,El Torno,2011,9,TOTAL,15
+Tarija,60601,Entre Rios Trj,2011,9,TOTAL,2
+La Paz,20405,Escoma,2011,9,TOTAL,1
+Beni,80202,Guayaramerin,2011,9,TOTAL,29
+Oruro,40701,Huanuni,2011,9,TOTAL,1
+La Paz,20101,La Paz,2011,9,TOTAL,649
+Potosí,50203,Llallagua,2011,9,TOTAL,15
+Beni,80801,Magdalena,2011,9,TOTAL,5
+Santa Cruz,70903,Mairana,2011,9,TOTAL,5
+Chuquisaca,10501,Monteagudo,2011,9,TOTAL,16
+Santa Cruz,71001,Montero,2011,9,TOTAL,64
+Potosí,50404,Ocuri,2011,9,TOTAL,2
+Oruro,40101,Oruro,2011,9,TOTAL,245
+Chuquisaca,10401,Padilla,2011,9,TOTAL,4
+Santa Cruz,70502,Pailon,2011,9,TOTAL,1
+La Paz,21305,Patacamaya,2011,9,TOTAL,6
+Santa Cruz,70601,Portachuelo,2011,9,TOTAL,18
+Potosí,50101,Potosi,2011,9,TOTAL,134
+Santa Cruz,71402,Puerto Quijarro,2011,9,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2011,9,TOTAL,14
+Cochabamba,31205,Puerto Villarroel,2011,9,TOTAL,21
+Cochabamba,31401,Punata,2011,9,TOTAL,32
+Cochabamba,30901,Quillacollo,2011,9,TOTAL,75
+Beni,80301,Reyes,2011,9,TOTAL,5
+Beni,80201,Riberalta,2011,9,TOTAL,107
+Santa Cruz,70503,Robore,2011,9,TOTAL,8
+Beni,80304,Rurrenabaque,2011,9,TOTAL,8
+Cochabamba,31001,Sacaba,2011,9,TOTAL,42
+Santa Cruz,70901,Samaipata,2011,9,TOTAL,3
+Beni,80302,San Borja,2011,9,TOTAL,26
+La Paz,21502,San Buena Ventura,2011,9,TOTAL,2
+Santa Cruz,70402,San Carlos,2011,9,TOTAL,17
+Beni,80501,San Ignacio,2011,9,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2011,9,TOTAL,31
+Santa Cruz,71102,San Javier(stc),2011,9,TOTAL,4
+Beni,80701,San Joaquin,2011,9,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2011,9,TOTAL,12
+Santa Cruz,70404,San Juan De Yapacani,2011,9,TOTAL,3
+Santa Cruz,71104,San Julian,2011,9,TOTAL,11
+Chuquisaca,10702,San Lucas,2011,9,TOTAL,2
+Santa Cruz,71201,San Matias,2011,9,TOTAL,1
+Beni,80702,San Ramon Beni,2011,9,TOTAL,2
+Beni,80401,Santa Ana,2011,9,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,9,TOTAL,1430
+Cochabamba,31602,Shinaota,2011,9,TOTAL,3
+Chuquisaca,10403,Sopachuy,2011,9,TOTAL,2
+Chuquisaca,10101,Sucre,2011,9,TOTAL,192
+Chuquisaca,10601,Tarabuco,2011,9,TOTAL,3
+Tarija,60101,Tarija,2011,9,TOTAL,195
+Chuquisaca,10202,Tarvita,2011,9,TOTAL,2
+Cochabamba,30903,Tiquipaya,2011,9,TOTAL,31
+Cochabamba,31201,Totora(cbba),2011,9,TOTAL,1
+Beni,80101,Trinidad,2011,9,TOTAL,94
+Potosí,50801,Tupiza,2011,9,TOTAL,5
+Potosí,51201,Uyuni,2011,9,TOTAL,19
+Santa Cruz,70801,Vallegrande,2011,9,TOTAL,16
+La Paz,20801,Viacha,2011,9,TOTAL,4
+Tarija,60303,Villa Montes,2011,9,TOTAL,30
+Cochabamba,31003,Villa Tunari,2011,9,TOTAL,38
+Potosí,51501,Villazon,2011,9,TOTAL,5
+Cochabamba,30904,Vinto,2011,9,TOTAL,4
+Santa Cruz,70201,Warnes,2011,9,TOTAL,23
+Tarija,60301,Yacuiba,2011,9,TOTAL,49
+Santa Cruz,70403,Yapacani,2011,9,TOTAL,23
+La Paz,20201,Achacachi,2011,10,TOTAL,3
+Cochabamba,30201,Aiquile,2011,10,TOTAL,12
+Santa Cruz,71501,Ascencion De Guarayos,2011,10,TOTAL,9
+Potosí,50802,Atocha,2011,10,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,10,TOTAL,1
+Chuquisaca,10201,Azurduy,2011,10,TOTAL,1
+Beni,80802,Baures,2011,10,TOTAL,2
+Tarija,60202,Bermejo,2011,10,TOTAL,16
+Chuquisaca,10701,Camargo,2011,10,TOTAL,8
+Santa Cruz,70706,Camiri,2011,10,TOTAL,42
+La Paz,22001,Caranavi,2011,10,TOTAL,17
+Oruro,40201,Challapata,2011,10,TOTAL,11
+Santa Cruz,70702,Charagua,2011,10,TOTAL,10
+La Paz,21101,Chulumani (v. De La Libertad),2011,10,TOTAL,9
+Cochabamba,30801,Cliza,2011,10,TOTAL,2
+Pando,90101,Cobija,2011,10,TOTAL,46
+Cochabamba,30101,Cochabamba,2011,10,TOTAL,798
+Cochabamba,30905,Colcapirhua,2011,10,TOTAL,16
+Santa Cruz,71301,Comarapa,2011,10,TOTAL,9
+Santa Cruz,71101,Concepcion,2011,10,TOTAL,9
+La Paz,21401,Coroico,2011,10,TOTAL,4
+Santa Cruz,70102,Cotoca,2011,10,TOTAL,7
+Chuquisaca,10902,Culpina,2011,10,TOTAL,4
+La Paz,20105,El Alto,2011,10,TOTAL,252
+Santa Cruz,70105,El Torno,2011,10,TOTAL,12
+La Paz,20405,Escoma,2011,10,TOTAL,2
+Beni,80202,Guayaramerin,2011,10,TOTAL,38
+Oruro,40701,Huanuni,2011,10,TOTAL,7
+La Paz,20101,La Paz,2011,10,TOTAL,613
+Potosí,50203,Llallagua,2011,10,TOTAL,14
+Beni,80801,Magdalena,2011,10,TOTAL,2
+Santa Cruz,70903,Mairana,2011,10,TOTAL,10
+Chuquisaca,10501,Monteagudo,2011,10,TOTAL,13
+Santa Cruz,71001,Montero,2011,10,TOTAL,79
+Potosí,50404,Ocuri,2011,10,TOTAL,2
+Oruro,40101,Oruro,2011,10,TOTAL,239
+Chuquisaca,10401,Padilla,2011,10,TOTAL,3
+Santa Cruz,70502,Pailon,2011,10,TOTAL,2
+La Paz,21305,Patacamaya,2011,10,TOTAL,10
+Santa Cruz,70601,Portachuelo,2011,10,TOTAL,19
+Potosí,50101,Potosi,2011,10,TOTAL,109
+Santa Cruz,71402,Puerto Quijarro,2011,10,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2011,10,TOTAL,19
+Cochabamba,31205,Puerto Villarroel,2011,10,TOTAL,22
+Cochabamba,31401,Punata,2011,10,TOTAL,26
+Cochabamba,30901,Quillacollo,2011,10,TOTAL,56
+Beni,80301,Reyes,2011,10,TOTAL,8
+Beni,80201,Riberalta,2011,10,TOTAL,96
+Santa Cruz,70503,Robore,2011,10,TOTAL,6
+Beni,80304,Rurrenabaque,2011,10,TOTAL,13
+Cochabamba,31001,Sacaba,2011,10,TOTAL,40
+Santa Cruz,70901,Samaipata,2011,10,TOTAL,6
+Beni,80302,San Borja,2011,10,TOTAL,28
+La Paz,21502,San Buena Ventura,2011,10,TOTAL,6
+Santa Cruz,70402,San Carlos,2011,10,TOTAL,7
+Beni,80501,San Ignacio,2011,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2011,10,TOTAL,29
+Santa Cruz,71102,San Javier(stc),2011,10,TOTAL,4
+Beni,80701,San Joaquin,2011,10,TOTAL,7
+Santa Cruz,70501,San Jose De Chiquitos,2011,10,TOTAL,13
+Santa Cruz,70404,San Juan De Yapacani,2011,10,TOTAL,3
+Santa Cruz,71104,San Julian,2011,10,TOTAL,7
+Chuquisaca,10702,San Lucas,2011,10,TOTAL,1
+Beni,80702,San Ramon Beni,2011,10,TOTAL,3
+Beni,80401,Santa Ana,2011,10,TOTAL,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,10,TOTAL,1439
+Beni,80303,Santa Rosa,2011,10,TOTAL,3
+Cochabamba,31602,Shinaota,2011,10,TOTAL,4
+Chuquisaca,10403,Sopachuy,2011,10,TOTAL,2
+Chuquisaca,10101,Sucre,2011,10,TOTAL,207
+Chuquisaca,10601,Tarabuco,2011,10,TOTAL,3
+Tarija,60101,Tarija,2011,10,TOTAL,172
+Chuquisaca,10202,Tarvita,2011,10,TOTAL,1
+Cochabamba,30903,Tiquipaya,2011,10,TOTAL,21
+Cochabamba,31201,Totora(cbba),2011,10,TOTAL,1
+Beni,80101,Trinidad,2011,10,TOTAL,81
+Potosí,50801,Tupiza,2011,10,TOTAL,7
+Potosí,51201,Uyuni,2011,10,TOTAL,18
+Santa Cruz,70801,Vallegrande,2011,10,TOTAL,8
+Tarija,60303,Villa Montes,2011,10,TOTAL,30
+Cochabamba,31003,Villa Tunari,2011,10,TOTAL,51
+Potosí,51501,Villazon,2011,10,TOTAL,3
+Cochabamba,30904,Vinto,2011,10,TOTAL,11
+Santa Cruz,70201,Warnes,2011,10,TOTAL,22
+Tarija,60301,Yacuiba,2011,10,TOTAL,58
+Santa Cruz,70403,Yapacani,2011,10,TOTAL,16
+Chuquisaca,10102,Yotala,2011,10,TOTAL,1
+La Paz,20201,Achacachi,2011,11,TOTAL,3
+Cochabamba,30201,Aiquile,2011,11,TOTAL,5
+Santa Cruz,71501,Ascencion De Guarayos,2011,11,TOTAL,10
+Cochabamba,30301,Ayopaya (v. De Independencia),2011,11,TOTAL,1
+Chuquisaca,10201,Azurduy,2011,11,TOTAL,2
+Beni,80802,Baures,2011,11,TOTAL,1
+Tarija,60202,Bermejo,2011,11,TOTAL,24
+Chuquisaca,10701,Camargo,2011,11,TOTAL,10
+Santa Cruz,70706,Camiri,2011,11,TOTAL,51
+La Paz,22001,Caranavi,2011,11,TOTAL,19
+Oruro,40201,Challapata,2011,11,TOTAL,6
+Santa Cruz,70702,Charagua,2011,11,TOTAL,18
+La Paz,21101,Chulumani (v. De La Libertad),2011,11,TOTAL,6
+Cochabamba,30801,Cliza,2011,11,TOTAL,1
+Pando,90101,Cobija,2011,11,TOTAL,61
+Cochabamba,30101,Cochabamba,2011,11,TOTAL,745
+Cochabamba,30905,Colcapirhua,2011,11,TOTAL,14
+Santa Cruz,71301,Comarapa,2011,11,TOTAL,12
+Santa Cruz,71101,Concepcion,2011,11,TOTAL,6
+La Paz,21401,Coroico,2011,11,TOTAL,6
+Santa Cruz,70102,Cotoca,2011,11,TOTAL,2
+Chuquisaca,10902,Culpina,2011,11,TOTAL,2
+La Paz,20105,El Alto,2011,11,TOTAL,254
+Santa Cruz,70105,El Torno,2011,11,TOTAL,15
+Tarija,60601,Entre Rios Trj,2011,11,TOTAL,3
+Beni,80202,Guayaramerin,2011,11,TOTAL,40
+Oruro,40701,Huanuni,2011,11,TOTAL,9
+Beni,80803,Huaracaje,2011,11,TOTAL,1
+La Paz,20101,La Paz,2011,11,TOTAL,632
+Potosí,50203,Llallagua,2011,11,TOTAL,10
+Beni,80801,Magdalena,2011,11,TOTAL,7
+Santa Cruz,70903,Mairana,2011,11,TOTAL,10
+Chuquisaca,10501,Monteagudo,2011,11,TOTAL,14
+Santa Cruz,71001,Montero,2011,11,TOTAL,98
+Potosí,50404,Ocuri,2011,11,TOTAL,1
+Oruro,40101,Oruro,2011,11,TOTAL,256
+Chuquisaca,10401,Padilla,2011,11,TOTAL,4
+Santa Cruz,70502,Pailon,2011,11,TOTAL,4
+La Paz,21305,Patacamaya,2011,11,TOTAL,4
+Santa Cruz,70601,Portachuelo,2011,11,TOTAL,17
+Potosí,50101,Potosi,2011,11,TOTAL,101
+Santa Cruz,71402,Puerto Quijarro,2011,11,TOTAL,4
+Santa Cruz,71401,Puerto Suarez,2011,11,TOTAL,21
+Cochabamba,31205,Puerto Villarroel,2011,11,TOTAL,18
+Cochabamba,31401,Punata,2011,11,TOTAL,25
+Cochabamba,30901,Quillacollo,2011,11,TOTAL,49
+Beni,80301,Reyes,2011,11,TOTAL,3
+Beni,80201,Riberalta,2011,11,TOTAL,68
+Santa Cruz,70503,Robore,2011,11,TOTAL,10
+Beni,80304,Rurrenabaque,2011,11,TOTAL,15
+Cochabamba,31001,Sacaba,2011,11,TOTAL,39
+Santa Cruz,70901,Samaipata,2011,11,TOTAL,4
+Beni,80302,San Borja,2011,11,TOTAL,19
+La Paz,21502,San Buena Ventura,2011,11,TOTAL,2
+Santa Cruz,70402,San Carlos,2011,11,TOTAL,12
+Beni,80501,San Ignacio,2011,11,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2011,11,TOTAL,28
+Santa Cruz,71102,San Javier(stc),2011,11,TOTAL,5
+Beni,80701,San Joaquin,2011,11,TOTAL,14
+Santa Cruz,70501,San Jose De Chiquitos,2011,11,TOTAL,17
+Santa Cruz,70404,San Juan De Yapacani,2011,11,TOTAL,1
+Santa Cruz,71104,San Julian,2011,11,TOTAL,4
+Beni,80702,San Ramon Beni,2011,11,TOTAL,3
+Santa Cruz,71103,San Ramon Scz,2011,11,TOTAL,1
+Beni,80401,Santa Ana,2011,11,TOTAL,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,11,TOTAL,1423
+Beni,80303,Santa Rosa,2011,11,TOTAL,1
+Cochabamba,31602,Shinaota,2011,11,TOTAL,4
+Chuquisaca,10403,Sopachuy,2011,11,TOTAL,1
+Chuquisaca,10101,Sucre,2011,11,TOTAL,123
+Chuquisaca,10601,Tarabuco,2011,11,TOTAL,6
+Tarija,60101,Tarija,2011,11,TOTAL,184
+Chuquisaca,10202,Tarvita,2011,11,TOTAL,3
+Cochabamba,30903,Tiquipaya,2011,11,TOTAL,26
+Cochabamba,31201,Totora(cbba),2011,11,TOTAL,4
+Beni,80101,Trinidad,2011,11,TOTAL,72
+Potosí,50801,Tupiza,2011,11,TOTAL,5
+Potosí,51201,Uyuni,2011,11,TOTAL,22
+Santa Cruz,70801,Vallegrande,2011,11,TOTAL,12
+Tarija,60303,Villa Montes,2011,11,TOTAL,30
+Cochabamba,31003,Villa Tunari,2011,11,TOTAL,55
+Potosí,51501,Villazon,2011,11,TOTAL,9
+Cochabamba,30904,Vinto,2011,11,TOTAL,9
+Santa Cruz,70201,Warnes,2011,11,TOTAL,17
+Tarija,60301,Yacuiba,2011,11,TOTAL,63
+Santa Cruz,70403,Yapacani,2011,11,TOTAL,8
+Chuquisaca,10102,Yotala,2011,11,TOTAL,1
+La Paz,20201,Achacachi,2011,12,TOTAL,2
+Cochabamba,30201,Aiquile,2011,12,TOTAL,7
+Santa Cruz,71501,Ascencion De Guarayos,2011,12,TOTAL,9
+Chuquisaca,10201,Azurduy,2011,12,TOTAL,1
+Beni,80802,Baures,2011,12,TOTAL,1
+Tarija,60202,Bermejo,2011,12,TOTAL,16
+Chuquisaca,10701,Camargo,2011,12,TOTAL,13
+Santa Cruz,70706,Camiri,2011,12,TOTAL,52
+La Paz,22001,Caranavi,2011,12,TOTAL,16
+Oruro,40201,Challapata,2011,12,TOTAL,7
+Santa Cruz,70702,Charagua,2011,12,TOTAL,7
+La Paz,21101,Chulumani (v. De La Libertad),2011,12,TOTAL,6
+Cochabamba,30801,Cliza,2011,12,TOTAL,1
+Pando,90101,Cobija,2011,12,TOTAL,64
+Cochabamba,30101,Cochabamba,2011,12,TOTAL,788
+Cochabamba,30905,Colcapirhua,2011,12,TOTAL,21
+Santa Cruz,71301,Comarapa,2011,12,TOTAL,11
+Santa Cruz,71101,Concepcion,2011,12,TOTAL,4
+La Paz,21401,Coroico,2011,12,TOTAL,11
+Santa Cruz,70102,Cotoca,2011,12,TOTAL,7
+Chuquisaca,10902,Culpina,2011,12,TOTAL,2
+La Paz,20105,El Alto,2011,12,TOTAL,247
+Santa Cruz,70105,El Torno,2011,12,TOTAL,10
+Tarija,60601,Entre Rios Trj,2011,12,TOTAL,2
+Beni,80202,Guayaramerin,2011,12,TOTAL,38
+Oruro,40701,Huanuni,2011,12,TOTAL,12
+Beni,80803,Huaracaje,2011,12,TOTAL,1
+La Paz,20101,La Paz,2011,12,TOTAL,589
+Potosí,50203,Llallagua,2011,12,TOTAL,5
+Beni,80801,Magdalena,2011,12,TOTAL,7
+Santa Cruz,70903,Mairana,2011,12,TOTAL,14
+Chuquisaca,10501,Monteagudo,2011,12,TOTAL,24
+Santa Cruz,71001,Montero,2011,12,TOTAL,79
+Oruro,40101,Oruro,2011,12,TOTAL,266
+Chuquisaca,10401,Padilla,2011,12,TOTAL,8
+Santa Cruz,70502,Pailon,2011,12,TOTAL,9
+La Paz,21305,Patacamaya,2011,12,TOTAL,5
+Santa Cruz,70601,Portachuelo,2011,12,TOTAL,25
+Potosí,50101,Potosi,2011,12,TOTAL,98
+Santa Cruz,71401,Puerto Suarez,2011,12,TOTAL,19
+Cochabamba,31205,Puerto Villarroel,2011,12,TOTAL,29
+Cochabamba,31401,Punata,2011,12,TOTAL,20
+Cochabamba,30901,Quillacollo,2011,12,TOTAL,56
+Beni,80301,Reyes,2011,12,TOTAL,8
+Beni,80201,Riberalta,2011,12,TOTAL,102
+Santa Cruz,70503,Robore,2011,12,TOTAL,3
+Beni,80304,Rurrenabaque,2011,12,TOTAL,16
+Cochabamba,31001,Sacaba,2011,12,TOTAL,47
+Santa Cruz,70901,Samaipata,2011,12,TOTAL,7
+Beni,80302,San Borja,2011,12,TOTAL,24
+La Paz,21502,San Buena Ventura,2011,12,TOTAL,3
+Santa Cruz,70402,San Carlos,2011,12,TOTAL,9
+Beni,80501,San Ignacio,2011,12,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2011,12,TOTAL,28
+Santa Cruz,71102,San Javier(stc),2011,12,TOTAL,3
+Beni,80701,San Joaquin,2011,12,TOTAL,6
+Santa Cruz,70501,San Jose De Chiquitos,2011,12,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2011,12,TOTAL,3
+Santa Cruz,71104,San Julian,2011,12,TOTAL,4
+Chuquisaca,10702,San Lucas,2011,12,TOTAL,1
+Beni,80702,San Ramon Beni,2011,12,TOTAL,7
+Beni,80401,Santa Ana,2011,12,TOTAL,26
+Santa Cruz,70101,Santa Cruz De La Sierra,2011,12,TOTAL,1471
+Beni,80303,Santa Rosa,2011,12,TOTAL,6
+Cochabamba,31602,Shinaota,2011,12,TOTAL,4
+Chuquisaca,10403,Sopachuy,2011,12,TOTAL,2
+Chuquisaca,10101,Sucre,2011,12,TOTAL,212
+Tarija,60101,Tarija,2011,12,TOTAL,192
+Cochabamba,30903,Tiquipaya,2011,12,TOTAL,22
+Cochabamba,31201,Totora(cbba),2011,12,TOTAL,4
+Beni,80101,Trinidad,2011,12,TOTAL,87
+Potosí,50801,Tupiza,2011,12,TOTAL,10
+Potosí,51201,Uyuni,2011,12,TOTAL,24
+Santa Cruz,70801,Vallegrande,2011,12,TOTAL,9
+Tarija,60303,Villa Montes,2011,12,TOTAL,40
+Cochabamba,31003,Villa Tunari,2011,12,TOTAL,48
+Potosí,51501,Villazon,2011,12,TOTAL,8
+Cochabamba,30904,Vinto,2011,12,TOTAL,10
+Santa Cruz,70201,Warnes,2011,12,TOTAL,20
+Tarija,60301,Yacuiba,2011,12,TOTAL,75
+Santa Cruz,70403,Yapacani,2011,12,TOTAL,7

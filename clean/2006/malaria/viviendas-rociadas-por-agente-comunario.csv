@@ -1,0 +1,71 @@
+department,municipality_id,municipality,year,month,population,value
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,1,Viviendas rociadas por agente comunario,85
+Pando,90302,San Lorenzo(pnd),2006,1,Viviendas rociadas por agente comunario,1
+La Paz,20606,Tipuani,2006,1,Viviendas rociadas por agente comunario,2
+Tarija,60601,Entre Rios,2006,2,Viviendas rociadas por agente comunario,1
+Santa Cruz,70602,Santa Rosa Del Sara,2006,2,Viviendas rociadas por agente comunario,119
+Cochabamba,30902,Sipe Sipe,2006,2,Viviendas rociadas por agente comunario,3
+Beni,80802,Baures,2006,3,Viviendas rociadas por agente comunario,85
+Cochabamba,30203,Omereque,2006,3,Viviendas rociadas por agente comunario,1
+Cochabamba,30902,Sipe Sipe,2006,3,Viviendas rociadas por agente comunario,3
+Cochabamba,30201,Aiquile,2006,4,Viviendas rociadas por agente comunario,2
+Beni,80801,Magdalena,2006,4,Viviendas rociadas por agente comunario,7
+Chuquisaca,10501,Monteagudo,2006,4,Viviendas rociadas por agente comunario,1
+Beni,80202,Guayaramerin,2006,5,Viviendas rociadas por agente comunario,7
+Potosí,50301,Betanzos,2006,6,Viviendas rociadas por agente comunario,7
+Potosí,50601,Cotagaita,2006,6,Viviendas rociadas por agente comunario,35
+Beni,80801,Magdalena,2006,6,Viviendas rociadas por agente comunario,20
+Beni,80501,San Ignacio,2006,6,Viviendas rociadas por agente comunario,10
+Santa Cruz,71002,General Saavedra,2006,7,Viviendas rociadas por agente comunario,2
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,7,Viviendas rociadas por agente comunario,1
+Cochabamba,30203,Omereque,2006,7,Viviendas rociadas por agente comunario,1
+Beni,80201,Riberalta,2006,7,Viviendas rociadas por agente comunario,318
+Tarija,60301,Yacuiba,2006,7,Viviendas rociadas por agente comunario,59
+Pando,90503,Eureka (santos Mercado),2006,8,Viviendas rociadas por agente comunario,46
+Beni,80201,Riberalta,2006,8,Viviendas rociadas por agente comunario,70
+Cochabamba,30902,Sipe Sipe,2006,8,Viviendas rociadas por agente comunario,1
+Beni,80802,Baures,2006,9,Viviendas rociadas por agente comunario,38
+Beni,80802,Baures,2006,10,Viviendas rociadas por agente comunario,95
+Pando,90104,Bella Flor,2006,10,Viviendas rociadas por agente comunario,1
+Santa Cruz,70902,Pampa Grande,2006,10,Viviendas rociadas por agente comunario,2
+Tarija,60101,Tarija,2006,10,Viviendas rociadas por agente comunario,25
+Tarija,60202,Bermejo,2006,11,Viviendas rociadas por agente comunario,20
+Pando,90402,Ingavi (humaita),2006,11,Viviendas rociadas por agente comunario,14
+Cochabamba,31401,Punata,2006,11,Viviendas rociadas por agente comunario,5
+Cochabamba,30404,Sacabamba,2006,11,Viviendas rociadas por agente comunario,1
+Chuquisaca,10102,Yotala,2006,12,Viviendas rociadas por agente comunario,17
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,1,TOTAL,85
+Pando,90302,San Lorenzo(pnd),2006,1,TOTAL,1
+La Paz,20606,Tipuani,2006,1,TOTAL,2
+Tarija,60601,Entre Rios,2006,2,TOTAL,1
+Santa Cruz,70602,Santa Rosa Del Sara,2006,2,TOTAL,119
+Cochabamba,30902,Sipe Sipe,2006,2,TOTAL,3
+Beni,80802,Baures,2006,3,TOTAL,85
+Cochabamba,30203,Omereque,2006,3,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2006,3,TOTAL,3
+Cochabamba,30201,Aiquile,2006,4,TOTAL,2
+Beni,80801,Magdalena,2006,4,TOTAL,7
+Chuquisaca,10501,Monteagudo,2006,4,TOTAL,1
+Beni,80202,Guayaramerin,2006,5,TOTAL,7
+Potosí,50301,Betanzos,2006,6,TOTAL,7
+Potosí,50601,Cotagaita,2006,6,TOTAL,35
+Beni,80801,Magdalena,2006,6,TOTAL,20
+Beni,80501,San Ignacio,2006,6,TOTAL,10
+Santa Cruz,71002,General Saavedra,2006,7,TOTAL,2
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,7,TOTAL,1
+Cochabamba,30203,Omereque,2006,7,TOTAL,1
+Beni,80201,Riberalta,2006,7,TOTAL,318
+Tarija,60301,Yacuiba,2006,7,TOTAL,59
+Pando,90503,Eureka (santos Mercado),2006,8,TOTAL,46
+Beni,80201,Riberalta,2006,8,TOTAL,70
+Cochabamba,30902,Sipe Sipe,2006,8,TOTAL,1
+Beni,80802,Baures,2006,9,TOTAL,38
+Beni,80802,Baures,2006,10,TOTAL,95
+Pando,90104,Bella Flor,2006,10,TOTAL,1
+Santa Cruz,70902,Pampa Grande,2006,10,TOTAL,2
+Tarija,60101,Tarija,2006,10,TOTAL,25
+Tarija,60202,Bermejo,2006,11,TOTAL,20
+Pando,90402,Ingavi (humaita),2006,11,TOTAL,14
+Cochabamba,31401,Punata,2006,11,TOTAL,5
+Cochabamba,30404,Sacabamba,2006,11,TOTAL,1
+Chuquisaca,10102,Yotala,2006,12,TOTAL,17

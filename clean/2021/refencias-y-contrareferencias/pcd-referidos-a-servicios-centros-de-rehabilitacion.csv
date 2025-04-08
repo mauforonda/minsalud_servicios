@@ -1,0 +1,99 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10101,Sucre,2021,1,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60101,Tarija,2021,1,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Beni,80201,Riberalta,2021,2,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10704,Villa Charcas,2021,2,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,20101,La Paz,2021,3,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,20105,El Alto,2021,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40101,Oruro,2021,4,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40101,Oruro,2021,5,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Tarija,60101,Tarija,2021,5,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Cochabamba,31302,Vila Vila,2021,5,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,20105,El Alto,2021,6,PCD referidos a Servicios/Centros de Rehabilitacion,3
+Potosí,50203,Llallagua,2021,6,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Oruro,40101,Oruro,2021,6,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Tarija,60101,Tarija,2021,6,PCD referidos a Servicios/Centros de Rehabilitacion,4
+La Paz,20101,La Paz,2021,7,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Potosí,50203,Llallagua,2021,7,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71001,Montero,2021,7,PCD referidos a Servicios/Centros de Rehabilitacion,4
+Tarija,60101,Tarija,2021,7,PCD referidos a Servicios/Centros de Rehabilitacion,1
+La Paz,20105,El Alto,2021,8,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,20101,La Paz,2021,8,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Chuquisaca,10501,Monteagudo,2021,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71001,Montero,2021,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60501,San Lorenzo(tja),2021,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Chuquisaca,10702,San Lucas,2021,8,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60101,Tarija,2021,8,PCD referidos a Servicios/Centros de Rehabilitacion,5
+La Paz,20101,La Paz,2021,9,PCD referidos a Servicios/Centros de Rehabilitacion,114
+Santa Cruz,71001,Montero,2021,9,PCD referidos a Servicios/Centros de Rehabilitacion,24
+Cochabamba,31001,Sacaba,2021,9,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Tarija,60101,Tarija,2021,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70201,Warnes,2021,9,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71301,Comarapa,2021,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71001,Montero,2021,10,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Tarija,60501,San Lorenzo(tja),2021,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60101,Tarija,2021,10,PCD referidos a Servicios/Centros de Rehabilitacion,6
+Cochabamba,31302,Vila Vila,2021,10,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,70201,Warnes,2021,10,PCD referidos a Servicios/Centros de Rehabilitacion,93
+La Paz,22001,Caranavi,2021,11,PCD referidos a Servicios/Centros de Rehabilitacion,4
+La Paz,20105,El Alto,2021,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Oruro,40103,El Choro,2021,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71001,Montero,2021,11,PCD referidos a Servicios/Centros de Rehabilitacion,5
+Oruro,40101,Oruro,2021,11,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60101,Tarija,2021,11,PCD referidos a Servicios/Centros de Rehabilitacion,2
+La Paz,22001,Caranavi,2021,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Santa Cruz,71001,Montero,2021,12,PCD referidos a Servicios/Centros de Rehabilitacion,7
+Tarija,60501,San Lorenzo(tja),2021,12,PCD referidos a Servicios/Centros de Rehabilitacion,1
+Tarija,60101,Tarija,2021,12,PCD referidos a Servicios/Centros de Rehabilitacion,10
+Tarija,60401,Uriondo (a. Concepcion),2021,12,PCD referidos a Servicios/Centros de Rehabilitacion,2
+Chuquisaca,10101,Sucre,2021,1,TOTAL,1
+Tarija,60101,Tarija,2021,1,TOTAL,1
+Beni,80201,Riberalta,2021,2,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2021,2,TOTAL,2
+La Paz,20101,La Paz,2021,3,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,TOTAL,2
+La Paz,20105,El Alto,2021,4,TOTAL,1
+Oruro,40101,Oruro,2021,4,TOTAL,1
+Oruro,40101,Oruro,2021,5,TOTAL,3
+Tarija,60101,Tarija,2021,5,TOTAL,2
+Cochabamba,31302,Vila Vila,2021,5,TOTAL,1
+La Paz,20105,El Alto,2021,6,TOTAL,3
+Potosí,50203,Llallagua,2021,6,TOTAL,2
+Oruro,40101,Oruro,2021,6,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,TOTAL,2
+Tarija,60101,Tarija,2021,6,TOTAL,4
+La Paz,20101,La Paz,2021,7,TOTAL,7
+Potosí,50203,Llallagua,2021,7,TOTAL,1
+Santa Cruz,71001,Montero,2021,7,TOTAL,4
+Tarija,60101,Tarija,2021,7,TOTAL,1
+La Paz,20105,El Alto,2021,8,TOTAL,2
+La Paz,20101,La Paz,2021,8,TOTAL,2
+Chuquisaca,10501,Monteagudo,2021,8,TOTAL,1
+Santa Cruz,71001,Montero,2021,8,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2021,8,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,8,TOTAL,1
+Tarija,60101,Tarija,2021,8,TOTAL,5
+La Paz,20101,La Paz,2021,9,TOTAL,114
+Santa Cruz,71001,Montero,2021,9,TOTAL,24
+Cochabamba,31001,Sacaba,2021,9,TOTAL,2
+Tarija,60101,Tarija,2021,9,TOTAL,1
+Santa Cruz,70201,Warnes,2021,9,TOTAL,1
+Santa Cruz,71301,Comarapa,2021,10,TOTAL,1
+Santa Cruz,71001,Montero,2021,10,TOTAL,7
+Tarija,60501,San Lorenzo(tja),2021,10,TOTAL,1
+Tarija,60101,Tarija,2021,10,TOTAL,6
+Cochabamba,31302,Vila Vila,2021,10,TOTAL,1
+Santa Cruz,70201,Warnes,2021,10,TOTAL,93
+La Paz,22001,Caranavi,2021,11,TOTAL,4
+La Paz,20105,El Alto,2021,11,TOTAL,1
+Oruro,40103,El Choro,2021,11,TOTAL,1
+Santa Cruz,71001,Montero,2021,11,TOTAL,5
+Oruro,40101,Oruro,2021,11,TOTAL,1
+Tarija,60101,Tarija,2021,11,TOTAL,2
+La Paz,22001,Caranavi,2021,12,TOTAL,1
+Santa Cruz,71001,Montero,2021,12,TOTAL,7
+Tarija,60501,San Lorenzo(tja),2021,12,TOTAL,1
+Tarija,60101,Tarija,2021,12,TOTAL,10
+Tarija,60401,Uriondo (a. Concepcion),2021,12,TOTAL,2

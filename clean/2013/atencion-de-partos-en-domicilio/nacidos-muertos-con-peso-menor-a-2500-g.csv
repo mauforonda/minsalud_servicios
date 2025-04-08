@@ -1,0 +1,53 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10302,Presto,2013,1,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,21201,Pucarani,2013,1,Nacidos muertos con peso menor a 2500 g.,1
+Cochabamba,30901,Quillacollo,2013,1,Nacidos muertos con peso menor a 2500 g.,3
+La Paz,21502,San Buena Ventura,2013,1,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,50102,Tinguipaya,2013,1,Nacidos muertos con peso menor a 2500 g.,1
+Santa Cruz,70201,Warnes,2013,1,Nacidos muertos con peso menor a 2500 g.,1
+Santa Cruz,70702,Charagua,2013,3,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,50702,Caripuyo,2013,4,Nacidos muertos con peso menor a 2500 g.,1
+Santa Cruz,71004,Fernandez Alonso,2013,5,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10303,Mojocoya,2013,6,Nacidos muertos con peso menor a 2500 g.,2
+Chuquisaca,10702,San Lucas,2013,6,Nacidos muertos con peso menor a 2500 g.,1
+Cochabamba,31301,Mizque,2013,7,Nacidos muertos con peso menor a 2500 g.,1
+Tarija,60101,Tarija,2013,7,Nacidos muertos con peso menor a 2500 g.,1
+Santa Cruz,71101,Concepcion,2013,8,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10402,Tomina,2013,8,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,51103,Ckochas,2013,9,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,50404,Ocuri,2013,9,Nacidos muertos con peso menor a 2500 g.,1
+Cochabamba,31001,Sacaba,2013,9,Nacidos muertos con peso menor a 2500 g.,1
+Santa Cruz,71005,San Pedro,2013,10,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,20801,Viacha,2013,10,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,21304,Calamarca,2013,11,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,20806,Jesus De Machaca,2013,11,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,20403,Puerto Carabuco,2013,11,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10704,Villa Charcas,2013,11,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,21102,Irupana (villa De Lanza),2013,12,Nacidos muertos con peso menor a 2500 g.,1
+Cochabamba,30302,Morochata,2013,12,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10302,Presto,2013,1,TOTAL,1
+La Paz,21201,Pucarani,2013,1,TOTAL,1
+Cochabamba,30901,Quillacollo,2013,1,TOTAL,3
+La Paz,21502,San Buena Ventura,2013,1,TOTAL,1
+Potosí,50102,Tinguipaya,2013,1,TOTAL,1
+Santa Cruz,70201,Warnes,2013,1,TOTAL,1
+Santa Cruz,70702,Charagua,2013,3,TOTAL,1
+Potosí,50702,Caripuyo,2013,4,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2013,5,TOTAL,1
+Chuquisaca,10303,Mojocoya,2013,6,TOTAL,2
+Chuquisaca,10702,San Lucas,2013,6,TOTAL,1
+Cochabamba,31301,Mizque,2013,7,TOTAL,1
+Tarija,60101,Tarija,2013,7,TOTAL,1
+Santa Cruz,71101,Concepcion,2013,8,TOTAL,1
+Chuquisaca,10402,Tomina,2013,8,TOTAL,1
+Potosí,51103,Ckochas,2013,9,TOTAL,1
+Potosí,50404,Ocuri,2013,9,TOTAL,1
+Cochabamba,31001,Sacaba,2013,9,TOTAL,1
+Santa Cruz,71005,San Pedro,2013,10,TOTAL,1
+La Paz,20801,Viacha,2013,10,TOTAL,1
+La Paz,21304,Calamarca,2013,11,TOTAL,1
+La Paz,20806,Jesus De Machaca,2013,11,TOTAL,1
+La Paz,20403,Puerto Carabuco,2013,11,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2013,11,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2013,12,TOTAL,1
+Cochabamba,30302,Morochata,2013,12,TOTAL,1

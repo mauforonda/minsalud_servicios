@@ -1,0 +1,871 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,50802,Atocha,2008,1,Diabetes en mayores de 5 anos,2
+La Paz,20105,El Alto,2008,1,Diabetes en mayores de 5 anos,4
+Beni,80202,Guayaramerin,2008,1,Diabetes en mayores de 5 anos,10
+La Paz,20101,La Paz,2008,1,Diabetes en mayores de 5 anos,14
+Potosí,50203,Llallagua,2008,1,Diabetes en mayores de 5 anos,1
+Beni,80801,Magdalena,2008,1,Diabetes en mayores de 5 anos,1
+Oruro,40101,Oruro,2008,1,Diabetes en mayores de 5 anos,12
+Santa Cruz,70601,Portachuelo,2008,1,Diabetes en mayores de 5 anos,48
+Potosí,50101,Potosi,2008,1,Diabetes en mayores de 5 anos,1
+Cochabamba,31401,Punata,2008,1,Diabetes en mayores de 5 anos,2
+Beni,80201,Riberalta,2008,1,Diabetes en mayores de 5 anos,8
+Santa Cruz,70301,San Ignacio De Velasco,2008,1,Diabetes en mayores de 5 anos,3
+Beni,80701,San Joaquin,2008,1,Diabetes en mayores de 5 anos,1
+Beni,80401,Santa Ana,2008,1,Diabetes en mayores de 5 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,Diabetes en mayores de 5 anos,38
+Beni,80303,Santa Rosa,2008,1,Diabetes en mayores de 5 anos,9
+Chuquisaca,10101,Sucre,2008,1,Diabetes en mayores de 5 anos,1
+La Paz,20606,Tipuani,2008,1,Diabetes en mayores de 5 anos,2
+Beni,80101,Trinidad,2008,1,Diabetes en mayores de 5 anos,6
+Potosí,50801,Tupiza,2008,1,Diabetes en mayores de 5 anos,18
+Tarija,60301,Yacuiba,2008,1,Diabetes en mayores de 5 anos,4
+Potosí,50802,Atocha,2008,2,Diabetes en mayores de 5 anos,2
+Tarija,60202,Bermejo,2008,2,Diabetes en mayores de 5 anos,1
+La Paz,22001,Caranavi,2008,2,Diabetes en mayores de 5 anos,2
+Pando,90101,Cobija,2008,2,Diabetes en mayores de 5 anos,5
+Cochabamba,30101,Cochabamba,2008,2,Diabetes en mayores de 5 anos,21
+La Paz,21401,Coroico,2008,2,Diabetes en mayores de 5 anos,2
+La Paz,20105,El Alto,2008,2,Diabetes en mayores de 5 anos,14
+Beni,80202,Guayaramerin,2008,2,Diabetes en mayores de 5 anos,7
+La Paz,20101,La Paz,2008,2,Diabetes en mayores de 5 anos,15
+Chuquisaca,10501,Monteagudo,2008,2,Diabetes en mayores de 5 anos,1
+Oruro,40101,Oruro,2008,2,Diabetes en mayores de 5 anos,5
+Santa Cruz,70601,Portachuelo,2008,2,Diabetes en mayores de 5 anos,44
+Potosí,50101,Potosi,2008,2,Diabetes en mayores de 5 anos,7
+Cochabamba,31401,Punata,2008,2,Diabetes en mayores de 5 anos,3
+Beni,80301,Reyes,2008,2,Diabetes en mayores de 5 anos,1
+Beni,80201,Riberalta,2008,2,Diabetes en mayores de 5 anos,2
+Cochabamba,31001,Sacaba,2008,2,Diabetes en mayores de 5 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,2,Diabetes en mayores de 5 anos,2
+Beni,80401,Santa Ana,2008,2,Diabetes en mayores de 5 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,Diabetes en mayores de 5 anos,38
+Chuquisaca,10101,Sucre,2008,2,Diabetes en mayores de 5 anos,4
+Tarija,60101,Tarija,2008,2,Diabetes en mayores de 5 anos,12
+Beni,80101,Trinidad,2008,2,Diabetes en mayores de 5 anos,16
+Santa Cruz,70801,Vallegrande,2008,2,Diabetes en mayores de 5 anos,1
+Tarija,60301,Yacuiba,2008,2,Diabetes en mayores de 5 anos,1
+Potosí,50802,Atocha,2008,3,Diabetes en mayores de 5 anos,2
+Tarija,60202,Bermejo,2008,3,Diabetes en mayores de 5 anos,2
+Pando,90101,Cobija,2008,3,Diabetes en mayores de 5 anos,4
+Cochabamba,30101,Cochabamba,2008,3,Diabetes en mayores de 5 anos,21
+Cochabamba,30905,Colcapirhua,2008,3,Diabetes en mayores de 5 anos,3
+La Paz,21401,Coroico,2008,3,Diabetes en mayores de 5 anos,5
+La Paz,20105,El Alto,2008,3,Diabetes en mayores de 5 anos,3
+Tarija,60601,Entre Rios,2008,3,Diabetes en mayores de 5 anos,1
+Beni,80202,Guayaramerin,2008,3,Diabetes en mayores de 5 anos,7
+La Paz,20101,La Paz,2008,3,Diabetes en mayores de 5 anos,13
+Potosí,50203,Llallagua,2008,3,Diabetes en mayores de 5 anos,1
+Chuquisaca,11003,Machareti,2008,3,Diabetes en mayores de 5 anos,2
+Oruro,40101,Oruro,2008,3,Diabetes en mayores de 5 anos,2
+La Paz,21305,Patacamaya,2008,3,Diabetes en mayores de 5 anos,1
+Santa Cruz,70601,Portachuelo,2008,3,Diabetes en mayores de 5 anos,40
+Potosí,50101,Potosi,2008,3,Diabetes en mayores de 5 anos,4
+Beni,80301,Reyes,2008,3,Diabetes en mayores de 5 anos,3
+Beni,80201,Riberalta,2008,3,Diabetes en mayores de 5 anos,4
+Cochabamba,31001,Sacaba,2008,3,Diabetes en mayores de 5 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,3,Diabetes en mayores de 5 anos,2
+Chuquisaca,10702,San Lucas,2008,3,Diabetes en mayores de 5 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,Diabetes en mayores de 5 anos,30
+Beni,80303,Santa Rosa,2008,3,Diabetes en mayores de 5 anos,3
+Chuquisaca,10101,Sucre,2008,3,Diabetes en mayores de 5 anos,41
+Tarija,60101,Tarija,2008,3,Diabetes en mayores de 5 anos,10
+Cochabamba,30903,Tiquipaya,2008,3,Diabetes en mayores de 5 anos,1
+Beni,80101,Trinidad,2008,3,Diabetes en mayores de 5 anos,5
+Potosí,50801,Tupiza,2008,3,Diabetes en mayores de 5 anos,1
+Tarija,60301,Yacuiba,2008,3,Diabetes en mayores de 5 anos,6
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,4,Diabetes en mayores de 5 anos,1
+La Paz,22001,Caranavi,2008,4,Diabetes en mayores de 5 anos,1
+Pando,90101,Cobija,2008,4,Diabetes en mayores de 5 anos,4
+Cochabamba,30101,Cochabamba,2008,4,Diabetes en mayores de 5 anos,14
+Cochabamba,30905,Colcapirhua,2008,4,Diabetes en mayores de 5 anos,2
+La Paz,20105,El Alto,2008,4,Diabetes en mayores de 5 anos,5
+Beni,80202,Guayaramerin,2008,4,Diabetes en mayores de 5 anos,14
+La Paz,20101,La Paz,2008,4,Diabetes en mayores de 5 anos,15
+Santa Cruz,70803,Moro Moro,2008,4,Diabetes en mayores de 5 anos,1
+Oruro,40101,Oruro,2008,4,Diabetes en mayores de 5 anos,20
+La Paz,21305,Patacamaya,2008,4,Diabetes en mayores de 5 anos,1
+Santa Cruz,70601,Portachuelo,2008,4,Diabetes en mayores de 5 anos,32
+Potosí,50101,Potosi,2008,4,Diabetes en mayores de 5 anos,6
+Cochabamba,31205,Puerto Villarroel,2008,4,Diabetes en mayores de 5 anos,1
+Beni,80301,Reyes,2008,4,Diabetes en mayores de 5 anos,2
+Beni,80201,Riberalta,2008,4,Diabetes en mayores de 5 anos,7
+Cochabamba,31001,Sacaba,2008,4,Diabetes en mayores de 5 anos,4
+Santa Cruz,70901,Samaipata,2008,4,Diabetes en mayores de 5 anos,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,Diabetes en mayores de 5 anos,83
+Beni,80303,Santa Rosa,2008,4,Diabetes en mayores de 5 anos,10
+Chuquisaca,10101,Sucre,2008,4,Diabetes en mayores de 5 anos,4
+Chuquisaca,10601,Tarabuco,2008,4,Diabetes en mayores de 5 anos,1
+Tarija,60101,Tarija,2008,4,Diabetes en mayores de 5 anos,24
+Beni,80101,Trinidad,2008,4,Diabetes en mayores de 5 anos,5
+Potosí,50801,Tupiza,2008,4,Diabetes en mayores de 5 anos,28
+Santa Cruz,70801,Vallegrande,2008,4,Diabetes en mayores de 5 anos,2
+Tarija,60301,Yacuiba,2008,4,Diabetes en mayores de 5 anos,2
+Potosí,50802,Atocha,2008,5,Diabetes en mayores de 5 anos,4
+Tarija,60202,Bermejo,2008,5,Diabetes en mayores de 5 anos,3
+Chuquisaca,10701,Camargo,2008,5,Diabetes en mayores de 5 anos,3
+La Paz,22001,Caranavi,2008,5,Diabetes en mayores de 5 anos,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,5,Diabetes en mayores de 5 anos,1
+Pando,90101,Cobija,2008,5,Diabetes en mayores de 5 anos,7
+Cochabamba,30101,Cochabamba,2008,5,Diabetes en mayores de 5 anos,21
+Cochabamba,30905,Colcapirhua,2008,5,Diabetes en mayores de 5 anos,1
+Santa Cruz,71101,Concepcion,2008,5,Diabetes en mayores de 5 anos,1
+La Paz,21401,Coroico,2008,5,Diabetes en mayores de 5 anos,2
+Chuquisaca,10902,Culpina,2008,5,Diabetes en mayores de 5 anos,1
+La Paz,20105,El Alto,2008,5,Diabetes en mayores de 5 anos,6
+Santa Cruz,71004,Fernandez Alonso,2008,5,Diabetes en mayores de 5 anos,1
+Beni,80202,Guayaramerin,2008,5,Diabetes en mayores de 5 anos,17
+La Paz,20101,La Paz,2008,5,Diabetes en mayores de 5 anos,13
+Santa Cruz,70903,Mairana,2008,5,Diabetes en mayores de 5 anos,1
+Oruro,40101,Oruro,2008,5,Diabetes en mayores de 5 anos,6
+Santa Cruz,70601,Portachuelo,2008,5,Diabetes en mayores de 5 anos,43
+La Paz,20403,Puerto Carabuco,2008,5,Diabetes en mayores de 5 anos,1
+Cochabamba,31401,Punata,2008,5,Diabetes en mayores de 5 anos,1
+Beni,80301,Reyes,2008,5,Diabetes en mayores de 5 anos,2
+Beni,80201,Riberalta,2008,5,Diabetes en mayores de 5 anos,8
+Cochabamba,31001,Sacaba,2008,5,Diabetes en mayores de 5 anos,3
+Beni,80302,San Borja,2008,5,Diabetes en mayores de 5 anos,8
+Santa Cruz,70301,San Ignacio De Velasco,2008,5,Diabetes en mayores de 5 anos,2
+Santa Cruz,70501,San Jose De Chiquitos,2008,5,Diabetes en mayores de 5 anos,2
+Santa Cruz,70302,San Miguel De Velasco,2008,5,Diabetes en mayores de 5 anos,1
+Beni,80702,San Ramon,2008,5,Diabetes en mayores de 5 anos,1
+Beni,80401,Santa Ana,2008,5,Diabetes en mayores de 5 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,Diabetes en mayores de 5 anos,100
+Beni,80303,Santa Rosa,2008,5,Diabetes en mayores de 5 anos,16
+Chuquisaca,10101,Sucre,2008,5,Diabetes en mayores de 5 anos,21
+Tarija,60101,Tarija,2008,5,Diabetes en mayores de 5 anos,20
+Potosí,50801,Tupiza,2008,5,Diabetes en mayores de 5 anos,17
+Santa Cruz,70801,Vallegrande,2008,5,Diabetes en mayores de 5 anos,1
+Tarija,60303,Villa Montes,2008,5,Diabetes en mayores de 5 anos,1
+Cochabamba,31003,Villa Tunari,2008,5,Diabetes en mayores de 5 anos,1
+Tarija,60301,Yacuiba,2008,5,Diabetes en mayores de 5 anos,7
+Santa Cruz,71501,Ascencion De Guarayos,2008,6,Diabetes en mayores de 5 anos,2
+Potosí,50802,Atocha,2008,6,Diabetes en mayores de 5 anos,5
+Tarija,60202,Bermejo,2008,6,Diabetes en mayores de 5 anos,1
+Chuquisaca,10701,Camargo,2008,6,Diabetes en mayores de 5 anos,1
+Santa Cruz,70706,Camiri,2008,6,Diabetes en mayores de 5 anos,7
+La Paz,22001,Caranavi,2008,6,Diabetes en mayores de 5 anos,1
+Santa Cruz,70702,Charagua,2008,6,Diabetes en mayores de 5 anos,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,6,Diabetes en mayores de 5 anos,1
+Pando,90101,Cobija,2008,6,Diabetes en mayores de 5 anos,16
+Cochabamba,30101,Cochabamba,2008,6,Diabetes en mayores de 5 anos,33
+Cochabamba,30905,Colcapirhua,2008,6,Diabetes en mayores de 5 anos,2
+La Paz,21401,Coroico,2008,6,Diabetes en mayores de 5 anos,1
+La Paz,20105,El Alto,2008,6,Diabetes en mayores de 5 anos,12
+Tarija,60601,Entre Rios,2008,6,Diabetes en mayores de 5 anos,1
+Santa Cruz,71004,Fernandez Alonso,2008,6,Diabetes en mayores de 5 anos,4
+Beni,80202,Guayaramerin,2008,6,Diabetes en mayores de 5 anos,14
+La Paz,20101,La Paz,2008,6,Diabetes en mayores de 5 anos,12
+Potosí,50203,Llallagua,2008,6,Diabetes en mayores de 5 anos,1
+Beni,80801,Magdalena,2008,6,Diabetes en mayores de 5 anos,4
+Oruro,40101,Oruro,2008,6,Diabetes en mayores de 5 anos,3
+Chuquisaca,10401,Padilla,2008,6,Diabetes en mayores de 5 anos,2
+Santa Cruz,70601,Portachuelo,2008,6,Diabetes en mayores de 5 anos,10
+Beni,80301,Reyes,2008,6,Diabetes en mayores de 5 anos,1
+Beni,80201,Riberalta,2008,6,Diabetes en mayores de 5 anos,5
+Santa Cruz,70503,Robore,2008,6,Diabetes en mayores de 5 anos,1
+Cochabamba,31001,Sacaba,2008,6,Diabetes en mayores de 5 anos,4
+Santa Cruz,70301,San Ignacio De Velasco,2008,6,Diabetes en mayores de 5 anos,2
+Santa Cruz,71104,San Julian,2008,6,Diabetes en mayores de 5 anos,4
+Santa Cruz,70302,San Miguel De Velasco,2008,6,Diabetes en mayores de 5 anos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,Diabetes en mayores de 5 anos,57
+Beni,80303,Santa Rosa,2008,6,Diabetes en mayores de 5 anos,16
+Cochabamba,30902,Sipe Sipe,2008,6,Diabetes en mayores de 5 anos,2
+Chuquisaca,10101,Sucre,2008,6,Diabetes en mayores de 5 anos,7
+Tarija,60101,Tarija,2008,6,Diabetes en mayores de 5 anos,17
+La Paz,20606,Tipuani,2008,6,Diabetes en mayores de 5 anos,1
+Beni,80101,Trinidad,2008,6,Diabetes en mayores de 5 anos,12
+Potosí,50801,Tupiza,2008,6,Diabetes en mayores de 5 anos,2
+Santa Cruz,70801,Vallegrande,2008,6,Diabetes en mayores de 5 anos,1
+Cochabamba,31003,Villa Tunari,2008,6,Diabetes en mayores de 5 anos,1
+Tarija,60301,Yacuiba,2008,6,Diabetes en mayores de 5 anos,6
+La Paz,20701,Apolo,2008,7,Diabetes en mayores de 5 anos,1
+Potosí,50802,Atocha,2008,7,Diabetes en mayores de 5 anos,2
+Santa Cruz,70706,Camiri,2008,7,Diabetes en mayores de 5 anos,13
+La Paz,22001,Caranavi,2008,7,Diabetes en mayores de 5 anos,1
+Santa Cruz,70702,Charagua,2008,7,Diabetes en mayores de 5 anos,3
+Pando,90101,Cobija,2008,7,Diabetes en mayores de 5 anos,12
+Cochabamba,30101,Cochabamba,2008,7,Diabetes en mayores de 5 anos,64
+Cochabamba,30905,Colcapirhua,2008,7,Diabetes en mayores de 5 anos,1
+La Paz,21401,Coroico,2008,7,Diabetes en mayores de 5 anos,1
+La Paz,20105,El Alto,2008,7,Diabetes en mayores de 5 anos,9
+La Paz,20602,Guanay,2008,7,Diabetes en mayores de 5 anos,1
+Beni,80202,Guayaramerin,2008,7,Diabetes en mayores de 5 anos,18
+Santa Cruz,70104,La Guardia,2008,7,Diabetes en mayores de 5 anos,1
+La Paz,20101,La Paz,2008,7,Diabetes en mayores de 5 anos,11
+Beni,80801,Magdalena,2008,7,Diabetes en mayores de 5 anos,2
+Oruro,40101,Oruro,2008,7,Diabetes en mayores de 5 anos,7
+La Paz,21305,Patacamaya,2008,7,Diabetes en mayores de 5 anos,1
+Santa Cruz,70601,Portachuelo,2008,7,Diabetes en mayores de 5 anos,45
+Potosí,50101,Potosi,2008,7,Diabetes en mayores de 5 anos,7
+Cochabamba,31001,Sacaba,2008,7,Diabetes en mayores de 5 anos,1
+Beni,80302,San Borja,2008,7,Diabetes en mayores de 5 anos,7
+Santa Cruz,70402,San Carlos,2008,7,Diabetes en mayores de 5 anos,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,7,Diabetes en mayores de 5 anos,6
+Santa Cruz,71104,San Julian,2008,7,Diabetes en mayores de 5 anos,4
+Santa Cruz,70302,San Miguel De Velasco,2008,7,Diabetes en mayores de 5 anos,1
+Beni,80702,San Ramon,2008,7,Diabetes en mayores de 5 anos,2
+Beni,80401,Santa Ana,2008,7,Diabetes en mayores de 5 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,Diabetes en mayores de 5 anos,80
+Beni,80303,Santa Rosa,2008,7,Diabetes en mayores de 5 anos,4
+Cochabamba,30902,Sipe Sipe,2008,7,Diabetes en mayores de 5 anos,1
+Chuquisaca,10101,Sucre,2008,7,Diabetes en mayores de 5 anos,11
+Tarija,60101,Tarija,2008,7,Diabetes en mayores de 5 anos,6
+Beni,80101,Trinidad,2008,7,Diabetes en mayores de 5 anos,21
+Santa Cruz,70801,Vallegrande,2008,7,Diabetes en mayores de 5 anos,2
+Cochabamba,31003,Villa Tunari,2008,7,Diabetes en mayores de 5 anos,5
+Tarija,60301,Yacuiba,2008,7,Diabetes en mayores de 5 anos,8
+Potosí,50802,Atocha,2008,8,Diabetes en mayores de 5 anos,2
+Tarija,60202,Bermejo,2008,8,Diabetes en mayores de 5 anos,3
+Santa Cruz,70706,Camiri,2008,8,Diabetes en mayores de 5 anos,9
+La Paz,22001,Caranavi,2008,8,Diabetes en mayores de 5 anos,2
+Santa Cruz,70702,Charagua,2008,8,Diabetes en mayores de 5 anos,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,8,Diabetes en mayores de 5 anos,1
+Pando,90101,Cobija,2008,8,Diabetes en mayores de 5 anos,5
+Cochabamba,30101,Cochabamba,2008,8,Diabetes en mayores de 5 anos,62
+Santa Cruz,71101,Concepcion,2008,8,Diabetes en mayores de 5 anos,1
+La Paz,21401,Coroico,2008,8,Diabetes en mayores de 5 anos,2
+Santa Cruz,70102,Cotoca,2008,8,Diabetes en mayores de 5 anos,1
+La Paz,20105,El Alto,2008,8,Diabetes en mayores de 5 anos,2
+Tarija,60601,Entre Rios,2008,8,Diabetes en mayores de 5 anos,1
+Beni,80202,Guayaramerin,2008,8,Diabetes en mayores de 5 anos,19
+La Paz,20101,La Paz,2008,8,Diabetes en mayores de 5 anos,23
+Beni,80801,Magdalena,2008,8,Diabetes en mayores de 5 anos,1
+Santa Cruz,70903,Mairana,2008,8,Diabetes en mayores de 5 anos,1
+Santa Cruz,71001,Montero,2008,8,Diabetes en mayores de 5 anos,2
+Oruro,40101,Oruro,2008,8,Diabetes en mayores de 5 anos,6
+Santa Cruz,70601,Portachuelo,2008,8,Diabetes en mayores de 5 anos,61
+Potosí,50101,Potosi,2008,8,Diabetes en mayores de 5 anos,10
+Santa Cruz,71401,Puerto Suarez,2008,8,Diabetes en mayores de 5 anos,1
+Beni,80201,Riberalta,2008,8,Diabetes en mayores de 5 anos,5
+Beni,80304,Rurrenabaque,2008,8,Diabetes en mayores de 5 anos,1
+Cochabamba,31001,Sacaba,2008,8,Diabetes en mayores de 5 anos,3
+Santa Cruz,71104,San Julian,2008,8,Diabetes en mayores de 5 anos,3
+Santa Cruz,71201,San Matias,2008,8,Diabetes en mayores de 5 anos,3
+Santa Cruz,70302,San Miguel De Velasco,2008,8,Diabetes en mayores de 5 anos,1
+Beni,80401,Santa Ana,2008,8,Diabetes en mayores de 5 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,Diabetes en mayores de 5 anos,108
+Beni,80303,Santa Rosa,2008,8,Diabetes en mayores de 5 anos,4
+Chuquisaca,10101,Sucre,2008,8,Diabetes en mayores de 5 anos,7
+Tarija,60101,Tarija,2008,8,Diabetes en mayores de 5 anos,11
+La Paz,20606,Tipuani,2008,8,Diabetes en mayores de 5 anos,2
+Beni,80101,Trinidad,2008,8,Diabetes en mayores de 5 anos,5
+Potosí,50801,Tupiza,2008,8,Diabetes en mayores de 5 anos,21
+Tarija,60301,Yacuiba,2008,8,Diabetes en mayores de 5 anos,3
+Santa Cruz,70403,Yapacani,2008,8,Diabetes en mayores de 5 anos,5
+Potosí,50802,Atocha,2008,9,Diabetes en mayores de 5 anos,2
+Tarija,60202,Bermejo,2008,9,Diabetes en mayores de 5 anos,1
+Potosí,50301,Betanzos,2008,9,Diabetes en mayores de 5 anos,1
+Santa Cruz,70707,Boyuibe,2008,9,Diabetes en mayores de 5 anos,1
+Santa Cruz,70706,Camiri,2008,9,Diabetes en mayores de 5 anos,8
+La Paz,22001,Caranavi,2008,9,Diabetes en mayores de 5 anos,2
+Santa Cruz,70702,Charagua,2008,9,Diabetes en mayores de 5 anos,1
+Pando,90101,Cobija,2008,9,Diabetes en mayores de 5 anos,3
+Cochabamba,30101,Cochabamba,2008,9,Diabetes en mayores de 5 anos,66
+Cochabamba,30905,Colcapirhua,2008,9,Diabetes en mayores de 5 anos,3
+Santa Cruz,71301,Comarapa,2008,9,Diabetes en mayores de 5 anos,1
+Santa Cruz,71101,Concepcion,2008,9,Diabetes en mayores de 5 anos,2
+La Paz,21401,Coroico,2008,9,Diabetes en mayores de 5 anos,1
+Santa Cruz,70102,Cotoca,2008,9,Diabetes en mayores de 5 anos,1
+La Paz,20105,El Alto,2008,9,Diabetes en mayores de 5 anos,5
+La Paz,20602,Guanay,2008,9,Diabetes en mayores de 5 anos,1
+Beni,80202,Guayaramerin,2008,9,Diabetes en mayores de 5 anos,9
+La Paz,20101,La Paz,2008,9,Diabetes en mayores de 5 anos,32
+Potosí,50203,Llallagua,2008,9,Diabetes en mayores de 5 anos,1
+Oruro,40101,Oruro,2008,9,Diabetes en mayores de 5 anos,5
+Santa Cruz,70601,Portachuelo,2008,9,Diabetes en mayores de 5 anos,28
+Santa Cruz,71402,Puerto Quijarro,2008,9,Diabetes en mayores de 5 anos,1
+Santa Cruz,71401,Puerto Suarez,2008,9,Diabetes en mayores de 5 anos,4
+Cochabamba,31205,Puerto Villarroel,2008,9,Diabetes en mayores de 5 anos,2
+Cochabamba,31401,Punata,2008,9,Diabetes en mayores de 5 anos,7
+Beni,80301,Reyes,2008,9,Diabetes en mayores de 5 anos,1
+Cochabamba,31001,Sacaba,2008,9,Diabetes en mayores de 5 anos,2
+Santa Cruz,70901,Samaipata,2008,9,Diabetes en mayores de 5 anos,1
+Beni,80302,San Borja,2008,9,Diabetes en mayores de 5 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,9,Diabetes en mayores de 5 anos,3
+Beni,80701,San Joaquin,2008,9,Diabetes en mayores de 5 anos,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,9,Diabetes en mayores de 5 anos,4
+Santa Cruz,71201,San Matias,2008,9,Diabetes en mayores de 5 anos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,Diabetes en mayores de 5 anos,72
+Beni,80303,Santa Rosa,2008,9,Diabetes en mayores de 5 anos,4
+Chuquisaca,10101,Sucre,2008,9,Diabetes en mayores de 5 anos,9
+Tarija,60101,Tarija,2008,9,Diabetes en mayores de 5 anos,4
+La Paz,20606,Tipuani,2008,9,Diabetes en mayores de 5 anos,1
+Beni,80101,Trinidad,2008,9,Diabetes en mayores de 5 anos,7
+Potosí,50801,Tupiza,2008,9,Diabetes en mayores de 5 anos,28
+Santa Cruz,70801,Vallegrande,2008,9,Diabetes en mayores de 5 anos,4
+Tarija,60301,Yacuiba,2008,9,Diabetes en mayores de 5 anos,4
+Santa Cruz,71501,Ascencion De Guarayos,2008,10,Diabetes en mayores de 5 anos,1
+Tarija,60202,Bermejo,2008,10,Diabetes en mayores de 5 anos,3
+Santa Cruz,70706,Camiri,2008,10,Diabetes en mayores de 5 anos,10
+La Paz,22001,Caranavi,2008,10,Diabetes en mayores de 5 anos,3
+Santa Cruz,71403,Carmen Rivero Torrez,2008,10,Diabetes en mayores de 5 anos,1
+Pando,90101,Cobija,2008,10,Diabetes en mayores de 5 anos,8
+Cochabamba,30101,Cochabamba,2008,10,Diabetes en mayores de 5 anos,80
+Cochabamba,30905,Colcapirhua,2008,10,Diabetes en mayores de 5 anos,2
+Santa Cruz,71301,Comarapa,2008,10,Diabetes en mayores de 5 anos,2
+La Paz,21401,Coroico,2008,10,Diabetes en mayores de 5 anos,1
+Santa Cruz,70102,Cotoca,2008,10,Diabetes en mayores de 5 anos,1
+La Paz,20105,El Alto,2008,10,Diabetes en mayores de 5 anos,5
+Santa Cruz,70105,El Torno,2008,10,Diabetes en mayores de 5 anos,5
+Tarija,60601,Entre Rios,2008,10,Diabetes en mayores de 5 anos,1
+Pando,90203,Filadelfia,2008,10,Diabetes en mayores de 5 anos,1
+Beni,80202,Guayaramerin,2008,10,Diabetes en mayores de 5 anos,3
+Santa Cruz,70104,La Guardia,2008,10,Diabetes en mayores de 5 anos,1
+La Paz,20101,La Paz,2008,10,Diabetes en mayores de 5 anos,26
+Beni,80801,Magdalena,2008,10,Diabetes en mayores de 5 anos,2
+Oruro,40101,Oruro,2008,10,Diabetes en mayores de 5 anos,2
+Santa Cruz,70601,Portachuelo,2008,10,Diabetes en mayores de 5 anos,46
+Potosí,50101,Potosi,2008,10,Diabetes en mayores de 5 anos,17
+Santa Cruz,71402,Puerto Quijarro,2008,10,Diabetes en mayores de 5 anos,1
+Santa Cruz,71401,Puerto Suarez,2008,10,Diabetes en mayores de 5 anos,2
+Cochabamba,31401,Punata,2008,10,Diabetes en mayores de 5 anos,4
+Beni,80201,Riberalta,2008,10,Diabetes en mayores de 5 anos,16
+Santa Cruz,70503,Robore,2008,10,Diabetes en mayores de 5 anos,5
+Beni,80304,Rurrenabaque,2008,10,Diabetes en mayores de 5 anos,2
+Cochabamba,31001,Sacaba,2008,10,Diabetes en mayores de 5 anos,2
+Santa Cruz,70901,Samaipata,2008,10,Diabetes en mayores de 5 anos,1
+Beni,80302,San Borja,2008,10,Diabetes en mayores de 5 anos,6
+Santa Cruz,70402,San Carlos,2008,10,Diabetes en mayores de 5 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,10,Diabetes en mayores de 5 anos,6
+Santa Cruz,71102,San Javier(stc),2008,10,Diabetes en mayores de 5 anos,1
+Beni,80701,San Joaquin,2008,10,Diabetes en mayores de 5 anos,1
+Santa Cruz,71201,San Matias,2008,10,Diabetes en mayores de 5 anos,3
+Santa Cruz,70302,San Miguel De Velasco,2008,10,Diabetes en mayores de 5 anos,1
+Santa Cruz,71005,San Pedro,2008,10,Diabetes en mayores de 5 anos,2
+Beni,80702,San Ramon,2008,10,Diabetes en mayores de 5 anos,9
+Beni,80401,Santa Ana,2008,10,Diabetes en mayores de 5 anos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,Diabetes en mayores de 5 anos,143
+Beni,80303,Santa Rosa,2008,10,Diabetes en mayores de 5 anos,5
+Santa Cruz,70602,Santa Rosa Del Sara,2008,10,Diabetes en mayores de 5 anos,5
+Chuquisaca,10101,Sucre,2008,10,Diabetes en mayores de 5 anos,12
+Tarija,60101,Tarija,2008,10,Diabetes en mayores de 5 anos,11
+La Paz,20606,Tipuani,2008,10,Diabetes en mayores de 5 anos,1
+Beni,80101,Trinidad,2008,10,Diabetes en mayores de 5 anos,7
+Potosí,50801,Tupiza,2008,10,Diabetes en mayores de 5 anos,1
+Santa Cruz,70801,Vallegrande,2008,10,Diabetes en mayores de 5 anos,4
+Cochabamba,30904,Vinto,2008,10,Diabetes en mayores de 5 anos,19
+Tarija,60301,Yacuiba,2008,10,Diabetes en mayores de 5 anos,2
+Santa Cruz,71501,Ascencion De Guarayos,2008,11,Diabetes en mayores de 5 anos,2
+Tarija,60202,Bermejo,2008,11,Diabetes en mayores de 5 anos,4
+Santa Cruz,70706,Camiri,2008,11,Diabetes en mayores de 5 anos,10
+La Paz,22001,Caranavi,2008,11,Diabetes en mayores de 5 anos,1
+Santa Cruz,70702,Charagua,2008,11,Diabetes en mayores de 5 anos,1
+Pando,90101,Cobija,2008,11,Diabetes en mayores de 5 anos,2
+Cochabamba,30101,Cochabamba,2008,11,Diabetes en mayores de 5 anos,53
+Cochabamba,30905,Colcapirhua,2008,11,Diabetes en mayores de 5 anos,3
+La Paz,21401,Coroico,2008,11,Diabetes en mayores de 5 anos,1
+Santa Cruz,70102,Cotoca,2008,11,Diabetes en mayores de 5 anos,1
+Santa Cruz,70105,El Torno,2008,11,Diabetes en mayores de 5 anos,2
+Tarija,60601,Entre Rios,2008,11,Diabetes en mayores de 5 anos,1
+Oruro,41101,Eucaliptus,2008,11,Diabetes en mayores de 5 anos,2
+Santa Cruz,71004,Fernandez Alonso,2008,11,Diabetes en mayores de 5 anos,1
+Beni,80202,Guayaramerin,2008,11,Diabetes en mayores de 5 anos,5
+Santa Cruz,70104,La Guardia,2008,11,Diabetes en mayores de 5 anos,1
+La Paz,20101,La Paz,2008,11,Diabetes en mayores de 5 anos,15
+Beni,80801,Magdalena,2008,11,Diabetes en mayores de 5 anos,2
+Oruro,40101,Oruro,2008,11,Diabetes en mayores de 5 anos,1
+Santa Cruz,70601,Portachuelo,2008,11,Diabetes en mayores de 5 anos,13
+Potosí,50101,Potosi,2008,11,Diabetes en mayores de 5 anos,9
+La Paz,20401,Puerto Acosta,2008,11,Diabetes en mayores de 5 anos,1
+Santa Cruz,71401,Puerto Suarez,2008,11,Diabetes en mayores de 5 anos,2
+Beni,80301,Reyes,2008,11,Diabetes en mayores de 5 anos,1
+Beni,80201,Riberalta,2008,11,Diabetes en mayores de 5 anos,7
+Santa Cruz,70503,Robore,2008,11,Diabetes en mayores de 5 anos,2
+Beni,80304,Rurrenabaque,2008,11,Diabetes en mayores de 5 anos,2
+Cochabamba,31001,Sacaba,2008,11,Diabetes en mayores de 5 anos,1
+Beni,80302,San Borja,2008,11,Diabetes en mayores de 5 anos,1
+Santa Cruz,70402,San Carlos,2008,11,Diabetes en mayores de 5 anos,3
+Santa Cruz,70301,San Ignacio De Velasco,2008,11,Diabetes en mayores de 5 anos,6
+Santa Cruz,71102,San Javier(stc),2008,11,Diabetes en mayores de 5 anos,3
+Santa Cruz,70501,San Jose De Chiquitos,2008,11,Diabetes en mayores de 5 anos,3
+Santa Cruz,71201,San Matias,2008,11,Diabetes en mayores de 5 anos,1
+Santa Cruz,70302,San Miguel De Velasco,2008,11,Diabetes en mayores de 5 anos,1
+Beni,80401,Santa Ana,2008,11,Diabetes en mayores de 5 anos,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,Diabetes en mayores de 5 anos,123
+Beni,80303,Santa Rosa,2008,11,Diabetes en mayores de 5 anos,6
+Chuquisaca,10101,Sucre,2008,11,Diabetes en mayores de 5 anos,3
+Tarija,60101,Tarija,2008,11,Diabetes en mayores de 5 anos,16
+La Paz,20606,Tipuani,2008,11,Diabetes en mayores de 5 anos,1
+Cochabamba,30903,Tiquipaya,2008,11,Diabetes en mayores de 5 anos,1
+Beni,80101,Trinidad,2008,11,Diabetes en mayores de 5 anos,16
+Tarija,60303,Villa Montes,2008,11,Diabetes en mayores de 5 anos,1
+Cochabamba,30904,Vinto,2008,11,Diabetes en mayores de 5 anos,19
+Tarija,60301,Yacuiba,2008,11,Diabetes en mayores de 5 anos,6
+Santa Cruz,71501,Ascencion De Guarayos,2008,12,Diabetes en mayores de 5 anos,2
+Tarija,60202,Bermejo,2008,12,Diabetes en mayores de 5 anos,3
+Santa Cruz,70706,Camiri,2008,12,Diabetes en mayores de 5 anos,4
+La Paz,22001,Caranavi,2008,12,Diabetes en mayores de 5 anos,2
+Santa Cruz,70702,Charagua,2008,12,Diabetes en mayores de 5 anos,1
+Pando,90101,Cobija,2008,12,Diabetes en mayores de 5 anos,1
+Cochabamba,30101,Cochabamba,2008,12,Diabetes en mayores de 5 anos,67
+Cochabamba,30905,Colcapirhua,2008,12,Diabetes en mayores de 5 anos,1
+La Paz,21401,Coroico,2008,12,Diabetes en mayores de 5 anos,2
+La Paz,20105,El Alto,2008,12,Diabetes en mayores de 5 anos,7
+Santa Cruz,70105,El Torno,2008,12,Diabetes en mayores de 5 anos,2
+Santa Cruz,71004,Fernandez Alonso,2008,12,Diabetes en mayores de 5 anos,1
+Beni,80202,Guayaramerin,2008,12,Diabetes en mayores de 5 anos,15
+La Paz,20101,La Paz,2008,12,Diabetes en mayores de 5 anos,13
+Beni,80801,Magdalena,2008,12,Diabetes en mayores de 5 anos,1
+Santa Cruz,71003,Mineros,2008,12,Diabetes en mayores de 5 anos,1
+Chuquisaca,10501,Monteagudo,2008,12,Diabetes en mayores de 5 anos,2
+Oruro,40101,Oruro,2008,12,Diabetes en mayores de 5 anos,3
+Santa Cruz,70601,Portachuelo,2008,12,Diabetes en mayores de 5 anos,11
+Cochabamba,31401,Punata,2008,12,Diabetes en mayores de 5 anos,1
+Beni,80301,Reyes,2008,12,Diabetes en mayores de 5 anos,2
+Beni,80304,Rurrenabaque,2008,12,Diabetes en mayores de 5 anos,1
+Cochabamba,31001,Sacaba,2008,12,Diabetes en mayores de 5 anos,2
+Beni,80302,San Borja,2008,12,Diabetes en mayores de 5 anos,2
+Santa Cruz,70402,San Carlos,2008,12,Diabetes en mayores de 5 anos,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,12,Diabetes en mayores de 5 anos,8
+Santa Cruz,70501,San Jose De Chiquitos,2008,12,Diabetes en mayores de 5 anos,1
+Santa Cruz,71104,San Julian,2008,12,Diabetes en mayores de 5 anos,2
+Beni,80702,San Ramon,2008,12,Diabetes en mayores de 5 anos,13
+Beni,80401,Santa Ana,2008,12,Diabetes en mayores de 5 anos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,Diabetes en mayores de 5 anos,83
+Beni,80303,Santa Rosa,2008,12,Diabetes en mayores de 5 anos,9
+Santa Cruz,70602,Santa Rosa Del Sara,2008,12,Diabetes en mayores de 5 anos,1
+Chuquisaca,10101,Sucre,2008,12,Diabetes en mayores de 5 anos,10
+Chuquisaca,10601,Tarabuco,2008,12,Diabetes en mayores de 5 anos,1
+Tarija,60101,Tarija,2008,12,Diabetes en mayores de 5 anos,20
+La Paz,20606,Tipuani,2008,12,Diabetes en mayores de 5 anos,1
+Beni,80101,Trinidad,2008,12,Diabetes en mayores de 5 anos,10
+Cochabamba,31003,Villa Tunari,2008,12,Diabetes en mayores de 5 anos,2
+Cochabamba,30904,Vinto,2008,12,Diabetes en mayores de 5 anos,12
+Tarija,60301,Yacuiba,2008,12,Diabetes en mayores de 5 anos,16
+Santa Cruz,70403,Yapacani,2008,12,Diabetes en mayores de 5 anos,1
+Potosí,50802,Atocha,2008,1,TOTAL,2
+La Paz,20105,El Alto,2008,1,TOTAL,4
+Beni,80202,Guayaramerin,2008,1,TOTAL,10
+La Paz,20101,La Paz,2008,1,TOTAL,14
+Potosí,50203,Llallagua,2008,1,TOTAL,1
+Beni,80801,Magdalena,2008,1,TOTAL,1
+Oruro,40101,Oruro,2008,1,TOTAL,12
+Santa Cruz,70601,Portachuelo,2008,1,TOTAL,48
+Potosí,50101,Potosi,2008,1,TOTAL,1
+Cochabamba,31401,Punata,2008,1,TOTAL,2
+Beni,80201,Riberalta,2008,1,TOTAL,8
+Santa Cruz,70301,San Ignacio De Velasco,2008,1,TOTAL,3
+Beni,80701,San Joaquin,2008,1,TOTAL,1
+Beni,80401,Santa Ana,2008,1,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTAL,38
+Beni,80303,Santa Rosa,2008,1,TOTAL,9
+Chuquisaca,10101,Sucre,2008,1,TOTAL,1
+La Paz,20606,Tipuani,2008,1,TOTAL,2
+Beni,80101,Trinidad,2008,1,TOTAL,6
+Potosí,50801,Tupiza,2008,1,TOTAL,18
+Tarija,60301,Yacuiba,2008,1,TOTAL,4
+Potosí,50802,Atocha,2008,2,TOTAL,2
+Tarija,60202,Bermejo,2008,2,TOTAL,1
+La Paz,22001,Caranavi,2008,2,TOTAL,2
+Pando,90101,Cobija,2008,2,TOTAL,5
+Cochabamba,30101,Cochabamba,2008,2,TOTAL,21
+La Paz,21401,Coroico,2008,2,TOTAL,2
+La Paz,20105,El Alto,2008,2,TOTAL,14
+Beni,80202,Guayaramerin,2008,2,TOTAL,7
+La Paz,20101,La Paz,2008,2,TOTAL,15
+Chuquisaca,10501,Monteagudo,2008,2,TOTAL,1
+Oruro,40101,Oruro,2008,2,TOTAL,5
+Santa Cruz,70601,Portachuelo,2008,2,TOTAL,44
+Potosí,50101,Potosi,2008,2,TOTAL,7
+Cochabamba,31401,Punata,2008,2,TOTAL,3
+Beni,80301,Reyes,2008,2,TOTAL,1
+Beni,80201,Riberalta,2008,2,TOTAL,2
+Cochabamba,31001,Sacaba,2008,2,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,2,TOTAL,2
+Beni,80401,Santa Ana,2008,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,TOTAL,38
+Chuquisaca,10101,Sucre,2008,2,TOTAL,4
+Tarija,60101,Tarija,2008,2,TOTAL,12
+Beni,80101,Trinidad,2008,2,TOTAL,16
+Santa Cruz,70801,Vallegrande,2008,2,TOTAL,1
+Tarija,60301,Yacuiba,2008,2,TOTAL,1
+Potosí,50802,Atocha,2008,3,TOTAL,2
+Tarija,60202,Bermejo,2008,3,TOTAL,2
+Pando,90101,Cobija,2008,3,TOTAL,4
+Cochabamba,30101,Cochabamba,2008,3,TOTAL,21
+Cochabamba,30905,Colcapirhua,2008,3,TOTAL,3
+La Paz,21401,Coroico,2008,3,TOTAL,5
+La Paz,20105,El Alto,2008,3,TOTAL,3
+Tarija,60601,Entre Rios,2008,3,TOTAL,1
+Beni,80202,Guayaramerin,2008,3,TOTAL,7
+La Paz,20101,La Paz,2008,3,TOTAL,13
+Potosí,50203,Llallagua,2008,3,TOTAL,1
+Chuquisaca,11003,Machareti,2008,3,TOTAL,2
+Oruro,40101,Oruro,2008,3,TOTAL,2
+La Paz,21305,Patacamaya,2008,3,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,3,TOTAL,40
+Potosí,50101,Potosi,2008,3,TOTAL,4
+Beni,80301,Reyes,2008,3,TOTAL,3
+Beni,80201,Riberalta,2008,3,TOTAL,4
+Cochabamba,31001,Sacaba,2008,3,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,3,TOTAL,2
+Chuquisaca,10702,San Lucas,2008,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTAL,30
+Beni,80303,Santa Rosa,2008,3,TOTAL,3
+Chuquisaca,10101,Sucre,2008,3,TOTAL,41
+Tarija,60101,Tarija,2008,3,TOTAL,10
+Cochabamba,30903,Tiquipaya,2008,3,TOTAL,1
+Beni,80101,Trinidad,2008,3,TOTAL,5
+Potosí,50801,Tupiza,2008,3,TOTAL,1
+Tarija,60301,Yacuiba,2008,3,TOTAL,6
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,4,TOTAL,1
+La Paz,22001,Caranavi,2008,4,TOTAL,1
+Pando,90101,Cobija,2008,4,TOTAL,4
+Cochabamba,30101,Cochabamba,2008,4,TOTAL,14
+Cochabamba,30905,Colcapirhua,2008,4,TOTAL,2
+La Paz,20105,El Alto,2008,4,TOTAL,5
+Beni,80202,Guayaramerin,2008,4,TOTAL,14
+La Paz,20101,La Paz,2008,4,TOTAL,15
+Santa Cruz,70803,Moro Moro,2008,4,TOTAL,1
+Oruro,40101,Oruro,2008,4,TOTAL,20
+La Paz,21305,Patacamaya,2008,4,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,4,TOTAL,32
+Potosí,50101,Potosi,2008,4,TOTAL,6
+Cochabamba,31205,Puerto Villarroel,2008,4,TOTAL,1
+Beni,80301,Reyes,2008,4,TOTAL,2
+Beni,80201,Riberalta,2008,4,TOTAL,7
+Cochabamba,31001,Sacaba,2008,4,TOTAL,4
+Santa Cruz,70901,Samaipata,2008,4,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTAL,83
+Beni,80303,Santa Rosa,2008,4,TOTAL,10
+Chuquisaca,10101,Sucre,2008,4,TOTAL,4
+Chuquisaca,10601,Tarabuco,2008,4,TOTAL,1
+Tarija,60101,Tarija,2008,4,TOTAL,24
+Beni,80101,Trinidad,2008,4,TOTAL,5
+Potosí,50801,Tupiza,2008,4,TOTAL,28
+Santa Cruz,70801,Vallegrande,2008,4,TOTAL,2
+Tarija,60301,Yacuiba,2008,4,TOTAL,2
+Potosí,50802,Atocha,2008,5,TOTAL,4
+Tarija,60202,Bermejo,2008,5,TOTAL,3
+Chuquisaca,10701,Camargo,2008,5,TOTAL,3
+La Paz,22001,Caranavi,2008,5,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,5,TOTAL,1
+Pando,90101,Cobija,2008,5,TOTAL,7
+Cochabamba,30101,Cochabamba,2008,5,TOTAL,21
+Cochabamba,30905,Colcapirhua,2008,5,TOTAL,1
+Santa Cruz,71101,Concepcion,2008,5,TOTAL,1
+La Paz,21401,Coroico,2008,5,TOTAL,2
+Chuquisaca,10902,Culpina,2008,5,TOTAL,1
+La Paz,20105,El Alto,2008,5,TOTAL,6
+Santa Cruz,71004,Fernandez Alonso,2008,5,TOTAL,1
+Beni,80202,Guayaramerin,2008,5,TOTAL,17
+La Paz,20101,La Paz,2008,5,TOTAL,13
+Santa Cruz,70903,Mairana,2008,5,TOTAL,1
+Oruro,40101,Oruro,2008,5,TOTAL,6
+Santa Cruz,70601,Portachuelo,2008,5,TOTAL,43
+La Paz,20403,Puerto Carabuco,2008,5,TOTAL,1
+Cochabamba,31401,Punata,2008,5,TOTAL,1
+Beni,80301,Reyes,2008,5,TOTAL,2
+Beni,80201,Riberalta,2008,5,TOTAL,8
+Cochabamba,31001,Sacaba,2008,5,TOTAL,3
+Beni,80302,San Borja,2008,5,TOTAL,8
+Santa Cruz,70301,San Ignacio De Velasco,2008,5,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2008,5,TOTAL,2
+Santa Cruz,70302,San Miguel De Velasco,2008,5,TOTAL,1
+Beni,80702,San Ramon,2008,5,TOTAL,1
+Beni,80401,Santa Ana,2008,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTAL,100
+Beni,80303,Santa Rosa,2008,5,TOTAL,16
+Chuquisaca,10101,Sucre,2008,5,TOTAL,21
+Tarija,60101,Tarija,2008,5,TOTAL,20
+Potosí,50801,Tupiza,2008,5,TOTAL,17
+Santa Cruz,70801,Vallegrande,2008,5,TOTAL,1
+Tarija,60303,Villa Montes,2008,5,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,5,TOTAL,1
+Tarija,60301,Yacuiba,2008,5,TOTAL,7
+Santa Cruz,71501,Ascencion De Guarayos,2008,6,TOTAL,2
+Potosí,50802,Atocha,2008,6,TOTAL,5
+Tarija,60202,Bermejo,2008,6,TOTAL,1
+Chuquisaca,10701,Camargo,2008,6,TOTAL,1
+Santa Cruz,70706,Camiri,2008,6,TOTAL,7
+La Paz,22001,Caranavi,2008,6,TOTAL,1
+Santa Cruz,70702,Charagua,2008,6,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,6,TOTAL,1
+Pando,90101,Cobija,2008,6,TOTAL,16
+Cochabamba,30101,Cochabamba,2008,6,TOTAL,33
+Cochabamba,30905,Colcapirhua,2008,6,TOTAL,2
+La Paz,21401,Coroico,2008,6,TOTAL,1
+La Paz,20105,El Alto,2008,6,TOTAL,12
+Tarija,60601,Entre Rios,2008,6,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2008,6,TOTAL,4
+Beni,80202,Guayaramerin,2008,6,TOTAL,14
+La Paz,20101,La Paz,2008,6,TOTAL,12
+Potosí,50203,Llallagua,2008,6,TOTAL,1
+Beni,80801,Magdalena,2008,6,TOTAL,4
+Oruro,40101,Oruro,2008,6,TOTAL,3
+Chuquisaca,10401,Padilla,2008,6,TOTAL,2
+Santa Cruz,70601,Portachuelo,2008,6,TOTAL,10
+Beni,80301,Reyes,2008,6,TOTAL,1
+Beni,80201,Riberalta,2008,6,TOTAL,5
+Santa Cruz,70503,Robore,2008,6,TOTAL,1
+Cochabamba,31001,Sacaba,2008,6,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2008,6,TOTAL,2
+Santa Cruz,71104,San Julian,2008,6,TOTAL,4
+Santa Cruz,70302,San Miguel De Velasco,2008,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTAL,57
+Beni,80303,Santa Rosa,2008,6,TOTAL,16
+Cochabamba,30902,Sipe Sipe,2008,6,TOTAL,2
+Chuquisaca,10101,Sucre,2008,6,TOTAL,7
+Tarija,60101,Tarija,2008,6,TOTAL,17
+La Paz,20606,Tipuani,2008,6,TOTAL,1
+Beni,80101,Trinidad,2008,6,TOTAL,12
+Potosí,50801,Tupiza,2008,6,TOTAL,2
+Santa Cruz,70801,Vallegrande,2008,6,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,6,TOTAL,1
+Tarija,60301,Yacuiba,2008,6,TOTAL,6
+La Paz,20701,Apolo,2008,7,TOTAL,1
+Potosí,50802,Atocha,2008,7,TOTAL,2
+Santa Cruz,70706,Camiri,2008,7,TOTAL,13
+La Paz,22001,Caranavi,2008,7,TOTAL,1
+Santa Cruz,70702,Charagua,2008,7,TOTAL,3
+Pando,90101,Cobija,2008,7,TOTAL,12
+Cochabamba,30101,Cochabamba,2008,7,TOTAL,64
+Cochabamba,30905,Colcapirhua,2008,7,TOTAL,1
+La Paz,21401,Coroico,2008,7,TOTAL,1
+La Paz,20105,El Alto,2008,7,TOTAL,9
+La Paz,20602,Guanay,2008,7,TOTAL,1
+Beni,80202,Guayaramerin,2008,7,TOTAL,18
+Santa Cruz,70104,La Guardia,2008,7,TOTAL,1
+La Paz,20101,La Paz,2008,7,TOTAL,11
+Beni,80801,Magdalena,2008,7,TOTAL,2
+Oruro,40101,Oruro,2008,7,TOTAL,7
+La Paz,21305,Patacamaya,2008,7,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,7,TOTAL,45
+Potosí,50101,Potosi,2008,7,TOTAL,7
+Cochabamba,31001,Sacaba,2008,7,TOTAL,1
+Beni,80302,San Borja,2008,7,TOTAL,7
+Santa Cruz,70402,San Carlos,2008,7,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,7,TOTAL,6
+Santa Cruz,71104,San Julian,2008,7,TOTAL,4
+Santa Cruz,70302,San Miguel De Velasco,2008,7,TOTAL,1
+Beni,80702,San Ramon,2008,7,TOTAL,2
+Beni,80401,Santa Ana,2008,7,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTAL,80
+Beni,80303,Santa Rosa,2008,7,TOTAL,4
+Cochabamba,30902,Sipe Sipe,2008,7,TOTAL,1
+Chuquisaca,10101,Sucre,2008,7,TOTAL,11
+Tarija,60101,Tarija,2008,7,TOTAL,6
+Beni,80101,Trinidad,2008,7,TOTAL,21
+Santa Cruz,70801,Vallegrande,2008,7,TOTAL,2
+Cochabamba,31003,Villa Tunari,2008,7,TOTAL,5
+Tarija,60301,Yacuiba,2008,7,TOTAL,8
+Potosí,50802,Atocha,2008,8,TOTAL,2
+Tarija,60202,Bermejo,2008,8,TOTAL,3
+Santa Cruz,70706,Camiri,2008,8,TOTAL,9
+La Paz,22001,Caranavi,2008,8,TOTAL,2
+Santa Cruz,70702,Charagua,2008,8,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,8,TOTAL,1
+Pando,90101,Cobija,2008,8,TOTAL,5
+Cochabamba,30101,Cochabamba,2008,8,TOTAL,62
+Santa Cruz,71101,Concepcion,2008,8,TOTAL,1
+La Paz,21401,Coroico,2008,8,TOTAL,2
+Santa Cruz,70102,Cotoca,2008,8,TOTAL,1
+La Paz,20105,El Alto,2008,8,TOTAL,2
+Tarija,60601,Entre Rios,2008,8,TOTAL,1
+Beni,80202,Guayaramerin,2008,8,TOTAL,19
+La Paz,20101,La Paz,2008,8,TOTAL,23
+Beni,80801,Magdalena,2008,8,TOTAL,1
+Santa Cruz,70903,Mairana,2008,8,TOTAL,1
+Santa Cruz,71001,Montero,2008,8,TOTAL,2
+Oruro,40101,Oruro,2008,8,TOTAL,6
+Santa Cruz,70601,Portachuelo,2008,8,TOTAL,61
+Potosí,50101,Potosi,2008,8,TOTAL,10
+Santa Cruz,71401,Puerto Suarez,2008,8,TOTAL,1
+Beni,80201,Riberalta,2008,8,TOTAL,5
+Beni,80304,Rurrenabaque,2008,8,TOTAL,1
+Cochabamba,31001,Sacaba,2008,8,TOTAL,3
+Santa Cruz,71104,San Julian,2008,8,TOTAL,3
+Santa Cruz,71201,San Matias,2008,8,TOTAL,3
+Santa Cruz,70302,San Miguel De Velasco,2008,8,TOTAL,1
+Beni,80401,Santa Ana,2008,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTAL,108
+Beni,80303,Santa Rosa,2008,8,TOTAL,4
+Chuquisaca,10101,Sucre,2008,8,TOTAL,7
+Tarija,60101,Tarija,2008,8,TOTAL,11
+La Paz,20606,Tipuani,2008,8,TOTAL,2
+Beni,80101,Trinidad,2008,8,TOTAL,5
+Potosí,50801,Tupiza,2008,8,TOTAL,21
+Tarija,60301,Yacuiba,2008,8,TOTAL,3
+Santa Cruz,70403,Yapacani,2008,8,TOTAL,5
+Potosí,50802,Atocha,2008,9,TOTAL,2
+Tarija,60202,Bermejo,2008,9,TOTAL,1
+Potosí,50301,Betanzos,2008,9,TOTAL,1
+Santa Cruz,70707,Boyuibe,2008,9,TOTAL,1
+Santa Cruz,70706,Camiri,2008,9,TOTAL,8
+La Paz,22001,Caranavi,2008,9,TOTAL,2
+Santa Cruz,70702,Charagua,2008,9,TOTAL,1
+Pando,90101,Cobija,2008,9,TOTAL,3
+Cochabamba,30101,Cochabamba,2008,9,TOTAL,66
+Cochabamba,30905,Colcapirhua,2008,9,TOTAL,3
+Santa Cruz,71301,Comarapa,2008,9,TOTAL,1
+Santa Cruz,71101,Concepcion,2008,9,TOTAL,2
+La Paz,21401,Coroico,2008,9,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,9,TOTAL,1
+La Paz,20105,El Alto,2008,9,TOTAL,5
+La Paz,20602,Guanay,2008,9,TOTAL,1
+Beni,80202,Guayaramerin,2008,9,TOTAL,9
+La Paz,20101,La Paz,2008,9,TOTAL,32
+Potosí,50203,Llallagua,2008,9,TOTAL,1
+Oruro,40101,Oruro,2008,9,TOTAL,5
+Santa Cruz,70601,Portachuelo,2008,9,TOTAL,28
+Santa Cruz,71402,Puerto Quijarro,2008,9,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,9,TOTAL,4
+Cochabamba,31205,Puerto Villarroel,2008,9,TOTAL,2
+Cochabamba,31401,Punata,2008,9,TOTAL,7
+Beni,80301,Reyes,2008,9,TOTAL,1
+Cochabamba,31001,Sacaba,2008,9,TOTAL,2
+Santa Cruz,70901,Samaipata,2008,9,TOTAL,1
+Beni,80302,San Borja,2008,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,9,TOTAL,3
+Beni,80701,San Joaquin,2008,9,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2008,9,TOTAL,4
+Santa Cruz,71201,San Matias,2008,9,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTAL,72
+Beni,80303,Santa Rosa,2008,9,TOTAL,4
+Chuquisaca,10101,Sucre,2008,9,TOTAL,9
+Tarija,60101,Tarija,2008,9,TOTAL,4
+La Paz,20606,Tipuani,2008,9,TOTAL,1
+Beni,80101,Trinidad,2008,9,TOTAL,7
+Potosí,50801,Tupiza,2008,9,TOTAL,28
+Santa Cruz,70801,Vallegrande,2008,9,TOTAL,4
+Tarija,60301,Yacuiba,2008,9,TOTAL,4
+Santa Cruz,71501,Ascencion De Guarayos,2008,10,TOTAL,1
+Tarija,60202,Bermejo,2008,10,TOTAL,3
+Santa Cruz,70706,Camiri,2008,10,TOTAL,10
+La Paz,22001,Caranavi,2008,10,TOTAL,3
+Santa Cruz,71403,Carmen Rivero Torrez,2008,10,TOTAL,1
+Pando,90101,Cobija,2008,10,TOTAL,8
+Cochabamba,30101,Cochabamba,2008,10,TOTAL,80
+Cochabamba,30905,Colcapirhua,2008,10,TOTAL,2
+Santa Cruz,71301,Comarapa,2008,10,TOTAL,2
+La Paz,21401,Coroico,2008,10,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,10,TOTAL,1
+La Paz,20105,El Alto,2008,10,TOTAL,5
+Santa Cruz,70105,El Torno,2008,10,TOTAL,5
+Tarija,60601,Entre Rios,2008,10,TOTAL,1
+Pando,90203,Filadelfia,2008,10,TOTAL,1
+Beni,80202,Guayaramerin,2008,10,TOTAL,3
+Santa Cruz,70104,La Guardia,2008,10,TOTAL,1
+La Paz,20101,La Paz,2008,10,TOTAL,26
+Beni,80801,Magdalena,2008,10,TOTAL,2
+Oruro,40101,Oruro,2008,10,TOTAL,2
+Santa Cruz,70601,Portachuelo,2008,10,TOTAL,46
+Potosí,50101,Potosi,2008,10,TOTAL,17
+Santa Cruz,71402,Puerto Quijarro,2008,10,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,10,TOTAL,2
+Cochabamba,31401,Punata,2008,10,TOTAL,4
+Beni,80201,Riberalta,2008,10,TOTAL,16
+Santa Cruz,70503,Robore,2008,10,TOTAL,5
+Beni,80304,Rurrenabaque,2008,10,TOTAL,2
+Cochabamba,31001,Sacaba,2008,10,TOTAL,2
+Santa Cruz,70901,Samaipata,2008,10,TOTAL,1
+Beni,80302,San Borja,2008,10,TOTAL,6
+Santa Cruz,70402,San Carlos,2008,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,10,TOTAL,6
+Santa Cruz,71102,San Javier(stc),2008,10,TOTAL,1
+Beni,80701,San Joaquin,2008,10,TOTAL,1
+Santa Cruz,71201,San Matias,2008,10,TOTAL,3
+Santa Cruz,70302,San Miguel De Velasco,2008,10,TOTAL,1
+Santa Cruz,71005,San Pedro,2008,10,TOTAL,2
+Beni,80702,San Ramon,2008,10,TOTAL,9
+Beni,80401,Santa Ana,2008,10,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTAL,143
+Beni,80303,Santa Rosa,2008,10,TOTAL,5
+Santa Cruz,70602,Santa Rosa Del Sara,2008,10,TOTAL,5
+Chuquisaca,10101,Sucre,2008,10,TOTAL,12
+Tarija,60101,Tarija,2008,10,TOTAL,11
+La Paz,20606,Tipuani,2008,10,TOTAL,1
+Beni,80101,Trinidad,2008,10,TOTAL,7
+Potosí,50801,Tupiza,2008,10,TOTAL,1
+Santa Cruz,70801,Vallegrande,2008,10,TOTAL,4
+Cochabamba,30904,Vinto,2008,10,TOTAL,19
+Tarija,60301,Yacuiba,2008,10,TOTAL,2
+Santa Cruz,71501,Ascencion De Guarayos,2008,11,TOTAL,2
+Tarija,60202,Bermejo,2008,11,TOTAL,4
+Santa Cruz,70706,Camiri,2008,11,TOTAL,10
+La Paz,22001,Caranavi,2008,11,TOTAL,1
+Santa Cruz,70702,Charagua,2008,11,TOTAL,1
+Pando,90101,Cobija,2008,11,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,11,TOTAL,53
+Cochabamba,30905,Colcapirhua,2008,11,TOTAL,3
+La Paz,21401,Coroico,2008,11,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,11,TOTAL,1
+Santa Cruz,70105,El Torno,2008,11,TOTAL,2
+Tarija,60601,Entre Rios,2008,11,TOTAL,1
+Oruro,41101,Eucaliptus,2008,11,TOTAL,2
+Santa Cruz,71004,Fernandez Alonso,2008,11,TOTAL,1
+Beni,80202,Guayaramerin,2008,11,TOTAL,5
+Santa Cruz,70104,La Guardia,2008,11,TOTAL,1
+La Paz,20101,La Paz,2008,11,TOTAL,15
+Beni,80801,Magdalena,2008,11,TOTAL,2
+Oruro,40101,Oruro,2008,11,TOTAL,1
+Santa Cruz,70601,Portachuelo,2008,11,TOTAL,13
+Potosí,50101,Potosi,2008,11,TOTAL,9
+La Paz,20401,Puerto Acosta,2008,11,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2008,11,TOTAL,2
+Beni,80301,Reyes,2008,11,TOTAL,1
+Beni,80201,Riberalta,2008,11,TOTAL,7
+Santa Cruz,70503,Robore,2008,11,TOTAL,2
+Beni,80304,Rurrenabaque,2008,11,TOTAL,2
+Cochabamba,31001,Sacaba,2008,11,TOTAL,1
+Beni,80302,San Borja,2008,11,TOTAL,1
+Santa Cruz,70402,San Carlos,2008,11,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2008,11,TOTAL,6
+Santa Cruz,71102,San Javier(stc),2008,11,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2008,11,TOTAL,3
+Santa Cruz,71201,San Matias,2008,11,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2008,11,TOTAL,1
+Beni,80401,Santa Ana,2008,11,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTAL,123
+Beni,80303,Santa Rosa,2008,11,TOTAL,6
+Chuquisaca,10101,Sucre,2008,11,TOTAL,3
+Tarija,60101,Tarija,2008,11,TOTAL,16
+La Paz,20606,Tipuani,2008,11,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,11,TOTAL,1
+Beni,80101,Trinidad,2008,11,TOTAL,16
+Tarija,60303,Villa Montes,2008,11,TOTAL,1
+Cochabamba,30904,Vinto,2008,11,TOTAL,19
+Tarija,60301,Yacuiba,2008,11,TOTAL,6
+Santa Cruz,71501,Ascencion De Guarayos,2008,12,TOTAL,2
+Tarija,60202,Bermejo,2008,12,TOTAL,3
+Santa Cruz,70706,Camiri,2008,12,TOTAL,4
+La Paz,22001,Caranavi,2008,12,TOTAL,2
+Santa Cruz,70702,Charagua,2008,12,TOTAL,1
+Pando,90101,Cobija,2008,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,12,TOTAL,67
+Cochabamba,30905,Colcapirhua,2008,12,TOTAL,1
+La Paz,21401,Coroico,2008,12,TOTAL,2
+La Paz,20105,El Alto,2008,12,TOTAL,7
+Santa Cruz,70105,El Torno,2008,12,TOTAL,2
+Santa Cruz,71004,Fernandez Alonso,2008,12,TOTAL,1
+Beni,80202,Guayaramerin,2008,12,TOTAL,15
+La Paz,20101,La Paz,2008,12,TOTAL,13
+Beni,80801,Magdalena,2008,12,TOTAL,1
+Santa Cruz,71003,Mineros,2008,12,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,12,TOTAL,2
+Oruro,40101,Oruro,2008,12,TOTAL,3
+Santa Cruz,70601,Portachuelo,2008,12,TOTAL,11
+Cochabamba,31401,Punata,2008,12,TOTAL,1
+Beni,80301,Reyes,2008,12,TOTAL,2
+Beni,80304,Rurrenabaque,2008,12,TOTAL,1
+Cochabamba,31001,Sacaba,2008,12,TOTAL,2
+Beni,80302,San Borja,2008,12,TOTAL,2
+Santa Cruz,70402,San Carlos,2008,12,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2008,12,TOTAL,8
+Santa Cruz,70501,San Jose De Chiquitos,2008,12,TOTAL,1
+Santa Cruz,71104,San Julian,2008,12,TOTAL,2
+Beni,80702,San Ramon,2008,12,TOTAL,13
+Beni,80401,Santa Ana,2008,12,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,TOTAL,83
+Beni,80303,Santa Rosa,2008,12,TOTAL,9
+Santa Cruz,70602,Santa Rosa Del Sara,2008,12,TOTAL,1
+Chuquisaca,10101,Sucre,2008,12,TOTAL,10
+Chuquisaca,10601,Tarabuco,2008,12,TOTAL,1
+Tarija,60101,Tarija,2008,12,TOTAL,20
+La Paz,20606,Tipuani,2008,12,TOTAL,1
+Beni,80101,Trinidad,2008,12,TOTAL,10
+Cochabamba,31003,Villa Tunari,2008,12,TOTAL,2
+Cochabamba,30904,Vinto,2008,12,TOTAL,12
+Tarija,60301,Yacuiba,2008,12,TOTAL,16
+Santa Cruz,70403,Yapacani,2008,12,TOTAL,1

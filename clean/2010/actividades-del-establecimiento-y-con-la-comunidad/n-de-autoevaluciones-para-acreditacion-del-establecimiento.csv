@@ -1,0 +1,963 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20202,Ancoraimes,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,41201,Andamarca,2010,1,N de autoevaluciones para acreditacion del establecimiento,3
+Cochabamba,30402,Anzaldo,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70703,Cabezas,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10701,Camargo,2010,1,N de autoevaluciones para acreditacion del establecimiento,14
+Cochabamba,30701,Capinota,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40201,Challapata,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31204,Chimore,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30905,Colcapirhua,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31002,Colomi,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40301,Corque,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20804,Desaguadero,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20105,El Alto,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40103,El Choro,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20101,La Paz,2010,1,N de autoevaluciones para acreditacion del establecimiento,3
+Oruro,41501,La Rivera,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80801,Magdalena,2010,1,N de autoevaluciones para acreditacion del establecimiento,11
+Santa Cruz,71001,Montero,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30302,Morochata,2010,1,N de autoevaluciones para acreditacion del establecimiento,2
+Oruro,40101,Oruro,2010,1,N de autoevaluciones para acreditacion del establecimiento,11
+Cochabamba,31001,Sacaba,2010,1,N de autoevaluciones para acreditacion del establecimiento,6
+Beni,80501,San Ignacio,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80102,San Javier(bni),2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71102,San Javier(stc),2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10702,San Lucas,2010,1,N de autoevaluciones para acreditacion del establecimiento,5
+La Paz,21801,San Pedro De Curahuara,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,N de autoevaluciones para acreditacion del establecimiento,3
+Cochabamba,31602,Shinaota,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30902,Sipe Sipe,2010,1,N de autoevaluciones para acreditacion del establecimiento,2
+Oruro,40104,Soracachi,2010,1,N de autoevaluciones para acreditacion del establecimiento,3
+Chuquisaca,10101,Sucre,2010,1,N de autoevaluciones para acreditacion del establecimiento,5
+Cochabamba,30602,Tacopaya,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30903,Tiquipaya,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50201,Uncia,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30502,Vacas,2010,1,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30904,Vinto,2010,1,N de autoevaluciones para acreditacion del establecimiento,2
+Oruro,41201,Andamarca,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70401,Buena Vista,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21003,Cajuata,2010,2,N de autoevaluciones para acreditacion del establecimiento,4
+Oruro,40201,Challapata,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70702,Charagua,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30303,Cocapata,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31002,Colomi,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,71301,Comarapa,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20105,El Alto,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,71004,Fernandez Alonso,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20602,Guanay,2010,2,N de autoevaluciones para acreditacion del establecimiento,12
+Oruro,40701,Huanuni,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10703,Incahuasi,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20806,Jesus De Machaca,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20101,La Paz,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20607,Mapiri,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,71001,Montero,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30302,Morochata,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+Potosí,50404,Ocuri,2010,2,N de autoevaluciones para acreditacion del establecimiento,7
+Oruro,40101,Oruro,2010,2,N de autoevaluciones para acreditacion del establecimiento,20
+Cochabamba,31203,Pocona,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31205,Puerto Villarroel,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80304,Rurrenabaque,2010,2,N de autoevaluciones para acreditacion del establecimiento,3
+Cochabamba,31001,Sacaba,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80302,San Borja,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80501,San Ignacio,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+Chuquisaca,10101,Sucre,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+Tarija,60101,Tarija,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20608,Teoponte,2010,2,N de autoevaluciones para acreditacion del establecimiento,20
+Cochabamba,31601,Tiraque (cbba),2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+Oruro,40402,Turco,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30502,Vacas,2010,2,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,31402,Villa Rivero,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30904,Vinto,2010,2,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20202,Ancoraimes,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31501,Bolivar,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30701,Capinota,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60302,Carapari,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50702,Caripuyo,2010,3,N de autoevaluciones para acreditacion del establecimiento,5
+Oruro,40201,Challapata,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30101,Cochabamba,2010,3,N de autoevaluciones para acreditacion del establecimiento,4
+Santa Cruz,71301,Comarapa,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20105,El Alto,2010,3,N de autoevaluciones para acreditacion del establecimiento,8
+Beni,80202,Guayaramerin,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10304,Icla,2010,3,N de autoevaluciones para acreditacion del establecimiento,4
+La Paz,20101,La Paz,2010,3,N de autoevaluciones para acreditacion del establecimiento,10
+Santa Cruz,70701,Lagunillas,2010,3,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,21202,Laja,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71001,Montero,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30302,Morochata,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50404,Ocuri,2010,3,N de autoevaluciones para acreditacion del establecimiento,8
+Cochabamba,31203,Pocona,2010,3,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80301,Reyes,2010,3,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80201,Riberalta,2010,3,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80304,Rurrenabaque,2010,3,N de autoevaluciones para acreditacion del establecimiento,3
+La Paz,20805,San Andres De Machaca,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71102,San Javier(stc),2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,3,N de autoevaluciones para acreditacion del establecimiento,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,N de autoevaluciones para acreditacion del establecimiento,0
+Cochabamba,30702,Santivañes,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40202,Santuario De Quillacas,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30602,Tacopaya,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31101,Tapacari,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20608,Teoponte,2010,3,N de autoevaluciones para acreditacion del establecimiento,24
+La Paz,20606,Tipuani,2010,3,N de autoevaluciones para acreditacion del establecimiento,7
+Cochabamba,31601,Tiraque (cbba),2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,41301,Totora(orr),2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40402,Turco,2010,3,N de autoevaluciones para acreditacion del establecimiento,3
+La Paz,21302,Umala,2010,3,N de autoevaluciones para acreditacion del establecimiento,3
+Tarija,60401,Uriondo (a. Concepcion),2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20801,Viacha,2010,3,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,31402,Villa Rivero,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70201,Warnes,2010,3,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20701,Apolo,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30601,Arque,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10201,Azurduy,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60202,Bermejo,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Pando,90101,Cobija,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20105,El Alto,2010,4,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20101,La Paz,2010,4,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80801,Magdalena,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30302,Morochata,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40101,Oruro,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31203,Pocona,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80201,Riberalta,2010,4,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80304,Rurrenabaque,2010,4,N de autoevaluciones para acreditacion del establecimiento,3
+Cochabamba,31001,Sacaba,2010,4,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80501,San Ignacio,2010,4,N de autoevaluciones para acreditacion del establecimiento,3
+Santa Cruz,70301,San Ignacio De Velasco,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,4,N de autoevaluciones para acreditacion del establecimiento,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,4,N de autoevaluciones para acreditacion del establecimiento,2
+Pando,90303,Sena,2010,4,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,30902,Sipe Sipe,2010,4,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,30602,Tacopaya,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20608,Teoponte,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31601,Tiraque (cbba),2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31201,Totora(cbba),2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80101,Trinidad,2010,4,N de autoevaluciones para acreditacion del establecimiento,4
+Oruro,40402,Turco,2010,4,N de autoevaluciones para acreditacion del establecimiento,3
+Tarija,60401,Uriondo (a. Concepcion),2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30904,Vinto,2010,4,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20701,Apolo,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60202,Bermejo,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50301,Betanzos,2010,5,N de autoevaluciones para acreditacion del establecimiento,4
+Cochabamba,31501,Bolivar,2010,5,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,30701,Capinota,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40102,Caracollo,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70702,Charagua,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30101,Cochabamba,2010,5,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,71301,Comarapa,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20105,El Alto,2010,5,N de autoevaluciones para acreditacion del establecimiento,2
+Pando,90203,Filadelfia,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71002,General Saavedra,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10703,Incahuasi,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20101,La Paz,2010,5,N de autoevaluciones para acreditacion del establecimiento,4
+Cochabamba,30302,Morochata,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40602,Pazña,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30901,Quillacollo,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50402,Ravelo,2010,5,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80304,Rurrenabaque,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31001,Sacaba,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80602,San Andres,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80302,San Borja,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,5,N de autoevaluciones para acreditacion del establecimiento,10
+Tarija,60501,San Lorenzo(tja),2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10702,San Lucas,2010,5,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,5,N de autoevaluciones para acreditacion del establecimiento,3
+Oruro,41401,Santiago De Huari,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30702,Santivañes,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40202,Santuario De Quillacas,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40104,Soracachi,2010,5,N de autoevaluciones para acreditacion del establecimiento,2
+Tarija,60101,Tarija,2010,5,N de autoevaluciones para acreditacion del establecimiento,31
+Cochabamba,31601,Tiraque (cbba),2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31201,Totora(cbba),2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,41301,Totora(orr),2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80101,Trinidad,2010,5,N de autoevaluciones para acreditacion del establecimiento,2
+Oruro,40402,Turco,2010,5,N de autoevaluciones para acreditacion del establecimiento,3
+Santa Cruz,70201,Warnes,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60301,Yacuiba,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10602,Yamparaez,2010,5,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30501,Arani,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30601,Arque,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50802,Atocha,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20503,Aucapata,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60202,Bermejo,2010,6,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,31501,Bolivar,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21304,Calamarca,2010,6,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,30701,Capinota,2010,6,N de autoevaluciones para acreditacion del establecimiento,2
+Oruro,40102,Caracollo,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70702,Charagua,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31204,Chimore,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30101,Cochabamba,2010,6,N de autoevaluciones para acreditacion del establecimiento,3
+Potosí,50901,"Colcha ""k""",2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20301,Coro Coro,2010,6,N de autoevaluciones para acreditacion del establecimiento,5
+Chuquisaca,10902,Culpina,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40401,Curahuara De Carangas,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20105,El Alto,2010,6,N de autoevaluciones para acreditacion del establecimiento,3
+Oruro,40505,Esmeralda,2010,6,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,71002,General Saavedra,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21601,Gral. J.j. Perez (charazani),2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,41601,Huayllamarca,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70104,La Guardia,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20101,La Paz,2010,6,N de autoevaluciones para acreditacion del establecimiento,4
+Santa Cruz,70701,Lagunillas,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71001,Montero,2010,6,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,30302,Morochata,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60201,Padcaya,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21802,Papel Pampa,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50101,Potosi,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Pando,90301,Puerto Gonzalo Moreno,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50402,Ravelo,2010,6,N de autoevaluciones para acreditacion del establecimiento,14
+Beni,80201,Riberalta,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80602,San Andres,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80302,San Borja,2010,6,N de autoevaluciones para acreditacion del establecimiento,4
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,6,N de autoevaluciones para acreditacion del establecimiento,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,N de autoevaluciones para acreditacion del establecimiento,3
+La Paz,21901,Santiago De Machaca,2010,6,N de autoevaluciones para acreditacion del establecimiento,16
+Cochabamba,30702,Santivañes,2010,6,N de autoevaluciones para acreditacion del establecimiento,3
+Oruro,40202,Santuario De Quillacas,2010,6,N de autoevaluciones para acreditacion del establecimiento,3
+La Paz,21301,Sica Sica (villa Aroma),2010,6,N de autoevaluciones para acreditacion del establecimiento,5
+Oruro,40104,Soracachi,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10601,Tarabuco,2010,6,N de autoevaluciones para acreditacion del establecimiento,2
+Oruro,41001,Toledo,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,51202,Tomave,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50502,Toro Toro,2010,6,N de autoevaluciones para acreditacion del establecimiento,3
+Beni,80101,Trinidad,2010,6,N de autoevaluciones para acreditacion del establecimiento,2
+Oruro,40402,Turco,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31402,Villa Rivero,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30904,Vinto,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20903,Yaco,2010,6,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20201,Achacachi,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30601,Arque,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31501,Bolivar,2010,7,N de autoevaluciones para acreditacion del establecimiento,3
+Potosí,51102,"Caiza ""d""",2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30701,Capinota,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40102,Caracollo,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31204,Chimore,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30101,Cochabamba,2010,7,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,31002,Colomi,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71101,Concepcion,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20105,El Alto,2010,7,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,70105,El Torno,2010,7,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,21601,Gral. J.j. Perez (charazani),2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80202,Guayaramerin,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40701,Huanuni,2010,7,N de autoevaluciones para acreditacion del establecimiento,3
+Santa Cruz,70104,La Guardia,2010,7,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20101,La Paz,2010,7,N de autoevaluciones para acreditacion del establecimiento,3
+Beni,80601,Loreto,2010,7,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,70903,Mairana,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71001,Montero,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40602,Pazña,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80703,Puerto Siles,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30901,Quillacollo,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80201,Riberalta,2010,7,N de autoevaluciones para acreditacion del establecimiento,3
+Oruro,40901,Sabaya,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31001,Sacaba,2010,7,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,70402,San Carlos,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80102,San Javier(bni),2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71102,San Javier(stc),2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70302,San Miguel De Velasco,2010,7,N de autoevaluciones para acreditacion del establecimiento,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,N de autoevaluciones para acreditacion del establecimiento,13
+Cochabamba,30702,Santivañes,2010,7,N de autoevaluciones para acreditacion del establecimiento,3
+Cochabamba,30902,Sipe Sipe,2010,7,N de autoevaluciones para acreditacion del establecimiento,8
+Oruro,40104,Soracachi,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31601,Tiraque (cbba),2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50502,Toro Toro,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,41301,Totora(orr),2010,7,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80101,Trinidad,2010,7,N de autoevaluciones para acreditacion del establecimiento,3
+Oruro,40402,Turco,2010,7,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,31302,Vila Vila,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31402,Villa Rivero,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31003,Villa Tunari,2010,7,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20201,Achacachi,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20502,Ayata,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21303,Ayo Ayo,2010,8,N de autoevaluciones para acreditacion del establecimiento,2
+Tarija,60202,Bermejo,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31501,Bolivar,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70703,Cabezas,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,51102,"Caiza ""d""",2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30701,Capinota,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21803,Chacarilla,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30303,Cocapata,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30101,Cochabamba,2010,8,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,31002,Colomi,2010,8,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20105,El Alto,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60601,Entre Rios Trj,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21601,Gral. J.j. Perez (charazani),2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Pando,90402,Ingavi (humaita),2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70104,La Guardia,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20101,La Paz,2010,8,N de autoevaluciones para acreditacion del establecimiento,5
+Cochabamba,30302,Morochata,2010,8,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,70202,Okinawa,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10401,Padilla,2010,8,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20102,Palca,2010,8,N de autoevaluciones para acreditacion del establecimiento,10
+Cochabamba,30901,Quillacollo,2010,8,N de autoevaluciones para acreditacion del establecimiento,3
+Beni,80201,Riberalta,2010,8,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80304,Rurrenabaque,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31001,Sacaba,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70402,San Carlos,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Pando,90302,San Lorenzo(pnd),2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,8,N de autoevaluciones para acreditacion del establecimiento,4
+La Paz,20308,Santiago De Callapa,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30702,Santivañes,2010,8,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,30602,Tacopaya,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60101,Tarija,2010,8,N de autoevaluciones para acreditacion del establecimiento,418
+Cochabamba,30803,Tolata,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,41301,Totora(orr),2010,8,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80101,Trinidad,2010,8,N de autoevaluciones para acreditacion del establecimiento,4
+Oruro,40402,Turco,2010,8,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10201,Azurduy,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70401,Buena Vista,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30101,Cochabamba,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30905,Colcapirhua,2010,9,N de autoevaluciones para acreditacion del establecimiento,10
+Santa Cruz,71301,Comarapa,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10902,Culpina,2010,9,N de autoevaluciones para acreditacion del establecimiento,3
+La Paz,20105,El Alto,2010,9,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20101,La Paz,2010,9,N de autoevaluciones para acreditacion del establecimiento,7
+La Paz,21202,Laja,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71003,Mineros,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60201,Padcaya,2010,9,N de autoevaluciones para acreditacion del establecimiento,16
+La Paz,21201,Pucarani,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80201,Riberalta,2010,9,N de autoevaluciones para acreditacion del establecimiento,4
+Beni,80602,San Andres,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20805,San Andres De Machaca,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80501,San Ignacio,2010,9,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,71102,San Javier(stc),2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71201,San Matias,2010,9,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,71005,San Pedro,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21801,San Pedro De Curahuara,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,9,N de autoevaluciones para acreditacion del establecimiento,3
+La Paz,20204,Santiago De Huata,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30702,Santivañes,2010,9,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20601,Sorata,2010,9,N de autoevaluciones para acreditacion del establecimiento,9
+La Paz,20606,Tipuani,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,51202,Tomave,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,40402,Turco,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31402,Villa Rivero,2010,9,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20201,Achacachi,2010,10,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,30601,Arque,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10201,Azurduy,2010,10,N de autoevaluciones para acreditacion del establecimiento,6
+Santa Cruz,70703,Cabezas,2010,10,N de autoevaluciones para acreditacion del establecimiento,192
+La Paz,21304,Calamarca,2010,10,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,31204,Chimore,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20501,Chuma,2010,10,N de autoevaluciones para acreditacion del establecimiento,2
+Potosí,51103,Ckochas,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30101,Cochabamba,2010,10,N de autoevaluciones para acreditacion del establecimiento,39
+La Paz,21306,Colquencha,2010,10,N de autoevaluciones para acreditacion del establecimiento,4
+Santa Cruz,71101,Concepcion,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21701,Copacabana,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20105,El Alto,2010,10,N de autoevaluciones para acreditacion del establecimiento,10
+Tarija,60601,Entre Rios Trj,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71004,Fernandez Alonso,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20602,Guanay,2010,10,N de autoevaluciones para acreditacion del establecimiento,4
+La Paz,20203,Huarina,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70104,La Guardia,2010,10,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20101,La Paz,2010,10,N de autoevaluciones para acreditacion del establecimiento,14
+Potosí,50404,Ocuri,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21104,Palos Blancos,2010,10,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,21802,Papel Pampa,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21305,Patacamaya,2010,10,N de autoevaluciones para acreditacion del establecimiento,2
+Potosí,50403,Pocoata,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31203,Pocona,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31205,Puerto Villarroel,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20604,Quiabaya,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80201,Riberalta,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80304,Rurrenabaque,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80501,San Ignacio,2010,10,N de autoevaluciones para acreditacion del establecimiento,2
+Santa Cruz,70301,San Ignacio De Velasco,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21801,San Pedro De Curahuara,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Pando,90202,San Pedro(pnd),2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,10,N de autoevaluciones para acreditacion del establecimiento,5
+Cochabamba,30702,Santivañes,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20601,Sorata,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10101,Sucre,2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60101,Tarija,2010,10,N de autoevaluciones para acreditacion del establecimiento,4
+La Paz,20608,Teoponte,2010,10,N de autoevaluciones para acreditacion del establecimiento,29
+Cochabamba,31601,Tiraque (cbba),2010,10,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31003,Villa Tunari,2010,10,N de autoevaluciones para acreditacion del establecimiento,7
+La Paz,20202,Ancoraimes,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20701,Apolo,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30601,Arque,2010,11,N de autoevaluciones para acreditacion del establecimiento,3
+Santa Cruz,71501,Ascencion De Guarayos,2010,11,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20503,Aucapata,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20502,Ayata,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30701,Capinota,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31204,Chimore,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20501,Chuma,2010,11,N de autoevaluciones para acreditacion del establecimiento,3
+Pando,90101,Cobija,2010,11,N de autoevaluciones para acreditacion del establecimiento,6
+Cochabamba,30303,Cocapata,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30101,Cochabamba,2010,11,N de autoevaluciones para acreditacion del establecimiento,3
+La Paz,21004,Colquiri,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21701,Copacabana,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50601,Cotagaita,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21602,Curva,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20105,El Alto,2010,11,N de autoevaluciones para acreditacion del establecimiento,12
+Santa Cruz,71004,Fernandez Alonso,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,22004,Humanata,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70104,La Guardia,2010,11,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20101,La Paz,2010,11,N de autoevaluciones para acreditacion del establecimiento,7
+Beni,80601,Loreto,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20103,Mecapaca,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30302,Morochata,2010,11,N de autoevaluciones para acreditacion del establecimiento,2
+Tarija,60201,Padcaya,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21802,Papel Pampa,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Pando,90201,Puerto Rico,2010,11,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,31205,Puerto Villarroel,2010,11,N de autoevaluciones para acreditacion del establecimiento,2
+Cochabamba,31401,Punata,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30901,Quillacollo,2010,11,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,21002,Quime,2010,11,N de autoevaluciones para acreditacion del establecimiento,2
+Potosí,50402,Ravelo,2010,11,N de autoevaluciones para acreditacion del establecimiento,7
+Beni,80201,Riberalta,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80304,Rurrenabaque,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80302,San Borja,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60501,San Lorenzo(tja),2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10702,San Lucas,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,51001,San Pablo De Lipez,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20308,Santiago De Callapa,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30702,Santivañes,2010,11,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,21301,Sica Sica (villa Aroma),2010,11,N de autoevaluciones para acreditacion del establecimiento,20
+La Paz,20601,Sorata,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10101,Sucre,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10601,Tarabuco,2010,11,N de autoevaluciones para acreditacion del establecimiento,4
+Tarija,60101,Tarija,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31601,Tiraque (cbba),2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30803,Tolata,2010,11,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60401,Uriondo (a. Concepcion),2010,11,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20801,Viacha,2010,11,N de autoevaluciones para acreditacion del establecimiento,5
+La Paz,22002,Alto Beni,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10201,Azurduy,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,41202,Belen De Andamarca,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30801,Cliza,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30101,Cochabamba,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21306,Colquencha,2010,12,N de autoevaluciones para acreditacion del establecimiento,6
+La Paz,21701,Copacabana,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20105,El Alto,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71004,Fernandez Alonso,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Pando,90402,Ingavi (humaita),2010,12,N de autoevaluciones para acreditacion del establecimiento,5
+Santa Cruz,70104,La Guardia,2010,12,N de autoevaluciones para acreditacion del establecimiento,5
+La Paz,20101,La Paz,2010,12,N de autoevaluciones para acreditacion del establecimiento,6
+Cochabamba,31203,Pocona,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31202,Pojo (cbba),2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31401,Punata,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30901,Quillacollo,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80201,Riberalta,2010,12,N de autoevaluciones para acreditacion del establecimiento,2
+Beni,80602,San Andres,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31403,San Benito,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Beni,80302,San Borja,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,70402,San Carlos,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Santa Cruz,71104,San Julian,2010,12,N de autoevaluciones para acreditacion del establecimiento,7
+Pando,90302,San Lorenzo(pnd),2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21801,San Pedro De Curahuara,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,20308,Santiago De Callapa,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30702,Santivañes,2010,12,N de autoevaluciones para acreditacion del establecimiento,2
+La Paz,20902,Sapahaqui,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21301,Sica Sica (villa Aroma),2010,12,N de autoevaluciones para acreditacion del establecimiento,3
+Chuquisaca,10101,Sucre,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30602,Tacopaya,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31601,Tiraque (cbba),2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Oruro,41001,Toledo,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,31201,Totora(cbba),2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+La Paz,21302,Umala,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Potosí,50201,Uncia,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Cochabamba,30904,Vinto,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Tarija,60301,Yacuiba,2010,12,N de autoevaluciones para acreditacion del establecimiento,1
+Chuquisaca,10602,Yamparaez,2010,12,N de autoevaluciones para acreditacion del establecimiento,6
+La Paz,20202,Ancoraimes,2010,1,TOTAL,1
+Oruro,41201,Andamarca,2010,1,TOTAL,3
+Cochabamba,30402,Anzaldo,2010,1,TOTAL,1
+Santa Cruz,70703,Cabezas,2010,1,TOTAL,1
+Chuquisaca,10701,Camargo,2010,1,TOTAL,14
+Cochabamba,30701,Capinota,2010,1,TOTAL,1
+Oruro,40201,Challapata,2010,1,TOTAL,1
+Cochabamba,31204,Chimore,2010,1,TOTAL,1
+Cochabamba,30801,Cliza,2010,1,TOTAL,1
+Cochabamba,30905,Colcapirhua,2010,1,TOTAL,1
+Cochabamba,31002,Colomi,2010,1,TOTAL,1
+Oruro,40301,Corque,2010,1,TOTAL,1
+La Paz,20804,Desaguadero,2010,1,TOTAL,1
+La Paz,20105,El Alto,2010,1,TOTAL,1
+Oruro,40103,El Choro,2010,1,TOTAL,1
+La Paz,20101,La Paz,2010,1,TOTAL,3
+Oruro,41501,La Rivera,2010,1,TOTAL,1
+Beni,80801,Magdalena,2010,1,TOTAL,11
+Santa Cruz,71001,Montero,2010,1,TOTAL,1
+Cochabamba,30302,Morochata,2010,1,TOTAL,2
+Oruro,40101,Oruro,2010,1,TOTAL,11
+Cochabamba,31001,Sacaba,2010,1,TOTAL,6
+Beni,80501,San Ignacio,2010,1,TOTAL,1
+Beni,80102,San Javier(bni),2010,1,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2010,1,TOTAL,1
+Chuquisaca,10702,San Lucas,2010,1,TOTAL,5
+La Paz,21801,San Pedro De Curahuara,2010,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,TOTAL,3
+Cochabamba,31602,Shinaota,2010,1,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2010,1,TOTAL,2
+Oruro,40104,Soracachi,2010,1,TOTAL,3
+Chuquisaca,10101,Sucre,2010,1,TOTAL,5
+Cochabamba,30602,Tacopaya,2010,1,TOTAL,1
+Cochabamba,30903,Tiquipaya,2010,1,TOTAL,1
+Potosí,50201,Uncia,2010,1,TOTAL,1
+Cochabamba,30502,Vacas,2010,1,TOTAL,1
+Cochabamba,30904,Vinto,2010,1,TOTAL,2
+Oruro,41201,Andamarca,2010,2,TOTAL,1
+Santa Cruz,70401,Buena Vista,2010,2,TOTAL,1
+La Paz,21003,Cajuata,2010,2,TOTAL,4
+Oruro,40201,Challapata,2010,2,TOTAL,1
+Santa Cruz,70702,Charagua,2010,2,TOTAL,1
+Cochabamba,30801,Cliza,2010,2,TOTAL,1
+Cochabamba,30303,Cocapata,2010,2,TOTAL,1
+Cochabamba,31002,Colomi,2010,2,TOTAL,2
+Santa Cruz,71301,Comarapa,2010,2,TOTAL,2
+La Paz,20105,El Alto,2010,2,TOTAL,2
+Santa Cruz,71004,Fernandez Alonso,2010,2,TOTAL,1
+La Paz,20602,Guanay,2010,2,TOTAL,12
+Oruro,40701,Huanuni,2010,2,TOTAL,1
+Chuquisaca,10703,Incahuasi,2010,2,TOTAL,1
+La Paz,20806,Jesus De Machaca,2010,2,TOTAL,1
+La Paz,20101,La Paz,2010,2,TOTAL,2
+La Paz,20607,Mapiri,2010,2,TOTAL,2
+Santa Cruz,71001,Montero,2010,2,TOTAL,1
+Cochabamba,30302,Morochata,2010,2,TOTAL,2
+Potosí,50404,Ocuri,2010,2,TOTAL,7
+Oruro,40101,Oruro,2010,2,TOTAL,20
+Cochabamba,31203,Pocona,2010,2,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2010,2,TOTAL,1
+Beni,80304,Rurrenabaque,2010,2,TOTAL,3
+Cochabamba,31001,Sacaba,2010,2,TOTAL,1
+Beni,80302,San Borja,2010,2,TOTAL,1
+Beni,80501,San Ignacio,2010,2,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,TOTAL,2
+Chuquisaca,10101,Sucre,2010,2,TOTAL,2
+Tarija,60101,Tarija,2010,2,TOTAL,2
+La Paz,20608,Teoponte,2010,2,TOTAL,20
+Cochabamba,31601,Tiraque (cbba),2010,2,TOTAL,2
+Oruro,40402,Turco,2010,2,TOTAL,1
+Cochabamba,30502,Vacas,2010,2,TOTAL,2
+Cochabamba,31402,Villa Rivero,2010,2,TOTAL,1
+Cochabamba,30904,Vinto,2010,2,TOTAL,1
+La Paz,20202,Ancoraimes,2010,3,TOTAL,1
+Cochabamba,31501,Bolivar,2010,3,TOTAL,1
+Cochabamba,30701,Capinota,2010,3,TOTAL,1
+Tarija,60302,Carapari,2010,3,TOTAL,1
+Potosí,50702,Caripuyo,2010,3,TOTAL,5
+Oruro,40201,Challapata,2010,3,TOTAL,1
+Cochabamba,30801,Cliza,2010,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,3,TOTAL,4
+Santa Cruz,71301,Comarapa,2010,3,TOTAL,1
+La Paz,20105,El Alto,2010,3,TOTAL,8
+Beni,80202,Guayaramerin,2010,3,TOTAL,1
+Chuquisaca,10304,Icla,2010,3,TOTAL,4
+La Paz,20101,La Paz,2010,3,TOTAL,10
+Santa Cruz,70701,Lagunillas,2010,3,TOTAL,2
+La Paz,21202,Laja,2010,3,TOTAL,1
+Santa Cruz,71001,Montero,2010,3,TOTAL,1
+Cochabamba,30302,Morochata,2010,3,TOTAL,1
+Potosí,50404,Ocuri,2010,3,TOTAL,8
+Cochabamba,31203,Pocona,2010,3,TOTAL,2
+Beni,80301,Reyes,2010,3,TOTAL,2
+Beni,80201,Riberalta,2010,3,TOTAL,2
+Beni,80304,Rurrenabaque,2010,3,TOTAL,3
+La Paz,20805,San Andres De Machaca,2010,3,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2010,3,TOTAL,1
+Santa Cruz,71104,San Julian,2010,3,TOTAL,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,TOTAL,0
+Cochabamba,30702,Santivañes,2010,3,TOTAL,1
+Oruro,40202,Santuario De Quillacas,2010,3,TOTAL,1
+Cochabamba,30602,Tacopaya,2010,3,TOTAL,1
+Cochabamba,31101,Tapacari,2010,3,TOTAL,1
+La Paz,20608,Teoponte,2010,3,TOTAL,24
+La Paz,20606,Tipuani,2010,3,TOTAL,7
+Cochabamba,31601,Tiraque (cbba),2010,3,TOTAL,1
+Oruro,41301,Totora(orr),2010,3,TOTAL,1
+Oruro,40402,Turco,2010,3,TOTAL,3
+La Paz,21302,Umala,2010,3,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2010,3,TOTAL,1
+La Paz,20801,Viacha,2010,3,TOTAL,2
+Cochabamba,31402,Villa Rivero,2010,3,TOTAL,1
+Santa Cruz,70201,Warnes,2010,3,TOTAL,1
+La Paz,20701,Apolo,2010,4,TOTAL,1
+Cochabamba,30601,Arque,2010,4,TOTAL,1
+Chuquisaca,10201,Azurduy,2010,4,TOTAL,1
+Tarija,60202,Bermejo,2010,4,TOTAL,1
+Cochabamba,30801,Cliza,2010,4,TOTAL,1
+Pando,90101,Cobija,2010,4,TOTAL,1
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2010,4,TOTAL,1
+La Paz,20105,El Alto,2010,4,TOTAL,2
+La Paz,20101,La Paz,2010,4,TOTAL,2
+Beni,80801,Magdalena,2010,4,TOTAL,1
+Cochabamba,30302,Morochata,2010,4,TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2010,4,TOTAL,1
+Oruro,40101,Oruro,2010,4,TOTAL,1
+Cochabamba,31203,Pocona,2010,4,TOTAL,1
+Beni,80201,Riberalta,2010,4,TOTAL,2
+Beni,80304,Rurrenabaque,2010,4,TOTAL,3
+Cochabamba,31001,Sacaba,2010,4,TOTAL,2
+Beni,80501,San Ignacio,2010,4,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2010,4,TOTAL,1
+Santa Cruz,71104,San Julian,2010,4,TOTAL,12
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,4,TOTAL,2
+Pando,90303,Sena,2010,4,TOTAL,2
+Cochabamba,30902,Sipe Sipe,2010,4,TOTAL,2
+Cochabamba,30602,Tacopaya,2010,4,TOTAL,1
+La Paz,20608,Teoponte,2010,4,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2010,4,TOTAL,1
+Cochabamba,31201,Totora(cbba),2010,4,TOTAL,1
+Beni,80101,Trinidad,2010,4,TOTAL,4
+Oruro,40402,Turco,2010,4,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2010,4,TOTAL,1
+Cochabamba,30904,Vinto,2010,4,TOTAL,1
+La Paz,20701,Apolo,2010,5,TOTAL,1
+Tarija,60202,Bermejo,2010,5,TOTAL,1
+Potosí,50301,Betanzos,2010,5,TOTAL,4
+Cochabamba,31501,Bolivar,2010,5,TOTAL,2
+Cochabamba,30701,Capinota,2010,5,TOTAL,1
+Oruro,40102,Caracollo,2010,5,TOTAL,1
+Santa Cruz,70702,Charagua,2010,5,TOTAL,1
+Cochabamba,30801,Cliza,2010,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,5,TOTAL,2
+Santa Cruz,71301,Comarapa,2010,5,TOTAL,1
+La Paz,20105,El Alto,2010,5,TOTAL,2
+Pando,90203,Filadelfia,2010,5,TOTAL,1
+Santa Cruz,71002,General Saavedra,2010,5,TOTAL,1
+Chuquisaca,10703,Incahuasi,2010,5,TOTAL,1
+La Paz,20101,La Paz,2010,5,TOTAL,4
+Cochabamba,30302,Morochata,2010,5,TOTAL,1
+Oruro,40602,Pazña,2010,5,TOTAL,1
+Cochabamba,30901,Quillacollo,2010,5,TOTAL,1
+Potosí,50402,Ravelo,2010,5,TOTAL,2
+Beni,80304,Rurrenabaque,2010,5,TOTAL,1
+Cochabamba,31001,Sacaba,2010,5,TOTAL,1
+Beni,80602,San Andres,2010,5,TOTAL,1
+Beni,80302,San Borja,2010,5,TOTAL,1
+Santa Cruz,71104,San Julian,2010,5,TOTAL,10
+Tarija,60501,San Lorenzo(tja),2010,5,TOTAL,1
+Chuquisaca,10702,San Lucas,2010,5,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,5,TOTAL,3
+Oruro,41401,Santiago De Huari,2010,5,TOTAL,1
+Cochabamba,30702,Santivañes,2010,5,TOTAL,1
+Oruro,40202,Santuario De Quillacas,2010,5,TOTAL,1
+Oruro,40104,Soracachi,2010,5,TOTAL,2
+Tarija,60101,Tarija,2010,5,TOTAL,31
+Cochabamba,31601,Tiraque (cbba),2010,5,TOTAL,1
+Cochabamba,31201,Totora(cbba),2010,5,TOTAL,1
+Oruro,41301,Totora(orr),2010,5,TOTAL,1
+Beni,80101,Trinidad,2010,5,TOTAL,2
+Oruro,40402,Turco,2010,5,TOTAL,3
+Santa Cruz,70201,Warnes,2010,5,TOTAL,1
+Tarija,60301,Yacuiba,2010,5,TOTAL,1
+Chuquisaca,10602,Yamparaez,2010,5,TOTAL,1
+Cochabamba,30501,Arani,2010,6,TOTAL,1
+Cochabamba,30601,Arque,2010,6,TOTAL,1
+Potosí,50802,Atocha,2010,6,TOTAL,1
+La Paz,20503,Aucapata,2010,6,TOTAL,1
+Tarija,60202,Bermejo,2010,6,TOTAL,2
+Cochabamba,31501,Bolivar,2010,6,TOTAL,1
+La Paz,21304,Calamarca,2010,6,TOTAL,2
+Cochabamba,30701,Capinota,2010,6,TOTAL,2
+Oruro,40102,Caracollo,2010,6,TOTAL,1
+Santa Cruz,70702,Charagua,2010,6,TOTAL,1
+Cochabamba,31204,Chimore,2010,6,TOTAL,1
+Cochabamba,30801,Cliza,2010,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,6,TOTAL,3
+Potosí,50901,"Colcha ""k""",2010,6,TOTAL,1
+La Paz,20301,Coro Coro,2010,6,TOTAL,5
+Chuquisaca,10902,Culpina,2010,6,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2010,6,TOTAL,1
+La Paz,20105,El Alto,2010,6,TOTAL,3
+Oruro,40505,Esmeralda,2010,6,TOTAL,2
+Santa Cruz,71002,General Saavedra,2010,6,TOTAL,1
+La Paz,21601,Gral. J.j. Perez (charazani),2010,6,TOTAL,1
+Oruro,41601,Huayllamarca,2010,6,TOTAL,1
+Santa Cruz,70104,La Guardia,2010,6,TOTAL,1
+La Paz,20101,La Paz,2010,6,TOTAL,4
+Santa Cruz,70701,Lagunillas,2010,6,TOTAL,1
+Santa Cruz,71001,Montero,2010,6,TOTAL,2
+Cochabamba,30302,Morochata,2010,6,TOTAL,1
+Tarija,60201,Padcaya,2010,6,TOTAL,1
+La Paz,21802,Papel Pampa,2010,6,TOTAL,1
+Potosí,50101,Potosi,2010,6,TOTAL,1
+Pando,90301,Puerto Gonzalo Moreno,2010,6,TOTAL,1
+Potosí,50402,Ravelo,2010,6,TOTAL,14
+Beni,80201,Riberalta,2010,6,TOTAL,1
+Beni,80602,San Andres,2010,6,TOTAL,1
+Beni,80302,San Borja,2010,6,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2010,6,TOTAL,1
+Santa Cruz,71104,San Julian,2010,6,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,TOTAL,3
+La Paz,21901,Santiago De Machaca,2010,6,TOTAL,16
+Cochabamba,30702,Santivañes,2010,6,TOTAL,3
+Oruro,40202,Santuario De Quillacas,2010,6,TOTAL,3
+La Paz,21301,Sica Sica (villa Aroma),2010,6,TOTAL,5
+Oruro,40104,Soracachi,2010,6,TOTAL,1
+Chuquisaca,10601,Tarabuco,2010,6,TOTAL,2
+Oruro,41001,Toledo,2010,6,TOTAL,1
+Potosí,51202,Tomave,2010,6,TOTAL,1
+Potosí,50502,Toro Toro,2010,6,TOTAL,3
+Beni,80101,Trinidad,2010,6,TOTAL,2
+Oruro,40402,Turco,2010,6,TOTAL,1
+Cochabamba,31402,Villa Rivero,2010,6,TOTAL,1
+Cochabamba,30904,Vinto,2010,6,TOTAL,1
+La Paz,20903,Yaco,2010,6,TOTAL,1
+La Paz,20201,Achacachi,2010,7,TOTAL,1
+Cochabamba,30601,Arque,2010,7,TOTAL,1
+Cochabamba,31501,Bolivar,2010,7,TOTAL,3
+Potosí,51102,"Caiza ""d""",2010,7,TOTAL,1
+Cochabamba,30701,Capinota,2010,7,TOTAL,1
+Oruro,40102,Caracollo,2010,7,TOTAL,1
+Cochabamba,31204,Chimore,2010,7,TOTAL,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2010,7,TOTAL,1
+Cochabamba,30801,Cliza,2010,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,7,TOTAL,2
+Cochabamba,31002,Colomi,2010,7,TOTAL,1
+Santa Cruz,71101,Concepcion,2010,7,TOTAL,1
+La Paz,20105,El Alto,2010,7,TOTAL,2
+Santa Cruz,70105,El Torno,2010,7,TOTAL,2
+La Paz,21601,Gral. J.j. Perez (charazani),2010,7,TOTAL,1
+Beni,80202,Guayaramerin,2010,7,TOTAL,1
+Oruro,40701,Huanuni,2010,7,TOTAL,3
+Santa Cruz,70104,La Guardia,2010,7,TOTAL,2
+La Paz,20101,La Paz,2010,7,TOTAL,3
+Beni,80601,Loreto,2010,7,TOTAL,2
+Santa Cruz,70903,Mairana,2010,7,TOTAL,1
+Santa Cruz,71001,Montero,2010,7,TOTAL,1
+Oruro,40602,Pazña,2010,7,TOTAL,1
+Beni,80703,Puerto Siles,2010,7,TOTAL,1
+Cochabamba,30901,Quillacollo,2010,7,TOTAL,1
+Beni,80201,Riberalta,2010,7,TOTAL,3
+Oruro,40901,Sabaya,2010,7,TOTAL,1
+Cochabamba,31001,Sacaba,2010,7,TOTAL,2
+Santa Cruz,70402,San Carlos,2010,7,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,7,TOTAL,1
+Beni,80102,San Javier(bni),2010,7,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2010,7,TOTAL,1
+Santa Cruz,71104,San Julian,2010,7,TOTAL,1
+Santa Cruz,70302,San Miguel De Velasco,2010,7,TOTAL,7
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,TOTAL,13
+Cochabamba,30702,Santivañes,2010,7,TOTAL,3
+Cochabamba,30902,Sipe Sipe,2010,7,TOTAL,8
+Oruro,40104,Soracachi,2010,7,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2010,7,TOTAL,1
+Potosí,50502,Toro Toro,2010,7,TOTAL,1
+Oruro,41301,Totora(orr),2010,7,TOTAL,2
+Beni,80101,Trinidad,2010,7,TOTAL,3
+Oruro,40402,Turco,2010,7,TOTAL,2
+Cochabamba,31302,Vila Vila,2010,7,TOTAL,1
+Cochabamba,31402,Villa Rivero,2010,7,TOTAL,1
+Cochabamba,31003,Villa Tunari,2010,7,TOTAL,1
+La Paz,20201,Achacachi,2010,8,TOTAL,1
+La Paz,20502,Ayata,2010,8,TOTAL,1
+La Paz,21303,Ayo Ayo,2010,8,TOTAL,2
+Tarija,60202,Bermejo,2010,8,TOTAL,1
+Cochabamba,31501,Bolivar,2010,8,TOTAL,1
+Santa Cruz,70703,Cabezas,2010,8,TOTAL,1
+Potosí,51102,"Caiza ""d""",2010,8,TOTAL,1
+Cochabamba,30701,Capinota,2010,8,TOTAL,1
+La Paz,21803,Chacarilla,2010,8,TOTAL,1
+Cochabamba,30801,Cliza,2010,8,TOTAL,1
+Cochabamba,30303,Cocapata,2010,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,8,TOTAL,2
+Cochabamba,31002,Colomi,2010,8,TOTAL,2
+La Paz,20105,El Alto,2010,8,TOTAL,1
+Tarija,60601,Entre Rios Trj,2010,8,TOTAL,1
+La Paz,21601,Gral. J.j. Perez (charazani),2010,8,TOTAL,1
+Pando,90402,Ingavi (humaita),2010,8,TOTAL,1
+Santa Cruz,70104,La Guardia,2010,8,TOTAL,1
+La Paz,20101,La Paz,2010,8,TOTAL,5
+Cochabamba,30302,Morochata,2010,8,TOTAL,2
+Santa Cruz,70202,Okinawa,2010,8,TOTAL,1
+Chuquisaca,10401,Padilla,2010,8,TOTAL,2
+La Paz,20102,Palca,2010,8,TOTAL,10
+Cochabamba,30901,Quillacollo,2010,8,TOTAL,3
+Beni,80201,Riberalta,2010,8,TOTAL,2
+Beni,80304,Rurrenabaque,2010,8,TOTAL,1
+Cochabamba,31001,Sacaba,2010,8,TOTAL,1
+Santa Cruz,70402,San Carlos,2010,8,TOTAL,1
+Santa Cruz,71104,San Julian,2010,8,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2010,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,8,TOTAL,4
+La Paz,20308,Santiago De Callapa,2010,8,TOTAL,1
+Cochabamba,30702,Santivañes,2010,8,TOTAL,2
+Cochabamba,30602,Tacopaya,2010,8,TOTAL,1
+Tarija,60101,Tarija,2010,8,TOTAL,418
+Cochabamba,30803,Tolata,2010,8,TOTAL,1
+Oruro,41301,Totora(orr),2010,8,TOTAL,2
+Beni,80101,Trinidad,2010,8,TOTAL,4
+Oruro,40402,Turco,2010,8,TOTAL,1
+Chuquisaca,10201,Azurduy,2010,9,TOTAL,1
+Santa Cruz,70401,Buena Vista,2010,9,TOTAL,1
+Cochabamba,30801,Cliza,2010,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,9,TOTAL,1
+Cochabamba,30905,Colcapirhua,2010,9,TOTAL,10
+Santa Cruz,71301,Comarapa,2010,9,TOTAL,1
+Chuquisaca,10902,Culpina,2010,9,TOTAL,3
+La Paz,20105,El Alto,2010,9,TOTAL,2
+La Paz,20101,La Paz,2010,9,TOTAL,7
+La Paz,21202,Laja,2010,9,TOTAL,1
+Santa Cruz,71003,Mineros,2010,9,TOTAL,1
+Tarija,60201,Padcaya,2010,9,TOTAL,16
+La Paz,21201,Pucarani,2010,9,TOTAL,1
+Beni,80201,Riberalta,2010,9,TOTAL,4
+Beni,80602,San Andres,2010,9,TOTAL,1
+La Paz,20805,San Andres De Machaca,2010,9,TOTAL,1
+Beni,80501,San Ignacio,2010,9,TOTAL,2
+Santa Cruz,71102,San Javier(stc),2010,9,TOTAL,1
+Santa Cruz,71104,San Julian,2010,9,TOTAL,1
+Santa Cruz,71201,San Matias,2010,9,TOTAL,2
+Santa Cruz,71005,San Pedro,2010,9,TOTAL,1
+La Paz,21801,San Pedro De Curahuara,2010,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,9,TOTAL,3
+La Paz,20204,Santiago De Huata,2010,9,TOTAL,1
+Cochabamba,30702,Santivañes,2010,9,TOTAL,2
+La Paz,20601,Sorata,2010,9,TOTAL,9
+La Paz,20606,Tipuani,2010,9,TOTAL,1
+Potosí,51202,Tomave,2010,9,TOTAL,1
+Oruro,40402,Turco,2010,9,TOTAL,1
+Cochabamba,31402,Villa Rivero,2010,9,TOTAL,1
+La Paz,20201,Achacachi,2010,10,TOTAL,2
+Cochabamba,30601,Arque,2010,10,TOTAL,1
+Chuquisaca,10201,Azurduy,2010,10,TOTAL,6
+Santa Cruz,70703,Cabezas,2010,10,TOTAL,192
+La Paz,21304,Calamarca,2010,10,TOTAL,2
+Cochabamba,31204,Chimore,2010,10,TOTAL,1
+La Paz,20501,Chuma,2010,10,TOTAL,2
+Potosí,51103,Ckochas,2010,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,10,TOTAL,39
+La Paz,21306,Colquencha,2010,10,TOTAL,4
+Santa Cruz,71101,Concepcion,2010,10,TOTAL,1
+La Paz,21701,Copacabana,2010,10,TOTAL,1
+La Paz,20105,El Alto,2010,10,TOTAL,10
+Tarija,60601,Entre Rios Trj,2010,10,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2010,10,TOTAL,1
+La Paz,20602,Guanay,2010,10,TOTAL,4
+La Paz,20203,Huarina,2010,10,TOTAL,1
+Santa Cruz,70104,La Guardia,2010,10,TOTAL,2
+La Paz,20101,La Paz,2010,10,TOTAL,14
+Potosí,50404,Ocuri,2010,10,TOTAL,1
+La Paz,21104,Palos Blancos,2010,10,TOTAL,2
+La Paz,21802,Papel Pampa,2010,10,TOTAL,1
+La Paz,21305,Patacamaya,2010,10,TOTAL,2
+Potosí,50403,Pocoata,2010,10,TOTAL,1
+Cochabamba,31203,Pocona,2010,10,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2010,10,TOTAL,1
+La Paz,20604,Quiabaya,2010,10,TOTAL,1
+Beni,80201,Riberalta,2010,10,TOTAL,1
+Beni,80304,Rurrenabaque,2010,10,TOTAL,1
+Beni,80501,San Ignacio,2010,10,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2010,10,TOTAL,1
+Santa Cruz,71104,San Julian,2010,10,TOTAL,1
+La Paz,21801,San Pedro De Curahuara,2010,10,TOTAL,1
+Pando,90202,San Pedro(pnd),2010,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,10,TOTAL,5
+Cochabamba,30702,Santivañes,2010,10,TOTAL,1
+La Paz,20601,Sorata,2010,10,TOTAL,1
+Chuquisaca,10101,Sucre,2010,10,TOTAL,1
+Tarija,60101,Tarija,2010,10,TOTAL,4
+La Paz,20608,Teoponte,2010,10,TOTAL,29
+Cochabamba,31601,Tiraque (cbba),2010,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2010,10,TOTAL,7
+La Paz,20202,Ancoraimes,2010,11,TOTAL,1
+La Paz,20701,Apolo,2010,11,TOTAL,1
+Cochabamba,30601,Arque,2010,11,TOTAL,3
+Santa Cruz,71501,Ascencion De Guarayos,2010,11,TOTAL,2
+La Paz,20503,Aucapata,2010,11,TOTAL,1
+La Paz,20502,Ayata,2010,11,TOTAL,1
+Cochabamba,30701,Capinota,2010,11,TOTAL,1
+Cochabamba,31204,Chimore,2010,11,TOTAL,1
+La Paz,20501,Chuma,2010,11,TOTAL,3
+Pando,90101,Cobija,2010,11,TOTAL,6
+Cochabamba,30303,Cocapata,2010,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,11,TOTAL,3
+La Paz,21004,Colquiri,2010,11,TOTAL,1
+La Paz,21701,Copacabana,2010,11,TOTAL,1
+Potosí,50601,Cotagaita,2010,11,TOTAL,1
+La Paz,21602,Curva,2010,11,TOTAL,1
+La Paz,20105,El Alto,2010,11,TOTAL,12
+Santa Cruz,71004,Fernandez Alonso,2010,11,TOTAL,1
+La Paz,22004,Humanata,2010,11,TOTAL,1
+Santa Cruz,70104,La Guardia,2010,11,TOTAL,2
+La Paz,20101,La Paz,2010,11,TOTAL,7
+Beni,80601,Loreto,2010,11,TOTAL,1
+La Paz,20103,Mecapaca,2010,11,TOTAL,1
+Cochabamba,30302,Morochata,2010,11,TOTAL,2
+Tarija,60201,Padcaya,2010,11,TOTAL,1
+La Paz,21802,Papel Pampa,2010,11,TOTAL,1
+Pando,90201,Puerto Rico,2010,11,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2010,11,TOTAL,2
+Cochabamba,31401,Punata,2010,11,TOTAL,1
+Cochabamba,30901,Quillacollo,2010,11,TOTAL,2
+La Paz,21002,Quime,2010,11,TOTAL,2
+Potosí,50402,Ravelo,2010,11,TOTAL,7
+Beni,80201,Riberalta,2010,11,TOTAL,1
+Beni,80304,Rurrenabaque,2010,11,TOTAL,1
+Beni,80302,San Borja,2010,11,TOTAL,1
+Santa Cruz,71104,San Julian,2010,11,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2010,11,TOTAL,1
+Chuquisaca,10702,San Lucas,2010,11,TOTAL,1
+Potosí,51001,San Pablo De Lipez,2010,11,TOTAL,1
+La Paz,20308,Santiago De Callapa,2010,11,TOTAL,1
+Cochabamba,30702,Santivañes,2010,11,TOTAL,2
+La Paz,21301,Sica Sica (villa Aroma),2010,11,TOTAL,20
+La Paz,20601,Sorata,2010,11,TOTAL,1
+Chuquisaca,10101,Sucre,2010,11,TOTAL,1
+Chuquisaca,10601,Tarabuco,2010,11,TOTAL,4
+Tarija,60101,Tarija,2010,11,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2010,11,TOTAL,1
+Cochabamba,30803,Tolata,2010,11,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2010,11,TOTAL,2
+La Paz,20801,Viacha,2010,11,TOTAL,5
+La Paz,22002,Alto Beni,2010,12,TOTAL,1
+Chuquisaca,10201,Azurduy,2010,12,TOTAL,1
+Oruro,41202,Belen De Andamarca,2010,12,TOTAL,1
+Cochabamba,30801,Cliza,2010,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,12,TOTAL,1
+La Paz,21306,Colquencha,2010,12,TOTAL,6
+La Paz,21701,Copacabana,2010,12,TOTAL,1
+La Paz,20105,El Alto,2010,12,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2010,12,TOTAL,1
+Pando,90402,Ingavi (humaita),2010,12,TOTAL,5
+Santa Cruz,70104,La Guardia,2010,12,TOTAL,5
+La Paz,20101,La Paz,2010,12,TOTAL,6
+Cochabamba,31203,Pocona,2010,12,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2010,12,TOTAL,1
+Cochabamba,31401,Punata,2010,12,TOTAL,1
+Cochabamba,30901,Quillacollo,2010,12,TOTAL,1
+Beni,80201,Riberalta,2010,12,TOTAL,2
+Beni,80602,San Andres,2010,12,TOTAL,1
+Cochabamba,31403,San Benito,2010,12,TOTAL,1
+Beni,80302,San Borja,2010,12,TOTAL,1
+Santa Cruz,70402,San Carlos,2010,12,TOTAL,1
+Santa Cruz,71104,San Julian,2010,12,TOTAL,7
+Pando,90302,San Lorenzo(pnd),2010,12,TOTAL,1
+La Paz,21801,San Pedro De Curahuara,2010,12,TOTAL,1
+La Paz,20308,Santiago De Callapa,2010,12,TOTAL,1
+Cochabamba,30702,Santivañes,2010,12,TOTAL,2
+La Paz,20902,Sapahaqui,2010,12,TOTAL,1
+La Paz,21301,Sica Sica (villa Aroma),2010,12,TOTAL,3
+Chuquisaca,10101,Sucre,2010,12,TOTAL,1
+Cochabamba,30602,Tacopaya,2010,12,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2010,12,TOTAL,1
+Oruro,41001,Toledo,2010,12,TOTAL,1
+Cochabamba,31201,Totora(cbba),2010,12,TOTAL,1
+La Paz,21302,Umala,2010,12,TOTAL,1
+Potosí,50201,Uncia,2010,12,TOTAL,1
+Cochabamba,30904,Vinto,2010,12,TOTAL,1
+Tarija,60301,Yacuiba,2010,12,TOTAL,1
+Chuquisaca,10602,Yamparaez,2010,12,TOTAL,6

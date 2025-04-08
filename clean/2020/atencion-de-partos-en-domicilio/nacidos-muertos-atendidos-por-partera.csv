@@ -1,0 +1,61 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,50403,Pocoata,2020,1,Nacidos muertos atendidos por partera,1
+Cochabamba,31205,Puerto Villarroel,2020,1,Nacidos muertos atendidos por partera,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,1,Nacidos muertos atendidos por partera,4
+La Paz,21601,Gral. J.j. Perez (charazani),2020,2,Nacidos muertos atendidos por partera,1
+Chuquisaca,10501,Monteagudo,2020,3,Nacidos muertos atendidos por partera,1
+Tarija,60301,Yacuiba,2020,3,Nacidos muertos atendidos por partera,1
+Tarija,60402,Yunchara,2020,3,Nacidos muertos atendidos por partera,1
+La Paz,21601,Gral. J.j. Perez (charazani),2020,4,Nacidos muertos atendidos por partera,1
+Santa Cruz,71105,San Antonio De Lomerio,2020,4,Nacidos muertos atendidos por partera,1
+Beni,80301,Reyes,2020,5,Nacidos muertos atendidos por partera,1
+Santa Cruz,70901,Samaipata,2020,5,Nacidos muertos atendidos por partera,1
+La Paz,21402,Coripata,2020,6,Nacidos muertos atendidos por partera,2
+Tarija,60301,Yacuiba,2020,6,Nacidos muertos atendidos por partera,1
+Potosí,50901,"Colcha ""k""",2020,8,Nacidos muertos atendidos por partera,1
+Potosí,50401,Colquechaca,2020,8,Nacidos muertos atendidos por partera,1
+La Paz,20806,Jesus De Machaca,2020,8,Nacidos muertos atendidos por partera,1
+Santa Cruz,71201,San Matias,2020,8,Nacidos muertos atendidos por partera,1
+Cochabamba,31101,Tapacari,2020,8,Nacidos muertos atendidos por partera,1
+La Paz,21304,Calamarca,2020,9,Nacidos muertos atendidos por partera,1
+Beni,80501,San Ignacio,2020,9,Nacidos muertos atendidos por partera,1
+Chuquisaca,10702,San Lucas,2020,9,Nacidos muertos atendidos por partera,1
+Santa Cruz,70703,Cabezas,2020,10,Nacidos muertos atendidos por partera,1
+Pando,90102,Porvenir,2020,10,Nacidos muertos atendidos por partera,2
+Chuquisaca,10701,Camargo,2020,11,Nacidos muertos atendidos por partera,1
+Santa Cruz,70902,Pampa Grande,2020,11,Nacidos muertos atendidos por partera,1
+Potosí,50502,Toro Toro,2020,11,Nacidos muertos atendidos por partera,1
+Tarija,60202,Bermejo,2020,12,Nacidos muertos atendidos por partera,3
+La Paz,20402,Mocomoco,2020,12,Nacidos muertos atendidos por partera,1
+La Paz,21104,Palos Blancos,2020,12,Nacidos muertos atendidos por partera,1
+Tarija,60402,Yunchara,2020,12,Nacidos muertos atendidos por partera,1
+Potosí,50403,Pocoata,2020,1,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2020,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,1,TOTAL,4
+La Paz,21601,Gral. J.j. Perez (charazani),2020,2,TOTAL,1
+Chuquisaca,10501,Monteagudo,2020,3,TOTAL,1
+Tarija,60301,Yacuiba,2020,3,TOTAL,1
+Tarija,60402,Yunchara,2020,3,TOTAL,1
+La Paz,21601,Gral. J.j. Perez (charazani),2020,4,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2020,4,TOTAL,1
+Beni,80301,Reyes,2020,5,TOTAL,1
+Santa Cruz,70901,Samaipata,2020,5,TOTAL,1
+La Paz,21402,Coripata,2020,6,TOTAL,2
+Tarija,60301,Yacuiba,2020,6,TOTAL,1
+Potosí,50901,"Colcha ""k""",2020,8,TOTAL,1
+Potosí,50401,Colquechaca,2020,8,TOTAL,1
+La Paz,20806,Jesus De Machaca,2020,8,TOTAL,1
+Santa Cruz,71201,San Matias,2020,8,TOTAL,1
+Cochabamba,31101,Tapacari,2020,8,TOTAL,1
+La Paz,21304,Calamarca,2020,9,TOTAL,1
+Beni,80501,San Ignacio,2020,9,TOTAL,1
+Chuquisaca,10702,San Lucas,2020,9,TOTAL,1
+Santa Cruz,70703,Cabezas,2020,10,TOTAL,1
+Pando,90102,Porvenir,2020,10,TOTAL,2
+Chuquisaca,10701,Camargo,2020,11,TOTAL,1
+Santa Cruz,70902,Pampa Grande,2020,11,TOTAL,1
+Potosí,50502,Toro Toro,2020,11,TOTAL,1
+Tarija,60202,Bermejo,2020,12,TOTAL,3
+La Paz,20402,Mocomoco,2020,12,TOTAL,1
+La Paz,21104,Palos Blancos,2020,12,TOTAL,1
+Tarija,60402,Yunchara,2020,12,TOTAL,1

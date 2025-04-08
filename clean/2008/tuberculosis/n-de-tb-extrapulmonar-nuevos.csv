@@ -1,0 +1,781 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,50301,Betanzos,2008,1,N de TB extrapulmonar nuevos,1
+La Paz,22001,Caranavi,2008,1,N de TB extrapulmonar nuevos,4
+Cochabamba,30101,Cochabamba,2008,1,N de TB extrapulmonar nuevos,13
+Potosí,50601,Cotagaita,2008,1,N de TB extrapulmonar nuevos,1
+La Paz,20105,El Alto,2008,1,N de TB extrapulmonar nuevos,20
+Tarija,60601,Entre Rios,2008,1,N de TB extrapulmonar nuevos,1
+Santa Cruz,70104,La Guardia,2008,1,N de TB extrapulmonar nuevos,2
+La Paz,20101,La Paz,2008,1,N de TB extrapulmonar nuevos,40
+Cochabamba,31301,Mizque,2008,1,N de TB extrapulmonar nuevos,1
+Oruro,40101,Oruro,2008,1,N de TB extrapulmonar nuevos,9
+Potosí,50101,Potosi,2008,1,N de TB extrapulmonar nuevos,1
+Cochabamba,30901,Quillacollo,2008,1,N de TB extrapulmonar nuevos,1
+Beni,80201,Riberalta,2008,1,N de TB extrapulmonar nuevos,1
+Cochabamba,31001,Sacaba,2008,1,N de TB extrapulmonar nuevos,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,N de TB extrapulmonar nuevos,3
+Chuquisaca,10101,Sucre,2008,1,N de TB extrapulmonar nuevos,7
+Tarija,60101,Tarija,2008,1,N de TB extrapulmonar nuevos,1
+Cochabamba,30903,Tiquipaya,2008,1,N de TB extrapulmonar nuevos,1
+Cochabamba,30803,Tolata,2008,1,N de TB extrapulmonar nuevos,2
+Beni,80101,Trinidad,2008,1,N de TB extrapulmonar nuevos,1
+La Paz,20801,Viacha,2008,1,N de TB extrapulmonar nuevos,1
+Tarija,60303,Villa Montes,2008,1,N de TB extrapulmonar nuevos,1
+Cochabamba,31402,Villa Rivero,2008,1,N de TB extrapulmonar nuevos,1
+Cochabamba,30904,Vinto,2008,1,N de TB extrapulmonar nuevos,2
+La Paz,22001,Caranavi,2008,2,N de TB extrapulmonar nuevos,2
+Cochabamba,30101,Cochabamba,2008,2,N de TB extrapulmonar nuevos,8
+La Paz,21401,Coroico,2008,2,N de TB extrapulmonar nuevos,2
+Chuquisaca,10902,Culpina,2008,2,N de TB extrapulmonar nuevos,2
+La Paz,20105,El Alto,2008,2,N de TB extrapulmonar nuevos,15
+Santa Cruz,70104,La Guardia,2008,2,N de TB extrapulmonar nuevos,1
+La Paz,20101,La Paz,2008,2,N de TB extrapulmonar nuevos,30
+Oruro,40101,Oruro,2008,2,N de TB extrapulmonar nuevos,7
+La Paz,21104,Palos Blancos,2008,2,N de TB extrapulmonar nuevos,2
+La Paz,21305,Patacamaya,2008,2,N de TB extrapulmonar nuevos,1
+Potosí,50101,Potosi,2008,2,N de TB extrapulmonar nuevos,1
+Cochabamba,31205,Puerto Villarroel,2008,2,N de TB extrapulmonar nuevos,1
+Cochabamba,31401,Punata,2008,2,N de TB extrapulmonar nuevos,1
+Cochabamba,30901,Quillacollo,2008,2,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,N de TB extrapulmonar nuevos,6
+Chuquisaca,10101,Sucre,2008,2,N de TB extrapulmonar nuevos,3
+Tarija,60101,Tarija,2008,2,N de TB extrapulmonar nuevos,3
+Chuquisaca,10402,Tomina,2008,2,N de TB extrapulmonar nuevos,1
+Beni,80101,Trinidad,2008,2,N de TB extrapulmonar nuevos,2
+Potosí,50801,Tupiza,2008,2,N de TB extrapulmonar nuevos,1
+Santa Cruz,70201,Warnes,2008,2,N de TB extrapulmonar nuevos,1
+Tarija,60301,Yacuiba,2008,2,N de TB extrapulmonar nuevos,2
+La Paz,20201,Achacachi,2008,3,N de TB extrapulmonar nuevos,1
+La Paz,20701,Apolo,2008,3,N de TB extrapulmonar nuevos,1
+Cochabamba,30403,Arbieto,2008,3,N de TB extrapulmonar nuevos,1
+Cochabamba,30101,Cochabamba,2008,3,N de TB extrapulmonar nuevos,3
+Cochabamba,30905,Colcapirhua,2008,3,N de TB extrapulmonar nuevos,2
+La Paz,21401,Coroico,2008,3,N de TB extrapulmonar nuevos,2
+La Paz,20105,El Alto,2008,3,N de TB extrapulmonar nuevos,13
+Santa Cruz,70104,La Guardia,2008,3,N de TB extrapulmonar nuevos,1
+La Paz,20101,La Paz,2008,3,N de TB extrapulmonar nuevos,57
+La Paz,20607,Mapiri,2008,3,N de TB extrapulmonar nuevos,1
+Cochabamba,31301,Mizque,2008,3,N de TB extrapulmonar nuevos,1
+Oruro,40101,Oruro,2008,3,N de TB extrapulmonar nuevos,17
+Tarija,60201,Padcaya,2008,3,N de TB extrapulmonar nuevos,1
+La Paz,21305,Patacamaya,2008,3,N de TB extrapulmonar nuevos,1
+Potosí,50101,Potosi,2008,3,N de TB extrapulmonar nuevos,1
+La Paz,21201,Pucarani,2008,3,N de TB extrapulmonar nuevos,1
+Cochabamba,31205,Puerto Villarroel,2008,3,N de TB extrapulmonar nuevos,1
+Cochabamba,30901,Quillacollo,2008,3,N de TB extrapulmonar nuevos,2
+Cochabamba,31001,Sacaba,2008,3,N de TB extrapulmonar nuevos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,N de TB extrapulmonar nuevos,13
+La Paz,21901,Santiago De Machaca,2008,3,N de TB extrapulmonar nuevos,1
+La Paz,20601,Sorata,2008,3,N de TB extrapulmonar nuevos,1
+Chuquisaca,10101,Sucre,2008,3,N de TB extrapulmonar nuevos,3
+Tarija,60101,Tarija,2008,3,N de TB extrapulmonar nuevos,2
+Cochabamba,30903,Tiquipaya,2008,3,N de TB extrapulmonar nuevos,1
+Beni,80101,Trinidad,2008,3,N de TB extrapulmonar nuevos,1
+Potosí,50801,Tupiza,2008,3,N de TB extrapulmonar nuevos,2
+Tarija,60303,Villa Montes,2008,3,N de TB extrapulmonar nuevos,1
+Potosí,51501,Villazon,2008,3,N de TB extrapulmonar nuevos,2
+Potosí,50602,Vitichi,2008,3,N de TB extrapulmonar nuevos,1
+Tarija,60301,Yacuiba,2008,3,N de TB extrapulmonar nuevos,1
+La Paz,20201,Achacachi,2008,4,N de TB extrapulmonar nuevos,1
+Tarija,60202,Bermejo,2008,4,N de TB extrapulmonar nuevos,3
+Potosí,51102,"Caiza ""d""",2008,4,N de TB extrapulmonar nuevos,1
+La Paz,22001,Caranavi,2008,4,N de TB extrapulmonar nuevos,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,4,N de TB extrapulmonar nuevos,2
+Cochabamba,30101,Cochabamba,2008,4,N de TB extrapulmonar nuevos,12
+Cochabamba,30905,Colcapirhua,2008,4,N de TB extrapulmonar nuevos,2
+La Paz,21401,Coroico,2008,4,N de TB extrapulmonar nuevos,1
+La Paz,20105,El Alto,2008,4,N de TB extrapulmonar nuevos,16
+Santa Cruz,70104,La Guardia,2008,4,N de TB extrapulmonar nuevos,2
+La Paz,20101,La Paz,2008,4,N de TB extrapulmonar nuevos,44
+La Paz,20103,Mecapaca,2008,4,N de TB extrapulmonar nuevos,1
+Oruro,40101,Oruro,2008,4,N de TB extrapulmonar nuevos,6
+Chuquisaca,10103,Poroma,2008,4,N de TB extrapulmonar nuevos,1
+Potosí,50101,Potosi,2008,4,N de TB extrapulmonar nuevos,1
+Cochabamba,31205,Puerto Villarroel,2008,4,N de TB extrapulmonar nuevos,1
+Cochabamba,30901,Quillacollo,2008,4,N de TB extrapulmonar nuevos,5
+Beni,80201,Riberalta,2008,4,N de TB extrapulmonar nuevos,1
+Beni,80304,Rurrenabaque,2008,4,N de TB extrapulmonar nuevos,1
+Cochabamba,31001,Sacaba,2008,4,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,N de TB extrapulmonar nuevos,16
+Chuquisaca,10101,Sucre,2008,4,N de TB extrapulmonar nuevos,4
+Cochabamba,31101,Tapacari,2008,4,N de TB extrapulmonar nuevos,1
+Tarija,60101,Tarija,2008,4,N de TB extrapulmonar nuevos,2
+La Paz,20608,Teoponte,2008,4,N de TB extrapulmonar nuevos,1
+La Paz,20803,Tiawanacu,2008,4,N de TB extrapulmonar nuevos,1
+Cochabamba,31601,Tiraque (cbba),2008,4,N de TB extrapulmonar nuevos,1
+Cochabamba,31201,Totora(cbba),2008,4,N de TB extrapulmonar nuevos,1
+Beni,80101,Trinidad,2008,4,N de TB extrapulmonar nuevos,1
+Potosí,50801,Tupiza,2008,4,N de TB extrapulmonar nuevos,2
+La Paz,21302,Umala,2008,4,N de TB extrapulmonar nuevos,1
+Cochabamba,31003,Villa Tunari,2008,4,N de TB extrapulmonar nuevos,3
+Cochabamba,30904,Vinto,2008,4,N de TB extrapulmonar nuevos,1
+Chuquisaca,10602,Yamparaez,2008,4,N de TB extrapulmonar nuevos,1
+La Paz,20201,Achacachi,2008,5,N de TB extrapulmonar nuevos,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,5,N de TB extrapulmonar nuevos,1
+Tarija,60202,Bermejo,2008,5,N de TB extrapulmonar nuevos,1
+La Paz,22001,Caranavi,2008,5,N de TB extrapulmonar nuevos,2
+Potosí,50202,Chayanta,2008,5,N de TB extrapulmonar nuevos,1
+Pando,90101,Cobija,2008,5,N de TB extrapulmonar nuevos,1
+Cochabamba,30101,Cochabamba,2008,5,N de TB extrapulmonar nuevos,10
+Cochabamba,30905,Colcapirhua,2008,5,N de TB extrapulmonar nuevos,2
+Santa Cruz,71101,Concepcion,2008,5,N de TB extrapulmonar nuevos,1
+La Paz,21402,Coripata,2008,5,N de TB extrapulmonar nuevos,2
+La Paz,20105,El Alto,2008,5,N de TB extrapulmonar nuevos,15
+Santa Cruz,71004,Fernandez Alonso,2008,5,N de TB extrapulmonar nuevos,1
+La Paz,20602,Guanay,2008,5,N de TB extrapulmonar nuevos,1
+La Paz,21105,La Asunta,2008,5,N de TB extrapulmonar nuevos,3
+La Paz,20101,La Paz,2008,5,N de TB extrapulmonar nuevos,28
+Potosí,50203,Llallagua,2008,5,N de TB extrapulmonar nuevos,1
+Santa Cruz,71003,Mineros,2008,5,N de TB extrapulmonar nuevos,1
+Cochabamba,31301,Mizque,2008,5,N de TB extrapulmonar nuevos,1
+Oruro,40101,Oruro,2008,5,N de TB extrapulmonar nuevos,4
+La Paz,20102,Palca,2008,5,N de TB extrapulmonar nuevos,1
+Potosí,50101,Potosi,2008,5,N de TB extrapulmonar nuevos,1
+Cochabamba,31205,Puerto Villarroel,2008,5,N de TB extrapulmonar nuevos,2
+Cochabamba,31401,Punata,2008,5,N de TB extrapulmonar nuevos,2
+Cochabamba,30901,Quillacollo,2008,5,N de TB extrapulmonar nuevos,2
+Beni,80201,Riberalta,2008,5,N de TB extrapulmonar nuevos,1
+Cochabamba,31001,Sacaba,2008,5,N de TB extrapulmonar nuevos,2
+Beni,80302,San Borja,2008,5,N de TB extrapulmonar nuevos,4
+Tarija,60501,San Lorenzo(tja),2008,5,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,N de TB extrapulmonar nuevos,12
+La Paz,21301,Sica Sica (villa Aroma),2008,5,N de TB extrapulmonar nuevos,1
+Chuquisaca,10101,Sucre,2008,5,N de TB extrapulmonar nuevos,6
+Tarija,60101,Tarija,2008,5,N de TB extrapulmonar nuevos,2
+Beni,80101,Trinidad,2008,5,N de TB extrapulmonar nuevos,2
+Tarija,60303,Villa Montes,2008,5,N de TB extrapulmonar nuevos,1
+Santa Cruz,70201,Warnes,2008,5,N de TB extrapulmonar nuevos,1
+Tarija,60301,Yacuiba,2008,5,N de TB extrapulmonar nuevos,2
+La Paz,21003,Cajuata,2008,6,N de TB extrapulmonar nuevos,1
+La Paz,22001,Caranavi,2008,6,N de TB extrapulmonar nuevos,1
+Santa Cruz,71403,Carmen Rivero Torrez,2008,6,N de TB extrapulmonar nuevos,1
+Pando,90101,Cobija,2008,6,N de TB extrapulmonar nuevos,1
+Cochabamba,30101,Cochabamba,2008,6,N de TB extrapulmonar nuevos,14
+Cochabamba,30905,Colcapirhua,2008,6,N de TB extrapulmonar nuevos,1
+La Paz,21402,Coripata,2008,6,N de TB extrapulmonar nuevos,1
+Santa Cruz,70102,Cotoca,2008,6,N de TB extrapulmonar nuevos,2
+Santa Cruz,71106,Cuatro Cañadas,2008,6,N de TB extrapulmonar nuevos,1
+La Paz,20105,El Alto,2008,6,N de TB extrapulmonar nuevos,10
+Tarija,60502,El Puente(tja),2008,6,N de TB extrapulmonar nuevos,1
+La Paz,20101,La Paz,2008,6,N de TB extrapulmonar nuevos,48
+Chuquisaca,10303,Mojocoya,2008,6,N de TB extrapulmonar nuevos,1
+Chuquisaca,10501,Monteagudo,2008,6,N de TB extrapulmonar nuevos,1
+Santa Cruz,71001,Montero,2008,6,N de TB extrapulmonar nuevos,3
+Oruro,40101,Oruro,2008,6,N de TB extrapulmonar nuevos,6
+La Paz,21104,Palos Blancos,2008,6,N de TB extrapulmonar nuevos,1
+La Paz,21305,Patacamaya,2008,6,N de TB extrapulmonar nuevos,1
+Potosí,50101,Potosi,2008,6,N de TB extrapulmonar nuevos,1
+Pando,90201,Puerto Rico,2008,6,N de TB extrapulmonar nuevos,1
+Cochabamba,31205,Puerto Villarroel,2008,6,N de TB extrapulmonar nuevos,1
+Cochabamba,31001,Sacaba,2008,6,N de TB extrapulmonar nuevos,2
+Santa Cruz,70404,San Juan De Yapacani,2008,6,N de TB extrapulmonar nuevos,1
+Santa Cruz,71104,San Julian,2008,6,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,N de TB extrapulmonar nuevos,14
+Chuquisaca,10101,Sucre,2008,6,N de TB extrapulmonar nuevos,1
+La Paz,20603,Tacacoma,2008,6,N de TB extrapulmonar nuevos,1
+Cochabamba,30903,Tiquipaya,2008,6,N de TB extrapulmonar nuevos,1
+Beni,80101,Trinidad,2008,6,N de TB extrapulmonar nuevos,2
+Potosí,50801,Tupiza,2008,6,N de TB extrapulmonar nuevos,2
+Tarija,60303,Villa Montes,2008,6,N de TB extrapulmonar nuevos,1
+Potosí,50602,Vitichi,2008,6,N de TB extrapulmonar nuevos,1
+Chuquisaca,10201,Azurduy,2008,7,N de TB extrapulmonar nuevos,2
+Potosí,51102,"Caiza ""d""",2008,7,N de TB extrapulmonar nuevos,1
+La Paz,20302,Caquiaviri,2008,7,N de TB extrapulmonar nuevos,1
+La Paz,22001,Caranavi,2008,7,N de TB extrapulmonar nuevos,2
+Oruro,40201,Challapata,2008,7,N de TB extrapulmonar nuevos,1
+Potosí,50202,Chayanta,2008,7,N de TB extrapulmonar nuevos,1
+Cochabamba,30801,Cliza,2008,7,N de TB extrapulmonar nuevos,1
+Cochabamba,30101,Cochabamba,2008,7,N de TB extrapulmonar nuevos,20
+La Paz,21402,Coripata,2008,7,N de TB extrapulmonar nuevos,1
+La Paz,21401,Coroico,2008,7,N de TB extrapulmonar nuevos,2
+Santa Cruz,70102,Cotoca,2008,7,N de TB extrapulmonar nuevos,1
+Santa Cruz,71106,Cuatro Cañadas,2008,7,N de TB extrapulmonar nuevos,1
+La Paz,20105,El Alto,2008,7,N de TB extrapulmonar nuevos,16
+Tarija,60502,El Puente(tja),2008,7,N de TB extrapulmonar nuevos,1
+Santa Cruz,70105,El Torno,2008,7,N de TB extrapulmonar nuevos,1
+Santa Cruz,70104,La Guardia,2008,7,N de TB extrapulmonar nuevos,1
+La Paz,20101,La Paz,2008,7,N de TB extrapulmonar nuevos,33
+Potosí,50203,Llallagua,2008,7,N de TB extrapulmonar nuevos,1
+Santa Cruz,70903,Mairana,2008,7,N de TB extrapulmonar nuevos,1
+Chuquisaca,10303,Mojocoya,2008,7,N de TB extrapulmonar nuevos,1
+Cochabamba,30203,Omereque,2008,7,N de TB extrapulmonar nuevos,1
+Oruro,40101,Oruro,2008,7,N de TB extrapulmonar nuevos,7
+Oruro,40602,Pazña,2008,7,N de TB extrapulmonar nuevos,1
+Potosí,50101,Potosi,2008,7,N de TB extrapulmonar nuevos,7
+Cochabamba,30901,Quillacollo,2008,7,N de TB extrapulmonar nuevos,2
+Beni,80304,Rurrenabaque,2008,7,N de TB extrapulmonar nuevos,1
+Beni,80302,San Borja,2008,7,N de TB extrapulmonar nuevos,3
+Santa Cruz,71104,San Julian,2008,7,N de TB extrapulmonar nuevos,1
+Santa Cruz,70303,San Rafael,2008,7,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,N de TB extrapulmonar nuevos,14
+Cochabamba,30902,Sipe Sipe,2008,7,N de TB extrapulmonar nuevos,1
+La Paz,20601,Sorata,2008,7,N de TB extrapulmonar nuevos,1
+Chuquisaca,10101,Sucre,2008,7,N de TB extrapulmonar nuevos,7
+Cochabamba,30401,Tarata,2008,7,N de TB extrapulmonar nuevos,1
+Tarija,60101,Tarija,2008,7,N de TB extrapulmonar nuevos,3
+Cochabamba,30903,Tiquipaya,2008,7,N de TB extrapulmonar nuevos,2
+La Paz,20801,Viacha,2008,7,N de TB extrapulmonar nuevos,2
+Tarija,60303,Villa Montes,2008,7,N de TB extrapulmonar nuevos,1
+Santa Cruz,70201,Warnes,2008,7,N de TB extrapulmonar nuevos,2
+Tarija,60301,Yacuiba,2008,7,N de TB extrapulmonar nuevos,2
+La Paz,20201,Achacachi,2008,8,N de TB extrapulmonar nuevos,1
+Cochabamba,30501,Arani,2008,8,N de TB extrapulmonar nuevos,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,8,N de TB extrapulmonar nuevos,2
+Tarija,60202,Bermejo,2008,8,N de TB extrapulmonar nuevos,4
+La Paz,21003,Cajuata,2008,8,N de TB extrapulmonar nuevos,1
+Cochabamba,30101,Cochabamba,2008,8,N de TB extrapulmonar nuevos,1
+La Paz,21401,Coroico,2008,8,N de TB extrapulmonar nuevos,1
+La Paz,20105,El Alto,2008,8,N de TB extrapulmonar nuevos,15
+Tarija,60601,Entre Rios,2008,8,N de TB extrapulmonar nuevos,1
+Santa Cruz,71002,General Saavedra,2008,8,N de TB extrapulmonar nuevos,1
+La Paz,20101,La Paz,2008,8,N de TB extrapulmonar nuevos,46
+Potosí,50203,Llallagua,2008,8,N de TB extrapulmonar nuevos,2
+Santa Cruz,71003,Mineros,2008,8,N de TB extrapulmonar nuevos,1
+Santa Cruz,71001,Montero,2008,8,N de TB extrapulmonar nuevos,1
+Oruro,40101,Oruro,2008,8,N de TB extrapulmonar nuevos,10
+Potosí,50101,Potosi,2008,8,N de TB extrapulmonar nuevos,4
+Potosí,51101,Puna,2008,8,N de TB extrapulmonar nuevos,3
+Cochabamba,31401,Punata,2008,8,N de TB extrapulmonar nuevos,1
+Cochabamba,30901,Quillacollo,2008,8,N de TB extrapulmonar nuevos,2
+Santa Cruz,70503,Robore,2008,8,N de TB extrapulmonar nuevos,1
+Cochabamba,31001,Sacaba,2008,8,N de TB extrapulmonar nuevos,2
+Santa Cruz,71104,San Julian,2008,8,N de TB extrapulmonar nuevos,1
+Chuquisaca,10702,San Lucas,2008,8,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,N de TB extrapulmonar nuevos,19
+La Paz,20601,Sorata,2008,8,N de TB extrapulmonar nuevos,1
+Chuquisaca,10101,Sucre,2008,8,N de TB extrapulmonar nuevos,4
+Tarija,60101,Tarija,2008,8,N de TB extrapulmonar nuevos,1
+Potosí,50801,Tupiza,2008,8,N de TB extrapulmonar nuevos,1
+Cochabamba,31003,Villa Tunari,2008,8,N de TB extrapulmonar nuevos,1
+Cochabamba,30904,Vinto,2008,8,N de TB extrapulmonar nuevos,2
+Santa Cruz,70201,Warnes,2008,8,N de TB extrapulmonar nuevos,1
+Tarija,60301,Yacuiba,2008,8,N de TB extrapulmonar nuevos,4
+Santa Cruz,70403,Yapacani,2008,8,N de TB extrapulmonar nuevos,1
+Tarija,60402,Yunchara,2008,8,N de TB extrapulmonar nuevos,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,9,N de TB extrapulmonar nuevos,2
+Santa Cruz,70401,Buena Vista,2008,9,N de TB extrapulmonar nuevos,1
+La Paz,21003,Cajuata,2008,9,N de TB extrapulmonar nuevos,1
+La Paz,22001,Caranavi,2008,9,N de TB extrapulmonar nuevos,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,9,N de TB extrapulmonar nuevos,3
+Cochabamba,30101,Cochabamba,2008,9,N de TB extrapulmonar nuevos,14
+Santa Cruz,70603,Colpa Belgica,2008,9,N de TB extrapulmonar nuevos,1
+La Paz,21402,Coripata,2008,9,N de TB extrapulmonar nuevos,1
+La Paz,21401,Coroico,2008,9,N de TB extrapulmonar nuevos,1
+La Paz,20105,El Alto,2008,9,N de TB extrapulmonar nuevos,20
+Santa Cruz,70104,La Guardia,2008,9,N de TB extrapulmonar nuevos,1
+La Paz,20101,La Paz,2008,9,N de TB extrapulmonar nuevos,37
+Potosí,50203,Llallagua,2008,9,N de TB extrapulmonar nuevos,1
+Oruro,40101,Oruro,2008,9,N de TB extrapulmonar nuevos,6
+La Paz,21104,Palos Blancos,2008,9,N de TB extrapulmonar nuevos,1
+Potosí,50101,Potosi,2008,9,N de TB extrapulmonar nuevos,5
+Cochabamba,31401,Punata,2008,9,N de TB extrapulmonar nuevos,1
+Beni,80302,San Borja,2008,9,N de TB extrapulmonar nuevos,2
+Beni,80701,San Joaquin,2008,9,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,N de TB extrapulmonar nuevos,26
+Chuquisaca,10101,Sucre,2008,9,N de TB extrapulmonar nuevos,3
+Tarija,60101,Tarija,2008,9,N de TB extrapulmonar nuevos,1
+La Paz,20608,Teoponte,2008,9,N de TB extrapulmonar nuevos,1
+La Paz,20606,Tipuani,2008,9,N de TB extrapulmonar nuevos,1
+Cochabamba,30903,Tiquipaya,2008,9,N de TB extrapulmonar nuevos,1
+Beni,80101,Trinidad,2008,9,N de TB extrapulmonar nuevos,2
+La Paz,20801,Viacha,2008,9,N de TB extrapulmonar nuevos,1
+Cochabamba,31003,Villa Tunari,2008,9,N de TB extrapulmonar nuevos,1
+Cochabamba,30904,Vinto,2008,9,N de TB extrapulmonar nuevos,1
+Santa Cruz,70201,Warnes,2008,9,N de TB extrapulmonar nuevos,2
+Tarija,60301,Yacuiba,2008,9,N de TB extrapulmonar nuevos,1
+Cochabamba,30201,Aiquile,2008,10,N de TB extrapulmonar nuevos,1
+Tarija,60202,Bermejo,2008,10,N de TB extrapulmonar nuevos,1
+Santa Cruz,70703,Cabezas,2008,10,N de TB extrapulmonar nuevos,1
+La Paz,22001,Caranavi,2008,10,N de TB extrapulmonar nuevos,4
+Pando,90101,Cobija,2008,10,N de TB extrapulmonar nuevos,1
+Cochabamba,30101,Cochabamba,2008,10,N de TB extrapulmonar nuevos,13
+Cochabamba,30905,Colcapirhua,2008,10,N de TB extrapulmonar nuevos,2
+La Paz,21401,Coroico,2008,10,N de TB extrapulmonar nuevos,2
+Potosí,50601,Cotagaita,2008,10,N de TB extrapulmonar nuevos,1
+Chuquisaca,10902,Culpina,2008,10,N de TB extrapulmonar nuevos,1
+La Paz,20804,Desaguadero,2008,10,N de TB extrapulmonar nuevos,1
+La Paz,20105,El Alto,2008,10,N de TB extrapulmonar nuevos,20
+Santa Cruz,71002,General Saavedra,2008,10,N de TB extrapulmonar nuevos,1
+La Paz,21102,Irupana (villa De Lanza),2008,10,N de TB extrapulmonar nuevos,1
+Santa Cruz,70104,La Guardia,2008,10,N de TB extrapulmonar nuevos,1
+La Paz,20101,La Paz,2008,10,N de TB extrapulmonar nuevos,44
+Potosí,50203,Llallagua,2008,10,N de TB extrapulmonar nuevos,2
+Santa Cruz,71003,Mineros,2008,10,N de TB extrapulmonar nuevos,2
+Oruro,40101,Oruro,2008,10,N de TB extrapulmonar nuevos,8
+Tarija,60201,Padcaya,2008,10,N de TB extrapulmonar nuevos,1
+Potosí,51203,Porco,2008,10,N de TB extrapulmonar nuevos,1
+Potosí,51101,Puna,2008,10,N de TB extrapulmonar nuevos,1
+Cochabamba,31401,Punata,2008,10,N de TB extrapulmonar nuevos,1
+Cochabamba,30901,Quillacollo,2008,10,N de TB extrapulmonar nuevos,5
+Santa Cruz,70503,Robore,2008,10,N de TB extrapulmonar nuevos,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,10,N de TB extrapulmonar nuevos,3
+Santa Cruz,70501,San Jose De Chiquitos,2008,10,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,N de TB extrapulmonar nuevos,36
+Cochabamba,30902,Sipe Sipe,2008,10,N de TB extrapulmonar nuevos,1
+Chuquisaca,10101,Sucre,2008,10,N de TB extrapulmonar nuevos,3
+Tarija,60101,Tarija,2008,10,N de TB extrapulmonar nuevos,4
+La Paz,20606,Tipuani,2008,10,N de TB extrapulmonar nuevos,1
+Cochabamba,30903,Tiquipaya,2008,10,N de TB extrapulmonar nuevos,2
+Beni,80101,Trinidad,2008,10,N de TB extrapulmonar nuevos,1
+Potosí,51201,Uyuni,2008,10,N de TB extrapulmonar nuevos,1
+Cochabamba,31003,Villa Tunari,2008,10,N de TB extrapulmonar nuevos,1
+Potosí,51501,Villazon,2008,10,N de TB extrapulmonar nuevos,1
+Santa Cruz,70201,Warnes,2008,10,N de TB extrapulmonar nuevos,1
+Tarija,60301,Yacuiba,2008,10,N de TB extrapulmonar nuevos,3
+La Paz,20701,Apolo,2008,11,N de TB extrapulmonar nuevos,1
+Tarija,60202,Bermejo,2008,11,N de TB extrapulmonar nuevos,1
+Santa Cruz,70703,Cabezas,2008,11,N de TB extrapulmonar nuevos,1
+La Paz,22001,Caranavi,2008,11,N de TB extrapulmonar nuevos,2
+Oruro,40201,Challapata,2008,11,N de TB extrapulmonar nuevos,1
+Potosí,50202,Chayanta,2008,11,N de TB extrapulmonar nuevos,1
+Pando,90101,Cobija,2008,11,N de TB extrapulmonar nuevos,1
+Cochabamba,30101,Cochabamba,2008,11,N de TB extrapulmonar nuevos,12
+Potosí,50401,Colquechaca,2008,11,N de TB extrapulmonar nuevos,1
+La Paz,21401,Coroico,2008,11,N de TB extrapulmonar nuevos,1
+La Paz,20105,El Alto,2008,11,N de TB extrapulmonar nuevos,8
+Tarija,60601,Entre Rios,2008,11,N de TB extrapulmonar nuevos,2
+Santa Cruz,70104,La Guardia,2008,11,N de TB extrapulmonar nuevos,1
+La Paz,20101,La Paz,2008,11,N de TB extrapulmonar nuevos,51
+Potosí,50203,Llallagua,2008,11,N de TB extrapulmonar nuevos,1
+Santa Cruz,71003,Mineros,2008,11,N de TB extrapulmonar nuevos,1
+La Paz,20402,Mocomoco,2008,11,N de TB extrapulmonar nuevos,1
+Santa Cruz,71001,Montero,2008,11,N de TB extrapulmonar nuevos,1
+Oruro,40101,Oruro,2008,11,N de TB extrapulmonar nuevos,6
+La Paz,21305,Patacamaya,2008,11,N de TB extrapulmonar nuevos,1
+Potosí,50101,Potosi,2008,11,N de TB extrapulmonar nuevos,1
+Cochabamba,30901,Quillacollo,2008,11,N de TB extrapulmonar nuevos,1
+Cochabamba,31001,Sacaba,2008,11,N de TB extrapulmonar nuevos,1
+Beni,80302,San Borja,2008,11,N de TB extrapulmonar nuevos,1
+Santa Cruz,71104,San Julian,2008,11,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,N de TB extrapulmonar nuevos,13
+Chuquisaca,10101,Sucre,2008,11,N de TB extrapulmonar nuevos,6
+Tarija,60101,Tarija,2008,11,N de TB extrapulmonar nuevos,4
+Cochabamba,30903,Tiquipaya,2008,11,N de TB extrapulmonar nuevos,1
+Cochabamba,31003,Villa Tunari,2008,11,N de TB extrapulmonar nuevos,1
+Cochabamba,30904,Vinto,2008,11,N de TB extrapulmonar nuevos,1
+Santa Cruz,70201,Warnes,2008,11,N de TB extrapulmonar nuevos,1
+Chuquisaca,10102,Yotala,2008,11,N de TB extrapulmonar nuevos,1
+La Paz,21303,Ayo Ayo,2008,12,N de TB extrapulmonar nuevos,1
+Santa Cruz,71403,Carmen Rivero Torrez,2008,12,N de TB extrapulmonar nuevos,1
+Oruro,40201,Challapata,2008,12,N de TB extrapulmonar nuevos,1
+Cochabamba,30101,Cochabamba,2008,12,N de TB extrapulmonar nuevos,13
+Potosí,50401,Colquechaca,2008,12,N de TB extrapulmonar nuevos,1
+La Paz,21401,Coroico,2008,12,N de TB extrapulmonar nuevos,2
+Santa Cruz,70102,Cotoca,2008,12,N de TB extrapulmonar nuevos,1
+La Paz,20105,El Alto,2008,12,N de TB extrapulmonar nuevos,16
+Santa Cruz,70105,El Torno,2008,12,N de TB extrapulmonar nuevos,2
+La Paz,20806,Jesus De Machaca,2008,12,N de TB extrapulmonar nuevos,1
+Santa Cruz,70104,La Guardia,2008,12,N de TB extrapulmonar nuevos,1
+La Paz,20101,La Paz,2008,12,N de TB extrapulmonar nuevos,34
+Santa Cruz,71001,Montero,2008,12,N de TB extrapulmonar nuevos,5
+Oruro,40101,Oruro,2008,12,N de TB extrapulmonar nuevos,7
+Potosí,50101,Potosi,2008,12,N de TB extrapulmonar nuevos,6
+La Paz,21201,Pucarani,2008,12,N de TB extrapulmonar nuevos,1
+Cochabamba,30901,Quillacollo,2008,12,N de TB extrapulmonar nuevos,1
+Beni,80201,Riberalta,2008,12,N de TB extrapulmonar nuevos,1
+Cochabamba,31001,Sacaba,2008,12,N de TB extrapulmonar nuevos,6
+Santa Cruz,70402,San Carlos,2008,12,N de TB extrapulmonar nuevos,1
+Beni,80501,San Ignacio,2008,12,N de TB extrapulmonar nuevos,2
+Santa Cruz,71104,San Julian,2008,12,N de TB extrapulmonar nuevos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,N de TB extrapulmonar nuevos,19
+Chuquisaca,10101,Sucre,2008,12,N de TB extrapulmonar nuevos,4
+Cochabamba,31101,Tapacari,2008,12,N de TB extrapulmonar nuevos,1
+Tarija,60101,Tarija,2008,12,N de TB extrapulmonar nuevos,4
+Cochabamba,30903,Tiquipaya,2008,12,N de TB extrapulmonar nuevos,1
+Beni,80101,Trinidad,2008,12,N de TB extrapulmonar nuevos,2
+Potosí,51201,Uyuni,2008,12,N de TB extrapulmonar nuevos,1
+La Paz,20801,Viacha,2008,12,N de TB extrapulmonar nuevos,1
+Tarija,60303,Villa Montes,2008,12,N de TB extrapulmonar nuevos,1
+Cochabamba,31003,Villa Tunari,2008,12,N de TB extrapulmonar nuevos,1
+Santa Cruz,70201,Warnes,2008,12,N de TB extrapulmonar nuevos,1
+Tarija,60301,Yacuiba,2008,12,N de TB extrapulmonar nuevos,8
+Potosí,50301,Betanzos,2008,1,TOTAL,1
+La Paz,22001,Caranavi,2008,1,TOTAL,4
+Cochabamba,30101,Cochabamba,2008,1,TOTAL,13
+Potosí,50601,Cotagaita,2008,1,TOTAL,1
+La Paz,20105,El Alto,2008,1,TOTAL,20
+Tarija,60601,Entre Rios,2008,1,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,1,TOTAL,2
+La Paz,20101,La Paz,2008,1,TOTAL,40
+Cochabamba,31301,Mizque,2008,1,TOTAL,1
+Oruro,40101,Oruro,2008,1,TOTAL,9
+Potosí,50101,Potosi,2008,1,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,1,TOTAL,1
+Beni,80201,Riberalta,2008,1,TOTAL,1
+Cochabamba,31001,Sacaba,2008,1,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTAL,3
+Chuquisaca,10101,Sucre,2008,1,TOTAL,7
+Tarija,60101,Tarija,2008,1,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,1,TOTAL,1
+Cochabamba,30803,Tolata,2008,1,TOTAL,2
+Beni,80101,Trinidad,2008,1,TOTAL,1
+La Paz,20801,Viacha,2008,1,TOTAL,1
+Tarija,60303,Villa Montes,2008,1,TOTAL,1
+Cochabamba,31402,Villa Rivero,2008,1,TOTAL,1
+Cochabamba,30904,Vinto,2008,1,TOTAL,2
+La Paz,22001,Caranavi,2008,2,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,2,TOTAL,8
+La Paz,21401,Coroico,2008,2,TOTAL,2
+Chuquisaca,10902,Culpina,2008,2,TOTAL,2
+La Paz,20105,El Alto,2008,2,TOTAL,15
+Santa Cruz,70104,La Guardia,2008,2,TOTAL,1
+La Paz,20101,La Paz,2008,2,TOTAL,30
+Oruro,40101,Oruro,2008,2,TOTAL,7
+La Paz,21104,Palos Blancos,2008,2,TOTAL,2
+La Paz,21305,Patacamaya,2008,2,TOTAL,1
+Potosí,50101,Potosi,2008,2,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,2,TOTAL,1
+Cochabamba,31401,Punata,2008,2,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,2,TOTAL,6
+Chuquisaca,10101,Sucre,2008,2,TOTAL,3
+Tarija,60101,Tarija,2008,2,TOTAL,3
+Chuquisaca,10402,Tomina,2008,2,TOTAL,1
+Beni,80101,Trinidad,2008,2,TOTAL,2
+Potosí,50801,Tupiza,2008,2,TOTAL,1
+Santa Cruz,70201,Warnes,2008,2,TOTAL,1
+Tarija,60301,Yacuiba,2008,2,TOTAL,2
+La Paz,20201,Achacachi,2008,3,TOTAL,1
+La Paz,20701,Apolo,2008,3,TOTAL,1
+Cochabamba,30403,Arbieto,2008,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,3,TOTAL,3
+Cochabamba,30905,Colcapirhua,2008,3,TOTAL,2
+La Paz,21401,Coroico,2008,3,TOTAL,2
+La Paz,20105,El Alto,2008,3,TOTAL,13
+Santa Cruz,70104,La Guardia,2008,3,TOTAL,1
+La Paz,20101,La Paz,2008,3,TOTAL,57
+La Paz,20607,Mapiri,2008,3,TOTAL,1
+Cochabamba,31301,Mizque,2008,3,TOTAL,1
+Oruro,40101,Oruro,2008,3,TOTAL,17
+Tarija,60201,Padcaya,2008,3,TOTAL,1
+La Paz,21305,Patacamaya,2008,3,TOTAL,1
+Potosí,50101,Potosi,2008,3,TOTAL,1
+La Paz,21201,Pucarani,2008,3,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,3,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,3,TOTAL,2
+Cochabamba,31001,Sacaba,2008,3,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTAL,13
+La Paz,21901,Santiago De Machaca,2008,3,TOTAL,1
+La Paz,20601,Sorata,2008,3,TOTAL,1
+Chuquisaca,10101,Sucre,2008,3,TOTAL,3
+Tarija,60101,Tarija,2008,3,TOTAL,2
+Cochabamba,30903,Tiquipaya,2008,3,TOTAL,1
+Beni,80101,Trinidad,2008,3,TOTAL,1
+Potosí,50801,Tupiza,2008,3,TOTAL,2
+Tarija,60303,Villa Montes,2008,3,TOTAL,1
+Potosí,51501,Villazon,2008,3,TOTAL,2
+Potosí,50602,Vitichi,2008,3,TOTAL,1
+Tarija,60301,Yacuiba,2008,3,TOTAL,1
+La Paz,20201,Achacachi,2008,4,TOTAL,1
+Tarija,60202,Bermejo,2008,4,TOTAL,3
+Potosí,51102,"Caiza ""d""",2008,4,TOTAL,1
+La Paz,22001,Caranavi,2008,4,TOTAL,1
+La Paz,21101,Chulumani (v. De La Libertad),2008,4,TOTAL,2
+Cochabamba,30101,Cochabamba,2008,4,TOTAL,12
+Cochabamba,30905,Colcapirhua,2008,4,TOTAL,2
+La Paz,21401,Coroico,2008,4,TOTAL,1
+La Paz,20105,El Alto,2008,4,TOTAL,16
+Santa Cruz,70104,La Guardia,2008,4,TOTAL,2
+La Paz,20101,La Paz,2008,4,TOTAL,44
+La Paz,20103,Mecapaca,2008,4,TOTAL,1
+Oruro,40101,Oruro,2008,4,TOTAL,6
+Chuquisaca,10103,Poroma,2008,4,TOTAL,1
+Potosí,50101,Potosi,2008,4,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,4,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,4,TOTAL,5
+Beni,80201,Riberalta,2008,4,TOTAL,1
+Beni,80304,Rurrenabaque,2008,4,TOTAL,1
+Cochabamba,31001,Sacaba,2008,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTAL,16
+Chuquisaca,10101,Sucre,2008,4,TOTAL,4
+Cochabamba,31101,Tapacari,2008,4,TOTAL,1
+Tarija,60101,Tarija,2008,4,TOTAL,2
+La Paz,20608,Teoponte,2008,4,TOTAL,1
+La Paz,20803,Tiawanacu,2008,4,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2008,4,TOTAL,1
+Cochabamba,31201,Totora(cbba),2008,4,TOTAL,1
+Beni,80101,Trinidad,2008,4,TOTAL,1
+Potosí,50801,Tupiza,2008,4,TOTAL,2
+La Paz,21302,Umala,2008,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,4,TOTAL,3
+Cochabamba,30904,Vinto,2008,4,TOTAL,1
+Chuquisaca,10602,Yamparaez,2008,4,TOTAL,1
+La Paz,20201,Achacachi,2008,5,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2008,5,TOTAL,1
+Tarija,60202,Bermejo,2008,5,TOTAL,1
+La Paz,22001,Caranavi,2008,5,TOTAL,2
+Potosí,50202,Chayanta,2008,5,TOTAL,1
+Pando,90101,Cobija,2008,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,5,TOTAL,10
+Cochabamba,30905,Colcapirhua,2008,5,TOTAL,2
+Santa Cruz,71101,Concepcion,2008,5,TOTAL,1
+La Paz,21402,Coripata,2008,5,TOTAL,2
+La Paz,20105,El Alto,2008,5,TOTAL,15
+Santa Cruz,71004,Fernandez Alonso,2008,5,TOTAL,1
+La Paz,20602,Guanay,2008,5,TOTAL,1
+La Paz,21105,La Asunta,2008,5,TOTAL,3
+La Paz,20101,La Paz,2008,5,TOTAL,28
+Potosí,50203,Llallagua,2008,5,TOTAL,1
+Santa Cruz,71003,Mineros,2008,5,TOTAL,1
+Cochabamba,31301,Mizque,2008,5,TOTAL,1
+Oruro,40101,Oruro,2008,5,TOTAL,4
+La Paz,20102,Palca,2008,5,TOTAL,1
+Potosí,50101,Potosi,2008,5,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,5,TOTAL,2
+Cochabamba,31401,Punata,2008,5,TOTAL,2
+Cochabamba,30901,Quillacollo,2008,5,TOTAL,2
+Beni,80201,Riberalta,2008,5,TOTAL,1
+Cochabamba,31001,Sacaba,2008,5,TOTAL,2
+Beni,80302,San Borja,2008,5,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2008,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTAL,12
+La Paz,21301,Sica Sica (villa Aroma),2008,5,TOTAL,1
+Chuquisaca,10101,Sucre,2008,5,TOTAL,6
+Tarija,60101,Tarija,2008,5,TOTAL,2
+Beni,80101,Trinidad,2008,5,TOTAL,2
+Tarija,60303,Villa Montes,2008,5,TOTAL,1
+Santa Cruz,70201,Warnes,2008,5,TOTAL,1
+Tarija,60301,Yacuiba,2008,5,TOTAL,2
+La Paz,21003,Cajuata,2008,6,TOTAL,1
+La Paz,22001,Caranavi,2008,6,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2008,6,TOTAL,1
+Pando,90101,Cobija,2008,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,6,TOTAL,14
+Cochabamba,30905,Colcapirhua,2008,6,TOTAL,1
+La Paz,21402,Coripata,2008,6,TOTAL,1
+Santa Cruz,70102,Cotoca,2008,6,TOTAL,2
+Santa Cruz,71106,Cuatro Cañadas,2008,6,TOTAL,1
+La Paz,20105,El Alto,2008,6,TOTAL,10
+Tarija,60502,El Puente(tja),2008,6,TOTAL,1
+La Paz,20101,La Paz,2008,6,TOTAL,48
+Chuquisaca,10303,Mojocoya,2008,6,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,6,TOTAL,1
+Santa Cruz,71001,Montero,2008,6,TOTAL,3
+Oruro,40101,Oruro,2008,6,TOTAL,6
+La Paz,21104,Palos Blancos,2008,6,TOTAL,1
+La Paz,21305,Patacamaya,2008,6,TOTAL,1
+Potosí,50101,Potosi,2008,6,TOTAL,1
+Pando,90201,Puerto Rico,2008,6,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2008,6,TOTAL,1
+Cochabamba,31001,Sacaba,2008,6,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2008,6,TOTAL,1
+Santa Cruz,71104,San Julian,2008,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTAL,14
+Chuquisaca,10101,Sucre,2008,6,TOTAL,1
+La Paz,20603,Tacacoma,2008,6,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,6,TOTAL,1
+Beni,80101,Trinidad,2008,6,TOTAL,2
+Potosí,50801,Tupiza,2008,6,TOTAL,2
+Tarija,60303,Villa Montes,2008,6,TOTAL,1
+Potosí,50602,Vitichi,2008,6,TOTAL,1
+Chuquisaca,10201,Azurduy,2008,7,TOTAL,2
+Potosí,51102,"Caiza ""d""",2008,7,TOTAL,1
+La Paz,20302,Caquiaviri,2008,7,TOTAL,1
+La Paz,22001,Caranavi,2008,7,TOTAL,2
+Oruro,40201,Challapata,2008,7,TOTAL,1
+Potosí,50202,Chayanta,2008,7,TOTAL,1
+Cochabamba,30801,Cliza,2008,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,7,TOTAL,20
+La Paz,21402,Coripata,2008,7,TOTAL,1
+La Paz,21401,Coroico,2008,7,TOTAL,2
+Santa Cruz,70102,Cotoca,2008,7,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2008,7,TOTAL,1
+La Paz,20105,El Alto,2008,7,TOTAL,16
+Tarija,60502,El Puente(tja),2008,7,TOTAL,1
+Santa Cruz,70105,El Torno,2008,7,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,7,TOTAL,1
+La Paz,20101,La Paz,2008,7,TOTAL,33
+Potosí,50203,Llallagua,2008,7,TOTAL,1
+Santa Cruz,70903,Mairana,2008,7,TOTAL,1
+Chuquisaca,10303,Mojocoya,2008,7,TOTAL,1
+Cochabamba,30203,Omereque,2008,7,TOTAL,1
+Oruro,40101,Oruro,2008,7,TOTAL,7
+Oruro,40602,Pazña,2008,7,TOTAL,1
+Potosí,50101,Potosi,2008,7,TOTAL,7
+Cochabamba,30901,Quillacollo,2008,7,TOTAL,2
+Beni,80304,Rurrenabaque,2008,7,TOTAL,1
+Beni,80302,San Borja,2008,7,TOTAL,3
+Santa Cruz,71104,San Julian,2008,7,TOTAL,1
+Santa Cruz,70303,San Rafael,2008,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTAL,14
+Cochabamba,30902,Sipe Sipe,2008,7,TOTAL,1
+La Paz,20601,Sorata,2008,7,TOTAL,1
+Chuquisaca,10101,Sucre,2008,7,TOTAL,7
+Cochabamba,30401,Tarata,2008,7,TOTAL,1
+Tarija,60101,Tarija,2008,7,TOTAL,3
+Cochabamba,30903,Tiquipaya,2008,7,TOTAL,2
+La Paz,20801,Viacha,2008,7,TOTAL,2
+Tarija,60303,Villa Montes,2008,7,TOTAL,1
+Santa Cruz,70201,Warnes,2008,7,TOTAL,2
+Tarija,60301,Yacuiba,2008,7,TOTAL,2
+La Paz,20201,Achacachi,2008,8,TOTAL,1
+Cochabamba,30501,Arani,2008,8,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,8,TOTAL,2
+Tarija,60202,Bermejo,2008,8,TOTAL,4
+La Paz,21003,Cajuata,2008,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,8,TOTAL,1
+La Paz,21401,Coroico,2008,8,TOTAL,1
+La Paz,20105,El Alto,2008,8,TOTAL,15
+Tarija,60601,Entre Rios,2008,8,TOTAL,1
+Santa Cruz,71002,General Saavedra,2008,8,TOTAL,1
+La Paz,20101,La Paz,2008,8,TOTAL,46
+Potosí,50203,Llallagua,2008,8,TOTAL,2
+Santa Cruz,71003,Mineros,2008,8,TOTAL,1
+Santa Cruz,71001,Montero,2008,8,TOTAL,1
+Oruro,40101,Oruro,2008,8,TOTAL,10
+Potosí,50101,Potosi,2008,8,TOTAL,4
+Potosí,51101,Puna,2008,8,TOTAL,3
+Cochabamba,31401,Punata,2008,8,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,8,TOTAL,2
+Santa Cruz,70503,Robore,2008,8,TOTAL,1
+Cochabamba,31001,Sacaba,2008,8,TOTAL,2
+Santa Cruz,71104,San Julian,2008,8,TOTAL,1
+Chuquisaca,10702,San Lucas,2008,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTAL,19
+La Paz,20601,Sorata,2008,8,TOTAL,1
+Chuquisaca,10101,Sucre,2008,8,TOTAL,4
+Tarija,60101,Tarija,2008,8,TOTAL,1
+Potosí,50801,Tupiza,2008,8,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,8,TOTAL,1
+Cochabamba,30904,Vinto,2008,8,TOTAL,2
+Santa Cruz,70201,Warnes,2008,8,TOTAL,1
+Tarija,60301,Yacuiba,2008,8,TOTAL,4
+Santa Cruz,70403,Yapacani,2008,8,TOTAL,1
+Tarija,60402,Yunchara,2008,8,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2008,9,TOTAL,2
+Santa Cruz,70401,Buena Vista,2008,9,TOTAL,1
+La Paz,21003,Cajuata,2008,9,TOTAL,1
+La Paz,22001,Caranavi,2008,9,TOTAL,2
+La Paz,21101,Chulumani (v. De La Libertad),2008,9,TOTAL,3
+Cochabamba,30101,Cochabamba,2008,9,TOTAL,14
+Santa Cruz,70603,Colpa Belgica,2008,9,TOTAL,1
+La Paz,21402,Coripata,2008,9,TOTAL,1
+La Paz,21401,Coroico,2008,9,TOTAL,1
+La Paz,20105,El Alto,2008,9,TOTAL,20
+Santa Cruz,70104,La Guardia,2008,9,TOTAL,1
+La Paz,20101,La Paz,2008,9,TOTAL,37
+Potosí,50203,Llallagua,2008,9,TOTAL,1
+Oruro,40101,Oruro,2008,9,TOTAL,6
+La Paz,21104,Palos Blancos,2008,9,TOTAL,1
+Potosí,50101,Potosi,2008,9,TOTAL,5
+Cochabamba,31401,Punata,2008,9,TOTAL,1
+Beni,80302,San Borja,2008,9,TOTAL,2
+Beni,80701,San Joaquin,2008,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTAL,26
+Chuquisaca,10101,Sucre,2008,9,TOTAL,3
+Tarija,60101,Tarija,2008,9,TOTAL,1
+La Paz,20608,Teoponte,2008,9,TOTAL,1
+La Paz,20606,Tipuani,2008,9,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,9,TOTAL,1
+Beni,80101,Trinidad,2008,9,TOTAL,2
+La Paz,20801,Viacha,2008,9,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,9,TOTAL,1
+Cochabamba,30904,Vinto,2008,9,TOTAL,1
+Santa Cruz,70201,Warnes,2008,9,TOTAL,2
+Tarija,60301,Yacuiba,2008,9,TOTAL,1
+Cochabamba,30201,Aiquile,2008,10,TOTAL,1
+Tarija,60202,Bermejo,2008,10,TOTAL,1
+Santa Cruz,70703,Cabezas,2008,10,TOTAL,1
+La Paz,22001,Caranavi,2008,10,TOTAL,4
+Pando,90101,Cobija,2008,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,10,TOTAL,13
+Cochabamba,30905,Colcapirhua,2008,10,TOTAL,2
+La Paz,21401,Coroico,2008,10,TOTAL,2
+Potosí,50601,Cotagaita,2008,10,TOTAL,1
+Chuquisaca,10902,Culpina,2008,10,TOTAL,1
+La Paz,20804,Desaguadero,2008,10,TOTAL,1
+La Paz,20105,El Alto,2008,10,TOTAL,20
+Santa Cruz,71002,General Saavedra,2008,10,TOTAL,1
+La Paz,21102,Irupana (villa De Lanza),2008,10,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,10,TOTAL,1
+La Paz,20101,La Paz,2008,10,TOTAL,44
+Potosí,50203,Llallagua,2008,10,TOTAL,2
+Santa Cruz,71003,Mineros,2008,10,TOTAL,2
+Oruro,40101,Oruro,2008,10,TOTAL,8
+Tarija,60201,Padcaya,2008,10,TOTAL,1
+Potosí,51203,Porco,2008,10,TOTAL,1
+Potosí,51101,Puna,2008,10,TOTAL,1
+Cochabamba,31401,Punata,2008,10,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,10,TOTAL,5
+Santa Cruz,70503,Robore,2008,10,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2008,10,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2008,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTAL,36
+Cochabamba,30902,Sipe Sipe,2008,10,TOTAL,1
+Chuquisaca,10101,Sucre,2008,10,TOTAL,3
+Tarija,60101,Tarija,2008,10,TOTAL,4
+La Paz,20606,Tipuani,2008,10,TOTAL,1
+Cochabamba,30903,Tiquipaya,2008,10,TOTAL,2
+Beni,80101,Trinidad,2008,10,TOTAL,1
+Potosí,51201,Uyuni,2008,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,10,TOTAL,1
+Potosí,51501,Villazon,2008,10,TOTAL,1
+Santa Cruz,70201,Warnes,2008,10,TOTAL,1
+Tarija,60301,Yacuiba,2008,10,TOTAL,3
+La Paz,20701,Apolo,2008,11,TOTAL,1
+Tarija,60202,Bermejo,2008,11,TOTAL,1
+Santa Cruz,70703,Cabezas,2008,11,TOTAL,1
+La Paz,22001,Caranavi,2008,11,TOTAL,2
+Oruro,40201,Challapata,2008,11,TOTAL,1
+Potosí,50202,Chayanta,2008,11,TOTAL,1
+Pando,90101,Cobija,2008,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,11,TOTAL,12
+Potosí,50401,Colquechaca,2008,11,TOTAL,1
+La Paz,21401,Coroico,2008,11,TOTAL,1
+La Paz,20105,El Alto,2008,11,TOTAL,8
+Tarija,60601,Entre Rios,2008,11,TOTAL,2
+Santa Cruz,70104,La Guardia,2008,11,TOTAL,1
+La Paz,20101,La Paz,2008,11,TOTAL,51
+Potosí,50203,Llallagua,2008,11,TOTAL,1
+Santa Cruz,71003,Mineros,2008,11,TOTAL,1
+La Paz,20402,Mocomoco,2008,11,TOTAL,1
+Santa Cruz,71001,Montero,2008,11,TOTAL,1
+Oruro,40101,Oruro,2008,11,TOTAL,6
+La Paz,21305,Patacamaya,2008,11,TOTAL,1
+Potosí,50101,Potosi,2008,11,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,11,TOTAL,1
+Cochabamba,31001,Sacaba,2008,11,TOTAL,1
+Beni,80302,San Borja,2008,11,TOTAL,1
+Santa Cruz,71104,San Julian,2008,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,11,TOTAL,13
+Chuquisaca,10101,Sucre,2008,11,TOTAL,6
+Tarija,60101,Tarija,2008,11,TOTAL,4
+Cochabamba,30903,Tiquipaya,2008,11,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,11,TOTAL,1
+Cochabamba,30904,Vinto,2008,11,TOTAL,1
+Santa Cruz,70201,Warnes,2008,11,TOTAL,1
+Chuquisaca,10102,Yotala,2008,11,TOTAL,1
+La Paz,21303,Ayo Ayo,2008,12,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2008,12,TOTAL,1
+Oruro,40201,Challapata,2008,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,12,TOTAL,13
+Potosí,50401,Colquechaca,2008,12,TOTAL,1
+La Paz,21401,Coroico,2008,12,TOTAL,2
+Santa Cruz,70102,Cotoca,2008,12,TOTAL,1
+La Paz,20105,El Alto,2008,12,TOTAL,16
+Santa Cruz,70105,El Torno,2008,12,TOTAL,2
+La Paz,20806,Jesus De Machaca,2008,12,TOTAL,1
+Santa Cruz,70104,La Guardia,2008,12,TOTAL,1
+La Paz,20101,La Paz,2008,12,TOTAL,34
+Santa Cruz,71001,Montero,2008,12,TOTAL,5
+Oruro,40101,Oruro,2008,12,TOTAL,7
+Potosí,50101,Potosi,2008,12,TOTAL,6
+La Paz,21201,Pucarani,2008,12,TOTAL,1
+Cochabamba,30901,Quillacollo,2008,12,TOTAL,1
+Beni,80201,Riberalta,2008,12,TOTAL,1
+Cochabamba,31001,Sacaba,2008,12,TOTAL,6
+Santa Cruz,70402,San Carlos,2008,12,TOTAL,1
+Beni,80501,San Ignacio,2008,12,TOTAL,2
+Santa Cruz,71104,San Julian,2008,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,12,TOTAL,19
+Chuquisaca,10101,Sucre,2008,12,TOTAL,4
+Cochabamba,31101,Tapacari,2008,12,TOTAL,1
+Tarija,60101,Tarija,2008,12,TOTAL,4
+Cochabamba,30903,Tiquipaya,2008,12,TOTAL,1
+Beni,80101,Trinidad,2008,12,TOTAL,2
+Potosí,51201,Uyuni,2008,12,TOTAL,1
+La Paz,20801,Viacha,2008,12,TOTAL,1
+Tarija,60303,Villa Montes,2008,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,12,TOTAL,1
+Santa Cruz,70201,Warnes,2008,12,TOTAL,1
+Tarija,60301,Yacuiba,2008,12,TOTAL,8

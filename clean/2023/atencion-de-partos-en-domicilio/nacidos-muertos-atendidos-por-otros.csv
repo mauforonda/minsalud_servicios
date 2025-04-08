@@ -1,0 +1,73 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2023,1,Nacidos muertos atendidos por otros,1
+La Paz,20304,Comanche,2023,1,Nacidos muertos atendidos por otros,1
+Cochabamba,31206,Entre Rios Cbba,2023,1,Nacidos muertos atendidos por otros,1
+La Paz,20101,La Paz,2023,1,Nacidos muertos atendidos por otros,1
+Santa Cruz,70103,Porongo,2023,1,Nacidos muertos atendidos por otros,1
+Cochabamba,31302,Vila Vila,2023,1,Nacidos muertos atendidos por otros,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2023,2,Nacidos muertos atendidos por otros,1
+Cochabamba,31206,Entre Rios Cbba,2023,2,Nacidos muertos atendidos por otros,1
+Cochabamba,30901,Quillacollo,2023,2,Nacidos muertos atendidos por otros,1
+Beni,80401,Santa Ana,2023,2,Nacidos muertos atendidos por otros,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,2,Nacidos muertos atendidos por otros,1
+Cochabamba,30903,Tiquipaya,2023,3,Nacidos muertos atendidos por otros,1
+Potosí,51201,Uyuni,2023,3,Nacidos muertos atendidos por otros,1
+Santa Cruz,70801,Vallegrande,2023,3,Nacidos muertos atendidos por otros,1
+Cochabamba,30303,Cocapata,2023,4,Nacidos muertos atendidos por otros,1
+Santa Cruz,70501,San Jose De Chiquitos,2023,4,Nacidos muertos atendidos por otros,1
+Potosí,50303,Tacobamba,2023,4,Nacidos muertos atendidos por otros,2
+La Paz,21402,Coripata,2023,5,Nacidos muertos atendidos por otros,1
+Tarija,60402,Yunchara,2023,5,Nacidos muertos atendidos por otros,1
+La Paz,20602,Guanay,2023,6,Nacidos muertos atendidos por otros,1
+Potosí,51103,Ckochas,2023,7,Nacidos muertos atendidos por otros,1
+Potosí,51201,Uyuni,2023,7,Nacidos muertos atendidos por otros,1
+Oruro,40101,Oruro,2023,8,Nacidos muertos atendidos por otros,1
+Potosí,50101,Potosi,2023,8,Nacidos muertos atendidos por otros,1
+Potosí,50602,Vitichi,2023,8,Nacidos muertos atendidos por otros,1
+Potosí,50401,Colquechaca,2023,9,Nacidos muertos atendidos por otros,1
+Santa Cruz,71002,General Saavedra,2023,9,Nacidos muertos atendidos por otros,1
+Cochabamba,30901,Quillacollo,2023,9,Nacidos muertos atendidos por otros,1
+Cochabamba,31003,Villa Tunari,2023,9,Nacidos muertos atendidos por otros,1
+Oruro,40201,Challapata,2023,10,Nacidos muertos atendidos por otros,1
+La Paz,20101,La Paz,2023,10,Nacidos muertos atendidos por otros,1
+Beni,80302,San Borja,2023,10,Nacidos muertos atendidos por otros,1
+Cochabamba,30901,Quillacollo,2023,11,Nacidos muertos atendidos por otros,1
+Cochabamba,30303,Cocapata,2023,12,Nacidos muertos atendidos por otros,1
+Potosí,50701,Sacaca,2023,12,Nacidos muertos atendidos por otros,1
+Cochabamba,31101,Tapacari,2023,12,Nacidos muertos atendidos por otros,1
+Cochabamba,30101,Cochabamba,2023,1,TOTAL,1
+La Paz,20304,Comanche,2023,1,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2023,1,TOTAL,1
+La Paz,20101,La Paz,2023,1,TOTAL,1
+Santa Cruz,70103,Porongo,2023,1,TOTAL,1
+Cochabamba,31302,Vila Vila,2023,1,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2023,2,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2023,2,TOTAL,1
+Cochabamba,30901,Quillacollo,2023,2,TOTAL,1
+Beni,80401,Santa Ana,2023,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,2,TOTAL,1
+Cochabamba,30903,Tiquipaya,2023,3,TOTAL,1
+Potosí,51201,Uyuni,2023,3,TOTAL,1
+Santa Cruz,70801,Vallegrande,2023,3,TOTAL,1
+Cochabamba,30303,Cocapata,2023,4,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2023,4,TOTAL,1
+Potosí,50303,Tacobamba,2023,4,TOTAL,2
+La Paz,21402,Coripata,2023,5,TOTAL,1
+Tarija,60402,Yunchara,2023,5,TOTAL,1
+La Paz,20602,Guanay,2023,6,TOTAL,1
+Potosí,51103,Ckochas,2023,7,TOTAL,1
+Potosí,51201,Uyuni,2023,7,TOTAL,1
+Oruro,40101,Oruro,2023,8,TOTAL,1
+Potosí,50101,Potosi,2023,8,TOTAL,1
+Potosí,50602,Vitichi,2023,8,TOTAL,1
+Potosí,50401,Colquechaca,2023,9,TOTAL,1
+Santa Cruz,71002,General Saavedra,2023,9,TOTAL,1
+Cochabamba,30901,Quillacollo,2023,9,TOTAL,1
+Cochabamba,31003,Villa Tunari,2023,9,TOTAL,1
+Oruro,40201,Challapata,2023,10,TOTAL,1
+La Paz,20101,La Paz,2023,10,TOTAL,1
+Beni,80302,San Borja,2023,10,TOTAL,1
+Cochabamba,30901,Quillacollo,2023,11,TOTAL,1
+Cochabamba,30303,Cocapata,2023,12,TOTAL,1
+Potosí,50701,Sacaca,2023,12,TOTAL,1
+Cochabamba,31101,Tapacari,2023,12,TOTAL,1

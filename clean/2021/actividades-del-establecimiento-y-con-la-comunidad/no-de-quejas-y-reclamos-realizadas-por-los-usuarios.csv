@@ -1,0 +1,797 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30403,Arbieto,2021,1,No de quejas y reclamos realizadas por los usuarios,5
+Potosí,50802,Atocha,2021,1,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50301,Betanzos,2021,1,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20501,Chuma,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+Pando,90101,Cobija,2021,1,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50901,"Colcha ""k""",2021,1,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2021,1,No de quejas y reclamos realizadas por los usuarios,2
+Beni,80801,Magdalena,2021,1,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,20904,Malla,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20103,Mecapaca,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20403,Puerto Carabuco,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50402,Ravelo,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2021,1,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,21702,San Pedro De Tiquina,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80401,Santa Ana,2021,1,No de quejas y reclamos realizadas por los usuarios,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,1,No de quejas y reclamos realizadas por los usuarios,4
+Chuquisaca,10101,Sucre,2021,1,No de quejas y reclamos realizadas por los usuarios,10
+Tarija,60101,Tarija,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50102,Tinguipaya,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51201,Uyuni,2021,1,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31003,Villa Tunari,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70201,Warnes,2021,1,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20104,Achocalla,2021,2,No de quejas y reclamos realizadas por los usuarios,7
+Cochabamba,30201,Aiquile,2021,2,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50802,Atocha,2021,2,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50301,Betanzos,2021,2,No de quejas y reclamos realizadas por los usuarios,8
+La Paz,21304,Calamarca,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31204,Chimore,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20501,Chuma,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20802,Guaqui,2021,2,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,21005,Ichoca,2021,2,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20101,La Paz,2021,2,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20904,Malla,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20103,Mecapaca,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20102,Palca,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50402,Ravelo,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2021,2,No de quejas y reclamos realizadas por los usuarios,6
+Beni,80401,Santa Ana,2021,2,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,2,No de quejas y reclamos realizadas por los usuarios,12
+Chuquisaca,10403,Sopachuy,2021,2,No de quejas y reclamos realizadas por los usuarios,3
+Chuquisaca,10101,Sucre,2021,2,No de quejas y reclamos realizadas por los usuarios,11
+Tarija,60101,Tarija,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20803,Tiahuanacu,2021,2,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50801,Tupiza,2021,2,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30403,Arbieto,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2021,3,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20905,Cairoma,2021,3,No de quejas y reclamos realizadas por los usuarios,8
+La Paz,21003,Cajuata,2021,3,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,21304,Calamarca,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20501,Chuma,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2021,3,No de quejas y reclamos realizadas por los usuarios,9
+Chuquisaca,10304,Icla,2021,3,No de quejas y reclamos realizadas por los usuarios,12
+La Paz,20101,La Paz,2021,3,No de quejas y reclamos realizadas por los usuarios,26
+La Paz,20901,Luribay,2021,3,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,20904,Malla,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31301,Mizque,2021,3,No de quejas y reclamos realizadas por los usuarios,15
+Potosí,50403,Pocoata,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2021,3,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,51101,Puna,2021,3,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50402,Ravelo,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51003,San Antonio De Esmoruco,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,71105,San Antonio De Lomerio,2021,3,No de quejas y reclamos realizadas por los usuarios,2
+Beni,80401,Santa Ana,2021,3,No de quejas y reclamos realizadas por los usuarios,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,No de quejas y reclamos realizadas por los usuarios,7
+La Paz,21301,Sica Sica (villa Aroma),2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10101,Sucre,2021,3,No de quejas y reclamos realizadas por los usuarios,16
+Chuquisaca,10601,Tarabuco,2021,3,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,20803,Tiahuanacu,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50801,Tupiza,2021,3,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20801,Viacha,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31003,Villa Tunari,2021,3,No de quejas y reclamos realizadas por los usuarios,4
+Cochabamba,30904,Vinto,2021,3,No de quejas y reclamos realizadas por los usuarios,4
+Santa Cruz,70201,Warnes,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10602,Yamparaez,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10102,Yotala,2021,3,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10301,Zudañez,2021,3,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51302,Acacio,2021,4,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50301,Betanzos,2021,4,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,20905,Cairoma,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21003,Cajuata,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21304,Calamarca,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20501,Chuma,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50901,"Colcha ""k""",2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2021,4,No de quejas y reclamos realizadas por los usuarios,34
+Oruro,40701,Huanuni,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2021,4,No de quejas y reclamos realizadas por los usuarios,10
+La Paz,21006,Licoma Pampa,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20901,Luribay,2021,4,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20904,Malla,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20402,Mocomoco,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2021,4,No de quejas y reclamos realizadas por los usuarios,8
+La Paz,20401,Puerto Acosta,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Pando,90301,Puerto Gonzalo Moreno,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31205,Puerto Villarroel,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51101,Puna,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50402,Ravelo,2021,4,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31403,San Benito,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80302,San Borja,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2021,4,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,21801,San Pedro De Curahuara,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80401,Santa Ana,2021,4,No de quejas y reclamos realizadas por los usuarios,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,No de quejas y reclamos realizadas por los usuarios,19
+Chuquisaca,10101,Sucre,2021,4,No de quejas y reclamos realizadas por los usuarios,24
+Tarija,60101,Tarija,2021,4,No de quejas y reclamos realizadas por los usuarios,4
+Potosí,50102,Tinguipaya,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51202,Tomave,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20801,Viacha,2021,4,No de quejas y reclamos realizadas por los usuarios,2
+Tarija,60303,Villa Montes,2021,4,No de quejas y reclamos realizadas por los usuarios,4
+Cochabamba,31003,Villa Tunari,2021,4,No de quejas y reclamos realizadas por los usuarios,7
+La Paz,20306,Waldo Ballivian,2021,4,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,70201,Warnes,2021,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21203,Batallas,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2021,5,No de quejas y reclamos realizadas por los usuarios,6
+Pando,90103,Bolpebra,2021,5,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,21003,Cajuata,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21304,Calamarca,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20501,Chuma,2021,5,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50601,Cotagaita,2021,5,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20105,El Alto,2021,5,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20405,Escoma,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40701,Huanuni,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20806,Jesus De Machaca,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2021,5,No de quejas y reclamos realizadas por los usuarios,7
+La Paz,20904,Malla,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31301,Mizque,2021,5,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50101,Potosi,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51101,Puna,2021,5,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50402,Ravelo,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31001,Sacaba,2021,5,No de quejas y reclamos realizadas por los usuarios,8
+Beni,80501,San Ignacio,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70404,San Juan De Yapacani,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,71104,San Julian,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10702,San Lucas,2021,5,No de quejas y reclamos realizadas por los usuarios,45
+La Paz,21702,San Pedro De Tiquina,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80401,Santa Ana,2021,5,No de quejas y reclamos realizadas por los usuarios,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,No de quejas y reclamos realizadas por los usuarios,10
+Chuquisaca,10101,Sucre,2021,5,No de quejas y reclamos realizadas por los usuarios,11
+Cochabamba,30602,Tacopaya,2021,5,No de quejas y reclamos realizadas por los usuarios,2
+Tarija,60101,Tarija,2021,5,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,20801,Viacha,2021,5,No de quejas y reclamos realizadas por los usuarios,2
+Tarija,60303,Villa Montes,2021,5,No de quejas y reclamos realizadas por los usuarios,5
+Cochabamba,30904,Vinto,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20306,Waldo Ballivian,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70201,Warnes,2021,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20201,Achacachi,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,22002,Alto Beni,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2021,6,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,21304,Calamarca,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20501,Chuma,2021,6,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,30101,Cochabamba,2021,6,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50901,"Colcha ""k""",2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50401,Colquechaca,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2021,6,No de quejas y reclamos realizadas por los usuarios,17
+Cochabamba,31206,Entre Rios Cbba,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40701,Huanuni,2021,6,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10304,Icla,2021,6,No de quejas y reclamos realizadas por los usuarios,12
+La Paz,20101,La Paz,2021,6,No de quejas y reclamos realizadas por los usuarios,4
+Chuquisaca,10903,Las Carreras,2021,6,No de quejas y reclamos realizadas por los usuarios,3
+Beni,80801,Magdalena,2021,6,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20904,Malla,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,71001,Montero,2021,6,No de quejas y reclamos realizadas por los usuarios,24
+La Paz,21802,Papel Pampa,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2021,6,No de quejas y reclamos realizadas por los usuarios,5
+Chuquisaca,10302,Presto,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51101,Puna,2021,6,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,70404,San Juan De Yapacani,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10702,San Lucas,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80401,Santa Ana,2021,6,No de quejas y reclamos realizadas por los usuarios,33
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,No de quejas y reclamos realizadas por los usuarios,21
+La Paz,20205,Santiago De Huata,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10101,Sucre,2021,6,No de quejas y reclamos realizadas por los usuarios,27
+La Paz,20603,Tacacoma,2021,6,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10601,Tarabuco,2021,6,No de quejas y reclamos realizadas por los usuarios,2
+Tarija,60101,Tarija,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50102,Tinguipaya,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51202,Tomave,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30502,Vacas,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+Tarija,60303,Villa Montes,2021,6,No de quejas y reclamos realizadas por los usuarios,7
+Cochabamba,31003,Villa Tunari,2021,6,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,30904,Vinto,2021,6,No de quejas y reclamos realizadas por los usuarios,10
+Santa Cruz,70201,Warnes,2021,6,No de quejas y reclamos realizadas por los usuarios,6
+Chuquisaca,10602,Yamparaez,2021,6,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20201,Achacachi,2021,7,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20701,Apolo,2021,7,No de quejas y reclamos realizadas por los usuarios,4
+Potosí,50301,Betanzos,2021,7,No de quejas y reclamos realizadas por los usuarios,4
+Potosí,51102,"Caiza ""d""",2021,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21003,Cajuata,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21304,Calamarca,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+Tarija,60302,Carapari,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20501,Chuma,2021,7,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,30101,Cochabamba,2021,7,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20105,El Alto,2021,7,No de quejas y reclamos realizadas por los usuarios,54
+La Paz,20802,Guaqui,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20806,Jesus De Machaca,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2021,7,No de quejas y reclamos realizadas por los usuarios,26
+Beni,80801,Magdalena,2021,7,No de quejas y reclamos realizadas por los usuarios,11
+La Paz,20904,Malla,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2021,7,No de quejas y reclamos realizadas por los usuarios,10
+Potosí,51101,Puna,2021,7,No de quejas y reclamos realizadas por los usuarios,3
+Cochabamba,31001,Sacaba,2021,7,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,51003,San Antonio De Esmoruco,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70404,San Juan De Yapacani,2021,7,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,51001,San Pablo De Lipez,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,7,No de quejas y reclamos realizadas por los usuarios,40
+Chuquisaca,10101,Sucre,2021,7,No de quejas y reclamos realizadas por los usuarios,22
+Potosí,50102,Tinguipaya,2021,7,No de quejas y reclamos realizadas por los usuarios,3
+Tarija,60401,Uriondo (a. Concepcion),2021,7,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30502,Vacas,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20801,Viacha,2021,7,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31003,Villa Tunari,2021,7,No de quejas y reclamos realizadas por los usuarios,3
+Cochabamba,30904,Vinto,2021,7,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,70201,Warnes,2021,7,No de quejas y reclamos realizadas por los usuarios,65
+La Paz,20201,Achacachi,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20701,Apolo,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30403,Arbieto,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21303,Ayo Ayo,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2021,8,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,21003,Cajuata,2021,8,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20501,Chuma,2021,8,No de quejas y reclamos realizadas por los usuarios,4
+Pando,90101,Cobija,2021,8,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50901,"Colcha ""k""",2021,8,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50601,Cotagaita,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2021,8,No de quejas y reclamos realizadas por los usuarios,31
+La Paz,20802,Guaqui,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40701,Huanuni,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2021,8,No de quejas y reclamos realizadas por los usuarios,101
+La Paz,21006,Licoma Pampa,2021,8,No de quejas y reclamos realizadas por los usuarios,3
+Beni,80801,Magdalena,2021,8,No de quejas y reclamos realizadas por los usuarios,8
+La Paz,20904,Malla,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50404,Ocuri,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20102,Palca,2021,8,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50403,Pocoata,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2021,8,No de quejas y reclamos realizadas por los usuarios,10
+Potosí,51101,Puna,2021,8,No de quejas y reclamos realizadas por los usuarios,3
+Cochabamba,30901,Quillacollo,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10702,San Lucas,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50902,San Pedro De Quemes,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2021,8,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,8,No de quejas y reclamos realizadas por los usuarios,51
+La Paz,20902,Sapahaqui,2021,8,No de quejas y reclamos realizadas por los usuarios,9
+Chuquisaca,10101,Sucre,2021,8,No de quejas y reclamos realizadas por los usuarios,32
+Tarija,60101,Tarija,2021,8,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50102,Tinguipaya,2021,8,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20306,Waldo Ballivian,2021,8,No de quejas y reclamos realizadas por los usuarios,2
+Santa Cruz,70201,Warnes,2021,8,No de quejas y reclamos realizadas por los usuarios,51
+La Paz,20201,Achacachi,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2021,9,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,21003,Cajuata,2021,9,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,21304,Calamarca,2021,9,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,20501,Chuma,2021,9,No de quejas y reclamos realizadas por los usuarios,4
+Potosí,50901,"Colcha ""k""",2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50601,Cotagaita,2021,9,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20105,El Alto,2021,9,No de quejas y reclamos realizadas por los usuarios,28
+La Paz,20405,Escoma,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,71004,Fernandez Alonso,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10304,Icla,2021,9,No de quejas y reclamos realizadas por los usuarios,11
+La Paz,20806,Jesus De Machaca,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2021,9,No de quejas y reclamos realizadas por los usuarios,49
+La Paz,20901,Luribay,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80801,Magdalena,2021,9,No de quejas y reclamos realizadas por los usuarios,8
+La Paz,20904,Malla,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20103,Mecapaca,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51101,Puna,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30901,Quillacollo,2021,9,No de quejas y reclamos realizadas por los usuarios,8
+Potosí,50402,Ravelo,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40901,Sabaya,2021,9,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31001,Sacaba,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2021,9,No de quejas y reclamos realizadas por los usuarios,2
+Santa Cruz,70404,San Juan De Yapacani,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10702,San Lucas,2021,9,No de quejas y reclamos realizadas por los usuarios,2
+Beni,80401,Santa Ana,2021,9,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,9,No de quejas y reclamos realizadas por los usuarios,15
+La Paz,21301,Sica Sica (villa Aroma),2021,9,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20601,Sorata,2021,9,No de quejas y reclamos realizadas por los usuarios,3
+Chuquisaca,10101,Sucre,2021,9,No de quejas y reclamos realizadas por los usuarios,33
+La Paz,20603,Tacacoma,2021,9,No de quejas y reclamos realizadas por los usuarios,2
+Tarija,60101,Tarija,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20803,Tiahuanacu,2021,9,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50102,Tinguipaya,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50801,Tupiza,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51201,Uyuni,2021,9,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31003,Villa Tunari,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30904,Vinto,2021,9,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20306,Waldo Ballivian,2021,9,No de quejas y reclamos realizadas por los usuarios,2
+Santa Cruz,70201,Warnes,2021,9,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,20104,Achocalla,2021,10,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,51301,Arampampa,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2021,10,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,21003,Cajuata,2021,10,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,21304,Calamarca,2021,10,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,20501,Chuma,2021,10,No de quejas y reclamos realizadas por los usuarios,3
+Pando,90101,Cobija,2021,10,No de quejas y reclamos realizadas por los usuarios,32
+Cochabamba,30101,Cochabamba,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50901,"Colcha ""k""",2021,10,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20105,El Alto,2021,10,No de quejas y reclamos realizadas por los usuarios,44
+La Paz,20404,Humanata,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20806,Jesus De Machaca,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2021,10,No de quejas y reclamos realizadas por los usuarios,32
+Beni,80801,Magdalena,2021,10,No de quejas y reclamos realizadas por los usuarios,8
+La Paz,20904,Malla,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20103,Mecapaca,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20102,Palca,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2021,10,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50402,Ravelo,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80201,Riberalta,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70404,San Juan De Yapacani,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10702,San Lucas,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,71201,San Matias,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,10,No de quejas y reclamos realizadas por los usuarios,35
+La Paz,20902,Sapahaqui,2021,10,No de quejas y reclamos realizadas por los usuarios,4
+Chuquisaca,10101,Sucre,2021,10,No de quejas y reclamos realizadas por los usuarios,45
+La Paz,20803,Tiahuanacu,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50102,Tinguipaya,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80101,Trinidad,2021,10,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50801,Tupiza,2021,10,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50201,Uncia,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30502,Vacas,2021,10,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20801,Viacha,2021,10,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31003,Villa Tunari,2021,10,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,20306,Waldo Ballivian,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70201,Warnes,2021,10,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50802,Atocha,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2021,11,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,21003,Cajuata,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21304,Calamarca,2021,11,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20501,Chuma,2021,11,No de quejas y reclamos realizadas por los usuarios,2
+Pando,90101,Cobija,2021,11,No de quejas y reclamos realizadas por los usuarios,10
+Cochabamba,30101,Cochabamba,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50901,"Colcha ""k""",2021,11,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21307,Collana,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21306,Colquencha,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70102,Cotoca,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2021,11,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,20101,La Paz,2021,11,No de quejas y reclamos realizadas por los usuarios,46
+Beni,80801,Magdalena,2021,11,No de quejas y reclamos realizadas por los usuarios,11
+La Paz,20904,Malla,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20103,Mecapaca,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40101,Oruro,2021,11,No de quejas y reclamos realizadas por los usuarios,8
+Potosí,50101,Potosi,2021,11,No de quejas y reclamos realizadas por los usuarios,18
+Cochabamba,31205,Puerto Villarroel,2021,11,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20604,Quiabaya,2021,11,No de quejas y reclamos realizadas por los usuarios,7
+Potosí,50402,Ravelo,2021,11,No de quejas y reclamos realizadas por los usuarios,2
+Santa Cruz,70503,Robore,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70404,San Juan De Yapacani,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10702,San Lucas,2021,11,No de quejas y reclamos realizadas por los usuarios,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,No de quejas y reclamos realizadas por los usuarios,70
+La Paz,20601,Sorata,2021,11,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10101,Sucre,2021,11,No de quejas y reclamos realizadas por los usuarios,32
+Tarija,60101,Tarija,2021,11,No de quejas y reclamos realizadas por los usuarios,5
+Potosí,50102,Tinguipaya,2021,11,No de quejas y reclamos realizadas por los usuarios,5
+Potosí,50201,Uncia,2021,11,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31003,Villa Tunari,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30904,Vinto,2021,11,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20306,Waldo Ballivian,2021,11,No de quejas y reclamos realizadas por los usuarios,2
+Santa Cruz,70201,Warnes,2021,11,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,20104,Achocalla,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21203,Batallas,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2021,12,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,21003,Cajuata,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21304,Calamarca,2021,12,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20501,Chuma,2021,12,No de quejas y reclamos realizadas por los usuarios,5
+Cochabamba,30101,Cochabamba,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2021,12,No de quejas y reclamos realizadas por los usuarios,25
+Oruro,40701,Huanuni,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20404,Humanata,2021,12,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10304,Icla,2021,12,No de quejas y reclamos realizadas por los usuarios,16
+La Paz,20101,La Paz,2021,12,No de quejas y reclamos realizadas por los usuarios,9
+La Paz,21006,Licoma Pampa,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40702,Machacamarca,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80801,Magdalena,2021,12,No de quejas y reclamos realizadas por los usuarios,13
+La Paz,20904,Malla,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20103,Mecapaca,2021,12,No de quejas y reclamos realizadas por los usuarios,3
+Oruro,40101,Oruro,2021,12,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20102,Palca,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2021,12,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,21201,Pucarani,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31205,Puerto Villarroel,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20604,Quiabaya,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50402,Ravelo,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2021,12,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,12,No de quejas y reclamos realizadas por los usuarios,17
+La Paz,21901,Santiago De Machaca,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20601,Sorata,2021,12,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10101,Sucre,2021,12,No de quejas y reclamos realizadas por los usuarios,23
+Chuquisaca,10601,Tarabuco,2021,12,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20803,Tiahuanacu,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50102,Tinguipaya,2021,12,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31003,Villa Tunari,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70201,Warnes,2021,12,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30403,Arbieto,2021,1,TOTAL,5
+Potosí,50802,Atocha,2021,1,TOTAL,3
+Potosí,50301,Betanzos,2021,1,TOTAL,4
+La Paz,20501,Chuma,2021,1,TOTAL,1
+Pando,90101,Cobija,2021,1,TOTAL,3
+Potosí,50901,"Colcha ""k""",2021,1,TOTAL,1
+La Paz,20101,La Paz,2021,1,TOTAL,2
+Beni,80801,Magdalena,2021,1,TOTAL,3
+La Paz,20904,Malla,2021,1,TOTAL,1
+La Paz,20103,Mecapaca,2021,1,TOTAL,1
+La Paz,20403,Puerto Carabuco,2021,1,TOTAL,1
+Potosí,50402,Ravelo,2021,1,TOTAL,1
+Beni,80501,San Ignacio,2021,1,TOTAL,3
+La Paz,21702,San Pedro De Tiquina,2021,1,TOTAL,1
+Beni,80401,Santa Ana,2021,1,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,1,TOTAL,4
+Chuquisaca,10101,Sucre,2021,1,TOTAL,10
+Tarija,60101,Tarija,2021,1,TOTAL,1
+Potosí,50102,Tinguipaya,2021,1,TOTAL,1
+Potosí,51201,Uyuni,2021,1,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,1,TOTAL,1
+Santa Cruz,70201,Warnes,2021,1,TOTAL,1
+La Paz,20104,Achocalla,2021,2,TOTAL,7
+Cochabamba,30201,Aiquile,2021,2,TOTAL,2
+Potosí,50802,Atocha,2021,2,TOTAL,2
+Potosí,50301,Betanzos,2021,2,TOTAL,8
+La Paz,21304,Calamarca,2021,2,TOTAL,1
+Cochabamba,31204,Chimore,2021,2,TOTAL,1
+La Paz,20501,Chuma,2021,2,TOTAL,1
+La Paz,20802,Guaqui,2021,2,TOTAL,6
+La Paz,21005,Ichoca,2021,2,TOTAL,2
+La Paz,20101,La Paz,2021,2,TOTAL,2
+La Paz,20904,Malla,2021,2,TOTAL,1
+La Paz,20103,Mecapaca,2021,2,TOTAL,1
+La Paz,20102,Palca,2021,2,TOTAL,1
+Potosí,50101,Potosi,2021,2,TOTAL,1
+Potosí,50402,Ravelo,2021,2,TOTAL,1
+Beni,80501,San Ignacio,2021,2,TOTAL,6
+Beni,80401,Santa Ana,2021,2,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,2,TOTAL,12
+Chuquisaca,10403,Sopachuy,2021,2,TOTAL,3
+Chuquisaca,10101,Sucre,2021,2,TOTAL,11
+Tarija,60101,Tarija,2021,2,TOTAL,1
+La Paz,20803,Tiahuanacu,2021,2,TOTAL,3
+Potosí,50801,Tupiza,2021,2,TOTAL,1
+Cochabamba,30403,Arbieto,2021,3,TOTAL,1
+Potosí,50301,Betanzos,2021,3,TOTAL,4
+La Paz,20905,Cairoma,2021,3,TOTAL,8
+La Paz,21003,Cajuata,2021,3,TOTAL,2
+La Paz,21304,Calamarca,2021,3,TOTAL,1
+La Paz,20501,Chuma,2021,3,TOTAL,1
+La Paz,20105,El Alto,2021,3,TOTAL,9
+Chuquisaca,10304,Icla,2021,3,TOTAL,12
+La Paz,20101,La Paz,2021,3,TOTAL,26
+La Paz,20901,Luribay,2021,3,TOTAL,6
+La Paz,20904,Malla,2021,3,TOTAL,1
+Cochabamba,31301,Mizque,2021,3,TOTAL,15
+Potosí,50403,Pocoata,2021,3,TOTAL,1
+Potosí,50101,Potosi,2021,3,TOTAL,3
+Potosí,51101,Puna,2021,3,TOTAL,2
+Potosí,50402,Ravelo,2021,3,TOTAL,1
+Potosí,51003,San Antonio De Esmoruco,2021,3,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2021,3,TOTAL,2
+Beni,80401,Santa Ana,2021,3,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,TOTAL,7
+La Paz,21301,Sica Sica (villa Aroma),2021,3,TOTAL,1
+Chuquisaca,10101,Sucre,2021,3,TOTAL,16
+Chuquisaca,10601,Tarabuco,2021,3,TOTAL,3
+La Paz,20803,Tiahuanacu,2021,3,TOTAL,1
+Potosí,50801,Tupiza,2021,3,TOTAL,2
+La Paz,20801,Viacha,2021,3,TOTAL,1
+Cochabamba,31003,Villa Tunari,2021,3,TOTAL,4
+Cochabamba,30904,Vinto,2021,3,TOTAL,4
+Santa Cruz,70201,Warnes,2021,3,TOTAL,1
+Chuquisaca,10602,Yamparaez,2021,3,TOTAL,1
+Chuquisaca,10102,Yotala,2021,3,TOTAL,2
+Chuquisaca,10301,Zudañez,2021,3,TOTAL,1
+Potosí,51302,Acacio,2021,4,TOTAL,2
+Potosí,50301,Betanzos,2021,4,TOTAL,5
+La Paz,20905,Cairoma,2021,4,TOTAL,1
+La Paz,21003,Cajuata,2021,4,TOTAL,1
+La Paz,21304,Calamarca,2021,4,TOTAL,1
+La Paz,20501,Chuma,2021,4,TOTAL,1
+Potosí,50901,"Colcha ""k""",2021,4,TOTAL,1
+La Paz,20105,El Alto,2021,4,TOTAL,34
+Oruro,40701,Huanuni,2021,4,TOTAL,1
+La Paz,20101,La Paz,2021,4,TOTAL,10
+La Paz,21006,Licoma Pampa,2021,4,TOTAL,1
+La Paz,20901,Luribay,2021,4,TOTAL,2
+La Paz,20904,Malla,2021,4,TOTAL,1
+La Paz,20402,Mocomoco,2021,4,TOTAL,1
+Potosí,50101,Potosi,2021,4,TOTAL,8
+La Paz,20401,Puerto Acosta,2021,4,TOTAL,1
+Pando,90301,Puerto Gonzalo Moreno,2021,4,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,4,TOTAL,1
+Potosí,51101,Puna,2021,4,TOTAL,1
+Potosí,50402,Ravelo,2021,4,TOTAL,2
+Cochabamba,31403,San Benito,2021,4,TOTAL,1
+Beni,80302,San Borja,2021,4,TOTAL,1
+Beni,80501,San Ignacio,2021,4,TOTAL,2
+La Paz,21801,San Pedro De Curahuara,2021,4,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2021,4,TOTAL,1
+Beni,80401,Santa Ana,2021,4,TOTAL,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,TOTAL,19
+Chuquisaca,10101,Sucre,2021,4,TOTAL,24
+Tarija,60101,Tarija,2021,4,TOTAL,4
+Potosí,50102,Tinguipaya,2021,4,TOTAL,1
+Potosí,51202,Tomave,2021,4,TOTAL,1
+La Paz,20801,Viacha,2021,4,TOTAL,2
+Tarija,60303,Villa Montes,2021,4,TOTAL,4
+Cochabamba,31003,Villa Tunari,2021,4,TOTAL,7
+La Paz,20306,Waldo Ballivian,2021,4,TOTAL,3
+Santa Cruz,70201,Warnes,2021,4,TOTAL,1
+La Paz,21203,Batallas,2021,5,TOTAL,1
+Potosí,50301,Betanzos,2021,5,TOTAL,6
+Pando,90103,Bolpebra,2021,5,TOTAL,2
+La Paz,21003,Cajuata,2021,5,TOTAL,1
+La Paz,21304,Calamarca,2021,5,TOTAL,1
+La Paz,20501,Chuma,2021,5,TOTAL,3
+Potosí,50601,Cotagaita,2021,5,TOTAL,2
+La Paz,20105,El Alto,2021,5,TOTAL,2
+La Paz,20405,Escoma,2021,5,TOTAL,1
+Oruro,40701,Huanuni,2021,5,TOTAL,1
+La Paz,20806,Jesus De Machaca,2021,5,TOTAL,1
+La Paz,20101,La Paz,2021,5,TOTAL,7
+La Paz,20904,Malla,2021,5,TOTAL,1
+Cochabamba,31301,Mizque,2021,5,TOTAL,2
+Potosí,50101,Potosi,2021,5,TOTAL,1
+Potosí,51101,Puna,2021,5,TOTAL,2
+Potosí,50402,Ravelo,2021,5,TOTAL,1
+Cochabamba,31001,Sacaba,2021,5,TOTAL,8
+Beni,80501,San Ignacio,2021,5,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2021,5,TOTAL,1
+Santa Cruz,71104,San Julian,2021,5,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,5,TOTAL,45
+La Paz,21702,San Pedro De Tiquina,2021,5,TOTAL,1
+Beni,80401,Santa Ana,2021,5,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,TOTAL,10
+Chuquisaca,10101,Sucre,2021,5,TOTAL,11
+Cochabamba,30602,Tacopaya,2021,5,TOTAL,2
+Tarija,60101,Tarija,2021,5,TOTAL,6
+La Paz,20801,Viacha,2021,5,TOTAL,2
+Tarija,60303,Villa Montes,2021,5,TOTAL,5
+Cochabamba,30904,Vinto,2021,5,TOTAL,1
+La Paz,20306,Waldo Ballivian,2021,5,TOTAL,1
+Santa Cruz,70201,Warnes,2021,5,TOTAL,1
+La Paz,20201,Achacachi,2021,6,TOTAL,1
+La Paz,22002,Alto Beni,2021,6,TOTAL,1
+Potosí,50301,Betanzos,2021,6,TOTAL,5
+La Paz,21304,Calamarca,2021,6,TOTAL,1
+La Paz,20501,Chuma,2021,6,TOTAL,2
+Cochabamba,30101,Cochabamba,2021,6,TOTAL,2
+Potosí,50901,"Colcha ""k""",2021,6,TOTAL,1
+Potosí,50401,Colquechaca,2021,6,TOTAL,1
+La Paz,20105,El Alto,2021,6,TOTAL,17
+Cochabamba,31206,Entre Rios Cbba,2021,6,TOTAL,1
+Oruro,40701,Huanuni,2021,6,TOTAL,2
+Chuquisaca,10304,Icla,2021,6,TOTAL,12
+La Paz,20101,La Paz,2021,6,TOTAL,4
+Chuquisaca,10903,Las Carreras,2021,6,TOTAL,3
+Beni,80801,Magdalena,2021,6,TOTAL,4
+La Paz,20904,Malla,2021,6,TOTAL,1
+Santa Cruz,71001,Montero,2021,6,TOTAL,24
+La Paz,21802,Papel Pampa,2021,6,TOTAL,1
+Potosí,50101,Potosi,2021,6,TOTAL,5
+Chuquisaca,10302,Presto,2021,6,TOTAL,1
+Potosí,51101,Puna,2021,6,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2021,6,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,6,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2021,6,TOTAL,1
+Beni,80401,Santa Ana,2021,6,TOTAL,33
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,TOTAL,21
+La Paz,20205,Santiago De Huata,2021,6,TOTAL,1
+Chuquisaca,10101,Sucre,2021,6,TOTAL,27
+La Paz,20603,Tacacoma,2021,6,TOTAL,2
+Chuquisaca,10601,Tarabuco,2021,6,TOTAL,2
+Tarija,60101,Tarija,2021,6,TOTAL,1
+Potosí,50102,Tinguipaya,2021,6,TOTAL,1
+Potosí,51202,Tomave,2021,6,TOTAL,1
+Cochabamba,30502,Vacas,2021,6,TOTAL,1
+Tarija,60303,Villa Montes,2021,6,TOTAL,7
+Cochabamba,31003,Villa Tunari,2021,6,TOTAL,2
+Cochabamba,30904,Vinto,2021,6,TOTAL,10
+Santa Cruz,70201,Warnes,2021,6,TOTAL,6
+Chuquisaca,10602,Yamparaez,2021,6,TOTAL,1
+La Paz,20201,Achacachi,2021,7,TOTAL,2
+La Paz,20701,Apolo,2021,7,TOTAL,4
+Potosí,50301,Betanzos,2021,7,TOTAL,4
+Potosí,51102,"Caiza ""d""",2021,7,TOTAL,1
+La Paz,21003,Cajuata,2021,7,TOTAL,1
+La Paz,21304,Calamarca,2021,7,TOTAL,1
+Tarija,60302,Carapari,2021,7,TOTAL,1
+La Paz,20501,Chuma,2021,7,TOTAL,2
+Cochabamba,30101,Cochabamba,2021,7,TOTAL,2
+La Paz,20105,El Alto,2021,7,TOTAL,54
+La Paz,20802,Guaqui,2021,7,TOTAL,1
+La Paz,20806,Jesus De Machaca,2021,7,TOTAL,1
+La Paz,20101,La Paz,2021,7,TOTAL,26
+Beni,80801,Magdalena,2021,7,TOTAL,11
+La Paz,20904,Malla,2021,7,TOTAL,1
+Potosí,50101,Potosi,2021,7,TOTAL,10
+Potosí,51101,Puna,2021,7,TOTAL,3
+Cochabamba,31001,Sacaba,2021,7,TOTAL,2
+Potosí,51003,San Antonio De Esmoruco,2021,7,TOTAL,1
+Beni,80501,San Ignacio,2021,7,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2021,7,TOTAL,3
+Potosí,51001,San Pablo De Lipez,2021,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,7,TOTAL,40
+Chuquisaca,10101,Sucre,2021,7,TOTAL,22
+Potosí,50102,Tinguipaya,2021,7,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2021,7,TOTAL,1
+Cochabamba,30502,Vacas,2021,7,TOTAL,1
+La Paz,20801,Viacha,2021,7,TOTAL,1
+Cochabamba,31003,Villa Tunari,2021,7,TOTAL,3
+Cochabamba,30904,Vinto,2021,7,TOTAL,3
+Santa Cruz,70201,Warnes,2021,7,TOTAL,65
+La Paz,20201,Achacachi,2021,8,TOTAL,1
+La Paz,20701,Apolo,2021,8,TOTAL,1
+Cochabamba,30403,Arbieto,2021,8,TOTAL,1
+La Paz,21303,Ayo Ayo,2021,8,TOTAL,1
+Potosí,50301,Betanzos,2021,8,TOTAL,4
+La Paz,21003,Cajuata,2021,8,TOTAL,2
+La Paz,20501,Chuma,2021,8,TOTAL,4
+Pando,90101,Cobija,2021,8,TOTAL,3
+Potosí,50901,"Colcha ""k""",2021,8,TOTAL,1
+Potosí,50601,Cotagaita,2021,8,TOTAL,1
+La Paz,20105,El Alto,2021,8,TOTAL,31
+La Paz,20802,Guaqui,2021,8,TOTAL,1
+Oruro,40701,Huanuni,2021,8,TOTAL,1
+La Paz,20101,La Paz,2021,8,TOTAL,101
+La Paz,21006,Licoma Pampa,2021,8,TOTAL,3
+Beni,80801,Magdalena,2021,8,TOTAL,8
+La Paz,20904,Malla,2021,8,TOTAL,1
+Potosí,50404,Ocuri,2021,8,TOTAL,1
+La Paz,20102,Palca,2021,8,TOTAL,2
+Potosí,50403,Pocoata,2021,8,TOTAL,1
+Potosí,50101,Potosi,2021,8,TOTAL,10
+Potosí,51101,Puna,2021,8,TOTAL,3
+Cochabamba,30901,Quillacollo,2021,8,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,8,TOTAL,1
+Potosí,50902,San Pedro De Quemes,2021,8,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2021,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,8,TOTAL,51
+La Paz,20902,Sapahaqui,2021,8,TOTAL,9
+Chuquisaca,10101,Sucre,2021,8,TOTAL,32
+Tarija,60101,Tarija,2021,8,TOTAL,3
+Potosí,50102,Tinguipaya,2021,8,TOTAL,2
+La Paz,20306,Waldo Ballivian,2021,8,TOTAL,2
+Santa Cruz,70201,Warnes,2021,8,TOTAL,51
+La Paz,20201,Achacachi,2021,9,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,9,TOTAL,1
+Potosí,50301,Betanzos,2021,9,TOTAL,3
+La Paz,21003,Cajuata,2021,9,TOTAL,3
+La Paz,21304,Calamarca,2021,9,TOTAL,3
+La Paz,20501,Chuma,2021,9,TOTAL,4
+Potosí,50901,"Colcha ""k""",2021,9,TOTAL,1
+Potosí,50601,Cotagaita,2021,9,TOTAL,2
+La Paz,20105,El Alto,2021,9,TOTAL,28
+La Paz,20405,Escoma,2021,9,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2021,9,TOTAL,1
+Chuquisaca,10304,Icla,2021,9,TOTAL,11
+La Paz,20806,Jesus De Machaca,2021,9,TOTAL,1
+La Paz,20101,La Paz,2021,9,TOTAL,49
+La Paz,20901,Luribay,2021,9,TOTAL,1
+Beni,80801,Magdalena,2021,9,TOTAL,8
+La Paz,20904,Malla,2021,9,TOTAL,1
+La Paz,20103,Mecapaca,2021,9,TOTAL,1
+Potosí,50101,Potosi,2021,9,TOTAL,1
+Potosí,51101,Puna,2021,9,TOTAL,1
+Cochabamba,30901,Quillacollo,2021,9,TOTAL,8
+Potosí,50402,Ravelo,2021,9,TOTAL,1
+Oruro,40901,Sabaya,2021,9,TOTAL,2
+Cochabamba,31001,Sacaba,2021,9,TOTAL,1
+Beni,80501,San Ignacio,2021,9,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2021,9,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,9,TOTAL,2
+Beni,80401,Santa Ana,2021,9,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,9,TOTAL,15
+La Paz,21301,Sica Sica (villa Aroma),2021,9,TOTAL,1
+La Paz,20601,Sorata,2021,9,TOTAL,3
+Chuquisaca,10101,Sucre,2021,9,TOTAL,33
+La Paz,20603,Tacacoma,2021,9,TOTAL,2
+Tarija,60101,Tarija,2021,9,TOTAL,1
+La Paz,20803,Tiahuanacu,2021,9,TOTAL,3
+Potosí,50102,Tinguipaya,2021,9,TOTAL,1
+Potosí,50801,Tupiza,2021,9,TOTAL,1
+Potosí,51201,Uyuni,2021,9,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,9,TOTAL,1
+Cochabamba,30904,Vinto,2021,9,TOTAL,1
+La Paz,20306,Waldo Ballivian,2021,9,TOTAL,2
+Santa Cruz,70201,Warnes,2021,9,TOTAL,6
+La Paz,20104,Achocalla,2021,10,TOTAL,2
+Potosí,51301,Arampampa,2021,10,TOTAL,1
+Potosí,50301,Betanzos,2021,10,TOTAL,3
+La Paz,21003,Cajuata,2021,10,TOTAL,3
+La Paz,21304,Calamarca,2021,10,TOTAL,3
+La Paz,20501,Chuma,2021,10,TOTAL,3
+Pando,90101,Cobija,2021,10,TOTAL,32
+Cochabamba,30101,Cochabamba,2021,10,TOTAL,1
+Potosí,50901,"Colcha ""k""",2021,10,TOTAL,2
+La Paz,20105,El Alto,2021,10,TOTAL,44
+La Paz,20404,Humanata,2021,10,TOTAL,1
+La Paz,20806,Jesus De Machaca,2021,10,TOTAL,1
+La Paz,20101,La Paz,2021,10,TOTAL,32
+Beni,80801,Magdalena,2021,10,TOTAL,8
+La Paz,20904,Malla,2021,10,TOTAL,1
+La Paz,20103,Mecapaca,2021,10,TOTAL,1
+La Paz,20102,Palca,2021,10,TOTAL,1
+Potosí,50101,Potosi,2021,10,TOTAL,3
+Potosí,50402,Ravelo,2021,10,TOTAL,1
+Beni,80201,Riberalta,2021,10,TOTAL,1
+Beni,80501,San Ignacio,2021,10,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2021,10,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,10,TOTAL,1
+Santa Cruz,71201,San Matias,2021,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,10,TOTAL,35
+La Paz,20902,Sapahaqui,2021,10,TOTAL,4
+Chuquisaca,10101,Sucre,2021,10,TOTAL,45
+La Paz,20803,Tiahuanacu,2021,10,TOTAL,1
+Potosí,50102,Tinguipaya,2021,10,TOTAL,1
+Beni,80101,Trinidad,2021,10,TOTAL,2
+Potosí,50801,Tupiza,2021,10,TOTAL,3
+Potosí,50201,Uncia,2021,10,TOTAL,1
+Cochabamba,30502,Vacas,2021,10,TOTAL,2
+La Paz,20801,Viacha,2021,10,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,10,TOTAL,5
+La Paz,20306,Waldo Ballivian,2021,10,TOTAL,1
+Santa Cruz,70201,Warnes,2021,10,TOTAL,1
+Potosí,50802,Atocha,2021,11,TOTAL,1
+Potosí,50301,Betanzos,2021,11,TOTAL,5
+La Paz,21003,Cajuata,2021,11,TOTAL,1
+La Paz,21304,Calamarca,2021,11,TOTAL,2
+La Paz,20501,Chuma,2021,11,TOTAL,2
+Pando,90101,Cobija,2021,11,TOTAL,10
+Cochabamba,30101,Cochabamba,2021,11,TOTAL,1
+Potosí,50901,"Colcha ""k""",2021,11,TOTAL,1
+La Paz,21307,Collana,2021,11,TOTAL,1
+La Paz,21306,Colquencha,2021,11,TOTAL,1
+Santa Cruz,70102,Cotoca,2021,11,TOTAL,1
+La Paz,20105,El Alto,2021,11,TOTAL,6
+La Paz,20101,La Paz,2021,11,TOTAL,46
+Beni,80801,Magdalena,2021,11,TOTAL,11
+La Paz,20904,Malla,2021,11,TOTAL,1
+La Paz,20103,Mecapaca,2021,11,TOTAL,1
+Oruro,40101,Oruro,2021,11,TOTAL,8
+Potosí,50101,Potosi,2021,11,TOTAL,18
+Cochabamba,31205,Puerto Villarroel,2021,11,TOTAL,4
+La Paz,20604,Quiabaya,2021,11,TOTAL,7
+Potosí,50402,Ravelo,2021,11,TOTAL,2
+Santa Cruz,70503,Robore,2021,11,TOTAL,1
+Beni,80501,San Ignacio,2021,11,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2021,11,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,11,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,TOTAL,70
+La Paz,20601,Sorata,2021,11,TOTAL,2
+Chuquisaca,10101,Sucre,2021,11,TOTAL,32
+Tarija,60101,Tarija,2021,11,TOTAL,5
+Potosí,50102,Tinguipaya,2021,11,TOTAL,5
+Potosí,50201,Uncia,2021,11,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,11,TOTAL,1
+Cochabamba,30904,Vinto,2021,11,TOTAL,1
+La Paz,20306,Waldo Ballivian,2021,11,TOTAL,2
+Santa Cruz,70201,Warnes,2021,11,TOTAL,6
+La Paz,20104,Achocalla,2021,12,TOTAL,1
+La Paz,21203,Batallas,2021,12,TOTAL,1
+Potosí,50301,Betanzos,2021,12,TOTAL,2
+La Paz,21003,Cajuata,2021,12,TOTAL,1
+La Paz,21304,Calamarca,2021,12,TOTAL,4
+La Paz,20501,Chuma,2021,12,TOTAL,5
+Cochabamba,30101,Cochabamba,2021,12,TOTAL,1
+La Paz,20105,El Alto,2021,12,TOTAL,25
+Oruro,40701,Huanuni,2021,12,TOTAL,1
+La Paz,20404,Humanata,2021,12,TOTAL,2
+Chuquisaca,10304,Icla,2021,12,TOTAL,16
+La Paz,20101,La Paz,2021,12,TOTAL,9
+La Paz,21006,Licoma Pampa,2021,12,TOTAL,1
+Oruro,40702,Machacamarca,2021,12,TOTAL,1
+Beni,80801,Magdalena,2021,12,TOTAL,13
+La Paz,20904,Malla,2021,12,TOTAL,1
+La Paz,20103,Mecapaca,2021,12,TOTAL,3
+Oruro,40101,Oruro,2021,12,TOTAL,2
+La Paz,20102,Palca,2021,12,TOTAL,1
+Potosí,50101,Potosi,2021,12,TOTAL,3
+La Paz,21201,Pucarani,2021,12,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2021,12,TOTAL,1
+La Paz,20604,Quiabaya,2021,12,TOTAL,1
+Potosí,50402,Ravelo,2021,12,TOTAL,1
+Beni,80501,San Ignacio,2021,12,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2021,12,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,12,TOTAL,17
+La Paz,21901,Santiago De Machaca,2021,12,TOTAL,1
+La Paz,20601,Sorata,2021,12,TOTAL,2
+Chuquisaca,10101,Sucre,2021,12,TOTAL,23
+Chuquisaca,10601,Tarabuco,2021,12,TOTAL,2
+La Paz,20803,Tiahuanacu,2021,12,TOTAL,1
+Potosí,50102,Tinguipaya,2021,12,TOTAL,2
+Cochabamba,31003,Villa Tunari,2021,12,TOTAL,1
+Santa Cruz,70201,Warnes,2021,12,TOTAL,1

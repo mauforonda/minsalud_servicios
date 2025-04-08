@@ -1,0 +1,485 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30701,Capinota,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,12
+Cochabamba,31002,Colomi,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20101,La Paz,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,71001,Montero,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,22
+La Paz,20102,Palca,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21201,Pucarani,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Cochabamba,30901,Quillacollo,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,31001,Sacaba,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Beni,80302,San Borja,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10702,San Lucas,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70303,San Rafael,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70602,Santa Rosa Del Sara,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60401,Uriondo (a. Concepcion),2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,20801,Viacha,2010,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30101,Cochabamba,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,31002,Colomi,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40401,Curahuara De Carangas,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71004,Fernandez Alonso,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70104,La Guardia,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20101,La Paz,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,11
+Chuquisaca,10903,Las Carreras,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50203,Llallagua,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,14
+Cochabamba,30302,Morochata,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50404,Ocuri,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Oruro,40101,Oruro,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,21104,Palos Blancos,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71102,San Javier(stc),2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30101,Cochabamba,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,7
+La Paz,20301,Coro Coro,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Santa Cruz,70102,Cotoca,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60601,Entre Rios Trj,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,22004,Humanata,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,20101,La Paz,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,4
+La Paz,20102,Palca,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Beni,80304,Rurrenabaque,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Santa Cruz,71104,San Julian,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,21301,Sica Sica (villa Aroma),2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Cochabamba,30401,Tarata,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60101,Tarija,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20801,Viacha,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60303,Villa Montes,2010,3,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20201,Achacachi,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30101,Cochabamba,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71106,Cuatro Cañadas,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71002,General Saavedra,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20101,La Paz,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Oruro,40101,Oruro,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,45
+Cochabamba,30901,Quillacollo,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Beni,80304,Rurrenabaque,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Beni,80302,San Borja,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,71102,San Javier(stc),2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71104,San Julian,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,18
+La Paz,20308,Santiago De Callapa,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30902,Sipe Sipe,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50303,Tacobamba,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Tarija,60101,Tarija,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,20606,Tipuani,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,20801,Viacha,2010,4,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60202,Bermejo,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Cochabamba,30101,Cochabamba,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30905,Colcapirhua,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20105,El Alto,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20101,La Paz,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Beni,80801,Magdalena,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20103,Mecapaca,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20402,Mocomoco,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Santa Cruz,71001,Montero,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,38
+Oruro,40101,Oruro,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20102,Palca,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Beni,80201,Riberalta,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Beni,80304,Rurrenabaque,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,31001,Sacaba,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21502,San Buena Ventura,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Beni,80501,San Ignacio,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71102,San Javier(stc),2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71104,San Julian,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Chuquisaca,10702,San Lucas,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30702,Santivañes,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10101,Sucre,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Tarija,60101,Tarija,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,128
+La Paz,20803,Tiawanacu,2010,5,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70707,Boyuibe,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30801,Cliza,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20101,La Paz,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Santa Cruz,71001,Montero,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,21104,Palos Blancos,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Potosí,50101,Potosi,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,16
+Beni,80501,San Ignacio,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71102,San Javier(stc),2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71104,San Julian,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20308,Santiago De Callapa,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30902,Sipe Sipe,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60101,Tarija,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Beni,80101,Trinidad,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,21
+La Paz,20801,Viacha,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60303,Villa Montes,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Cochabamba,30904,Vinto,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Tarija,60402,Yunchara,2010,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30801,Cliza,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50401,Colquechaca,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20806,Jesus De Machaca,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70104,La Guardia,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20101,La Paz,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Santa Cruz,71001,Montero,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70202,Okinawa,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40101,Oruro,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Beni,80304,Rurrenabaque,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Santa Cruz,71102,San Javier(stc),2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71104,San Julian,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60501,San Lorenzo(tja),2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30902,Sipe Sipe,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20608,Teoponte,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21302,Umala,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,31003,Villa Tunari,2010,7,N de auditorias internas en salud en aplicacion de norma tecnica,4
+La Paz,20201,Achacachi,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10201,Azurduy,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60202,Bermejo,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Cochabamba,30801,Cliza,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Tarija,60502,El Puente(tja),2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60601,Entre Rios Trj,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20101,La Paz,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71001,Montero,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,51101,Puna,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Beni,80304,Rurrenabaque,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40901,Sabaya,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70402,San Carlos,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71102,San Javier(stc),2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71104,San Julian,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,0
+Cochabamba,31602,Shinaota,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30902,Sipe Sipe,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10101,Sucre,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50303,Tacobamba,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Tarija,60101,Tarija,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Tarija,60401,Uriondo (a. Concepcion),2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Cochabamba,31003,Villa Tunari,2010,8,N de auditorias internas en salud en aplicacion de norma tecnica,5
+La Paz,20201,Achacachi,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60202,Bermejo,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,31501,Bolivar,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,13
+Cochabamba,30801,Cliza,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Pando,90101,Cobija,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30101,Cochabamba,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,6
+La Paz,20105,El Alto,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20602,Guanay,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10703,Incahuasi,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,20101,La Paz,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,29
+Potosí,50203,Llallagua,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,20
+Beni,80601,Loreto,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20103,Mecapaca,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,71001,Montero,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,51101,Puna,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,21002,Quime,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Beni,80201,Riberalta,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Beni,80304,Rurrenabaque,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71102,San Javier(stc),2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71104,San Julian,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20204,Santiago De Huata,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60101,Tarija,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20801,Viacha,2010,9,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Santa Cruz,70401,Buena Vista,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70703,Cabezas,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,142
+Cochabamba,30101,Cochabamba,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,13
+La Paz,21701,Copacabana,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20101,La Paz,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Santa Cruz,70701,Lagunillas,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60201,Padcaya,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70103,Porongo,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50101,Potosi,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Beni,80201,Riberalta,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Beni,80304,Rurrenabaque,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,31001,Sacaba,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,71102,San Javier(stc),2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50501,San Pedro De Buena Vista,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70303,San Rafael,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,20
+La Paz,20601,Sorata,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10101,Sucre,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,16
+Tarija,60401,Uriondo (a. Concepcion),2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20801,Viacha,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Cochabamba,31003,Villa Tunari,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60301,Yacuiba,2010,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30402,Anzaldo,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20501,Chuma,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30801,Cliza,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30303,Cocapata,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30101,Cochabamba,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,30
+La Paz,21701,Copacabana,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,20105,El Alto,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,21102,Irupana (villa De Lanza),2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,7
+La Paz,20101,La Paz,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,16
+Cochabamba,30302,Morochata,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Potosí,50404,Ocuri,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20102,Palca,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Potosí,50101,Potosi,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,17
+Cochabamba,30901,Quillacollo,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Beni,80304,Rurrenabaque,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,71102,San Javier(stc),2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71104,San Julian,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Beni,80401,Santa Ana,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,7
+La Paz,21301,Sica Sica (villa Aroma),2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,18
+Chuquisaca,10101,Sucre,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30602,Tacopaya,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60101,Tarija,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Beni,80101,Trinidad,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Tarija,60401,Uriondo (a. Concepcion),2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20801,Viacha,2010,11,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Potosí,50301,Betanzos,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20501,Chuma,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Potosí,51103,Ckochas,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Pando,90101,Cobija,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30101,Cochabamba,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,41
+Santa Cruz,71004,Fernandez Alonso,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20602,Guanay,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20101,La Paz,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Beni,80801,Magdalena,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40601,Poopo,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Cochabamba,31205,Puerto Villarroel,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Cochabamba,30901,Quillacollo,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Beni,80201,Riberalta,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Santa Cruz,71102,San Javier(stc),2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Pando,90302,San Lorenzo(pnd),2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30702,Santivañes,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Potosí,50201,Uncia,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30502,Vacas,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20801,Viacha,2010,12,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Cochabamba,30701,Capinota,2010,1,TOTAL,12
+Cochabamba,31002,Colomi,2010,1,TOTAL,1
+La Paz,20105,El Alto,2010,1,TOTAL,2
+La Paz,20101,La Paz,2010,1,TOTAL,2
+Santa Cruz,71001,Montero,2010,1,TOTAL,22
+La Paz,20102,Palca,2010,1,TOTAL,1
+La Paz,21201,Pucarani,2010,1,TOTAL,9
+Cochabamba,30901,Quillacollo,2010,1,TOTAL,1
+Cochabamba,31001,Sacaba,2010,1,TOTAL,1
+Beni,80302,San Borja,2010,1,TOTAL,1
+Chuquisaca,10702,San Lucas,2010,1,TOTAL,1
+Santa Cruz,70303,San Rafael,2010,1,TOTAL,1
+Santa Cruz,70602,Santa Rosa Del Sara,2010,1,TOTAL,2
+Tarija,60401,Uriondo (a. Concepcion),2010,1,TOTAL,3
+La Paz,20801,Viacha,2010,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,2,TOTAL,1
+Cochabamba,31002,Colomi,2010,2,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2010,2,TOTAL,1
+La Paz,20105,El Alto,2010,2,TOTAL,1
+Santa Cruz,71004,Fernandez Alonso,2010,2,TOTAL,1
+Santa Cruz,70104,La Guardia,2010,2,TOTAL,1
+La Paz,20101,La Paz,2010,2,TOTAL,11
+Chuquisaca,10903,Las Carreras,2010,2,TOTAL,1
+Potosí,50203,Llallagua,2010,2,TOTAL,14
+Cochabamba,30302,Morochata,2010,2,TOTAL,1
+Potosí,50404,Ocuri,2010,2,TOTAL,2
+Oruro,40101,Oruro,2010,2,TOTAL,2
+La Paz,21104,Palos Blancos,2010,2,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2010,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,3,TOTAL,7
+La Paz,20301,Coro Coro,2010,3,TOTAL,4
+Santa Cruz,70102,Cotoca,2010,3,TOTAL,1
+La Paz,20105,El Alto,2010,3,TOTAL,1
+Tarija,60601,Entre Rios Trj,2010,3,TOTAL,1
+La Paz,22004,Humanata,2010,3,TOTAL,3
+La Paz,20101,La Paz,2010,3,TOTAL,4
+La Paz,20102,Palca,2010,3,TOTAL,4
+Beni,80304,Rurrenabaque,2010,3,TOTAL,3
+Santa Cruz,71104,San Julian,2010,3,TOTAL,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,TOTAL,2
+La Paz,21301,Sica Sica (villa Aroma),2010,3,TOTAL,6
+Cochabamba,30401,Tarata,2010,3,TOTAL,1
+Tarija,60101,Tarija,2010,3,TOTAL,1
+La Paz,20801,Viacha,2010,3,TOTAL,2
+Tarija,60303,Villa Montes,2010,3,TOTAL,2
+La Paz,20201,Achacachi,2010,4,TOTAL,2
+Cochabamba,30101,Cochabamba,2010,4,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2010,4,TOTAL,1
+Santa Cruz,71002,General Saavedra,2010,4,TOTAL,1
+La Paz,20101,La Paz,2010,4,TOTAL,6
+Oruro,40101,Oruro,2010,4,TOTAL,45
+Cochabamba,30901,Quillacollo,2010,4,TOTAL,1
+Beni,80304,Rurrenabaque,2010,4,TOTAL,2
+Beni,80302,San Borja,2010,4,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,4,TOTAL,2
+Santa Cruz,71102,San Javier(stc),2010,4,TOTAL,1
+Santa Cruz,71104,San Julian,2010,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,4,TOTAL,18
+La Paz,20308,Santiago De Callapa,2010,4,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2010,4,TOTAL,1
+Potosí,50303,Tacobamba,2010,4,TOTAL,5
+Tarija,60101,Tarija,2010,4,TOTAL,3
+La Paz,20606,Tipuani,2010,4,TOTAL,3
+La Paz,20801,Viacha,2010,4,TOTAL,2
+Tarija,60202,Bermejo,2010,5,TOTAL,3
+Cochabamba,30101,Cochabamba,2010,5,TOTAL,2
+Cochabamba,30905,Colcapirhua,2010,5,TOTAL,2
+La Paz,20105,El Alto,2010,5,TOTAL,1
+La Paz,20101,La Paz,2010,5,TOTAL,5
+Beni,80801,Magdalena,2010,5,TOTAL,1
+La Paz,20103,Mecapaca,2010,5,TOTAL,1
+La Paz,20402,Mocomoco,2010,5,TOTAL,4
+Santa Cruz,71001,Montero,2010,5,TOTAL,38
+Oruro,40101,Oruro,2010,5,TOTAL,1
+La Paz,20102,Palca,2010,5,TOTAL,2
+Beni,80201,Riberalta,2010,5,TOTAL,10
+Beni,80304,Rurrenabaque,2010,5,TOTAL,1
+Cochabamba,31001,Sacaba,2010,5,TOTAL,1
+La Paz,21502,San Buena Ventura,2010,5,TOTAL,6
+Beni,80501,San Ignacio,2010,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,5,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2010,5,TOTAL,1
+Santa Cruz,71104,San Julian,2010,5,TOTAL,8
+Chuquisaca,10702,San Lucas,2010,5,TOTAL,1
+Cochabamba,30702,Santivañes,2010,5,TOTAL,1
+Chuquisaca,10101,Sucre,2010,5,TOTAL,3
+Tarija,60101,Tarija,2010,5,TOTAL,128
+La Paz,20803,Tiawanacu,2010,5,TOTAL,2
+Santa Cruz,70707,Boyuibe,2010,6,TOTAL,2
+Cochabamba,30801,Cliza,2010,6,TOTAL,1
+La Paz,20105,El Alto,2010,6,TOTAL,1
+La Paz,20101,La Paz,2010,6,TOTAL,8
+Santa Cruz,71001,Montero,2010,6,TOTAL,3
+La Paz,21104,Palos Blancos,2010,6,TOTAL,4
+Potosí,50101,Potosi,2010,6,TOTAL,16
+Beni,80501,San Ignacio,2010,6,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2010,6,TOTAL,1
+Santa Cruz,71104,San Julian,2010,6,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,TOTAL,2
+La Paz,20308,Santiago De Callapa,2010,6,TOTAL,2
+Cochabamba,30902,Sipe Sipe,2010,6,TOTAL,1
+Tarija,60101,Tarija,2010,6,TOTAL,9
+Beni,80101,Trinidad,2010,6,TOTAL,21
+La Paz,20801,Viacha,2010,6,TOTAL,1
+Tarija,60303,Villa Montes,2010,6,TOTAL,3
+Cochabamba,30904,Vinto,2010,6,TOTAL,9
+Tarija,60402,Yunchara,2010,6,TOTAL,2
+Cochabamba,30801,Cliza,2010,7,TOTAL,1
+Potosí,50401,Colquechaca,2010,7,TOTAL,1
+La Paz,20105,El Alto,2010,7,TOTAL,1
+La Paz,20806,Jesus De Machaca,2010,7,TOTAL,1
+Santa Cruz,70104,La Guardia,2010,7,TOTAL,1
+La Paz,20101,La Paz,2010,7,TOTAL,4
+Santa Cruz,71001,Montero,2010,7,TOTAL,2
+Santa Cruz,70202,Okinawa,2010,7,TOTAL,1
+Oruro,40101,Oruro,2010,7,TOTAL,10
+Beni,80304,Rurrenabaque,2010,7,TOTAL,6
+Santa Cruz,71102,San Javier(stc),2010,7,TOTAL,1
+Santa Cruz,71104,San Julian,2010,7,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2010,7,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,TOTAL,2
+Cochabamba,30902,Sipe Sipe,2010,7,TOTAL,1
+La Paz,20608,Teoponte,2010,7,TOTAL,1
+La Paz,21302,Umala,2010,7,TOTAL,2
+Cochabamba,31003,Villa Tunari,2010,7,TOTAL,4
+La Paz,20201,Achacachi,2010,8,TOTAL,1
+Chuquisaca,10201,Azurduy,2010,8,TOTAL,2
+Tarija,60202,Bermejo,2010,8,TOTAL,4
+Cochabamba,30801,Cliza,2010,8,TOTAL,1
+La Paz,20105,El Alto,2010,8,TOTAL,4
+Tarija,60502,El Puente(tja),2010,8,TOTAL,1
+Tarija,60601,Entre Rios Trj,2010,8,TOTAL,2
+La Paz,20101,La Paz,2010,8,TOTAL,1
+Santa Cruz,71001,Montero,2010,8,TOTAL,1
+Potosí,51101,Puna,2010,8,TOTAL,1
+Beni,80304,Rurrenabaque,2010,8,TOTAL,1
+Oruro,40901,Sabaya,2010,8,TOTAL,1
+Santa Cruz,70402,San Carlos,2010,8,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2010,8,TOTAL,1
+Santa Cruz,71104,San Julian,2010,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,8,TOTAL,0
+Cochabamba,31602,Shinaota,2010,8,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2010,8,TOTAL,1
+Chuquisaca,10101,Sucre,2010,8,TOTAL,1
+Potosí,50303,Tacobamba,2010,8,TOTAL,4
+Tarija,60101,Tarija,2010,8,TOTAL,10
+Tarija,60401,Uriondo (a. Concepcion),2010,8,TOTAL,7
+Cochabamba,31003,Villa Tunari,2010,8,TOTAL,5
+La Paz,20201,Achacachi,2010,9,TOTAL,1
+Tarija,60202,Bermejo,2010,9,TOTAL,1
+Cochabamba,31501,Bolivar,2010,9,TOTAL,13
+Cochabamba,30801,Cliza,2010,9,TOTAL,1
+Pando,90101,Cobija,2010,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,9,TOTAL,6
+La Paz,20105,El Alto,2010,9,TOTAL,2
+La Paz,20602,Guanay,2010,9,TOTAL,1
+Chuquisaca,10703,Incahuasi,2010,9,TOTAL,3
+La Paz,20101,La Paz,2010,9,TOTAL,29
+Potosí,50203,Llallagua,2010,9,TOTAL,20
+Beni,80601,Loreto,2010,9,TOTAL,2
+La Paz,20103,Mecapaca,2010,9,TOTAL,2
+Santa Cruz,71001,Montero,2010,9,TOTAL,1
+Potosí,51101,Puna,2010,9,TOTAL,3
+La Paz,21002,Quime,2010,9,TOTAL,5
+Beni,80201,Riberalta,2010,9,TOTAL,2
+Beni,80304,Rurrenabaque,2010,9,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2010,9,TOTAL,1
+Santa Cruz,71104,San Julian,2010,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,9,TOTAL,1
+La Paz,20204,Santiago De Huata,2010,9,TOTAL,1
+Tarija,60101,Tarija,2010,9,TOTAL,2
+La Paz,20801,Viacha,2010,9,TOTAL,4
+Santa Cruz,70401,Buena Vista,2010,10,TOTAL,1
+Santa Cruz,70703,Cabezas,2010,10,TOTAL,142
+Cochabamba,30101,Cochabamba,2010,10,TOTAL,13
+La Paz,21701,Copacabana,2010,10,TOTAL,1
+La Paz,20105,El Alto,2010,10,TOTAL,2
+La Paz,20101,La Paz,2010,10,TOTAL,4
+Santa Cruz,70701,Lagunillas,2010,10,TOTAL,2
+Tarija,60201,Padcaya,2010,10,TOTAL,1
+Santa Cruz,70103,Porongo,2010,10,TOTAL,1
+Potosí,50101,Potosi,2010,10,TOTAL,1
+Beni,80201,Riberalta,2010,10,TOTAL,1
+Beni,80304,Rurrenabaque,2010,10,TOTAL,1
+Cochabamba,31001,Sacaba,2010,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2010,10,TOTAL,2
+Santa Cruz,71102,San Javier(stc),2010,10,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2010,10,TOTAL,1
+Santa Cruz,70303,San Rafael,2010,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,10,TOTAL,20
+La Paz,20601,Sorata,2010,10,TOTAL,1
+Chuquisaca,10101,Sucre,2010,10,TOTAL,16
+Tarija,60401,Uriondo (a. Concepcion),2010,10,TOTAL,1
+La Paz,20801,Viacha,2010,10,TOTAL,10
+Cochabamba,31003,Villa Tunari,2010,10,TOTAL,1
+Tarija,60301,Yacuiba,2010,10,TOTAL,1
+Cochabamba,30402,Anzaldo,2010,11,TOTAL,1
+La Paz,20501,Chuma,2010,11,TOTAL,2
+Cochabamba,30801,Cliza,2010,11,TOTAL,1
+Cochabamba,30303,Cocapata,2010,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,11,TOTAL,30
+La Paz,21701,Copacabana,2010,11,TOTAL,3
+La Paz,20105,El Alto,2010,11,TOTAL,2
+La Paz,21102,Irupana (villa De Lanza),2010,11,TOTAL,7
+La Paz,20101,La Paz,2010,11,TOTAL,16
+Cochabamba,30302,Morochata,2010,11,TOTAL,2
+Potosí,50404,Ocuri,2010,11,TOTAL,1
+La Paz,20102,Palca,2010,11,TOTAL,4
+Potosí,50101,Potosi,2010,11,TOTAL,17
+Cochabamba,30901,Quillacollo,2010,11,TOTAL,2
+Beni,80304,Rurrenabaque,2010,11,TOTAL,2
+Santa Cruz,71102,San Javier(stc),2010,11,TOTAL,1
+Santa Cruz,71104,San Julian,2010,11,TOTAL,2
+Beni,80401,Santa Ana,2010,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,TOTAL,7
+La Paz,21301,Sica Sica (villa Aroma),2010,11,TOTAL,18
+Chuquisaca,10101,Sucre,2010,11,TOTAL,1
+Cochabamba,30602,Tacopaya,2010,11,TOTAL,2
+Tarija,60101,Tarija,2010,11,TOTAL,2
+Beni,80101,Trinidad,2010,11,TOTAL,10
+Tarija,60401,Uriondo (a. Concepcion),2010,11,TOTAL,1
+La Paz,20801,Viacha,2010,11,TOTAL,8
+Potosí,50301,Betanzos,2010,12,TOTAL,1
+La Paz,20501,Chuma,2010,12,TOTAL,3
+Potosí,51103,Ckochas,2010,12,TOTAL,5
+Pando,90101,Cobija,2010,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,12,TOTAL,41
+Santa Cruz,71004,Fernandez Alonso,2010,12,TOTAL,1
+La Paz,20602,Guanay,2010,12,TOTAL,2
+La Paz,20101,La Paz,2010,12,TOTAL,10
+Beni,80801,Magdalena,2010,12,TOTAL,1
+Oruro,40601,Poopo,2010,12,TOTAL,4
+Cochabamba,31205,Puerto Villarroel,2010,12,TOTAL,5
+Cochabamba,30901,Quillacollo,2010,12,TOTAL,3
+Beni,80201,Riberalta,2010,12,TOTAL,10
+Santa Cruz,71102,San Javier(stc),2010,12,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2010,12,TOTAL,1
+Cochabamba,30702,Santivañes,2010,12,TOTAL,3
+Potosí,50201,Uncia,2010,12,TOTAL,1
+Cochabamba,30502,Vacas,2010,12,TOTAL,1
+La Paz,20801,Viacha,2010,12,TOTAL,10

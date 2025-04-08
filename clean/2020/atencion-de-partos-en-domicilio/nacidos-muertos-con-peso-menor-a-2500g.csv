@@ -1,0 +1,91 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,50203,Llallagua,2020,1,Nacidos muertos con peso menor a 2500g,1
+Beni,80302,San Borja,2020,1,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10601,Tarabuco,2020,1,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2020,2,Nacidos muertos con peso menor a 2500g,2
+Chuquisaca,10703,Incahuasi,2020,2,Nacidos muertos con peso menor a 2500g,1
+Beni,80302,San Borja,2020,2,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2020,3,Nacidos muertos con peso menor a 2500g,5
+Chuquisaca,10501,Monteagudo,2020,3,Nacidos muertos con peso menor a 2500g,1
+Beni,80802,Baures,2020,4,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2020,4,Nacidos muertos con peso menor a 2500g,1
+Pando,90102,Porvenir,2020,4,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2020,4,Nacidos muertos con peso menor a 2500g,1
+Potosí,51001,San Pablo De Lipez,2020,4,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2020,4,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10902,Culpina,2020,5,Nacidos muertos con peso menor a 2500g,1
+Beni,80401,Santa Ana,2020,5,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2020,6,Nacidos muertos con peso menor a 2500g,1
+Beni,80601,Loreto,2020,6,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2020,6,Nacidos muertos con peso menor a 2500g,1
+Beni,80304,Rurrenabaque,2020,6,Nacidos muertos con peso menor a 2500g,1
+Beni,80102,San Javier(bni),2020,6,Nacidos muertos con peso menor a 2500g,1
+Potosí,50502,Toro Toro,2020,6,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30904,Vinto,2020,6,Nacidos muertos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2020,6,Nacidos muertos con peso menor a 2500g,1
+Potosí,50202,Chayanta,2020,7,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2020,7,Nacidos muertos con peso menor a 2500g,2
+Beni,80501,San Ignacio,2020,7,Nacidos muertos con peso menor a 2500g,1
+Beni,80102,San Javier(bni),2020,7,Nacidos muertos con peso menor a 2500g,1
+Potosí,51001,San Pablo De Lipez,2020,7,Nacidos muertos con peso menor a 2500g,1
+Potosí,50103,Yocalla,2020,7,Nacidos muertos con peso menor a 2500g,1
+Potosí,50401,Colquechaca,2020,8,Nacidos muertos con peso menor a 2500g,1
+La Paz,21701,Copacabana,2020,8,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2020,8,Nacidos muertos con peso menor a 2500g,1
+La Paz,21201,Pucarani,2020,8,Nacidos muertos con peso menor a 2500g,1
+La Paz,20801,Viacha,2020,8,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31501,Bolivar,2020,9,Nacidos muertos con peso menor a 2500g,1
+Potosí,50202,Chayanta,2020,9,Nacidos muertos con peso menor a 2500g,1
+Potosí,51103,Ckochas,2020,9,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10601,Tarabuco,2020,9,Nacidos muertos con peso menor a 2500g,1
+Potosí,50801,Tupiza,2020,9,Nacidos muertos con peso menor a 2500g,1
+La Paz,21307,Collana,2020,11,Nacidos muertos con peso menor a 2500g,1
+Potosí,51202,Tomave,2020,11,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2020,12,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10101,Sucre,2020,12,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10704,Villa Charcas,2020,12,Nacidos muertos con peso menor a 2500g,1
+Potosí,50203,Llallagua,2020,1,TOTAL,1
+Beni,80302,San Borja,2020,1,TOTAL,1
+Chuquisaca,10601,Tarabuco,2020,1,TOTAL,1
+La Paz,20105,El Alto,2020,2,TOTAL,2
+Chuquisaca,10703,Incahuasi,2020,2,TOTAL,1
+Beni,80302,San Borja,2020,2,TOTAL,1
+La Paz,20105,El Alto,2020,3,TOTAL,5
+Chuquisaca,10501,Monteagudo,2020,3,TOTAL,1
+Beni,80802,Baures,2020,4,TOTAL,1
+La Paz,20105,El Alto,2020,4,TOTAL,1
+Pando,90102,Porvenir,2020,4,TOTAL,1
+Potosí,50101,Potosi,2020,4,TOTAL,1
+Potosí,51001,San Pablo De Lipez,2020,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,4,TOTAL,1
+Chuquisaca,10902,Culpina,2020,5,TOTAL,1
+Beni,80401,Santa Ana,2020,5,TOTAL,1
+La Paz,20105,El Alto,2020,6,TOTAL,1
+Beni,80601,Loreto,2020,6,TOTAL,1
+Potosí,50101,Potosi,2020,6,TOTAL,1
+Beni,80304,Rurrenabaque,2020,6,TOTAL,1
+Beni,80102,San Javier(bni),2020,6,TOTAL,1
+Potosí,50502,Toro Toro,2020,6,TOTAL,1
+Cochabamba,30904,Vinto,2020,6,TOTAL,1
+Tarija,60301,Yacuiba,2020,6,TOTAL,1
+Potosí,50202,Chayanta,2020,7,TOTAL,1
+La Paz,20101,La Paz,2020,7,TOTAL,2
+Beni,80501,San Ignacio,2020,7,TOTAL,1
+Beni,80102,San Javier(bni),2020,7,TOTAL,1
+Potosí,51001,San Pablo De Lipez,2020,7,TOTAL,1
+Potosí,50103,Yocalla,2020,7,TOTAL,1
+Potosí,50401,Colquechaca,2020,8,TOTAL,1
+La Paz,21701,Copacabana,2020,8,TOTAL,1
+Potosí,50101,Potosi,2020,8,TOTAL,1
+La Paz,21201,Pucarani,2020,8,TOTAL,1
+La Paz,20801,Viacha,2020,8,TOTAL,1
+Cochabamba,31501,Bolivar,2020,9,TOTAL,1
+Potosí,50202,Chayanta,2020,9,TOTAL,1
+Potosí,51103,Ckochas,2020,9,TOTAL,1
+Chuquisaca,10601,Tarabuco,2020,9,TOTAL,1
+Potosí,50801,Tupiza,2020,9,TOTAL,1
+La Paz,21307,Collana,2020,11,TOTAL,1
+Potosí,51202,Tomave,2020,11,TOTAL,1
+La Paz,20101,La Paz,2020,12,TOTAL,1
+Chuquisaca,10101,Sucre,2020,12,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2020,12,TOTAL,1

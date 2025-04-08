@@ -1,0 +1,931 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20905,Cairoma,2006,1,Viviendas rociadas,144
+Chuquisaca,10702,San Lucas,2006,1,Viviendas rociadas,2
+Tarija,60303,Villa Montes,2006,1,Viviendas rociadas,271
+Tarija,60301,Yacuiba,2006,1,Viviendas rociadas,788
+Cochabamba,30403,Arbieto,2006,2,Viviendas rociadas,4
+Potosí,51102,"Caiza ""d""",2006,2,Viviendas rociadas,14
+Cochabamba,30801,Cliza,2006,2,Viviendas rociadas,6
+Cochabamba,30101,Cochabamba,2006,2,Viviendas rociadas,78
+Chuquisaca,10903,Las Carreras,2006,2,Viviendas rociadas,139
+Santa Cruz,70903,Mairana,2006,2,Viviendas rociadas,1
+Cochabamba,31301,Mizque,2006,2,Viviendas rociadas,14
+Potosí,51101,Puna,2006,2,Viviendas rociadas,32
+Cochabamba,31401,Punata,2006,2,Viviendas rociadas,7
+Cochabamba,30901,Quillacollo,2006,2,Viviendas rociadas,2
+Santa Cruz,70901,Samaipata,2006,2,Viviendas rociadas,5
+Cochabamba,31403,San Benito,2006,2,Viviendas rociadas,6
+Potosí,50501,San Pedro De Buena Vista,2006,2,Viviendas rociadas,113
+Cochabamba,30702,Santivañes,2006,2,Viviendas rociadas,644
+Cochabamba,30902,Sipe Sipe,2006,2,Viviendas rociadas,12
+Chuquisaca,10403,Sopachuy,2006,2,Viviendas rociadas,3
+Cochabamba,31404,Tacachi,2006,2,Viviendas rociadas,3
+Cochabamba,31101,Tapacari,2006,2,Viviendas rociadas,562
+Cochabamba,30401,Tarata,2006,2,Viviendas rociadas,3
+Tarija,60101,Tarija,2006,2,Viviendas rociadas,133
+Cochabamba,30903,Tiquipaya,2006,2,Viviendas rociadas,6
+Cochabamba,30802,Toco,2006,2,Viviendas rociadas,1
+Cochabamba,30803,Tolata,2006,2,Viviendas rociadas,3
+Tarija,60401,Uriondo (a. Concepcion),2006,2,Viviendas rociadas,161
+Cochabamba,31402,Villa Rivero,2006,2,Viviendas rociadas,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,2,Viviendas rociadas,272
+Cochabamba,30904,Vinto,2006,2,Viviendas rociadas,2
+Potosí,50602,Vitichi,2006,2,Viviendas rociadas,83
+Tarija,60301,Yacuiba,2006,2,Viviendas rociadas,476
+Potosí,51302,Acacio,2006,3,Viviendas rociadas,9
+Cochabamba,30201,Aiquile,2006,3,Viviendas rociadas,8
+Cochabamba,30402,Anzaldo,2006,3,Viviendas rociadas,20
+Cochabamba,30501,Arani,2006,3,Viviendas rociadas,20
+Cochabamba,30403,Arbieto,2006,3,Viviendas rociadas,15
+Cochabamba,30601,Arque,2006,3,Viviendas rociadas,15
+Potosí,50301,Betanzos,2006,3,Viviendas rociadas,142
+Potosí,51102,"Caiza ""d""",2006,3,Viviendas rociadas,32
+Cochabamba,30701,Capinota,2006,3,Viviendas rociadas,5321
+Cochabamba,30801,Cliza,2006,3,Viviendas rociadas,6
+Cochabamba,30101,Cochabamba,2006,3,Viviendas rociadas,103
+Cochabamba,30905,Colcapirhua,2006,3,Viviendas rociadas,8
+Santa Cruz,71301,Comarapa,2006,3,Viviendas rociadas,19
+Potosí,50601,Cotagaita,2006,3,Viviendas rociadas,7
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,3,Viviendas rociadas,18
+Tarija,60502,El Puente(tja),2006,3,Viviendas rociadas,74
+La Paz,20103,Mecapaca,2006,3,Viviendas rociadas,213
+Cochabamba,31301,Mizque,2006,3,Viviendas rociadas,5
+Chuquisaca,10501,Monteagudo,2006,3,Viviendas rociadas,3
+Cochabamba,30302,Morochata,2006,3,Viviendas rociadas,1
+Cochabamba,30203,Omereque,2006,3,Viviendas rociadas,17
+Tarija,60201,Padcaya,2006,3,Viviendas rociadas,321
+La Paz,20102,Palca,2006,3,Viviendas rociadas,39
+Cochabamba,30202,Pasorapa,2006,3,Viviendas rociadas,6
+Potosí,51101,Puna,2006,3,Viviendas rociadas,125
+Cochabamba,31401,Punata,2006,3,Viviendas rociadas,12
+Cochabamba,30901,Quillacollo,2006,3,Viviendas rociadas,9
+Cochabamba,31001,Sacaba,2006,3,Viviendas rociadas,35
+Santa Cruz,71302,Saipina,2006,3,Viviendas rociadas,351
+Cochabamba,31403,San Benito,2006,3,Viviendas rociadas,23
+Tarija,60501,San Lorenzo(tja),2006,3,Viviendas rociadas,809
+Cochabamba,30703,Sicaya,2006,3,Viviendas rociadas,793
+Cochabamba,30902,Sipe Sipe,2006,3,Viviendas rociadas,16
+Chuquisaca,10403,Sopachuy,2006,3,Viviendas rociadas,4
+Cochabamba,31101,Tapacari,2006,3,Viviendas rociadas,691
+Cochabamba,30401,Tarata,2006,3,Viviendas rociadas,4
+Tarija,60101,Tarija,2006,3,Viviendas rociadas,408
+Cochabamba,30903,Tiquipaya,2006,3,Viviendas rociadas,12
+Cochabamba,30802,Toco,2006,3,Viviendas rociadas,2
+Cochabamba,30803,Tolata,2006,3,Viviendas rociadas,4
+Santa Cruz,70802,Trigal,2006,3,Viviendas rociadas,30
+Potosí,50801,Tupiza,2006,3,Viviendas rociadas,10
+Tarija,60401,Uriondo (a. Concepcion),2006,3,Viviendas rociadas,954
+Cochabamba,31402,Villa Rivero,2006,3,Viviendas rociadas,12
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,3,Viviendas rociadas,299
+Potosí,50602,Vitichi,2006,3,Viviendas rociadas,70
+Tarija,60402,Yunchara,2006,3,Viviendas rociadas,6
+Cochabamba,30201,Aiquile,2006,4,Viviendas rociadas,14
+Cochabamba,30402,Anzaldo,2006,4,Viviendas rociadas,5
+Cochabamba,30501,Arani,2006,4,Viviendas rociadas,26
+Cochabamba,30403,Arbieto,2006,4,Viviendas rociadas,16
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,4,Viviendas rociadas,6
+Santa Cruz,70707,Boyuibe,2006,4,Viviendas rociadas,46
+Potosí,51102,"Caiza ""d""",2006,4,Viviendas rociadas,8
+Santa Cruz,70702,Charagua,2006,4,Viviendas rociadas,27
+Cochabamba,30801,Cliza,2006,4,Viviendas rociadas,8
+Cochabamba,30101,Cochabamba,2006,4,Viviendas rociadas,122
+Cochabamba,30905,Colcapirhua,2006,4,Viviendas rociadas,8
+Santa Cruz,70704,Cuevo,2006,4,Viviendas rociadas,52
+Cochabamba,30302,Morochata,2006,4,Viviendas rociadas,20
+Santa Cruz,70202,Okinawa,2006,4,Viviendas rociadas,1573
+Tarija,60201,Padcaya,2006,4,Viviendas rociadas,365
+Cochabamba,30202,Pasorapa,2006,4,Viviendas rociadas,5
+Cochabamba,31202,Pojo (cbba),2006,4,Viviendas rociadas,51
+Potosí,51101,Puna,2006,4,Viviendas rociadas,55
+Cochabamba,31401,Punata,2006,4,Viviendas rociadas,23
+Cochabamba,30901,Quillacollo,2006,4,Viviendas rociadas,27
+Cochabamba,31001,Sacaba,2006,4,Viviendas rociadas,66
+Santa Cruz,71302,Saipina,2006,4,Viviendas rociadas,12
+Cochabamba,31403,San Benito,2006,4,Viviendas rociadas,26
+Tarija,60501,San Lorenzo(tja),2006,4,Viviendas rociadas,583
+La Paz,20902,Sapahaqui,2006,4,Viviendas rociadas,613
+Cochabamba,30902,Sipe Sipe,2006,4,Viviendas rociadas,69
+Cochabamba,31404,Tacachi,2006,4,Viviendas rociadas,7
+Tarija,60101,Tarija,2006,4,Viviendas rociadas,438
+Cochabamba,30903,Tiquipaya,2006,4,Viviendas rociadas,5
+Cochabamba,30802,Toco,2006,4,Viviendas rociadas,7
+Potosí,50801,Tupiza,2006,4,Viviendas rociadas,3
+Tarija,60401,Uriondo (a. Concepcion),2006,4,Viviendas rociadas,398
+Cochabamba,31402,Villa Rivero,2006,4,Viviendas rociadas,10
+Cochabamba,30402,Anzaldo,2006,5,Viviendas rociadas,33
+Potosí,51301,Arampampa,2006,5,Viviendas rociadas,2
+Cochabamba,30501,Arani,2006,5,Viviendas rociadas,49
+Cochabamba,30403,Arbieto,2006,5,Viviendas rociadas,4
+Cochabamba,30601,Arque,2006,5,Viviendas rociadas,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,5,Viviendas rociadas,3
+Potosí,50301,Betanzos,2006,5,Viviendas rociadas,109
+Cochabamba,30701,Capinota,2006,5,Viviendas rociadas,20
+Cochabamba,30801,Cliza,2006,5,Viviendas rociadas,4
+Cochabamba,30101,Cochabamba,2006,5,Viviendas rociadas,48
+Cochabamba,30905,Colcapirhua,2006,5,Viviendas rociadas,10
+La Paz,21401,Coroico,2006,5,Viviendas rociadas,3
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,5,Viviendas rociadas,22
+Tarija,60502,El Puente(tja),2006,5,Viviendas rociadas,228
+Santa Cruz,70105,El Torno,2006,5,Viviendas rociadas,28
+Tarija,60601,Entre Rios,2006,5,Viviendas rociadas,31
+Santa Cruz,70104,La Guardia,2006,5,Viviendas rociadas,116
+Santa Cruz,70701,Lagunillas,2006,5,Viviendas rociadas,2
+La Paz,20901,Luribay,2006,5,Viviendas rociadas,48
+Santa Cruz,70903,Mairana,2006,5,Viviendas rociadas,1
+Santa Cruz,70803,Moro Moro,2006,5,Viviendas rociadas,1
+Cochabamba,30302,Morochata,2006,5,Viviendas rociadas,2
+Tarija,60201,Padcaya,2006,5,Viviendas rociadas,411
+Cochabamba,31202,Pojo (cbba),2006,5,Viviendas rociadas,12
+Potosí,51101,Puna,2006,5,Viviendas rociadas,118
+Cochabamba,31401,Punata,2006,5,Viviendas rociadas,35
+Cochabamba,30901,Quillacollo,2006,5,Viviendas rociadas,20
+Cochabamba,31001,Sacaba,2006,5,Viviendas rociadas,116
+Cochabamba,30404,Sacabamba,2006,5,Viviendas rociadas,5
+Santa Cruz,71302,Saipina,2006,5,Viviendas rociadas,71
+Cochabamba,31403,San Benito,2006,5,Viviendas rociadas,59
+Tarija,60501,San Lorenzo(tja),2006,5,Viviendas rociadas,433
+Potosí,50501,San Pedro De Buena Vista,2006,5,Viviendas rociadas,112
+Cochabamba,30702,Santivañes,2006,5,Viviendas rociadas,8
+La Paz,20902,Sapahaqui,2006,5,Viviendas rociadas,248
+Cochabamba,30902,Sipe Sipe,2006,5,Viviendas rociadas,44
+Cochabamba,31404,Tacachi,2006,5,Viviendas rociadas,2
+Cochabamba,30602,Tacopaya,2006,5,Viviendas rociadas,4
+Cochabamba,31101,Tapacari,2006,5,Viviendas rociadas,182
+Cochabamba,30401,Tarata,2006,5,Viviendas rociadas,5
+Tarija,60101,Tarija,2006,5,Viviendas rociadas,411
+Cochabamba,30903,Tiquipaya,2006,5,Viviendas rociadas,13
+Cochabamba,30802,Toco,2006,5,Viviendas rociadas,10
+Tarija,60401,Uriondo (a. Concepcion),2006,5,Viviendas rociadas,817
+Cochabamba,31402,Villa Rivero,2006,5,Viviendas rociadas,43
+Cochabamba,30201,Aiquile,2006,6,Viviendas rociadas,4
+Cochabamba,30402,Anzaldo,2006,6,Viviendas rociadas,55
+Cochabamba,30501,Arani,2006,6,Viviendas rociadas,156
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,6,Viviendas rociadas,4
+Potosí,50301,Betanzos,2006,6,Viviendas rociadas,39
+Santa Cruz,70703,Cabezas,2006,6,Viviendas rociadas,1
+Cochabamba,30701,Capinota,2006,6,Viviendas rociadas,4
+Cochabamba,30801,Cliza,2006,6,Viviendas rociadas,3
+Cochabamba,30101,Cochabamba,2006,6,Viviendas rociadas,53
+Cochabamba,30905,Colcapirhua,2006,6,Viviendas rociadas,10
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,6,Viviendas rociadas,50
+Santa Cruz,70704,Cuevo,2006,6,Viviendas rociadas,3
+Tarija,60502,El Puente(tja),2006,6,Viviendas rociadas,153
+La Paz,21001,Inquisivi,2006,6,Viviendas rociadas,227
+La Paz,20901,Luribay,2006,6,Viviendas rociadas,65
+Cochabamba,31301,Mizque,2006,6,Viviendas rociadas,2
+Santa Cruz,70803,Moro Moro,2006,6,Viviendas rociadas,9
+Cochabamba,30302,Morochata,2006,6,Viviendas rociadas,11
+Tarija,60201,Padcaya,2006,6,Viviendas rociadas,150
+Cochabamba,31203,Pocona,2006,6,Viviendas rociadas,4
+Cochabamba,31202,Pojo (cbba),2006,6,Viviendas rociadas,3
+Santa Cruz,70805,Pucara,2006,6,Viviendas rociadas,8
+Cochabamba,31401,Punata,2006,6,Viviendas rociadas,13
+Cochabamba,30901,Quillacollo,2006,6,Viviendas rociadas,22
+Santa Cruz,70904,Quirusillas,2006,6,Viviendas rociadas,5
+Cochabamba,31001,Sacaba,2006,6,Viviendas rociadas,12
+Santa Cruz,71302,Saipina,2006,6,Viviendas rociadas,12
+Cochabamba,31403,San Benito,2006,6,Viviendas rociadas,60
+Tarija,60501,San Lorenzo(tja),2006,6,Viviendas rociadas,145
+Cochabamba,30702,Santivañes,2006,6,Viviendas rociadas,12
+Cochabamba,30902,Sipe Sipe,2006,6,Viviendas rociadas,99
+Cochabamba,31101,Tapacari,2006,6,Viviendas rociadas,319
+Cochabamba,30401,Tarata,2006,6,Viviendas rociadas,7
+Tarija,60101,Tarija,2006,6,Viviendas rociadas,254
+Cochabamba,30903,Tiquipaya,2006,6,Viviendas rociadas,4
+Cochabamba,30802,Toco,2006,6,Viviendas rociadas,1
+Cochabamba,30803,Tolata,2006,6,Viviendas rociadas,3
+Tarija,60401,Uriondo (a. Concepcion),2006,6,Viviendas rociadas,30
+Santa Cruz,70801,Vallegrande,2006,6,Viviendas rociadas,274
+Cochabamba,31402,Villa Rivero,2006,6,Viviendas rociadas,63
+Cochabamba,30904,Vinto,2006,6,Viviendas rociadas,145
+Cochabamba,30402,Anzaldo,2006,7,Viviendas rociadas,22
+Cochabamba,30501,Arani,2006,7,Viviendas rociadas,42
+Cochabamba,30403,Arbieto,2006,7,Viviendas rociadas,28
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,7,Viviendas rociadas,1
+Potosí,50301,Betanzos,2006,7,Viviendas rociadas,14
+La Paz,21003,Cajuata,2006,7,Viviendas rociadas,10
+Cochabamba,30701,Capinota,2006,7,Viviendas rociadas,8
+Cochabamba,30801,Cliza,2006,7,Viviendas rociadas,4
+Cochabamba,30101,Cochabamba,2006,7,Viviendas rociadas,81
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,7,Viviendas rociadas,11
+Santa Cruz,70704,Cuevo,2006,7,Viviendas rociadas,7
+Tarija,60502,El Puente(tja),2006,7,Viviendas rociadas,91
+Santa Cruz,70105,El Torno,2006,7,Viviendas rociadas,13
+Santa Cruz,70705,Gutierrez,2006,7,Viviendas rociadas,10
+La Paz,21001,Inquisivi,2006,7,Viviendas rociadas,15
+La Paz,21006,Licoma Pampa,2006,7,Viviendas rociadas,8
+Cochabamba,31301,Mizque,2006,7,Viviendas rociadas,2
+Cochabamba,30302,Morochata,2006,7,Viviendas rociadas,62
+Santa Cruz,70202,Okinawa,2006,7,Viviendas rociadas,376
+Tarija,60201,Padcaya,2006,7,Viviendas rociadas,118
+Santa Cruz,70902,Pampa Grande,2006,7,Viviendas rociadas,4
+Cochabamba,31203,Pocona,2006,7,Viviendas rociadas,47
+Cochabamba,31202,Pojo (cbba),2006,7,Viviendas rociadas,4
+Potosí,51101,Puna,2006,7,Viviendas rociadas,21
+Cochabamba,31401,Punata,2006,7,Viviendas rociadas,8
+Cochabamba,30901,Quillacollo,2006,7,Viviendas rociadas,37
+Santa Cruz,70904,Quirusillas,2006,7,Viviendas rociadas,3
+Cochabamba,31001,Sacaba,2006,7,Viviendas rociadas,25
+Santa Cruz,71302,Saipina,2006,7,Viviendas rociadas,35
+Cochabamba,31403,San Benito,2006,7,Viviendas rociadas,47
+Tarija,60501,San Lorenzo(tja),2006,7,Viviendas rociadas,123
+Potosí,50501,San Pedro De Buena Vista,2006,7,Viviendas rociadas,58
+Cochabamba,30702,Santivañes,2006,7,Viviendas rociadas,4
+Cochabamba,30902,Sipe Sipe,2006,7,Viviendas rociadas,89
+Cochabamba,31404,Tacachi,2006,7,Viviendas rociadas,17
+Cochabamba,31101,Tapacari,2006,7,Viviendas rociadas,84
+Cochabamba,30401,Tarata,2006,7,Viviendas rociadas,2
+Tarija,60101,Tarija,2006,7,Viviendas rociadas,221
+Cochabamba,30903,Tiquipaya,2006,7,Viviendas rociadas,6
+Cochabamba,30802,Toco,2006,7,Viviendas rociadas,3
+Cochabamba,31201,Totora(cbba),2006,7,Viviendas rociadas,50
+Tarija,60401,Uriondo (a. Concepcion),2006,7,Viviendas rociadas,5
+Santa Cruz,70801,Vallegrande,2006,7,Viviendas rociadas,1073
+Cochabamba,31402,Villa Rivero,2006,7,Viviendas rociadas,10
+Cochabamba,30904,Vinto,2006,7,Viviendas rociadas,71
+Cochabamba,30402,Anzaldo,2006,8,Viviendas rociadas,30
+Cochabamba,30501,Arani,2006,8,Viviendas rociadas,16
+Cochabamba,30403,Arbieto,2006,8,Viviendas rociadas,27
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,8,Viviendas rociadas,12
+Potosí,50301,Betanzos,2006,8,Viviendas rociadas,11
+Santa Cruz,70707,Boyuibe,2006,8,Viviendas rociadas,18
+Santa Cruz,70703,Cabezas,2006,8,Viviendas rociadas,7
+Cochabamba,30801,Cliza,2006,8,Viviendas rociadas,5
+Cochabamba,30101,Cochabamba,2006,8,Viviendas rociadas,78
+La Paz,21402,Coripata,2006,8,Viviendas rociadas,26
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,8,Viviendas rociadas,15
+Tarija,60502,El Puente(tja),2006,8,Viviendas rociadas,75
+Santa Cruz,70105,El Torno,2006,8,Viviendas rociadas,7
+Tarija,60601,Entre Rios,2006,8,Viviendas rociadas,3
+Santa Cruz,70705,Gutierrez,2006,8,Viviendas rociadas,2
+La Paz,21001,Inquisivi,2006,8,Viviendas rociadas,9
+Santa Cruz,70104,La Guardia,2006,8,Viviendas rociadas,1
+Santa Cruz,70903,Mairana,2006,8,Viviendas rociadas,3
+Cochabamba,31301,Mizque,2006,8,Viviendas rociadas,2
+Cochabamba,30203,Omereque,2006,8,Viviendas rociadas,8
+Tarija,60201,Padcaya,2006,8,Viviendas rociadas,79
+Santa Cruz,70902,Pampa Grande,2006,8,Viviendas rociadas,3
+Cochabamba,31203,Pocona,2006,8,Viviendas rociadas,15
+Cochabamba,31202,Pojo (cbba),2006,8,Viviendas rociadas,28
+Santa Cruz,70805,Pucara,2006,8,Viviendas rociadas,12
+Cochabamba,31401,Punata,2006,8,Viviendas rociadas,21
+Cochabamba,30901,Quillacollo,2006,8,Viviendas rociadas,10
+Santa Cruz,70904,Quirusillas,2006,8,Viviendas rociadas,6
+Cochabamba,31001,Sacaba,2006,8,Viviendas rociadas,32
+Santa Cruz,71302,Saipina,2006,8,Viviendas rociadas,36
+Cochabamba,31403,San Benito,2006,8,Viviendas rociadas,46
+Tarija,60501,San Lorenzo(tja),2006,8,Viviendas rociadas,143
+Cochabamba,30702,Santivañes,2006,8,Viviendas rociadas,3
+Cochabamba,30902,Sipe Sipe,2006,8,Viviendas rociadas,220
+Chuquisaca,10403,Sopachuy,2006,8,Viviendas rociadas,4
+Cochabamba,31404,Tacachi,2006,8,Viviendas rociadas,9
+Cochabamba,31101,Tapacari,2006,8,Viviendas rociadas,14
+Cochabamba,30401,Tarata,2006,8,Viviendas rociadas,5
+Tarija,60101,Tarija,2006,8,Viviendas rociadas,189
+Cochabamba,30903,Tiquipaya,2006,8,Viviendas rociadas,13
+Cochabamba,30802,Toco,2006,8,Viviendas rociadas,5
+Cochabamba,30803,Tolata,2006,8,Viviendas rociadas,8
+Cochabamba,31201,Totora(cbba),2006,8,Viviendas rociadas,7
+Potosí,50801,Tupiza,2006,8,Viviendas rociadas,1
+Tarija,60401,Uriondo (a. Concepcion),2006,8,Viviendas rociadas,44
+Santa Cruz,70801,Vallegrande,2006,8,Viviendas rociadas,963
+Cochabamba,31402,Villa Rivero,2006,8,Viviendas rociadas,7
+Cochabamba,30201,Aiquile,2006,9,Viviendas rociadas,1
+Cochabamba,30402,Anzaldo,2006,9,Viviendas rociadas,20
+Cochabamba,30501,Arani,2006,9,Viviendas rociadas,39
+Cochabamba,30403,Arbieto,2006,9,Viviendas rociadas,14
+Cochabamba,30601,Arque,2006,9,Viviendas rociadas,86
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,9,Viviendas rociadas,4
+Cochabamba,30801,Cliza,2006,9,Viviendas rociadas,6
+Cochabamba,30101,Cochabamba,2006,9,Viviendas rociadas,56
+Cochabamba,30905,Colcapirhua,2006,9,Viviendas rociadas,15
+Santa Cruz,70102,Cotoca,2006,9,Viviendas rociadas,2
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,9,Viviendas rociadas,10
+Tarija,60502,El Puente(tja),2006,9,Viviendas rociadas,66
+Tarija,60601,Entre Rios,2006,9,Viviendas rociadas,89
+Santa Cruz,70705,Gutierrez,2006,9,Viviendas rociadas,9
+La Paz,21102,Irupana (villa De Lanza),2006,9,Viviendas rociadas,26
+Santa Cruz,70903,Mairana,2006,9,Viviendas rociadas,2
+Cochabamba,30302,Morochata,2006,9,Viviendas rociadas,1
+Tarija,60201,Padcaya,2006,9,Viviendas rociadas,7
+Santa Cruz,70902,Pampa Grande,2006,9,Viviendas rociadas,3
+Cochabamba,31203,Pocona,2006,9,Viviendas rociadas,22
+Cochabamba,31202,Pojo (cbba),2006,9,Viviendas rociadas,37
+Santa Cruz,70805,Pucara,2006,9,Viviendas rociadas,2
+Cochabamba,31401,Punata,2006,9,Viviendas rociadas,18
+Cochabamba,30901,Quillacollo,2006,9,Viviendas rociadas,88
+Santa Cruz,70904,Quirusillas,2006,9,Viviendas rociadas,3
+Cochabamba,31001,Sacaba,2006,9,Viviendas rociadas,36
+Cochabamba,30404,Sacabamba,2006,9,Viviendas rociadas,8
+Santa Cruz,71302,Saipina,2006,9,Viviendas rociadas,20
+Cochabamba,31403,San Benito,2006,9,Viviendas rociadas,12
+Tarija,60501,San Lorenzo(tja),2006,9,Viviendas rociadas,141
+Potosí,50501,San Pedro De Buena Vista,2006,9,Viviendas rociadas,12
+Cochabamba,30703,Sicaya,2006,9,Viviendas rociadas,11
+Cochabamba,30902,Sipe Sipe,2006,9,Viviendas rociadas,24
+Cochabamba,31404,Tacachi,2006,9,Viviendas rociadas,7
+Cochabamba,30602,Tacopaya,2006,9,Viviendas rociadas,3
+Cochabamba,31101,Tapacari,2006,9,Viviendas rociadas,46
+Cochabamba,30401,Tarata,2006,9,Viviendas rociadas,3
+Tarija,60101,Tarija,2006,9,Viviendas rociadas,17
+Cochabamba,30903,Tiquipaya,2006,9,Viviendas rociadas,21
+Cochabamba,30802,Toco,2006,9,Viviendas rociadas,3
+Cochabamba,31201,Totora(cbba),2006,9,Viviendas rociadas,29
+Santa Cruz,70802,Trigal,2006,9,Viviendas rociadas,19
+Potosí,50801,Tupiza,2006,9,Viviendas rociadas,2
+Tarija,60401,Uriondo (a. Concepcion),2006,9,Viviendas rociadas,28
+Tarija,60303,Villa Montes,2006,9,Viviendas rociadas,378
+Cochabamba,31402,Villa Rivero,2006,9,Viviendas rociadas,39
+Cochabamba,30904,Vinto,2006,9,Viviendas rociadas,42
+Tarija,60301,Yacuiba,2006,9,Viviendas rociadas,426
+Cochabamba,30201,Aiquile,2006,10,Viviendas rociadas,64
+Cochabamba,30402,Anzaldo,2006,10,Viviendas rociadas,84
+Cochabamba,30501,Arani,2006,10,Viviendas rociadas,28
+Cochabamba,30403,Arbieto,2006,10,Viviendas rociadas,4
+Tarija,60302,Carapari,2006,10,Viviendas rociadas,93
+Santa Cruz,70702,Charagua,2006,10,Viviendas rociadas,12
+Cochabamba,30101,Cochabamba,2006,10,Viviendas rociadas,82
+La Paz,21402,Coripata,2006,10,Viviendas rociadas,47
+Santa Cruz,70102,Cotoca,2006,10,Viviendas rociadas,3
+Tarija,60502,El Puente(tja),2006,10,Viviendas rociadas,17
+Santa Cruz,70105,El Torno,2006,10,Viviendas rociadas,17
+Tarija,60601,Entre Rios,2006,10,Viviendas rociadas,595
+Santa Cruz,70705,Gutierrez,2006,10,Viviendas rociadas,33
+La Paz,21105,La Asunta,2006,10,Viviendas rociadas,246
+Santa Cruz,70104,La Guardia,2006,10,Viviendas rociadas,16
+Santa Cruz,70903,Mairana,2006,10,Viviendas rociadas,10
+Chuquisaca,10501,Monteagudo,2006,10,Viviendas rociadas,333
+Cochabamba,30203,Omereque,2006,10,Viviendas rociadas,533
+Cochabamba,30202,Pasorapa,2006,10,Viviendas rociadas,153
+Cochabamba,31202,Pojo (cbba),2006,10,Viviendas rociadas,540
+Santa Cruz,70805,Pucara,2006,10,Viviendas rociadas,4
+Potosí,51101,Puna,2006,10,Viviendas rociadas,56
+Cochabamba,31401,Punata,2006,10,Viviendas rociadas,3
+Santa Cruz,70904,Quirusillas,2006,10,Viviendas rociadas,11
+Cochabamba,30404,Sacabamba,2006,10,Viviendas rociadas,3
+Santa Cruz,71302,Saipina,2006,10,Viviendas rociadas,41
+Cochabamba,31403,San Benito,2006,10,Viviendas rociadas,4
+Tarija,60101,Tarija,2006,10,Viviendas rociadas,45
+Cochabamba,30802,Toco,2006,10,Viviendas rociadas,1
+Cochabamba,30803,Tolata,2006,10,Viviendas rociadas,2
+Santa Cruz,70802,Trigal,2006,10,Viviendas rociadas,9
+Potosí,50801,Tupiza,2006,10,Viviendas rociadas,2
+Tarija,60401,Uriondo (a. Concepcion),2006,10,Viviendas rociadas,53
+Santa Cruz,70801,Vallegrande,2006,10,Viviendas rociadas,300
+Tarija,60303,Villa Montes,2006,10,Viviendas rociadas,1176
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,10,Viviendas rociadas,753
+Tarija,60301,Yacuiba,2006,10,Viviendas rociadas,2073
+La Paz,21103,Yanacachi,2006,10,Viviendas rociadas,10
+Chuquisaca,10301,Zudañez,2006,10,Viviendas rociadas,1
+Potosí,51302,Acacio,2006,11,Viviendas rociadas,12
+Cochabamba,30402,Anzaldo,2006,11,Viviendas rociadas,163
+Cochabamba,30501,Arani,2006,11,Viviendas rociadas,41
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,11,Viviendas rociadas,5
+Chuquisaca,10201,Azurduy,2006,11,Viviendas rociadas,73
+Santa Cruz,70707,Boyuibe,2006,11,Viviendas rociadas,32
+Santa Cruz,70703,Cabezas,2006,11,Viviendas rociadas,15
+Tarija,60302,Carapari,2006,11,Viviendas rociadas,285
+Santa Cruz,70702,Charagua,2006,11,Viviendas rociadas,16
+La Paz,20501,Chuma,2006,11,Viviendas rociadas,39
+Cochabamba,30801,Cliza,2006,11,Viviendas rociadas,1
+Cochabamba,30101,Cochabamba,2006,11,Viviendas rociadas,92
+Potosí,50601,Cotagaita,2006,11,Viviendas rociadas,2
+Santa Cruz,70102,Cotoca,2006,11,Viviendas rociadas,4
+Santa Cruz,70704,Cuevo,2006,11,Viviendas rociadas,42
+Tarija,60502,El Puente(tja),2006,11,Viviendas rociadas,80
+Santa Cruz,70105,El Torno,2006,11,Viviendas rociadas,29
+Tarija,60601,Entre Rios,2006,11,Viviendas rociadas,949
+Santa Cruz,70705,Gutierrez,2006,11,Viviendas rociadas,36
+Santa Cruz,70104,La Guardia,2006,11,Viviendas rociadas,11
+Chuquisaca,11003,Machareti,2006,11,Viviendas rociadas,244
+Santa Cruz,70903,Mairana,2006,11,Viviendas rociadas,32
+Cochabamba,31301,Mizque,2006,11,Viviendas rociadas,4
+Chuquisaca,10303,Mojocoya,2006,11,Viviendas rociadas,70
+Chuquisaca,10501,Monteagudo,2006,11,Viviendas rociadas,374
+Santa Cruz,70803,Moro Moro,2006,11,Viviendas rociadas,17
+Cochabamba,30203,Omereque,2006,11,Viviendas rociadas,179
+Tarija,60201,Padcaya,2006,11,Viviendas rociadas,113
+Santa Cruz,70502,Pailon,2006,11,Viviendas rociadas,2
+Santa Cruz,70902,Pampa Grande,2006,11,Viviendas rociadas,2
+Cochabamba,31202,Pojo (cbba),2006,11,Viviendas rociadas,499
+Cochabamba,31401,Punata,2006,11,Viviendas rociadas,7
+Cochabamba,30901,Quillacollo,2006,11,Viviendas rociadas,29
+Santa Cruz,70904,Quirusillas,2006,11,Viviendas rociadas,13
+Cochabamba,31001,Sacaba,2006,11,Viviendas rociadas,4
+Santa Cruz,71302,Saipina,2006,11,Viviendas rociadas,28
+Santa Cruz,70901,Samaipata,2006,11,Viviendas rociadas,40
+Cochabamba,31403,San Benito,2006,11,Viviendas rociadas,3
+Tarija,60501,San Lorenzo(tja),2006,11,Viviendas rociadas,33
+Chuquisaca,10702,San Lucas,2006,11,Viviendas rociadas,170
+Potosí,50501,San Pedro De Buena Vista,2006,11,Viviendas rociadas,25
+La Paz,20601,Sorata,2006,11,Viviendas rociadas,6
+Tarija,60101,Tarija,2006,11,Viviendas rociadas,120
+Chuquisaca,10202,Tarvita,2006,11,Viviendas rociadas,444
+Cochabamba,30803,Tolata,2006,11,Viviendas rociadas,3
+Santa Cruz,70802,Trigal,2006,11,Viviendas rociadas,9
+Potosí,50801,Tupiza,2006,11,Viviendas rociadas,1
+Tarija,60401,Uriondo (a. Concepcion),2006,11,Viviendas rociadas,47
+Santa Cruz,70801,Vallegrande,2006,11,Viviendas rociadas,120
+Cochabamba,30501,Arani,2006,12,Viviendas rociadas,30
+Cochabamba,30403,Arbieto,2006,12,Viviendas rociadas,2
+Cochabamba,30601,Arque,2006,12,Viviendas rociadas,15
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,12,Viviendas rociadas,9
+Santa Cruz,70703,Cabezas,2006,12,Viviendas rociadas,2
+Cochabamba,30801,Cliza,2006,12,Viviendas rociadas,2
+Cochabamba,30101,Cochabamba,2006,12,Viviendas rociadas,103
+Santa Cruz,70102,Cotoca,2006,12,Viviendas rociadas,3
+Tarija,60502,El Puente(tja),2006,12,Viviendas rociadas,43
+Santa Cruz,70105,El Torno,2006,12,Viviendas rociadas,12
+Santa Cruz,70705,Gutierrez,2006,12,Viviendas rociadas,12
+Chuquisaca,10502,Huacareta,2006,12,Viviendas rociadas,274
+Santa Cruz,70104,La Guardia,2006,12,Viviendas rociadas,12
+Santa Cruz,70903,Mairana,2006,12,Viviendas rociadas,3
+Cochabamba,30302,Morochata,2006,12,Viviendas rociadas,13
+Cochabamba,30202,Pasorapa,2006,12,Viviendas rociadas,10
+Cochabamba,31203,Pocona,2006,12,Viviendas rociadas,1
+Cochabamba,31202,Pojo (cbba),2006,12,Viviendas rociadas,20
+Santa Cruz,70805,Pucara,2006,12,Viviendas rociadas,5
+Cochabamba,31401,Punata,2006,12,Viviendas rociadas,3
+Cochabamba,30901,Quillacollo,2006,12,Viviendas rociadas,21
+Santa Cruz,70904,Quirusillas,2006,12,Viviendas rociadas,11
+Cochabamba,31001,Sacaba,2006,12,Viviendas rociadas,12
+Santa Cruz,71302,Saipina,2006,12,Viviendas rociadas,41
+Cochabamba,31403,San Benito,2006,12,Viviendas rociadas,6
+Tarija,60501,San Lorenzo(tja),2006,12,Viviendas rociadas,71
+Cochabamba,30902,Sipe Sipe,2006,12,Viviendas rociadas,37
+Cochabamba,31101,Tapacari,2006,12,Viviendas rociadas,8
+Cochabamba,30401,Tarata,2006,12,Viviendas rociadas,1
+Tarija,60101,Tarija,2006,12,Viviendas rociadas,26
+Cochabamba,30903,Tiquipaya,2006,12,Viviendas rociadas,17
+Cochabamba,30802,Toco,2006,12,Viviendas rociadas,1
+Cochabamba,30803,Tolata,2006,12,Viviendas rociadas,9
+Potosí,50801,Tupiza,2006,12,Viviendas rociadas,4
+Tarija,60401,Uriondo (a. Concepcion),2006,12,Viviendas rociadas,73
+Tarija,60303,Villa Montes,2006,12,Viviendas rociadas,502
+Cochabamba,30904,Vinto,2006,12,Viviendas rociadas,6
+Chuquisaca,10102,Yotala,2006,12,Viviendas rociadas,749
+La Paz,20905,Cairoma,2006,1,TOTAL,144
+Chuquisaca,10702,San Lucas,2006,1,TOTAL,2
+Tarija,60303,Villa Montes,2006,1,TOTAL,271
+Tarija,60301,Yacuiba,2006,1,TOTAL,788
+Cochabamba,30403,Arbieto,2006,2,TOTAL,4
+Potosí,51102,"Caiza ""d""",2006,2,TOTAL,14
+Cochabamba,30801,Cliza,2006,2,TOTAL,6
+Cochabamba,30101,Cochabamba,2006,2,TOTAL,78
+Chuquisaca,10903,Las Carreras,2006,2,TOTAL,139
+Santa Cruz,70903,Mairana,2006,2,TOTAL,1
+Cochabamba,31301,Mizque,2006,2,TOTAL,14
+Potosí,51101,Puna,2006,2,TOTAL,32
+Cochabamba,31401,Punata,2006,2,TOTAL,7
+Cochabamba,30901,Quillacollo,2006,2,TOTAL,2
+Santa Cruz,70901,Samaipata,2006,2,TOTAL,5
+Cochabamba,31403,San Benito,2006,2,TOTAL,6
+Potosí,50501,San Pedro De Buena Vista,2006,2,TOTAL,113
+Cochabamba,30702,Santivañes,2006,2,TOTAL,644
+Cochabamba,30902,Sipe Sipe,2006,2,TOTAL,12
+Chuquisaca,10403,Sopachuy,2006,2,TOTAL,3
+Cochabamba,31404,Tacachi,2006,2,TOTAL,3
+Cochabamba,31101,Tapacari,2006,2,TOTAL,562
+Cochabamba,30401,Tarata,2006,2,TOTAL,3
+Tarija,60101,Tarija,2006,2,TOTAL,133
+Cochabamba,30903,Tiquipaya,2006,2,TOTAL,6
+Cochabamba,30802,Toco,2006,2,TOTAL,1
+Cochabamba,30803,Tolata,2006,2,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2006,2,TOTAL,161
+Cochabamba,31402,Villa Rivero,2006,2,TOTAL,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,2,TOTAL,272
+Cochabamba,30904,Vinto,2006,2,TOTAL,2
+Potosí,50602,Vitichi,2006,2,TOTAL,83
+Tarija,60301,Yacuiba,2006,2,TOTAL,476
+Potosí,51302,Acacio,2006,3,TOTAL,9
+Cochabamba,30201,Aiquile,2006,3,TOTAL,8
+Cochabamba,30402,Anzaldo,2006,3,TOTAL,20
+Cochabamba,30501,Arani,2006,3,TOTAL,20
+Cochabamba,30403,Arbieto,2006,3,TOTAL,15
+Cochabamba,30601,Arque,2006,3,TOTAL,15
+Potosí,50301,Betanzos,2006,3,TOTAL,142
+Potosí,51102,"Caiza ""d""",2006,3,TOTAL,32
+Cochabamba,30701,Capinota,2006,3,TOTAL,5321
+Cochabamba,30801,Cliza,2006,3,TOTAL,6
+Cochabamba,30101,Cochabamba,2006,3,TOTAL,103
+Cochabamba,30905,Colcapirhua,2006,3,TOTAL,8
+Santa Cruz,71301,Comarapa,2006,3,TOTAL,19
+Potosí,50601,Cotagaita,2006,3,TOTAL,7
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,3,TOTAL,18
+Tarija,60502,El Puente(tja),2006,3,TOTAL,74
+La Paz,20103,Mecapaca,2006,3,TOTAL,213
+Cochabamba,31301,Mizque,2006,3,TOTAL,5
+Chuquisaca,10501,Monteagudo,2006,3,TOTAL,3
+Cochabamba,30302,Morochata,2006,3,TOTAL,1
+Cochabamba,30203,Omereque,2006,3,TOTAL,17
+Tarija,60201,Padcaya,2006,3,TOTAL,321
+La Paz,20102,Palca,2006,3,TOTAL,39
+Cochabamba,30202,Pasorapa,2006,3,TOTAL,6
+Potosí,51101,Puna,2006,3,TOTAL,125
+Cochabamba,31401,Punata,2006,3,TOTAL,12
+Cochabamba,30901,Quillacollo,2006,3,TOTAL,9
+Cochabamba,31001,Sacaba,2006,3,TOTAL,35
+Santa Cruz,71302,Saipina,2006,3,TOTAL,351
+Cochabamba,31403,San Benito,2006,3,TOTAL,23
+Tarija,60501,San Lorenzo(tja),2006,3,TOTAL,809
+Cochabamba,30703,Sicaya,2006,3,TOTAL,793
+Cochabamba,30902,Sipe Sipe,2006,3,TOTAL,16
+Chuquisaca,10403,Sopachuy,2006,3,TOTAL,4
+Cochabamba,31101,Tapacari,2006,3,TOTAL,691
+Cochabamba,30401,Tarata,2006,3,TOTAL,4
+Tarija,60101,Tarija,2006,3,TOTAL,408
+Cochabamba,30903,Tiquipaya,2006,3,TOTAL,12
+Cochabamba,30802,Toco,2006,3,TOTAL,2
+Cochabamba,30803,Tolata,2006,3,TOTAL,4
+Santa Cruz,70802,Trigal,2006,3,TOTAL,30
+Potosí,50801,Tupiza,2006,3,TOTAL,10
+Tarija,60401,Uriondo (a. Concepcion),2006,3,TOTAL,954
+Cochabamba,31402,Villa Rivero,2006,3,TOTAL,12
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,3,TOTAL,299
+Potosí,50602,Vitichi,2006,3,TOTAL,70
+Tarija,60402,Yunchara,2006,3,TOTAL,6
+Cochabamba,30201,Aiquile,2006,4,TOTAL,14
+Cochabamba,30402,Anzaldo,2006,4,TOTAL,5
+Cochabamba,30501,Arani,2006,4,TOTAL,26
+Cochabamba,30403,Arbieto,2006,4,TOTAL,16
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,4,TOTAL,6
+Santa Cruz,70707,Boyuibe,2006,4,TOTAL,46
+Potosí,51102,"Caiza ""d""",2006,4,TOTAL,8
+Santa Cruz,70702,Charagua,2006,4,TOTAL,27
+Cochabamba,30801,Cliza,2006,4,TOTAL,8
+Cochabamba,30101,Cochabamba,2006,4,TOTAL,122
+Cochabamba,30905,Colcapirhua,2006,4,TOTAL,8
+Santa Cruz,70704,Cuevo,2006,4,TOTAL,52
+Cochabamba,30302,Morochata,2006,4,TOTAL,20
+Santa Cruz,70202,Okinawa,2006,4,TOTAL,1573
+Tarija,60201,Padcaya,2006,4,TOTAL,365
+Cochabamba,30202,Pasorapa,2006,4,TOTAL,5
+Cochabamba,31202,Pojo (cbba),2006,4,TOTAL,51
+Potosí,51101,Puna,2006,4,TOTAL,55
+Cochabamba,31401,Punata,2006,4,TOTAL,23
+Cochabamba,30901,Quillacollo,2006,4,TOTAL,27
+Cochabamba,31001,Sacaba,2006,4,TOTAL,66
+Santa Cruz,71302,Saipina,2006,4,TOTAL,12
+Cochabamba,31403,San Benito,2006,4,TOTAL,26
+Tarija,60501,San Lorenzo(tja),2006,4,TOTAL,583
+La Paz,20902,Sapahaqui,2006,4,TOTAL,613
+Cochabamba,30902,Sipe Sipe,2006,4,TOTAL,69
+Cochabamba,31404,Tacachi,2006,4,TOTAL,7
+Tarija,60101,Tarija,2006,4,TOTAL,438
+Cochabamba,30903,Tiquipaya,2006,4,TOTAL,5
+Cochabamba,30802,Toco,2006,4,TOTAL,7
+Potosí,50801,Tupiza,2006,4,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2006,4,TOTAL,398
+Cochabamba,31402,Villa Rivero,2006,4,TOTAL,10
+Cochabamba,30402,Anzaldo,2006,5,TOTAL,33
+Potosí,51301,Arampampa,2006,5,TOTAL,2
+Cochabamba,30501,Arani,2006,5,TOTAL,49
+Cochabamba,30403,Arbieto,2006,5,TOTAL,4
+Cochabamba,30601,Arque,2006,5,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,5,TOTAL,3
+Potosí,50301,Betanzos,2006,5,TOTAL,109
+Cochabamba,30701,Capinota,2006,5,TOTAL,20
+Cochabamba,30801,Cliza,2006,5,TOTAL,4
+Cochabamba,30101,Cochabamba,2006,5,TOTAL,48
+Cochabamba,30905,Colcapirhua,2006,5,TOTAL,10
+La Paz,21401,Coroico,2006,5,TOTAL,3
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,5,TOTAL,22
+Tarija,60502,El Puente(tja),2006,5,TOTAL,228
+Santa Cruz,70105,El Torno,2006,5,TOTAL,28
+Tarija,60601,Entre Rios,2006,5,TOTAL,31
+Santa Cruz,70104,La Guardia,2006,5,TOTAL,116
+Santa Cruz,70701,Lagunillas,2006,5,TOTAL,2
+La Paz,20901,Luribay,2006,5,TOTAL,48
+Santa Cruz,70903,Mairana,2006,5,TOTAL,1
+Santa Cruz,70803,Moro Moro,2006,5,TOTAL,1
+Cochabamba,30302,Morochata,2006,5,TOTAL,2
+Tarija,60201,Padcaya,2006,5,TOTAL,411
+Cochabamba,31202,Pojo (cbba),2006,5,TOTAL,12
+Potosí,51101,Puna,2006,5,TOTAL,118
+Cochabamba,31401,Punata,2006,5,TOTAL,35
+Cochabamba,30901,Quillacollo,2006,5,TOTAL,20
+Cochabamba,31001,Sacaba,2006,5,TOTAL,116
+Cochabamba,30404,Sacabamba,2006,5,TOTAL,5
+Santa Cruz,71302,Saipina,2006,5,TOTAL,71
+Cochabamba,31403,San Benito,2006,5,TOTAL,59
+Tarija,60501,San Lorenzo(tja),2006,5,TOTAL,433
+Potosí,50501,San Pedro De Buena Vista,2006,5,TOTAL,112
+Cochabamba,30702,Santivañes,2006,5,TOTAL,8
+La Paz,20902,Sapahaqui,2006,5,TOTAL,248
+Cochabamba,30902,Sipe Sipe,2006,5,TOTAL,44
+Cochabamba,31404,Tacachi,2006,5,TOTAL,2
+Cochabamba,30602,Tacopaya,2006,5,TOTAL,4
+Cochabamba,31101,Tapacari,2006,5,TOTAL,182
+Cochabamba,30401,Tarata,2006,5,TOTAL,5
+Tarija,60101,Tarija,2006,5,TOTAL,411
+Cochabamba,30903,Tiquipaya,2006,5,TOTAL,13
+Cochabamba,30802,Toco,2006,5,TOTAL,10
+Tarija,60401,Uriondo (a. Concepcion),2006,5,TOTAL,817
+Cochabamba,31402,Villa Rivero,2006,5,TOTAL,43
+Cochabamba,30201,Aiquile,2006,6,TOTAL,4
+Cochabamba,30402,Anzaldo,2006,6,TOTAL,55
+Cochabamba,30501,Arani,2006,6,TOTAL,156
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,6,TOTAL,4
+Potosí,50301,Betanzos,2006,6,TOTAL,39
+Santa Cruz,70703,Cabezas,2006,6,TOTAL,1
+Cochabamba,30701,Capinota,2006,6,TOTAL,4
+Cochabamba,30801,Cliza,2006,6,TOTAL,3
+Cochabamba,30101,Cochabamba,2006,6,TOTAL,53
+Cochabamba,30905,Colcapirhua,2006,6,TOTAL,10
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,6,TOTAL,50
+Santa Cruz,70704,Cuevo,2006,6,TOTAL,3
+Tarija,60502,El Puente(tja),2006,6,TOTAL,153
+La Paz,21001,Inquisivi,2006,6,TOTAL,227
+La Paz,20901,Luribay,2006,6,TOTAL,65
+Cochabamba,31301,Mizque,2006,6,TOTAL,2
+Santa Cruz,70803,Moro Moro,2006,6,TOTAL,9
+Cochabamba,30302,Morochata,2006,6,TOTAL,11
+Tarija,60201,Padcaya,2006,6,TOTAL,150
+Cochabamba,31203,Pocona,2006,6,TOTAL,4
+Cochabamba,31202,Pojo (cbba),2006,6,TOTAL,3
+Santa Cruz,70805,Pucara,2006,6,TOTAL,8
+Cochabamba,31401,Punata,2006,6,TOTAL,13
+Cochabamba,30901,Quillacollo,2006,6,TOTAL,22
+Santa Cruz,70904,Quirusillas,2006,6,TOTAL,5
+Cochabamba,31001,Sacaba,2006,6,TOTAL,12
+Santa Cruz,71302,Saipina,2006,6,TOTAL,12
+Cochabamba,31403,San Benito,2006,6,TOTAL,60
+Tarija,60501,San Lorenzo(tja),2006,6,TOTAL,145
+Cochabamba,30702,Santivañes,2006,6,TOTAL,12
+Cochabamba,30902,Sipe Sipe,2006,6,TOTAL,99
+Cochabamba,31101,Tapacari,2006,6,TOTAL,319
+Cochabamba,30401,Tarata,2006,6,TOTAL,7
+Tarija,60101,Tarija,2006,6,TOTAL,254
+Cochabamba,30903,Tiquipaya,2006,6,TOTAL,4
+Cochabamba,30802,Toco,2006,6,TOTAL,1
+Cochabamba,30803,Tolata,2006,6,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2006,6,TOTAL,30
+Santa Cruz,70801,Vallegrande,2006,6,TOTAL,274
+Cochabamba,31402,Villa Rivero,2006,6,TOTAL,63
+Cochabamba,30904,Vinto,2006,6,TOTAL,145
+Cochabamba,30402,Anzaldo,2006,7,TOTAL,22
+Cochabamba,30501,Arani,2006,7,TOTAL,42
+Cochabamba,30403,Arbieto,2006,7,TOTAL,28
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,7,TOTAL,1
+Potosí,50301,Betanzos,2006,7,TOTAL,14
+La Paz,21003,Cajuata,2006,7,TOTAL,10
+Cochabamba,30701,Capinota,2006,7,TOTAL,8
+Cochabamba,30801,Cliza,2006,7,TOTAL,4
+Cochabamba,30101,Cochabamba,2006,7,TOTAL,81
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,7,TOTAL,11
+Santa Cruz,70704,Cuevo,2006,7,TOTAL,7
+Tarija,60502,El Puente(tja),2006,7,TOTAL,91
+Santa Cruz,70105,El Torno,2006,7,TOTAL,13
+Santa Cruz,70705,Gutierrez,2006,7,TOTAL,10
+La Paz,21001,Inquisivi,2006,7,TOTAL,15
+La Paz,21006,Licoma Pampa,2006,7,TOTAL,8
+Cochabamba,31301,Mizque,2006,7,TOTAL,2
+Cochabamba,30302,Morochata,2006,7,TOTAL,62
+Santa Cruz,70202,Okinawa,2006,7,TOTAL,376
+Tarija,60201,Padcaya,2006,7,TOTAL,118
+Santa Cruz,70902,Pampa Grande,2006,7,TOTAL,4
+Cochabamba,31203,Pocona,2006,7,TOTAL,47
+Cochabamba,31202,Pojo (cbba),2006,7,TOTAL,4
+Potosí,51101,Puna,2006,7,TOTAL,21
+Cochabamba,31401,Punata,2006,7,TOTAL,8
+Cochabamba,30901,Quillacollo,2006,7,TOTAL,37
+Santa Cruz,70904,Quirusillas,2006,7,TOTAL,3
+Cochabamba,31001,Sacaba,2006,7,TOTAL,25
+Santa Cruz,71302,Saipina,2006,7,TOTAL,35
+Cochabamba,31403,San Benito,2006,7,TOTAL,47
+Tarija,60501,San Lorenzo(tja),2006,7,TOTAL,123
+Potosí,50501,San Pedro De Buena Vista,2006,7,TOTAL,58
+Cochabamba,30702,Santivañes,2006,7,TOTAL,4
+Cochabamba,30902,Sipe Sipe,2006,7,TOTAL,89
+Cochabamba,31404,Tacachi,2006,7,TOTAL,17
+Cochabamba,31101,Tapacari,2006,7,TOTAL,84
+Cochabamba,30401,Tarata,2006,7,TOTAL,2
+Tarija,60101,Tarija,2006,7,TOTAL,221
+Cochabamba,30903,Tiquipaya,2006,7,TOTAL,6
+Cochabamba,30802,Toco,2006,7,TOTAL,3
+Cochabamba,31201,Totora(cbba),2006,7,TOTAL,50
+Tarija,60401,Uriondo (a. Concepcion),2006,7,TOTAL,5
+Santa Cruz,70801,Vallegrande,2006,7,TOTAL,1073
+Cochabamba,31402,Villa Rivero,2006,7,TOTAL,10
+Cochabamba,30904,Vinto,2006,7,TOTAL,71
+Cochabamba,30402,Anzaldo,2006,8,TOTAL,30
+Cochabamba,30501,Arani,2006,8,TOTAL,16
+Cochabamba,30403,Arbieto,2006,8,TOTAL,27
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,8,TOTAL,12
+Potosí,50301,Betanzos,2006,8,TOTAL,11
+Santa Cruz,70707,Boyuibe,2006,8,TOTAL,18
+Santa Cruz,70703,Cabezas,2006,8,TOTAL,7
+Cochabamba,30801,Cliza,2006,8,TOTAL,5
+Cochabamba,30101,Cochabamba,2006,8,TOTAL,78
+La Paz,21402,Coripata,2006,8,TOTAL,26
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,8,TOTAL,15
+Tarija,60502,El Puente(tja),2006,8,TOTAL,75
+Santa Cruz,70105,El Torno,2006,8,TOTAL,7
+Tarija,60601,Entre Rios,2006,8,TOTAL,3
+Santa Cruz,70705,Gutierrez,2006,8,TOTAL,2
+La Paz,21001,Inquisivi,2006,8,TOTAL,9
+Santa Cruz,70104,La Guardia,2006,8,TOTAL,1
+Santa Cruz,70903,Mairana,2006,8,TOTAL,3
+Cochabamba,31301,Mizque,2006,8,TOTAL,2
+Cochabamba,30203,Omereque,2006,8,TOTAL,8
+Tarija,60201,Padcaya,2006,8,TOTAL,79
+Santa Cruz,70902,Pampa Grande,2006,8,TOTAL,3
+Cochabamba,31203,Pocona,2006,8,TOTAL,15
+Cochabamba,31202,Pojo (cbba),2006,8,TOTAL,28
+Santa Cruz,70805,Pucara,2006,8,TOTAL,12
+Cochabamba,31401,Punata,2006,8,TOTAL,21
+Cochabamba,30901,Quillacollo,2006,8,TOTAL,10
+Santa Cruz,70904,Quirusillas,2006,8,TOTAL,6
+Cochabamba,31001,Sacaba,2006,8,TOTAL,32
+Santa Cruz,71302,Saipina,2006,8,TOTAL,36
+Cochabamba,31403,San Benito,2006,8,TOTAL,46
+Tarija,60501,San Lorenzo(tja),2006,8,TOTAL,143
+Cochabamba,30702,Santivañes,2006,8,TOTAL,3
+Cochabamba,30902,Sipe Sipe,2006,8,TOTAL,220
+Chuquisaca,10403,Sopachuy,2006,8,TOTAL,4
+Cochabamba,31404,Tacachi,2006,8,TOTAL,9
+Cochabamba,31101,Tapacari,2006,8,TOTAL,14
+Cochabamba,30401,Tarata,2006,8,TOTAL,5
+Tarija,60101,Tarija,2006,8,TOTAL,189
+Cochabamba,30903,Tiquipaya,2006,8,TOTAL,13
+Cochabamba,30802,Toco,2006,8,TOTAL,5
+Cochabamba,30803,Tolata,2006,8,TOTAL,8
+Cochabamba,31201,Totora(cbba),2006,8,TOTAL,7
+Potosí,50801,Tupiza,2006,8,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2006,8,TOTAL,44
+Santa Cruz,70801,Vallegrande,2006,8,TOTAL,963
+Cochabamba,31402,Villa Rivero,2006,8,TOTAL,7
+Cochabamba,30201,Aiquile,2006,9,TOTAL,1
+Cochabamba,30402,Anzaldo,2006,9,TOTAL,20
+Cochabamba,30501,Arani,2006,9,TOTAL,39
+Cochabamba,30403,Arbieto,2006,9,TOTAL,14
+Cochabamba,30601,Arque,2006,9,TOTAL,86
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,9,TOTAL,4
+Cochabamba,30801,Cliza,2006,9,TOTAL,6
+Cochabamba,30101,Cochabamba,2006,9,TOTAL,56
+Cochabamba,30905,Colcapirhua,2006,9,TOTAL,15
+Santa Cruz,70102,Cotoca,2006,9,TOTAL,2
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2006,9,TOTAL,10
+Tarija,60502,El Puente(tja),2006,9,TOTAL,66
+Tarija,60601,Entre Rios,2006,9,TOTAL,89
+Santa Cruz,70705,Gutierrez,2006,9,TOTAL,9
+La Paz,21102,Irupana (villa De Lanza),2006,9,TOTAL,26
+Santa Cruz,70903,Mairana,2006,9,TOTAL,2
+Cochabamba,30302,Morochata,2006,9,TOTAL,1
+Tarija,60201,Padcaya,2006,9,TOTAL,7
+Santa Cruz,70902,Pampa Grande,2006,9,TOTAL,3
+Cochabamba,31203,Pocona,2006,9,TOTAL,22
+Cochabamba,31202,Pojo (cbba),2006,9,TOTAL,37
+Santa Cruz,70805,Pucara,2006,9,TOTAL,2
+Cochabamba,31401,Punata,2006,9,TOTAL,18
+Cochabamba,30901,Quillacollo,2006,9,TOTAL,88
+Santa Cruz,70904,Quirusillas,2006,9,TOTAL,3
+Cochabamba,31001,Sacaba,2006,9,TOTAL,36
+Cochabamba,30404,Sacabamba,2006,9,TOTAL,8
+Santa Cruz,71302,Saipina,2006,9,TOTAL,20
+Cochabamba,31403,San Benito,2006,9,TOTAL,12
+Tarija,60501,San Lorenzo(tja),2006,9,TOTAL,141
+Potosí,50501,San Pedro De Buena Vista,2006,9,TOTAL,12
+Cochabamba,30703,Sicaya,2006,9,TOTAL,11
+Cochabamba,30902,Sipe Sipe,2006,9,TOTAL,24
+Cochabamba,31404,Tacachi,2006,9,TOTAL,7
+Cochabamba,30602,Tacopaya,2006,9,TOTAL,3
+Cochabamba,31101,Tapacari,2006,9,TOTAL,46
+Cochabamba,30401,Tarata,2006,9,TOTAL,3
+Tarija,60101,Tarija,2006,9,TOTAL,17
+Cochabamba,30903,Tiquipaya,2006,9,TOTAL,21
+Cochabamba,30802,Toco,2006,9,TOTAL,3
+Cochabamba,31201,Totora(cbba),2006,9,TOTAL,29
+Santa Cruz,70802,Trigal,2006,9,TOTAL,19
+Potosí,50801,Tupiza,2006,9,TOTAL,2
+Tarija,60401,Uriondo (a. Concepcion),2006,9,TOTAL,28
+Tarija,60303,Villa Montes,2006,9,TOTAL,378
+Cochabamba,31402,Villa Rivero,2006,9,TOTAL,39
+Cochabamba,30904,Vinto,2006,9,TOTAL,42
+Tarija,60301,Yacuiba,2006,9,TOTAL,426
+Cochabamba,30201,Aiquile,2006,10,TOTAL,64
+Cochabamba,30402,Anzaldo,2006,10,TOTAL,84
+Cochabamba,30501,Arani,2006,10,TOTAL,28
+Cochabamba,30403,Arbieto,2006,10,TOTAL,4
+Tarija,60302,Carapari,2006,10,TOTAL,93
+Santa Cruz,70702,Charagua,2006,10,TOTAL,12
+Cochabamba,30101,Cochabamba,2006,10,TOTAL,82
+La Paz,21402,Coripata,2006,10,TOTAL,47
+Santa Cruz,70102,Cotoca,2006,10,TOTAL,3
+Tarija,60502,El Puente(tja),2006,10,TOTAL,17
+Santa Cruz,70105,El Torno,2006,10,TOTAL,17
+Tarija,60601,Entre Rios,2006,10,TOTAL,595
+Santa Cruz,70705,Gutierrez,2006,10,TOTAL,33
+La Paz,21105,La Asunta,2006,10,TOTAL,246
+Santa Cruz,70104,La Guardia,2006,10,TOTAL,16
+Santa Cruz,70903,Mairana,2006,10,TOTAL,10
+Chuquisaca,10501,Monteagudo,2006,10,TOTAL,333
+Cochabamba,30203,Omereque,2006,10,TOTAL,533
+Cochabamba,30202,Pasorapa,2006,10,TOTAL,153
+Cochabamba,31202,Pojo (cbba),2006,10,TOTAL,540
+Santa Cruz,70805,Pucara,2006,10,TOTAL,4
+Potosí,51101,Puna,2006,10,TOTAL,56
+Cochabamba,31401,Punata,2006,10,TOTAL,3
+Santa Cruz,70904,Quirusillas,2006,10,TOTAL,11
+Cochabamba,30404,Sacabamba,2006,10,TOTAL,3
+Santa Cruz,71302,Saipina,2006,10,TOTAL,41
+Cochabamba,31403,San Benito,2006,10,TOTAL,4
+Tarija,60101,Tarija,2006,10,TOTAL,45
+Cochabamba,30802,Toco,2006,10,TOTAL,1
+Cochabamba,30803,Tolata,2006,10,TOTAL,2
+Santa Cruz,70802,Trigal,2006,10,TOTAL,9
+Potosí,50801,Tupiza,2006,10,TOTAL,2
+Tarija,60401,Uriondo (a. Concepcion),2006,10,TOTAL,53
+Santa Cruz,70801,Vallegrande,2006,10,TOTAL,300
+Tarija,60303,Villa Montes,2006,10,TOTAL,1176
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,10,TOTAL,753
+Tarija,60301,Yacuiba,2006,10,TOTAL,2073
+La Paz,21103,Yanacachi,2006,10,TOTAL,10
+Chuquisaca,10301,Zudañez,2006,10,TOTAL,1
+Potosí,51302,Acacio,2006,11,TOTAL,12
+Cochabamba,30402,Anzaldo,2006,11,TOTAL,163
+Cochabamba,30501,Arani,2006,11,TOTAL,41
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,11,TOTAL,5
+Chuquisaca,10201,Azurduy,2006,11,TOTAL,73
+Santa Cruz,70707,Boyuibe,2006,11,TOTAL,32
+Santa Cruz,70703,Cabezas,2006,11,TOTAL,15
+Tarija,60302,Carapari,2006,11,TOTAL,285
+Santa Cruz,70702,Charagua,2006,11,TOTAL,16
+La Paz,20501,Chuma,2006,11,TOTAL,39
+Cochabamba,30801,Cliza,2006,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2006,11,TOTAL,92
+Potosí,50601,Cotagaita,2006,11,TOTAL,2
+Santa Cruz,70102,Cotoca,2006,11,TOTAL,4
+Santa Cruz,70704,Cuevo,2006,11,TOTAL,42
+Tarija,60502,El Puente(tja),2006,11,TOTAL,80
+Santa Cruz,70105,El Torno,2006,11,TOTAL,29
+Tarija,60601,Entre Rios,2006,11,TOTAL,949
+Santa Cruz,70705,Gutierrez,2006,11,TOTAL,36
+Santa Cruz,70104,La Guardia,2006,11,TOTAL,11
+Chuquisaca,11003,Machareti,2006,11,TOTAL,244
+Santa Cruz,70903,Mairana,2006,11,TOTAL,32
+Cochabamba,31301,Mizque,2006,11,TOTAL,4
+Chuquisaca,10303,Mojocoya,2006,11,TOTAL,70
+Chuquisaca,10501,Monteagudo,2006,11,TOTAL,374
+Santa Cruz,70803,Moro Moro,2006,11,TOTAL,17
+Cochabamba,30203,Omereque,2006,11,TOTAL,179
+Tarija,60201,Padcaya,2006,11,TOTAL,113
+Santa Cruz,70502,Pailon,2006,11,TOTAL,2
+Santa Cruz,70902,Pampa Grande,2006,11,TOTAL,2
+Cochabamba,31202,Pojo (cbba),2006,11,TOTAL,499
+Cochabamba,31401,Punata,2006,11,TOTAL,7
+Cochabamba,30901,Quillacollo,2006,11,TOTAL,29
+Santa Cruz,70904,Quirusillas,2006,11,TOTAL,13
+Cochabamba,31001,Sacaba,2006,11,TOTAL,4
+Santa Cruz,71302,Saipina,2006,11,TOTAL,28
+Santa Cruz,70901,Samaipata,2006,11,TOTAL,40
+Cochabamba,31403,San Benito,2006,11,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2006,11,TOTAL,33
+Chuquisaca,10702,San Lucas,2006,11,TOTAL,170
+Potosí,50501,San Pedro De Buena Vista,2006,11,TOTAL,25
+La Paz,20601,Sorata,2006,11,TOTAL,6
+Tarija,60101,Tarija,2006,11,TOTAL,120
+Chuquisaca,10202,Tarvita,2006,11,TOTAL,444
+Cochabamba,30803,Tolata,2006,11,TOTAL,3
+Santa Cruz,70802,Trigal,2006,11,TOTAL,9
+Potosí,50801,Tupiza,2006,11,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2006,11,TOTAL,47
+Santa Cruz,70801,Vallegrande,2006,11,TOTAL,120
+Cochabamba,30501,Arani,2006,12,TOTAL,30
+Cochabamba,30403,Arbieto,2006,12,TOTAL,2
+Cochabamba,30601,Arque,2006,12,TOTAL,15
+Cochabamba,30301,Ayopaya (v. De Independencia),2006,12,TOTAL,9
+Santa Cruz,70703,Cabezas,2006,12,TOTAL,2
+Cochabamba,30801,Cliza,2006,12,TOTAL,2
+Cochabamba,30101,Cochabamba,2006,12,TOTAL,103
+Santa Cruz,70102,Cotoca,2006,12,TOTAL,3
+Tarija,60502,El Puente(tja),2006,12,TOTAL,43
+Santa Cruz,70105,El Torno,2006,12,TOTAL,12
+Santa Cruz,70705,Gutierrez,2006,12,TOTAL,12
+Chuquisaca,10502,Huacareta,2006,12,TOTAL,274
+Santa Cruz,70104,La Guardia,2006,12,TOTAL,12
+Santa Cruz,70903,Mairana,2006,12,TOTAL,3
+Cochabamba,30302,Morochata,2006,12,TOTAL,13
+Cochabamba,30202,Pasorapa,2006,12,TOTAL,10
+Cochabamba,31203,Pocona,2006,12,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2006,12,TOTAL,20
+Santa Cruz,70805,Pucara,2006,12,TOTAL,5
+Cochabamba,31401,Punata,2006,12,TOTAL,3
+Cochabamba,30901,Quillacollo,2006,12,TOTAL,21
+Santa Cruz,70904,Quirusillas,2006,12,TOTAL,11
+Cochabamba,31001,Sacaba,2006,12,TOTAL,12
+Santa Cruz,71302,Saipina,2006,12,TOTAL,41
+Cochabamba,31403,San Benito,2006,12,TOTAL,6
+Tarija,60501,San Lorenzo(tja),2006,12,TOTAL,71
+Cochabamba,30902,Sipe Sipe,2006,12,TOTAL,37
+Cochabamba,31101,Tapacari,2006,12,TOTAL,8
+Cochabamba,30401,Tarata,2006,12,TOTAL,1
+Tarija,60101,Tarija,2006,12,TOTAL,26
+Cochabamba,30903,Tiquipaya,2006,12,TOTAL,17
+Cochabamba,30802,Toco,2006,12,TOTAL,1
+Cochabamba,30803,Tolata,2006,12,TOTAL,9
+Potosí,50801,Tupiza,2006,12,TOTAL,4
+Tarija,60401,Uriondo (a. Concepcion),2006,12,TOTAL,73
+Tarija,60303,Villa Montes,2006,12,TOTAL,502
+Cochabamba,30904,Vinto,2006,12,TOTAL,6
+Chuquisaca,10102,Yotala,2006,12,TOTAL,749

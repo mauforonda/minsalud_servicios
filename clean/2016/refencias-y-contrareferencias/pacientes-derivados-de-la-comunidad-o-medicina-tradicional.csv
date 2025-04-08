@@ -1,0 +1,727 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70401,Buena Vista,2016,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70703,Cabezas,2016,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10701,Camargo,2016,1,Pacientes derivados de la comunidad o medicina tradicional,3
+Cochabamba,30101,Cochabamba,2016,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2016,1,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,20105,El Alto,2016,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,1,Pacientes derivados de la comunidad o medicina tradicional,10
+Oruro,40101,Oruro,2016,1,Pacientes derivados de la comunidad o medicina tradicional,5
+Tarija,60201,Padcaya,2016,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,31205,Puerto Villarroel,2016,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71105,San Antonio De Lomerio,2016,1,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,71104,San Julian,2016,1,Pacientes derivados de la comunidad o medicina tradicional,20
+Santa Cruz,70303,San Rafael,2016,1,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,Pacientes derivados de la comunidad o medicina tradicional,24
+Chuquisaca,10601,Tarabuco,2016,1,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10202,Tarvita,2016,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Potosí,50801,Tupiza,2016,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70801,Vallegrande,2016,1,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2016,1,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10602,Yamparaez,2016,1,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10301,Zudañez,2016,1,Pacientes derivados de la comunidad o medicina tradicional,7
+Santa Cruz,71101,Concepcion,2016,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2016,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,71002,General Saavedra,2016,2,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,21105,La Asunta,2016,2,Pacientes derivados de la comunidad o medicina tradicional,1
+La Paz,21202,Laja,2016,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60201,Padcaya,2016,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,31001,Sacaba,2016,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70404,San Juan De Yapacani,2016,2,Pacientes derivados de la comunidad o medicina tradicional,8
+Santa Cruz,71104,San Julian,2016,2,Pacientes derivados de la comunidad o medicina tradicional,25
+Santa Cruz,70303,San Rafael,2016,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,Pacientes derivados de la comunidad o medicina tradicional,7
+Cochabamba,31101,Tapacari,2016,2,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10601,Tarabuco,2016,2,Pacientes derivados de la comunidad o medicina tradicional,9
+Cochabamba,30401,Tarata,2016,2,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60101,Tarija,2016,2,Pacientes derivados de la comunidad o medicina tradicional,8
+Santa Cruz,70801,Vallegrande,2016,2,Pacientes derivados de la comunidad o medicina tradicional,7
+Chuquisaca,10704,Villa Charcas,2016,2,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10602,Yamparaez,2016,2,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10301,Zudañez,2016,2,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10404,Alcala,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70401,Buena Vista,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70703,Cabezas,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10701,Camargo,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30801,Cliza,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,3,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,71106,Cuatro Cañadas,2016,3,Pacientes derivados de la comunidad o medicina tradicional,2
+La Paz,20105,El Alto,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10501,Monteagudo,2016,3,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60201,Padcaya,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,31205,Puerto Villarroel,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71104,San Julian,2016,3,Pacientes derivados de la comunidad o medicina tradicional,34
+Santa Cruz,70303,San Rafael,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,Pacientes derivados de la comunidad o medicina tradicional,15
+Cochabamba,31101,Tapacari,2016,3,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10601,Tarabuco,2016,3,Pacientes derivados de la comunidad o medicina tradicional,14
+Tarija,60101,Tarija,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Potosí,50102,Tinguipaya,2016,3,Pacientes derivados de la comunidad o medicina tradicional,5
+Beni,80101,Trinidad,2016,3,Pacientes derivados de la comunidad o medicina tradicional,57
+Santa Cruz,70801,Vallegrande,2016,3,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2016,3,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10602,Yamparaez,2016,3,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10301,Zudañez,2016,3,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10404,Alcala,2016,4,Pacientes derivados de la comunidad o medicina tradicional,11
+Cochabamba,30101,Cochabamba,2016,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2016,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,4,Pacientes derivados de la comunidad o medicina tradicional,14
+Chuquisaca,10304,Icla,2016,4,Pacientes derivados de la comunidad o medicina tradicional,13
+La Paz,20101,La Paz,2016,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Potosí,50404,Ocuri,2016,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10103,Poroma,2016,4,Pacientes derivados de la comunidad o medicina tradicional,4
+Cochabamba,30901,Quillacollo,2016,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,31001,Sacaba,2016,4,Pacientes derivados de la comunidad o medicina tradicional,16
+Santa Cruz,71104,San Julian,2016,4,Pacientes derivados de la comunidad o medicina tradicional,21
+Chuquisaca,10702,San Lucas,2016,4,Pacientes derivados de la comunidad o medicina tradicional,13
+Santa Cruz,70303,San Rafael,2016,4,Pacientes derivados de la comunidad o medicina tradicional,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10101,Sucre,2016,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10601,Tarabuco,2016,4,Pacientes derivados de la comunidad o medicina tradicional,6
+Tarija,60101,Tarija,2016,4,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10202,Tarvita,2016,4,Pacientes derivados de la comunidad o medicina tradicional,4
+Potosí,50102,Tinguipaya,2016,4,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10704,Villa Charcas,2016,4,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,4,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70201,Warnes,2016,4,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2016,4,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10301,Zudañez,2016,4,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10404,Alcala,2016,5,Pacientes derivados de la comunidad o medicina tradicional,12
+Chuquisaca,10201,Azurduy,2016,5,Pacientes derivados de la comunidad o medicina tradicional,27
+Chuquisaca,10701,Camargo,2016,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Potosí,50601,Cotagaita,2016,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71106,Cuatro Cañadas,2016,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60502,El Puente(tja),2016,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10304,Icla,2016,5,Pacientes derivados de la comunidad o medicina tradicional,52
+La Paz,20101,La Paz,2016,5,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,70701,Lagunillas,2016,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11003,Machareti,2016,5,Pacientes derivados de la comunidad o medicina tradicional,7
+Chuquisaca,10303,Mojocoya,2016,5,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10103,Poroma,2016,5,Pacientes derivados de la comunidad o medicina tradicional,6
+Santa Cruz,71104,San Julian,2016,5,Pacientes derivados de la comunidad o medicina tradicional,23
+Chuquisaca,10702,San Lucas,2016,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70303,San Rafael,2016,5,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,Pacientes derivados de la comunidad o medicina tradicional,15
+Chuquisaca,10101,Sucre,2016,5,Pacientes derivados de la comunidad o medicina tradicional,15
+Chuquisaca,10601,Tarabuco,2016,5,Pacientes derivados de la comunidad o medicina tradicional,23
+Chuquisaca,10202,Tarvita,2016,5,Pacientes derivados de la comunidad o medicina tradicional,43
+Potosí,50102,Tinguipaya,2016,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2016,5,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10602,Yamparaez,2016,5,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10301,Zudañez,2016,5,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10404,Alcala,2016,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10201,Azurduy,2016,6,Pacientes derivados de la comunidad o medicina tradicional,82
+Santa Cruz,70401,Buena Vista,2016,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Cochabamba,30101,Cochabamba,2016,6,Pacientes derivados de la comunidad o medicina tradicional,3
+Santa Cruz,71106,Cuatro Cañadas,2016,6,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10902,Culpina,2016,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60502,El Puente(tja),2016,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10405,El Villar,2016,6,Pacientes derivados de la comunidad o medicina tradicional,3
+Tarija,60601,Entre Rios Trj,2016,6,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10502,Huacareta,2016,6,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,6,Pacientes derivados de la comunidad o medicina tradicional,25
+Chuquisaca,10304,Icla,2016,6,Pacientes derivados de la comunidad o medicina tradicional,26
+Chuquisaca,10303,Mojocoya,2016,6,Pacientes derivados de la comunidad o medicina tradicional,23
+Chuquisaca,10501,Monteagudo,2016,6,Pacientes derivados de la comunidad o medicina tradicional,19
+Oruro,40101,Oruro,2016,6,Pacientes derivados de la comunidad o medicina tradicional,5
+Tarija,60201,Padcaya,2016,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10401,Padilla,2016,6,Pacientes derivados de la comunidad o medicina tradicional,48
+Chuquisaca,10103,Poroma,2016,6,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10302,Presto,2016,6,Pacientes derivados de la comunidad o medicina tradicional,19
+Santa Cruz,71104,San Julian,2016,6,Pacientes derivados de la comunidad o medicina tradicional,19
+Chuquisaca,10702,San Lucas,2016,6,Pacientes derivados de la comunidad o medicina tradicional,28
+Santa Cruz,70303,San Rafael,2016,6,Pacientes derivados de la comunidad o medicina tradicional,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,Pacientes derivados de la comunidad o medicina tradicional,18
+Chuquisaca,10403,Sopachuy,2016,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10101,Sucre,2016,6,Pacientes derivados de la comunidad o medicina tradicional,38
+Chuquisaca,10601,Tarabuco,2016,6,Pacientes derivados de la comunidad o medicina tradicional,42
+Chuquisaca,10202,Tarvita,2016,6,Pacientes derivados de la comunidad o medicina tradicional,66
+Potosí,50102,Tinguipaya,2016,6,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10402,Tomina,2016,6,Pacientes derivados de la comunidad o medicina tradicional,3
+Beni,80101,Trinidad,2016,6,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10704,Villa Charcas,2016,6,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10801,Villa Serrano,2016,6,Pacientes derivados de la comunidad o medicina tradicional,7
+Cochabamba,31003,Villa Tunari,2016,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60301,Yacuiba,2016,6,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2016,6,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10301,Zudañez,2016,6,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10404,Alcala,2016,7,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10201,Azurduy,2016,7,Pacientes derivados de la comunidad o medicina tradicional,100
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,7,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10902,Culpina,2016,7,Pacientes derivados de la comunidad o medicina tradicional,22
+Tarija,60502,El Puente(tja),2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10405,El Villar,2016,7,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10502,Huacareta,2016,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,7,Pacientes derivados de la comunidad o medicina tradicional,20
+Chuquisaca,10304,Icla,2016,7,Pacientes derivados de la comunidad o medicina tradicional,30
+Chuquisaca,10903,Las Carreras,2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11003,Machareti,2016,7,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10303,Mojocoya,2016,7,Pacientes derivados de la comunidad o medicina tradicional,18
+Chuquisaca,10501,Monteagudo,2016,7,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10401,Padilla,2016,7,Pacientes derivados de la comunidad o medicina tradicional,3
+La Paz,20102,Palca,2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10103,Poroma,2016,7,Pacientes derivados de la comunidad o medicina tradicional,15
+Chuquisaca,10302,Presto,2016,7,Pacientes derivados de la comunidad o medicina tradicional,68
+Beni,80703,Puerto Siles,2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Beni,80304,Rurrenabaque,2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70402,San Carlos,2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71104,San Julian,2016,7,Pacientes derivados de la comunidad o medicina tradicional,28
+Chuquisaca,10702,San Lucas,2016,7,Pacientes derivados de la comunidad o medicina tradicional,51
+Santa Cruz,70303,San Rafael,2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10403,Sopachuy,2016,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10101,Sucre,2016,7,Pacientes derivados de la comunidad o medicina tradicional,92
+Chuquisaca,10601,Tarabuco,2016,7,Pacientes derivados de la comunidad o medicina tradicional,29
+Chuquisaca,10202,Tarvita,2016,7,Pacientes derivados de la comunidad o medicina tradicional,53
+Potosí,50102,Tinguipaya,2016,7,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10402,Tomina,2016,7,Pacientes derivados de la comunidad o medicina tradicional,6
+Beni,80101,Trinidad,2016,7,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,31003,Villa Tunari,2016,7,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2016,7,Pacientes derivados de la comunidad o medicina tradicional,14
+Chuquisaca,10301,Zudañez,2016,7,Pacientes derivados de la comunidad o medicina tradicional,14
+Chuquisaca,10404,Alcala,2016,8,Pacientes derivados de la comunidad o medicina tradicional,3
+Cochabamba,30601,Arque,2016,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10201,Azurduy,2016,8,Pacientes derivados de la comunidad o medicina tradicional,69
+Chuquisaca,10701,Camargo,2016,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10902,Culpina,2016,8,Pacientes derivados de la comunidad o medicina tradicional,57
+Chuquisaca,10405,El Villar,2016,8,Pacientes derivados de la comunidad o medicina tradicional,12
+Chuquisaca,10502,Huacareta,2016,8,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,8,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10304,Icla,2016,8,Pacientes derivados de la comunidad o medicina tradicional,72
+Chuquisaca,10703,Incahuasi,2016,8,Pacientes derivados de la comunidad o medicina tradicional,37
+Chuquisaca,11003,Machareti,2016,8,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10303,Mojocoya,2016,8,Pacientes derivados de la comunidad o medicina tradicional,46
+Chuquisaca,10501,Monteagudo,2016,8,Pacientes derivados de la comunidad o medicina tradicional,2
+Oruro,40101,Oruro,2016,8,Pacientes derivados de la comunidad o medicina tradicional,5
+Tarija,60201,Padcaya,2016,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10401,Padilla,2016,8,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10103,Poroma,2016,8,Pacientes derivados de la comunidad o medicina tradicional,39
+Chuquisaca,10302,Presto,2016,8,Pacientes derivados de la comunidad o medicina tradicional,80
+Beni,80703,Puerto Siles,2016,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30901,Quillacollo,2016,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71104,San Julian,2016,8,Pacientes derivados de la comunidad o medicina tradicional,22
+Chuquisaca,10702,San Lucas,2016,8,Pacientes derivados de la comunidad o medicina tradicional,40
+Santa Cruz,70303,San Rafael,2016,8,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10403,Sopachuy,2016,8,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10101,Sucre,2016,8,Pacientes derivados de la comunidad o medicina tradicional,157
+Chuquisaca,10601,Tarabuco,2016,8,Pacientes derivados de la comunidad o medicina tradicional,40
+Chuquisaca,10202,Tarvita,2016,8,Pacientes derivados de la comunidad o medicina tradicional,61
+Potosí,50102,Tinguipaya,2016,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10402,Tomina,2016,8,Pacientes derivados de la comunidad o medicina tradicional,8
+Potosí,51201,Uyuni,2016,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2016,8,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10801,Villa Serrano,2016,8,Pacientes derivados de la comunidad o medicina tradicional,4
+Tarija,60301,Yacuiba,2016,8,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2016,8,Pacientes derivados de la comunidad o medicina tradicional,40
+Chuquisaca,10301,Zudañez,2016,8,Pacientes derivados de la comunidad o medicina tradicional,21
+Chuquisaca,10404,Alcala,2016,9,Pacientes derivados de la comunidad o medicina tradicional,23
+Santa Cruz,71501,Ascencion De Guarayos,2016,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10201,Azurduy,2016,9,Pacientes derivados de la comunidad o medicina tradicional,22
+Santa Cruz,70401,Buena Vista,2016,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,9,Pacientes derivados de la comunidad o medicina tradicional,10
+Potosí,50702,Caripuyo,2016,9,Pacientes derivados de la comunidad o medicina tradicional,4
+Santa Cruz,70702,Charagua,2016,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Pando,90101,Cobija,2016,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10902,Culpina,2016,9,Pacientes derivados de la comunidad o medicina tradicional,37
+La Paz,20105,El Alto,2016,9,Pacientes derivados de la comunidad o medicina tradicional,33
+Chuquisaca,10405,El Villar,2016,9,Pacientes derivados de la comunidad o medicina tradicional,8
+Santa Cruz,71002,General Saavedra,2016,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Beni,80202,Guayaramerin,2016,9,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10502,Huacareta,2016,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,9,Pacientes derivados de la comunidad o medicina tradicional,20
+Chuquisaca,10304,Icla,2016,9,Pacientes derivados de la comunidad o medicina tradicional,84
+Chuquisaca,10703,Incahuasi,2016,9,Pacientes derivados de la comunidad o medicina tradicional,33
+La Paz,20101,La Paz,2016,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,11003,Machareti,2016,9,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10303,Mojocoya,2016,9,Pacientes derivados de la comunidad o medicina tradicional,20
+Chuquisaca,10501,Monteagudo,2016,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,71001,Montero,2016,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Oruro,40101,Oruro,2016,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Tarija,60201,Padcaya,2016,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10401,Padilla,2016,9,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10103,Poroma,2016,9,Pacientes derivados de la comunidad o medicina tradicional,59
+Chuquisaca,10302,Presto,2016,9,Pacientes derivados de la comunidad o medicina tradicional,20
+Santa Cruz,71104,San Julian,2016,9,Pacientes derivados de la comunidad o medicina tradicional,30
+Chuquisaca,10702,San Lucas,2016,9,Pacientes derivados de la comunidad o medicina tradicional,131
+Santa Cruz,70303,San Rafael,2016,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,Pacientes derivados de la comunidad o medicina tradicional,31
+Chuquisaca,10403,Sopachuy,2016,9,Pacientes derivados de la comunidad o medicina tradicional,15
+Chuquisaca,10101,Sucre,2016,9,Pacientes derivados de la comunidad o medicina tradicional,112
+Chuquisaca,10601,Tarabuco,2016,9,Pacientes derivados de la comunidad o medicina tradicional,81
+Chuquisaca,10202,Tarvita,2016,9,Pacientes derivados de la comunidad o medicina tradicional,152
+Potosí,50102,Tinguipaya,2016,9,Pacientes derivados de la comunidad o medicina tradicional,4
+Cochabamba,31601,Tiraque (cbba),2016,9,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10402,Tomina,2016,9,Pacientes derivados de la comunidad o medicina tradicional,7
+La Paz,20801,Viacha,2016,9,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10704,Villa Charcas,2016,9,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,9,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10602,Yamparaez,2016,9,Pacientes derivados de la comunidad o medicina tradicional,27
+Chuquisaca,10301,Zudañez,2016,9,Pacientes derivados de la comunidad o medicina tradicional,26
+Chuquisaca,10404,Alcala,2016,10,Pacientes derivados de la comunidad o medicina tradicional,66
+Chuquisaca,10201,Azurduy,2016,10,Pacientes derivados de la comunidad o medicina tradicional,24
+Santa Cruz,70401,Buena Vista,2016,10,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10701,Camargo,2016,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,10,Pacientes derivados de la comunidad o medicina tradicional,12
+Cochabamba,30101,Cochabamba,2016,10,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10902,Culpina,2016,10,Pacientes derivados de la comunidad o medicina tradicional,38
+La Paz,20105,El Alto,2016,10,Pacientes derivados de la comunidad o medicina tradicional,141
+Chuquisaca,10405,El Villar,2016,10,Pacientes derivados de la comunidad o medicina tradicional,29
+Chuquisaca,10502,Huacareta,2016,10,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,10,Pacientes derivados de la comunidad o medicina tradicional,20
+Chuquisaca,10304,Icla,2016,10,Pacientes derivados de la comunidad o medicina tradicional,18
+Chuquisaca,11003,Machareti,2016,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10303,Mojocoya,2016,10,Pacientes derivados de la comunidad o medicina tradicional,16
+Chuquisaca,10501,Monteagudo,2016,10,Pacientes derivados de la comunidad o medicina tradicional,17
+Oruro,40101,Oruro,2016,10,Pacientes derivados de la comunidad o medicina tradicional,9
+Tarija,60201,Padcaya,2016,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10401,Padilla,2016,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10103,Poroma,2016,10,Pacientes derivados de la comunidad o medicina tradicional,103
+Chuquisaca,10302,Presto,2016,10,Pacientes derivados de la comunidad o medicina tradicional,22
+Cochabamba,31205,Puerto Villarroel,2016,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10702,San Lucas,2016,10,Pacientes derivados de la comunidad o medicina tradicional,58
+Santa Cruz,70303,San Rafael,2016,10,Pacientes derivados de la comunidad o medicina tradicional,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,Pacientes derivados de la comunidad o medicina tradicional,10
+Chuquisaca,10403,Sopachuy,2016,10,Pacientes derivados de la comunidad o medicina tradicional,14
+Chuquisaca,10101,Sucre,2016,10,Pacientes derivados de la comunidad o medicina tradicional,341
+Chuquisaca,10601,Tarabuco,2016,10,Pacientes derivados de la comunidad o medicina tradicional,85
+Chuquisaca,10202,Tarvita,2016,10,Pacientes derivados de la comunidad o medicina tradicional,190
+Potosí,50102,Tinguipaya,2016,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10402,Tomina,2016,10,Pacientes derivados de la comunidad o medicina tradicional,37
+La Paz,20801,Viacha,2016,10,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10704,Villa Charcas,2016,10,Pacientes derivados de la comunidad o medicina tradicional,12
+Tarija,60303,Villa Montes,2016,10,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,10,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10602,Yamparaez,2016,10,Pacientes derivados de la comunidad o medicina tradicional,30
+Chuquisaca,10301,Zudañez,2016,10,Pacientes derivados de la comunidad o medicina tradicional,31
+Chuquisaca,10404,Alcala,2016,11,Pacientes derivados de la comunidad o medicina tradicional,86
+Chuquisaca,10201,Azurduy,2016,11,Pacientes derivados de la comunidad o medicina tradicional,30
+Cochabamba,30101,Cochabamba,2016,11,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10902,Culpina,2016,11,Pacientes derivados de la comunidad o medicina tradicional,19
+La Paz,20105,El Alto,2016,11,Pacientes derivados de la comunidad o medicina tradicional,115
+Chuquisaca,10405,El Villar,2016,11,Pacientes derivados de la comunidad o medicina tradicional,43
+Chuquisaca,10502,Huacareta,2016,11,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,11,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10304,Icla,2016,11,Pacientes derivados de la comunidad o medicina tradicional,14
+Chuquisaca,10303,Mojocoya,2016,11,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10501,Monteagudo,2016,11,Pacientes derivados de la comunidad o medicina tradicional,18
+Chuquisaca,10401,Padilla,2016,11,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10103,Poroma,2016,11,Pacientes derivados de la comunidad o medicina tradicional,119
+Chuquisaca,10302,Presto,2016,11,Pacientes derivados de la comunidad o medicina tradicional,27
+Cochabamba,31205,Puerto Villarroel,2016,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70404,San Juan De Yapacani,2016,11,Pacientes derivados de la comunidad o medicina tradicional,2
+Chuquisaca,10702,San Lucas,2016,11,Pacientes derivados de la comunidad o medicina tradicional,62
+Santa Cruz,70303,San Rafael,2016,11,Pacientes derivados de la comunidad o medicina tradicional,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,Pacientes derivados de la comunidad o medicina tradicional,47
+Chuquisaca,10403,Sopachuy,2016,11,Pacientes derivados de la comunidad o medicina tradicional,43
+Chuquisaca,10101,Sucre,2016,11,Pacientes derivados de la comunidad o medicina tradicional,386
+Chuquisaca,10601,Tarabuco,2016,11,Pacientes derivados de la comunidad o medicina tradicional,53
+Chuquisaca,10202,Tarvita,2016,11,Pacientes derivados de la comunidad o medicina tradicional,130
+Potosí,50102,Tinguipaya,2016,11,Pacientes derivados de la comunidad o medicina tradicional,3
+Chuquisaca,10402,Tomina,2016,11,Pacientes derivados de la comunidad o medicina tradicional,12
+La Paz,20801,Viacha,2016,11,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10704,Villa Charcas,2016,11,Pacientes derivados de la comunidad o medicina tradicional,31
+Chuquisaca,10801,Villa Serrano,2016,11,Pacientes derivados de la comunidad o medicina tradicional,29
+Cochabamba,31003,Villa Tunari,2016,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Tarija,60301,Yacuiba,2016,11,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10602,Yamparaez,2016,11,Pacientes derivados de la comunidad o medicina tradicional,32
+Chuquisaca,10301,Zudañez,2016,11,Pacientes derivados de la comunidad o medicina tradicional,9
+Chuquisaca,10404,Alcala,2016,12,Pacientes derivados de la comunidad o medicina tradicional,32
+Chuquisaca,10201,Azurduy,2016,12,Pacientes derivados de la comunidad o medicina tradicional,18
+Chuquisaca,10701,Camargo,2016,12,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Cochabamba,30101,Cochabamba,2016,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Santa Cruz,70102,Cotoca,2016,12,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10902,Culpina,2016,12,Pacientes derivados de la comunidad o medicina tradicional,21
+La Paz,20105,El Alto,2016,12,Pacientes derivados de la comunidad o medicina tradicional,135
+Chuquisaca,10405,El Villar,2016,12,Pacientes derivados de la comunidad o medicina tradicional,38
+Chuquisaca,10502,Huacareta,2016,12,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,12,Pacientes derivados de la comunidad o medicina tradicional,20
+Chuquisaca,10304,Icla,2016,12,Pacientes derivados de la comunidad o medicina tradicional,26
+Chuquisaca,10903,Las Carreras,2016,12,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,11003,Machareti,2016,12,Pacientes derivados de la comunidad o medicina tradicional,4
+Chuquisaca,10303,Mojocoya,2016,12,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10501,Monteagudo,2016,12,Pacientes derivados de la comunidad o medicina tradicional,71
+Oruro,40101,Oruro,2016,12,Pacientes derivados de la comunidad o medicina tradicional,8
+Chuquisaca,10401,Padilla,2016,12,Pacientes derivados de la comunidad o medicina tradicional,6
+La Paz,20102,Palca,2016,12,Pacientes derivados de la comunidad o medicina tradicional,1
+Chuquisaca,10103,Poroma,2016,12,Pacientes derivados de la comunidad o medicina tradicional,165
+Santa Cruz,70404,San Juan De Yapacani,2016,12,Pacientes derivados de la comunidad o medicina tradicional,6
+Chuquisaca,10702,San Lucas,2016,12,Pacientes derivados de la comunidad o medicina tradicional,72
+Santa Cruz,70303,San Rafael,2016,12,Pacientes derivados de la comunidad o medicina tradicional,8
+Beni,80401,Santa Ana,2016,12,Pacientes derivados de la comunidad o medicina tradicional,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,Pacientes derivados de la comunidad o medicina tradicional,11
+Chuquisaca,10403,Sopachuy,2016,12,Pacientes derivados de la comunidad o medicina tradicional,30
+Chuquisaca,10101,Sucre,2016,12,Pacientes derivados de la comunidad o medicina tradicional,766
+Chuquisaca,10601,Tarabuco,2016,12,Pacientes derivados de la comunidad o medicina tradicional,12
+Chuquisaca,10202,Tarvita,2016,12,Pacientes derivados de la comunidad o medicina tradicional,84
+Chuquisaca,10402,Tomina,2016,12,Pacientes derivados de la comunidad o medicina tradicional,20
+Chuquisaca,10704,Villa Charcas,2016,12,Pacientes derivados de la comunidad o medicina tradicional,30
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,12,Pacientes derivados de la comunidad o medicina tradicional,5
+Chuquisaca,10301,Zudañez,2016,12,Pacientes derivados de la comunidad o medicina tradicional,11
+Santa Cruz,70401,Buena Vista,2016,1,TOTAL,2
+Santa Cruz,70703,Cabezas,2016,1,TOTAL,1
+Chuquisaca,10701,Camargo,2016,1,TOTAL,3
+Cochabamba,30101,Cochabamba,2016,1,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2016,1,TOTAL,1
+La Paz,20105,El Alto,2016,1,TOTAL,1
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,1,TOTAL,10
+Oruro,40101,Oruro,2016,1,TOTAL,5
+Tarija,60201,Padcaya,2016,1,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2016,1,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2016,1,TOTAL,3
+Santa Cruz,71104,San Julian,2016,1,TOTAL,20
+Santa Cruz,70303,San Rafael,2016,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,TOTAL,24
+Chuquisaca,10601,Tarabuco,2016,1,TOTAL,10
+Chuquisaca,10202,Tarvita,2016,1,TOTAL,2
+Potosí,50801,Tupiza,2016,1,TOTAL,2
+Santa Cruz,70801,Vallegrande,2016,1,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2016,1,TOTAL,8
+Chuquisaca,10602,Yamparaez,2016,1,TOTAL,5
+Chuquisaca,10301,Zudañez,2016,1,TOTAL,7
+Santa Cruz,71101,Concepcion,2016,2,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2016,2,TOTAL,2
+Santa Cruz,71002,General Saavedra,2016,2,TOTAL,1
+La Paz,21105,La Asunta,2016,2,TOTAL,1
+La Paz,21202,Laja,2016,2,TOTAL,1
+Tarija,60201,Padcaya,2016,2,TOTAL,2
+Cochabamba,31001,Sacaba,2016,2,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2016,2,TOTAL,8
+Santa Cruz,71104,San Julian,2016,2,TOTAL,25
+Santa Cruz,70303,San Rafael,2016,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,TOTAL,7
+Cochabamba,31101,Tapacari,2016,2,TOTAL,4
+Chuquisaca,10601,Tarabuco,2016,2,TOTAL,9
+Cochabamba,30401,Tarata,2016,2,TOTAL,1
+Tarija,60101,Tarija,2016,2,TOTAL,8
+Santa Cruz,70801,Vallegrande,2016,2,TOTAL,7
+Chuquisaca,10704,Villa Charcas,2016,2,TOTAL,3
+Chuquisaca,10602,Yamparaez,2016,2,TOTAL,2
+Chuquisaca,10301,Zudañez,2016,2,TOTAL,5
+Chuquisaca,10404,Alcala,2016,3,TOTAL,1
+Santa Cruz,70401,Buena Vista,2016,3,TOTAL,1
+Santa Cruz,70703,Cabezas,2016,3,TOTAL,1
+Chuquisaca,10701,Camargo,2016,3,TOTAL,1
+Cochabamba,30801,Cliza,2016,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,3,TOTAL,2
+Santa Cruz,71106,Cuatro Cañadas,2016,3,TOTAL,2
+La Paz,20105,El Alto,2016,3,TOTAL,1
+Chuquisaca,10501,Monteagudo,2016,3,TOTAL,2
+Tarija,60201,Padcaya,2016,3,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2016,3,TOTAL,1
+Santa Cruz,71104,San Julian,2016,3,TOTAL,34
+Santa Cruz,70303,San Rafael,2016,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,TOTAL,15
+Cochabamba,31101,Tapacari,2016,3,TOTAL,2
+Chuquisaca,10601,Tarabuco,2016,3,TOTAL,14
+Tarija,60101,Tarija,2016,3,TOTAL,1
+Potosí,50102,Tinguipaya,2016,3,TOTAL,5
+Beni,80101,Trinidad,2016,3,TOTAL,57
+Santa Cruz,70801,Vallegrande,2016,3,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2016,3,TOTAL,2
+Chuquisaca,10602,Yamparaez,2016,3,TOTAL,6
+Chuquisaca,10301,Zudañez,2016,3,TOTAL,9
+Chuquisaca,10404,Alcala,2016,4,TOTAL,11
+Cochabamba,30101,Cochabamba,2016,4,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2016,4,TOTAL,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,4,TOTAL,14
+Chuquisaca,10304,Icla,2016,4,TOTAL,13
+La Paz,20101,La Paz,2016,4,TOTAL,2
+Potosí,50404,Ocuri,2016,4,TOTAL,2
+Chuquisaca,10103,Poroma,2016,4,TOTAL,4
+Cochabamba,30901,Quillacollo,2016,4,TOTAL,1
+Cochabamba,31001,Sacaba,2016,4,TOTAL,16
+Santa Cruz,71104,San Julian,2016,4,TOTAL,21
+Chuquisaca,10702,San Lucas,2016,4,TOTAL,13
+Santa Cruz,70303,San Rafael,2016,4,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,TOTAL,9
+Chuquisaca,10101,Sucre,2016,4,TOTAL,1
+Chuquisaca,10601,Tarabuco,2016,4,TOTAL,6
+Tarija,60101,Tarija,2016,4,TOTAL,8
+Chuquisaca,10202,Tarvita,2016,4,TOTAL,4
+Potosí,50102,Tinguipaya,2016,4,TOTAL,3
+Chuquisaca,10704,Villa Charcas,2016,4,TOTAL,3
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,4,TOTAL,2
+Santa Cruz,70201,Warnes,2016,4,TOTAL,1
+Chuquisaca,10602,Yamparaez,2016,4,TOTAL,10
+Chuquisaca,10301,Zudañez,2016,4,TOTAL,9
+Chuquisaca,10404,Alcala,2016,5,TOTAL,12
+Chuquisaca,10201,Azurduy,2016,5,TOTAL,27
+Chuquisaca,10701,Camargo,2016,5,TOTAL,2
+Potosí,50601,Cotagaita,2016,5,TOTAL,1
+Santa Cruz,71106,Cuatro Cañadas,2016,5,TOTAL,2
+Tarija,60502,El Puente(tja),2016,5,TOTAL,2
+Chuquisaca,10304,Icla,2016,5,TOTAL,52
+La Paz,20101,La Paz,2016,5,TOTAL,3
+Santa Cruz,70701,Lagunillas,2016,5,TOTAL,1
+Chuquisaca,11003,Machareti,2016,5,TOTAL,7
+Chuquisaca,10303,Mojocoya,2016,5,TOTAL,4
+Chuquisaca,10103,Poroma,2016,5,TOTAL,6
+Santa Cruz,71104,San Julian,2016,5,TOTAL,23
+Chuquisaca,10702,San Lucas,2016,5,TOTAL,1
+Santa Cruz,70303,San Rafael,2016,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,TOTAL,15
+Chuquisaca,10101,Sucre,2016,5,TOTAL,15
+Chuquisaca,10601,Tarabuco,2016,5,TOTAL,23
+Chuquisaca,10202,Tarvita,2016,5,TOTAL,43
+Potosí,50102,Tinguipaya,2016,5,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2016,5,TOTAL,2
+Chuquisaca,10602,Yamparaez,2016,5,TOTAL,11
+Chuquisaca,10301,Zudañez,2016,5,TOTAL,8
+Chuquisaca,10404,Alcala,2016,6,TOTAL,2
+Chuquisaca,10201,Azurduy,2016,6,TOTAL,82
+Santa Cruz,70401,Buena Vista,2016,6,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,6,TOTAL,2
+Cochabamba,30101,Cochabamba,2016,6,TOTAL,3
+Santa Cruz,71106,Cuatro Cañadas,2016,6,TOTAL,3
+Chuquisaca,10902,Culpina,2016,6,TOTAL,2
+Tarija,60502,El Puente(tja),2016,6,TOTAL,2
+Chuquisaca,10405,El Villar,2016,6,TOTAL,3
+Tarija,60601,Entre Rios Trj,2016,6,TOTAL,3
+Chuquisaca,10502,Huacareta,2016,6,TOTAL,9
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,6,TOTAL,25
+Chuquisaca,10304,Icla,2016,6,TOTAL,26
+Chuquisaca,10303,Mojocoya,2016,6,TOTAL,23
+Chuquisaca,10501,Monteagudo,2016,6,TOTAL,19
+Oruro,40101,Oruro,2016,6,TOTAL,5
+Tarija,60201,Padcaya,2016,6,TOTAL,1
+Chuquisaca,10401,Padilla,2016,6,TOTAL,48
+Chuquisaca,10103,Poroma,2016,6,TOTAL,11
+Chuquisaca,10302,Presto,2016,6,TOTAL,19
+Santa Cruz,71104,San Julian,2016,6,TOTAL,19
+Chuquisaca,10702,San Lucas,2016,6,TOTAL,28
+Santa Cruz,70303,San Rafael,2016,6,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,TOTAL,18
+Chuquisaca,10403,Sopachuy,2016,6,TOTAL,1
+Chuquisaca,10101,Sucre,2016,6,TOTAL,38
+Chuquisaca,10601,Tarabuco,2016,6,TOTAL,42
+Chuquisaca,10202,Tarvita,2016,6,TOTAL,66
+Potosí,50102,Tinguipaya,2016,6,TOTAL,2
+Chuquisaca,10402,Tomina,2016,6,TOTAL,3
+Beni,80101,Trinidad,2016,6,TOTAL,11
+Chuquisaca,10704,Villa Charcas,2016,6,TOTAL,8
+Chuquisaca,10801,Villa Serrano,2016,6,TOTAL,7
+Cochabamba,31003,Villa Tunari,2016,6,TOTAL,1
+Tarija,60301,Yacuiba,2016,6,TOTAL,1
+Chuquisaca,10602,Yamparaez,2016,6,TOTAL,9
+Chuquisaca,10301,Zudañez,2016,6,TOTAL,11
+Chuquisaca,10404,Alcala,2016,7,TOTAL,8
+Chuquisaca,10201,Azurduy,2016,7,TOTAL,100
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,7,TOTAL,4
+Chuquisaca,10902,Culpina,2016,7,TOTAL,22
+Tarija,60502,El Puente(tja),2016,7,TOTAL,1
+Chuquisaca,10405,El Villar,2016,7,TOTAL,6
+Chuquisaca,10502,Huacareta,2016,7,TOTAL,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,7,TOTAL,20
+Chuquisaca,10304,Icla,2016,7,TOTAL,30
+Chuquisaca,10903,Las Carreras,2016,7,TOTAL,1
+Chuquisaca,11003,Machareti,2016,7,TOTAL,11
+Chuquisaca,10303,Mojocoya,2016,7,TOTAL,18
+Chuquisaca,10501,Monteagudo,2016,7,TOTAL,10
+Chuquisaca,10401,Padilla,2016,7,TOTAL,3
+La Paz,20102,Palca,2016,7,TOTAL,1
+Chuquisaca,10103,Poroma,2016,7,TOTAL,15
+Chuquisaca,10302,Presto,2016,7,TOTAL,68
+Beni,80703,Puerto Siles,2016,7,TOTAL,1
+Beni,80304,Rurrenabaque,2016,7,TOTAL,1
+Santa Cruz,70402,San Carlos,2016,7,TOTAL,1
+Santa Cruz,71104,San Julian,2016,7,TOTAL,28
+Chuquisaca,10702,San Lucas,2016,7,TOTAL,51
+Santa Cruz,70303,San Rafael,2016,7,TOTAL,1
+Chuquisaca,10403,Sopachuy,2016,7,TOTAL,2
+Chuquisaca,10101,Sucre,2016,7,TOTAL,92
+Chuquisaca,10601,Tarabuco,2016,7,TOTAL,29
+Chuquisaca,10202,Tarvita,2016,7,TOTAL,53
+Potosí,50102,Tinguipaya,2016,7,TOTAL,4
+Chuquisaca,10402,Tomina,2016,7,TOTAL,6
+Beni,80101,Trinidad,2016,7,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2016,7,TOTAL,1
+Cochabamba,31003,Villa Tunari,2016,7,TOTAL,1
+Chuquisaca,10602,Yamparaez,2016,7,TOTAL,14
+Chuquisaca,10301,Zudañez,2016,7,TOTAL,14
+Chuquisaca,10404,Alcala,2016,8,TOTAL,3
+Cochabamba,30601,Arque,2016,8,TOTAL,1
+Chuquisaca,10201,Azurduy,2016,8,TOTAL,69
+Chuquisaca,10701,Camargo,2016,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,8,TOTAL,1
+Chuquisaca,10902,Culpina,2016,8,TOTAL,57
+Chuquisaca,10405,El Villar,2016,8,TOTAL,12
+Chuquisaca,10502,Huacareta,2016,8,TOTAL,3
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,8,TOTAL,8
+Chuquisaca,10304,Icla,2016,8,TOTAL,72
+Chuquisaca,10703,Incahuasi,2016,8,TOTAL,37
+Chuquisaca,11003,Machareti,2016,8,TOTAL,3
+Chuquisaca,10303,Mojocoya,2016,8,TOTAL,46
+Chuquisaca,10501,Monteagudo,2016,8,TOTAL,2
+Oruro,40101,Oruro,2016,8,TOTAL,5
+Tarija,60201,Padcaya,2016,8,TOTAL,1
+Chuquisaca,10401,Padilla,2016,8,TOTAL,3
+Chuquisaca,10103,Poroma,2016,8,TOTAL,39
+Chuquisaca,10302,Presto,2016,8,TOTAL,80
+Beni,80703,Puerto Siles,2016,8,TOTAL,1
+Cochabamba,30901,Quillacollo,2016,8,TOTAL,1
+Santa Cruz,71104,San Julian,2016,8,TOTAL,22
+Chuquisaca,10702,San Lucas,2016,8,TOTAL,40
+Santa Cruz,70303,San Rafael,2016,8,TOTAL,5
+Chuquisaca,10403,Sopachuy,2016,8,TOTAL,3
+Chuquisaca,10101,Sucre,2016,8,TOTAL,157
+Chuquisaca,10601,Tarabuco,2016,8,TOTAL,40
+Chuquisaca,10202,Tarvita,2016,8,TOTAL,61
+Potosí,50102,Tinguipaya,2016,8,TOTAL,1
+Chuquisaca,10402,Tomina,2016,8,TOTAL,8
+Potosí,51201,Uyuni,2016,8,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2016,8,TOTAL,4
+Chuquisaca,10801,Villa Serrano,2016,8,TOTAL,4
+Tarija,60301,Yacuiba,2016,8,TOTAL,1
+Chuquisaca,10602,Yamparaez,2016,8,TOTAL,40
+Chuquisaca,10301,Zudañez,2016,8,TOTAL,21
+Chuquisaca,10404,Alcala,2016,9,TOTAL,23
+Santa Cruz,71501,Ascencion De Guarayos,2016,9,TOTAL,1
+Chuquisaca,10201,Azurduy,2016,9,TOTAL,22
+Santa Cruz,70401,Buena Vista,2016,9,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,9,TOTAL,10
+Potosí,50702,Caripuyo,2016,9,TOTAL,4
+Santa Cruz,70702,Charagua,2016,9,TOTAL,2
+Pando,90101,Cobija,2016,9,TOTAL,2
+Chuquisaca,10902,Culpina,2016,9,TOTAL,37
+La Paz,20105,El Alto,2016,9,TOTAL,33
+Chuquisaca,10405,El Villar,2016,9,TOTAL,8
+Santa Cruz,71002,General Saavedra,2016,9,TOTAL,1
+Beni,80202,Guayaramerin,2016,9,TOTAL,4
+Chuquisaca,10502,Huacareta,2016,9,TOTAL,2
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,9,TOTAL,20
+Chuquisaca,10304,Icla,2016,9,TOTAL,84
+Chuquisaca,10703,Incahuasi,2016,9,TOTAL,33
+La Paz,20101,La Paz,2016,9,TOTAL,2
+Chuquisaca,11003,Machareti,2016,9,TOTAL,4
+Chuquisaca,10303,Mojocoya,2016,9,TOTAL,20
+Chuquisaca,10501,Monteagudo,2016,9,TOTAL,1
+Santa Cruz,71001,Montero,2016,9,TOTAL,1
+Oruro,40101,Oruro,2016,9,TOTAL,2
+Tarija,60201,Padcaya,2016,9,TOTAL,2
+Chuquisaca,10401,Padilla,2016,9,TOTAL,4
+Chuquisaca,10103,Poroma,2016,9,TOTAL,59
+Chuquisaca,10302,Presto,2016,9,TOTAL,20
+Santa Cruz,71104,San Julian,2016,9,TOTAL,30
+Chuquisaca,10702,San Lucas,2016,9,TOTAL,131
+Santa Cruz,70303,San Rafael,2016,9,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,TOTAL,31
+Chuquisaca,10403,Sopachuy,2016,9,TOTAL,15
+Chuquisaca,10101,Sucre,2016,9,TOTAL,112
+Chuquisaca,10601,Tarabuco,2016,9,TOTAL,81
+Chuquisaca,10202,Tarvita,2016,9,TOTAL,152
+Potosí,50102,Tinguipaya,2016,9,TOTAL,4
+Cochabamba,31601,Tiraque (cbba),2016,9,TOTAL,1
+Chuquisaca,10402,Tomina,2016,9,TOTAL,7
+La Paz,20801,Viacha,2016,9,TOTAL,4
+Chuquisaca,10704,Villa Charcas,2016,9,TOTAL,5
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,9,TOTAL,2
+Chuquisaca,10602,Yamparaez,2016,9,TOTAL,27
+Chuquisaca,10301,Zudañez,2016,9,TOTAL,26
+Chuquisaca,10404,Alcala,2016,10,TOTAL,66
+Chuquisaca,10201,Azurduy,2016,10,TOTAL,24
+Santa Cruz,70401,Buena Vista,2016,10,TOTAL,3
+Chuquisaca,10701,Camargo,2016,10,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,10,TOTAL,12
+Cochabamba,30101,Cochabamba,2016,10,TOTAL,3
+Chuquisaca,10902,Culpina,2016,10,TOTAL,38
+La Paz,20105,El Alto,2016,10,TOTAL,141
+Chuquisaca,10405,El Villar,2016,10,TOTAL,29
+Chuquisaca,10502,Huacareta,2016,10,TOTAL,5
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,10,TOTAL,20
+Chuquisaca,10304,Icla,2016,10,TOTAL,18
+Chuquisaca,11003,Machareti,2016,10,TOTAL,1
+Chuquisaca,10303,Mojocoya,2016,10,TOTAL,16
+Chuquisaca,10501,Monteagudo,2016,10,TOTAL,17
+Oruro,40101,Oruro,2016,10,TOTAL,9
+Tarija,60201,Padcaya,2016,10,TOTAL,1
+Chuquisaca,10401,Padilla,2016,10,TOTAL,2
+Chuquisaca,10103,Poroma,2016,10,TOTAL,103
+Chuquisaca,10302,Presto,2016,10,TOTAL,22
+Cochabamba,31205,Puerto Villarroel,2016,10,TOTAL,1
+Chuquisaca,10702,San Lucas,2016,10,TOTAL,58
+Santa Cruz,70303,San Rafael,2016,10,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,TOTAL,10
+Chuquisaca,10403,Sopachuy,2016,10,TOTAL,14
+Chuquisaca,10101,Sucre,2016,10,TOTAL,341
+Chuquisaca,10601,Tarabuco,2016,10,TOTAL,85
+Chuquisaca,10202,Tarvita,2016,10,TOTAL,190
+Potosí,50102,Tinguipaya,2016,10,TOTAL,1
+Chuquisaca,10402,Tomina,2016,10,TOTAL,37
+La Paz,20801,Viacha,2016,10,TOTAL,6
+Chuquisaca,10704,Villa Charcas,2016,10,TOTAL,12
+Tarija,60303,Villa Montes,2016,10,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,10,TOTAL,2
+Chuquisaca,10602,Yamparaez,2016,10,TOTAL,30
+Chuquisaca,10301,Zudañez,2016,10,TOTAL,31
+Chuquisaca,10404,Alcala,2016,11,TOTAL,86
+Chuquisaca,10201,Azurduy,2016,11,TOTAL,30
+Cochabamba,30101,Cochabamba,2016,11,TOTAL,11
+Chuquisaca,10902,Culpina,2016,11,TOTAL,19
+La Paz,20105,El Alto,2016,11,TOTAL,115
+Chuquisaca,10405,El Villar,2016,11,TOTAL,43
+Chuquisaca,10502,Huacareta,2016,11,TOTAL,11
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,11,TOTAL,9
+Chuquisaca,10304,Icla,2016,11,TOTAL,14
+Chuquisaca,10303,Mojocoya,2016,11,TOTAL,11
+Chuquisaca,10501,Monteagudo,2016,11,TOTAL,18
+Chuquisaca,10401,Padilla,2016,11,TOTAL,5
+Chuquisaca,10103,Poroma,2016,11,TOTAL,119
+Chuquisaca,10302,Presto,2016,11,TOTAL,27
+Cochabamba,31205,Puerto Villarroel,2016,11,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2016,11,TOTAL,2
+Chuquisaca,10702,San Lucas,2016,11,TOTAL,62
+Santa Cruz,70303,San Rafael,2016,11,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,TOTAL,47
+Chuquisaca,10403,Sopachuy,2016,11,TOTAL,43
+Chuquisaca,10101,Sucre,2016,11,TOTAL,386
+Chuquisaca,10601,Tarabuco,2016,11,TOTAL,53
+Chuquisaca,10202,Tarvita,2016,11,TOTAL,130
+Potosí,50102,Tinguipaya,2016,11,TOTAL,3
+Chuquisaca,10402,Tomina,2016,11,TOTAL,12
+La Paz,20801,Viacha,2016,11,TOTAL,5
+Chuquisaca,10704,Villa Charcas,2016,11,TOTAL,31
+Chuquisaca,10801,Villa Serrano,2016,11,TOTAL,29
+Cochabamba,31003,Villa Tunari,2016,11,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,11,TOTAL,1
+Tarija,60301,Yacuiba,2016,11,TOTAL,1
+Chuquisaca,10602,Yamparaez,2016,11,TOTAL,32
+Chuquisaca,10301,Zudañez,2016,11,TOTAL,9
+Chuquisaca,10404,Alcala,2016,12,TOTAL,32
+Chuquisaca,10201,Azurduy,2016,12,TOTAL,18
+Chuquisaca,10701,Camargo,2016,12,TOTAL,11
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2016,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,12,TOTAL,1
+Santa Cruz,70102,Cotoca,2016,12,TOTAL,4
+Chuquisaca,10902,Culpina,2016,12,TOTAL,21
+La Paz,20105,El Alto,2016,12,TOTAL,135
+Chuquisaca,10405,El Villar,2016,12,TOTAL,38
+Chuquisaca,10502,Huacareta,2016,12,TOTAL,6
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,12,TOTAL,20
+Chuquisaca,10304,Icla,2016,12,TOTAL,26
+Chuquisaca,10903,Las Carreras,2016,12,TOTAL,4
+Chuquisaca,11003,Machareti,2016,12,TOTAL,4
+Chuquisaca,10303,Mojocoya,2016,12,TOTAL,6
+Chuquisaca,10501,Monteagudo,2016,12,TOTAL,71
+Oruro,40101,Oruro,2016,12,TOTAL,8
+Chuquisaca,10401,Padilla,2016,12,TOTAL,6
+La Paz,20102,Palca,2016,12,TOTAL,1
+Chuquisaca,10103,Poroma,2016,12,TOTAL,165
+Santa Cruz,70404,San Juan De Yapacani,2016,12,TOTAL,6
+Chuquisaca,10702,San Lucas,2016,12,TOTAL,72
+Santa Cruz,70303,San Rafael,2016,12,TOTAL,8
+Beni,80401,Santa Ana,2016,12,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,TOTAL,11
+Chuquisaca,10403,Sopachuy,2016,12,TOTAL,30
+Chuquisaca,10101,Sucre,2016,12,TOTAL,766
+Chuquisaca,10601,Tarabuco,2016,12,TOTAL,12
+Chuquisaca,10202,Tarvita,2016,12,TOTAL,84
+Chuquisaca,10402,Tomina,2016,12,TOTAL,20
+Chuquisaca,10704,Villa Charcas,2016,12,TOTAL,30
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,12,TOTAL,5
+Chuquisaca,10301,Zudañez,2016,12,TOTAL,11

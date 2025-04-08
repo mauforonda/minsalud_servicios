@@ -1,0 +1,43 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,71501,Ascencion De Guarayos,2022,1,Partos atendidos por partera en servicio,3
+La Paz,20105,El Alto,2022,1,Partos atendidos por partera en servicio,22
+Santa Cruz,70101,Santa Cruz De La Sierra,2022,1,Partos atendidos por partera en servicio,5
+Tarija,60601,Entre Rios Trj,2022,2,Partos atendidos por partera en servicio,1
+Beni,80601,Loreto,2022,2,Partos atendidos por partera en servicio,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2022,2,Partos atendidos por partera en servicio,6
+Potosí,50204,Chuquihuta Ayllu Jucumani,2022,3,Partos atendidos por partera en servicio,1
+Potosí,50901,"Colcha ""k""",2022,3,Partos atendidos por partera en servicio,1
+Chuquisaca,10902,Culpina,2022,3,Partos atendidos por partera en servicio,1
+Santa Cruz,70402,San Carlos,2022,3,Partos atendidos por partera en servicio,1
+Santa Cruz,71201,San Matias,2022,3,Partos atendidos por partera en servicio,17
+Santa Cruz,71501,Ascencion De Guarayos,2022,5,Partos atendidos por partera en servicio,3
+Beni,80101,Trinidad,2022,5,Partos atendidos por partera en servicio,6
+Santa Cruz,71501,Ascencion De Guarayos,2022,6,Partos atendidos por partera en servicio,1
+Potosí,51203,Porco,2022,6,Partos atendidos por partera en servicio,2
+Santa Cruz,70706,Camiri,2022,7,Partos atendidos por partera en servicio,17
+Chuquisaca,10704,Villa Charcas,2022,8,Partos atendidos por partera en servicio,2
+Beni,80801,Magdalena,2022,9,Partos atendidos por partera en servicio,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2022,9,Partos atendidos por partera en servicio,1
+Beni,80301,Reyes,2022,11,Partos atendidos por partera en servicio,1
+Chuquisaca,10501,Monteagudo,2022,12,Partos atendidos por partera en servicio,25
+Santa Cruz,71501,Ascencion De Guarayos,2022,1,TOTAL,3
+La Paz,20105,El Alto,2022,1,TOTAL,22
+Santa Cruz,70101,Santa Cruz De La Sierra,2022,1,TOTAL,5
+Tarija,60601,Entre Rios Trj,2022,2,TOTAL,1
+Beni,80601,Loreto,2022,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2022,2,TOTAL,6
+Potosí,50204,Chuquihuta Ayllu Jucumani,2022,3,TOTAL,1
+Potosí,50901,"Colcha ""k""",2022,3,TOTAL,1
+Chuquisaca,10902,Culpina,2022,3,TOTAL,1
+Santa Cruz,70402,San Carlos,2022,3,TOTAL,1
+Santa Cruz,71201,San Matias,2022,3,TOTAL,17
+Santa Cruz,71501,Ascencion De Guarayos,2022,5,TOTAL,3
+Beni,80101,Trinidad,2022,5,TOTAL,6
+Santa Cruz,71501,Ascencion De Guarayos,2022,6,TOTAL,1
+Potosí,51203,Porco,2022,6,TOTAL,2
+Santa Cruz,70706,Camiri,2022,7,TOTAL,17
+Chuquisaca,10704,Villa Charcas,2022,8,TOTAL,2
+Beni,80801,Magdalena,2022,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2022,9,TOTAL,1
+Beni,80301,Reyes,2022,11,TOTAL,1
+Chuquisaca,10501,Monteagudo,2022,12,TOTAL,25

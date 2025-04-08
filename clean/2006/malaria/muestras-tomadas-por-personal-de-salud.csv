@@ -1,0 +1,1437 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,51302,Acacio,2006,1,Muestras tomadas por personal de salud,8
+Cochabamba,30201,Aiquile,2006,1,Muestras tomadas por personal de salud,7
+Chuquisaca,10201,Azurduy,2006,1,Muestras tomadas por personal de salud,472
+Beni,80802,Baures,2006,1,Muestras tomadas por personal de salud,29
+Pando,90104,Bella Flor,2006,1,Muestras tomadas por personal de salud,12
+Tarija,60202,Bermejo,2006,1,Muestras tomadas por personal de salud,2885
+Santa Cruz,70401,Buena Vista,2006,1,Muestras tomadas por personal de salud,5
+Santa Cruz,70703,Cabezas,2006,1,Muestras tomadas por personal de salud,7
+La Paz,22001,Caranavi,2006,1,Muestras tomadas por personal de salud,38
+Tarija,60302,Carapari,2006,1,Muestras tomadas por personal de salud,756
+Santa Cruz,70702,Charagua,2006,1,Muestras tomadas por personal de salud,3
+Cochabamba,31204,Chimore,2006,1,Muestras tomadas por personal de salud,2
+Cochabamba,31002,Colomi,2006,1,Muestras tomadas por personal de salud,1
+Chuquisaca,10902,Culpina,2006,1,Muestras tomadas por personal de salud,1
+Santa Cruz,70105,El Torno,2006,1,Muestras tomadas por personal de salud,65
+Tarija,60601,Entre Rios,2006,1,Muestras tomadas por personal de salud,170
+Pando,90503,Eureka (santos Mercado),2006,1,Muestras tomadas por personal de salud,27
+Pando,90203,Filadelfia,2006,1,Muestras tomadas por personal de salud,19
+La Paz,20602,Guanay,2006,1,Muestras tomadas por personal de salud,149
+Beni,80202,Guayaramerin,2006,1,Muestras tomadas por personal de salud,1828
+Chuquisaca,10502,Huacareta,2006,1,Muestras tomadas por personal de salud,23
+Chuquisaca,10703,Incahuasi,2006,1,Muestras tomadas por personal de salud,8
+Pando,90402,Ingavi (humaita),2006,1,Muestras tomadas por personal de salud,20
+La Paz,21105,La Asunta,2006,1,Muestras tomadas por personal de salud,69
+Santa Cruz,70104,La Guardia,2006,1,Muestras tomadas por personal de salud,26
+La Paz,20101,La Paz,2006,1,Muestras tomadas por personal de salud,75
+Santa Cruz,70701,Lagunillas,2006,1,Muestras tomadas por personal de salud,1
+Chuquisaca,11003,Machareti,2006,1,Muestras tomadas por personal de salud,4
+Beni,80801,Magdalena,2006,1,Muestras tomadas por personal de salud,62
+Santa Cruz,70903,Mairana,2006,1,Muestras tomadas por personal de salud,2
+La Paz,20607,Mapiri,2006,1,Muestras tomadas por personal de salud,59
+Cochabamba,31301,Mizque,2006,1,Muestras tomadas por personal de salud,1
+Chuquisaca,10501,Monteagudo,2006,1,Muestras tomadas por personal de salud,140
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,1,Muestras tomadas por personal de salud,70
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,1,Muestras tomadas por personal de salud,152
+Tarija,60201,Padcaya,2006,1,Muestras tomadas por personal de salud,3
+Chuquisaca,10401,Padilla,2006,1,Muestras tomadas por personal de salud,9
+La Paz,21104,Palos Blancos,2006,1,Muestras tomadas por personal de salud,27
+Chuquisaca,10103,Poroma,2006,1,Muestras tomadas por personal de salud,7
+Santa Cruz,70103,Porongo,2006,1,Muestras tomadas por personal de salud,22
+Pando,90102,Porvenir,2006,1,Muestras tomadas por personal de salud,102
+Pando,90301,Puerto Gonzalo Moreno,2006,1,Muestras tomadas por personal de salud,127
+Pando,90201,Puerto Rico,2006,1,Muestras tomadas por personal de salud,345
+Beni,80301,Reyes,2006,1,Muestras tomadas por personal de salud,1
+Beni,80201,Riberalta,2006,1,Muestras tomadas por personal de salud,2902
+Santa Cruz,71302,Saipina,2006,1,Muestras tomadas por personal de salud,58
+Santa Cruz,70301,San Ignacio De Velasco,2006,1,Muestras tomadas por personal de salud,141
+Pando,90302,San Lorenzo(pnd),2006,1,Muestras tomadas por personal de salud,145
+Tarija,60501,San Lorenzo(tja),2006,1,Muestras tomadas por personal de salud,1
+Potosí,50501,San Pedro De Buena Vista,2006,1,Muestras tomadas por personal de salud,11
+Pando,90202,San Pedro(pnd),2006,1,Muestras tomadas por personal de salud,4
+Santa Cruz,70303,San Rafael,2006,1,Muestras tomadas por personal de salud,4
+Pando,90303,Sena,2006,1,Muestras tomadas por personal de salud,756
+Chuquisaca,10403,Sopachuy,2006,1,Muestras tomadas por personal de salud,3
+Tarija,60101,Tarija,2006,1,Muestras tomadas por personal de salud,1
+Chuquisaca,10202,Tarvita,2006,1,Muestras tomadas por personal de salud,4
+La Paz,20608,Teoponte,2006,1,Muestras tomadas por personal de salud,152
+Chuquisaca,10402,Tomina,2006,1,Muestras tomadas por personal de salud,2
+Potosí,50502,Toro Toro,2006,1,Muestras tomadas por personal de salud,2
+Santa Cruz,70801,Vallegrande,2006,1,Muestras tomadas por personal de salud,2
+Tarija,60303,Villa Montes,2006,1,Muestras tomadas por personal de salud,355
+Pando,90502,Villa Nueva (loma Alta),2006,1,Muestras tomadas por personal de salud,111
+Chuquisaca,10801,Villa Serrano,2006,1,Muestras tomadas por personal de salud,1
+Cochabamba,31003,Villa Tunari,2006,1,Muestras tomadas por personal de salud,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,1,Muestras tomadas por personal de salud,126
+Tarija,60301,Yacuiba,2006,1,Muestras tomadas por personal de salud,189
+Santa Cruz,70403,Yapacani,2006,1,Muestras tomadas por personal de salud,19
+Chuquisaca,10301,Zudañez,2006,1,Muestras tomadas por personal de salud,5
+Cochabamba,30201,Aiquile,2006,2,Muestras tomadas por personal de salud,19
+La Paz,20701,Apolo,2006,2,Muestras tomadas por personal de salud,16
+Chuquisaca,10201,Azurduy,2006,2,Muestras tomadas por personal de salud,13
+Beni,80802,Baures,2006,2,Muestras tomadas por personal de salud,16
+Pando,90104,Bella Flor,2006,2,Muestras tomadas por personal de salud,7
+Tarija,60202,Bermejo,2006,2,Muestras tomadas por personal de salud,1146
+Pando,90103,Bolpebra,2006,2,Muestras tomadas por personal de salud,2
+Santa Cruz,70401,Buena Vista,2006,2,Muestras tomadas por personal de salud,8
+Santa Cruz,70703,Cabezas,2006,2,Muestras tomadas por personal de salud,1
+La Paz,22001,Caranavi,2006,2,Muestras tomadas por personal de salud,44
+Tarija,60302,Carapari,2006,2,Muestras tomadas por personal de salud,150
+Chuquisaca,10902,Culpina,2006,2,Muestras tomadas por personal de salud,4
+Santa Cruz,70105,El Torno,2006,2,Muestras tomadas por personal de salud,46
+Tarija,60601,Entre Rios,2006,2,Muestras tomadas por personal de salud,175
+Tarija,60601,Entre Rios,2006,2,Muestras tomadas por personal de salud,3
+Pando,90503,Eureka (santos Mercado),2006,2,Muestras tomadas por personal de salud,40
+Beni,80402,Exaltacion,2006,2,Muestras tomadas por personal de salud,1
+Pando,90203,Filadelfia,2006,2,Muestras tomadas por personal de salud,37
+Santa Cruz,71002,General Saavedra,2006,2,Muestras tomadas por personal de salud,1
+La Paz,20602,Guanay,2006,2,Muestras tomadas por personal de salud,213
+Beni,80202,Guayaramerin,2006,2,Muestras tomadas por personal de salud,2211
+Chuquisaca,10502,Huacareta,2006,2,Muestras tomadas por personal de salud,34
+Pando,90402,Ingavi (humaita),2006,2,Muestras tomadas por personal de salud,17
+La Paz,21105,La Asunta,2006,2,Muestras tomadas por personal de salud,77
+Santa Cruz,70104,La Guardia,2006,2,Muestras tomadas por personal de salud,13
+La Paz,20101,La Paz,2006,2,Muestras tomadas por personal de salud,117
+Santa Cruz,70701,Lagunillas,2006,2,Muestras tomadas por personal de salud,3
+Chuquisaca,11003,Machareti,2006,2,Muestras tomadas por personal de salud,5
+Beni,80801,Magdalena,2006,2,Muestras tomadas por personal de salud,133
+La Paz,20607,Mapiri,2006,2,Muestras tomadas por personal de salud,87
+Cochabamba,31301,Mizque,2006,2,Muestras tomadas por personal de salud,5
+Chuquisaca,10501,Monteagudo,2006,2,Muestras tomadas por personal de salud,221
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,2,Muestras tomadas por personal de salud,87
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,2,Muestras tomadas por personal de salud,364
+Tarija,60201,Padcaya,2006,2,Muestras tomadas por personal de salud,138
+Chuquisaca,10401,Padilla,2006,2,Muestras tomadas por personal de salud,24
+La Paz,21104,Palos Blancos,2006,2,Muestras tomadas por personal de salud,144
+Santa Cruz,70902,Pampa Grande,2006,2,Muestras tomadas por personal de salud,2
+Chuquisaca,10103,Poroma,2006,2,Muestras tomadas por personal de salud,14
+Santa Cruz,70103,Porongo,2006,2,Muestras tomadas por personal de salud,17
+Santa Cruz,70601,Portachuelo,2006,2,Muestras tomadas por personal de salud,1
+Pando,90102,Porvenir,2006,2,Muestras tomadas por personal de salud,33
+Pando,90301,Puerto Gonzalo Moreno,2006,2,Muestras tomadas por personal de salud,219
+Pando,90201,Puerto Rico,2006,2,Muestras tomadas por personal de salud,314
+Beni,80201,Riberalta,2006,2,Muestras tomadas por personal de salud,3900
+Santa Cruz,71302,Saipina,2006,2,Muestras tomadas por personal de salud,188
+La Paz,21502,San Buena Ventura,2006,2,Muestras tomadas por personal de salud,11
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,Muestras tomadas por personal de salud,600
+Pando,90302,San Lorenzo(pnd),2006,2,Muestras tomadas por personal de salud,112
+Potosí,50501,San Pedro De Buena Vista,2006,2,Muestras tomadas por personal de salud,24
+Santa Cruz,70303,San Rafael,2006,2,Muestras tomadas por personal de salud,2
+Beni,80303,Santa Rosa,2006,2,Muestras tomadas por personal de salud,25
+Pando,90303,Sena,2006,2,Muestras tomadas por personal de salud,750
+Chuquisaca,10403,Sopachuy,2006,2,Muestras tomadas por personal de salud,8
+Chuquisaca,10202,Tarvita,2006,2,Muestras tomadas por personal de salud,2
+La Paz,20608,Teoponte,2006,2,Muestras tomadas por personal de salud,63
+Potosí,50502,Toro Toro,2006,2,Muestras tomadas por personal de salud,6
+Santa Cruz,70801,Vallegrande,2006,2,Muestras tomadas por personal de salud,14
+Cochabamba,31302,Vila Vila,2006,2,Muestras tomadas por personal de salud,1
+Tarija,60303,Villa Montes,2006,2,Muestras tomadas por personal de salud,249
+Pando,90502,Villa Nueva (loma Alta),2006,2,Muestras tomadas por personal de salud,19
+Chuquisaca,10801,Villa Serrano,2006,2,Muestras tomadas por personal de salud,1
+Cochabamba,31003,Villa Tunari,2006,2,Muestras tomadas por personal de salud,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,2,Muestras tomadas por personal de salud,151
+Tarija,60301,Yacuiba,2006,2,Muestras tomadas por personal de salud,198
+La Paz,20701,Apolo,2006,3,Muestras tomadas por personal de salud,5
+Chuquisaca,10201,Azurduy,2006,3,Muestras tomadas por personal de salud,16
+Beni,80802,Baures,2006,3,Muestras tomadas por personal de salud,30
+Pando,90104,Bella Flor,2006,3,Muestras tomadas por personal de salud,2
+Tarija,60202,Bermejo,2006,3,Muestras tomadas por personal de salud,1046
+Santa Cruz,70401,Buena Vista,2006,3,Muestras tomadas por personal de salud,3
+La Paz,22001,Caranavi,2006,3,Muestras tomadas por personal de salud,70
+Tarija,60302,Carapari,2006,3,Muestras tomadas por personal de salud,687
+Pando,90101,Cobija,2006,3,Muestras tomadas por personal de salud,16
+Chuquisaca,10902,Culpina,2006,3,Muestras tomadas por personal de salud,1
+Santa Cruz,70105,El Torno,2006,3,Muestras tomadas por personal de salud,58
+Tarija,60601,Entre Rios,2006,3,Muestras tomadas por personal de salud,308
+Tarija,60601,Entre Rios,2006,3,Muestras tomadas por personal de salud,2
+Pando,90503,Eureka (santos Mercado),2006,3,Muestras tomadas por personal de salud,58
+Pando,90203,Filadelfia,2006,3,Muestras tomadas por personal de salud,13
+Santa Cruz,71002,General Saavedra,2006,3,Muestras tomadas por personal de salud,1
+La Paz,20602,Guanay,2006,3,Muestras tomadas por personal de salud,93
+Beni,80202,Guayaramerin,2006,3,Muestras tomadas por personal de salud,2833
+Chuquisaca,10502,Huacareta,2006,3,Muestras tomadas por personal de salud,25
+Beni,80803,Huaracaje,2006,3,Muestras tomadas por personal de salud,12
+Pando,90402,Ingavi (humaita),2006,3,Muestras tomadas por personal de salud,29
+La Paz,21105,La Asunta,2006,3,Muestras tomadas por personal de salud,129
+Santa Cruz,70104,La Guardia,2006,3,Muestras tomadas por personal de salud,9
+Santa Cruz,70701,Lagunillas,2006,3,Muestras tomadas por personal de salud,4
+Chuquisaca,11003,Machareti,2006,3,Muestras tomadas por personal de salud,3
+Beni,80801,Magdalena,2006,3,Muestras tomadas por personal de salud,113
+La Paz,20607,Mapiri,2006,3,Muestras tomadas por personal de salud,91
+Cochabamba,31301,Mizque,2006,3,Muestras tomadas por personal de salud,6
+Chuquisaca,10303,Mojocoya,2006,3,Muestras tomadas por personal de salud,4
+Chuquisaca,10501,Monteagudo,2006,3,Muestras tomadas por personal de salud,147
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,3,Muestras tomadas por personal de salud,102
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,3,Muestras tomadas por personal de salud,43
+Cochabamba,30203,Omereque,2006,3,Muestras tomadas por personal de salud,1
+Tarija,60201,Padcaya,2006,3,Muestras tomadas por personal de salud,110
+Chuquisaca,10401,Padilla,2006,3,Muestras tomadas por personal de salud,5
+La Paz,21104,Palos Blancos,2006,3,Muestras tomadas por personal de salud,55
+Santa Cruz,70902,Pampa Grande,2006,3,Muestras tomadas por personal de salud,1
+Chuquisaca,10103,Poroma,2006,3,Muestras tomadas por personal de salud,10
+Santa Cruz,70103,Porongo,2006,3,Muestras tomadas por personal de salud,18
+Pando,90102,Porvenir,2006,3,Muestras tomadas por personal de salud,40
+Pando,90301,Puerto Gonzalo Moreno,2006,3,Muestras tomadas por personal de salud,279
+Pando,90201,Puerto Rico,2006,3,Muestras tomadas por personal de salud,373
+Beni,80201,Riberalta,2006,3,Muestras tomadas por personal de salud,5359
+Santa Cruz,71302,Saipina,2006,3,Muestras tomadas por personal de salud,172
+La Paz,21502,San Buena Ventura,2006,3,Muestras tomadas por personal de salud,2
+Santa Cruz,70301,San Ignacio De Velasco,2006,3,Muestras tomadas por personal de salud,118
+Pando,90302,San Lorenzo(pnd),2006,3,Muestras tomadas por personal de salud,201
+Tarija,60501,San Lorenzo(tja),2006,3,Muestras tomadas por personal de salud,1
+Chuquisaca,10702,San Lucas,2006,3,Muestras tomadas por personal de salud,1
+Santa Cruz,70303,San Rafael,2006,3,Muestras tomadas por personal de salud,2
+Beni,80303,Santa Rosa,2006,3,Muestras tomadas por personal de salud,5
+Pando,90303,Sena,2006,3,Muestras tomadas por personal de salud,123
+Chuquisaca,10403,Sopachuy,2006,3,Muestras tomadas por personal de salud,3
+Chuquisaca,10202,Tarvita,2006,3,Muestras tomadas por personal de salud,1
+La Paz,20608,Teoponte,2006,3,Muestras tomadas por personal de salud,20
+Chuquisaca,10402,Tomina,2006,3,Muestras tomadas por personal de salud,2
+Potosí,50502,Toro Toro,2006,3,Muestras tomadas por personal de salud,11
+Santa Cruz,70801,Vallegrande,2006,3,Muestras tomadas por personal de salud,4
+Tarija,60303,Villa Montes,2006,3,Muestras tomadas por personal de salud,434
+Pando,90502,Villa Nueva (loma Alta),2006,3,Muestras tomadas por personal de salud,88
+Cochabamba,31003,Villa Tunari,2006,3,Muestras tomadas por personal de salud,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,3,Muestras tomadas por personal de salud,84
+Tarija,60301,Yacuiba,2006,3,Muestras tomadas por personal de salud,168
+Santa Cruz,70403,Yapacani,2006,3,Muestras tomadas por personal de salud,25
+Chuquisaca,10301,Zudañez,2006,3,Muestras tomadas por personal de salud,3
+Potosí,51302,Acacio,2006,4,Muestras tomadas por personal de salud,34
+Chuquisaca,10201,Azurduy,2006,4,Muestras tomadas por personal de salud,12
+Beni,80802,Baures,2006,4,Muestras tomadas por personal de salud,83
+Pando,90104,Bella Flor,2006,4,Muestras tomadas por personal de salud,4
+Tarija,60202,Bermejo,2006,4,Muestras tomadas por personal de salud,821
+Santa Cruz,70401,Buena Vista,2006,4,Muestras tomadas por personal de salud,1
+La Paz,22001,Caranavi,2006,4,Muestras tomadas por personal de salud,48
+Tarija,60302,Carapari,2006,4,Muestras tomadas por personal de salud,342
+Santa Cruz,70102,Cotoca,2006,4,Muestras tomadas por personal de salud,1
+Chuquisaca,10902,Culpina,2006,4,Muestras tomadas por personal de salud,1
+Santa Cruz,70105,El Torno,2006,4,Muestras tomadas por personal de salud,100
+Tarija,60601,Entre Rios,2006,4,Muestras tomadas por personal de salud,139
+Pando,90503,Eureka (santos Mercado),2006,4,Muestras tomadas por personal de salud,33
+Pando,90203,Filadelfia,2006,4,Muestras tomadas por personal de salud,20
+La Paz,20602,Guanay,2006,4,Muestras tomadas por personal de salud,73
+Beni,80202,Guayaramerin,2006,4,Muestras tomadas por personal de salud,2098
+Chuquisaca,10502,Huacareta,2006,4,Muestras tomadas por personal de salud,12
+Beni,80803,Huaracaje,2006,4,Muestras tomadas por personal de salud,8
+Pando,90402,Ingavi (humaita),2006,4,Muestras tomadas por personal de salud,21
+La Paz,21501,Ixiamas,2006,4,Muestras tomadas por personal de salud,9
+La Paz,21105,La Asunta,2006,4,Muestras tomadas por personal de salud,62
+Santa Cruz,70104,La Guardia,2006,4,Muestras tomadas por personal de salud,12
+La Paz,20101,La Paz,2006,4,Muestras tomadas por personal de salud,61
+Santa Cruz,70701,Lagunillas,2006,4,Muestras tomadas por personal de salud,1
+Beni,80801,Magdalena,2006,4,Muestras tomadas por personal de salud,80
+La Paz,20607,Mapiri,2006,4,Muestras tomadas por personal de salud,47
+Cochabamba,31301,Mizque,2006,4,Muestras tomadas por personal de salud,8
+Chuquisaca,10303,Mojocoya,2006,4,Muestras tomadas por personal de salud,3
+Chuquisaca,10501,Monteagudo,2006,4,Muestras tomadas por personal de salud,195
+Cochabamba,30302,Morochata,2006,4,Muestras tomadas por personal de salud,2
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,4,Muestras tomadas por personal de salud,77
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,4,Muestras tomadas por personal de salud,126
+Tarija,60201,Padcaya,2006,4,Muestras tomadas por personal de salud,19
+La Paz,21104,Palos Blancos,2006,4,Muestras tomadas por personal de salud,126
+Santa Cruz,70902,Pampa Grande,2006,4,Muestras tomadas por personal de salud,1
+Chuquisaca,10103,Poroma,2006,4,Muestras tomadas por personal de salud,3
+Santa Cruz,70103,Porongo,2006,4,Muestras tomadas por personal de salud,27
+Pando,90102,Porvenir,2006,4,Muestras tomadas por personal de salud,30
+Pando,90301,Puerto Gonzalo Moreno,2006,4,Muestras tomadas por personal de salud,23
+Pando,90201,Puerto Rico,2006,4,Muestras tomadas por personal de salud,262
+Cochabamba,31205,Puerto Villarroel,2006,4,Muestras tomadas por personal de salud,2
+Beni,80301,Reyes,2006,4,Muestras tomadas por personal de salud,2
+Beni,80201,Riberalta,2006,4,Muestras tomadas por personal de salud,4494
+Santa Cruz,71302,Saipina,2006,4,Muestras tomadas por personal de salud,68
+Santa Cruz,70301,San Ignacio De Velasco,2006,4,Muestras tomadas por personal de salud,53
+Santa Cruz,71104,San Julian,2006,4,Muestras tomadas por personal de salud,2
+Pando,90302,San Lorenzo(pnd),2006,4,Muestras tomadas por personal de salud,170
+Potosí,50501,San Pedro De Buena Vista,2006,4,Muestras tomadas por personal de salud,8
+Pando,90303,Sena,2006,4,Muestras tomadas por personal de salud,157
+Chuquisaca,10403,Sopachuy,2006,4,Muestras tomadas por personal de salud,4
+Chuquisaca,10101,Sucre,2006,4,Muestras tomadas por personal de salud,1
+Cochabamba,30401,Tarata,2006,4,Muestras tomadas por personal de salud,1
+Chuquisaca,10202,Tarvita,2006,4,Muestras tomadas por personal de salud,1
+La Paz,20608,Teoponte,2006,4,Muestras tomadas por personal de salud,22
+La Paz,20606,Tipuani,2006,4,Muestras tomadas por personal de salud,1
+Potosí,50502,Toro Toro,2006,4,Muestras tomadas por personal de salud,3
+Santa Cruz,70801,Vallegrande,2006,4,Muestras tomadas por personal de salud,4
+Tarija,60303,Villa Montes,2006,4,Muestras tomadas por personal de salud,162
+Pando,90502,Villa Nueva (loma Alta),2006,4,Muestras tomadas por personal de salud,40
+Cochabamba,31003,Villa Tunari,2006,4,Muestras tomadas por personal de salud,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,4,Muestras tomadas por personal de salud,77
+Tarija,60301,Yacuiba,2006,4,Muestras tomadas por personal de salud,80
+Potosí,51302,Acacio,2006,5,Muestras tomadas por personal de salud,34
+Chuquisaca,10201,Azurduy,2006,5,Muestras tomadas por personal de salud,9
+Beni,80802,Baures,2006,5,Muestras tomadas por personal de salud,44
+Pando,90104,Bella Flor,2006,5,Muestras tomadas por personal de salud,1
+Tarija,60202,Bermejo,2006,5,Muestras tomadas por personal de salud,4
+Santa Cruz,70401,Buena Vista,2006,5,Muestras tomadas por personal de salud,1
+Santa Cruz,70703,Cabezas,2006,5,Muestras tomadas por personal de salud,3
+La Paz,22001,Caranavi,2006,5,Muestras tomadas por personal de salud,135
+Tarija,60302,Carapari,2006,5,Muestras tomadas por personal de salud,78
+Pando,90101,Cobija,2006,5,Muestras tomadas por personal de salud,11
+Chuquisaca,10902,Culpina,2006,5,Muestras tomadas por personal de salud,1
+Santa Cruz,70105,El Torno,2006,5,Muestras tomadas por personal de salud,64
+Tarija,60601,Entre Rios,2006,5,Muestras tomadas por personal de salud,117
+Pando,90503,Eureka (santos Mercado),2006,5,Muestras tomadas por personal de salud,33
+Pando,90203,Filadelfia,2006,5,Muestras tomadas por personal de salud,3
+La Paz,20602,Guanay,2006,5,Muestras tomadas por personal de salud,127
+Beni,80202,Guayaramerin,2006,5,Muestras tomadas por personal de salud,2294
+Beni,80803,Huaracaje,2006,5,Muestras tomadas por personal de salud,14
+Chuquisaca,10304,Icla,2006,5,Muestras tomadas por personal de salud,2
+La Paz,21105,La Asunta,2006,5,Muestras tomadas por personal de salud,77
+La Paz,20101,La Paz,2006,5,Muestras tomadas por personal de salud,48
+Beni,80801,Magdalena,2006,5,Muestras tomadas por personal de salud,107
+La Paz,20607,Mapiri,2006,5,Muestras tomadas por personal de salud,54
+Cochabamba,31301,Mizque,2006,5,Muestras tomadas por personal de salud,14
+Chuquisaca,10501,Monteagudo,2006,5,Muestras tomadas por personal de salud,97
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,5,Muestras tomadas por personal de salud,94
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,5,Muestras tomadas por personal de salud,53
+Tarija,60201,Padcaya,2006,5,Muestras tomadas por personal de salud,97
+La Paz,21104,Palos Blancos,2006,5,Muestras tomadas por personal de salud,50
+Chuquisaca,10103,Poroma,2006,5,Muestras tomadas por personal de salud,1
+Santa Cruz,70103,Porongo,2006,5,Muestras tomadas por personal de salud,37
+Pando,90102,Porvenir,2006,5,Muestras tomadas por personal de salud,34
+Pando,90301,Puerto Gonzalo Moreno,2006,5,Muestras tomadas por personal de salud,8
+Pando,90201,Puerto Rico,2006,5,Muestras tomadas por personal de salud,333
+Beni,80301,Reyes,2006,5,Muestras tomadas por personal de salud,38
+Beni,80201,Riberalta,2006,5,Muestras tomadas por personal de salud,4502
+Santa Cruz,71302,Saipina,2006,5,Muestras tomadas por personal de salud,50
+Beni,80302,San Borja,2006,5,Muestras tomadas por personal de salud,1
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,Muestras tomadas por personal de salud,49
+Pando,90302,San Lorenzo(pnd),2006,5,Muestras tomadas por personal de salud,321
+Tarija,60501,San Lorenzo(tja),2006,5,Muestras tomadas por personal de salud,2
+Potosí,50501,San Pedro De Buena Vista,2006,5,Muestras tomadas por personal de salud,2
+Beni,80303,Santa Rosa,2006,5,Muestras tomadas por personal de salud,3
+Pando,90303,Sena,2006,5,Muestras tomadas por personal de salud,162
+Chuquisaca,10403,Sopachuy,2006,5,Muestras tomadas por personal de salud,3
+Chuquisaca,10202,Tarvita,2006,5,Muestras tomadas por personal de salud,2
+La Paz,20608,Teoponte,2006,5,Muestras tomadas por personal de salud,54
+La Paz,20606,Tipuani,2006,5,Muestras tomadas por personal de salud,2
+Potosí,50502,Toro Toro,2006,5,Muestras tomadas por personal de salud,6
+Santa Cruz,70801,Vallegrande,2006,5,Muestras tomadas por personal de salud,8
+Tarija,60303,Villa Montes,2006,5,Muestras tomadas por personal de salud,215
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,5,Muestras tomadas por personal de salud,54
+Tarija,60301,Yacuiba,2006,5,Muestras tomadas por personal de salud,81
+Chuquisaca,10301,Zudañez,2006,5,Muestras tomadas por personal de salud,2
+Potosí,51302,Acacio,2006,6,Muestras tomadas por personal de salud,25
+Chuquisaca,10201,Azurduy,2006,6,Muestras tomadas por personal de salud,489
+Beni,80802,Baures,2006,6,Muestras tomadas por personal de salud,32
+Pando,90104,Bella Flor,2006,6,Muestras tomadas por personal de salud,3
+Tarija,60202,Bermejo,2006,6,Muestras tomadas por personal de salud,573
+Santa Cruz,70401,Buena Vista,2006,6,Muestras tomadas por personal de salud,5
+La Paz,22001,Caranavi,2006,6,Muestras tomadas por personal de salud,60
+Tarija,60302,Carapari,2006,6,Muestras tomadas por personal de salud,80
+Cochabamba,31204,Chimore,2006,6,Muestras tomadas por personal de salud,11
+Pando,90101,Cobija,2006,6,Muestras tomadas por personal de salud,8
+Santa Cruz,70102,Cotoca,2006,6,Muestras tomadas por personal de salud,2
+Santa Cruz,70105,El Torno,2006,6,Muestras tomadas por personal de salud,21
+Tarija,60601,Entre Rios,2006,6,Muestras tomadas por personal de salud,48
+Pando,90503,Eureka (santos Mercado),2006,6,Muestras tomadas por personal de salud,40
+Beni,80402,Exaltacion,2006,6,Muestras tomadas por personal de salud,2
+Pando,90203,Filadelfia,2006,6,Muestras tomadas por personal de salud,12
+La Paz,20602,Guanay,2006,6,Muestras tomadas por personal de salud,66
+Beni,80202,Guayaramerin,2006,6,Muestras tomadas por personal de salud,1972
+Chuquisaca,10502,Huacareta,2006,6,Muestras tomadas por personal de salud,10
+Beni,80803,Huaracaje,2006,6,Muestras tomadas por personal de salud,10
+Pando,90402,Ingavi (humaita),2006,6,Muestras tomadas por personal de salud,37
+La Paz,21501,Ixiamas,2006,6,Muestras tomadas por personal de salud,5
+La Paz,21105,La Asunta,2006,6,Muestras tomadas por personal de salud,91
+Santa Cruz,70701,Lagunillas,2006,6,Muestras tomadas por personal de salud,1
+Beni,80801,Magdalena,2006,6,Muestras tomadas por personal de salud,57
+La Paz,20607,Mapiri,2006,6,Muestras tomadas por personal de salud,50
+Cochabamba,31301,Mizque,2006,6,Muestras tomadas por personal de salud,4
+Chuquisaca,10501,Monteagudo,2006,6,Muestras tomadas por personal de salud,54
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,6,Muestras tomadas por personal de salud,65
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,6,Muestras tomadas por personal de salud,30
+Cochabamba,30203,Omereque,2006,6,Muestras tomadas por personal de salud,1
+Tarija,60201,Padcaya,2006,6,Muestras tomadas por personal de salud,49
+La Paz,21104,Palos Blancos,2006,6,Muestras tomadas por personal de salud,26
+Santa Cruz,70103,Porongo,2006,6,Muestras tomadas por personal de salud,23
+Pando,90102,Porvenir,2006,6,Muestras tomadas por personal de salud,71
+Pando,90301,Puerto Gonzalo Moreno,2006,6,Muestras tomadas por personal de salud,4
+Pando,90201,Puerto Rico,2006,6,Muestras tomadas por personal de salud,473
+Beni,80201,Riberalta,2006,6,Muestras tomadas por personal de salud,3776
+Santa Cruz,71302,Saipina,2006,6,Muestras tomadas por personal de salud,70
+Beni,80302,San Borja,2006,6,Muestras tomadas por personal de salud,2
+La Paz,21502,San Buena Ventura,2006,6,Muestras tomadas por personal de salud,1
+Santa Cruz,70301,San Ignacio De Velasco,2006,6,Muestras tomadas por personal de salud,71
+Pando,90302,San Lorenzo(pnd),2006,6,Muestras tomadas por personal de salud,153
+Santa Cruz,70302,San Miguel De Velasco,2006,6,Muestras tomadas por personal de salud,2
+Potosí,50501,San Pedro De Buena Vista,2006,6,Muestras tomadas por personal de salud,1
+Pando,90202,San Pedro(pnd),2006,6,Muestras tomadas por personal de salud,3
+Santa Cruz,70303,San Rafael,2006,6,Muestras tomadas por personal de salud,1
+Pando,90303,Sena,2006,6,Muestras tomadas por personal de salud,104
+Chuquisaca,10403,Sopachuy,2006,6,Muestras tomadas por personal de salud,5
+Chuquisaca,10101,Sucre,2006,6,Muestras tomadas por personal de salud,2
+Chuquisaca,10202,Tarvita,2006,6,Muestras tomadas por personal de salud,2
+La Paz,20608,Teoponte,2006,6,Muestras tomadas por personal de salud,84
+Chuquisaca,10402,Tomina,2006,6,Muestras tomadas por personal de salud,2
+Potosí,50502,Toro Toro,2006,6,Muestras tomadas por personal de salud,1
+Santa Cruz,70801,Vallegrande,2006,6,Muestras tomadas por personal de salud,1
+Tarija,60303,Villa Montes,2006,6,Muestras tomadas por personal de salud,145
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,6,Muestras tomadas por personal de salud,314
+Tarija,60301,Yacuiba,2006,6,Muestras tomadas por personal de salud,27
+Potosí,51302,Acacio,2006,7,Muestras tomadas por personal de salud,24
+Santa Cruz,71501,Ascencion De Guarayos,2006,7,Muestras tomadas por personal de salud,1
+Chuquisaca,10201,Azurduy,2006,7,Muestras tomadas por personal de salud,166
+Beni,80802,Baures,2006,7,Muestras tomadas por personal de salud,7
+Pando,90104,Bella Flor,2006,7,Muestras tomadas por personal de salud,31
+Tarija,60202,Bermejo,2006,7,Muestras tomadas por personal de salud,11
+Santa Cruz,70401,Buena Vista,2006,7,Muestras tomadas por personal de salud,1
+Chuquisaca,10701,Camargo,2006,7,Muestras tomadas por personal de salud,2
+La Paz,22001,Caranavi,2006,7,Muestras tomadas por personal de salud,23
+Tarija,60302,Carapari,2006,7,Muestras tomadas por personal de salud,241
+Santa Cruz,70105,El Torno,2006,7,Muestras tomadas por personal de salud,29
+Tarija,60601,Entre Rios,2006,7,Muestras tomadas por personal de salud,72
+Pando,90503,Eureka (santos Mercado),2006,7,Muestras tomadas por personal de salud,20
+Pando,90203,Filadelfia,2006,7,Muestras tomadas por personal de salud,11
+La Paz,20602,Guanay,2006,7,Muestras tomadas por personal de salud,92
+Beni,80202,Guayaramerin,2006,7,Muestras tomadas por personal de salud,1217
+Santa Cruz,70705,Gutierrez,2006,7,Muestras tomadas por personal de salud,1
+Chuquisaca,10502,Huacareta,2006,7,Muestras tomadas por personal de salud,5
+Beni,80803,Huaracaje,2006,7,Muestras tomadas por personal de salud,21
+Chuquisaca,10703,Incahuasi,2006,7,Muestras tomadas por personal de salud,4
+Pando,90402,Ingavi (humaita),2006,7,Muestras tomadas por personal de salud,32
+La Paz,21105,La Asunta,2006,7,Muestras tomadas por personal de salud,43
+Santa Cruz,70104,La Guardia,2006,7,Muestras tomadas por personal de salud,1
+La Paz,20101,La Paz,2006,7,Muestras tomadas por personal de salud,72
+Beni,80801,Magdalena,2006,7,Muestras tomadas por personal de salud,42
+La Paz,20607,Mapiri,2006,7,Muestras tomadas por personal de salud,83
+Chuquisaca,10501,Monteagudo,2006,7,Muestras tomadas por personal de salud,638
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,7,Muestras tomadas por personal de salud,15
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,7,Muestras tomadas por personal de salud,7
+Tarija,60201,Padcaya,2006,7,Muestras tomadas por personal de salud,61
+La Paz,21104,Palos Blancos,2006,7,Muestras tomadas por personal de salud,23
+Santa Cruz,70103,Porongo,2006,7,Muestras tomadas por personal de salud,15
+Pando,90102,Porvenir,2006,7,Muestras tomadas por personal de salud,60
+Chuquisaca,10302,Presto,2006,7,Muestras tomadas por personal de salud,1
+Pando,90301,Puerto Gonzalo Moreno,2006,7,Muestras tomadas por personal de salud,6
+Pando,90201,Puerto Rico,2006,7,Muestras tomadas por personal de salud,586
+Beni,80201,Riberalta,2006,7,Muestras tomadas por personal de salud,1824
+Santa Cruz,71302,Saipina,2006,7,Muestras tomadas por personal de salud,101
+Beni,80302,San Borja,2006,7,Muestras tomadas por personal de salud,1
+La Paz,21502,San Buena Ventura,2006,7,Muestras tomadas por personal de salud,3
+Santa Cruz,70301,San Ignacio De Velasco,2006,7,Muestras tomadas por personal de salud,21
+Pando,90302,San Lorenzo(pnd),2006,7,Muestras tomadas por personal de salud,143
+Santa Cruz,70302,San Miguel De Velasco,2006,7,Muestras tomadas por personal de salud,1
+Potosí,50501,San Pedro De Buena Vista,2006,7,Muestras tomadas por personal de salud,1
+Pando,90202,San Pedro(pnd),2006,7,Muestras tomadas por personal de salud,10
+Beni,80702,San Ramon,2006,7,Muestras tomadas por personal de salud,1
+Pando,90303,Sena,2006,7,Muestras tomadas por personal de salud,207
+Chuquisaca,10403,Sopachuy,2006,7,Muestras tomadas por personal de salud,1
+La Paz,20608,Teoponte,2006,7,Muestras tomadas por personal de salud,28
+Chuquisaca,10402,Tomina,2006,7,Muestras tomadas por personal de salud,2
+Potosí,50502,Toro Toro,2006,7,Muestras tomadas por personal de salud,11
+Tarija,60303,Villa Montes,2006,7,Muestras tomadas por personal de salud,251
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,7,Muestras tomadas por personal de salud,310
+Tarija,60301,Yacuiba,2006,7,Muestras tomadas por personal de salud,23
+Potosí,51302,Acacio,2006,8,Muestras tomadas por personal de salud,29
+Cochabamba,30201,Aiquile,2006,8,Muestras tomadas por personal de salud,1
+Chuquisaca,10201,Azurduy,2006,8,Muestras tomadas por personal de salud,193
+Beni,80802,Baures,2006,8,Muestras tomadas por personal de salud,52
+Pando,90104,Bella Flor,2006,8,Muestras tomadas por personal de salud,156
+Tarija,60202,Bermejo,2006,8,Muestras tomadas por personal de salud,841
+Pando,90103,Bolpebra,2006,8,Muestras tomadas por personal de salud,1
+Santa Cruz,70401,Buena Vista,2006,8,Muestras tomadas por personal de salud,13
+Santa Cruz,70703,Cabezas,2006,8,Muestras tomadas por personal de salud,4
+La Paz,22001,Caranavi,2006,8,Muestras tomadas por personal de salud,14
+Tarija,60302,Carapari,2006,8,Muestras tomadas por personal de salud,459
+Chuquisaca,10902,Culpina,2006,8,Muestras tomadas por personal de salud,1
+Santa Cruz,70105,El Torno,2006,8,Muestras tomadas por personal de salud,27
+Tarija,60601,Entre Rios,2006,8,Muestras tomadas por personal de salud,126
+Pando,90503,Eureka (santos Mercado),2006,8,Muestras tomadas por personal de salud,25
+Pando,90203,Filadelfia,2006,8,Muestras tomadas por personal de salud,21
+La Paz,20602,Guanay,2006,8,Muestras tomadas por personal de salud,173
+Beni,80202,Guayaramerin,2006,8,Muestras tomadas por personal de salud,2095
+Chuquisaca,10502,Huacareta,2006,8,Muestras tomadas por personal de salud,2
+Beni,80803,Huaracaje,2006,8,Muestras tomadas por personal de salud,10
+Chuquisaca,10703,Incahuasi,2006,8,Muestras tomadas por personal de salud,4
+Pando,90402,Ingavi (humaita),2006,8,Muestras tomadas por personal de salud,52
+La Paz,21501,Ixiamas,2006,8,Muestras tomadas por personal de salud,1
+La Paz,21105,La Asunta,2006,8,Muestras tomadas por personal de salud,23
+Santa Cruz,70104,La Guardia,2006,8,Muestras tomadas por personal de salud,13
+La Paz,20101,La Paz,2006,8,Muestras tomadas por personal de salud,42
+Beni,80801,Magdalena,2006,8,Muestras tomadas por personal de salud,51
+La Paz,20607,Mapiri,2006,8,Muestras tomadas por personal de salud,337
+Cochabamba,31301,Mizque,2006,8,Muestras tomadas por personal de salud,2
+Chuquisaca,10303,Mojocoya,2006,8,Muestras tomadas por personal de salud,2
+Chuquisaca,10501,Monteagudo,2006,8,Muestras tomadas por personal de salud,110
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,8,Muestras tomadas por personal de salud,121
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,8,Muestras tomadas por personal de salud,35
+Potosí,50404,Ocuri,2006,8,Muestras tomadas por personal de salud,1
+Tarija,60201,Padcaya,2006,8,Muestras tomadas por personal de salud,13
+Chuquisaca,10401,Padilla,2006,8,Muestras tomadas por personal de salud,2
+La Paz,21104,Palos Blancos,2006,8,Muestras tomadas por personal de salud,27
+Chuquisaca,10103,Poroma,2006,8,Muestras tomadas por personal de salud,8
+Santa Cruz,70103,Porongo,2006,8,Muestras tomadas por personal de salud,16
+Pando,90102,Porvenir,2006,8,Muestras tomadas por personal de salud,138
+Chuquisaca,10302,Presto,2006,8,Muestras tomadas por personal de salud,1
+Pando,90301,Puerto Gonzalo Moreno,2006,8,Muestras tomadas por personal de salud,12
+Pando,90201,Puerto Rico,2006,8,Muestras tomadas por personal de salud,56
+Beni,80201,Riberalta,2006,8,Muestras tomadas por personal de salud,2039
+Santa Cruz,71302,Saipina,2006,8,Muestras tomadas por personal de salud,174
+Santa Cruz,70901,Samaipata,2006,8,Muestras tomadas por personal de salud,2
+Beni,80302,San Borja,2006,8,Muestras tomadas por personal de salud,3
+La Paz,21502,San Buena Ventura,2006,8,Muestras tomadas por personal de salud,5
+Santa Cruz,70301,San Ignacio De Velasco,2006,8,Muestras tomadas por personal de salud,327
+Santa Cruz,71104,San Julian,2006,8,Muestras tomadas por personal de salud,1
+Pando,90302,San Lorenzo(pnd),2006,8,Muestras tomadas por personal de salud,188
+Potosí,50501,San Pedro De Buena Vista,2006,8,Muestras tomadas por personal de salud,32
+Pando,90202,San Pedro(pnd),2006,8,Muestras tomadas por personal de salud,11
+Santa Cruz,70303,San Rafael,2006,8,Muestras tomadas por personal de salud,1
+Santa Cruz,70602,Santa Rosa Del Sara,2006,8,Muestras tomadas por personal de salud,3
+Pando,90303,Sena,2006,8,Muestras tomadas por personal de salud,344
+Chuquisaca,10403,Sopachuy,2006,8,Muestras tomadas por personal de salud,3
+Chuquisaca,10101,Sucre,2006,8,Muestras tomadas por personal de salud,3
+Chuquisaca,10202,Tarvita,2006,8,Muestras tomadas por personal de salud,2
+La Paz,20608,Teoponte,2006,8,Muestras tomadas por personal de salud,160
+Cochabamba,31601,Tiraque (cbba),2006,8,Muestras tomadas por personal de salud,1
+Chuquisaca,10402,Tomina,2006,8,Muestras tomadas por personal de salud,7
+Potosí,50502,Toro Toro,2006,8,Muestras tomadas por personal de salud,2
+Tarija,60303,Villa Montes,2006,8,Muestras tomadas por personal de salud,166
+Pando,90502,Villa Nueva (loma Alta),2006,8,Muestras tomadas por personal de salud,50
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,8,Muestras tomadas por personal de salud,40
+Tarija,60301,Yacuiba,2006,8,Muestras tomadas por personal de salud,25
+Chuquisaca,10201,Azurduy,2006,9,Muestras tomadas por personal de salud,128
+Beni,80802,Baures,2006,9,Muestras tomadas por personal de salud,205
+Pando,90104,Bella Flor,2006,9,Muestras tomadas por personal de salud,148
+Tarija,60202,Bermejo,2006,9,Muestras tomadas por personal de salud,971
+Pando,90103,Bolpebra,2006,9,Muestras tomadas por personal de salud,1
+La Paz,22001,Caranavi,2006,9,Muestras tomadas por personal de salud,10
+Tarija,60302,Carapari,2006,9,Muestras tomadas por personal de salud,14
+Cochabamba,31002,Colomi,2006,9,Muestras tomadas por personal de salud,1
+Santa Cruz,70105,El Torno,2006,9,Muestras tomadas por personal de salud,30
+Tarija,60601,Entre Rios,2006,9,Muestras tomadas por personal de salud,66
+Pando,90203,Filadelfia,2006,9,Muestras tomadas por personal de salud,13
+La Paz,20602,Guanay,2006,9,Muestras tomadas por personal de salud,10
+Beni,80202,Guayaramerin,2006,9,Muestras tomadas por personal de salud,1713
+Chuquisaca,10502,Huacareta,2006,9,Muestras tomadas por personal de salud,48
+La Paz,21105,La Asunta,2006,9,Muestras tomadas por personal de salud,137
+Santa Cruz,70104,La Guardia,2006,9,Muestras tomadas por personal de salud,8
+La Paz,20101,La Paz,2006,9,Muestras tomadas por personal de salud,26
+Beni,80801,Magdalena,2006,9,Muestras tomadas por personal de salud,56
+La Paz,20607,Mapiri,2006,9,Muestras tomadas por personal de salud,486
+Cochabamba,31301,Mizque,2006,9,Muestras tomadas por personal de salud,2
+Chuquisaca,10501,Monteagudo,2006,9,Muestras tomadas por personal de salud,104
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,9,Muestras tomadas por personal de salud,85
+Potosí,50404,Ocuri,2006,9,Muestras tomadas por personal de salud,1
+Tarija,60201,Padcaya,2006,9,Muestras tomadas por personal de salud,64
+La Paz,21104,Palos Blancos,2006,9,Muestras tomadas por personal de salud,15
+Cochabamba,31202,Pojo (cbba),2006,9,Muestras tomadas por personal de salud,1
+Santa Cruz,70103,Porongo,2006,9,Muestras tomadas por personal de salud,12
+Pando,90102,Porvenir,2006,9,Muestras tomadas por personal de salud,92
+Pando,90301,Puerto Gonzalo Moreno,2006,9,Muestras tomadas por personal de salud,2
+Pando,90201,Puerto Rico,2006,9,Muestras tomadas por personal de salud,67
+Beni,80201,Riberalta,2006,9,Muestras tomadas por personal de salud,2042
+Santa Cruz,71302,Saipina,2006,9,Muestras tomadas por personal de salud,89
+Beni,80302,San Borja,2006,9,Muestras tomadas por personal de salud,1
+La Paz,21502,San Buena Ventura,2006,9,Muestras tomadas por personal de salud,4
+Santa Cruz,70301,San Ignacio De Velasco,2006,9,Muestras tomadas por personal de salud,40
+Pando,90302,San Lorenzo(pnd),2006,9,Muestras tomadas por personal de salud,25
+Pando,90202,San Pedro(pnd),2006,9,Muestras tomadas por personal de salud,2
+Pando,90303,Sena,2006,9,Muestras tomadas por personal de salud,178
+Chuquisaca,10403,Sopachuy,2006,9,Muestras tomadas por personal de salud,4
+Chuquisaca,10101,Sucre,2006,9,Muestras tomadas por personal de salud,3
+Chuquisaca,10202,Tarvita,2006,9,Muestras tomadas por personal de salud,1
+La Paz,20608,Teoponte,2006,9,Muestras tomadas por personal de salud,49
+Chuquisaca,10402,Tomina,2006,9,Muestras tomadas por personal de salud,5
+Potosí,50502,Toro Toro,2006,9,Muestras tomadas por personal de salud,1
+Santa Cruz,70801,Vallegrande,2006,9,Muestras tomadas por personal de salud,1
+Tarija,60303,Villa Montes,2006,9,Muestras tomadas por personal de salud,70
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,9,Muestras tomadas por personal de salud,575
+Tarija,60301,Yacuiba,2006,9,Muestras tomadas por personal de salud,46
+Cochabamba,30201,Aiquile,2006,10,Muestras tomadas por personal de salud,1
+Chuquisaca,10201,Azurduy,2006,10,Muestras tomadas por personal de salud,27
+Beni,80802,Baures,2006,10,Muestras tomadas por personal de salud,124
+Pando,90104,Bella Flor,2006,10,Muestras tomadas por personal de salud,75
+Tarija,60202,Bermejo,2006,10,Muestras tomadas por personal de salud,725
+Pando,90103,Bolpebra,2006,10,Muestras tomadas por personal de salud,1
+La Paz,22001,Caranavi,2006,10,Muestras tomadas por personal de salud,21
+Tarija,60302,Carapari,2006,10,Muestras tomadas por personal de salud,140
+Cochabamba,31204,Chimore,2006,10,Muestras tomadas por personal de salud,6
+Cochabamba,31002,Colomi,2006,10,Muestras tomadas por personal de salud,1
+Santa Cruz,70105,El Torno,2006,10,Muestras tomadas por personal de salud,27
+Tarija,60601,Entre Rios,2006,10,Muestras tomadas por personal de salud,1
+Pando,90503,Eureka (santos Mercado),2006,10,Muestras tomadas por personal de salud,33
+Pando,90203,Filadelfia,2006,10,Muestras tomadas por personal de salud,17
+La Paz,20602,Guanay,2006,10,Muestras tomadas por personal de salud,56
+Beni,80202,Guayaramerin,2006,10,Muestras tomadas por personal de salud,2182
+Chuquisaca,10502,Huacareta,2006,10,Muestras tomadas por personal de salud,42
+Pando,90402,Ingavi (humaita),2006,10,Muestras tomadas por personal de salud,57
+La Paz,21501,Ixiamas,2006,10,Muestras tomadas por personal de salud,303
+La Paz,21105,La Asunta,2006,10,Muestras tomadas por personal de salud,6
+Santa Cruz,70104,La Guardia,2006,10,Muestras tomadas por personal de salud,10
+Santa Cruz,70701,Lagunillas,2006,10,Muestras tomadas por personal de salud,1
+Chuquisaca,11003,Machareti,2006,10,Muestras tomadas por personal de salud,1
+Beni,80801,Magdalena,2006,10,Muestras tomadas por personal de salud,6
+La Paz,20607,Mapiri,2006,10,Muestras tomadas por personal de salud,129
+Chuquisaca,10501,Monteagudo,2006,10,Muestras tomadas por personal de salud,307
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,10,Muestras tomadas por personal de salud,80
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,10,Muestras tomadas por personal de salud,25
+Tarija,60201,Padcaya,2006,10,Muestras tomadas por personal de salud,77
+Chuquisaca,10401,Padilla,2006,10,Muestras tomadas por personal de salud,1
+La Paz,21104,Palos Blancos,2006,10,Muestras tomadas por personal de salud,24
+Chuquisaca,10103,Poroma,2006,10,Muestras tomadas por personal de salud,18
+Santa Cruz,70103,Porongo,2006,10,Muestras tomadas por personal de salud,15
+Pando,90102,Porvenir,2006,10,Muestras tomadas por personal de salud,103
+Pando,90301,Puerto Gonzalo Moreno,2006,10,Muestras tomadas por personal de salud,38
+Beni,80703,Puerto Siles,2006,10,Muestras tomadas por personal de salud,1
+Santa Cruz,70904,Quirusillas,2006,10,Muestras tomadas por personal de salud,11
+Beni,80301,Reyes,2006,10,Muestras tomadas por personal de salud,3
+Beni,80201,Riberalta,2006,10,Muestras tomadas por personal de salud,2552
+Santa Cruz,71302,Saipina,2006,10,Muestras tomadas por personal de salud,176
+Beni,80302,San Borja,2006,10,Muestras tomadas por personal de salud,5
+La Paz,21502,San Buena Ventura,2006,10,Muestras tomadas por personal de salud,4
+Santa Cruz,70301,San Ignacio De Velasco,2006,10,Muestras tomadas por personal de salud,24
+Beni,80701,San Joaquin,2006,10,Muestras tomadas por personal de salud,7
+Pando,90302,San Lorenzo(pnd),2006,10,Muestras tomadas por personal de salud,438
+Beni,80303,Santa Rosa,2006,10,Muestras tomadas por personal de salud,3
+Pando,90303,Sena,2006,10,Muestras tomadas por personal de salud,108
+Chuquisaca,10403,Sopachuy,2006,10,Muestras tomadas por personal de salud,4
+Chuquisaca,10101,Sucre,2006,10,Muestras tomadas por personal de salud,2
+La Paz,20608,Teoponte,2006,10,Muestras tomadas por personal de salud,57
+Cochabamba,31601,Tiraque (cbba),2006,10,Muestras tomadas por personal de salud,1
+Chuquisaca,10402,Tomina,2006,10,Muestras tomadas por personal de salud,2
+Potosí,50502,Toro Toro,2006,10,Muestras tomadas por personal de salud,8
+Tarija,60303,Villa Montes,2006,10,Muestras tomadas por personal de salud,135
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,10,Muestras tomadas por personal de salud,36
+Tarija,60301,Yacuiba,2006,10,Muestras tomadas por personal de salud,139
+Potosí,51302,Acacio,2006,11,Muestras tomadas por personal de salud,24
+La Paz,20701,Apolo,2006,11,Muestras tomadas por personal de salud,101
+Chuquisaca,10201,Azurduy,2006,11,Muestras tomadas por personal de salud,5
+Beni,80802,Baures,2006,11,Muestras tomadas por personal de salud,49
+Pando,90104,Bella Flor,2006,11,Muestras tomadas por personal de salud,105
+Tarija,60202,Bermejo,2006,11,Muestras tomadas por personal de salud,1258
+Santa Cruz,70401,Buena Vista,2006,11,Muestras tomadas por personal de salud,3
+Santa Cruz,70703,Cabezas,2006,11,Muestras tomadas por personal de salud,1
+La Paz,22001,Caranavi,2006,11,Muestras tomadas por personal de salud,46
+Tarija,60302,Carapari,2006,11,Muestras tomadas por personal de salud,41
+Cochabamba,31204,Chimore,2006,11,Muestras tomadas por personal de salud,2
+Cochabamba,31002,Colomi,2006,11,Muestras tomadas por personal de salud,2
+Santa Cruz,71101,Concepcion,2006,11,Muestras tomadas por personal de salud,32
+Santa Cruz,70105,El Torno,2006,11,Muestras tomadas por personal de salud,52
+Tarija,60601,Entre Rios,2006,11,Muestras tomadas por personal de salud,141
+Tarija,60601,Entre Rios,2006,11,Muestras tomadas por personal de salud,5
+Pando,90203,Filadelfia,2006,11,Muestras tomadas por personal de salud,35
+La Paz,20602,Guanay,2006,11,Muestras tomadas por personal de salud,63
+Beni,80202,Guayaramerin,2006,11,Muestras tomadas por personal de salud,4030
+Chuquisaca,10502,Huacareta,2006,11,Muestras tomadas por personal de salud,20
+Chuquisaca,11002,Huacaya (villa De Huacaya),2006,11,Muestras tomadas por personal de salud,1
+Pando,90402,Ingavi (humaita),2006,11,Muestras tomadas por personal de salud,76
+La Paz,21105,La Asunta,2006,11,Muestras tomadas por personal de salud,25
+Santa Cruz,70104,La Guardia,2006,11,Muestras tomadas por personal de salud,14
+La Paz,20101,La Paz,2006,11,Muestras tomadas por personal de salud,202
+Santa Cruz,70701,Lagunillas,2006,11,Muestras tomadas por personal de salud,3
+Chuquisaca,11003,Machareti,2006,11,Muestras tomadas por personal de salud,2
+Beni,80801,Magdalena,2006,11,Muestras tomadas por personal de salud,36
+La Paz,20607,Mapiri,2006,11,Muestras tomadas por personal de salud,165
+Cochabamba,31301,Mizque,2006,11,Muestras tomadas por personal de salud,3
+Chuquisaca,10303,Mojocoya,2006,11,Muestras tomadas por personal de salud,1
+Chuquisaca,10501,Monteagudo,2006,11,Muestras tomadas por personal de salud,1085
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,11,Muestras tomadas por personal de salud,166
+Cochabamba,30203,Omereque,2006,11,Muestras tomadas por personal de salud,2
+Tarija,60201,Padcaya,2006,11,Muestras tomadas por personal de salud,527
+Chuquisaca,10401,Padilla,2006,11,Muestras tomadas por personal de salud,7
+La Paz,21104,Palos Blancos,2006,11,Muestras tomadas por personal de salud,381
+Santa Cruz,70103,Porongo,2006,11,Muestras tomadas por personal de salud,13
+Pando,90102,Porvenir,2006,11,Muestras tomadas por personal de salud,239
+Pando,90301,Puerto Gonzalo Moreno,2006,11,Muestras tomadas por personal de salud,38
+Santa Cruz,71402,Puerto Quijarro,2006,11,Muestras tomadas por personal de salud,2
+Pando,90201,Puerto Rico,2006,11,Muestras tomadas por personal de salud,195
+Beni,80201,Riberalta,2006,11,Muestras tomadas por personal de salud,8394
+Santa Cruz,71302,Saipina,2006,11,Muestras tomadas por personal de salud,96
+Beni,80302,San Borja,2006,11,Muestras tomadas por personal de salud,2
+La Paz,21502,San Buena Ventura,2006,11,Muestras tomadas por personal de salud,24
+Santa Cruz,70301,San Ignacio De Velasco,2006,11,Muestras tomadas por personal de salud,40
+Pando,90302,San Lorenzo(pnd),2006,11,Muestras tomadas por personal de salud,164
+Potosí,50501,San Pedro De Buena Vista,2006,11,Muestras tomadas por personal de salud,51
+Pando,90202,San Pedro(pnd),2006,11,Muestras tomadas por personal de salud,20
+Beni,80303,Santa Rosa,2006,11,Muestras tomadas por personal de salud,10
+Pando,90303,Sena,2006,11,Muestras tomadas por personal de salud,134
+Chuquisaca,10403,Sopachuy,2006,11,Muestras tomadas por personal de salud,2
+La Paz,20608,Teoponte,2006,11,Muestras tomadas por personal de salud,98
+Potosí,50502,Toro Toro,2006,11,Muestras tomadas por personal de salud,4
+Tarija,60303,Villa Montes,2006,11,Muestras tomadas por personal de salud,7
+Cochabamba,31003,Villa Tunari,2006,11,Muestras tomadas por personal de salud,21
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,11,Muestras tomadas por personal de salud,759
+Tarija,60301,Yacuiba,2006,11,Muestras tomadas por personal de salud,79
+Potosí,51302,Acacio,2006,12,Muestras tomadas por personal de salud,70
+Cochabamba,30201,Aiquile,2006,12,Muestras tomadas por personal de salud,1
+Chuquisaca,10201,Azurduy,2006,12,Muestras tomadas por personal de salud,14
+Beni,80802,Baures,2006,12,Muestras tomadas por personal de salud,7
+Tarija,60202,Bermejo,2006,12,Muestras tomadas por personal de salud,964
+Santa Cruz,70401,Buena Vista,2006,12,Muestras tomadas por personal de salud,8
+Santa Cruz,70703,Cabezas,2006,12,Muestras tomadas por personal de salud,8
+La Paz,22001,Caranavi,2006,12,Muestras tomadas por personal de salud,39
+Tarija,60302,Carapari,2006,12,Muestras tomadas por personal de salud,42
+Pando,90101,Cobija,2006,12,Muestras tomadas por personal de salud,80
+Cochabamba,31002,Colomi,2006,12,Muestras tomadas por personal de salud,4
+Tarija,60502,El Puente(tja),2006,12,Muestras tomadas por personal de salud,1
+Santa Cruz,70105,El Torno,2006,12,Muestras tomadas por personal de salud,116
+Tarija,60601,Entre Rios,2006,12,Muestras tomadas por personal de salud,191
+Pando,90503,Eureka (santos Mercado),2006,12,Muestras tomadas por personal de salud,20
+Pando,90203,Filadelfia,2006,12,Muestras tomadas por personal de salud,7
+La Paz,20602,Guanay,2006,12,Muestras tomadas por personal de salud,56
+Beni,80202,Guayaramerin,2006,12,Muestras tomadas por personal de salud,3679
+Chuquisaca,10502,Huacareta,2006,12,Muestras tomadas por personal de salud,26
+Pando,90402,Ingavi (humaita),2006,12,Muestras tomadas por personal de salud,52
+La Paz,21501,Ixiamas,2006,12,Muestras tomadas por personal de salud,3
+La Paz,21105,La Asunta,2006,12,Muestras tomadas por personal de salud,43
+Santa Cruz,70104,La Guardia,2006,12,Muestras tomadas por personal de salud,61
+La Paz,20101,La Paz,2006,12,Muestras tomadas por personal de salud,73
+Santa Cruz,70701,Lagunillas,2006,12,Muestras tomadas por personal de salud,1
+Beni,80801,Magdalena,2006,12,Muestras tomadas por personal de salud,8
+La Paz,20607,Mapiri,2006,12,Muestras tomadas por personal de salud,168
+Cochabamba,31301,Mizque,2006,12,Muestras tomadas por personal de salud,2
+Chuquisaca,10501,Monteagudo,2006,12,Muestras tomadas por personal de salud,136
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,12,Muestras tomadas por personal de salud,76
+Cochabamba,30203,Omereque,2006,12,Muestras tomadas por personal de salud,1
+Tarija,60201,Padcaya,2006,12,Muestras tomadas por personal de salud,55
+Chuquisaca,10401,Padilla,2006,12,Muestras tomadas por personal de salud,14
+La Paz,21104,Palos Blancos,2006,12,Muestras tomadas por personal de salud,43
+Cochabamba,31202,Pojo (cbba),2006,12,Muestras tomadas por personal de salud,1
+Santa Cruz,70103,Porongo,2006,12,Muestras tomadas por personal de salud,26
+Pando,90102,Porvenir,2006,12,Muestras tomadas por personal de salud,290
+Pando,90301,Puerto Gonzalo Moreno,2006,12,Muestras tomadas por personal de salud,131
+Santa Cruz,71402,Puerto Quijarro,2006,12,Muestras tomadas por personal de salud,6
+Pando,90201,Puerto Rico,2006,12,Muestras tomadas por personal de salud,314
+Potosí,50402,Ravelo,2006,12,Muestras tomadas por personal de salud,75
+Beni,80201,Riberalta,2006,12,Muestras tomadas por personal de salud,4899
+Santa Cruz,71302,Saipina,2006,12,Muestras tomadas por personal de salud,94
+Beni,80302,San Borja,2006,12,Muestras tomadas por personal de salud,5
+La Paz,21502,San Buena Ventura,2006,12,Muestras tomadas por personal de salud,9
+Santa Cruz,70301,San Ignacio De Velasco,2006,12,Muestras tomadas por personal de salud,58
+Pando,90302,San Lorenzo(pnd),2006,12,Muestras tomadas por personal de salud,145
+Tarija,60501,San Lorenzo(tja),2006,12,Muestras tomadas por personal de salud,1
+Pando,90202,San Pedro(pnd),2006,12,Muestras tomadas por personal de salud,11
+Beni,80303,Santa Rosa,2006,12,Muestras tomadas por personal de salud,6
+Pando,90303,Sena,2006,12,Muestras tomadas por personal de salud,179
+Chuquisaca,10403,Sopachuy,2006,12,Muestras tomadas por personal de salud,8
+La Paz,20608,Teoponte,2006,12,Muestras tomadas por personal de salud,36
+La Paz,20606,Tipuani,2006,12,Muestras tomadas por personal de salud,1
+Chuquisaca,10402,Tomina,2006,12,Muestras tomadas por personal de salud,2
+Potosí,50502,Toro Toro,2006,12,Muestras tomadas por personal de salud,312
+Santa Cruz,70801,Vallegrande,2006,12,Muestras tomadas por personal de salud,1
+Tarija,60303,Villa Montes,2006,12,Muestras tomadas por personal de salud,146
+Cochabamba,31003,Villa Tunari,2006,12,Muestras tomadas por personal de salud,66
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,12,Muestras tomadas por personal de salud,38
+Tarija,60301,Yacuiba,2006,12,Muestras tomadas por personal de salud,60
+Tarija,60402,Yunchara,2006,12,Muestras tomadas por personal de salud,1
+Potosí,51302,Acacio,2006,1,TOTAL,8
+Cochabamba,30201,Aiquile,2006,1,TOTAL,7
+Chuquisaca,10201,Azurduy,2006,1,TOTAL,472
+Beni,80802,Baures,2006,1,TOTAL,29
+Pando,90104,Bella Flor,2006,1,TOTAL,12
+Tarija,60202,Bermejo,2006,1,TOTAL,2885
+Santa Cruz,70401,Buena Vista,2006,1,TOTAL,5
+Santa Cruz,70703,Cabezas,2006,1,TOTAL,7
+La Paz,22001,Caranavi,2006,1,TOTAL,38
+Tarija,60302,Carapari,2006,1,TOTAL,756
+Santa Cruz,70702,Charagua,2006,1,TOTAL,3
+Cochabamba,31204,Chimore,2006,1,TOTAL,2
+Cochabamba,31002,Colomi,2006,1,TOTAL,1
+Chuquisaca,10902,Culpina,2006,1,TOTAL,1
+Santa Cruz,70105,El Torno,2006,1,TOTAL,65
+Tarija,60601,Entre Rios,2006,1,TOTAL,170
+Pando,90503,Eureka (santos Mercado),2006,1,TOTAL,27
+Pando,90203,Filadelfia,2006,1,TOTAL,19
+La Paz,20602,Guanay,2006,1,TOTAL,149
+Beni,80202,Guayaramerin,2006,1,TOTAL,1828
+Chuquisaca,10502,Huacareta,2006,1,TOTAL,23
+Chuquisaca,10703,Incahuasi,2006,1,TOTAL,8
+Pando,90402,Ingavi (humaita),2006,1,TOTAL,20
+La Paz,21105,La Asunta,2006,1,TOTAL,69
+Santa Cruz,70104,La Guardia,2006,1,TOTAL,26
+La Paz,20101,La Paz,2006,1,TOTAL,75
+Santa Cruz,70701,Lagunillas,2006,1,TOTAL,1
+Chuquisaca,11003,Machareti,2006,1,TOTAL,4
+Beni,80801,Magdalena,2006,1,TOTAL,62
+Santa Cruz,70903,Mairana,2006,1,TOTAL,2
+La Paz,20607,Mapiri,2006,1,TOTAL,59
+Cochabamba,31301,Mizque,2006,1,TOTAL,1
+Chuquisaca,10501,Monteagudo,2006,1,TOTAL,140
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,1,TOTAL,70
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,1,TOTAL,152
+Tarija,60201,Padcaya,2006,1,TOTAL,3
+Chuquisaca,10401,Padilla,2006,1,TOTAL,9
+La Paz,21104,Palos Blancos,2006,1,TOTAL,27
+Chuquisaca,10103,Poroma,2006,1,TOTAL,7
+Santa Cruz,70103,Porongo,2006,1,TOTAL,22
+Pando,90102,Porvenir,2006,1,TOTAL,102
+Pando,90301,Puerto Gonzalo Moreno,2006,1,TOTAL,127
+Pando,90201,Puerto Rico,2006,1,TOTAL,345
+Beni,80301,Reyes,2006,1,TOTAL,1
+Beni,80201,Riberalta,2006,1,TOTAL,2902
+Santa Cruz,71302,Saipina,2006,1,TOTAL,58
+Santa Cruz,70301,San Ignacio De Velasco,2006,1,TOTAL,141
+Pando,90302,San Lorenzo(pnd),2006,1,TOTAL,145
+Tarija,60501,San Lorenzo(tja),2006,1,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2006,1,TOTAL,11
+Pando,90202,San Pedro(pnd),2006,1,TOTAL,4
+Santa Cruz,70303,San Rafael,2006,1,TOTAL,4
+Pando,90303,Sena,2006,1,TOTAL,756
+Chuquisaca,10403,Sopachuy,2006,1,TOTAL,3
+Tarija,60101,Tarija,2006,1,TOTAL,1
+Chuquisaca,10202,Tarvita,2006,1,TOTAL,4
+La Paz,20608,Teoponte,2006,1,TOTAL,152
+Chuquisaca,10402,Tomina,2006,1,TOTAL,2
+Potosí,50502,Toro Toro,2006,1,TOTAL,2
+Santa Cruz,70801,Vallegrande,2006,1,TOTAL,2
+Tarija,60303,Villa Montes,2006,1,TOTAL,355
+Pando,90502,Villa Nueva (loma Alta),2006,1,TOTAL,111
+Chuquisaca,10801,Villa Serrano,2006,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2006,1,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,1,TOTAL,126
+Tarija,60301,Yacuiba,2006,1,TOTAL,189
+Santa Cruz,70403,Yapacani,2006,1,TOTAL,19
+Chuquisaca,10301,Zudañez,2006,1,TOTAL,5
+Cochabamba,30201,Aiquile,2006,2,TOTAL,19
+La Paz,20701,Apolo,2006,2,TOTAL,16
+Chuquisaca,10201,Azurduy,2006,2,TOTAL,13
+Beni,80802,Baures,2006,2,TOTAL,16
+Pando,90104,Bella Flor,2006,2,TOTAL,7
+Tarija,60202,Bermejo,2006,2,TOTAL,1146
+Pando,90103,Bolpebra,2006,2,TOTAL,2
+Santa Cruz,70401,Buena Vista,2006,2,TOTAL,8
+Santa Cruz,70703,Cabezas,2006,2,TOTAL,1
+La Paz,22001,Caranavi,2006,2,TOTAL,44
+Tarija,60302,Carapari,2006,2,TOTAL,150
+Chuquisaca,10902,Culpina,2006,2,TOTAL,4
+Santa Cruz,70105,El Torno,2006,2,TOTAL,46
+Tarija,60601,Entre Rios,2006,2,TOTAL,175
+Tarija,60601,Entre Rios,2006,2,TOTAL,3
+Pando,90503,Eureka (santos Mercado),2006,2,TOTAL,40
+Beni,80402,Exaltacion,2006,2,TOTAL,1
+Pando,90203,Filadelfia,2006,2,TOTAL,37
+Santa Cruz,71002,General Saavedra,2006,2,TOTAL,1
+La Paz,20602,Guanay,2006,2,TOTAL,213
+Beni,80202,Guayaramerin,2006,2,TOTAL,2211
+Chuquisaca,10502,Huacareta,2006,2,TOTAL,34
+Pando,90402,Ingavi (humaita),2006,2,TOTAL,17
+La Paz,21105,La Asunta,2006,2,TOTAL,77
+Santa Cruz,70104,La Guardia,2006,2,TOTAL,13
+La Paz,20101,La Paz,2006,2,TOTAL,117
+Santa Cruz,70701,Lagunillas,2006,2,TOTAL,3
+Chuquisaca,11003,Machareti,2006,2,TOTAL,5
+Beni,80801,Magdalena,2006,2,TOTAL,133
+La Paz,20607,Mapiri,2006,2,TOTAL,87
+Cochabamba,31301,Mizque,2006,2,TOTAL,5
+Chuquisaca,10501,Monteagudo,2006,2,TOTAL,221
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,2,TOTAL,87
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,2,TOTAL,364
+Tarija,60201,Padcaya,2006,2,TOTAL,138
+Chuquisaca,10401,Padilla,2006,2,TOTAL,24
+La Paz,21104,Palos Blancos,2006,2,TOTAL,144
+Santa Cruz,70902,Pampa Grande,2006,2,TOTAL,2
+Chuquisaca,10103,Poroma,2006,2,TOTAL,14
+Santa Cruz,70103,Porongo,2006,2,TOTAL,17
+Santa Cruz,70601,Portachuelo,2006,2,TOTAL,1
+Pando,90102,Porvenir,2006,2,TOTAL,33
+Pando,90301,Puerto Gonzalo Moreno,2006,2,TOTAL,219
+Pando,90201,Puerto Rico,2006,2,TOTAL,314
+Beni,80201,Riberalta,2006,2,TOTAL,3900
+Santa Cruz,71302,Saipina,2006,2,TOTAL,188
+La Paz,21502,San Buena Ventura,2006,2,TOTAL,11
+Santa Cruz,70301,San Ignacio De Velasco,2006,2,TOTAL,600
+Pando,90302,San Lorenzo(pnd),2006,2,TOTAL,112
+Potosí,50501,San Pedro De Buena Vista,2006,2,TOTAL,24
+Santa Cruz,70303,San Rafael,2006,2,TOTAL,2
+Beni,80303,Santa Rosa,2006,2,TOTAL,25
+Pando,90303,Sena,2006,2,TOTAL,750
+Chuquisaca,10403,Sopachuy,2006,2,TOTAL,8
+Chuquisaca,10202,Tarvita,2006,2,TOTAL,2
+La Paz,20608,Teoponte,2006,2,TOTAL,63
+Potosí,50502,Toro Toro,2006,2,TOTAL,6
+Santa Cruz,70801,Vallegrande,2006,2,TOTAL,14
+Cochabamba,31302,Vila Vila,2006,2,TOTAL,1
+Tarija,60303,Villa Montes,2006,2,TOTAL,249
+Pando,90502,Villa Nueva (loma Alta),2006,2,TOTAL,19
+Chuquisaca,10801,Villa Serrano,2006,2,TOTAL,1
+Cochabamba,31003,Villa Tunari,2006,2,TOTAL,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,2,TOTAL,151
+Tarija,60301,Yacuiba,2006,2,TOTAL,198
+La Paz,20701,Apolo,2006,3,TOTAL,5
+Chuquisaca,10201,Azurduy,2006,3,TOTAL,16
+Beni,80802,Baures,2006,3,TOTAL,30
+Pando,90104,Bella Flor,2006,3,TOTAL,2
+Tarija,60202,Bermejo,2006,3,TOTAL,1046
+Santa Cruz,70401,Buena Vista,2006,3,TOTAL,3
+La Paz,22001,Caranavi,2006,3,TOTAL,70
+Tarija,60302,Carapari,2006,3,TOTAL,687
+Pando,90101,Cobija,2006,3,TOTAL,16
+Chuquisaca,10902,Culpina,2006,3,TOTAL,1
+Santa Cruz,70105,El Torno,2006,3,TOTAL,58
+Tarija,60601,Entre Rios,2006,3,TOTAL,308
+Tarija,60601,Entre Rios,2006,3,TOTAL,2
+Pando,90503,Eureka (santos Mercado),2006,3,TOTAL,58
+Pando,90203,Filadelfia,2006,3,TOTAL,13
+Santa Cruz,71002,General Saavedra,2006,3,TOTAL,1
+La Paz,20602,Guanay,2006,3,TOTAL,93
+Beni,80202,Guayaramerin,2006,3,TOTAL,2833
+Chuquisaca,10502,Huacareta,2006,3,TOTAL,25
+Beni,80803,Huaracaje,2006,3,TOTAL,12
+Pando,90402,Ingavi (humaita),2006,3,TOTAL,29
+La Paz,21105,La Asunta,2006,3,TOTAL,129
+Santa Cruz,70104,La Guardia,2006,3,TOTAL,9
+Santa Cruz,70701,Lagunillas,2006,3,TOTAL,4
+Chuquisaca,11003,Machareti,2006,3,TOTAL,3
+Beni,80801,Magdalena,2006,3,TOTAL,113
+La Paz,20607,Mapiri,2006,3,TOTAL,91
+Cochabamba,31301,Mizque,2006,3,TOTAL,6
+Chuquisaca,10303,Mojocoya,2006,3,TOTAL,4
+Chuquisaca,10501,Monteagudo,2006,3,TOTAL,147
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,3,TOTAL,102
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,3,TOTAL,43
+Cochabamba,30203,Omereque,2006,3,TOTAL,1
+Tarija,60201,Padcaya,2006,3,TOTAL,110
+Chuquisaca,10401,Padilla,2006,3,TOTAL,5
+La Paz,21104,Palos Blancos,2006,3,TOTAL,55
+Santa Cruz,70902,Pampa Grande,2006,3,TOTAL,1
+Chuquisaca,10103,Poroma,2006,3,TOTAL,10
+Santa Cruz,70103,Porongo,2006,3,TOTAL,18
+Pando,90102,Porvenir,2006,3,TOTAL,40
+Pando,90301,Puerto Gonzalo Moreno,2006,3,TOTAL,279
+Pando,90201,Puerto Rico,2006,3,TOTAL,373
+Beni,80201,Riberalta,2006,3,TOTAL,5359
+Santa Cruz,71302,Saipina,2006,3,TOTAL,172
+La Paz,21502,San Buena Ventura,2006,3,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2006,3,TOTAL,118
+Pando,90302,San Lorenzo(pnd),2006,3,TOTAL,201
+Tarija,60501,San Lorenzo(tja),2006,3,TOTAL,1
+Chuquisaca,10702,San Lucas,2006,3,TOTAL,1
+Santa Cruz,70303,San Rafael,2006,3,TOTAL,2
+Beni,80303,Santa Rosa,2006,3,TOTAL,5
+Pando,90303,Sena,2006,3,TOTAL,123
+Chuquisaca,10403,Sopachuy,2006,3,TOTAL,3
+Chuquisaca,10202,Tarvita,2006,3,TOTAL,1
+La Paz,20608,Teoponte,2006,3,TOTAL,20
+Chuquisaca,10402,Tomina,2006,3,TOTAL,2
+Potosí,50502,Toro Toro,2006,3,TOTAL,11
+Santa Cruz,70801,Vallegrande,2006,3,TOTAL,4
+Tarija,60303,Villa Montes,2006,3,TOTAL,434
+Pando,90502,Villa Nueva (loma Alta),2006,3,TOTAL,88
+Cochabamba,31003,Villa Tunari,2006,3,TOTAL,2
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,3,TOTAL,84
+Tarija,60301,Yacuiba,2006,3,TOTAL,168
+Santa Cruz,70403,Yapacani,2006,3,TOTAL,25
+Chuquisaca,10301,Zudañez,2006,3,TOTAL,3
+Potosí,51302,Acacio,2006,4,TOTAL,34
+Chuquisaca,10201,Azurduy,2006,4,TOTAL,12
+Beni,80802,Baures,2006,4,TOTAL,83
+Pando,90104,Bella Flor,2006,4,TOTAL,4
+Tarija,60202,Bermejo,2006,4,TOTAL,821
+Santa Cruz,70401,Buena Vista,2006,4,TOTAL,1
+La Paz,22001,Caranavi,2006,4,TOTAL,48
+Tarija,60302,Carapari,2006,4,TOTAL,342
+Santa Cruz,70102,Cotoca,2006,4,TOTAL,1
+Chuquisaca,10902,Culpina,2006,4,TOTAL,1
+Santa Cruz,70105,El Torno,2006,4,TOTAL,100
+Tarija,60601,Entre Rios,2006,4,TOTAL,139
+Pando,90503,Eureka (santos Mercado),2006,4,TOTAL,33
+Pando,90203,Filadelfia,2006,4,TOTAL,20
+La Paz,20602,Guanay,2006,4,TOTAL,73
+Beni,80202,Guayaramerin,2006,4,TOTAL,2098
+Chuquisaca,10502,Huacareta,2006,4,TOTAL,12
+Beni,80803,Huaracaje,2006,4,TOTAL,8
+Pando,90402,Ingavi (humaita),2006,4,TOTAL,21
+La Paz,21501,Ixiamas,2006,4,TOTAL,9
+La Paz,21105,La Asunta,2006,4,TOTAL,62
+Santa Cruz,70104,La Guardia,2006,4,TOTAL,12
+La Paz,20101,La Paz,2006,4,TOTAL,61
+Santa Cruz,70701,Lagunillas,2006,4,TOTAL,1
+Beni,80801,Magdalena,2006,4,TOTAL,80
+La Paz,20607,Mapiri,2006,4,TOTAL,47
+Cochabamba,31301,Mizque,2006,4,TOTAL,8
+Chuquisaca,10303,Mojocoya,2006,4,TOTAL,3
+Chuquisaca,10501,Monteagudo,2006,4,TOTAL,195
+Cochabamba,30302,Morochata,2006,4,TOTAL,2
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,4,TOTAL,77
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,4,TOTAL,126
+Tarija,60201,Padcaya,2006,4,TOTAL,19
+La Paz,21104,Palos Blancos,2006,4,TOTAL,126
+Santa Cruz,70902,Pampa Grande,2006,4,TOTAL,1
+Chuquisaca,10103,Poroma,2006,4,TOTAL,3
+Santa Cruz,70103,Porongo,2006,4,TOTAL,27
+Pando,90102,Porvenir,2006,4,TOTAL,30
+Pando,90301,Puerto Gonzalo Moreno,2006,4,TOTAL,23
+Pando,90201,Puerto Rico,2006,4,TOTAL,262
+Cochabamba,31205,Puerto Villarroel,2006,4,TOTAL,2
+Beni,80301,Reyes,2006,4,TOTAL,2
+Beni,80201,Riberalta,2006,4,TOTAL,4494
+Santa Cruz,71302,Saipina,2006,4,TOTAL,68
+Santa Cruz,70301,San Ignacio De Velasco,2006,4,TOTAL,53
+Santa Cruz,71104,San Julian,2006,4,TOTAL,2
+Pando,90302,San Lorenzo(pnd),2006,4,TOTAL,170
+Potosí,50501,San Pedro De Buena Vista,2006,4,TOTAL,8
+Pando,90303,Sena,2006,4,TOTAL,157
+Chuquisaca,10403,Sopachuy,2006,4,TOTAL,4
+Chuquisaca,10101,Sucre,2006,4,TOTAL,1
+Cochabamba,30401,Tarata,2006,4,TOTAL,1
+Chuquisaca,10202,Tarvita,2006,4,TOTAL,1
+La Paz,20608,Teoponte,2006,4,TOTAL,22
+La Paz,20606,Tipuani,2006,4,TOTAL,1
+Potosí,50502,Toro Toro,2006,4,TOTAL,3
+Santa Cruz,70801,Vallegrande,2006,4,TOTAL,4
+Tarija,60303,Villa Montes,2006,4,TOTAL,162
+Pando,90502,Villa Nueva (loma Alta),2006,4,TOTAL,40
+Cochabamba,31003,Villa Tunari,2006,4,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,4,TOTAL,77
+Tarija,60301,Yacuiba,2006,4,TOTAL,80
+Potosí,51302,Acacio,2006,5,TOTAL,34
+Chuquisaca,10201,Azurduy,2006,5,TOTAL,9
+Beni,80802,Baures,2006,5,TOTAL,44
+Pando,90104,Bella Flor,2006,5,TOTAL,1
+Tarija,60202,Bermejo,2006,5,TOTAL,4
+Santa Cruz,70401,Buena Vista,2006,5,TOTAL,1
+Santa Cruz,70703,Cabezas,2006,5,TOTAL,3
+La Paz,22001,Caranavi,2006,5,TOTAL,135
+Tarija,60302,Carapari,2006,5,TOTAL,78
+Pando,90101,Cobija,2006,5,TOTAL,11
+Chuquisaca,10902,Culpina,2006,5,TOTAL,1
+Santa Cruz,70105,El Torno,2006,5,TOTAL,64
+Tarija,60601,Entre Rios,2006,5,TOTAL,117
+Pando,90503,Eureka (santos Mercado),2006,5,TOTAL,33
+Pando,90203,Filadelfia,2006,5,TOTAL,3
+La Paz,20602,Guanay,2006,5,TOTAL,127
+Beni,80202,Guayaramerin,2006,5,TOTAL,2294
+Beni,80803,Huaracaje,2006,5,TOTAL,14
+Chuquisaca,10304,Icla,2006,5,TOTAL,2
+La Paz,21105,La Asunta,2006,5,TOTAL,77
+La Paz,20101,La Paz,2006,5,TOTAL,48
+Beni,80801,Magdalena,2006,5,TOTAL,107
+La Paz,20607,Mapiri,2006,5,TOTAL,54
+Cochabamba,31301,Mizque,2006,5,TOTAL,14
+Chuquisaca,10501,Monteagudo,2006,5,TOTAL,97
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,5,TOTAL,94
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,5,TOTAL,53
+Tarija,60201,Padcaya,2006,5,TOTAL,97
+La Paz,21104,Palos Blancos,2006,5,TOTAL,50
+Chuquisaca,10103,Poroma,2006,5,TOTAL,1
+Santa Cruz,70103,Porongo,2006,5,TOTAL,37
+Pando,90102,Porvenir,2006,5,TOTAL,34
+Pando,90301,Puerto Gonzalo Moreno,2006,5,TOTAL,8
+Pando,90201,Puerto Rico,2006,5,TOTAL,333
+Beni,80301,Reyes,2006,5,TOTAL,38
+Beni,80201,Riberalta,2006,5,TOTAL,4502
+Santa Cruz,71302,Saipina,2006,5,TOTAL,50
+Beni,80302,San Borja,2006,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2006,5,TOTAL,49
+Pando,90302,San Lorenzo(pnd),2006,5,TOTAL,321
+Tarija,60501,San Lorenzo(tja),2006,5,TOTAL,2
+Potosí,50501,San Pedro De Buena Vista,2006,5,TOTAL,2
+Beni,80303,Santa Rosa,2006,5,TOTAL,3
+Pando,90303,Sena,2006,5,TOTAL,162
+Chuquisaca,10403,Sopachuy,2006,5,TOTAL,3
+Chuquisaca,10202,Tarvita,2006,5,TOTAL,2
+La Paz,20608,Teoponte,2006,5,TOTAL,54
+La Paz,20606,Tipuani,2006,5,TOTAL,2
+Potosí,50502,Toro Toro,2006,5,TOTAL,6
+Santa Cruz,70801,Vallegrande,2006,5,TOTAL,8
+Tarija,60303,Villa Montes,2006,5,TOTAL,215
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,5,TOTAL,54
+Tarija,60301,Yacuiba,2006,5,TOTAL,81
+Chuquisaca,10301,Zudañez,2006,5,TOTAL,2
+Potosí,51302,Acacio,2006,6,TOTAL,25
+Chuquisaca,10201,Azurduy,2006,6,TOTAL,489
+Beni,80802,Baures,2006,6,TOTAL,32
+Pando,90104,Bella Flor,2006,6,TOTAL,3
+Tarija,60202,Bermejo,2006,6,TOTAL,573
+Santa Cruz,70401,Buena Vista,2006,6,TOTAL,5
+La Paz,22001,Caranavi,2006,6,TOTAL,60
+Tarija,60302,Carapari,2006,6,TOTAL,80
+Cochabamba,31204,Chimore,2006,6,TOTAL,11
+Pando,90101,Cobija,2006,6,TOTAL,8
+Santa Cruz,70102,Cotoca,2006,6,TOTAL,2
+Santa Cruz,70105,El Torno,2006,6,TOTAL,21
+Tarija,60601,Entre Rios,2006,6,TOTAL,48
+Pando,90503,Eureka (santos Mercado),2006,6,TOTAL,40
+Beni,80402,Exaltacion,2006,6,TOTAL,2
+Pando,90203,Filadelfia,2006,6,TOTAL,12
+La Paz,20602,Guanay,2006,6,TOTAL,66
+Beni,80202,Guayaramerin,2006,6,TOTAL,1972
+Chuquisaca,10502,Huacareta,2006,6,TOTAL,10
+Beni,80803,Huaracaje,2006,6,TOTAL,10
+Pando,90402,Ingavi (humaita),2006,6,TOTAL,37
+La Paz,21501,Ixiamas,2006,6,TOTAL,5
+La Paz,21105,La Asunta,2006,6,TOTAL,91
+Santa Cruz,70701,Lagunillas,2006,6,TOTAL,1
+Beni,80801,Magdalena,2006,6,TOTAL,57
+La Paz,20607,Mapiri,2006,6,TOTAL,50
+Cochabamba,31301,Mizque,2006,6,TOTAL,4
+Chuquisaca,10501,Monteagudo,2006,6,TOTAL,54
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,6,TOTAL,65
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,6,TOTAL,30
+Cochabamba,30203,Omereque,2006,6,TOTAL,1
+Tarija,60201,Padcaya,2006,6,TOTAL,49
+La Paz,21104,Palos Blancos,2006,6,TOTAL,26
+Santa Cruz,70103,Porongo,2006,6,TOTAL,23
+Pando,90102,Porvenir,2006,6,TOTAL,71
+Pando,90301,Puerto Gonzalo Moreno,2006,6,TOTAL,4
+Pando,90201,Puerto Rico,2006,6,TOTAL,473
+Beni,80201,Riberalta,2006,6,TOTAL,3776
+Santa Cruz,71302,Saipina,2006,6,TOTAL,70
+Beni,80302,San Borja,2006,6,TOTAL,2
+La Paz,21502,San Buena Ventura,2006,6,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2006,6,TOTAL,71
+Pando,90302,San Lorenzo(pnd),2006,6,TOTAL,153
+Santa Cruz,70302,San Miguel De Velasco,2006,6,TOTAL,2
+Potosí,50501,San Pedro De Buena Vista,2006,6,TOTAL,1
+Pando,90202,San Pedro(pnd),2006,6,TOTAL,3
+Santa Cruz,70303,San Rafael,2006,6,TOTAL,1
+Pando,90303,Sena,2006,6,TOTAL,104
+Chuquisaca,10403,Sopachuy,2006,6,TOTAL,5
+Chuquisaca,10101,Sucre,2006,6,TOTAL,2
+Chuquisaca,10202,Tarvita,2006,6,TOTAL,2
+La Paz,20608,Teoponte,2006,6,TOTAL,84
+Chuquisaca,10402,Tomina,2006,6,TOTAL,2
+Potosí,50502,Toro Toro,2006,6,TOTAL,1
+Santa Cruz,70801,Vallegrande,2006,6,TOTAL,1
+Tarija,60303,Villa Montes,2006,6,TOTAL,145
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,6,TOTAL,314
+Tarija,60301,Yacuiba,2006,6,TOTAL,27
+Potosí,51302,Acacio,2006,7,TOTAL,24
+Santa Cruz,71501,Ascencion De Guarayos,2006,7,TOTAL,1
+Chuquisaca,10201,Azurduy,2006,7,TOTAL,166
+Beni,80802,Baures,2006,7,TOTAL,7
+Pando,90104,Bella Flor,2006,7,TOTAL,31
+Tarija,60202,Bermejo,2006,7,TOTAL,11
+Santa Cruz,70401,Buena Vista,2006,7,TOTAL,1
+Chuquisaca,10701,Camargo,2006,7,TOTAL,2
+La Paz,22001,Caranavi,2006,7,TOTAL,23
+Tarija,60302,Carapari,2006,7,TOTAL,241
+Santa Cruz,70105,El Torno,2006,7,TOTAL,29
+Tarija,60601,Entre Rios,2006,7,TOTAL,72
+Pando,90503,Eureka (santos Mercado),2006,7,TOTAL,20
+Pando,90203,Filadelfia,2006,7,TOTAL,11
+La Paz,20602,Guanay,2006,7,TOTAL,92
+Beni,80202,Guayaramerin,2006,7,TOTAL,1217
+Santa Cruz,70705,Gutierrez,2006,7,TOTAL,1
+Chuquisaca,10502,Huacareta,2006,7,TOTAL,5
+Beni,80803,Huaracaje,2006,7,TOTAL,21
+Chuquisaca,10703,Incahuasi,2006,7,TOTAL,4
+Pando,90402,Ingavi (humaita),2006,7,TOTAL,32
+La Paz,21105,La Asunta,2006,7,TOTAL,43
+Santa Cruz,70104,La Guardia,2006,7,TOTAL,1
+La Paz,20101,La Paz,2006,7,TOTAL,72
+Beni,80801,Magdalena,2006,7,TOTAL,42
+La Paz,20607,Mapiri,2006,7,TOTAL,83
+Chuquisaca,10501,Monteagudo,2006,7,TOTAL,638
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,7,TOTAL,15
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,7,TOTAL,7
+Tarija,60201,Padcaya,2006,7,TOTAL,61
+La Paz,21104,Palos Blancos,2006,7,TOTAL,23
+Santa Cruz,70103,Porongo,2006,7,TOTAL,15
+Pando,90102,Porvenir,2006,7,TOTAL,60
+Chuquisaca,10302,Presto,2006,7,TOTAL,1
+Pando,90301,Puerto Gonzalo Moreno,2006,7,TOTAL,6
+Pando,90201,Puerto Rico,2006,7,TOTAL,586
+Beni,80201,Riberalta,2006,7,TOTAL,1824
+Santa Cruz,71302,Saipina,2006,7,TOTAL,101
+Beni,80302,San Borja,2006,7,TOTAL,1
+La Paz,21502,San Buena Ventura,2006,7,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2006,7,TOTAL,21
+Pando,90302,San Lorenzo(pnd),2006,7,TOTAL,143
+Santa Cruz,70302,San Miguel De Velasco,2006,7,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2006,7,TOTAL,1
+Pando,90202,San Pedro(pnd),2006,7,TOTAL,10
+Beni,80702,San Ramon,2006,7,TOTAL,1
+Pando,90303,Sena,2006,7,TOTAL,207
+Chuquisaca,10403,Sopachuy,2006,7,TOTAL,1
+La Paz,20608,Teoponte,2006,7,TOTAL,28
+Chuquisaca,10402,Tomina,2006,7,TOTAL,2
+Potosí,50502,Toro Toro,2006,7,TOTAL,11
+Tarija,60303,Villa Montes,2006,7,TOTAL,251
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,7,TOTAL,310
+Tarija,60301,Yacuiba,2006,7,TOTAL,23
+Potosí,51302,Acacio,2006,8,TOTAL,29
+Cochabamba,30201,Aiquile,2006,8,TOTAL,1
+Chuquisaca,10201,Azurduy,2006,8,TOTAL,193
+Beni,80802,Baures,2006,8,TOTAL,52
+Pando,90104,Bella Flor,2006,8,TOTAL,156
+Tarija,60202,Bermejo,2006,8,TOTAL,841
+Pando,90103,Bolpebra,2006,8,TOTAL,1
+Santa Cruz,70401,Buena Vista,2006,8,TOTAL,13
+Santa Cruz,70703,Cabezas,2006,8,TOTAL,4
+La Paz,22001,Caranavi,2006,8,TOTAL,14
+Tarija,60302,Carapari,2006,8,TOTAL,459
+Chuquisaca,10902,Culpina,2006,8,TOTAL,1
+Santa Cruz,70105,El Torno,2006,8,TOTAL,27
+Tarija,60601,Entre Rios,2006,8,TOTAL,126
+Pando,90503,Eureka (santos Mercado),2006,8,TOTAL,25
+Pando,90203,Filadelfia,2006,8,TOTAL,21
+La Paz,20602,Guanay,2006,8,TOTAL,173
+Beni,80202,Guayaramerin,2006,8,TOTAL,2095
+Chuquisaca,10502,Huacareta,2006,8,TOTAL,2
+Beni,80803,Huaracaje,2006,8,TOTAL,10
+Chuquisaca,10703,Incahuasi,2006,8,TOTAL,4
+Pando,90402,Ingavi (humaita),2006,8,TOTAL,52
+La Paz,21501,Ixiamas,2006,8,TOTAL,1
+La Paz,21105,La Asunta,2006,8,TOTAL,23
+Santa Cruz,70104,La Guardia,2006,8,TOTAL,13
+La Paz,20101,La Paz,2006,8,TOTAL,42
+Beni,80801,Magdalena,2006,8,TOTAL,51
+La Paz,20607,Mapiri,2006,8,TOTAL,337
+Cochabamba,31301,Mizque,2006,8,TOTAL,2
+Chuquisaca,10303,Mojocoya,2006,8,TOTAL,2
+Chuquisaca,10501,Monteagudo,2006,8,TOTAL,110
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,8,TOTAL,121
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,8,TOTAL,35
+Potosí,50404,Ocuri,2006,8,TOTAL,1
+Tarija,60201,Padcaya,2006,8,TOTAL,13
+Chuquisaca,10401,Padilla,2006,8,TOTAL,2
+La Paz,21104,Palos Blancos,2006,8,TOTAL,27
+Chuquisaca,10103,Poroma,2006,8,TOTAL,8
+Santa Cruz,70103,Porongo,2006,8,TOTAL,16
+Pando,90102,Porvenir,2006,8,TOTAL,138
+Chuquisaca,10302,Presto,2006,8,TOTAL,1
+Pando,90301,Puerto Gonzalo Moreno,2006,8,TOTAL,12
+Pando,90201,Puerto Rico,2006,8,TOTAL,56
+Beni,80201,Riberalta,2006,8,TOTAL,2039
+Santa Cruz,71302,Saipina,2006,8,TOTAL,174
+Santa Cruz,70901,Samaipata,2006,8,TOTAL,2
+Beni,80302,San Borja,2006,8,TOTAL,3
+La Paz,21502,San Buena Ventura,2006,8,TOTAL,5
+Santa Cruz,70301,San Ignacio De Velasco,2006,8,TOTAL,327
+Santa Cruz,71104,San Julian,2006,8,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2006,8,TOTAL,188
+Potosí,50501,San Pedro De Buena Vista,2006,8,TOTAL,32
+Pando,90202,San Pedro(pnd),2006,8,TOTAL,11
+Santa Cruz,70303,San Rafael,2006,8,TOTAL,1
+Santa Cruz,70602,Santa Rosa Del Sara,2006,8,TOTAL,3
+Pando,90303,Sena,2006,8,TOTAL,344
+Chuquisaca,10403,Sopachuy,2006,8,TOTAL,3
+Chuquisaca,10101,Sucre,2006,8,TOTAL,3
+Chuquisaca,10202,Tarvita,2006,8,TOTAL,2
+La Paz,20608,Teoponte,2006,8,TOTAL,160
+Cochabamba,31601,Tiraque (cbba),2006,8,TOTAL,1
+Chuquisaca,10402,Tomina,2006,8,TOTAL,7
+Potosí,50502,Toro Toro,2006,8,TOTAL,2
+Tarija,60303,Villa Montes,2006,8,TOTAL,166
+Pando,90502,Villa Nueva (loma Alta),2006,8,TOTAL,50
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,8,TOTAL,40
+Tarija,60301,Yacuiba,2006,8,TOTAL,25
+Chuquisaca,10201,Azurduy,2006,9,TOTAL,128
+Beni,80802,Baures,2006,9,TOTAL,205
+Pando,90104,Bella Flor,2006,9,TOTAL,148
+Tarija,60202,Bermejo,2006,9,TOTAL,971
+Pando,90103,Bolpebra,2006,9,TOTAL,1
+La Paz,22001,Caranavi,2006,9,TOTAL,10
+Tarija,60302,Carapari,2006,9,TOTAL,14
+Cochabamba,31002,Colomi,2006,9,TOTAL,1
+Santa Cruz,70105,El Torno,2006,9,TOTAL,30
+Tarija,60601,Entre Rios,2006,9,TOTAL,66
+Pando,90203,Filadelfia,2006,9,TOTAL,13
+La Paz,20602,Guanay,2006,9,TOTAL,10
+Beni,80202,Guayaramerin,2006,9,TOTAL,1713
+Chuquisaca,10502,Huacareta,2006,9,TOTAL,48
+La Paz,21105,La Asunta,2006,9,TOTAL,137
+Santa Cruz,70104,La Guardia,2006,9,TOTAL,8
+La Paz,20101,La Paz,2006,9,TOTAL,26
+Beni,80801,Magdalena,2006,9,TOTAL,56
+La Paz,20607,Mapiri,2006,9,TOTAL,486
+Cochabamba,31301,Mizque,2006,9,TOTAL,2
+Chuquisaca,10501,Monteagudo,2006,9,TOTAL,104
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,9,TOTAL,85
+Potosí,50404,Ocuri,2006,9,TOTAL,1
+Tarija,60201,Padcaya,2006,9,TOTAL,64
+La Paz,21104,Palos Blancos,2006,9,TOTAL,15
+Cochabamba,31202,Pojo (cbba),2006,9,TOTAL,1
+Santa Cruz,70103,Porongo,2006,9,TOTAL,12
+Pando,90102,Porvenir,2006,9,TOTAL,92
+Pando,90301,Puerto Gonzalo Moreno,2006,9,TOTAL,2
+Pando,90201,Puerto Rico,2006,9,TOTAL,67
+Beni,80201,Riberalta,2006,9,TOTAL,2042
+Santa Cruz,71302,Saipina,2006,9,TOTAL,89
+Beni,80302,San Borja,2006,9,TOTAL,1
+La Paz,21502,San Buena Ventura,2006,9,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2006,9,TOTAL,40
+Pando,90302,San Lorenzo(pnd),2006,9,TOTAL,25
+Pando,90202,San Pedro(pnd),2006,9,TOTAL,2
+Pando,90303,Sena,2006,9,TOTAL,178
+Chuquisaca,10403,Sopachuy,2006,9,TOTAL,4
+Chuquisaca,10101,Sucre,2006,9,TOTAL,3
+Chuquisaca,10202,Tarvita,2006,9,TOTAL,1
+La Paz,20608,Teoponte,2006,9,TOTAL,49
+Chuquisaca,10402,Tomina,2006,9,TOTAL,5
+Potosí,50502,Toro Toro,2006,9,TOTAL,1
+Santa Cruz,70801,Vallegrande,2006,9,TOTAL,1
+Tarija,60303,Villa Montes,2006,9,TOTAL,70
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,9,TOTAL,575
+Tarija,60301,Yacuiba,2006,9,TOTAL,46
+Cochabamba,30201,Aiquile,2006,10,TOTAL,1
+Chuquisaca,10201,Azurduy,2006,10,TOTAL,27
+Beni,80802,Baures,2006,10,TOTAL,124
+Pando,90104,Bella Flor,2006,10,TOTAL,75
+Tarija,60202,Bermejo,2006,10,TOTAL,725
+Pando,90103,Bolpebra,2006,10,TOTAL,1
+La Paz,22001,Caranavi,2006,10,TOTAL,21
+Tarija,60302,Carapari,2006,10,TOTAL,140
+Cochabamba,31204,Chimore,2006,10,TOTAL,6
+Cochabamba,31002,Colomi,2006,10,TOTAL,1
+Santa Cruz,70105,El Torno,2006,10,TOTAL,27
+Tarija,60601,Entre Rios,2006,10,TOTAL,1
+Pando,90503,Eureka (santos Mercado),2006,10,TOTAL,33
+Pando,90203,Filadelfia,2006,10,TOTAL,17
+La Paz,20602,Guanay,2006,10,TOTAL,56
+Beni,80202,Guayaramerin,2006,10,TOTAL,2182
+Chuquisaca,10502,Huacareta,2006,10,TOTAL,42
+Pando,90402,Ingavi (humaita),2006,10,TOTAL,57
+La Paz,21501,Ixiamas,2006,10,TOTAL,303
+La Paz,21105,La Asunta,2006,10,TOTAL,6
+Santa Cruz,70104,La Guardia,2006,10,TOTAL,10
+Santa Cruz,70701,Lagunillas,2006,10,TOTAL,1
+Chuquisaca,11003,Machareti,2006,10,TOTAL,1
+Beni,80801,Magdalena,2006,10,TOTAL,6
+La Paz,20607,Mapiri,2006,10,TOTAL,129
+Chuquisaca,10501,Monteagudo,2006,10,TOTAL,307
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,10,TOTAL,80
+Pando,90501,Nuevo Manoa (nueva Esperanza),2006,10,TOTAL,25
+Tarija,60201,Padcaya,2006,10,TOTAL,77
+Chuquisaca,10401,Padilla,2006,10,TOTAL,1
+La Paz,21104,Palos Blancos,2006,10,TOTAL,24
+Chuquisaca,10103,Poroma,2006,10,TOTAL,18
+Santa Cruz,70103,Porongo,2006,10,TOTAL,15
+Pando,90102,Porvenir,2006,10,TOTAL,103
+Pando,90301,Puerto Gonzalo Moreno,2006,10,TOTAL,38
+Beni,80703,Puerto Siles,2006,10,TOTAL,1
+Santa Cruz,70904,Quirusillas,2006,10,TOTAL,11
+Beni,80301,Reyes,2006,10,TOTAL,3
+Beni,80201,Riberalta,2006,10,TOTAL,2552
+Santa Cruz,71302,Saipina,2006,10,TOTAL,176
+Beni,80302,San Borja,2006,10,TOTAL,5
+La Paz,21502,San Buena Ventura,2006,10,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2006,10,TOTAL,24
+Beni,80701,San Joaquin,2006,10,TOTAL,7
+Pando,90302,San Lorenzo(pnd),2006,10,TOTAL,438
+Beni,80303,Santa Rosa,2006,10,TOTAL,3
+Pando,90303,Sena,2006,10,TOTAL,108
+Chuquisaca,10403,Sopachuy,2006,10,TOTAL,4
+Chuquisaca,10101,Sucre,2006,10,TOTAL,2
+La Paz,20608,Teoponte,2006,10,TOTAL,57
+Cochabamba,31601,Tiraque (cbba),2006,10,TOTAL,1
+Chuquisaca,10402,Tomina,2006,10,TOTAL,2
+Potosí,50502,Toro Toro,2006,10,TOTAL,8
+Tarija,60303,Villa Montes,2006,10,TOTAL,135
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,10,TOTAL,36
+Tarija,60301,Yacuiba,2006,10,TOTAL,139
+Potosí,51302,Acacio,2006,11,TOTAL,24
+La Paz,20701,Apolo,2006,11,TOTAL,101
+Chuquisaca,10201,Azurduy,2006,11,TOTAL,5
+Beni,80802,Baures,2006,11,TOTAL,49
+Pando,90104,Bella Flor,2006,11,TOTAL,105
+Tarija,60202,Bermejo,2006,11,TOTAL,1258
+Santa Cruz,70401,Buena Vista,2006,11,TOTAL,3
+Santa Cruz,70703,Cabezas,2006,11,TOTAL,1
+La Paz,22001,Caranavi,2006,11,TOTAL,46
+Tarija,60302,Carapari,2006,11,TOTAL,41
+Cochabamba,31204,Chimore,2006,11,TOTAL,2
+Cochabamba,31002,Colomi,2006,11,TOTAL,2
+Santa Cruz,71101,Concepcion,2006,11,TOTAL,32
+Santa Cruz,70105,El Torno,2006,11,TOTAL,52
+Tarija,60601,Entre Rios,2006,11,TOTAL,141
+Tarija,60601,Entre Rios,2006,11,TOTAL,5
+Pando,90203,Filadelfia,2006,11,TOTAL,35
+La Paz,20602,Guanay,2006,11,TOTAL,63
+Beni,80202,Guayaramerin,2006,11,TOTAL,4030
+Chuquisaca,10502,Huacareta,2006,11,TOTAL,20
+Chuquisaca,11002,Huacaya (villa De Huacaya),2006,11,TOTAL,1
+Pando,90402,Ingavi (humaita),2006,11,TOTAL,76
+La Paz,21105,La Asunta,2006,11,TOTAL,25
+Santa Cruz,70104,La Guardia,2006,11,TOTAL,14
+La Paz,20101,La Paz,2006,11,TOTAL,202
+Santa Cruz,70701,Lagunillas,2006,11,TOTAL,3
+Chuquisaca,11003,Machareti,2006,11,TOTAL,2
+Beni,80801,Magdalena,2006,11,TOTAL,36
+La Paz,20607,Mapiri,2006,11,TOTAL,165
+Cochabamba,31301,Mizque,2006,11,TOTAL,3
+Chuquisaca,10303,Mojocoya,2006,11,TOTAL,1
+Chuquisaca,10501,Monteagudo,2006,11,TOTAL,1085
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,11,TOTAL,166
+Cochabamba,30203,Omereque,2006,11,TOTAL,2
+Tarija,60201,Padcaya,2006,11,TOTAL,527
+Chuquisaca,10401,Padilla,2006,11,TOTAL,7
+La Paz,21104,Palos Blancos,2006,11,TOTAL,381
+Santa Cruz,70103,Porongo,2006,11,TOTAL,13
+Pando,90102,Porvenir,2006,11,TOTAL,239
+Pando,90301,Puerto Gonzalo Moreno,2006,11,TOTAL,38
+Santa Cruz,71402,Puerto Quijarro,2006,11,TOTAL,2
+Pando,90201,Puerto Rico,2006,11,TOTAL,195
+Beni,80201,Riberalta,2006,11,TOTAL,8394
+Santa Cruz,71302,Saipina,2006,11,TOTAL,96
+Beni,80302,San Borja,2006,11,TOTAL,2
+La Paz,21502,San Buena Ventura,2006,11,TOTAL,24
+Santa Cruz,70301,San Ignacio De Velasco,2006,11,TOTAL,40
+Pando,90302,San Lorenzo(pnd),2006,11,TOTAL,164
+Potosí,50501,San Pedro De Buena Vista,2006,11,TOTAL,51
+Pando,90202,San Pedro(pnd),2006,11,TOTAL,20
+Beni,80303,Santa Rosa,2006,11,TOTAL,10
+Pando,90303,Sena,2006,11,TOTAL,134
+Chuquisaca,10403,Sopachuy,2006,11,TOTAL,2
+La Paz,20608,Teoponte,2006,11,TOTAL,98
+Potosí,50502,Toro Toro,2006,11,TOTAL,4
+Tarija,60303,Villa Montes,2006,11,TOTAL,7
+Cochabamba,31003,Villa Tunari,2006,11,TOTAL,21
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,11,TOTAL,759
+Tarija,60301,Yacuiba,2006,11,TOTAL,79
+Potosí,51302,Acacio,2006,12,TOTAL,70
+Cochabamba,30201,Aiquile,2006,12,TOTAL,1
+Chuquisaca,10201,Azurduy,2006,12,TOTAL,14
+Beni,80802,Baures,2006,12,TOTAL,7
+Tarija,60202,Bermejo,2006,12,TOTAL,964
+Santa Cruz,70401,Buena Vista,2006,12,TOTAL,8
+Santa Cruz,70703,Cabezas,2006,12,TOTAL,8
+La Paz,22001,Caranavi,2006,12,TOTAL,39
+Tarija,60302,Carapari,2006,12,TOTAL,42
+Pando,90101,Cobija,2006,12,TOTAL,80
+Cochabamba,31002,Colomi,2006,12,TOTAL,4
+Tarija,60502,El Puente(tja),2006,12,TOTAL,1
+Santa Cruz,70105,El Torno,2006,12,TOTAL,116
+Tarija,60601,Entre Rios,2006,12,TOTAL,191
+Pando,90503,Eureka (santos Mercado),2006,12,TOTAL,20
+Pando,90203,Filadelfia,2006,12,TOTAL,7
+La Paz,20602,Guanay,2006,12,TOTAL,56
+Beni,80202,Guayaramerin,2006,12,TOTAL,3679
+Chuquisaca,10502,Huacareta,2006,12,TOTAL,26
+Pando,90402,Ingavi (humaita),2006,12,TOTAL,52
+La Paz,21501,Ixiamas,2006,12,TOTAL,3
+La Paz,21105,La Asunta,2006,12,TOTAL,43
+Santa Cruz,70104,La Guardia,2006,12,TOTAL,61
+La Paz,20101,La Paz,2006,12,TOTAL,73
+Santa Cruz,70701,Lagunillas,2006,12,TOTAL,1
+Beni,80801,Magdalena,2006,12,TOTAL,8
+La Paz,20607,Mapiri,2006,12,TOTAL,168
+Cochabamba,31301,Mizque,2006,12,TOTAL,2
+Chuquisaca,10501,Monteagudo,2006,12,TOTAL,136
+Pando,90401,Nacebe (santa Rosa Del Abuna),2006,12,TOTAL,76
+Cochabamba,30203,Omereque,2006,12,TOTAL,1
+Tarija,60201,Padcaya,2006,12,TOTAL,55
+Chuquisaca,10401,Padilla,2006,12,TOTAL,14
+La Paz,21104,Palos Blancos,2006,12,TOTAL,43
+Cochabamba,31202,Pojo (cbba),2006,12,TOTAL,1
+Santa Cruz,70103,Porongo,2006,12,TOTAL,26
+Pando,90102,Porvenir,2006,12,TOTAL,290
+Pando,90301,Puerto Gonzalo Moreno,2006,12,TOTAL,131
+Santa Cruz,71402,Puerto Quijarro,2006,12,TOTAL,6
+Pando,90201,Puerto Rico,2006,12,TOTAL,314
+Potosí,50402,Ravelo,2006,12,TOTAL,75
+Beni,80201,Riberalta,2006,12,TOTAL,4899
+Santa Cruz,71302,Saipina,2006,12,TOTAL,94
+Beni,80302,San Borja,2006,12,TOTAL,5
+La Paz,21502,San Buena Ventura,2006,12,TOTAL,9
+Santa Cruz,70301,San Ignacio De Velasco,2006,12,TOTAL,58
+Pando,90302,San Lorenzo(pnd),2006,12,TOTAL,145
+Tarija,60501,San Lorenzo(tja),2006,12,TOTAL,1
+Pando,90202,San Pedro(pnd),2006,12,TOTAL,11
+Beni,80303,Santa Rosa,2006,12,TOTAL,6
+Pando,90303,Sena,2006,12,TOTAL,179
+Chuquisaca,10403,Sopachuy,2006,12,TOTAL,8
+La Paz,20608,Teoponte,2006,12,TOTAL,36
+La Paz,20606,Tipuani,2006,12,TOTAL,1
+Chuquisaca,10402,Tomina,2006,12,TOTAL,2
+Potosí,50502,Toro Toro,2006,12,TOTAL,312
+Santa Cruz,70801,Vallegrande,2006,12,TOTAL,1
+Tarija,60303,Villa Montes,2006,12,TOTAL,146
+Cochabamba,31003,Villa Tunari,2006,12,TOTAL,66
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2006,12,TOTAL,38
+Tarija,60301,Yacuiba,2006,12,TOTAL,60
+Tarija,60402,Yunchara,2006,12,TOTAL,1

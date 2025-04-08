@@ -1,0 +1,567 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20104,Achocalla,2020,1,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20701,Apolo,2020,1,No de quejas y reclamos realizadas por los usuarios,10
+Cochabamba,30403,Arbieto,2020,1,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2020,1,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20501,Chuma,2020,1,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30101,Cochabamba,2020,1,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31002,Colomi,2020,1,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,20105,El Alto,2020,1,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,20101,La Paz,2020,1,No de quejas y reclamos realizadas por los usuarios,21
+Potosí,50101,Potosi,2020,1,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20403,Puerto Carabuco,2020,1,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50402,Ravelo,2020,1,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70503,Robore,2020,1,No de quejas y reclamos realizadas por los usuarios,3
+Beni,80401,Santa Ana,2020,1,No de quejas y reclamos realizadas por los usuarios,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,1,No de quejas y reclamos realizadas por los usuarios,14
+La Paz,20902,Sapahaqui,2020,1,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10101,Sucre,2020,1,No de quejas y reclamos realizadas por los usuarios,16
+Cochabamba,31101,Tapacari,2020,1,No de quejas y reclamos realizadas por los usuarios,2
+Tarija,60101,Tarija,2020,1,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50102,Tinguipaya,2020,1,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30903,Tiquipaya,2020,1,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20801,Viacha,2020,1,No de quejas y reclamos realizadas por los usuarios,1
+Tarija,60303,Villa Montes,2020,1,No de quejas y reclamos realizadas por los usuarios,6
+Cochabamba,31003,Villa Tunari,2020,1,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20306,Waldo Ballivian,2020,1,No de quejas y reclamos realizadas por los usuarios,4
+Potosí,50802,Atocha,2020,2,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50301,Betanzos,2020,2,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,30101,Cochabamba,2020,2,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50901,"Colcha ""k""",2020,2,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,21306,Colquencha,2020,2,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20105,El Alto,2020,2,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,20101,La Paz,2020,2,No de quejas y reclamos realizadas por los usuarios,20
+La Paz,20103,Mecapaca,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+Tarija,60201,Padcaya,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2020,2,No de quejas y reclamos realizadas por los usuarios,5
+Beni,80201,Riberalta,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70503,Robore,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70501,San Jose De Chiquitos,2020,2,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,21702,San Pedro De Tiquina,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80401,Santa Ana,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,2,No de quejas y reclamos realizadas por los usuarios,18
+La Paz,20902,Sapahaqui,2020,2,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10101,Sucre,2020,2,No de quejas y reclamos realizadas por los usuarios,20
+Cochabamba,30401,Tarata,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50102,Tinguipaya,2020,2,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50801,Tupiza,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51201,Uyuni,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+Tarija,60303,Villa Montes,2020,2,No de quejas y reclamos realizadas por los usuarios,6
+Santa Cruz,70201,Warnes,2020,2,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20104,Achocalla,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10201,Azurduy,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80802,Baures,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2020,3,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,20501,Chuma,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21306,Colquencha,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2020,3,No de quejas y reclamos realizadas por los usuarios,12
+La Paz,20204,Huarina,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10304,Icla,2020,3,No de quejas y reclamos realizadas por los usuarios,12
+La Paz,20101,La Paz,2020,3,No de quejas y reclamos realizadas por los usuarios,7
+Potosí,50101,Potosi,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21201,Pucarani,2020,3,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,51101,Puna,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50402,Ravelo,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70501,San Jose De Chiquitos,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10702,San Lucas,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80401,Santa Ana,2020,3,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10101,Sucre,2020,3,No de quejas y reclamos realizadas por los usuarios,10
+Cochabamba,30903,Tiquipaya,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50801,Tupiza,2020,3,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50201,Uncia,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10301,Zudañez,2020,3,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30402,Anzaldo,2020,4,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50802,Atocha,2020,4,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50301,Betanzos,2020,4,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20501,Chuma,2020,4,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30101,Cochabamba,2020,4,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50901,"Colcha ""k""",2020,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2020,4,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,20204,Huarina,2020,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2020,4,No de quejas y reclamos realizadas por los usuarios,3
+Oruro,40101,Oruro,2020,4,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,21201,Pucarani,2020,4,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50402,Ravelo,2020,4,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70501,San Jose De Chiquitos,2020,4,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10702,San Lucas,2020,4,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2020,4,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80401,Santa Ana,2020,4,No de quejas y reclamos realizadas por los usuarios,3
+Chuquisaca,10101,Sucre,2020,4,No de quejas y reclamos realizadas por los usuarios,12
+Potosí,50102,Tinguipaya,2020,4,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50801,Tupiza,2020,4,No de quejas y reclamos realizadas por los usuarios,4
+Tarija,60303,Villa Montes,2020,4,No de quejas y reclamos realizadas por los usuarios,5
+Pando,90502,Villa Nueva (loma Alta),2020,4,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31003,Villa Tunari,2020,4,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20306,Waldo Ballivian,2020,4,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,70201,Warnes,2020,4,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50802,Atocha,2020,5,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50301,Betanzos,2020,5,No de quejas y reclamos realizadas por los usuarios,4
+Potosí,51102,"Caiza ""d""",2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40102,Caracollo,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20501,Chuma,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51103,Ckochas,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2020,5,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,20101,La Paz,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40702,Machacamarca,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2020,5,No de quejas y reclamos realizadas por los usuarios,13
+La Paz,21201,Pucarani,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21002,Quime,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50402,Ravelo,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,71201,San Matias,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10101,Sucre,2020,5,No de quejas y reclamos realizadas por los usuarios,7
+Potosí,50102,Tinguipaya,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Tarija,60303,Villa Montes,2020,5,No de quejas y reclamos realizadas por los usuarios,4
+Pando,90502,Villa Nueva (loma Alta),2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31003,Villa Tunari,2020,5,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50802,Atocha,2020,6,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50301,Betanzos,2020,6,No de quejas y reclamos realizadas por los usuarios,5
+Santa Cruz,70703,Cabezas,2020,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51102,"Caiza ""d""",2020,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50302,Chaqui,2020,6,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20501,Chuma,2020,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50901,"Colcha ""k""",2020,6,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10304,Icla,2020,6,No de quejas y reclamos realizadas por los usuarios,12
+La Paz,20101,La Paz,2020,6,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50403,Pocoata,2020,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2020,6,No de quejas y reclamos realizadas por los usuarios,13
+La Paz,21201,Pucarani,2020,6,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20403,Puerto Carabuco,2020,6,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2020,6,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80102,San Javier(bni),2020,6,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,51001,San Pablo De Lipez,2020,6,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2020,6,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10101,Sucre,2020,6,No de quejas y reclamos realizadas por los usuarios,10
+Potosí,50102,Tinguipaya,2020,6,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50802,Atocha,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2020,7,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,20501,Chuma,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50901,"Colcha ""k""",2020,7,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50601,Cotagaita,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2020,7,No de quejas y reclamos realizadas por los usuarios,4
+Potosí,50403,Pocoata,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21201,Pucarani,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31205,Puerto Villarroel,2020,7,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31401,Punata,2020,7,No de quejas y reclamos realizadas por los usuarios,6
+Potosí,50402,Ravelo,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10702,San Lucas,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50902,San Pedro De Quemes,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2020,7,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10101,Sucre,2020,7,No de quejas y reclamos realizadas por los usuarios,8
+Potosí,50102,Tinguipaya,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31003,Villa Tunari,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30904,Vinto,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70201,Warnes,2020,7,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20104,Achocalla,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30501,Arani,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2020,8,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20501,Chuma,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20204,Huarina,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21005,Ichoca,2020,8,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,30302,Morochata,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21201,Pucarani,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20403,Puerto Carabuco,2020,8,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50402,Ravelo,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80602,San Andres,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21502,San Buena Ventura,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80102,San Javier(bni),2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10702,San Lucas,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,71201,San Matias,2020,8,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,21801,San Pedro De Curahuara,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80401,Santa Ana,2020,8,No de quejas y reclamos realizadas por los usuarios,2
+Tarija,60101,Tarija,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50102,Tinguipaya,2020,8,No de quejas y reclamos realizadas por los usuarios,2
+Oruro,40402,Turco,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Tarija,60303,Villa Montes,2020,8,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70201,Warnes,2020,8,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50301,Betanzos,2020,9,No de quejas y reclamos realizadas por los usuarios,8
+La Paz,20302,Caquiaviri,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Tarija,60302,Carapari,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20305,Charaña,2020,9,No de quejas y reclamos realizadas por los usuarios,2
+La Paz,20501,Chuma,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50601,Cotagaita,2020,9,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,20105,El Alto,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31206,Entre Rios Cbba,2020,9,No de quejas y reclamos realizadas por los usuarios,11
+La Paz,21005,Ichoca,2020,9,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10304,Icla,2020,9,No de quejas y reclamos realizadas por los usuarios,8
+La Paz,20101,La Paz,2020,9,No de quejas y reclamos realizadas por los usuarios,3
+Beni,80801,Magdalena,2020,9,No de quejas y reclamos realizadas por los usuarios,4
+Potosí,50403,Pocoata,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10103,Poroma,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50101,Potosi,2020,9,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10302,Presto,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31205,Puerto Villarroel,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50402,Ravelo,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2020,9,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,71104,San Julian,2020,9,No de quejas y reclamos realizadas por los usuarios,10
+Potosí,51001,San Pablo De Lipez,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50902,San Pedro De Quemes,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,9,No de quejas y reclamos realizadas por los usuarios,5
+Oruro,41401,Santiago De Huari,2020,9,No de quejas y reclamos realizadas por los usuarios,16
+La Paz,21301,Sica Sica (villa Aroma),2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30902,Sipe Sipe,2020,9,No de quejas y reclamos realizadas por los usuarios,14
+Chuquisaca,10101,Sucre,2020,9,No de quejas y reclamos realizadas por los usuarios,12
+Cochabamba,30602,Tacopaya,2020,9,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31003,Villa Tunari,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30904,Vinto,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20306,Waldo Ballivian,2020,9,No de quejas y reclamos realizadas por los usuarios,5
+Chuquisaca,10602,Yamparaez,2020,9,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20104,Achocalla,2020,10,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50301,Betanzos,2020,10,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,20501,Chuma,2020,10,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,30101,Cochabamba,2020,10,No de quejas y reclamos realizadas por los usuarios,6
+Potosí,50901,"Colcha ""k""",2020,10,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2020,10,No de quejas y reclamos realizadas por los usuarios,10
+La Paz,20204,Huarina,2020,10,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2020,10,No de quejas y reclamos realizadas por los usuarios,5
+Potosí,50404,Ocuri,2020,10,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40101,Oruro,2020,10,No de quejas y reclamos realizadas por los usuarios,24
+La Paz,20401,Puerto Acosta,2020,10,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20403,Puerto Carabuco,2020,10,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50402,Ravelo,2020,10,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21702,San Pedro De Tiquina,2020,10,No de quejas y reclamos realizadas por los usuarios,3
+Beni,80401,Santa Ana,2020,10,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,10,No de quejas y reclamos realizadas por los usuarios,7
+Cochabamba,30902,Sipe Sipe,2020,10,No de quejas y reclamos realizadas por los usuarios,4
+Chuquisaca,10101,Sucre,2020,10,No de quejas y reclamos realizadas por los usuarios,8
+Potosí,50801,Tupiza,2020,10,No de quejas y reclamos realizadas por los usuarios,9
+La Paz,20801,Viacha,2020,10,No de quejas y reclamos realizadas por los usuarios,2
+Tarija,60303,Villa Montes,2020,10,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,70201,Warnes,2020,10,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20104,Achocalla,2020,11,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50802,Atocha,2020,11,No de quejas y reclamos realizadas por los usuarios,2
+Potosí,50301,Betanzos,2020,11,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,20501,Chuma,2020,11,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20105,El Alto,2020,11,No de quejas y reclamos realizadas por los usuarios,22
+Tarija,60502,El Puente(tja),2020,11,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70105,El Torno,2020,11,No de quejas y reclamos realizadas por los usuarios,5
+La Paz,20802,Guaqui,2020,11,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20204,Huarina,2020,11,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20101,La Paz,2020,11,No de quejas y reclamos realizadas por los usuarios,5
+Beni,80801,Magdalena,2020,11,No de quejas y reclamos realizadas por los usuarios,1
+Oruro,40101,Oruro,2020,11,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50101,Potosi,2020,11,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,20403,Puerto Carabuco,2020,11,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50402,Ravelo,2020,11,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80501,San Ignacio,2020,11,No de quejas y reclamos realizadas por los usuarios,1
+Beni,80401,Santa Ana,2020,11,No de quejas y reclamos realizadas por los usuarios,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,11,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10101,Sucre,2020,11,No de quejas y reclamos realizadas por los usuarios,14
+Tarija,60101,Tarija,2020,11,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,50801,Tupiza,2020,11,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,20801,Viacha,2020,11,No de quejas y reclamos realizadas por los usuarios,2
+Cochabamba,31003,Villa Tunari,2020,11,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70201,Warnes,2020,11,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50301,Betanzos,2020,12,No de quejas y reclamos realizadas por los usuarios,6
+Potosí,51102,"Caiza ""d""",2020,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,21304,Calamarca,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,22001,Caranavi,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50901,"Colcha ""k""",2020,12,No de quejas y reclamos realizadas por los usuarios,3
+La Paz,20105,El Alto,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20204,Huarina,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+Chuquisaca,10304,Icla,2020,12,No de quejas y reclamos realizadas por los usuarios,12
+La Paz,20101,La Paz,2020,12,No de quejas y reclamos realizadas por los usuarios,2
+Oruro,40101,Oruro,2020,12,No de quejas y reclamos realizadas por los usuarios,4
+La Paz,21201,Pucarani,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20401,Puerto Acosta,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+Cochabamba,31401,Punata,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50701,Sacaca,2020,12,No de quejas y reclamos realizadas por los usuarios,3
+Potosí,51003,San Antonio De Esmoruco,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70402,San Carlos,2020,12,No de quejas y reclamos realizadas por los usuarios,13
+Santa Cruz,71104,San Julian,2020,12,No de quejas y reclamos realizadas por los usuarios,2
+Beni,80401,Santa Ana,2020,12,No de quejas y reclamos realizadas por los usuarios,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,12,No de quejas y reclamos realizadas por los usuarios,4
+Cochabamba,30902,Sipe Sipe,2020,12,No de quejas y reclamos realizadas por los usuarios,3
+Chuquisaca,10101,Sucre,2020,12,No de quejas y reclamos realizadas por los usuarios,6
+Chuquisaca,10601,Tarabuco,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+Potosí,50801,Tupiza,2020,12,No de quejas y reclamos realizadas por los usuarios,6
+Tarija,60303,Villa Montes,2020,12,No de quejas y reclamos realizadas por los usuarios,6
+La Paz,20306,Waldo Ballivian,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+Santa Cruz,70201,Warnes,2020,12,No de quejas y reclamos realizadas por los usuarios,2
+Chuquisaca,10602,Yamparaez,2020,12,No de quejas y reclamos realizadas por los usuarios,1
+La Paz,20104,Achocalla,2020,1,TOTAL,2
+La Paz,20701,Apolo,2020,1,TOTAL,10
+Cochabamba,30403,Arbieto,2020,1,TOTAL,1
+Potosí,50301,Betanzos,2020,1,TOTAL,4
+La Paz,20501,Chuma,2020,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,1,TOTAL,1
+Cochabamba,31002,Colomi,2020,1,TOTAL,3
+La Paz,20105,El Alto,2020,1,TOTAL,6
+La Paz,20101,La Paz,2020,1,TOTAL,21
+Potosí,50101,Potosi,2020,1,TOTAL,1
+La Paz,20403,Puerto Carabuco,2020,1,TOTAL,2
+Potosí,50402,Ravelo,2020,1,TOTAL,1
+Santa Cruz,70503,Robore,2020,1,TOTAL,3
+Beni,80401,Santa Ana,2020,1,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,1,TOTAL,14
+La Paz,20902,Sapahaqui,2020,1,TOTAL,2
+Chuquisaca,10101,Sucre,2020,1,TOTAL,16
+Cochabamba,31101,Tapacari,2020,1,TOTAL,2
+Tarija,60101,Tarija,2020,1,TOTAL,1
+Potosí,50102,Tinguipaya,2020,1,TOTAL,1
+Cochabamba,30903,Tiquipaya,2020,1,TOTAL,1
+La Paz,20801,Viacha,2020,1,TOTAL,1
+Tarija,60303,Villa Montes,2020,1,TOTAL,6
+Cochabamba,31003,Villa Tunari,2020,1,TOTAL,4
+La Paz,20306,Waldo Ballivian,2020,1,TOTAL,4
+Potosí,50802,Atocha,2020,2,TOTAL,3
+Potosí,50301,Betanzos,2020,2,TOTAL,2
+Cochabamba,30101,Cochabamba,2020,2,TOTAL,2
+Potosí,50901,"Colcha ""k""",2020,2,TOTAL,2
+La Paz,21306,Colquencha,2020,2,TOTAL,2
+La Paz,20105,El Alto,2020,2,TOTAL,6
+La Paz,20101,La Paz,2020,2,TOTAL,20
+La Paz,20103,Mecapaca,2020,2,TOTAL,1
+Tarija,60201,Padcaya,2020,2,TOTAL,1
+Potosí,50101,Potosi,2020,2,TOTAL,5
+Beni,80201,Riberalta,2020,2,TOTAL,1
+Santa Cruz,70503,Robore,2020,2,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2020,2,TOTAL,3
+La Paz,21702,San Pedro De Tiquina,2020,2,TOTAL,1
+Beni,80401,Santa Ana,2020,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,2,TOTAL,18
+La Paz,20902,Sapahaqui,2020,2,TOTAL,2
+Chuquisaca,10101,Sucre,2020,2,TOTAL,20
+Cochabamba,30401,Tarata,2020,2,TOTAL,1
+Potosí,50102,Tinguipaya,2020,2,TOTAL,2
+Potosí,50801,Tupiza,2020,2,TOTAL,1
+Potosí,51201,Uyuni,2020,2,TOTAL,1
+Tarija,60303,Villa Montes,2020,2,TOTAL,6
+Santa Cruz,70201,Warnes,2020,2,TOTAL,1
+La Paz,20104,Achocalla,2020,3,TOTAL,1
+Chuquisaca,10201,Azurduy,2020,3,TOTAL,1
+Beni,80802,Baures,2020,3,TOTAL,1
+Potosí,50301,Betanzos,2020,3,TOTAL,5
+La Paz,20501,Chuma,2020,3,TOTAL,1
+La Paz,21306,Colquencha,2020,3,TOTAL,1
+La Paz,20105,El Alto,2020,3,TOTAL,12
+La Paz,20204,Huarina,2020,3,TOTAL,1
+Chuquisaca,10304,Icla,2020,3,TOTAL,12
+La Paz,20101,La Paz,2020,3,TOTAL,7
+Potosí,50101,Potosi,2020,3,TOTAL,1
+La Paz,21201,Pucarani,2020,3,TOTAL,3
+Potosí,51101,Puna,2020,3,TOTAL,1
+Potosí,50402,Ravelo,2020,3,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2020,3,TOTAL,1
+Chuquisaca,10702,San Lucas,2020,3,TOTAL,1
+Beni,80401,Santa Ana,2020,3,TOTAL,2
+Chuquisaca,10101,Sucre,2020,3,TOTAL,10
+Cochabamba,30903,Tiquipaya,2020,3,TOTAL,1
+Potosí,50801,Tupiza,2020,3,TOTAL,2
+Potosí,50201,Uncia,2020,3,TOTAL,1
+Chuquisaca,10301,Zudañez,2020,3,TOTAL,1
+Cochabamba,30402,Anzaldo,2020,4,TOTAL,1
+Potosí,50802,Atocha,2020,4,TOTAL,3
+Potosí,50301,Betanzos,2020,4,TOTAL,4
+La Paz,20501,Chuma,2020,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,4,TOTAL,2
+Potosí,50901,"Colcha ""k""",2020,4,TOTAL,1
+La Paz,20105,El Alto,2020,4,TOTAL,6
+La Paz,20204,Huarina,2020,4,TOTAL,1
+La Paz,20101,La Paz,2020,4,TOTAL,3
+Oruro,40101,Oruro,2020,4,TOTAL,2
+La Paz,21201,Pucarani,2020,4,TOTAL,2
+Potosí,50402,Ravelo,2020,4,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2020,4,TOTAL,2
+Chuquisaca,10702,San Lucas,2020,4,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2020,4,TOTAL,1
+Beni,80401,Santa Ana,2020,4,TOTAL,3
+Chuquisaca,10101,Sucre,2020,4,TOTAL,12
+Potosí,50102,Tinguipaya,2020,4,TOTAL,1
+Potosí,50801,Tupiza,2020,4,TOTAL,4
+Tarija,60303,Villa Montes,2020,4,TOTAL,5
+Pando,90502,Villa Nueva (loma Alta),2020,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,4,TOTAL,2
+La Paz,20306,Waldo Ballivian,2020,4,TOTAL,3
+Santa Cruz,70201,Warnes,2020,4,TOTAL,1
+Potosí,50802,Atocha,2020,5,TOTAL,2
+Potosí,50301,Betanzos,2020,5,TOTAL,4
+Potosí,51102,"Caiza ""d""",2020,5,TOTAL,1
+Oruro,40102,Caracollo,2020,5,TOTAL,1
+La Paz,20501,Chuma,2020,5,TOTAL,1
+Potosí,51103,Ckochas,2020,5,TOTAL,1
+La Paz,20105,El Alto,2020,5,TOTAL,5
+La Paz,20101,La Paz,2020,5,TOTAL,1
+Oruro,40702,Machacamarca,2020,5,TOTAL,1
+Potosí,50101,Potosi,2020,5,TOTAL,13
+La Paz,21201,Pucarani,2020,5,TOTAL,1
+La Paz,21002,Quime,2020,5,TOTAL,1
+Potosí,50402,Ravelo,2020,5,TOTAL,1
+Santa Cruz,71201,San Matias,2020,5,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2020,5,TOTAL,1
+Chuquisaca,10101,Sucre,2020,5,TOTAL,7
+Potosí,50102,Tinguipaya,2020,5,TOTAL,1
+Tarija,60303,Villa Montes,2020,5,TOTAL,4
+Pando,90502,Villa Nueva (loma Alta),2020,5,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,5,TOTAL,1
+Potosí,50802,Atocha,2020,6,TOTAL,3
+Potosí,50301,Betanzos,2020,6,TOTAL,5
+Santa Cruz,70703,Cabezas,2020,6,TOTAL,1
+Potosí,51102,"Caiza ""d""",2020,6,TOTAL,1
+Potosí,50302,Chaqui,2020,6,TOTAL,1
+La Paz,20501,Chuma,2020,6,TOTAL,1
+Potosí,50901,"Colcha ""k""",2020,6,TOTAL,1
+Chuquisaca,10304,Icla,2020,6,TOTAL,12
+La Paz,20101,La Paz,2020,6,TOTAL,3
+Potosí,50403,Pocoata,2020,6,TOTAL,1
+Potosí,50101,Potosi,2020,6,TOTAL,13
+La Paz,21201,Pucarani,2020,6,TOTAL,1
+La Paz,20403,Puerto Carabuco,2020,6,TOTAL,1
+Beni,80501,San Ignacio,2020,6,TOTAL,1
+Beni,80102,San Javier(bni),2020,6,TOTAL,1
+Potosí,51001,San Pablo De Lipez,2020,6,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2020,6,TOTAL,1
+Chuquisaca,10101,Sucre,2020,6,TOTAL,10
+Potosí,50102,Tinguipaya,2020,6,TOTAL,3
+Potosí,50802,Atocha,2020,7,TOTAL,1
+Potosí,50301,Betanzos,2020,7,TOTAL,5
+La Paz,20501,Chuma,2020,7,TOTAL,1
+Potosí,50901,"Colcha ""k""",2020,7,TOTAL,2
+Potosí,50601,Cotagaita,2020,7,TOTAL,1
+La Paz,20105,El Alto,2020,7,TOTAL,1
+La Paz,20101,La Paz,2020,7,TOTAL,4
+Potosí,50403,Pocoata,2020,7,TOTAL,1
+La Paz,21201,Pucarani,2020,7,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2020,7,TOTAL,2
+Cochabamba,31401,Punata,2020,7,TOTAL,6
+Potosí,50402,Ravelo,2020,7,TOTAL,1
+Chuquisaca,10702,San Lucas,2020,7,TOTAL,1
+Potosí,50902,San Pedro De Quemes,2020,7,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2020,7,TOTAL,2
+Chuquisaca,10101,Sucre,2020,7,TOTAL,8
+Potosí,50102,Tinguipaya,2020,7,TOTAL,1
+Cochabamba,31003,Villa Tunari,2020,7,TOTAL,1
+Cochabamba,30904,Vinto,2020,7,TOTAL,1
+Santa Cruz,70201,Warnes,2020,7,TOTAL,1
+La Paz,20104,Achocalla,2020,8,TOTAL,1
+Cochabamba,30501,Arani,2020,8,TOTAL,1
+Potosí,50301,Betanzos,2020,8,TOTAL,4
+La Paz,20501,Chuma,2020,8,TOTAL,1
+La Paz,20204,Huarina,2020,8,TOTAL,1
+La Paz,21005,Ichoca,2020,8,TOTAL,2
+Cochabamba,30302,Morochata,2020,8,TOTAL,1
+La Paz,21201,Pucarani,2020,8,TOTAL,1
+La Paz,20403,Puerto Carabuco,2020,8,TOTAL,3
+Potosí,50402,Ravelo,2020,8,TOTAL,1
+Beni,80602,San Andres,2020,8,TOTAL,1
+La Paz,21502,San Buena Ventura,2020,8,TOTAL,1
+Beni,80501,San Ignacio,2020,8,TOTAL,1
+Beni,80102,San Javier(bni),2020,8,TOTAL,1
+Chuquisaca,10702,San Lucas,2020,8,TOTAL,1
+Santa Cruz,71201,San Matias,2020,8,TOTAL,2
+La Paz,21801,San Pedro De Curahuara,2020,8,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2020,8,TOTAL,1
+Beni,80401,Santa Ana,2020,8,TOTAL,2
+Tarija,60101,Tarija,2020,8,TOTAL,1
+Potosí,50102,Tinguipaya,2020,8,TOTAL,2
+Oruro,40402,Turco,2020,8,TOTAL,1
+Tarija,60303,Villa Montes,2020,8,TOTAL,1
+Santa Cruz,70201,Warnes,2020,8,TOTAL,2
+Potosí,50301,Betanzos,2020,9,TOTAL,8
+La Paz,20302,Caquiaviri,2020,9,TOTAL,1
+Tarija,60302,Carapari,2020,9,TOTAL,1
+La Paz,20305,Charaña,2020,9,TOTAL,2
+La Paz,20501,Chuma,2020,9,TOTAL,1
+Potosí,50601,Cotagaita,2020,9,TOTAL,4
+La Paz,20105,El Alto,2020,9,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2020,9,TOTAL,11
+La Paz,21005,Ichoca,2020,9,TOTAL,2
+Chuquisaca,10304,Icla,2020,9,TOTAL,8
+La Paz,20101,La Paz,2020,9,TOTAL,3
+Beni,80801,Magdalena,2020,9,TOTAL,4
+Potosí,50403,Pocoata,2020,9,TOTAL,1
+Chuquisaca,10103,Poroma,2020,9,TOTAL,1
+Potosí,50101,Potosi,2020,9,TOTAL,2
+Chuquisaca,10302,Presto,2020,9,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2020,9,TOTAL,1
+Potosí,50402,Ravelo,2020,9,TOTAL,1
+Beni,80501,San Ignacio,2020,9,TOTAL,3
+Santa Cruz,71104,San Julian,2020,9,TOTAL,10
+Potosí,51001,San Pablo De Lipez,2020,9,TOTAL,1
+Potosí,50902,San Pedro De Quemes,2020,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,9,TOTAL,5
+Oruro,41401,Santiago De Huari,2020,9,TOTAL,16
+La Paz,21301,Sica Sica (villa Aroma),2020,9,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2020,9,TOTAL,14
+Chuquisaca,10101,Sucre,2020,9,TOTAL,12
+Cochabamba,30602,Tacopaya,2020,9,TOTAL,2
+Cochabamba,31003,Villa Tunari,2020,9,TOTAL,1
+Cochabamba,30904,Vinto,2020,9,TOTAL,1
+La Paz,20306,Waldo Ballivian,2020,9,TOTAL,5
+Chuquisaca,10602,Yamparaez,2020,9,TOTAL,1
+La Paz,20104,Achocalla,2020,10,TOTAL,2
+Potosí,50301,Betanzos,2020,10,TOTAL,5
+La Paz,20501,Chuma,2020,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2020,10,TOTAL,6
+Potosí,50901,"Colcha ""k""",2020,10,TOTAL,1
+La Paz,20105,El Alto,2020,10,TOTAL,10
+La Paz,20204,Huarina,2020,10,TOTAL,1
+La Paz,20101,La Paz,2020,10,TOTAL,5
+Potosí,50404,Ocuri,2020,10,TOTAL,1
+Oruro,40101,Oruro,2020,10,TOTAL,24
+La Paz,20401,Puerto Acosta,2020,10,TOTAL,1
+La Paz,20403,Puerto Carabuco,2020,10,TOTAL,1
+Potosí,50402,Ravelo,2020,10,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2020,10,TOTAL,3
+Beni,80401,Santa Ana,2020,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,10,TOTAL,7
+Cochabamba,30902,Sipe Sipe,2020,10,TOTAL,4
+Chuquisaca,10101,Sucre,2020,10,TOTAL,8
+Potosí,50801,Tupiza,2020,10,TOTAL,9
+La Paz,20801,Viacha,2020,10,TOTAL,2
+Tarija,60303,Villa Montes,2020,10,TOTAL,3
+Santa Cruz,70201,Warnes,2020,10,TOTAL,1
+La Paz,20104,Achocalla,2020,11,TOTAL,2
+Potosí,50802,Atocha,2020,11,TOTAL,2
+Potosí,50301,Betanzos,2020,11,TOTAL,5
+La Paz,20501,Chuma,2020,11,TOTAL,1
+La Paz,20105,El Alto,2020,11,TOTAL,22
+Tarija,60502,El Puente(tja),2020,11,TOTAL,1
+Santa Cruz,70105,El Torno,2020,11,TOTAL,5
+La Paz,20802,Guaqui,2020,11,TOTAL,1
+La Paz,20204,Huarina,2020,11,TOTAL,1
+La Paz,20101,La Paz,2020,11,TOTAL,5
+Beni,80801,Magdalena,2020,11,TOTAL,1
+Oruro,40101,Oruro,2020,11,TOTAL,3
+Potosí,50101,Potosi,2020,11,TOTAL,3
+La Paz,20403,Puerto Carabuco,2020,11,TOTAL,1
+Potosí,50402,Ravelo,2020,11,TOTAL,1
+Beni,80501,San Ignacio,2020,11,TOTAL,1
+Beni,80401,Santa Ana,2020,11,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,11,TOTAL,2
+Chuquisaca,10101,Sucre,2020,11,TOTAL,14
+Tarija,60101,Tarija,2020,11,TOTAL,3
+Potosí,50801,Tupiza,2020,11,TOTAL,3
+La Paz,20801,Viacha,2020,11,TOTAL,2
+Cochabamba,31003,Villa Tunari,2020,11,TOTAL,1
+Santa Cruz,70201,Warnes,2020,11,TOTAL,1
+Potosí,50301,Betanzos,2020,12,TOTAL,6
+Potosí,51102,"Caiza ""d""",2020,12,TOTAL,1
+La Paz,21304,Calamarca,2020,12,TOTAL,1
+La Paz,22001,Caranavi,2020,12,TOTAL,1
+Potosí,50901,"Colcha ""k""",2020,12,TOTAL,3
+La Paz,20105,El Alto,2020,12,TOTAL,1
+La Paz,20204,Huarina,2020,12,TOTAL,1
+Chuquisaca,10304,Icla,2020,12,TOTAL,12
+La Paz,20101,La Paz,2020,12,TOTAL,2
+Oruro,40101,Oruro,2020,12,TOTAL,4
+La Paz,21201,Pucarani,2020,12,TOTAL,1
+La Paz,20401,Puerto Acosta,2020,12,TOTAL,1
+Cochabamba,31401,Punata,2020,12,TOTAL,1
+Potosí,50701,Sacaca,2020,12,TOTAL,3
+Potosí,51003,San Antonio De Esmoruco,2020,12,TOTAL,1
+Santa Cruz,70402,San Carlos,2020,12,TOTAL,13
+Santa Cruz,71104,San Julian,2020,12,TOTAL,2
+Beni,80401,Santa Ana,2020,12,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,12,TOTAL,4
+Cochabamba,30902,Sipe Sipe,2020,12,TOTAL,3
+Chuquisaca,10101,Sucre,2020,12,TOTAL,6
+Chuquisaca,10601,Tarabuco,2020,12,TOTAL,1
+Potosí,50801,Tupiza,2020,12,TOTAL,6
+Tarija,60303,Villa Montes,2020,12,TOTAL,6
+La Paz,20306,Waldo Ballivian,2020,12,TOTAL,1
+Santa Cruz,70201,Warnes,2020,12,TOTAL,2
+Chuquisaca,10602,Yamparaez,2020,12,TOTAL,1

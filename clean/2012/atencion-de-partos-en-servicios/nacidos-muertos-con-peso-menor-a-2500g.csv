@@ -1,0 +1,703 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10701,Camargo,2012,1,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2012,1,Nacidos muertos con peso menor a 2500g,1
+Pando,90101,Cobija,2012,1,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,30101,Cochabamba,2012,1,Nacidos muertos con peso menor a 2500g,15
+La Paz,20105,El Alto,2012,1,Nacidos muertos con peso menor a 2500g,8
+La Paz,20101,La Paz,2012,1,Nacidos muertos con peso menor a 2500g,21
+Potosí,50203,Llallagua,2012,1,Nacidos muertos con peso menor a 2500g,1
+La Paz,20607,Mapiri,2012,1,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2012,1,Nacidos muertos con peso menor a 2500g,4
+Oruro,40101,Oruro,2012,1,Nacidos muertos con peso menor a 2500g,7
+Chuquisaca,10401,Padilla,2012,1,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70902,Pampa Grande,2012,1,Nacidos muertos con peso menor a 2500g,2
+Chuquisaca,10103,Poroma,2012,1,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2012,1,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,31401,Punata,2012,1,Nacidos muertos con peso menor a 2500g,1
+Beni,80302,San Borja,2012,1,Nacidos muertos con peso menor a 2500g,3
+Santa Cruz,70402,San Carlos,2012,1,Nacidos muertos con peso menor a 2500g,1
+Pando,90302,San Lorenzo(pnd),2012,1,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71201,San Matias,2012,1,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nacidos muertos con peso menor a 2500g,5
+Chuquisaca,10101,Sucre,2012,1,Nacidos muertos con peso menor a 2500g,2
+Tarija,60101,Tarija,2012,1,Nacidos muertos con peso menor a 2500g,2
+Potosí,51201,Uyuni,2012,1,Nacidos muertos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2012,1,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2012,1,Nacidos muertos con peso menor a 2500g,1
+Potosí,51501,Villazon,2012,1,Nacidos muertos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2012,1,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,30201,Aiquile,2012,2,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2012,2,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70702,Charagua,2012,2,Nacidos muertos con peso menor a 2500g,1
+Pando,90101,Cobija,2012,2,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2012,2,Nacidos muertos con peso menor a 2500g,21
+Potosí,50601,Cotagaita,2012,2,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10902,Culpina,2012,2,Nacidos muertos con peso menor a 2500g,2
+La Paz,20105,El Alto,2012,2,Nacidos muertos con peso menor a 2500g,3
+Santa Cruz,70105,El Torno,2012,2,Nacidos muertos con peso menor a 2500g,1
+Beni,80202,Guayaramerin,2012,2,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2012,2,Nacidos muertos con peso menor a 2500g,17
+Potosí,50203,Llallagua,2012,2,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71003,Mineros,2012,2,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2012,2,Nacidos muertos con peso menor a 2500g,2
+Oruro,40101,Oruro,2012,2,Nacidos muertos con peso menor a 2500g,3
+Potosí,50101,Potosi,2012,2,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2012,2,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,31401,Punata,2012,2,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30901,Quillacollo,2012,2,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31001,Sacaba,2012,2,Nacidos muertos con peso menor a 2500g,1
+Beni,80501,San Ignacio,2012,2,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,2,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70501,San Jose De Chiquitos,2012,2,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71104,San Julian,2012,2,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,2,Nacidos muertos con peso menor a 2500g,12
+La Paz,20601,Sorata,2012,2,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10101,Sucre,2012,2,Nacidos muertos con peso menor a 2500g,7
+Tarija,60101,Tarija,2012,2,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2012,2,Nacidos muertos con peso menor a 2500g,2
+Potosí,51501,Villazon,2012,2,Nacidos muertos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2012,2,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70403,Yapacani,2012,2,Nacidos muertos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2012,3,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31501,Bolivar,2012,3,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70703,Cabezas,2012,3,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70702,Charagua,2012,3,Nacidos muertos con peso menor a 2500g,1
+Pando,90101,Cobija,2012,3,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2012,3,Nacidos muertos con peso menor a 2500g,10
+La Paz,20105,El Alto,2012,3,Nacidos muertos con peso menor a 2500g,20
+Beni,80202,Guayaramerin,2012,3,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2012,3,Nacidos muertos con peso menor a 2500g,9
+Potosí,50203,Llallagua,2012,3,Nacidos muertos con peso menor a 2500g,1
+La Paz,20607,Mapiri,2012,3,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2012,3,Nacidos muertos con peso menor a 2500g,3
+Oruro,40101,Oruro,2012,3,Nacidos muertos con peso menor a 2500g,9
+Santa Cruz,70601,Portachuelo,2012,3,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2012,3,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,3,Nacidos muertos con peso menor a 2500g,3
+Santa Cruz,71104,San Julian,2012,3,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10702,San Lucas,2012,3,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,3,Nacidos muertos con peso menor a 2500g,12
+Chuquisaca,10101,Sucre,2012,3,Nacidos muertos con peso menor a 2500g,4
+Tarija,60101,Tarija,2012,3,Nacidos muertos con peso menor a 2500g,4
+Chuquisaca,10202,Tarvita,2012,3,Nacidos muertos con peso menor a 2500g,1
+Beni,80101,Trinidad,2012,3,Nacidos muertos con peso menor a 2500g,3
+Tarija,60303,Villa Montes,2012,3,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2012,3,Nacidos muertos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2012,3,Nacidos muertos con peso menor a 2500g,2
+Tarija,60202,Bermejo,2012,4,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10701,Camargo,2012,4,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2012,4,Nacidos muertos con peso menor a 2500g,2
+Oruro,40102,Caracollo,2012,4,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2012,4,Nacidos muertos con peso menor a 2500g,10
+Chuquisaca,10902,Culpina,2012,4,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2012,4,Nacidos muertos con peso menor a 2500g,8
+Oruro,41601,Huayllamarca,2012,4,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10703,Incahuasi,2012,4,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2012,4,Nacidos muertos con peso menor a 2500g,12
+Potosí,50203,Llallagua,2012,4,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,71001,Montero,2012,4,Nacidos muertos con peso menor a 2500g,3
+Oruro,40101,Oruro,2012,4,Nacidos muertos con peso menor a 2500g,3
+Cochabamba,31202,Pojo (cbba),2012,4,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70601,Portachuelo,2012,4,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2012,4,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31001,Sacaba,2012,4,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71102,San Javier(stc),2012,4,Nacidos muertos con peso menor a 2500g,1
+Beni,80702,San Ramon Beni,2012,4,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71103,San Ramon Scz,2012,4,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,4,Nacidos muertos con peso menor a 2500g,8
+Cochabamba,31602,Shinaota,2012,4,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10101,Sucre,2012,4,Nacidos muertos con peso menor a 2500g,9
+Tarija,60101,Tarija,2012,4,Nacidos muertos con peso menor a 2500g,3
+Cochabamba,30903,Tiquipaya,2012,4,Nacidos muertos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2012,4,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2012,4,Nacidos muertos con peso menor a 2500g,4
+Santa Cruz,70201,Warnes,2012,4,Nacidos muertos con peso menor a 2500g,2
+Tarija,60301,Yacuiba,2012,4,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70403,Yapacani,2012,4,Nacidos muertos con peso menor a 2500g,1
+La Paz,20201,Achacachi,2012,5,Nacidos muertos con peso menor a 2500g,2
+La Paz,22001,Caranavi,2012,5,Nacidos muertos con peso menor a 2500g,1
+Pando,90101,Cobija,2012,5,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2012,5,Nacidos muertos con peso menor a 2500g,6
+La Paz,20105,El Alto,2012,5,Nacidos muertos con peso menor a 2500g,11
+La Paz,20101,La Paz,2012,5,Nacidos muertos con peso menor a 2500g,17
+Potosí,50203,Llallagua,2012,5,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70903,Mairana,2012,5,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2012,5,Nacidos muertos con peso menor a 2500g,2
+Oruro,40101,Oruro,2012,5,Nacidos muertos con peso menor a 2500g,7
+Chuquisaca,10401,Padilla,2012,5,Nacidos muertos con peso menor a 2500g,1
+La Paz,21305,Patacamaya,2012,5,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70601,Portachuelo,2012,5,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2012,5,Nacidos muertos con peso menor a 2500g,3
+Santa Cruz,71401,Puerto Suarez,2012,5,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31401,Punata,2012,5,Nacidos muertos con peso menor a 2500g,1
+Beni,80301,Reyes,2012,5,Nacidos muertos con peso menor a 2500g,1
+Beni,80201,Riberalta,2012,5,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31001,Sacaba,2012,5,Nacidos muertos con peso menor a 2500g,1
+Beni,80501,San Ignacio,2012,5,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70301,San Ignacio De Velasco,2012,5,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71102,San Javier(stc),2012,5,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,5,Nacidos muertos con peso menor a 2500g,20
+Chuquisaca,10101,Sucre,2012,5,Nacidos muertos con peso menor a 2500g,6
+Cochabamba,31101,Tapacari,2012,5,Nacidos muertos con peso menor a 2500g,1
+Tarija,60101,Tarija,2012,5,Nacidos muertos con peso menor a 2500g,1
+La Paz,20606,Tipuani,2012,5,Nacidos muertos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2012,5,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2012,5,Nacidos muertos con peso menor a 2500g,1
+Potosí,51501,Villazon,2012,5,Nacidos muertos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2012,5,Nacidos muertos con peso menor a 2500g,8
+Potosí,51302,Acacio,2012,6,Nacidos muertos con peso menor a 2500g,1
+La Paz,20201,Achacachi,2012,6,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2012,6,Nacidos muertos con peso menor a 2500g,2
+La Paz,22001,Caranavi,2012,6,Nacidos muertos con peso menor a 2500g,1
+Oruro,40201,Challapata,2012,6,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70702,Charagua,2012,6,Nacidos muertos con peso menor a 2500g,2
+Potosí,50202,Chayanta,2012,6,Nacidos muertos con peso menor a 2500g,2
+Pando,90101,Cobija,2012,6,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,30303,Cocapata,2012,6,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2012,6,Nacidos muertos con peso menor a 2500g,12
+La Paz,21401,Coroico,2012,6,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2012,6,Nacidos muertos con peso menor a 2500g,9
+Oruro,40701,Huanuni,2012,6,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2012,6,Nacidos muertos con peso menor a 2500g,14
+Potosí,50203,Llallagua,2012,6,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,71001,Montero,2012,6,Nacidos muertos con peso menor a 2500g,2
+Oruro,40101,Oruro,2012,6,Nacidos muertos con peso menor a 2500g,3
+Potosí,50101,Potosi,2012,6,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,31001,Sacaba,2012,6,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,6,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71005,San Pedro,2012,6,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,6,Nacidos muertos con peso menor a 2500g,10
+Tarija,60101,Tarija,2012,6,Nacidos muertos con peso menor a 2500g,3
+Cochabamba,30903,Tiquipaya,2012,6,Nacidos muertos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2012,6,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2012,6,Nacidos muertos con peso menor a 2500g,2
+Tarija,60301,Yacuiba,2012,6,Nacidos muertos con peso menor a 2500g,1
+La Paz,21103,Yanacachi,2012,6,Nacidos muertos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2012,7,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70706,Camiri,2012,7,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,30101,Cochabamba,2012,7,Nacidos muertos con peso menor a 2500g,11
+La Paz,20105,El Alto,2012,7,Nacidos muertos con peso menor a 2500g,13
+Chuquisaca,10502,Huacareta,2012,7,Nacidos muertos con peso menor a 2500g,2
+La Paz,21105,La Asunta,2012,7,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2012,7,Nacidos muertos con peso menor a 2500g,13
+Potosí,50203,Llallagua,2012,7,Nacidos muertos con peso menor a 2500g,2
+Beni,80801,Magdalena,2012,7,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31301,Mizque,2012,7,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10501,Monteagudo,2012,7,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2012,7,Nacidos muertos con peso menor a 2500g,1
+Oruro,40101,Oruro,2012,7,Nacidos muertos con peso menor a 2500g,4
+Potosí,50101,Potosi,2012,7,Nacidos muertos con peso menor a 2500g,1
+Beni,80304,Rurrenabaque,2012,7,Nacidos muertos con peso menor a 2500g,1
+Beni,80501,San Ignacio,2012,7,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,7,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,7,Nacidos muertos con peso menor a 2500g,10
+Chuquisaca,10101,Sucre,2012,7,Nacidos muertos con peso menor a 2500g,8
+Chuquisaca,10202,Tarvita,2012,7,Nacidos muertos con peso menor a 2500g,1
+La Paz,20608,Teoponte,2012,7,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30903,Tiquipaya,2012,7,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31201,Totora(cbba),2012,7,Nacidos muertos con peso menor a 2500g,1
+Beni,80101,Trinidad,2012,7,Nacidos muertos con peso menor a 2500g,2
+Potosí,51201,Uyuni,2012,7,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2012,7,Nacidos muertos con peso menor a 2500g,2
+Potosí,51501,Villazon,2012,7,Nacidos muertos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2012,7,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70403,Yapacani,2012,7,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2012,8,Nacidos muertos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2012,8,Nacidos muertos con peso menor a 2500g,1
+Potosí,50301,Betanzos,2012,8,Nacidos muertos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2012,8,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,30801,Cliza,2012,8,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2012,8,Nacidos muertos con peso menor a 2500g,16
+La Paz,20105,El Alto,2012,8,Nacidos muertos con peso menor a 2500g,9
+Santa Cruz,70105,El Torno,2012,8,Nacidos muertos con peso menor a 2500g,1
+Tarija,60601,Entre Rios Trj,2012,8,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2012,8,Nacidos muertos con peso menor a 2500g,16
+Potosí,50203,Llallagua,2012,8,Nacidos muertos con peso menor a 2500g,3
+Oruro,40101,Oruro,2012,8,Nacidos muertos con peso menor a 2500g,6
+Chuquisaca,10401,Padilla,2012,8,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2012,8,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,71401,Puerto Suarez,2012,8,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31205,Puerto Villarroel,2012,8,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31001,Sacaba,2012,8,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70901,Samaipata,2012,8,Nacidos muertos con peso menor a 2500g,1
+Beni,80302,San Borja,2012,8,Nacidos muertos con peso menor a 2500g,4
+Chuquisaca,10702,San Lucas,2012,8,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,8,Nacidos muertos con peso menor a 2500g,7
+Chuquisaca,10101,Sucre,2012,8,Nacidos muertos con peso menor a 2500g,5
+Tarija,60101,Tarija,2012,8,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30903,Tiquipaya,2012,8,Nacidos muertos con peso menor a 2500g,1
+Beni,80101,Trinidad,2012,8,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70801,Vallegrande,2012,8,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10801,Villa Serrano,2012,8,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2012,8,Nacidos muertos con peso menor a 2500g,1
+La Paz,20201,Achacachi,2012,9,Nacidos muertos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2012,9,Nacidos muertos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2012,9,Nacidos muertos con peso menor a 2500g,2
+Pando,90101,Cobija,2012,9,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2012,9,Nacidos muertos con peso menor a 2500g,13
+Cochabamba,30905,Colcapirhua,2012,9,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2012,9,Nacidos muertos con peso menor a 2500g,10
+Oruro,40701,Huanuni,2012,9,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10304,Icla,2012,9,Nacidos muertos con peso menor a 2500g,1
+La Paz,20806,Jesus De Machaca,2012,9,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70104,La Guardia,2012,9,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2012,9,Nacidos muertos con peso menor a 2500g,15
+Potosí,50203,Llallagua,2012,9,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31301,Mizque,2012,9,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2012,9,Nacidos muertos con peso menor a 2500g,3
+Potosí,50404,Ocuri,2012,9,Nacidos muertos con peso menor a 2500g,1
+Oruro,40101,Oruro,2012,9,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2012,9,Nacidos muertos con peso menor a 2500g,3
+Cochabamba,31205,Puerto Villarroel,2012,9,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,31401,Punata,2012,9,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30901,Quillacollo,2012,9,Nacidos muertos con peso menor a 2500g,1
+Beni,80301,Reyes,2012,9,Nacidos muertos con peso menor a 2500g,1
+Beni,80304,Rurrenabaque,2012,9,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,9,Nacidos muertos con peso menor a 2500g,4
+Chuquisaca,10101,Sucre,2012,9,Nacidos muertos con peso menor a 2500g,6
+Tarija,60101,Tarija,2012,9,Nacidos muertos con peso menor a 2500g,2
+Beni,80101,Trinidad,2012,9,Nacidos muertos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2012,9,Nacidos muertos con peso menor a 2500g,2
+Cochabamba,31003,Villa Tunari,2012,9,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70201,Warnes,2012,9,Nacidos muertos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2012,9,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30201,Aiquile,2012,10,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71501,Ascencion De Guarayos,2012,10,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2012,10,Nacidos muertos con peso menor a 2500g,1
+La Paz,22001,Caranavi,2012,10,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70702,Charagua,2012,10,Nacidos muertos con peso menor a 2500g,1
+Pando,90101,Cobija,2012,10,Nacidos muertos con peso menor a 2500g,3
+Cochabamba,30101,Cochabamba,2012,10,Nacidos muertos con peso menor a 2500g,23
+Santa Cruz,70102,Cotoca,2012,10,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2012,10,Nacidos muertos con peso menor a 2500g,16
+Beni,80202,Guayaramerin,2012,10,Nacidos muertos con peso menor a 2500g,3
+Oruro,40701,Huanuni,2012,10,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10304,Icla,2012,10,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2012,10,Nacidos muertos con peso menor a 2500g,20
+Santa Cruz,71001,Montero,2012,10,Nacidos muertos con peso menor a 2500g,3
+Oruro,40101,Oruro,2012,10,Nacidos muertos con peso menor a 2500g,4
+Potosí,50101,Potosi,2012,10,Nacidos muertos con peso menor a 2500g,7
+Cochabamba,30901,Quillacollo,2012,10,Nacidos muertos con peso menor a 2500g,1
+Beni,80201,Riberalta,2012,10,Nacidos muertos con peso menor a 2500g,1
+Beni,80302,San Borja,2012,10,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,10,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70501,San Jose De Chiquitos,2012,10,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,10,Nacidos muertos con peso menor a 2500g,5
+Chuquisaca,10101,Sucre,2012,10,Nacidos muertos con peso menor a 2500g,7
+Tarija,60101,Tarija,2012,10,Nacidos muertos con peso menor a 2500g,3
+Cochabamba,30903,Tiquipaya,2012,10,Nacidos muertos con peso menor a 2500g,1
+Beni,80101,Trinidad,2012,10,Nacidos muertos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2012,10,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2012,10,Nacidos muertos con peso menor a 2500g,1
+Potosí,51501,Villazon,2012,10,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70201,Warnes,2012,10,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30201,Aiquile,2012,11,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71501,Ascencion De Guarayos,2012,11,Nacidos muertos con peso menor a 2500g,1
+Tarija,60202,Bermejo,2012,11,Nacidos muertos con peso menor a 2500g,3
+Chuquisaca,10701,Camargo,2012,11,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70702,Charagua,2012,11,Nacidos muertos con peso menor a 2500g,1
+Pando,90101,Cobija,2012,11,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2012,11,Nacidos muertos con peso menor a 2500g,5
+Chuquisaca,10902,Culpina,2012,11,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2012,11,Nacidos muertos con peso menor a 2500g,13
+Oruro,40701,Huanuni,2012,11,Nacidos muertos con peso menor a 2500g,2
+La Paz,20101,La Paz,2012,11,Nacidos muertos con peso menor a 2500g,14
+Potosí,50203,Llallagua,2012,11,Nacidos muertos con peso menor a 2500g,1
+La Paz,20607,Mapiri,2012,11,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10501,Monteagudo,2012,11,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2012,11,Nacidos muertos con peso menor a 2500g,2
+Oruro,40101,Oruro,2012,11,Nacidos muertos con peso menor a 2500g,4
+Potosí,50101,Potosi,2012,11,Nacidos muertos con peso menor a 2500g,3
+Cochabamba,31205,Puerto Villarroel,2012,11,Nacidos muertos con peso menor a 2500g,3
+Beni,80201,Riberalta,2012,11,Nacidos muertos con peso menor a 2500g,3
+Beni,80501,San Ignacio,2012,11,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,11,Nacidos muertos con peso menor a 2500g,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,11,Nacidos muertos con peso menor a 2500g,11
+Chuquisaca,10101,Sucre,2012,11,Nacidos muertos con peso menor a 2500g,9
+Tarija,60101,Tarija,2012,11,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31003,Villa Tunari,2012,11,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70201,Warnes,2012,11,Nacidos muertos con peso menor a 2500g,2
+Tarija,60301,Yacuiba,2012,11,Nacidos muertos con peso menor a 2500g,1
+Tarija,60402,Yunchara,2012,11,Nacidos muertos con peso menor a 2500g,1
+Potosí,50802,Atocha,2012,12,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30101,Cochabamba,2012,12,Nacidos muertos con peso menor a 2500g,17
+La Paz,20105,El Alto,2012,12,Nacidos muertos con peso menor a 2500g,6
+Beni,80202,Guayaramerin,2012,12,Nacidos muertos con peso menor a 2500g,3
+Santa Cruz,70104,La Guardia,2012,12,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2012,12,Nacidos muertos con peso menor a 2500g,15
+Santa Cruz,70903,Mairana,2012,12,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2012,12,Nacidos muertos con peso menor a 2500g,3
+Oruro,40101,Oruro,2012,12,Nacidos muertos con peso menor a 2500g,1
+Potosí,50403,Pocoata,2012,12,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2012,12,Nacidos muertos con peso menor a 2500g,7
+Cochabamba,31205,Puerto Villarroel,2012,12,Nacidos muertos con peso menor a 2500g,1
+Potosí,51101,Puna,2012,12,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31401,Punata,2012,12,Nacidos muertos con peso menor a 2500g,1
+Beni,80201,Riberalta,2012,12,Nacidos muertos con peso menor a 2500g,4
+Cochabamba,31001,Sacaba,2012,12,Nacidos muertos con peso menor a 2500g,2
+Beni,80602,San Andres,2012,12,Nacidos muertos con peso menor a 2500g,1
+Beni,80302,San Borja,2012,12,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,12,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70501,San Jose De Chiquitos,2012,12,Nacidos muertos con peso menor a 2500g,1
+Beni,80702,San Ramon Beni,2012,12,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,12,Nacidos muertos con peso menor a 2500g,8
+Chuquisaca,10101,Sucre,2012,12,Nacidos muertos con peso menor a 2500g,6
+Tarija,60101,Tarija,2012,12,Nacidos muertos con peso menor a 2500g,2
+La Paz,20606,Tipuani,2012,12,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30903,Tiquipaya,2012,12,Nacidos muertos con peso menor a 2500g,1
+Beni,80101,Trinidad,2012,12,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10704,Villa Charcas,2012,12,Nacidos muertos con peso menor a 2500g,1
+Tarija,60303,Villa Montes,2012,12,Nacidos muertos con peso menor a 2500g,2
+Santa Cruz,70201,Warnes,2012,12,Nacidos muertos con peso menor a 2500g,1
+Tarija,60301,Yacuiba,2012,12,Nacidos muertos con peso menor a 2500g,5
+Chuquisaca,10701,Camargo,2012,1,TOTAL,1
+Santa Cruz,70706,Camiri,2012,1,TOTAL,1
+Pando,90101,Cobija,2012,1,TOTAL,2
+Cochabamba,30101,Cochabamba,2012,1,TOTAL,15
+La Paz,20105,El Alto,2012,1,TOTAL,8
+La Paz,20101,La Paz,2012,1,TOTAL,21
+Potosí,50203,Llallagua,2012,1,TOTAL,1
+La Paz,20607,Mapiri,2012,1,TOTAL,1
+Santa Cruz,71001,Montero,2012,1,TOTAL,4
+Oruro,40101,Oruro,2012,1,TOTAL,7
+Chuquisaca,10401,Padilla,2012,1,TOTAL,1
+Santa Cruz,70902,Pampa Grande,2012,1,TOTAL,2
+Chuquisaca,10103,Poroma,2012,1,TOTAL,1
+Potosí,50101,Potosi,2012,1,TOTAL,2
+Cochabamba,31401,Punata,2012,1,TOTAL,1
+Beni,80302,San Borja,2012,1,TOTAL,3
+Santa Cruz,70402,San Carlos,2012,1,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2012,1,TOTAL,1
+Santa Cruz,71201,San Matias,2012,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,5
+Chuquisaca,10101,Sucre,2012,1,TOTAL,2
+Tarija,60101,Tarija,2012,1,TOTAL,2
+Potosí,51201,Uyuni,2012,1,TOTAL,1
+Tarija,60303,Villa Montes,2012,1,TOTAL,2
+Cochabamba,31003,Villa Tunari,2012,1,TOTAL,1
+Potosí,51501,Villazon,2012,1,TOTAL,1
+Tarija,60301,Yacuiba,2012,1,TOTAL,2
+Cochabamba,30201,Aiquile,2012,2,TOTAL,1
+Santa Cruz,70706,Camiri,2012,2,TOTAL,1
+Santa Cruz,70702,Charagua,2012,2,TOTAL,1
+Pando,90101,Cobija,2012,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,2,TOTAL,21
+Potosí,50601,Cotagaita,2012,2,TOTAL,1
+Chuquisaca,10902,Culpina,2012,2,TOTAL,2
+La Paz,20105,El Alto,2012,2,TOTAL,3
+Santa Cruz,70105,El Torno,2012,2,TOTAL,1
+Beni,80202,Guayaramerin,2012,2,TOTAL,1
+La Paz,20101,La Paz,2012,2,TOTAL,17
+Potosí,50203,Llallagua,2012,2,TOTAL,1
+Santa Cruz,71003,Mineros,2012,2,TOTAL,1
+Santa Cruz,71001,Montero,2012,2,TOTAL,2
+Oruro,40101,Oruro,2012,2,TOTAL,3
+Potosí,50101,Potosi,2012,2,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2012,2,TOTAL,2
+Cochabamba,31401,Punata,2012,2,TOTAL,1
+Cochabamba,30901,Quillacollo,2012,2,TOTAL,1
+Cochabamba,31001,Sacaba,2012,2,TOTAL,1
+Beni,80501,San Ignacio,2012,2,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,2,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2012,2,TOTAL,1
+Santa Cruz,71104,San Julian,2012,2,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,2,TOTAL,12
+La Paz,20601,Sorata,2012,2,TOTAL,1
+Chuquisaca,10101,Sucre,2012,2,TOTAL,7
+Tarija,60101,Tarija,2012,2,TOTAL,2
+Cochabamba,31003,Villa Tunari,2012,2,TOTAL,2
+Potosí,51501,Villazon,2012,2,TOTAL,1
+Tarija,60301,Yacuiba,2012,2,TOTAL,1
+Santa Cruz,70403,Yapacani,2012,2,TOTAL,1
+Tarija,60202,Bermejo,2012,3,TOTAL,1
+Cochabamba,31501,Bolivar,2012,3,TOTAL,1
+Santa Cruz,70703,Cabezas,2012,3,TOTAL,1
+Santa Cruz,70702,Charagua,2012,3,TOTAL,1
+Pando,90101,Cobija,2012,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,3,TOTAL,10
+La Paz,20105,El Alto,2012,3,TOTAL,20
+Beni,80202,Guayaramerin,2012,3,TOTAL,1
+La Paz,20101,La Paz,2012,3,TOTAL,9
+Potosí,50203,Llallagua,2012,3,TOTAL,1
+La Paz,20607,Mapiri,2012,3,TOTAL,1
+Santa Cruz,71001,Montero,2012,3,TOTAL,3
+Oruro,40101,Oruro,2012,3,TOTAL,9
+Santa Cruz,70601,Portachuelo,2012,3,TOTAL,1
+Potosí,50101,Potosi,2012,3,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,3,TOTAL,3
+Santa Cruz,71104,San Julian,2012,3,TOTAL,1
+Chuquisaca,10702,San Lucas,2012,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,3,TOTAL,12
+Chuquisaca,10101,Sucre,2012,3,TOTAL,4
+Tarija,60101,Tarija,2012,3,TOTAL,4
+Chuquisaca,10202,Tarvita,2012,3,TOTAL,1
+Beni,80101,Trinidad,2012,3,TOTAL,3
+Tarija,60303,Villa Montes,2012,3,TOTAL,1
+Cochabamba,31003,Villa Tunari,2012,3,TOTAL,1
+Tarija,60301,Yacuiba,2012,3,TOTAL,2
+Tarija,60202,Bermejo,2012,4,TOTAL,1
+Chuquisaca,10701,Camargo,2012,4,TOTAL,1
+Santa Cruz,70706,Camiri,2012,4,TOTAL,2
+Oruro,40102,Caracollo,2012,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,4,TOTAL,10
+Chuquisaca,10902,Culpina,2012,4,TOTAL,1
+La Paz,20105,El Alto,2012,4,TOTAL,8
+Oruro,41601,Huayllamarca,2012,4,TOTAL,1
+Chuquisaca,10703,Incahuasi,2012,4,TOTAL,1
+La Paz,20101,La Paz,2012,4,TOTAL,12
+Potosí,50203,Llallagua,2012,4,TOTAL,2
+Santa Cruz,71001,Montero,2012,4,TOTAL,3
+Oruro,40101,Oruro,2012,4,TOTAL,3
+Cochabamba,31202,Pojo (cbba),2012,4,TOTAL,1
+Santa Cruz,70601,Portachuelo,2012,4,TOTAL,1
+Potosí,50101,Potosi,2012,4,TOTAL,1
+Cochabamba,31001,Sacaba,2012,4,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2012,4,TOTAL,1
+Beni,80702,San Ramon Beni,2012,4,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2012,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,4,TOTAL,8
+Cochabamba,31602,Shinaota,2012,4,TOTAL,1
+Chuquisaca,10101,Sucre,2012,4,TOTAL,9
+Tarija,60101,Tarija,2012,4,TOTAL,3
+Cochabamba,30903,Tiquipaya,2012,4,TOTAL,1
+Tarija,60303,Villa Montes,2012,4,TOTAL,2
+Cochabamba,31003,Villa Tunari,2012,4,TOTAL,4
+Santa Cruz,70201,Warnes,2012,4,TOTAL,2
+Tarija,60301,Yacuiba,2012,4,TOTAL,2
+Santa Cruz,70403,Yapacani,2012,4,TOTAL,1
+La Paz,20201,Achacachi,2012,5,TOTAL,2
+La Paz,22001,Caranavi,2012,5,TOTAL,1
+Pando,90101,Cobija,2012,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,5,TOTAL,6
+La Paz,20105,El Alto,2012,5,TOTAL,11
+La Paz,20101,La Paz,2012,5,TOTAL,17
+Potosí,50203,Llallagua,2012,5,TOTAL,2
+Santa Cruz,70903,Mairana,2012,5,TOTAL,1
+Santa Cruz,71001,Montero,2012,5,TOTAL,2
+Oruro,40101,Oruro,2012,5,TOTAL,7
+Chuquisaca,10401,Padilla,2012,5,TOTAL,1
+La Paz,21305,Patacamaya,2012,5,TOTAL,1
+Santa Cruz,70601,Portachuelo,2012,5,TOTAL,1
+Potosí,50101,Potosi,2012,5,TOTAL,3
+Santa Cruz,71401,Puerto Suarez,2012,5,TOTAL,1
+Cochabamba,31401,Punata,2012,5,TOTAL,1
+Beni,80301,Reyes,2012,5,TOTAL,1
+Beni,80201,Riberalta,2012,5,TOTAL,1
+Cochabamba,31001,Sacaba,2012,5,TOTAL,1
+Beni,80501,San Ignacio,2012,5,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2012,5,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2012,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,5,TOTAL,20
+Chuquisaca,10101,Sucre,2012,5,TOTAL,6
+Cochabamba,31101,Tapacari,2012,5,TOTAL,1
+Tarija,60101,Tarija,2012,5,TOTAL,1
+La Paz,20606,Tipuani,2012,5,TOTAL,1
+Tarija,60303,Villa Montes,2012,5,TOTAL,1
+Cochabamba,31003,Villa Tunari,2012,5,TOTAL,1
+Potosí,51501,Villazon,2012,5,TOTAL,1
+Tarija,60301,Yacuiba,2012,5,TOTAL,8
+Potosí,51302,Acacio,2012,6,TOTAL,1
+La Paz,20201,Achacachi,2012,6,TOTAL,1
+Santa Cruz,70706,Camiri,2012,6,TOTAL,2
+La Paz,22001,Caranavi,2012,6,TOTAL,1
+Oruro,40201,Challapata,2012,6,TOTAL,1
+Santa Cruz,70702,Charagua,2012,6,TOTAL,2
+Potosí,50202,Chayanta,2012,6,TOTAL,2
+Pando,90101,Cobija,2012,6,TOTAL,2
+Cochabamba,30303,Cocapata,2012,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,6,TOTAL,12
+La Paz,21401,Coroico,2012,6,TOTAL,1
+La Paz,20105,El Alto,2012,6,TOTAL,9
+Oruro,40701,Huanuni,2012,6,TOTAL,1
+La Paz,20101,La Paz,2012,6,TOTAL,14
+Potosí,50203,Llallagua,2012,6,TOTAL,2
+Santa Cruz,71001,Montero,2012,6,TOTAL,2
+Oruro,40101,Oruro,2012,6,TOTAL,3
+Potosí,50101,Potosi,2012,6,TOTAL,2
+Cochabamba,31001,Sacaba,2012,6,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,6,TOTAL,1
+Santa Cruz,71005,San Pedro,2012,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,6,TOTAL,10
+Tarija,60101,Tarija,2012,6,TOTAL,3
+Cochabamba,30903,Tiquipaya,2012,6,TOTAL,1
+Tarija,60303,Villa Montes,2012,6,TOTAL,2
+Cochabamba,31003,Villa Tunari,2012,6,TOTAL,2
+Tarija,60301,Yacuiba,2012,6,TOTAL,1
+La Paz,21103,Yanacachi,2012,6,TOTAL,1
+Tarija,60202,Bermejo,2012,7,TOTAL,1
+Santa Cruz,70706,Camiri,2012,7,TOTAL,2
+Cochabamba,30101,Cochabamba,2012,7,TOTAL,11
+La Paz,20105,El Alto,2012,7,TOTAL,13
+Chuquisaca,10502,Huacareta,2012,7,TOTAL,2
+La Paz,21105,La Asunta,2012,7,TOTAL,1
+La Paz,20101,La Paz,2012,7,TOTAL,13
+Potosí,50203,Llallagua,2012,7,TOTAL,2
+Beni,80801,Magdalena,2012,7,TOTAL,1
+Cochabamba,31301,Mizque,2012,7,TOTAL,1
+Chuquisaca,10501,Monteagudo,2012,7,TOTAL,1
+Santa Cruz,71001,Montero,2012,7,TOTAL,1
+Oruro,40101,Oruro,2012,7,TOTAL,4
+Potosí,50101,Potosi,2012,7,TOTAL,1
+Beni,80304,Rurrenabaque,2012,7,TOTAL,1
+Beni,80501,San Ignacio,2012,7,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,7,TOTAL,10
+Chuquisaca,10101,Sucre,2012,7,TOTAL,8
+Chuquisaca,10202,Tarvita,2012,7,TOTAL,1
+La Paz,20608,Teoponte,2012,7,TOTAL,1
+Cochabamba,30903,Tiquipaya,2012,7,TOTAL,1
+Cochabamba,31201,Totora(cbba),2012,7,TOTAL,1
+Beni,80101,Trinidad,2012,7,TOTAL,2
+Potosí,51201,Uyuni,2012,7,TOTAL,1
+Cochabamba,31003,Villa Tunari,2012,7,TOTAL,2
+Potosí,51501,Villazon,2012,7,TOTAL,1
+Tarija,60301,Yacuiba,2012,7,TOTAL,2
+Santa Cruz,70403,Yapacani,2012,7,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2012,8,TOTAL,1
+Tarija,60202,Bermejo,2012,8,TOTAL,1
+Potosí,50301,Betanzos,2012,8,TOTAL,1
+La Paz,22001,Caranavi,2012,8,TOTAL,2
+Cochabamba,30801,Cliza,2012,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,8,TOTAL,16
+La Paz,20105,El Alto,2012,8,TOTAL,9
+Santa Cruz,70105,El Torno,2012,8,TOTAL,1
+Tarija,60601,Entre Rios Trj,2012,8,TOTAL,1
+La Paz,20101,La Paz,2012,8,TOTAL,16
+Potosí,50203,Llallagua,2012,8,TOTAL,3
+Oruro,40101,Oruro,2012,8,TOTAL,6
+Chuquisaca,10401,Padilla,2012,8,TOTAL,1
+Potosí,50101,Potosi,2012,8,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2012,8,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2012,8,TOTAL,1
+Cochabamba,31001,Sacaba,2012,8,TOTAL,2
+Santa Cruz,70901,Samaipata,2012,8,TOTAL,1
+Beni,80302,San Borja,2012,8,TOTAL,4
+Chuquisaca,10702,San Lucas,2012,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,8,TOTAL,7
+Chuquisaca,10101,Sucre,2012,8,TOTAL,5
+Tarija,60101,Tarija,2012,8,TOTAL,1
+Cochabamba,30903,Tiquipaya,2012,8,TOTAL,1
+Beni,80101,Trinidad,2012,8,TOTAL,1
+Santa Cruz,70801,Vallegrande,2012,8,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2012,8,TOTAL,1
+Cochabamba,31003,Villa Tunari,2012,8,TOTAL,1
+La Paz,20201,Achacachi,2012,9,TOTAL,1
+Tarija,60202,Bermejo,2012,9,TOTAL,1
+La Paz,22001,Caranavi,2012,9,TOTAL,2
+Pando,90101,Cobija,2012,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,9,TOTAL,13
+Cochabamba,30905,Colcapirhua,2012,9,TOTAL,1
+La Paz,20105,El Alto,2012,9,TOTAL,10
+Oruro,40701,Huanuni,2012,9,TOTAL,1
+Chuquisaca,10304,Icla,2012,9,TOTAL,1
+La Paz,20806,Jesus De Machaca,2012,9,TOTAL,1
+Santa Cruz,70104,La Guardia,2012,9,TOTAL,1
+La Paz,20101,La Paz,2012,9,TOTAL,15
+Potosí,50203,Llallagua,2012,9,TOTAL,1
+Cochabamba,31301,Mizque,2012,9,TOTAL,1
+Santa Cruz,71001,Montero,2012,9,TOTAL,3
+Potosí,50404,Ocuri,2012,9,TOTAL,1
+Oruro,40101,Oruro,2012,9,TOTAL,1
+Potosí,50101,Potosi,2012,9,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2012,9,TOTAL,2
+Cochabamba,31401,Punata,2012,9,TOTAL,1
+Cochabamba,30901,Quillacollo,2012,9,TOTAL,1
+Beni,80301,Reyes,2012,9,TOTAL,1
+Beni,80304,Rurrenabaque,2012,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,9,TOTAL,4
+Chuquisaca,10101,Sucre,2012,9,TOTAL,6
+Tarija,60101,Tarija,2012,9,TOTAL,2
+Beni,80101,Trinidad,2012,9,TOTAL,1
+Tarija,60303,Villa Montes,2012,9,TOTAL,2
+Cochabamba,31003,Villa Tunari,2012,9,TOTAL,2
+Santa Cruz,70201,Warnes,2012,9,TOTAL,1
+Tarija,60301,Yacuiba,2012,9,TOTAL,1
+Cochabamba,30201,Aiquile,2012,10,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2012,10,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2012,10,TOTAL,1
+La Paz,22001,Caranavi,2012,10,TOTAL,2
+Santa Cruz,70702,Charagua,2012,10,TOTAL,1
+Pando,90101,Cobija,2012,10,TOTAL,3
+Cochabamba,30101,Cochabamba,2012,10,TOTAL,23
+Santa Cruz,70102,Cotoca,2012,10,TOTAL,1
+La Paz,20105,El Alto,2012,10,TOTAL,16
+Beni,80202,Guayaramerin,2012,10,TOTAL,3
+Oruro,40701,Huanuni,2012,10,TOTAL,1
+Chuquisaca,10304,Icla,2012,10,TOTAL,1
+La Paz,20101,La Paz,2012,10,TOTAL,20
+Santa Cruz,71001,Montero,2012,10,TOTAL,3
+Oruro,40101,Oruro,2012,10,TOTAL,4
+Potosí,50101,Potosi,2012,10,TOTAL,7
+Cochabamba,30901,Quillacollo,2012,10,TOTAL,1
+Beni,80201,Riberalta,2012,10,TOTAL,1
+Beni,80302,San Borja,2012,10,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,10,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2012,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,10,TOTAL,5
+Chuquisaca,10101,Sucre,2012,10,TOTAL,7
+Tarija,60101,Tarija,2012,10,TOTAL,3
+Cochabamba,30903,Tiquipaya,2012,10,TOTAL,1
+Beni,80101,Trinidad,2012,10,TOTAL,1
+Tarija,60303,Villa Montes,2012,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2012,10,TOTAL,1
+Potosí,51501,Villazon,2012,10,TOTAL,1
+Santa Cruz,70201,Warnes,2012,10,TOTAL,1
+Cochabamba,30201,Aiquile,2012,11,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2012,11,TOTAL,1
+Tarija,60202,Bermejo,2012,11,TOTAL,3
+Chuquisaca,10701,Camargo,2012,11,TOTAL,1
+Santa Cruz,70702,Charagua,2012,11,TOTAL,1
+Pando,90101,Cobija,2012,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,11,TOTAL,5
+Chuquisaca,10902,Culpina,2012,11,TOTAL,1
+La Paz,20105,El Alto,2012,11,TOTAL,13
+Oruro,40701,Huanuni,2012,11,TOTAL,2
+La Paz,20101,La Paz,2012,11,TOTAL,14
+Potosí,50203,Llallagua,2012,11,TOTAL,1
+La Paz,20607,Mapiri,2012,11,TOTAL,1
+Chuquisaca,10501,Monteagudo,2012,11,TOTAL,1
+Santa Cruz,71001,Montero,2012,11,TOTAL,2
+Oruro,40101,Oruro,2012,11,TOTAL,4
+Potosí,50101,Potosi,2012,11,TOTAL,3
+Cochabamba,31205,Puerto Villarroel,2012,11,TOTAL,3
+Beni,80201,Riberalta,2012,11,TOTAL,3
+Beni,80501,San Ignacio,2012,11,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,11,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,11,TOTAL,11
+Chuquisaca,10101,Sucre,2012,11,TOTAL,9
+Tarija,60101,Tarija,2012,11,TOTAL,1
+Cochabamba,31003,Villa Tunari,2012,11,TOTAL,1
+Santa Cruz,70201,Warnes,2012,11,TOTAL,2
+Tarija,60301,Yacuiba,2012,11,TOTAL,1
+Tarija,60402,Yunchara,2012,11,TOTAL,1
+Potosí,50802,Atocha,2012,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2012,12,TOTAL,17
+La Paz,20105,El Alto,2012,12,TOTAL,6
+Beni,80202,Guayaramerin,2012,12,TOTAL,3
+Santa Cruz,70104,La Guardia,2012,12,TOTAL,1
+La Paz,20101,La Paz,2012,12,TOTAL,15
+Santa Cruz,70903,Mairana,2012,12,TOTAL,1
+Santa Cruz,71001,Montero,2012,12,TOTAL,3
+Oruro,40101,Oruro,2012,12,TOTAL,1
+Potosí,50403,Pocoata,2012,12,TOTAL,1
+Potosí,50101,Potosi,2012,12,TOTAL,7
+Cochabamba,31205,Puerto Villarroel,2012,12,TOTAL,1
+Potosí,51101,Puna,2012,12,TOTAL,1
+Cochabamba,31401,Punata,2012,12,TOTAL,1
+Beni,80201,Riberalta,2012,12,TOTAL,4
+Cochabamba,31001,Sacaba,2012,12,TOTAL,2
+Beni,80602,San Andres,2012,12,TOTAL,1
+Beni,80302,San Borja,2012,12,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,12,TOTAL,1
+Santa Cruz,70501,San Jose De Chiquitos,2012,12,TOTAL,1
+Beni,80702,San Ramon Beni,2012,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,12,TOTAL,8
+Chuquisaca,10101,Sucre,2012,12,TOTAL,6
+Tarija,60101,Tarija,2012,12,TOTAL,2
+La Paz,20606,Tipuani,2012,12,TOTAL,1
+Cochabamba,30903,Tiquipaya,2012,12,TOTAL,1
+Beni,80101,Trinidad,2012,12,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2012,12,TOTAL,1
+Tarija,60303,Villa Montes,2012,12,TOTAL,2
+Santa Cruz,70201,Warnes,2012,12,TOTAL,1
+Tarija,60301,Yacuiba,2012,12,TOTAL,5

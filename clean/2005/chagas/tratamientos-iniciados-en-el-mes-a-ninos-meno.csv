@@ -1,0 +1,59 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60302,Carapari,2005,1,Tratamientos iniciados en el mes a ninos meno,1
+Tarija,60601,Entre Rios,2005,2,Tratamientos iniciados en el mes a ninos meno,2
+Tarija,60601,Entre Rios,2005,3,Tratamientos iniciados en el mes a ninos meno,1
+Santa Cruz,70703,Cabezas,2005,4,Tratamientos iniciados en el mes a ninos meno,2
+Tarija,60302,Carapari,2005,4,Tratamientos iniciados en el mes a ninos meno,1
+Tarija,60601,Entre Rios,2005,4,Tratamientos iniciados en el mes a ninos meno,1
+Santa Cruz,70903,Mairana,2005,4,Tratamientos iniciados en el mes a ninos meno,4
+Tarija,60302,Carapari,2005,5,Tratamientos iniciados en el mes a ninos meno,1
+Tarija,60601,Entre Rios,2005,5,Tratamientos iniciados en el mes a ninos meno,2
+Santa Cruz,70903,Mairana,2005,5,Tratamientos iniciados en el mes a ninos meno,17
+Chuquisaca,10702,San Lucas,2005,5,Tratamientos iniciados en el mes a ninos meno,15
+Tarija,60601,Entre Rios,2005,6,Tratamientos iniciados en el mes a ninos meno,5
+Potosí,50101,Potosi,2005,6,Tratamientos iniciados en el mes a ninos meno,1
+Chuquisaca,10101,Sucre,2005,6,Tratamientos iniciados en el mes a ninos meno,2
+Tarija,60601,Entre Rios,2005,7,Tratamientos iniciados en el mes a ninos meno,1
+Chuquisaca,10702,San Lucas,2005,7,Tratamientos iniciados en el mes a ninos meno,2
+Tarija,60301,Yacuiba,2005,7,Tratamientos iniciados en el mes a ninos meno,1
+Tarija,60601,Entre Rios,2005,8,Tratamientos iniciados en el mes a ninos meno,4
+Santa Cruz,70804,Postrer Valle,2005,8,Tratamientos iniciados en el mes a ninos meno,67
+Santa Cruz,70501,San Jose De Chiquitos,2005,8,Tratamientos iniciados en el mes a ninos meno,17
+Tarija,60601,Entre Rios,2005,9,Tratamientos iniciados en el mes a ninos meno,4
+Chuquisaca,10702,San Lucas,2005,9,Tratamientos iniciados en el mes a ninos meno,4
+Chuquisaca,10405,El Villar,2005,10,Tratamientos iniciados en el mes a ninos meno,6
+Cochabamba,30702,Santivañes,2005,10,Tratamientos iniciados en el mes a ninos meno,1
+Tarija,60101,Tarija,2005,10,Tratamientos iniciados en el mes a ninos meno,2
+Tarija,60601,Entre Rios,2005,11,Tratamientos iniciados en el mes a ninos meno,1
+Tarija,60301,Yacuiba,2005,11,Tratamientos iniciados en el mes a ninos meno,11
+Tarija,60302,Carapari,2005,12,Tratamientos iniciados en el mes a ninos meno,2
+Potosí,50801,Tupiza,2005,12,Tratamientos iniciados en el mes a ninos meno,2
+Tarija,60302,Carapari,2005,1,TOTAL,1
+Tarija,60601,Entre Rios,2005,2,TOTAL,2
+Tarija,60601,Entre Rios,2005,3,TOTAL,1
+Santa Cruz,70703,Cabezas,2005,4,TOTAL,2
+Tarija,60302,Carapari,2005,4,TOTAL,1
+Tarija,60601,Entre Rios,2005,4,TOTAL,1
+Santa Cruz,70903,Mairana,2005,4,TOTAL,4
+Tarija,60302,Carapari,2005,5,TOTAL,1
+Tarija,60601,Entre Rios,2005,5,TOTAL,2
+Santa Cruz,70903,Mairana,2005,5,TOTAL,17
+Chuquisaca,10702,San Lucas,2005,5,TOTAL,15
+Tarija,60601,Entre Rios,2005,6,TOTAL,5
+Potosí,50101,Potosi,2005,6,TOTAL,1
+Chuquisaca,10101,Sucre,2005,6,TOTAL,2
+Tarija,60601,Entre Rios,2005,7,TOTAL,1
+Chuquisaca,10702,San Lucas,2005,7,TOTAL,2
+Tarija,60301,Yacuiba,2005,7,TOTAL,1
+Tarija,60601,Entre Rios,2005,8,TOTAL,4
+Santa Cruz,70804,Postrer Valle,2005,8,TOTAL,67
+Santa Cruz,70501,San Jose De Chiquitos,2005,8,TOTAL,17
+Tarija,60601,Entre Rios,2005,9,TOTAL,4
+Chuquisaca,10702,San Lucas,2005,9,TOTAL,4
+Chuquisaca,10405,El Villar,2005,10,TOTAL,6
+Cochabamba,30702,Santivañes,2005,10,TOTAL,1
+Tarija,60101,Tarija,2005,10,TOTAL,2
+Tarija,60601,Entre Rios,2005,11,TOTAL,1
+Tarija,60301,Yacuiba,2005,11,TOTAL,11
+Tarija,60302,Carapari,2005,12,TOTAL,2
+Potosí,50801,Tupiza,2005,12,TOTAL,2

@@ -1,0 +1,2021 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20201,Achacachi,2007,1,Cirugias medianas y mayores,3
+Cochabamba,30201,Aiquile,2007,1,Cirugias medianas y mayores,12
+Santa Cruz,71501,Ascencion De Guarayos,2007,1,Cirugias medianas y mayores,11
+Potosí,50802,Atocha,2007,1,Cirugias medianas y mayores,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,1,Cirugias medianas y mayores,4
+Chuquisaca,10201,Azurduy,2007,1,Cirugias medianas y mayores,1
+Beni,80802,Baures,2007,1,Cirugias medianas y mayores,4
+Tarija,60202,Bermejo,2007,1,Cirugias medianas y mayores,20
+Potosí,50301,Betanzos,2007,1,Cirugias medianas y mayores,2
+Chuquisaca,10701,Camargo,2007,1,Cirugias medianas y mayores,50
+Santa Cruz,70706,Camiri,2007,1,Cirugias medianas y mayores,42
+La Paz,22001,Caranavi,2007,1,Cirugias medianas y mayores,40
+Oruro,40201,Challapata,2007,1,Cirugias medianas y mayores,3
+Santa Cruz,70702,Charagua,2007,1,Cirugias medianas y mayores,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,1,Cirugias medianas y mayores,4
+Pando,90101,Cobija,2007,1,Cirugias medianas y mayores,350
+Cochabamba,30101,Cochabamba,2007,1,Cirugias medianas y mayores,2590
+Cochabamba,30905,Colcapirhua,2007,1,Cirugias medianas y mayores,1
+Santa Cruz,71301,Comarapa,2007,1,Cirugias medianas y mayores,7
+Santa Cruz,71101,Concepcion,2007,1,Cirugias medianas y mayores,8
+La Paz,21701,Copacabana,2007,1,Cirugias medianas y mayores,4
+La Paz,21401,Coroico,2007,1,Cirugias medianas y mayores,11
+Santa Cruz,70102,Cotoca,2007,1,Cirugias medianas y mayores,15
+La Paz,20105,El Alto,2007,1,Cirugias medianas y mayores,840
+Santa Cruz,70105,El Torno,2007,1,Cirugias medianas y mayores,11
+Beni,80202,Guayaramerin,2007,1,Cirugias medianas y mayores,51
+Oruro,40701,Huanuni,2007,1,Cirugias medianas y mayores,15
+La Paz,20101,La Paz,2007,1,Cirugias medianas y mayores,3121
+Potosí,50203,Llallagua,2007,1,Cirugias medianas y mayores,73
+Beni,80801,Magdalena,2007,1,Cirugias medianas y mayores,8
+Santa Cruz,70903,Mairana,2007,1,Cirugias medianas y mayores,14
+Chuquisaca,10501,Monteagudo,2007,1,Cirugias medianas y mayores,22
+Santa Cruz,71001,Montero,2007,1,Cirugias medianas y mayores,148
+Potosí,50404,Ocuri,2007,1,Cirugias medianas y mayores,3
+Oruro,40101,Oruro,2007,1,Cirugias medianas y mayores,580
+Chuquisaca,10401,Padilla,2007,1,Cirugias medianas y mayores,23
+Santa Cruz,70601,Portachuelo,2007,1,Cirugias medianas y mayores,62
+Potosí,50101,Potosi,2007,1,Cirugias medianas y mayores,241
+La Paz,20401,Puerto Acosta,2007,1,Cirugias medianas y mayores,30
+Santa Cruz,71402,Puerto Quijarro,2007,1,Cirugias medianas y mayores,3
+Santa Cruz,71401,Puerto Suarez,2007,1,Cirugias medianas y mayores,19
+Cochabamba,31205,Puerto Villarroel,2007,1,Cirugias medianas y mayores,18
+Cochabamba,31401,Punata,2007,1,Cirugias medianas y mayores,14
+Cochabamba,30901,Quillacollo,2007,1,Cirugias medianas y mayores,75
+Beni,80301,Reyes,2007,1,Cirugias medianas y mayores,7
+Beni,80201,Riberalta,2007,1,Cirugias medianas y mayores,213
+Santa Cruz,70503,Robore,2007,1,Cirugias medianas y mayores,7
+Beni,80304,Rurrenabaque,2007,1,Cirugias medianas y mayores,9
+Cochabamba,31001,Sacaba,2007,1,Cirugias medianas y mayores,39
+Santa Cruz,70901,Samaipata,2007,1,Cirugias medianas y mayores,3
+Beni,80602,San Andres,2007,1,Cirugias medianas y mayores,3
+Beni,80302,San Borja,2007,1,Cirugias medianas y mayores,20
+La Paz,21502,San Buena Ventura,2007,1,Cirugias medianas y mayores,15
+Santa Cruz,70402,San Carlos,2007,1,Cirugias medianas y mayores,22
+Beni,80501,San Ignacio,2007,1,Cirugias medianas y mayores,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,Cirugias medianas y mayores,51
+Santa Cruz,71102,San Javier(stc),2007,1,Cirugias medianas y mayores,10
+Beni,80701,San Joaquin,2007,1,Cirugias medianas y mayores,6
+Santa Cruz,70501,San Jose De Chiquitos,2007,1,Cirugias medianas y mayores,5
+Santa Cruz,70404,San Juan De Yapacani,2007,1,Cirugias medianas y mayores,40
+Santa Cruz,71104,San Julian,2007,1,Cirugias medianas y mayores,10
+Chuquisaca,10702,San Lucas,2007,1,Cirugias medianas y mayores,5
+Santa Cruz,71201,San Matias,2007,1,Cirugias medianas y mayores,5
+Beni,80702,San Ramon,2007,1,Cirugias medianas y mayores,7
+Beni,80702,San Ramon,2007,1,Cirugias medianas y mayores,6
+Beni,80401,Santa Ana,2007,1,Cirugias medianas y mayores,19
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,Cirugias medianas y mayores,2681
+Beni,80303,Santa Rosa,2007,1,Cirugias medianas y mayores,5
+Cochabamba,30902,Sipe Sipe,2007,1,Cirugias medianas y mayores,10
+Chuquisaca,10403,Sopachuy,2007,1,Cirugias medianas y mayores,1
+Chuquisaca,10101,Sucre,2007,1,Cirugias medianas y mayores,1038
+Chuquisaca,10601,Tarabuco,2007,1,Cirugias medianas y mayores,1
+Tarija,60101,Tarija,2007,1,Cirugias medianas y mayores,494
+Cochabamba,30903,Tiquipaya,2007,1,Cirugias medianas y mayores,2
+Cochabamba,31601,Tiraque (cbba),2007,1,Cirugias medianas y mayores,8
+Oruro,41001,Toledo,2007,1,Cirugias medianas y mayores,4
+Beni,80101,Trinidad,2007,1,Cirugias medianas y mayores,285
+Potosí,50801,Tupiza,2007,1,Cirugias medianas y mayores,26
+Potosí,50201,Uncia,2007,1,Cirugias medianas y mayores,27
+Potosí,51201,Uyuni,2007,1,Cirugias medianas y mayores,11
+Santa Cruz,70801,Vallegrande,2007,1,Cirugias medianas y mayores,48
+Tarija,60303,Villa Montes,2007,1,Cirugias medianas y mayores,51
+Cochabamba,31003,Villa Tunari,2007,1,Cirugias medianas y mayores,44
+Potosí,51501,Villazon,2007,1,Cirugias medianas y mayores,38
+Cochabamba,30904,Vinto,2007,1,Cirugias medianas y mayores,1
+Santa Cruz,70201,Warnes,2007,1,Cirugias medianas y mayores,37
+Tarija,60301,Yacuiba,2007,1,Cirugias medianas y mayores,91
+Santa Cruz,70403,Yapacani,2007,1,Cirugias medianas y mayores,25
+Chuquisaca,10102,Yotala,2007,1,Cirugias medianas y mayores,1
+Chuquisaca,10301,Zudañez,2007,1,Cirugias medianas y mayores,1
+La Paz,20201,Achacachi,2007,2,Cirugias medianas y mayores,3
+Cochabamba,30201,Aiquile,2007,2,Cirugias medianas y mayores,10
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,Cirugias medianas y mayores,9
+Potosí,50802,Atocha,2007,2,Cirugias medianas y mayores,14
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,2,Cirugias medianas y mayores,2
+Tarija,60202,Bermejo,2007,2,Cirugias medianas y mayores,3
+Potosí,50301,Betanzos,2007,2,Cirugias medianas y mayores,1
+Chuquisaca,10701,Camargo,2007,2,Cirugias medianas y mayores,77
+Santa Cruz,70706,Camiri,2007,2,Cirugias medianas y mayores,91
+La Paz,22001,Caranavi,2007,2,Cirugias medianas y mayores,22
+Santa Cruz,70702,Charagua,2007,2,Cirugias medianas y mayores,8
+La Paz,21101,Chulumani (v. De La Libertad),2007,2,Cirugias medianas y mayores,1
+Pando,90101,Cobija,2007,2,Cirugias medianas y mayores,201
+Cochabamba,30101,Cochabamba,2007,2,Cirugias medianas y mayores,2402
+Cochabamba,30905,Colcapirhua,2007,2,Cirugias medianas y mayores,5
+Santa Cruz,71301,Comarapa,2007,2,Cirugias medianas y mayores,7
+Santa Cruz,71101,Concepcion,2007,2,Cirugias medianas y mayores,8
+La Paz,21701,Copacabana,2007,2,Cirugias medianas y mayores,3
+La Paz,21401,Coroico,2007,2,Cirugias medianas y mayores,16
+Santa Cruz,70102,Cotoca,2007,2,Cirugias medianas y mayores,23
+La Paz,20105,El Alto,2007,2,Cirugias medianas y mayores,713
+Santa Cruz,70105,El Torno,2007,2,Cirugias medianas y mayores,18
+Beni,80202,Guayaramerin,2007,2,Cirugias medianas y mayores,36
+Oruro,40701,Huanuni,2007,2,Cirugias medianas y mayores,6
+La Paz,20101,La Paz,2007,2,Cirugias medianas y mayores,2741
+Potosí,50203,Llallagua,2007,2,Cirugias medianas y mayores,59
+Beni,80801,Magdalena,2007,2,Cirugias medianas y mayores,9
+Santa Cruz,70903,Mairana,2007,2,Cirugias medianas y mayores,10
+Chuquisaca,10501,Monteagudo,2007,2,Cirugias medianas y mayores,13
+Santa Cruz,71001,Montero,2007,2,Cirugias medianas y mayores,145
+Potosí,50404,Ocuri,2007,2,Cirugias medianas y mayores,3
+Oruro,40101,Oruro,2007,2,Cirugias medianas y mayores,463
+Chuquisaca,10401,Padilla,2007,2,Cirugias medianas y mayores,22
+Santa Cruz,70601,Portachuelo,2007,2,Cirugias medianas y mayores,48
+Potosí,50101,Potosi,2007,2,Cirugias medianas y mayores,187
+La Paz,20401,Puerto Acosta,2007,2,Cirugias medianas y mayores,8
+Santa Cruz,71402,Puerto Quijarro,2007,2,Cirugias medianas y mayores,2
+Santa Cruz,71401,Puerto Suarez,2007,2,Cirugias medianas y mayores,17
+Cochabamba,31205,Puerto Villarroel,2007,2,Cirugias medianas y mayores,69
+Cochabamba,31401,Punata,2007,2,Cirugias medianas y mayores,76
+Cochabamba,30901,Quillacollo,2007,2,Cirugias medianas y mayores,60
+Beni,80301,Reyes,2007,2,Cirugias medianas y mayores,1
+Beni,80201,Riberalta,2007,2,Cirugias medianas y mayores,195
+Santa Cruz,70503,Robore,2007,2,Cirugias medianas y mayores,16
+Beni,80304,Rurrenabaque,2007,2,Cirugias medianas y mayores,13
+Cochabamba,31001,Sacaba,2007,2,Cirugias medianas y mayores,32
+Beni,80302,San Borja,2007,2,Cirugias medianas y mayores,29
+La Paz,21502,San Buena Ventura,2007,2,Cirugias medianas y mayores,11
+Santa Cruz,70402,San Carlos,2007,2,Cirugias medianas y mayores,28
+Santa Cruz,70301,San Ignacio De Velasco,2007,2,Cirugias medianas y mayores,32
+Santa Cruz,71102,San Javier(stc),2007,2,Cirugias medianas y mayores,6
+Santa Cruz,70501,San Jose De Chiquitos,2007,2,Cirugias medianas y mayores,7
+Santa Cruz,70404,San Juan De Yapacani,2007,2,Cirugias medianas y mayores,29
+Santa Cruz,71104,San Julian,2007,2,Cirugias medianas y mayores,10
+Chuquisaca,10702,San Lucas,2007,2,Cirugias medianas y mayores,7
+Santa Cruz,71201,San Matias,2007,2,Cirugias medianas y mayores,10
+Beni,80702,San Ramon,2007,2,Cirugias medianas y mayores,1
+Beni,80702,San Ramon,2007,2,Cirugias medianas y mayores,9
+Beni,80401,Santa Ana,2007,2,Cirugias medianas y mayores,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,Cirugias medianas y mayores,2706
+Beni,80303,Santa Rosa,2007,2,Cirugias medianas y mayores,4
+Cochabamba,30902,Sipe Sipe,2007,2,Cirugias medianas y mayores,17
+Chuquisaca,10403,Sopachuy,2007,2,Cirugias medianas y mayores,1
+La Paz,20601,Sorata,2007,2,Cirugias medianas y mayores,1
+Chuquisaca,10101,Sucre,2007,2,Cirugias medianas y mayores,666
+Tarija,60101,Tarija,2007,2,Cirugias medianas y mayores,398
+Cochabamba,30903,Tiquipaya,2007,2,Cirugias medianas y mayores,3
+Cochabamba,31601,Tiraque (cbba),2007,2,Cirugias medianas y mayores,1
+Beni,80101,Trinidad,2007,2,Cirugias medianas y mayores,247
+Potosí,50801,Tupiza,2007,2,Cirugias medianas y mayores,36
+Potosí,50201,Uncia,2007,2,Cirugias medianas y mayores,10
+Potosí,51201,Uyuni,2007,2,Cirugias medianas y mayores,8
+Santa Cruz,70801,Vallegrande,2007,2,Cirugias medianas y mayores,32
+Tarija,60303,Villa Montes,2007,2,Cirugias medianas y mayores,3
+Cochabamba,31003,Villa Tunari,2007,2,Cirugias medianas y mayores,38
+Potosí,51501,Villazon,2007,2,Cirugias medianas y mayores,27
+Cochabamba,30904,Vinto,2007,2,Cirugias medianas y mayores,1
+Santa Cruz,70201,Warnes,2007,2,Cirugias medianas y mayores,21
+Tarija,60301,Yacuiba,2007,2,Cirugias medianas y mayores,88
+Santa Cruz,70403,Yapacani,2007,2,Cirugias medianas y mayores,3
+La Paz,20201,Achacachi,2007,3,Cirugias medianas y mayores,5
+Cochabamba,30201,Aiquile,2007,3,Cirugias medianas y mayores,13
+Santa Cruz,71501,Ascencion De Guarayos,2007,3,Cirugias medianas y mayores,15
+Potosí,50802,Atocha,2007,3,Cirugias medianas y mayores,11
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,3,Cirugias medianas y mayores,3
+Chuquisaca,10201,Azurduy,2007,3,Cirugias medianas y mayores,1
+Tarija,60202,Bermejo,2007,3,Cirugias medianas y mayores,19
+Potosí,50301,Betanzos,2007,3,Cirugias medianas y mayores,1
+Chuquisaca,10701,Camargo,2007,3,Cirugias medianas y mayores,12
+Santa Cruz,70706,Camiri,2007,3,Cirugias medianas y mayores,93
+La Paz,22001,Caranavi,2007,3,Cirugias medianas y mayores,32
+Oruro,40201,Challapata,2007,3,Cirugias medianas y mayores,1
+Santa Cruz,70702,Charagua,2007,3,Cirugias medianas y mayores,9
+La Paz,21101,Chulumani (v. De La Libertad),2007,3,Cirugias medianas y mayores,2
+Pando,90101,Cobija,2007,3,Cirugias medianas y mayores,208
+Cochabamba,30101,Cochabamba,2007,3,Cirugias medianas y mayores,2757
+Cochabamba,30905,Colcapirhua,2007,3,Cirugias medianas y mayores,76
+Santa Cruz,71301,Comarapa,2007,3,Cirugias medianas y mayores,11
+Santa Cruz,71101,Concepcion,2007,3,Cirugias medianas y mayores,11
+La Paz,21701,Copacabana,2007,3,Cirugias medianas y mayores,12
+La Paz,21401,Coroico,2007,3,Cirugias medianas y mayores,9
+Santa Cruz,70102,Cotoca,2007,3,Cirugias medianas y mayores,26
+La Paz,20105,El Alto,2007,3,Cirugias medianas y mayores,821
+Santa Cruz,70105,El Torno,2007,3,Cirugias medianas y mayores,26
+Beni,80202,Guayaramerin,2007,3,Cirugias medianas y mayores,48
+Oruro,40701,Huanuni,2007,3,Cirugias medianas y mayores,10
+La Paz,20101,La Paz,2007,3,Cirugias medianas y mayores,2956
+Potosí,50203,Llallagua,2007,3,Cirugias medianas y mayores,64
+Beni,80801,Magdalena,2007,3,Cirugias medianas y mayores,10
+Santa Cruz,70903,Mairana,2007,3,Cirugias medianas y mayores,18
+Chuquisaca,10501,Monteagudo,2007,3,Cirugias medianas y mayores,19
+Santa Cruz,71001,Montero,2007,3,Cirugias medianas y mayores,178
+Oruro,40101,Oruro,2007,3,Cirugias medianas y mayores,532
+Chuquisaca,10401,Padilla,2007,3,Cirugias medianas y mayores,28
+Santa Cruz,70601,Portachuelo,2007,3,Cirugias medianas y mayores,46
+Potosí,50101,Potosi,2007,3,Cirugias medianas y mayores,195
+La Paz,20401,Puerto Acosta,2007,3,Cirugias medianas y mayores,21
+Santa Cruz,71402,Puerto Quijarro,2007,3,Cirugias medianas y mayores,3
+Santa Cruz,71401,Puerto Suarez,2007,3,Cirugias medianas y mayores,15
+Cochabamba,31205,Puerto Villarroel,2007,3,Cirugias medianas y mayores,24
+Cochabamba,31401,Punata,2007,3,Cirugias medianas y mayores,28
+Cochabamba,30901,Quillacollo,2007,3,Cirugias medianas y mayores,63
+Beni,80301,Reyes,2007,3,Cirugias medianas y mayores,9
+Beni,80201,Riberalta,2007,3,Cirugias medianas y mayores,119
+Santa Cruz,70503,Robore,2007,3,Cirugias medianas y mayores,9
+Beni,80304,Rurrenabaque,2007,3,Cirugias medianas y mayores,8
+Cochabamba,31001,Sacaba,2007,3,Cirugias medianas y mayores,58
+Beni,80602,San Andres,2007,3,Cirugias medianas y mayores,3
+Beni,80302,San Borja,2007,3,Cirugias medianas y mayores,21
+La Paz,21502,San Buena Ventura,2007,3,Cirugias medianas y mayores,11
+Santa Cruz,70402,San Carlos,2007,3,Cirugias medianas y mayores,27
+Beni,80501,San Ignacio,2007,3,Cirugias medianas y mayores,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,3,Cirugias medianas y mayores,63
+Santa Cruz,71102,San Javier(stc),2007,3,Cirugias medianas y mayores,5
+Santa Cruz,70501,San Jose De Chiquitos,2007,3,Cirugias medianas y mayores,3
+Santa Cruz,70404,San Juan De Yapacani,2007,3,Cirugias medianas y mayores,38
+Santa Cruz,71104,San Julian,2007,3,Cirugias medianas y mayores,14
+Chuquisaca,10702,San Lucas,2007,3,Cirugias medianas y mayores,3
+Santa Cruz,71201,San Matias,2007,3,Cirugias medianas y mayores,15
+Beni,80702,San Ramon,2007,3,Cirugias medianas y mayores,5
+Beni,80702,San Ramon,2007,3,Cirugias medianas y mayores,7
+Beni,80401,Santa Ana,2007,3,Cirugias medianas y mayores,19
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,Cirugias medianas y mayores,3010
+Beni,80303,Santa Rosa,2007,3,Cirugias medianas y mayores,2
+Cochabamba,30902,Sipe Sipe,2007,3,Cirugias medianas y mayores,18
+Chuquisaca,10403,Sopachuy,2007,3,Cirugias medianas y mayores,7
+Chuquisaca,10101,Sucre,2007,3,Cirugias medianas y mayores,886
+Chuquisaca,10601,Tarabuco,2007,3,Cirugias medianas y mayores,6
+Tarija,60101,Tarija,2007,3,Cirugias medianas y mayores,396
+Cochabamba,30903,Tiquipaya,2007,3,Cirugias medianas y mayores,7
+Cochabamba,31601,Tiraque (cbba),2007,3,Cirugias medianas y mayores,13
+Beni,80101,Trinidad,2007,3,Cirugias medianas y mayores,139
+Potosí,50801,Tupiza,2007,3,Cirugias medianas y mayores,43
+Santa Cruz,70801,Vallegrande,2007,3,Cirugias medianas y mayores,38
+La Paz,20801,Viacha,2007,3,Cirugias medianas y mayores,11
+Tarija,60303,Villa Montes,2007,3,Cirugias medianas y mayores,42
+Cochabamba,31003,Villa Tunari,2007,3,Cirugias medianas y mayores,22
+Potosí,51501,Villazon,2007,3,Cirugias medianas y mayores,35
+Cochabamba,30904,Vinto,2007,3,Cirugias medianas y mayores,1
+Santa Cruz,70201,Warnes,2007,3,Cirugias medianas y mayores,35
+Tarija,60301,Yacuiba,2007,3,Cirugias medianas y mayores,101
+Chuquisaca,10602,Yamparaez,2007,3,Cirugias medianas y mayores,5
+Santa Cruz,70403,Yapacani,2007,3,Cirugias medianas y mayores,109
+La Paz,20201,Achacachi,2007,4,Cirugias medianas y mayores,11
+Cochabamba,30201,Aiquile,2007,4,Cirugias medianas y mayores,16
+Santa Cruz,71501,Ascencion De Guarayos,2007,4,Cirugias medianas y mayores,16
+Potosí,50802,Atocha,2007,4,Cirugias medianas y mayores,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,4,Cirugias medianas y mayores,3
+Chuquisaca,10201,Azurduy,2007,4,Cirugias medianas y mayores,1
+Tarija,60202,Bermejo,2007,4,Cirugias medianas y mayores,26
+Potosí,50301,Betanzos,2007,4,Cirugias medianas y mayores,1
+Chuquisaca,10701,Camargo,2007,4,Cirugias medianas y mayores,30
+Santa Cruz,70706,Camiri,2007,4,Cirugias medianas y mayores,69
+La Paz,22001,Caranavi,2007,4,Cirugias medianas y mayores,12
+Santa Cruz,70702,Charagua,2007,4,Cirugias medianas y mayores,9
+La Paz,21101,Chulumani (v. De La Libertad),2007,4,Cirugias medianas y mayores,5
+Pando,90101,Cobija,2007,4,Cirugias medianas y mayores,190
+Cochabamba,30101,Cochabamba,2007,4,Cirugias medianas y mayores,2296
+Cochabamba,30905,Colcapirhua,2007,4,Cirugias medianas y mayores,48
+Santa Cruz,71301,Comarapa,2007,4,Cirugias medianas y mayores,11
+Santa Cruz,71101,Concepcion,2007,4,Cirugias medianas y mayores,11
+La Paz,21701,Copacabana,2007,4,Cirugias medianas y mayores,2
+La Paz,21401,Coroico,2007,4,Cirugias medianas y mayores,10
+Santa Cruz,70102,Cotoca,2007,4,Cirugias medianas y mayores,15
+La Paz,20105,El Alto,2007,4,Cirugias medianas y mayores,535
+Beni,80202,Guayaramerin,2007,4,Cirugias medianas y mayores,48
+La Paz,20101,La Paz,2007,4,Cirugias medianas y mayores,2773
+Potosí,50203,Llallagua,2007,4,Cirugias medianas y mayores,23
+Beni,80801,Magdalena,2007,4,Cirugias medianas y mayores,2
+Santa Cruz,70903,Mairana,2007,4,Cirugias medianas y mayores,15
+Chuquisaca,10501,Monteagudo,2007,4,Cirugias medianas y mayores,14
+Santa Cruz,71001,Montero,2007,4,Cirugias medianas y mayores,159
+Oruro,40101,Oruro,2007,4,Cirugias medianas y mayores,459
+Chuquisaca,10401,Padilla,2007,4,Cirugias medianas y mayores,33
+Santa Cruz,70601,Portachuelo,2007,4,Cirugias medianas y mayores,47
+Potosí,50101,Potosi,2007,4,Cirugias medianas y mayores,193
+La Paz,20401,Puerto Acosta,2007,4,Cirugias medianas y mayores,16
+Santa Cruz,71402,Puerto Quijarro,2007,4,Cirugias medianas y mayores,2
+Santa Cruz,71401,Puerto Suarez,2007,4,Cirugias medianas y mayores,19
+Cochabamba,31205,Puerto Villarroel,2007,4,Cirugias medianas y mayores,14
+Cochabamba,31401,Punata,2007,4,Cirugias medianas y mayores,28
+Cochabamba,30901,Quillacollo,2007,4,Cirugias medianas y mayores,79
+Beni,80301,Reyes,2007,4,Cirugias medianas y mayores,1
+Beni,80201,Riberalta,2007,4,Cirugias medianas y mayores,122
+Santa Cruz,70503,Robore,2007,4,Cirugias medianas y mayores,6
+Beni,80304,Rurrenabaque,2007,4,Cirugias medianas y mayores,12
+Cochabamba,31001,Sacaba,2007,4,Cirugias medianas y mayores,47
+Santa Cruz,70901,Samaipata,2007,4,Cirugias medianas y mayores,2
+Beni,80602,San Andres,2007,4,Cirugias medianas y mayores,1
+Beni,80302,San Borja,2007,4,Cirugias medianas y mayores,13
+La Paz,21502,San Buena Ventura,2007,4,Cirugias medianas y mayores,8
+Santa Cruz,70402,San Carlos,2007,4,Cirugias medianas y mayores,28
+Beni,80501,San Ignacio,2007,4,Cirugias medianas y mayores,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,4,Cirugias medianas y mayores,47
+Santa Cruz,71102,San Javier(stc),2007,4,Cirugias medianas y mayores,5
+Santa Cruz,70501,San Jose De Chiquitos,2007,4,Cirugias medianas y mayores,6
+Santa Cruz,70404,San Juan De Yapacani,2007,4,Cirugias medianas y mayores,24
+Santa Cruz,71104,San Julian,2007,4,Cirugias medianas y mayores,5
+Chuquisaca,10702,San Lucas,2007,4,Cirugias medianas y mayores,17
+Santa Cruz,71201,San Matias,2007,4,Cirugias medianas y mayores,6
+Beni,80702,San Ramon,2007,4,Cirugias medianas y mayores,11
+Beni,80702,San Ramon,2007,4,Cirugias medianas y mayores,4
+Beni,80401,Santa Ana,2007,4,Cirugias medianas y mayores,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,Cirugias medianas y mayores,2631
+Beni,80303,Santa Rosa,2007,4,Cirugias medianas y mayores,9
+Cochabamba,30902,Sipe Sipe,2007,4,Cirugias medianas y mayores,23
+Chuquisaca,10403,Sopachuy,2007,4,Cirugias medianas y mayores,1
+Chuquisaca,10101,Sucre,2007,4,Cirugias medianas y mayores,851
+Chuquisaca,10601,Tarabuco,2007,4,Cirugias medianas y mayores,4
+Tarija,60101,Tarija,2007,4,Cirugias medianas y mayores,403
+Cochabamba,30903,Tiquipaya,2007,4,Cirugias medianas y mayores,3
+Cochabamba,31601,Tiraque (cbba),2007,4,Cirugias medianas y mayores,10
+Beni,80101,Trinidad,2007,4,Cirugias medianas y mayores,240
+Potosí,50801,Tupiza,2007,4,Cirugias medianas y mayores,37
+Potosí,50201,Uncia,2007,4,Cirugias medianas y mayores,24
+Potosí,51201,Uyuni,2007,4,Cirugias medianas y mayores,8
+Santa Cruz,70801,Vallegrande,2007,4,Cirugias medianas y mayores,34
+La Paz,20801,Viacha,2007,4,Cirugias medianas y mayores,22
+Tarija,60303,Villa Montes,2007,4,Cirugias medianas y mayores,60
+Cochabamba,31003,Villa Tunari,2007,4,Cirugias medianas y mayores,22
+Potosí,51501,Villazon,2007,4,Cirugias medianas y mayores,25
+Cochabamba,30904,Vinto,2007,4,Cirugias medianas y mayores,2
+Potosí,50602,Vitichi,2007,4,Cirugias medianas y mayores,1
+Santa Cruz,70201,Warnes,2007,4,Cirugias medianas y mayores,38
+Tarija,60301,Yacuiba,2007,4,Cirugias medianas y mayores,74
+Chuquisaca,10602,Yamparaez,2007,4,Cirugias medianas y mayores,2
+Santa Cruz,70403,Yapacani,2007,4,Cirugias medianas y mayores,71
+Chuquisaca,10301,Zudañez,2007,4,Cirugias medianas y mayores,1
+La Paz,20201,Achacachi,2007,5,Cirugias medianas y mayores,5
+Cochabamba,30201,Aiquile,2007,5,Cirugias medianas y mayores,4
+Santa Cruz,71501,Ascencion De Guarayos,2007,5,Cirugias medianas y mayores,15
+Potosí,50802,Atocha,2007,5,Cirugias medianas y mayores,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,5,Cirugias medianas y mayores,2
+Chuquisaca,10201,Azurduy,2007,5,Cirugias medianas y mayores,1
+Tarija,60202,Bermejo,2007,5,Cirugias medianas y mayores,20
+Potosí,50301,Betanzos,2007,5,Cirugias medianas y mayores,3
+Chuquisaca,10701,Camargo,2007,5,Cirugias medianas y mayores,30
+Santa Cruz,70706,Camiri,2007,5,Cirugias medianas y mayores,68
+La Paz,22001,Caranavi,2007,5,Cirugias medianas y mayores,23
+Santa Cruz,70702,Charagua,2007,5,Cirugias medianas y mayores,5
+Pando,90101,Cobija,2007,5,Cirugias medianas y mayores,213
+Cochabamba,30101,Cochabamba,2007,5,Cirugias medianas y mayores,2585
+Cochabamba,30905,Colcapirhua,2007,5,Cirugias medianas y mayores,41
+Santa Cruz,71301,Comarapa,2007,5,Cirugias medianas y mayores,11
+Santa Cruz,71101,Concepcion,2007,5,Cirugias medianas y mayores,14
+La Paz,21401,Coroico,2007,5,Cirugias medianas y mayores,7
+Santa Cruz,70102,Cotoca,2007,5,Cirugias medianas y mayores,14
+La Paz,20105,El Alto,2007,5,Cirugias medianas y mayores,751
+Santa Cruz,70105,El Torno,2007,5,Cirugias medianas y mayores,10
+Beni,80202,Guayaramerin,2007,5,Cirugias medianas y mayores,29
+La Paz,20101,La Paz,2007,5,Cirugias medianas y mayores,3015
+Potosí,50203,Llallagua,2007,5,Cirugias medianas y mayores,46
+Beni,80801,Magdalena,2007,5,Cirugias medianas y mayores,5
+Santa Cruz,70903,Mairana,2007,5,Cirugias medianas y mayores,10
+Chuquisaca,10501,Monteagudo,2007,5,Cirugias medianas y mayores,15
+Santa Cruz,71001,Montero,2007,5,Cirugias medianas y mayores,143
+Oruro,40101,Oruro,2007,5,Cirugias medianas y mayores,394
+Chuquisaca,10401,Padilla,2007,5,Cirugias medianas y mayores,15
+Santa Cruz,70601,Portachuelo,2007,5,Cirugias medianas y mayores,37
+Potosí,50101,Potosi,2007,5,Cirugias medianas y mayores,218
+La Paz,20401,Puerto Acosta,2007,5,Cirugias medianas y mayores,14
+Santa Cruz,71402,Puerto Quijarro,2007,5,Cirugias medianas y mayores,4
+Santa Cruz,71401,Puerto Suarez,2007,5,Cirugias medianas y mayores,8
+Cochabamba,31205,Puerto Villarroel,2007,5,Cirugias medianas y mayores,32
+Cochabamba,31401,Punata,2007,5,Cirugias medianas y mayores,29
+Cochabamba,30901,Quillacollo,2007,5,Cirugias medianas y mayores,54
+Beni,80301,Reyes,2007,5,Cirugias medianas y mayores,7
+Beni,80201,Riberalta,2007,5,Cirugias medianas y mayores,276
+Santa Cruz,70503,Robore,2007,5,Cirugias medianas y mayores,10
+Beni,80304,Rurrenabaque,2007,5,Cirugias medianas y mayores,5
+Cochabamba,31001,Sacaba,2007,5,Cirugias medianas y mayores,47
+Santa Cruz,70901,Samaipata,2007,5,Cirugias medianas y mayores,4
+Beni,80602,San Andres,2007,5,Cirugias medianas y mayores,3
+Beni,80302,San Borja,2007,5,Cirugias medianas y mayores,19
+La Paz,21502,San Buena Ventura,2007,5,Cirugias medianas y mayores,24
+Santa Cruz,70402,San Carlos,2007,5,Cirugias medianas y mayores,29
+Beni,80501,San Ignacio,2007,5,Cirugias medianas y mayores,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,5,Cirugias medianas y mayores,54
+Santa Cruz,71102,San Javier(stc),2007,5,Cirugias medianas y mayores,9
+Beni,80701,San Joaquin,2007,5,Cirugias medianas y mayores,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,5,Cirugias medianas y mayores,12
+Santa Cruz,70404,San Juan De Yapacani,2007,5,Cirugias medianas y mayores,33
+Santa Cruz,71104,San Julian,2007,5,Cirugias medianas y mayores,18
+Chuquisaca,10702,San Lucas,2007,5,Cirugias medianas y mayores,8
+Santa Cruz,71201,San Matias,2007,5,Cirugias medianas y mayores,9
+Beni,80702,San Ramon,2007,5,Cirugias medianas y mayores,9
+Beni,80702,San Ramon,2007,5,Cirugias medianas y mayores,4
+Beni,80401,Santa Ana,2007,5,Cirugias medianas y mayores,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,Cirugias medianas y mayores,3162
+Beni,80303,Santa Rosa,2007,5,Cirugias medianas y mayores,4
+Cochabamba,30902,Sipe Sipe,2007,5,Cirugias medianas y mayores,16
+Chuquisaca,10403,Sopachuy,2007,5,Cirugias medianas y mayores,2
+Chuquisaca,10101,Sucre,2007,5,Cirugias medianas y mayores,656
+Chuquisaca,10601,Tarabuco,2007,5,Cirugias medianas y mayores,2
+Tarija,60101,Tarija,2007,5,Cirugias medianas y mayores,389
+Cochabamba,30903,Tiquipaya,2007,5,Cirugias medianas y mayores,3
+Cochabamba,31601,Tiraque (cbba),2007,5,Cirugias medianas y mayores,11
+Beni,80101,Trinidad,2007,5,Cirugias medianas y mayores,114
+Potosí,50801,Tupiza,2007,5,Cirugias medianas y mayores,40
+Potosí,50201,Uncia,2007,5,Cirugias medianas y mayores,16
+Potosí,51201,Uyuni,2007,5,Cirugias medianas y mayores,13
+Santa Cruz,70801,Vallegrande,2007,5,Cirugias medianas y mayores,40
+La Paz,20801,Viacha,2007,5,Cirugias medianas y mayores,15
+Tarija,60303,Villa Montes,2007,5,Cirugias medianas y mayores,56
+Cochabamba,31003,Villa Tunari,2007,5,Cirugias medianas y mayores,27
+Potosí,51501,Villazon,2007,5,Cirugias medianas y mayores,13
+Cochabamba,30904,Vinto,2007,5,Cirugias medianas y mayores,1
+Santa Cruz,70201,Warnes,2007,5,Cirugias medianas y mayores,25
+Tarija,60301,Yacuiba,2007,5,Cirugias medianas y mayores,99
+Santa Cruz,70403,Yapacani,2007,5,Cirugias medianas y mayores,49
+Chuquisaca,10301,Zudañez,2007,5,Cirugias medianas y mayores,1
+La Paz,20201,Achacachi,2007,6,Cirugias medianas y mayores,3
+Cochabamba,30201,Aiquile,2007,6,Cirugias medianas y mayores,8
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,Cirugias medianas y mayores,20
+Potosí,50802,Atocha,2007,6,Cirugias medianas y mayores,7
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,6,Cirugias medianas y mayores,3
+Beni,80802,Baures,2007,6,Cirugias medianas y mayores,4
+Tarija,60202,Bermejo,2007,6,Cirugias medianas y mayores,25
+Potosí,50301,Betanzos,2007,6,Cirugias medianas y mayores,1
+Chuquisaca,10701,Camargo,2007,6,Cirugias medianas y mayores,25
+Santa Cruz,70706,Camiri,2007,6,Cirugias medianas y mayores,82
+La Paz,22001,Caranavi,2007,6,Cirugias medianas y mayores,23
+Oruro,40201,Challapata,2007,6,Cirugias medianas y mayores,5
+Santa Cruz,70702,Charagua,2007,6,Cirugias medianas y mayores,12
+La Paz,21101,Chulumani (v. De La Libertad),2007,6,Cirugias medianas y mayores,2
+Pando,90101,Cobija,2007,6,Cirugias medianas y mayores,79
+Cochabamba,30101,Cochabamba,2007,6,Cirugias medianas y mayores,2423
+Cochabamba,30905,Colcapirhua,2007,6,Cirugias medianas y mayores,44
+Santa Cruz,71301,Comarapa,2007,6,Cirugias medianas y mayores,7
+Santa Cruz,71101,Concepcion,2007,6,Cirugias medianas y mayores,19
+La Paz,21401,Coroico,2007,6,Cirugias medianas y mayores,12
+Santa Cruz,70102,Cotoca,2007,6,Cirugias medianas y mayores,8
+La Paz,20105,El Alto,2007,6,Cirugias medianas y mayores,756
+Santa Cruz,70105,El Torno,2007,6,Cirugias medianas y mayores,26
+Beni,80202,Guayaramerin,2007,6,Cirugias medianas y mayores,46
+La Paz,20101,La Paz,2007,6,Cirugias medianas y mayores,2852
+Potosí,50203,Llallagua,2007,6,Cirugias medianas y mayores,55
+Beni,80801,Magdalena,2007,6,Cirugias medianas y mayores,4
+Santa Cruz,70903,Mairana,2007,6,Cirugias medianas y mayores,8
+Chuquisaca,10501,Monteagudo,2007,6,Cirugias medianas y mayores,22
+Santa Cruz,71001,Montero,2007,6,Cirugias medianas y mayores,106
+Oruro,40101,Oruro,2007,6,Cirugias medianas y mayores,389
+Chuquisaca,10401,Padilla,2007,6,Cirugias medianas y mayores,13
+Santa Cruz,70601,Portachuelo,2007,6,Cirugias medianas y mayores,38
+Potosí,50101,Potosi,2007,6,Cirugias medianas y mayores,207
+La Paz,20401,Puerto Acosta,2007,6,Cirugias medianas y mayores,8
+Santa Cruz,71402,Puerto Quijarro,2007,6,Cirugias medianas y mayores,4
+Santa Cruz,71401,Puerto Suarez,2007,6,Cirugias medianas y mayores,23
+Cochabamba,31205,Puerto Villarroel,2007,6,Cirugias medianas y mayores,10
+Cochabamba,31401,Punata,2007,6,Cirugias medianas y mayores,9
+Cochabamba,30901,Quillacollo,2007,6,Cirugias medianas y mayores,59
+Beni,80301,Reyes,2007,6,Cirugias medianas y mayores,9
+Beni,80201,Riberalta,2007,6,Cirugias medianas y mayores,235
+Santa Cruz,70503,Robore,2007,6,Cirugias medianas y mayores,8
+Beni,80304,Rurrenabaque,2007,6,Cirugias medianas y mayores,7
+Cochabamba,31001,Sacaba,2007,6,Cirugias medianas y mayores,109
+Santa Cruz,70901,Samaipata,2007,6,Cirugias medianas y mayores,5
+Beni,80302,San Borja,2007,6,Cirugias medianas y mayores,17
+La Paz,21502,San Buena Ventura,2007,6,Cirugias medianas y mayores,12
+Santa Cruz,70402,San Carlos,2007,6,Cirugias medianas y mayores,38
+Beni,80501,San Ignacio,2007,6,Cirugias medianas y mayores,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,6,Cirugias medianas y mayores,65
+Santa Cruz,71102,San Javier(stc),2007,6,Cirugias medianas y mayores,13
+Beni,80701,San Joaquin,2007,6,Cirugias medianas y mayores,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,6,Cirugias medianas y mayores,22
+Santa Cruz,70404,San Juan De Yapacani,2007,6,Cirugias medianas y mayores,33
+Santa Cruz,71104,San Julian,2007,6,Cirugias medianas y mayores,20
+Chuquisaca,10702,San Lucas,2007,6,Cirugias medianas y mayores,4
+Santa Cruz,71201,San Matias,2007,6,Cirugias medianas y mayores,3
+Beni,80702,San Ramon,2007,6,Cirugias medianas y mayores,1
+Beni,80702,San Ramon,2007,6,Cirugias medianas y mayores,7
+Beni,80401,Santa Ana,2007,6,Cirugias medianas y mayores,66
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,Cirugias medianas y mayores,3227
+Beni,80303,Santa Rosa,2007,6,Cirugias medianas y mayores,1
+Cochabamba,30902,Sipe Sipe,2007,6,Cirugias medianas y mayores,27
+Chuquisaca,10403,Sopachuy,2007,6,Cirugias medianas y mayores,6
+Chuquisaca,10101,Sucre,2007,6,Cirugias medianas y mayores,776
+Chuquisaca,10601,Tarabuco,2007,6,Cirugias medianas y mayores,1
+Tarija,60101,Tarija,2007,6,Cirugias medianas y mayores,345
+Cochabamba,30903,Tiquipaya,2007,6,Cirugias medianas y mayores,9
+Cochabamba,31601,Tiraque (cbba),2007,6,Cirugias medianas y mayores,8
+Beni,80101,Trinidad,2007,6,Cirugias medianas y mayores,479
+Potosí,50801,Tupiza,2007,6,Cirugias medianas y mayores,42
+Potosí,50201,Uncia,2007,6,Cirugias medianas y mayores,23
+Santa Cruz,70801,Vallegrande,2007,6,Cirugias medianas y mayores,33
+La Paz,20801,Viacha,2007,6,Cirugias medianas y mayores,11
+Tarija,60303,Villa Montes,2007,6,Cirugias medianas y mayores,54
+Cochabamba,31003,Villa Tunari,2007,6,Cirugias medianas y mayores,20
+Potosí,51501,Villazon,2007,6,Cirugias medianas y mayores,24
+Santa Cruz,70201,Warnes,2007,6,Cirugias medianas y mayores,41
+Tarija,60301,Yacuiba,2007,6,Cirugias medianas y mayores,95
+Chuquisaca,10602,Yamparaez,2007,6,Cirugias medianas y mayores,3
+Santa Cruz,70403,Yapacani,2007,6,Cirugias medianas y mayores,80
+Chuquisaca,10301,Zudañez,2007,6,Cirugias medianas y mayores,1
+La Paz,20201,Achacachi,2007,7,Cirugias medianas y mayores,5
+Cochabamba,30201,Aiquile,2007,7,Cirugias medianas y mayores,10
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,Cirugias medianas y mayores,9
+Potosí,50802,Atocha,2007,7,Cirugias medianas y mayores,33
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,7,Cirugias medianas y mayores,5
+Beni,80802,Baures,2007,7,Cirugias medianas y mayores,3
+Tarija,60202,Bermejo,2007,7,Cirugias medianas y mayores,22
+Potosí,50301,Betanzos,2007,7,Cirugias medianas y mayores,2
+Chuquisaca,10701,Camargo,2007,7,Cirugias medianas y mayores,37
+Santa Cruz,70706,Camiri,2007,7,Cirugias medianas y mayores,71
+La Paz,22001,Caranavi,2007,7,Cirugias medianas y mayores,18
+Oruro,40201,Challapata,2007,7,Cirugias medianas y mayores,2
+Santa Cruz,70702,Charagua,2007,7,Cirugias medianas y mayores,13
+La Paz,21101,Chulumani (v. De La Libertad),2007,7,Cirugias medianas y mayores,4
+Pando,90101,Cobija,2007,7,Cirugias medianas y mayores,363
+Cochabamba,30101,Cochabamba,2007,7,Cirugias medianas y mayores,2358
+Cochabamba,30905,Colcapirhua,2007,7,Cirugias medianas y mayores,18
+Santa Cruz,71301,Comarapa,2007,7,Cirugias medianas y mayores,13
+Santa Cruz,71101,Concepcion,2007,7,Cirugias medianas y mayores,15
+La Paz,21401,Coroico,2007,7,Cirugias medianas y mayores,15
+Santa Cruz,70102,Cotoca,2007,7,Cirugias medianas y mayores,16
+La Paz,20105,El Alto,2007,7,Cirugias medianas y mayores,777
+Santa Cruz,70105,El Torno,2007,7,Cirugias medianas y mayores,6
+Beni,80202,Guayaramerin,2007,7,Cirugias medianas y mayores,67
+La Paz,20101,La Paz,2007,7,Cirugias medianas y mayores,3063
+Potosí,50203,Llallagua,2007,7,Cirugias medianas y mayores,55
+Beni,80801,Magdalena,2007,7,Cirugias medianas y mayores,4
+Santa Cruz,70903,Mairana,2007,7,Cirugias medianas y mayores,13
+Chuquisaca,10501,Monteagudo,2007,7,Cirugias medianas y mayores,17
+Santa Cruz,71001,Montero,2007,7,Cirugias medianas y mayores,221
+Potosí,50404,Ocuri,2007,7,Cirugias medianas y mayores,1
+Oruro,40101,Oruro,2007,7,Cirugias medianas y mayores,480
+Chuquisaca,10401,Padilla,2007,7,Cirugias medianas y mayores,41
+La Paz,21305,Patacamaya,2007,7,Cirugias medianas y mayores,3
+Santa Cruz,70601,Portachuelo,2007,7,Cirugias medianas y mayores,47
+Potosí,50101,Potosi,2007,7,Cirugias medianas y mayores,263
+La Paz,20401,Puerto Acosta,2007,7,Cirugias medianas y mayores,27
+Santa Cruz,71401,Puerto Suarez,2007,7,Cirugias medianas y mayores,15
+Cochabamba,31205,Puerto Villarroel,2007,7,Cirugias medianas y mayores,21
+Cochabamba,31401,Punata,2007,7,Cirugias medianas y mayores,21
+Cochabamba,30901,Quillacollo,2007,7,Cirugias medianas y mayores,48
+Beni,80201,Riberalta,2007,7,Cirugias medianas y mayores,161
+Santa Cruz,70503,Robore,2007,7,Cirugias medianas y mayores,53
+Beni,80304,Rurrenabaque,2007,7,Cirugias medianas y mayores,13
+Cochabamba,31001,Sacaba,2007,7,Cirugias medianas y mayores,84
+Santa Cruz,70901,Samaipata,2007,7,Cirugias medianas y mayores,6
+Beni,80602,San Andres,2007,7,Cirugias medianas y mayores,2
+Beni,80302,San Borja,2007,7,Cirugias medianas y mayores,14
+La Paz,21502,San Buena Ventura,2007,7,Cirugias medianas y mayores,10
+Santa Cruz,70402,San Carlos,2007,7,Cirugias medianas y mayores,38
+Santa Cruz,70301,San Ignacio De Velasco,2007,7,Cirugias medianas y mayores,86
+Santa Cruz,71102,San Javier(stc),2007,7,Cirugias medianas y mayores,10
+Santa Cruz,70501,San Jose De Chiquitos,2007,7,Cirugias medianas y mayores,12
+Santa Cruz,70404,San Juan De Yapacani,2007,7,Cirugias medianas y mayores,31
+Santa Cruz,71104,San Julian,2007,7,Cirugias medianas y mayores,36
+Chuquisaca,10702,San Lucas,2007,7,Cirugias medianas y mayores,5
+Santa Cruz,71201,San Matias,2007,7,Cirugias medianas y mayores,10
+Beni,80702,San Ramon,2007,7,Cirugias medianas y mayores,13
+Beni,80401,Santa Ana,2007,7,Cirugias medianas y mayores,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,Cirugias medianas y mayores,3960
+Cochabamba,30902,Sipe Sipe,2007,7,Cirugias medianas y mayores,25
+Chuquisaca,10403,Sopachuy,2007,7,Cirugias medianas y mayores,7
+Chuquisaca,10101,Sucre,2007,7,Cirugias medianas y mayores,994
+Chuquisaca,10601,Tarabuco,2007,7,Cirugias medianas y mayores,3
+Tarija,60101,Tarija,2007,7,Cirugias medianas y mayores,391
+Cochabamba,30903,Tiquipaya,2007,7,Cirugias medianas y mayores,6
+Cochabamba,31601,Tiraque (cbba),2007,7,Cirugias medianas y mayores,15
+Oruro,41001,Toledo,2007,7,Cirugias medianas y mayores,1
+Beni,80101,Trinidad,2007,7,Cirugias medianas y mayores,368
+Potosí,50801,Tupiza,2007,7,Cirugias medianas y mayores,40
+Potosí,50201,Uncia,2007,7,Cirugias medianas y mayores,35
+Potosí,51201,Uyuni,2007,7,Cirugias medianas y mayores,12
+Santa Cruz,70801,Vallegrande,2007,7,Cirugias medianas y mayores,33
+La Paz,20801,Viacha,2007,7,Cirugias medianas y mayores,14
+Tarija,60303,Villa Montes,2007,7,Cirugias medianas y mayores,57
+Cochabamba,31003,Villa Tunari,2007,7,Cirugias medianas y mayores,33
+Potosí,51501,Villazon,2007,7,Cirugias medianas y mayores,28
+Cochabamba,30904,Vinto,2007,7,Cirugias medianas y mayores,4
+Santa Cruz,70201,Warnes,2007,7,Cirugias medianas y mayores,22
+Tarija,60301,Yacuiba,2007,7,Cirugias medianas y mayores,100
+Chuquisaca,10301,Zudañez,2007,7,Cirugias medianas y mayores,2
+La Paz,20201,Achacachi,2007,8,Cirugias medianas y mayores,1
+Cochabamba,30201,Aiquile,2007,8,Cirugias medianas y mayores,20
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,Cirugias medianas y mayores,10
+Potosí,50802,Atocha,2007,8,Cirugias medianas y mayores,7
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,8,Cirugias medianas y mayores,1
+Beni,80802,Baures,2007,8,Cirugias medianas y mayores,11
+Tarija,60202,Bermejo,2007,8,Cirugias medianas y mayores,25
+Potosí,50301,Betanzos,2007,8,Cirugias medianas y mayores,7
+Chuquisaca,10701,Camargo,2007,8,Cirugias medianas y mayores,13
+Santa Cruz,70706,Camiri,2007,8,Cirugias medianas y mayores,85
+La Paz,22001,Caranavi,2007,8,Cirugias medianas y mayores,22
+Santa Cruz,70702,Charagua,2007,8,Cirugias medianas y mayores,11
+Pando,90101,Cobija,2007,8,Cirugias medianas y mayores,91
+Cochabamba,30101,Cochabamba,2007,8,Cirugias medianas y mayores,2378
+Cochabamba,30905,Colcapirhua,2007,8,Cirugias medianas y mayores,41
+Santa Cruz,71301,Comarapa,2007,8,Cirugias medianas y mayores,11
+Santa Cruz,71101,Concepcion,2007,8,Cirugias medianas y mayores,21
+La Paz,21401,Coroico,2007,8,Cirugias medianas y mayores,3
+Santa Cruz,70102,Cotoca,2007,8,Cirugias medianas y mayores,18
+La Paz,20105,El Alto,2007,8,Cirugias medianas y mayores,707
+Santa Cruz,70105,El Torno,2007,8,Cirugias medianas y mayores,6
+Tarija,60601,Entre Rios,2007,8,Cirugias medianas y mayores,23
+Tarija,60601,Entre Rios,2007,8,Cirugias medianas y mayores,3
+Beni,80202,Guayaramerin,2007,8,Cirugias medianas y mayores,55
+La Paz,20101,La Paz,2007,8,Cirugias medianas y mayores,3073
+Potosí,50203,Llallagua,2007,8,Cirugias medianas y mayores,48
+Beni,80801,Magdalena,2007,8,Cirugias medianas y mayores,4
+Santa Cruz,70903,Mairana,2007,8,Cirugias medianas y mayores,9
+Chuquisaca,10501,Monteagudo,2007,8,Cirugias medianas y mayores,14
+Santa Cruz,71001,Montero,2007,8,Cirugias medianas y mayores,151
+Potosí,50404,Ocuri,2007,8,Cirugias medianas y mayores,1
+Oruro,40101,Oruro,2007,8,Cirugias medianas y mayores,588
+Chuquisaca,10401,Padilla,2007,8,Cirugias medianas y mayores,25
+Santa Cruz,70601,Portachuelo,2007,8,Cirugias medianas y mayores,42
+Potosí,50101,Potosi,2007,8,Cirugias medianas y mayores,241
+La Paz,20401,Puerto Acosta,2007,8,Cirugias medianas y mayores,26
+Santa Cruz,71402,Puerto Quijarro,2007,8,Cirugias medianas y mayores,6
+Santa Cruz,71401,Puerto Suarez,2007,8,Cirugias medianas y mayores,24
+Cochabamba,31205,Puerto Villarroel,2007,8,Cirugias medianas y mayores,21
+Cochabamba,31401,Punata,2007,8,Cirugias medianas y mayores,33
+Cochabamba,30901,Quillacollo,2007,8,Cirugias medianas y mayores,58
+Beni,80301,Reyes,2007,8,Cirugias medianas y mayores,10
+Beni,80201,Riberalta,2007,8,Cirugias medianas y mayores,315
+Santa Cruz,70503,Robore,2007,8,Cirugias medianas y mayores,8
+Beni,80304,Rurrenabaque,2007,8,Cirugias medianas y mayores,11
+Cochabamba,31001,Sacaba,2007,8,Cirugias medianas y mayores,46
+Santa Cruz,70901,Samaipata,2007,8,Cirugias medianas y mayores,2
+Beni,80602,San Andres,2007,8,Cirugias medianas y mayores,3
+Beni,80302,San Borja,2007,8,Cirugias medianas y mayores,71
+La Paz,21502,San Buena Ventura,2007,8,Cirugias medianas y mayores,5
+Santa Cruz,70402,San Carlos,2007,8,Cirugias medianas y mayores,30
+Beni,80501,San Ignacio,2007,8,Cirugias medianas y mayores,17
+Santa Cruz,70301,San Ignacio De Velasco,2007,8,Cirugias medianas y mayores,55
+Santa Cruz,71102,San Javier(stc),2007,8,Cirugias medianas y mayores,4
+Beni,80701,San Joaquin,2007,8,Cirugias medianas y mayores,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,8,Cirugias medianas y mayores,12
+Santa Cruz,70404,San Juan De Yapacani,2007,8,Cirugias medianas y mayores,41
+Santa Cruz,71104,San Julian,2007,8,Cirugias medianas y mayores,90
+Chuquisaca,10702,San Lucas,2007,8,Cirugias medianas y mayores,8
+Santa Cruz,71201,San Matias,2007,8,Cirugias medianas y mayores,7
+Beni,80702,San Ramon,2007,8,Cirugias medianas y mayores,5
+Beni,80401,Santa Ana,2007,8,Cirugias medianas y mayores,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,Cirugias medianas y mayores,3602
+Beni,80303,Santa Rosa,2007,8,Cirugias medianas y mayores,5
+Cochabamba,30902,Sipe Sipe,2007,8,Cirugias medianas y mayores,26
+Chuquisaca,10403,Sopachuy,2007,8,Cirugias medianas y mayores,6
+Chuquisaca,10101,Sucre,2007,8,Cirugias medianas y mayores,723
+Chuquisaca,10601,Tarabuco,2007,8,Cirugias medianas y mayores,3
+Tarija,60101,Tarija,2007,8,Cirugias medianas y mayores,388
+Cochabamba,31601,Tiraque (cbba),2007,8,Cirugias medianas y mayores,2
+Oruro,41001,Toledo,2007,8,Cirugias medianas y mayores,2
+Beni,80101,Trinidad,2007,8,Cirugias medianas y mayores,326
+Potosí,50801,Tupiza,2007,8,Cirugias medianas y mayores,44
+Potosí,50201,Uncia,2007,8,Cirugias medianas y mayores,28
+Potosí,51201,Uyuni,2007,8,Cirugias medianas y mayores,10
+Santa Cruz,70801,Vallegrande,2007,8,Cirugias medianas y mayores,37
+La Paz,20801,Viacha,2007,8,Cirugias medianas y mayores,10
+Tarija,60303,Villa Montes,2007,8,Cirugias medianas y mayores,67
+Cochabamba,31003,Villa Tunari,2007,8,Cirugias medianas y mayores,15
+Potosí,51501,Villazon,2007,8,Cirugias medianas y mayores,31
+Cochabamba,30904,Vinto,2007,8,Cirugias medianas y mayores,27
+Santa Cruz,70201,Warnes,2007,8,Cirugias medianas y mayores,29
+Tarija,60301,Yacuiba,2007,8,Cirugias medianas y mayores,108
+Santa Cruz,70403,Yapacani,2007,8,Cirugias medianas y mayores,9
+Chuquisaca,10102,Yotala,2007,8,Cirugias medianas y mayores,2
+Chuquisaca,10301,Zudañez,2007,8,Cirugias medianas y mayores,1
+La Paz,20201,Achacachi,2007,9,Cirugias medianas y mayores,3
+Cochabamba,30201,Aiquile,2007,9,Cirugias medianas y mayores,20
+Santa Cruz,71501,Ascencion De Guarayos,2007,9,Cirugias medianas y mayores,29
+Potosí,50802,Atocha,2007,9,Cirugias medianas y mayores,6
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,9,Cirugias medianas y mayores,3
+Chuquisaca,10201,Azurduy,2007,9,Cirugias medianas y mayores,1
+Beni,80802,Baures,2007,9,Cirugias medianas y mayores,3
+Tarija,60202,Bermejo,2007,9,Cirugias medianas y mayores,25
+Potosí,50301,Betanzos,2007,9,Cirugias medianas y mayores,4
+Chuquisaca,10701,Camargo,2007,9,Cirugias medianas y mayores,33
+Santa Cruz,70706,Camiri,2007,9,Cirugias medianas y mayores,66
+La Paz,22001,Caranavi,2007,9,Cirugias medianas y mayores,27
+Santa Cruz,70702,Charagua,2007,9,Cirugias medianas y mayores,16
+Pando,90101,Cobija,2007,9,Cirugias medianas y mayores,489
+Cochabamba,30101,Cochabamba,2007,9,Cirugias medianas y mayores,2389
+Cochabamba,30905,Colcapirhua,2007,9,Cirugias medianas y mayores,41
+Santa Cruz,71301,Comarapa,2007,9,Cirugias medianas y mayores,7
+Santa Cruz,71101,Concepcion,2007,9,Cirugias medianas y mayores,17
+La Paz,21401,Coroico,2007,9,Cirugias medianas y mayores,12
+Santa Cruz,70102,Cotoca,2007,9,Cirugias medianas y mayores,19
+La Paz,20105,El Alto,2007,9,Cirugias medianas y mayores,666
+Santa Cruz,70105,El Torno,2007,9,Cirugias medianas y mayores,9
+Beni,80202,Guayaramerin,2007,9,Cirugias medianas y mayores,57
+La Paz,20101,La Paz,2007,9,Cirugias medianas y mayores,2881
+Potosí,50203,Llallagua,2007,9,Cirugias medianas y mayores,60
+Beni,80801,Magdalena,2007,9,Cirugias medianas y mayores,2
+Santa Cruz,70903,Mairana,2007,9,Cirugias medianas y mayores,6
+Chuquisaca,10501,Monteagudo,2007,9,Cirugias medianas y mayores,15
+Santa Cruz,71001,Montero,2007,9,Cirugias medianas y mayores,149
+Potosí,50404,Ocuri,2007,9,Cirugias medianas y mayores,2
+Oruro,40101,Oruro,2007,9,Cirugias medianas y mayores,475
+Chuquisaca,10401,Padilla,2007,9,Cirugias medianas y mayores,20
+La Paz,21305,Patacamaya,2007,9,Cirugias medianas y mayores,8
+Santa Cruz,70601,Portachuelo,2007,9,Cirugias medianas y mayores,49
+Potosí,50101,Potosi,2007,9,Cirugias medianas y mayores,208
+La Paz,20401,Puerto Acosta,2007,9,Cirugias medianas y mayores,11
+Santa Cruz,71402,Puerto Quijarro,2007,9,Cirugias medianas y mayores,2
+Santa Cruz,71401,Puerto Suarez,2007,9,Cirugias medianas y mayores,20
+Cochabamba,31205,Puerto Villarroel,2007,9,Cirugias medianas y mayores,21
+Cochabamba,31401,Punata,2007,9,Cirugias medianas y mayores,23
+Cochabamba,30901,Quillacollo,2007,9,Cirugias medianas y mayores,63
+Beni,80201,Riberalta,2007,9,Cirugias medianas y mayores,322
+Santa Cruz,70503,Robore,2007,9,Cirugias medianas y mayores,9
+Beni,80304,Rurrenabaque,2007,9,Cirugias medianas y mayores,8
+Cochabamba,31001,Sacaba,2007,9,Cirugias medianas y mayores,55
+Santa Cruz,70901,Samaipata,2007,9,Cirugias medianas y mayores,6
+Beni,80602,San Andres,2007,9,Cirugias medianas y mayores,4
+Beni,80302,San Borja,2007,9,Cirugias medianas y mayores,16
+La Paz,21502,San Buena Ventura,2007,9,Cirugias medianas y mayores,12
+Santa Cruz,70402,San Carlos,2007,9,Cirugias medianas y mayores,32
+Beni,80501,San Ignacio,2007,9,Cirugias medianas y mayores,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,Cirugias medianas y mayores,39
+Santa Cruz,71102,San Javier(stc),2007,9,Cirugias medianas y mayores,10
+Beni,80701,San Joaquin,2007,9,Cirugias medianas y mayores,7
+Santa Cruz,70501,San Jose De Chiquitos,2007,9,Cirugias medianas y mayores,5
+Santa Cruz,70404,San Juan De Yapacani,2007,9,Cirugias medianas y mayores,31
+Santa Cruz,71104,San Julian,2007,9,Cirugias medianas y mayores,33
+Chuquisaca,10702,San Lucas,2007,9,Cirugias medianas y mayores,4
+Santa Cruz,71201,San Matias,2007,9,Cirugias medianas y mayores,10
+Beni,80702,San Ramon,2007,9,Cirugias medianas y mayores,9
+Beni,80401,Santa Ana,2007,9,Cirugias medianas y mayores,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,Cirugias medianas y mayores,3488
+Beni,80303,Santa Rosa,2007,9,Cirugias medianas y mayores,2
+Cochabamba,30902,Sipe Sipe,2007,9,Cirugias medianas y mayores,20
+Chuquisaca,10403,Sopachuy,2007,9,Cirugias medianas y mayores,2
+Chuquisaca,10101,Sucre,2007,9,Cirugias medianas y mayores,834
+Tarija,60101,Tarija,2007,9,Cirugias medianas y mayores,191
+Cochabamba,30903,Tiquipaya,2007,9,Cirugias medianas y mayores,3
+Cochabamba,31601,Tiraque (cbba),2007,9,Cirugias medianas y mayores,13
+Oruro,41001,Toledo,2007,9,Cirugias medianas y mayores,2
+Beni,80101,Trinidad,2007,9,Cirugias medianas y mayores,321
+Potosí,50801,Tupiza,2007,9,Cirugias medianas y mayores,46
+Potosí,50201,Uncia,2007,9,Cirugias medianas y mayores,32
+Potosí,51201,Uyuni,2007,9,Cirugias medianas y mayores,2
+Santa Cruz,70801,Vallegrande,2007,9,Cirugias medianas y mayores,30
+La Paz,20801,Viacha,2007,9,Cirugias medianas y mayores,18
+Tarija,60303,Villa Montes,2007,9,Cirugias medianas y mayores,69
+Cochabamba,31003,Villa Tunari,2007,9,Cirugias medianas y mayores,23
+Potosí,51501,Villazon,2007,9,Cirugias medianas y mayores,32
+Cochabamba,30904,Vinto,2007,9,Cirugias medianas y mayores,20
+Santa Cruz,70201,Warnes,2007,9,Cirugias medianas y mayores,30
+Tarija,60301,Yacuiba,2007,9,Cirugias medianas y mayores,112
+Santa Cruz,70403,Yapacani,2007,9,Cirugias medianas y mayores,15
+Chuquisaca,10102,Yotala,2007,9,Cirugias medianas y mayores,1
+Chuquisaca,10301,Zudañez,2007,9,Cirugias medianas y mayores,1
+La Paz,20201,Achacachi,2007,10,Cirugias medianas y mayores,1
+Cochabamba,30201,Aiquile,2007,10,Cirugias medianas y mayores,12
+Potosí,50802,Atocha,2007,10,Cirugias medianas y mayores,14
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,10,Cirugias medianas y mayores,2
+Chuquisaca,10201,Azurduy,2007,10,Cirugias medianas y mayores,1
+Tarija,60202,Bermejo,2007,10,Cirugias medianas y mayores,36
+Potosí,50301,Betanzos,2007,10,Cirugias medianas y mayores,4
+Chuquisaca,10701,Camargo,2007,10,Cirugias medianas y mayores,14
+Santa Cruz,70706,Camiri,2007,10,Cirugias medianas y mayores,76
+La Paz,22001,Caranavi,2007,10,Cirugias medianas y mayores,23
+Santa Cruz,70702,Charagua,2007,10,Cirugias medianas y mayores,8
+La Paz,21101,Chulumani (v. De La Libertad),2007,10,Cirugias medianas y mayores,1
+Pando,90101,Cobija,2007,10,Cirugias medianas y mayores,681
+Cochabamba,30101,Cochabamba,2007,10,Cirugias medianas y mayores,2630
+Cochabamba,30905,Colcapirhua,2007,10,Cirugias medianas y mayores,45
+Santa Cruz,71301,Comarapa,2007,10,Cirugias medianas y mayores,10
+Santa Cruz,71101,Concepcion,2007,10,Cirugias medianas y mayores,14
+La Paz,21701,Copacabana,2007,10,Cirugias medianas y mayores,1
+La Paz,21401,Coroico,2007,10,Cirugias medianas y mayores,17
+Santa Cruz,70102,Cotoca,2007,10,Cirugias medianas y mayores,17
+La Paz,20105,El Alto,2007,10,Cirugias medianas y mayores,803
+Santa Cruz,70105,El Torno,2007,10,Cirugias medianas y mayores,2
+Beni,80202,Guayaramerin,2007,10,Cirugias medianas y mayores,57
+Oruro,40701,Huanuni,2007,10,Cirugias medianas y mayores,2
+La Paz,20101,La Paz,2007,10,Cirugias medianas y mayores,2965
+Potosí,50203,Llallagua,2007,10,Cirugias medianas y mayores,59
+Beni,80801,Magdalena,2007,10,Cirugias medianas y mayores,4
+Santa Cruz,70903,Mairana,2007,10,Cirugias medianas y mayores,14
+Chuquisaca,10501,Monteagudo,2007,10,Cirugias medianas y mayores,11
+Santa Cruz,71001,Montero,2007,10,Cirugias medianas y mayores,148
+Potosí,50404,Ocuri,2007,10,Cirugias medianas y mayores,2
+Oruro,40101,Oruro,2007,10,Cirugias medianas y mayores,608
+Chuquisaca,10401,Padilla,2007,10,Cirugias medianas y mayores,19
+La Paz,21305,Patacamaya,2007,10,Cirugias medianas y mayores,11
+Santa Cruz,70601,Portachuelo,2007,10,Cirugias medianas y mayores,61
+Potosí,50101,Potosi,2007,10,Cirugias medianas y mayores,183
+La Paz,20401,Puerto Acosta,2007,10,Cirugias medianas y mayores,11
+Santa Cruz,71402,Puerto Quijarro,2007,10,Cirugias medianas y mayores,1
+Santa Cruz,71401,Puerto Suarez,2007,10,Cirugias medianas y mayores,22
+Cochabamba,31205,Puerto Villarroel,2007,10,Cirugias medianas y mayores,18
+Cochabamba,31401,Punata,2007,10,Cirugias medianas y mayores,28
+Cochabamba,30901,Quillacollo,2007,10,Cirugias medianas y mayores,63
+Beni,80301,Reyes,2007,10,Cirugias medianas y mayores,3
+Beni,80201,Riberalta,2007,10,Cirugias medianas y mayores,257
+Santa Cruz,70503,Robore,2007,10,Cirugias medianas y mayores,9
+Beni,80304,Rurrenabaque,2007,10,Cirugias medianas y mayores,17
+Cochabamba,31001,Sacaba,2007,10,Cirugias medianas y mayores,70
+Santa Cruz,70901,Samaipata,2007,10,Cirugias medianas y mayores,2
+Beni,80602,San Andres,2007,10,Cirugias medianas y mayores,1
+Beni,80302,San Borja,2007,10,Cirugias medianas y mayores,21
+Santa Cruz,70402,San Carlos,2007,10,Cirugias medianas y mayores,36
+Beni,80501,San Ignacio,2007,10,Cirugias medianas y mayores,15
+Santa Cruz,70301,San Ignacio De Velasco,2007,10,Cirugias medianas y mayores,53
+Santa Cruz,71102,San Javier(stc),2007,10,Cirugias medianas y mayores,9
+Beni,80701,San Joaquin,2007,10,Cirugias medianas y mayores,6
+Santa Cruz,70501,San Jose De Chiquitos,2007,10,Cirugias medianas y mayores,8
+Santa Cruz,70404,San Juan De Yapacani,2007,10,Cirugias medianas y mayores,39
+Santa Cruz,71104,San Julian,2007,10,Cirugias medianas y mayores,47
+Chuquisaca,10702,San Lucas,2007,10,Cirugias medianas y mayores,10
+Santa Cruz,71201,San Matias,2007,10,Cirugias medianas y mayores,8
+Beni,80702,San Ramon,2007,10,Cirugias medianas y mayores,8
+Beni,80401,Santa Ana,2007,10,Cirugias medianas y mayores,19
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,Cirugias medianas y mayores,3890
+Beni,80303,Santa Rosa,2007,10,Cirugias medianas y mayores,1
+Cochabamba,30902,Sipe Sipe,2007,10,Cirugias medianas y mayores,26
+Chuquisaca,10403,Sopachuy,2007,10,Cirugias medianas y mayores,5
+Chuquisaca,10101,Sucre,2007,10,Cirugias medianas y mayores,759
+Chuquisaca,10601,Tarabuco,2007,10,Cirugias medianas y mayores,2
+Tarija,60101,Tarija,2007,10,Cirugias medianas y mayores,463
+Cochabamba,30903,Tiquipaya,2007,10,Cirugias medianas y mayores,3
+Cochabamba,31601,Tiraque (cbba),2007,10,Cirugias medianas y mayores,16
+Oruro,41001,Toledo,2007,10,Cirugias medianas y mayores,2
+Beni,80101,Trinidad,2007,10,Cirugias medianas y mayores,524
+Potosí,50801,Tupiza,2007,10,Cirugias medianas y mayores,62
+Potosí,50201,Uncia,2007,10,Cirugias medianas y mayores,31
+Santa Cruz,70801,Vallegrande,2007,10,Cirugias medianas y mayores,23
+La Paz,20801,Viacha,2007,10,Cirugias medianas y mayores,12
+Tarija,60303,Villa Montes,2007,10,Cirugias medianas y mayores,72
+Cochabamba,31003,Villa Tunari,2007,10,Cirugias medianas y mayores,42
+Potosí,51501,Villazon,2007,10,Cirugias medianas y mayores,27
+Cochabamba,30904,Vinto,2007,10,Cirugias medianas y mayores,22
+Santa Cruz,70201,Warnes,2007,10,Cirugias medianas y mayores,30
+Tarija,60301,Yacuiba,2007,10,Cirugias medianas y mayores,129
+Santa Cruz,70403,Yapacani,2007,10,Cirugias medianas y mayores,11
+Cochabamba,30201,Aiquile,2007,11,Cirugias medianas y mayores,14
+Santa Cruz,71501,Ascencion De Guarayos,2007,11,Cirugias medianas y mayores,9
+Potosí,50802,Atocha,2007,11,Cirugias medianas y mayores,11
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,11,Cirugias medianas y mayores,2
+Chuquisaca,10201,Azurduy,2007,11,Cirugias medianas y mayores,2
+Tarija,60202,Bermejo,2007,11,Cirugias medianas y mayores,12
+Potosí,50301,Betanzos,2007,11,Cirugias medianas y mayores,2
+Chuquisaca,10701,Camargo,2007,11,Cirugias medianas y mayores,43
+Santa Cruz,70706,Camiri,2007,11,Cirugias medianas y mayores,27
+La Paz,22001,Caranavi,2007,11,Cirugias medianas y mayores,31
+Santa Cruz,70702,Charagua,2007,11,Cirugias medianas y mayores,12
+La Paz,21101,Chulumani (v. De La Libertad),2007,11,Cirugias medianas y mayores,1
+Pando,90101,Cobija,2007,11,Cirugias medianas y mayores,106
+Cochabamba,30101,Cochabamba,2007,11,Cirugias medianas y mayores,2704
+Cochabamba,30905,Colcapirhua,2007,11,Cirugias medianas y mayores,34
+Santa Cruz,71301,Comarapa,2007,11,Cirugias medianas y mayores,8
+Santa Cruz,71101,Concepcion,2007,11,Cirugias medianas y mayores,16
+La Paz,21401,Coroico,2007,11,Cirugias medianas y mayores,15
+Santa Cruz,70102,Cotoca,2007,11,Cirugias medianas y mayores,10
+Chuquisaca,10902,Culpina,2007,11,Cirugias medianas y mayores,1
+La Paz,20105,El Alto,2007,11,Cirugias medianas y mayores,712
+Tarija,60502,El Puente(tja),2007,11,Cirugias medianas y mayores,1
+Santa Cruz,70105,El Torno,2007,11,Cirugias medianas y mayores,10
+Beni,80202,Guayaramerin,2007,11,Cirugias medianas y mayores,52
+Oruro,40701,Huanuni,2007,11,Cirugias medianas y mayores,2
+La Paz,20101,La Paz,2007,11,Cirugias medianas y mayores,2980
+Potosí,50203,Llallagua,2007,11,Cirugias medianas y mayores,49
+Beni,80801,Magdalena,2007,11,Cirugias medianas y mayores,17
+Santa Cruz,70903,Mairana,2007,11,Cirugias medianas y mayores,12
+Chuquisaca,10501,Monteagudo,2007,11,Cirugias medianas y mayores,18
+Santa Cruz,71001,Montero,2007,11,Cirugias medianas y mayores,982
+Oruro,40101,Oruro,2007,11,Cirugias medianas y mayores,598
+Chuquisaca,10401,Padilla,2007,11,Cirugias medianas y mayores,13
+La Paz,21305,Patacamaya,2007,11,Cirugias medianas y mayores,52
+Santa Cruz,70601,Portachuelo,2007,11,Cirugias medianas y mayores,39
+Potosí,50101,Potosi,2007,11,Cirugias medianas y mayores,197
+La Paz,20401,Puerto Acosta,2007,11,Cirugias medianas y mayores,15
+Santa Cruz,71401,Puerto Suarez,2007,11,Cirugias medianas y mayores,18
+Cochabamba,31205,Puerto Villarroel,2007,11,Cirugias medianas y mayores,23
+Cochabamba,31401,Punata,2007,11,Cirugias medianas y mayores,26
+Cochabamba,30901,Quillacollo,2007,11,Cirugias medianas y mayores,84
+Beni,80301,Reyes,2007,11,Cirugias medianas y mayores,2
+Beni,80201,Riberalta,2007,11,Cirugias medianas y mayores,251
+Santa Cruz,70503,Robore,2007,11,Cirugias medianas y mayores,10
+Beni,80304,Rurrenabaque,2007,11,Cirugias medianas y mayores,5
+Cochabamba,31001,Sacaba,2007,11,Cirugias medianas y mayores,94
+Santa Cruz,70901,Samaipata,2007,11,Cirugias medianas y mayores,2
+Beni,80302,San Borja,2007,11,Cirugias medianas y mayores,11
+La Paz,21502,San Buena Ventura,2007,11,Cirugias medianas y mayores,10
+Santa Cruz,70402,San Carlos,2007,11,Cirugias medianas y mayores,44
+Beni,80501,San Ignacio,2007,11,Cirugias medianas y mayores,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,Cirugias medianas y mayores,57
+Santa Cruz,71102,San Javier(stc),2007,11,Cirugias medianas y mayores,4
+Santa Cruz,70501,San Jose De Chiquitos,2007,11,Cirugias medianas y mayores,6
+Santa Cruz,70404,San Juan De Yapacani,2007,11,Cirugias medianas y mayores,32
+Santa Cruz,71104,San Julian,2007,11,Cirugias medianas y mayores,19
+Chuquisaca,10702,San Lucas,2007,11,Cirugias medianas y mayores,2
+Santa Cruz,71201,San Matias,2007,11,Cirugias medianas y mayores,12
+Beni,80702,San Ramon,2007,11,Cirugias medianas y mayores,3
+Beni,80401,Santa Ana,2007,11,Cirugias medianas y mayores,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,Cirugias medianas y mayores,3591
+Beni,80303,Santa Rosa,2007,11,Cirugias medianas y mayores,4
+Cochabamba,30902,Sipe Sipe,2007,11,Cirugias medianas y mayores,15
+Chuquisaca,10403,Sopachuy,2007,11,Cirugias medianas y mayores,9
+Chuquisaca,10101,Sucre,2007,11,Cirugias medianas y mayores,788
+Chuquisaca,10601,Tarabuco,2007,11,Cirugias medianas y mayores,1
+Tarija,60101,Tarija,2007,11,Cirugias medianas y mayores,441
+Cochabamba,30903,Tiquipaya,2007,11,Cirugias medianas y mayores,3
+Cochabamba,31601,Tiraque (cbba),2007,11,Cirugias medianas y mayores,15
+Oruro,41001,Toledo,2007,11,Cirugias medianas y mayores,1
+Beni,80101,Trinidad,2007,11,Cirugias medianas y mayores,259
+Potosí,50801,Tupiza,2007,11,Cirugias medianas y mayores,47
+Potosí,50201,Uncia,2007,11,Cirugias medianas y mayores,33
+Potosí,51201,Uyuni,2007,11,Cirugias medianas y mayores,3
+Santa Cruz,70801,Vallegrande,2007,11,Cirugias medianas y mayores,19
+La Paz,20801,Viacha,2007,11,Cirugias medianas y mayores,11
+Tarija,60303,Villa Montes,2007,11,Cirugias medianas y mayores,74
+Cochabamba,31003,Villa Tunari,2007,11,Cirugias medianas y mayores,26
+Potosí,51501,Villazon,2007,11,Cirugias medianas y mayores,22
+Santa Cruz,70201,Warnes,2007,11,Cirugias medianas y mayores,35
+Tarija,60301,Yacuiba,2007,11,Cirugias medianas y mayores,124
+Santa Cruz,70403,Yapacani,2007,11,Cirugias medianas y mayores,3
+Chuquisaca,10102,Yotala,2007,11,Cirugias medianas y mayores,3
+Chuquisaca,10301,Zudañez,2007,11,Cirugias medianas y mayores,1
+La Paz,20201,Achacachi,2007,12,Cirugias medianas y mayores,1
+Cochabamba,30201,Aiquile,2007,12,Cirugias medianas y mayores,8
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,Cirugias medianas y mayores,5
+Potosí,50802,Atocha,2007,12,Cirugias medianas y mayores,13
+Chuquisaca,10201,Azurduy,2007,12,Cirugias medianas y mayores,1
+Beni,80802,Baures,2007,12,Cirugias medianas y mayores,2
+Tarija,60202,Bermejo,2007,12,Cirugias medianas y mayores,25
+Potosí,50301,Betanzos,2007,12,Cirugias medianas y mayores,2
+Santa Cruz,70706,Camiri,2007,12,Cirugias medianas y mayores,31
+Oruro,40102,Caracollo,2007,12,Cirugias medianas y mayores,1
+La Paz,22001,Caranavi,2007,12,Cirugias medianas y mayores,30
+Oruro,40201,Challapata,2007,12,Cirugias medianas y mayores,1
+Santa Cruz,70702,Charagua,2007,12,Cirugias medianas y mayores,6
+La Paz,21101,Chulumani (v. De La Libertad),2007,12,Cirugias medianas y mayores,2
+Pando,90101,Cobija,2007,12,Cirugias medianas y mayores,95
+Cochabamba,30101,Cochabamba,2007,12,Cirugias medianas y mayores,2324
+Cochabamba,30905,Colcapirhua,2007,12,Cirugias medianas y mayores,39
+Santa Cruz,71301,Comarapa,2007,12,Cirugias medianas y mayores,5
+Santa Cruz,71101,Concepcion,2007,12,Cirugias medianas y mayores,8
+La Paz,21701,Copacabana,2007,12,Cirugias medianas y mayores,2
+La Paz,21401,Coroico,2007,12,Cirugias medianas y mayores,11
+Potosí,50601,Cotagaita,2007,12,Cirugias medianas y mayores,1
+Santa Cruz,70102,Cotoca,2007,12,Cirugias medianas y mayores,11
+La Paz,20105,El Alto,2007,12,Cirugias medianas y mayores,787
+Santa Cruz,70105,El Torno,2007,12,Cirugias medianas y mayores,30
+Beni,80202,Guayaramerin,2007,12,Cirugias medianas y mayores,51
+Oruro,40701,Huanuni,2007,12,Cirugias medianas y mayores,1
+La Paz,20101,La Paz,2007,12,Cirugias medianas y mayores,2821
+Potosí,50203,Llallagua,2007,12,Cirugias medianas y mayores,52
+Beni,80801,Magdalena,2007,12,Cirugias medianas y mayores,2
+Santa Cruz,70903,Mairana,2007,12,Cirugias medianas y mayores,3
+Chuquisaca,10501,Monteagudo,2007,12,Cirugias medianas y mayores,8
+Santa Cruz,71001,Montero,2007,12,Cirugias medianas y mayores,169
+Potosí,50404,Ocuri,2007,12,Cirugias medianas y mayores,2
+Oruro,40101,Oruro,2007,12,Cirugias medianas y mayores,589
+Chuquisaca,10401,Padilla,2007,12,Cirugias medianas y mayores,13
+La Paz,21305,Patacamaya,2007,12,Cirugias medianas y mayores,49
+Santa Cruz,70601,Portachuelo,2007,12,Cirugias medianas y mayores,36
+Potosí,50101,Potosi,2007,12,Cirugias medianas y mayores,222
+La Paz,20401,Puerto Acosta,2007,12,Cirugias medianas y mayores,7
+Santa Cruz,71402,Puerto Quijarro,2007,12,Cirugias medianas y mayores,2
+Santa Cruz,71401,Puerto Suarez,2007,12,Cirugias medianas y mayores,12
+Cochabamba,31205,Puerto Villarroel,2007,12,Cirugias medianas y mayores,19
+Cochabamba,31401,Punata,2007,12,Cirugias medianas y mayores,15
+Cochabamba,30901,Quillacollo,2007,12,Cirugias medianas y mayores,134
+Beni,80201,Riberalta,2007,12,Cirugias medianas y mayores,250
+Santa Cruz,70503,Robore,2007,12,Cirugias medianas y mayores,6
+Beni,80304,Rurrenabaque,2007,12,Cirugias medianas y mayores,15
+Cochabamba,31001,Sacaba,2007,12,Cirugias medianas y mayores,29
+Santa Cruz,70901,Samaipata,2007,12,Cirugias medianas y mayores,4
+Beni,80302,San Borja,2007,12,Cirugias medianas y mayores,11
+La Paz,21502,San Buena Ventura,2007,12,Cirugias medianas y mayores,7
+Santa Cruz,70402,San Carlos,2007,12,Cirugias medianas y mayores,24
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,Cirugias medianas y mayores,52
+Santa Cruz,71102,San Javier(stc),2007,12,Cirugias medianas y mayores,4
+Beni,80701,San Joaquin,2007,12,Cirugias medianas y mayores,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,12,Cirugias medianas y mayores,8
+Santa Cruz,70404,San Juan De Yapacani,2007,12,Cirugias medianas y mayores,24
+Santa Cruz,71104,San Julian,2007,12,Cirugias medianas y mayores,7
+Chuquisaca,10702,San Lucas,2007,12,Cirugias medianas y mayores,6
+Santa Cruz,71201,San Matias,2007,12,Cirugias medianas y mayores,9
+Beni,80702,San Ramon,2007,12,Cirugias medianas y mayores,12
+Beni,80702,San Ramon,2007,12,Cirugias medianas y mayores,10
+Beni,80401,Santa Ana,2007,12,Cirugias medianas y mayores,25
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,Cirugias medianas y mayores,2961
+Beni,80303,Santa Rosa,2007,12,Cirugias medianas y mayores,1
+Cochabamba,30902,Sipe Sipe,2007,12,Cirugias medianas y mayores,14
+Chuquisaca,10403,Sopachuy,2007,12,Cirugias medianas y mayores,5
+Chuquisaca,10101,Sucre,2007,12,Cirugias medianas y mayores,741
+Chuquisaca,10601,Tarabuco,2007,12,Cirugias medianas y mayores,6
+Tarija,60101,Tarija,2007,12,Cirugias medianas y mayores,430
+Cochabamba,31601,Tiraque (cbba),2007,12,Cirugias medianas y mayores,7
+Beni,80101,Trinidad,2007,12,Cirugias medianas y mayores,311
+Potosí,50801,Tupiza,2007,12,Cirugias medianas y mayores,27
+Potosí,51201,Uyuni,2007,12,Cirugias medianas y mayores,6
+Santa Cruz,70801,Vallegrande,2007,12,Cirugias medianas y mayores,34
+Tarija,60303,Villa Montes,2007,12,Cirugias medianas y mayores,48
+Cochabamba,31003,Villa Tunari,2007,12,Cirugias medianas y mayores,26
+Potosí,51501,Villazon,2007,12,Cirugias medianas y mayores,31
+Potosí,50602,Vitichi,2007,12,Cirugias medianas y mayores,1
+Santa Cruz,70201,Warnes,2007,12,Cirugias medianas y mayores,27
+Tarija,60301,Yacuiba,2007,12,Cirugias medianas y mayores,94
+Chuquisaca,10602,Yamparaez,2007,12,Cirugias medianas y mayores,2
+Santa Cruz,70403,Yapacani,2007,12,Cirugias medianas y mayores,5
+Chuquisaca,10102,Yotala,2007,12,Cirugias medianas y mayores,1
+Chuquisaca,10301,Zudañez,2007,12,Cirugias medianas y mayores,2
+La Paz,20201,Achacachi,2007,1,TOTAL,3
+Cochabamba,30201,Aiquile,2007,1,TOTAL,12
+Santa Cruz,71501,Ascencion De Guarayos,2007,1,TOTAL,11
+Potosí,50802,Atocha,2007,1,TOTAL,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,1,TOTAL,4
+Chuquisaca,10201,Azurduy,2007,1,TOTAL,1
+Beni,80802,Baures,2007,1,TOTAL,4
+Tarija,60202,Bermejo,2007,1,TOTAL,20
+Potosí,50301,Betanzos,2007,1,TOTAL,2
+Chuquisaca,10701,Camargo,2007,1,TOTAL,50
+Santa Cruz,70706,Camiri,2007,1,TOTAL,42
+La Paz,22001,Caranavi,2007,1,TOTAL,40
+Oruro,40201,Challapata,2007,1,TOTAL,3
+Santa Cruz,70702,Charagua,2007,1,TOTAL,5
+La Paz,21101,Chulumani (v. De La Libertad),2007,1,TOTAL,4
+Pando,90101,Cobija,2007,1,TOTAL,350
+Cochabamba,30101,Cochabamba,2007,1,TOTAL,2590
+Cochabamba,30905,Colcapirhua,2007,1,TOTAL,1
+Santa Cruz,71301,Comarapa,2007,1,TOTAL,7
+Santa Cruz,71101,Concepcion,2007,1,TOTAL,8
+La Paz,21701,Copacabana,2007,1,TOTAL,4
+La Paz,21401,Coroico,2007,1,TOTAL,11
+Santa Cruz,70102,Cotoca,2007,1,TOTAL,15
+La Paz,20105,El Alto,2007,1,TOTAL,840
+Santa Cruz,70105,El Torno,2007,1,TOTAL,11
+Beni,80202,Guayaramerin,2007,1,TOTAL,51
+Oruro,40701,Huanuni,2007,1,TOTAL,15
+La Paz,20101,La Paz,2007,1,TOTAL,3121
+Potosí,50203,Llallagua,2007,1,TOTAL,73
+Beni,80801,Magdalena,2007,1,TOTAL,8
+Santa Cruz,70903,Mairana,2007,1,TOTAL,14
+Chuquisaca,10501,Monteagudo,2007,1,TOTAL,22
+Santa Cruz,71001,Montero,2007,1,TOTAL,148
+Potosí,50404,Ocuri,2007,1,TOTAL,3
+Oruro,40101,Oruro,2007,1,TOTAL,580
+Chuquisaca,10401,Padilla,2007,1,TOTAL,23
+Santa Cruz,70601,Portachuelo,2007,1,TOTAL,62
+Potosí,50101,Potosi,2007,1,TOTAL,241
+La Paz,20401,Puerto Acosta,2007,1,TOTAL,30
+Santa Cruz,71402,Puerto Quijarro,2007,1,TOTAL,3
+Santa Cruz,71401,Puerto Suarez,2007,1,TOTAL,19
+Cochabamba,31205,Puerto Villarroel,2007,1,TOTAL,18
+Cochabamba,31401,Punata,2007,1,TOTAL,14
+Cochabamba,30901,Quillacollo,2007,1,TOTAL,75
+Beni,80301,Reyes,2007,1,TOTAL,7
+Beni,80201,Riberalta,2007,1,TOTAL,213
+Santa Cruz,70503,Robore,2007,1,TOTAL,7
+Beni,80304,Rurrenabaque,2007,1,TOTAL,9
+Cochabamba,31001,Sacaba,2007,1,TOTAL,39
+Santa Cruz,70901,Samaipata,2007,1,TOTAL,3
+Beni,80602,San Andres,2007,1,TOTAL,3
+Beni,80302,San Borja,2007,1,TOTAL,20
+La Paz,21502,San Buena Ventura,2007,1,TOTAL,15
+Santa Cruz,70402,San Carlos,2007,1,TOTAL,22
+Beni,80501,San Ignacio,2007,1,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,TOTAL,51
+Santa Cruz,71102,San Javier(stc),2007,1,TOTAL,10
+Beni,80701,San Joaquin,2007,1,TOTAL,6
+Santa Cruz,70501,San Jose De Chiquitos,2007,1,TOTAL,5
+Santa Cruz,70404,San Juan De Yapacani,2007,1,TOTAL,40
+Santa Cruz,71104,San Julian,2007,1,TOTAL,10
+Chuquisaca,10702,San Lucas,2007,1,TOTAL,5
+Santa Cruz,71201,San Matias,2007,1,TOTAL,5
+Beni,80702,San Ramon,2007,1,TOTAL,7
+Beni,80702,San Ramon,2007,1,TOTAL,6
+Beni,80401,Santa Ana,2007,1,TOTAL,19
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,1,TOTAL,2681
+Beni,80303,Santa Rosa,2007,1,TOTAL,5
+Cochabamba,30902,Sipe Sipe,2007,1,TOTAL,10
+Chuquisaca,10403,Sopachuy,2007,1,TOTAL,1
+Chuquisaca,10101,Sucre,2007,1,TOTAL,1038
+Chuquisaca,10601,Tarabuco,2007,1,TOTAL,1
+Tarija,60101,Tarija,2007,1,TOTAL,494
+Cochabamba,30903,Tiquipaya,2007,1,TOTAL,2
+Cochabamba,31601,Tiraque (cbba),2007,1,TOTAL,8
+Oruro,41001,Toledo,2007,1,TOTAL,4
+Beni,80101,Trinidad,2007,1,TOTAL,285
+Potosí,50801,Tupiza,2007,1,TOTAL,26
+Potosí,50201,Uncia,2007,1,TOTAL,27
+Potosí,51201,Uyuni,2007,1,TOTAL,11
+Santa Cruz,70801,Vallegrande,2007,1,TOTAL,48
+Tarija,60303,Villa Montes,2007,1,TOTAL,51
+Cochabamba,31003,Villa Tunari,2007,1,TOTAL,44
+Potosí,51501,Villazon,2007,1,TOTAL,38
+Cochabamba,30904,Vinto,2007,1,TOTAL,1
+Santa Cruz,70201,Warnes,2007,1,TOTAL,37
+Tarija,60301,Yacuiba,2007,1,TOTAL,91
+Santa Cruz,70403,Yapacani,2007,1,TOTAL,25
+Chuquisaca,10102,Yotala,2007,1,TOTAL,1
+Chuquisaca,10301,Zudañez,2007,1,TOTAL,1
+La Paz,20201,Achacachi,2007,2,TOTAL,3
+Cochabamba,30201,Aiquile,2007,2,TOTAL,10
+Santa Cruz,71501,Ascencion De Guarayos,2007,2,TOTAL,9
+Potosí,50802,Atocha,2007,2,TOTAL,14
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,2,TOTAL,2
+Tarija,60202,Bermejo,2007,2,TOTAL,3
+Potosí,50301,Betanzos,2007,2,TOTAL,1
+Chuquisaca,10701,Camargo,2007,2,TOTAL,77
+Santa Cruz,70706,Camiri,2007,2,TOTAL,91
+La Paz,22001,Caranavi,2007,2,TOTAL,22
+Santa Cruz,70702,Charagua,2007,2,TOTAL,8
+La Paz,21101,Chulumani (v. De La Libertad),2007,2,TOTAL,1
+Pando,90101,Cobija,2007,2,TOTAL,201
+Cochabamba,30101,Cochabamba,2007,2,TOTAL,2402
+Cochabamba,30905,Colcapirhua,2007,2,TOTAL,5
+Santa Cruz,71301,Comarapa,2007,2,TOTAL,7
+Santa Cruz,71101,Concepcion,2007,2,TOTAL,8
+La Paz,21701,Copacabana,2007,2,TOTAL,3
+La Paz,21401,Coroico,2007,2,TOTAL,16
+Santa Cruz,70102,Cotoca,2007,2,TOTAL,23
+La Paz,20105,El Alto,2007,2,TOTAL,713
+Santa Cruz,70105,El Torno,2007,2,TOTAL,18
+Beni,80202,Guayaramerin,2007,2,TOTAL,36
+Oruro,40701,Huanuni,2007,2,TOTAL,6
+La Paz,20101,La Paz,2007,2,TOTAL,2741
+Potosí,50203,Llallagua,2007,2,TOTAL,59
+Beni,80801,Magdalena,2007,2,TOTAL,9
+Santa Cruz,70903,Mairana,2007,2,TOTAL,10
+Chuquisaca,10501,Monteagudo,2007,2,TOTAL,13
+Santa Cruz,71001,Montero,2007,2,TOTAL,145
+Potosí,50404,Ocuri,2007,2,TOTAL,3
+Oruro,40101,Oruro,2007,2,TOTAL,463
+Chuquisaca,10401,Padilla,2007,2,TOTAL,22
+Santa Cruz,70601,Portachuelo,2007,2,TOTAL,48
+Potosí,50101,Potosi,2007,2,TOTAL,187
+La Paz,20401,Puerto Acosta,2007,2,TOTAL,8
+Santa Cruz,71402,Puerto Quijarro,2007,2,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2007,2,TOTAL,17
+Cochabamba,31205,Puerto Villarroel,2007,2,TOTAL,69
+Cochabamba,31401,Punata,2007,2,TOTAL,76
+Cochabamba,30901,Quillacollo,2007,2,TOTAL,60
+Beni,80301,Reyes,2007,2,TOTAL,1
+Beni,80201,Riberalta,2007,2,TOTAL,195
+Santa Cruz,70503,Robore,2007,2,TOTAL,16
+Beni,80304,Rurrenabaque,2007,2,TOTAL,13
+Cochabamba,31001,Sacaba,2007,2,TOTAL,32
+Beni,80302,San Borja,2007,2,TOTAL,29
+La Paz,21502,San Buena Ventura,2007,2,TOTAL,11
+Santa Cruz,70402,San Carlos,2007,2,TOTAL,28
+Santa Cruz,70301,San Ignacio De Velasco,2007,2,TOTAL,32
+Santa Cruz,71102,San Javier(stc),2007,2,TOTAL,6
+Santa Cruz,70501,San Jose De Chiquitos,2007,2,TOTAL,7
+Santa Cruz,70404,San Juan De Yapacani,2007,2,TOTAL,29
+Santa Cruz,71104,San Julian,2007,2,TOTAL,10
+Chuquisaca,10702,San Lucas,2007,2,TOTAL,7
+Santa Cruz,71201,San Matias,2007,2,TOTAL,10
+Beni,80702,San Ramon,2007,2,TOTAL,1
+Beni,80702,San Ramon,2007,2,TOTAL,9
+Beni,80401,Santa Ana,2007,2,TOTAL,8
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,2,TOTAL,2706
+Beni,80303,Santa Rosa,2007,2,TOTAL,4
+Cochabamba,30902,Sipe Sipe,2007,2,TOTAL,17
+Chuquisaca,10403,Sopachuy,2007,2,TOTAL,1
+La Paz,20601,Sorata,2007,2,TOTAL,1
+Chuquisaca,10101,Sucre,2007,2,TOTAL,666
+Tarija,60101,Tarija,2007,2,TOTAL,398
+Cochabamba,30903,Tiquipaya,2007,2,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2007,2,TOTAL,1
+Beni,80101,Trinidad,2007,2,TOTAL,247
+Potosí,50801,Tupiza,2007,2,TOTAL,36
+Potosí,50201,Uncia,2007,2,TOTAL,10
+Potosí,51201,Uyuni,2007,2,TOTAL,8
+Santa Cruz,70801,Vallegrande,2007,2,TOTAL,32
+Tarija,60303,Villa Montes,2007,2,TOTAL,3
+Cochabamba,31003,Villa Tunari,2007,2,TOTAL,38
+Potosí,51501,Villazon,2007,2,TOTAL,27
+Cochabamba,30904,Vinto,2007,2,TOTAL,1
+Santa Cruz,70201,Warnes,2007,2,TOTAL,21
+Tarija,60301,Yacuiba,2007,2,TOTAL,88
+Santa Cruz,70403,Yapacani,2007,2,TOTAL,3
+La Paz,20201,Achacachi,2007,3,TOTAL,5
+Cochabamba,30201,Aiquile,2007,3,TOTAL,13
+Santa Cruz,71501,Ascencion De Guarayos,2007,3,TOTAL,15
+Potosí,50802,Atocha,2007,3,TOTAL,11
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,3,TOTAL,3
+Chuquisaca,10201,Azurduy,2007,3,TOTAL,1
+Tarija,60202,Bermejo,2007,3,TOTAL,19
+Potosí,50301,Betanzos,2007,3,TOTAL,1
+Chuquisaca,10701,Camargo,2007,3,TOTAL,12
+Santa Cruz,70706,Camiri,2007,3,TOTAL,93
+La Paz,22001,Caranavi,2007,3,TOTAL,32
+Oruro,40201,Challapata,2007,3,TOTAL,1
+Santa Cruz,70702,Charagua,2007,3,TOTAL,9
+La Paz,21101,Chulumani (v. De La Libertad),2007,3,TOTAL,2
+Pando,90101,Cobija,2007,3,TOTAL,208
+Cochabamba,30101,Cochabamba,2007,3,TOTAL,2757
+Cochabamba,30905,Colcapirhua,2007,3,TOTAL,76
+Santa Cruz,71301,Comarapa,2007,3,TOTAL,11
+Santa Cruz,71101,Concepcion,2007,3,TOTAL,11
+La Paz,21701,Copacabana,2007,3,TOTAL,12
+La Paz,21401,Coroico,2007,3,TOTAL,9
+Santa Cruz,70102,Cotoca,2007,3,TOTAL,26
+La Paz,20105,El Alto,2007,3,TOTAL,821
+Santa Cruz,70105,El Torno,2007,3,TOTAL,26
+Beni,80202,Guayaramerin,2007,3,TOTAL,48
+Oruro,40701,Huanuni,2007,3,TOTAL,10
+La Paz,20101,La Paz,2007,3,TOTAL,2956
+Potosí,50203,Llallagua,2007,3,TOTAL,64
+Beni,80801,Magdalena,2007,3,TOTAL,10
+Santa Cruz,70903,Mairana,2007,3,TOTAL,18
+Chuquisaca,10501,Monteagudo,2007,3,TOTAL,19
+Santa Cruz,71001,Montero,2007,3,TOTAL,178
+Oruro,40101,Oruro,2007,3,TOTAL,532
+Chuquisaca,10401,Padilla,2007,3,TOTAL,28
+Santa Cruz,70601,Portachuelo,2007,3,TOTAL,46
+Potosí,50101,Potosi,2007,3,TOTAL,195
+La Paz,20401,Puerto Acosta,2007,3,TOTAL,21
+Santa Cruz,71402,Puerto Quijarro,2007,3,TOTAL,3
+Santa Cruz,71401,Puerto Suarez,2007,3,TOTAL,15
+Cochabamba,31205,Puerto Villarroel,2007,3,TOTAL,24
+Cochabamba,31401,Punata,2007,3,TOTAL,28
+Cochabamba,30901,Quillacollo,2007,3,TOTAL,63
+Beni,80301,Reyes,2007,3,TOTAL,9
+Beni,80201,Riberalta,2007,3,TOTAL,119
+Santa Cruz,70503,Robore,2007,3,TOTAL,9
+Beni,80304,Rurrenabaque,2007,3,TOTAL,8
+Cochabamba,31001,Sacaba,2007,3,TOTAL,58
+Beni,80602,San Andres,2007,3,TOTAL,3
+Beni,80302,San Borja,2007,3,TOTAL,21
+La Paz,21502,San Buena Ventura,2007,3,TOTAL,11
+Santa Cruz,70402,San Carlos,2007,3,TOTAL,27
+Beni,80501,San Ignacio,2007,3,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,3,TOTAL,63
+Santa Cruz,71102,San Javier(stc),2007,3,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2007,3,TOTAL,3
+Santa Cruz,70404,San Juan De Yapacani,2007,3,TOTAL,38
+Santa Cruz,71104,San Julian,2007,3,TOTAL,14
+Chuquisaca,10702,San Lucas,2007,3,TOTAL,3
+Santa Cruz,71201,San Matias,2007,3,TOTAL,15
+Beni,80702,San Ramon,2007,3,TOTAL,5
+Beni,80702,San Ramon,2007,3,TOTAL,7
+Beni,80401,Santa Ana,2007,3,TOTAL,19
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL,3010
+Beni,80303,Santa Rosa,2007,3,TOTAL,2
+Cochabamba,30902,Sipe Sipe,2007,3,TOTAL,18
+Chuquisaca,10403,Sopachuy,2007,3,TOTAL,7
+Chuquisaca,10101,Sucre,2007,3,TOTAL,886
+Chuquisaca,10601,Tarabuco,2007,3,TOTAL,6
+Tarija,60101,Tarija,2007,3,TOTAL,396
+Cochabamba,30903,Tiquipaya,2007,3,TOTAL,7
+Cochabamba,31601,Tiraque (cbba),2007,3,TOTAL,13
+Beni,80101,Trinidad,2007,3,TOTAL,139
+Potosí,50801,Tupiza,2007,3,TOTAL,43
+Santa Cruz,70801,Vallegrande,2007,3,TOTAL,38
+La Paz,20801,Viacha,2007,3,TOTAL,11
+Tarija,60303,Villa Montes,2007,3,TOTAL,42
+Cochabamba,31003,Villa Tunari,2007,3,TOTAL,22
+Potosí,51501,Villazon,2007,3,TOTAL,35
+Cochabamba,30904,Vinto,2007,3,TOTAL,1
+Santa Cruz,70201,Warnes,2007,3,TOTAL,35
+Tarija,60301,Yacuiba,2007,3,TOTAL,101
+Chuquisaca,10602,Yamparaez,2007,3,TOTAL,5
+Santa Cruz,70403,Yapacani,2007,3,TOTAL,109
+La Paz,20201,Achacachi,2007,4,TOTAL,11
+Cochabamba,30201,Aiquile,2007,4,TOTAL,16
+Santa Cruz,71501,Ascencion De Guarayos,2007,4,TOTAL,16
+Potosí,50802,Atocha,2007,4,TOTAL,2
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,4,TOTAL,3
+Chuquisaca,10201,Azurduy,2007,4,TOTAL,1
+Tarija,60202,Bermejo,2007,4,TOTAL,26
+Potosí,50301,Betanzos,2007,4,TOTAL,1
+Chuquisaca,10701,Camargo,2007,4,TOTAL,30
+Santa Cruz,70706,Camiri,2007,4,TOTAL,69
+La Paz,22001,Caranavi,2007,4,TOTAL,12
+Santa Cruz,70702,Charagua,2007,4,TOTAL,9
+La Paz,21101,Chulumani (v. De La Libertad),2007,4,TOTAL,5
+Pando,90101,Cobija,2007,4,TOTAL,190
+Cochabamba,30101,Cochabamba,2007,4,TOTAL,2296
+Cochabamba,30905,Colcapirhua,2007,4,TOTAL,48
+Santa Cruz,71301,Comarapa,2007,4,TOTAL,11
+Santa Cruz,71101,Concepcion,2007,4,TOTAL,11
+La Paz,21701,Copacabana,2007,4,TOTAL,2
+La Paz,21401,Coroico,2007,4,TOTAL,10
+Santa Cruz,70102,Cotoca,2007,4,TOTAL,15
+La Paz,20105,El Alto,2007,4,TOTAL,535
+Beni,80202,Guayaramerin,2007,4,TOTAL,48
+La Paz,20101,La Paz,2007,4,TOTAL,2773
+Potosí,50203,Llallagua,2007,4,TOTAL,23
+Beni,80801,Magdalena,2007,4,TOTAL,2
+Santa Cruz,70903,Mairana,2007,4,TOTAL,15
+Chuquisaca,10501,Monteagudo,2007,4,TOTAL,14
+Santa Cruz,71001,Montero,2007,4,TOTAL,159
+Oruro,40101,Oruro,2007,4,TOTAL,459
+Chuquisaca,10401,Padilla,2007,4,TOTAL,33
+Santa Cruz,70601,Portachuelo,2007,4,TOTAL,47
+Potosí,50101,Potosi,2007,4,TOTAL,193
+La Paz,20401,Puerto Acosta,2007,4,TOTAL,16
+Santa Cruz,71402,Puerto Quijarro,2007,4,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2007,4,TOTAL,19
+Cochabamba,31205,Puerto Villarroel,2007,4,TOTAL,14
+Cochabamba,31401,Punata,2007,4,TOTAL,28
+Cochabamba,30901,Quillacollo,2007,4,TOTAL,79
+Beni,80301,Reyes,2007,4,TOTAL,1
+Beni,80201,Riberalta,2007,4,TOTAL,122
+Santa Cruz,70503,Robore,2007,4,TOTAL,6
+Beni,80304,Rurrenabaque,2007,4,TOTAL,12
+Cochabamba,31001,Sacaba,2007,4,TOTAL,47
+Santa Cruz,70901,Samaipata,2007,4,TOTAL,2
+Beni,80602,San Andres,2007,4,TOTAL,1
+Beni,80302,San Borja,2007,4,TOTAL,13
+La Paz,21502,San Buena Ventura,2007,4,TOTAL,8
+Santa Cruz,70402,San Carlos,2007,4,TOTAL,28
+Beni,80501,San Ignacio,2007,4,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,4,TOTAL,47
+Santa Cruz,71102,San Javier(stc),2007,4,TOTAL,5
+Santa Cruz,70501,San Jose De Chiquitos,2007,4,TOTAL,6
+Santa Cruz,70404,San Juan De Yapacani,2007,4,TOTAL,24
+Santa Cruz,71104,San Julian,2007,4,TOTAL,5
+Chuquisaca,10702,San Lucas,2007,4,TOTAL,17
+Santa Cruz,71201,San Matias,2007,4,TOTAL,6
+Beni,80702,San Ramon,2007,4,TOTAL,11
+Beni,80702,San Ramon,2007,4,TOTAL,4
+Beni,80401,Santa Ana,2007,4,TOTAL,11
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,4,TOTAL,2631
+Beni,80303,Santa Rosa,2007,4,TOTAL,9
+Cochabamba,30902,Sipe Sipe,2007,4,TOTAL,23
+Chuquisaca,10403,Sopachuy,2007,4,TOTAL,1
+Chuquisaca,10101,Sucre,2007,4,TOTAL,851
+Chuquisaca,10601,Tarabuco,2007,4,TOTAL,4
+Tarija,60101,Tarija,2007,4,TOTAL,403
+Cochabamba,30903,Tiquipaya,2007,4,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2007,4,TOTAL,10
+Beni,80101,Trinidad,2007,4,TOTAL,240
+Potosí,50801,Tupiza,2007,4,TOTAL,37
+Potosí,50201,Uncia,2007,4,TOTAL,24
+Potosí,51201,Uyuni,2007,4,TOTAL,8
+Santa Cruz,70801,Vallegrande,2007,4,TOTAL,34
+La Paz,20801,Viacha,2007,4,TOTAL,22
+Tarija,60303,Villa Montes,2007,4,TOTAL,60
+Cochabamba,31003,Villa Tunari,2007,4,TOTAL,22
+Potosí,51501,Villazon,2007,4,TOTAL,25
+Cochabamba,30904,Vinto,2007,4,TOTAL,2
+Potosí,50602,Vitichi,2007,4,TOTAL,1
+Santa Cruz,70201,Warnes,2007,4,TOTAL,38
+Tarija,60301,Yacuiba,2007,4,TOTAL,74
+Chuquisaca,10602,Yamparaez,2007,4,TOTAL,2
+Santa Cruz,70403,Yapacani,2007,4,TOTAL,71
+Chuquisaca,10301,Zudañez,2007,4,TOTAL,1
+La Paz,20201,Achacachi,2007,5,TOTAL,5
+Cochabamba,30201,Aiquile,2007,5,TOTAL,4
+Santa Cruz,71501,Ascencion De Guarayos,2007,5,TOTAL,15
+Potosí,50802,Atocha,2007,5,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,5,TOTAL,2
+Chuquisaca,10201,Azurduy,2007,5,TOTAL,1
+Tarija,60202,Bermejo,2007,5,TOTAL,20
+Potosí,50301,Betanzos,2007,5,TOTAL,3
+Chuquisaca,10701,Camargo,2007,5,TOTAL,30
+Santa Cruz,70706,Camiri,2007,5,TOTAL,68
+La Paz,22001,Caranavi,2007,5,TOTAL,23
+Santa Cruz,70702,Charagua,2007,5,TOTAL,5
+Pando,90101,Cobija,2007,5,TOTAL,213
+Cochabamba,30101,Cochabamba,2007,5,TOTAL,2585
+Cochabamba,30905,Colcapirhua,2007,5,TOTAL,41
+Santa Cruz,71301,Comarapa,2007,5,TOTAL,11
+Santa Cruz,71101,Concepcion,2007,5,TOTAL,14
+La Paz,21401,Coroico,2007,5,TOTAL,7
+Santa Cruz,70102,Cotoca,2007,5,TOTAL,14
+La Paz,20105,El Alto,2007,5,TOTAL,751
+Santa Cruz,70105,El Torno,2007,5,TOTAL,10
+Beni,80202,Guayaramerin,2007,5,TOTAL,29
+La Paz,20101,La Paz,2007,5,TOTAL,3015
+Potosí,50203,Llallagua,2007,5,TOTAL,46
+Beni,80801,Magdalena,2007,5,TOTAL,5
+Santa Cruz,70903,Mairana,2007,5,TOTAL,10
+Chuquisaca,10501,Monteagudo,2007,5,TOTAL,15
+Santa Cruz,71001,Montero,2007,5,TOTAL,143
+Oruro,40101,Oruro,2007,5,TOTAL,394
+Chuquisaca,10401,Padilla,2007,5,TOTAL,15
+Santa Cruz,70601,Portachuelo,2007,5,TOTAL,37
+Potosí,50101,Potosi,2007,5,TOTAL,218
+La Paz,20401,Puerto Acosta,2007,5,TOTAL,14
+Santa Cruz,71402,Puerto Quijarro,2007,5,TOTAL,4
+Santa Cruz,71401,Puerto Suarez,2007,5,TOTAL,8
+Cochabamba,31205,Puerto Villarroel,2007,5,TOTAL,32
+Cochabamba,31401,Punata,2007,5,TOTAL,29
+Cochabamba,30901,Quillacollo,2007,5,TOTAL,54
+Beni,80301,Reyes,2007,5,TOTAL,7
+Beni,80201,Riberalta,2007,5,TOTAL,276
+Santa Cruz,70503,Robore,2007,5,TOTAL,10
+Beni,80304,Rurrenabaque,2007,5,TOTAL,5
+Cochabamba,31001,Sacaba,2007,5,TOTAL,47
+Santa Cruz,70901,Samaipata,2007,5,TOTAL,4
+Beni,80602,San Andres,2007,5,TOTAL,3
+Beni,80302,San Borja,2007,5,TOTAL,19
+La Paz,21502,San Buena Ventura,2007,5,TOTAL,24
+Santa Cruz,70402,San Carlos,2007,5,TOTAL,29
+Beni,80501,San Ignacio,2007,5,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,5,TOTAL,54
+Santa Cruz,71102,San Javier(stc),2007,5,TOTAL,9
+Beni,80701,San Joaquin,2007,5,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,5,TOTAL,12
+Santa Cruz,70404,San Juan De Yapacani,2007,5,TOTAL,33
+Santa Cruz,71104,San Julian,2007,5,TOTAL,18
+Chuquisaca,10702,San Lucas,2007,5,TOTAL,8
+Santa Cruz,71201,San Matias,2007,5,TOTAL,9
+Beni,80702,San Ramon,2007,5,TOTAL,9
+Beni,80702,San Ramon,2007,5,TOTAL,4
+Beni,80401,Santa Ana,2007,5,TOTAL,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,5,TOTAL,3162
+Beni,80303,Santa Rosa,2007,5,TOTAL,4
+Cochabamba,30902,Sipe Sipe,2007,5,TOTAL,16
+Chuquisaca,10403,Sopachuy,2007,5,TOTAL,2
+Chuquisaca,10101,Sucre,2007,5,TOTAL,656
+Chuquisaca,10601,Tarabuco,2007,5,TOTAL,2
+Tarija,60101,Tarija,2007,5,TOTAL,389
+Cochabamba,30903,Tiquipaya,2007,5,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2007,5,TOTAL,11
+Beni,80101,Trinidad,2007,5,TOTAL,114
+Potosí,50801,Tupiza,2007,5,TOTAL,40
+Potosí,50201,Uncia,2007,5,TOTAL,16
+Potosí,51201,Uyuni,2007,5,TOTAL,13
+Santa Cruz,70801,Vallegrande,2007,5,TOTAL,40
+La Paz,20801,Viacha,2007,5,TOTAL,15
+Tarija,60303,Villa Montes,2007,5,TOTAL,56
+Cochabamba,31003,Villa Tunari,2007,5,TOTAL,27
+Potosí,51501,Villazon,2007,5,TOTAL,13
+Cochabamba,30904,Vinto,2007,5,TOTAL,1
+Santa Cruz,70201,Warnes,2007,5,TOTAL,25
+Tarija,60301,Yacuiba,2007,5,TOTAL,99
+Santa Cruz,70403,Yapacani,2007,5,TOTAL,49
+Chuquisaca,10301,Zudañez,2007,5,TOTAL,1
+La Paz,20201,Achacachi,2007,6,TOTAL,3
+Cochabamba,30201,Aiquile,2007,6,TOTAL,8
+Santa Cruz,71501,Ascencion De Guarayos,2007,6,TOTAL,20
+Potosí,50802,Atocha,2007,6,TOTAL,7
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,6,TOTAL,3
+Beni,80802,Baures,2007,6,TOTAL,4
+Tarija,60202,Bermejo,2007,6,TOTAL,25
+Potosí,50301,Betanzos,2007,6,TOTAL,1
+Chuquisaca,10701,Camargo,2007,6,TOTAL,25
+Santa Cruz,70706,Camiri,2007,6,TOTAL,82
+La Paz,22001,Caranavi,2007,6,TOTAL,23
+Oruro,40201,Challapata,2007,6,TOTAL,5
+Santa Cruz,70702,Charagua,2007,6,TOTAL,12
+La Paz,21101,Chulumani (v. De La Libertad),2007,6,TOTAL,2
+Pando,90101,Cobija,2007,6,TOTAL,79
+Cochabamba,30101,Cochabamba,2007,6,TOTAL,2423
+Cochabamba,30905,Colcapirhua,2007,6,TOTAL,44
+Santa Cruz,71301,Comarapa,2007,6,TOTAL,7
+Santa Cruz,71101,Concepcion,2007,6,TOTAL,19
+La Paz,21401,Coroico,2007,6,TOTAL,12
+Santa Cruz,70102,Cotoca,2007,6,TOTAL,8
+La Paz,20105,El Alto,2007,6,TOTAL,756
+Santa Cruz,70105,El Torno,2007,6,TOTAL,26
+Beni,80202,Guayaramerin,2007,6,TOTAL,46
+La Paz,20101,La Paz,2007,6,TOTAL,2852
+Potosí,50203,Llallagua,2007,6,TOTAL,55
+Beni,80801,Magdalena,2007,6,TOTAL,4
+Santa Cruz,70903,Mairana,2007,6,TOTAL,8
+Chuquisaca,10501,Monteagudo,2007,6,TOTAL,22
+Santa Cruz,71001,Montero,2007,6,TOTAL,106
+Oruro,40101,Oruro,2007,6,TOTAL,389
+Chuquisaca,10401,Padilla,2007,6,TOTAL,13
+Santa Cruz,70601,Portachuelo,2007,6,TOTAL,38
+Potosí,50101,Potosi,2007,6,TOTAL,207
+La Paz,20401,Puerto Acosta,2007,6,TOTAL,8
+Santa Cruz,71402,Puerto Quijarro,2007,6,TOTAL,4
+Santa Cruz,71401,Puerto Suarez,2007,6,TOTAL,23
+Cochabamba,31205,Puerto Villarroel,2007,6,TOTAL,10
+Cochabamba,31401,Punata,2007,6,TOTAL,9
+Cochabamba,30901,Quillacollo,2007,6,TOTAL,59
+Beni,80301,Reyes,2007,6,TOTAL,9
+Beni,80201,Riberalta,2007,6,TOTAL,235
+Santa Cruz,70503,Robore,2007,6,TOTAL,8
+Beni,80304,Rurrenabaque,2007,6,TOTAL,7
+Cochabamba,31001,Sacaba,2007,6,TOTAL,109
+Santa Cruz,70901,Samaipata,2007,6,TOTAL,5
+Beni,80302,San Borja,2007,6,TOTAL,17
+La Paz,21502,San Buena Ventura,2007,6,TOTAL,12
+Santa Cruz,70402,San Carlos,2007,6,TOTAL,38
+Beni,80501,San Ignacio,2007,6,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,6,TOTAL,65
+Santa Cruz,71102,San Javier(stc),2007,6,TOTAL,13
+Beni,80701,San Joaquin,2007,6,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,6,TOTAL,22
+Santa Cruz,70404,San Juan De Yapacani,2007,6,TOTAL,33
+Santa Cruz,71104,San Julian,2007,6,TOTAL,20
+Chuquisaca,10702,San Lucas,2007,6,TOTAL,4
+Santa Cruz,71201,San Matias,2007,6,TOTAL,3
+Beni,80702,San Ramon,2007,6,TOTAL,1
+Beni,80702,San Ramon,2007,6,TOTAL,7
+Beni,80401,Santa Ana,2007,6,TOTAL,66
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,6,TOTAL,3227
+Beni,80303,Santa Rosa,2007,6,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2007,6,TOTAL,27
+Chuquisaca,10403,Sopachuy,2007,6,TOTAL,6
+Chuquisaca,10101,Sucre,2007,6,TOTAL,776
+Chuquisaca,10601,Tarabuco,2007,6,TOTAL,1
+Tarija,60101,Tarija,2007,6,TOTAL,345
+Cochabamba,30903,Tiquipaya,2007,6,TOTAL,9
+Cochabamba,31601,Tiraque (cbba),2007,6,TOTAL,8
+Beni,80101,Trinidad,2007,6,TOTAL,479
+Potosí,50801,Tupiza,2007,6,TOTAL,42
+Potosí,50201,Uncia,2007,6,TOTAL,23
+Santa Cruz,70801,Vallegrande,2007,6,TOTAL,33
+La Paz,20801,Viacha,2007,6,TOTAL,11
+Tarija,60303,Villa Montes,2007,6,TOTAL,54
+Cochabamba,31003,Villa Tunari,2007,6,TOTAL,20
+Potosí,51501,Villazon,2007,6,TOTAL,24
+Santa Cruz,70201,Warnes,2007,6,TOTAL,41
+Tarija,60301,Yacuiba,2007,6,TOTAL,95
+Chuquisaca,10602,Yamparaez,2007,6,TOTAL,3
+Santa Cruz,70403,Yapacani,2007,6,TOTAL,80
+Chuquisaca,10301,Zudañez,2007,6,TOTAL,1
+La Paz,20201,Achacachi,2007,7,TOTAL,5
+Cochabamba,30201,Aiquile,2007,7,TOTAL,10
+Santa Cruz,71501,Ascencion De Guarayos,2007,7,TOTAL,9
+Potosí,50802,Atocha,2007,7,TOTAL,33
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,7,TOTAL,5
+Beni,80802,Baures,2007,7,TOTAL,3
+Tarija,60202,Bermejo,2007,7,TOTAL,22
+Potosí,50301,Betanzos,2007,7,TOTAL,2
+Chuquisaca,10701,Camargo,2007,7,TOTAL,37
+Santa Cruz,70706,Camiri,2007,7,TOTAL,71
+La Paz,22001,Caranavi,2007,7,TOTAL,18
+Oruro,40201,Challapata,2007,7,TOTAL,2
+Santa Cruz,70702,Charagua,2007,7,TOTAL,13
+La Paz,21101,Chulumani (v. De La Libertad),2007,7,TOTAL,4
+Pando,90101,Cobija,2007,7,TOTAL,363
+Cochabamba,30101,Cochabamba,2007,7,TOTAL,2358
+Cochabamba,30905,Colcapirhua,2007,7,TOTAL,18
+Santa Cruz,71301,Comarapa,2007,7,TOTAL,13
+Santa Cruz,71101,Concepcion,2007,7,TOTAL,15
+La Paz,21401,Coroico,2007,7,TOTAL,15
+Santa Cruz,70102,Cotoca,2007,7,TOTAL,16
+La Paz,20105,El Alto,2007,7,TOTAL,777
+Santa Cruz,70105,El Torno,2007,7,TOTAL,6
+Beni,80202,Guayaramerin,2007,7,TOTAL,67
+La Paz,20101,La Paz,2007,7,TOTAL,3063
+Potosí,50203,Llallagua,2007,7,TOTAL,55
+Beni,80801,Magdalena,2007,7,TOTAL,4
+Santa Cruz,70903,Mairana,2007,7,TOTAL,13
+Chuquisaca,10501,Monteagudo,2007,7,TOTAL,17
+Santa Cruz,71001,Montero,2007,7,TOTAL,221
+Potosí,50404,Ocuri,2007,7,TOTAL,1
+Oruro,40101,Oruro,2007,7,TOTAL,480
+Chuquisaca,10401,Padilla,2007,7,TOTAL,41
+La Paz,21305,Patacamaya,2007,7,TOTAL,3
+Santa Cruz,70601,Portachuelo,2007,7,TOTAL,47
+Potosí,50101,Potosi,2007,7,TOTAL,263
+La Paz,20401,Puerto Acosta,2007,7,TOTAL,27
+Santa Cruz,71401,Puerto Suarez,2007,7,TOTAL,15
+Cochabamba,31205,Puerto Villarroel,2007,7,TOTAL,21
+Cochabamba,31401,Punata,2007,7,TOTAL,21
+Cochabamba,30901,Quillacollo,2007,7,TOTAL,48
+Beni,80201,Riberalta,2007,7,TOTAL,161
+Santa Cruz,70503,Robore,2007,7,TOTAL,53
+Beni,80304,Rurrenabaque,2007,7,TOTAL,13
+Cochabamba,31001,Sacaba,2007,7,TOTAL,84
+Santa Cruz,70901,Samaipata,2007,7,TOTAL,6
+Beni,80602,San Andres,2007,7,TOTAL,2
+Beni,80302,San Borja,2007,7,TOTAL,14
+La Paz,21502,San Buena Ventura,2007,7,TOTAL,10
+Santa Cruz,70402,San Carlos,2007,7,TOTAL,38
+Santa Cruz,70301,San Ignacio De Velasco,2007,7,TOTAL,86
+Santa Cruz,71102,San Javier(stc),2007,7,TOTAL,10
+Santa Cruz,70501,San Jose De Chiquitos,2007,7,TOTAL,12
+Santa Cruz,70404,San Juan De Yapacani,2007,7,TOTAL,31
+Santa Cruz,71104,San Julian,2007,7,TOTAL,36
+Chuquisaca,10702,San Lucas,2007,7,TOTAL,5
+Santa Cruz,71201,San Matias,2007,7,TOTAL,10
+Beni,80702,San Ramon,2007,7,TOTAL,13
+Beni,80401,Santa Ana,2007,7,TOTAL,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,7,TOTAL,3960
+Cochabamba,30902,Sipe Sipe,2007,7,TOTAL,25
+Chuquisaca,10403,Sopachuy,2007,7,TOTAL,7
+Chuquisaca,10101,Sucre,2007,7,TOTAL,994
+Chuquisaca,10601,Tarabuco,2007,7,TOTAL,3
+Tarija,60101,Tarija,2007,7,TOTAL,391
+Cochabamba,30903,Tiquipaya,2007,7,TOTAL,6
+Cochabamba,31601,Tiraque (cbba),2007,7,TOTAL,15
+Oruro,41001,Toledo,2007,7,TOTAL,1
+Beni,80101,Trinidad,2007,7,TOTAL,368
+Potosí,50801,Tupiza,2007,7,TOTAL,40
+Potosí,50201,Uncia,2007,7,TOTAL,35
+Potosí,51201,Uyuni,2007,7,TOTAL,12
+Santa Cruz,70801,Vallegrande,2007,7,TOTAL,33
+La Paz,20801,Viacha,2007,7,TOTAL,14
+Tarija,60303,Villa Montes,2007,7,TOTAL,57
+Cochabamba,31003,Villa Tunari,2007,7,TOTAL,33
+Potosí,51501,Villazon,2007,7,TOTAL,28
+Cochabamba,30904,Vinto,2007,7,TOTAL,4
+Santa Cruz,70201,Warnes,2007,7,TOTAL,22
+Tarija,60301,Yacuiba,2007,7,TOTAL,100
+Chuquisaca,10301,Zudañez,2007,7,TOTAL,2
+La Paz,20201,Achacachi,2007,8,TOTAL,1
+Cochabamba,30201,Aiquile,2007,8,TOTAL,20
+Santa Cruz,71501,Ascencion De Guarayos,2007,8,TOTAL,10
+Potosí,50802,Atocha,2007,8,TOTAL,7
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,8,TOTAL,1
+Beni,80802,Baures,2007,8,TOTAL,11
+Tarija,60202,Bermejo,2007,8,TOTAL,25
+Potosí,50301,Betanzos,2007,8,TOTAL,7
+Chuquisaca,10701,Camargo,2007,8,TOTAL,13
+Santa Cruz,70706,Camiri,2007,8,TOTAL,85
+La Paz,22001,Caranavi,2007,8,TOTAL,22
+Santa Cruz,70702,Charagua,2007,8,TOTAL,11
+Pando,90101,Cobija,2007,8,TOTAL,91
+Cochabamba,30101,Cochabamba,2007,8,TOTAL,2378
+Cochabamba,30905,Colcapirhua,2007,8,TOTAL,41
+Santa Cruz,71301,Comarapa,2007,8,TOTAL,11
+Santa Cruz,71101,Concepcion,2007,8,TOTAL,21
+La Paz,21401,Coroico,2007,8,TOTAL,3
+Santa Cruz,70102,Cotoca,2007,8,TOTAL,18
+La Paz,20105,El Alto,2007,8,TOTAL,707
+Santa Cruz,70105,El Torno,2007,8,TOTAL,6
+Tarija,60601,Entre Rios,2007,8,TOTAL,23
+Tarija,60601,Entre Rios,2007,8,TOTAL,3
+Beni,80202,Guayaramerin,2007,8,TOTAL,55
+La Paz,20101,La Paz,2007,8,TOTAL,3073
+Potosí,50203,Llallagua,2007,8,TOTAL,48
+Beni,80801,Magdalena,2007,8,TOTAL,4
+Santa Cruz,70903,Mairana,2007,8,TOTAL,9
+Chuquisaca,10501,Monteagudo,2007,8,TOTAL,14
+Santa Cruz,71001,Montero,2007,8,TOTAL,151
+Potosí,50404,Ocuri,2007,8,TOTAL,1
+Oruro,40101,Oruro,2007,8,TOTAL,588
+Chuquisaca,10401,Padilla,2007,8,TOTAL,25
+Santa Cruz,70601,Portachuelo,2007,8,TOTAL,42
+Potosí,50101,Potosi,2007,8,TOTAL,241
+La Paz,20401,Puerto Acosta,2007,8,TOTAL,26
+Santa Cruz,71402,Puerto Quijarro,2007,8,TOTAL,6
+Santa Cruz,71401,Puerto Suarez,2007,8,TOTAL,24
+Cochabamba,31205,Puerto Villarroel,2007,8,TOTAL,21
+Cochabamba,31401,Punata,2007,8,TOTAL,33
+Cochabamba,30901,Quillacollo,2007,8,TOTAL,58
+Beni,80301,Reyes,2007,8,TOTAL,10
+Beni,80201,Riberalta,2007,8,TOTAL,315
+Santa Cruz,70503,Robore,2007,8,TOTAL,8
+Beni,80304,Rurrenabaque,2007,8,TOTAL,11
+Cochabamba,31001,Sacaba,2007,8,TOTAL,46
+Santa Cruz,70901,Samaipata,2007,8,TOTAL,2
+Beni,80602,San Andres,2007,8,TOTAL,3
+Beni,80302,San Borja,2007,8,TOTAL,71
+La Paz,21502,San Buena Ventura,2007,8,TOTAL,5
+Santa Cruz,70402,San Carlos,2007,8,TOTAL,30
+Beni,80501,San Ignacio,2007,8,TOTAL,17
+Santa Cruz,70301,San Ignacio De Velasco,2007,8,TOTAL,55
+Santa Cruz,71102,San Javier(stc),2007,8,TOTAL,4
+Beni,80701,San Joaquin,2007,8,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,8,TOTAL,12
+Santa Cruz,70404,San Juan De Yapacani,2007,8,TOTAL,41
+Santa Cruz,71104,San Julian,2007,8,TOTAL,90
+Chuquisaca,10702,San Lucas,2007,8,TOTAL,8
+Santa Cruz,71201,San Matias,2007,8,TOTAL,7
+Beni,80702,San Ramon,2007,8,TOTAL,5
+Beni,80401,Santa Ana,2007,8,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,TOTAL,3602
+Beni,80303,Santa Rosa,2007,8,TOTAL,5
+Cochabamba,30902,Sipe Sipe,2007,8,TOTAL,26
+Chuquisaca,10403,Sopachuy,2007,8,TOTAL,6
+Chuquisaca,10101,Sucre,2007,8,TOTAL,723
+Chuquisaca,10601,Tarabuco,2007,8,TOTAL,3
+Tarija,60101,Tarija,2007,8,TOTAL,388
+Cochabamba,31601,Tiraque (cbba),2007,8,TOTAL,2
+Oruro,41001,Toledo,2007,8,TOTAL,2
+Beni,80101,Trinidad,2007,8,TOTAL,326
+Potosí,50801,Tupiza,2007,8,TOTAL,44
+Potosí,50201,Uncia,2007,8,TOTAL,28
+Potosí,51201,Uyuni,2007,8,TOTAL,10
+Santa Cruz,70801,Vallegrande,2007,8,TOTAL,37
+La Paz,20801,Viacha,2007,8,TOTAL,10
+Tarija,60303,Villa Montes,2007,8,TOTAL,67
+Cochabamba,31003,Villa Tunari,2007,8,TOTAL,15
+Potosí,51501,Villazon,2007,8,TOTAL,31
+Cochabamba,30904,Vinto,2007,8,TOTAL,27
+Santa Cruz,70201,Warnes,2007,8,TOTAL,29
+Tarija,60301,Yacuiba,2007,8,TOTAL,108
+Santa Cruz,70403,Yapacani,2007,8,TOTAL,9
+Chuquisaca,10102,Yotala,2007,8,TOTAL,2
+Chuquisaca,10301,Zudañez,2007,8,TOTAL,1
+La Paz,20201,Achacachi,2007,9,TOTAL,3
+Cochabamba,30201,Aiquile,2007,9,TOTAL,20
+Santa Cruz,71501,Ascencion De Guarayos,2007,9,TOTAL,29
+Potosí,50802,Atocha,2007,9,TOTAL,6
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,9,TOTAL,3
+Chuquisaca,10201,Azurduy,2007,9,TOTAL,1
+Beni,80802,Baures,2007,9,TOTAL,3
+Tarija,60202,Bermejo,2007,9,TOTAL,25
+Potosí,50301,Betanzos,2007,9,TOTAL,4
+Chuquisaca,10701,Camargo,2007,9,TOTAL,33
+Santa Cruz,70706,Camiri,2007,9,TOTAL,66
+La Paz,22001,Caranavi,2007,9,TOTAL,27
+Santa Cruz,70702,Charagua,2007,9,TOTAL,16
+Pando,90101,Cobija,2007,9,TOTAL,489
+Cochabamba,30101,Cochabamba,2007,9,TOTAL,2389
+Cochabamba,30905,Colcapirhua,2007,9,TOTAL,41
+Santa Cruz,71301,Comarapa,2007,9,TOTAL,7
+Santa Cruz,71101,Concepcion,2007,9,TOTAL,17
+La Paz,21401,Coroico,2007,9,TOTAL,12
+Santa Cruz,70102,Cotoca,2007,9,TOTAL,19
+La Paz,20105,El Alto,2007,9,TOTAL,666
+Santa Cruz,70105,El Torno,2007,9,TOTAL,9
+Beni,80202,Guayaramerin,2007,9,TOTAL,57
+La Paz,20101,La Paz,2007,9,TOTAL,2881
+Potosí,50203,Llallagua,2007,9,TOTAL,60
+Beni,80801,Magdalena,2007,9,TOTAL,2
+Santa Cruz,70903,Mairana,2007,9,TOTAL,6
+Chuquisaca,10501,Monteagudo,2007,9,TOTAL,15
+Santa Cruz,71001,Montero,2007,9,TOTAL,149
+Potosí,50404,Ocuri,2007,9,TOTAL,2
+Oruro,40101,Oruro,2007,9,TOTAL,475
+Chuquisaca,10401,Padilla,2007,9,TOTAL,20
+La Paz,21305,Patacamaya,2007,9,TOTAL,8
+Santa Cruz,70601,Portachuelo,2007,9,TOTAL,49
+Potosí,50101,Potosi,2007,9,TOTAL,208
+La Paz,20401,Puerto Acosta,2007,9,TOTAL,11
+Santa Cruz,71402,Puerto Quijarro,2007,9,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2007,9,TOTAL,20
+Cochabamba,31205,Puerto Villarroel,2007,9,TOTAL,21
+Cochabamba,31401,Punata,2007,9,TOTAL,23
+Cochabamba,30901,Quillacollo,2007,9,TOTAL,63
+Beni,80201,Riberalta,2007,9,TOTAL,322
+Santa Cruz,70503,Robore,2007,9,TOTAL,9
+Beni,80304,Rurrenabaque,2007,9,TOTAL,8
+Cochabamba,31001,Sacaba,2007,9,TOTAL,55
+Santa Cruz,70901,Samaipata,2007,9,TOTAL,6
+Beni,80602,San Andres,2007,9,TOTAL,4
+Beni,80302,San Borja,2007,9,TOTAL,16
+La Paz,21502,San Buena Ventura,2007,9,TOTAL,12
+Santa Cruz,70402,San Carlos,2007,9,TOTAL,32
+Beni,80501,San Ignacio,2007,9,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,TOTAL,39
+Santa Cruz,71102,San Javier(stc),2007,9,TOTAL,10
+Beni,80701,San Joaquin,2007,9,TOTAL,7
+Santa Cruz,70501,San Jose De Chiquitos,2007,9,TOTAL,5
+Santa Cruz,70404,San Juan De Yapacani,2007,9,TOTAL,31
+Santa Cruz,71104,San Julian,2007,9,TOTAL,33
+Chuquisaca,10702,San Lucas,2007,9,TOTAL,4
+Santa Cruz,71201,San Matias,2007,9,TOTAL,10
+Beni,80702,San Ramon,2007,9,TOTAL,9
+Beni,80401,Santa Ana,2007,9,TOTAL,16
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,TOTAL,3488
+Beni,80303,Santa Rosa,2007,9,TOTAL,2
+Cochabamba,30902,Sipe Sipe,2007,9,TOTAL,20
+Chuquisaca,10403,Sopachuy,2007,9,TOTAL,2
+Chuquisaca,10101,Sucre,2007,9,TOTAL,834
+Tarija,60101,Tarija,2007,9,TOTAL,191
+Cochabamba,30903,Tiquipaya,2007,9,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2007,9,TOTAL,13
+Oruro,41001,Toledo,2007,9,TOTAL,2
+Beni,80101,Trinidad,2007,9,TOTAL,321
+Potosí,50801,Tupiza,2007,9,TOTAL,46
+Potosí,50201,Uncia,2007,9,TOTAL,32
+Potosí,51201,Uyuni,2007,9,TOTAL,2
+Santa Cruz,70801,Vallegrande,2007,9,TOTAL,30
+La Paz,20801,Viacha,2007,9,TOTAL,18
+Tarija,60303,Villa Montes,2007,9,TOTAL,69
+Cochabamba,31003,Villa Tunari,2007,9,TOTAL,23
+Potosí,51501,Villazon,2007,9,TOTAL,32
+Cochabamba,30904,Vinto,2007,9,TOTAL,20
+Santa Cruz,70201,Warnes,2007,9,TOTAL,30
+Tarija,60301,Yacuiba,2007,9,TOTAL,112
+Santa Cruz,70403,Yapacani,2007,9,TOTAL,15
+Chuquisaca,10102,Yotala,2007,9,TOTAL,1
+Chuquisaca,10301,Zudañez,2007,9,TOTAL,1
+La Paz,20201,Achacachi,2007,10,TOTAL,1
+Cochabamba,30201,Aiquile,2007,10,TOTAL,12
+Potosí,50802,Atocha,2007,10,TOTAL,14
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,10,TOTAL,2
+Chuquisaca,10201,Azurduy,2007,10,TOTAL,1
+Tarija,60202,Bermejo,2007,10,TOTAL,36
+Potosí,50301,Betanzos,2007,10,TOTAL,4
+Chuquisaca,10701,Camargo,2007,10,TOTAL,14
+Santa Cruz,70706,Camiri,2007,10,TOTAL,76
+La Paz,22001,Caranavi,2007,10,TOTAL,23
+Santa Cruz,70702,Charagua,2007,10,TOTAL,8
+La Paz,21101,Chulumani (v. De La Libertad),2007,10,TOTAL,1
+Pando,90101,Cobija,2007,10,TOTAL,681
+Cochabamba,30101,Cochabamba,2007,10,TOTAL,2630
+Cochabamba,30905,Colcapirhua,2007,10,TOTAL,45
+Santa Cruz,71301,Comarapa,2007,10,TOTAL,10
+Santa Cruz,71101,Concepcion,2007,10,TOTAL,14
+La Paz,21701,Copacabana,2007,10,TOTAL,1
+La Paz,21401,Coroico,2007,10,TOTAL,17
+Santa Cruz,70102,Cotoca,2007,10,TOTAL,17
+La Paz,20105,El Alto,2007,10,TOTAL,803
+Santa Cruz,70105,El Torno,2007,10,TOTAL,2
+Beni,80202,Guayaramerin,2007,10,TOTAL,57
+Oruro,40701,Huanuni,2007,10,TOTAL,2
+La Paz,20101,La Paz,2007,10,TOTAL,2965
+Potosí,50203,Llallagua,2007,10,TOTAL,59
+Beni,80801,Magdalena,2007,10,TOTAL,4
+Santa Cruz,70903,Mairana,2007,10,TOTAL,14
+Chuquisaca,10501,Monteagudo,2007,10,TOTAL,11
+Santa Cruz,71001,Montero,2007,10,TOTAL,148
+Potosí,50404,Ocuri,2007,10,TOTAL,2
+Oruro,40101,Oruro,2007,10,TOTAL,608
+Chuquisaca,10401,Padilla,2007,10,TOTAL,19
+La Paz,21305,Patacamaya,2007,10,TOTAL,11
+Santa Cruz,70601,Portachuelo,2007,10,TOTAL,61
+Potosí,50101,Potosi,2007,10,TOTAL,183
+La Paz,20401,Puerto Acosta,2007,10,TOTAL,11
+Santa Cruz,71402,Puerto Quijarro,2007,10,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2007,10,TOTAL,22
+Cochabamba,31205,Puerto Villarroel,2007,10,TOTAL,18
+Cochabamba,31401,Punata,2007,10,TOTAL,28
+Cochabamba,30901,Quillacollo,2007,10,TOTAL,63
+Beni,80301,Reyes,2007,10,TOTAL,3
+Beni,80201,Riberalta,2007,10,TOTAL,257
+Santa Cruz,70503,Robore,2007,10,TOTAL,9
+Beni,80304,Rurrenabaque,2007,10,TOTAL,17
+Cochabamba,31001,Sacaba,2007,10,TOTAL,70
+Santa Cruz,70901,Samaipata,2007,10,TOTAL,2
+Beni,80602,San Andres,2007,10,TOTAL,1
+Beni,80302,San Borja,2007,10,TOTAL,21
+Santa Cruz,70402,San Carlos,2007,10,TOTAL,36
+Beni,80501,San Ignacio,2007,10,TOTAL,15
+Santa Cruz,70301,San Ignacio De Velasco,2007,10,TOTAL,53
+Santa Cruz,71102,San Javier(stc),2007,10,TOTAL,9
+Beni,80701,San Joaquin,2007,10,TOTAL,6
+Santa Cruz,70501,San Jose De Chiquitos,2007,10,TOTAL,8
+Santa Cruz,70404,San Juan De Yapacani,2007,10,TOTAL,39
+Santa Cruz,71104,San Julian,2007,10,TOTAL,47
+Chuquisaca,10702,San Lucas,2007,10,TOTAL,10
+Santa Cruz,71201,San Matias,2007,10,TOTAL,8
+Beni,80702,San Ramon,2007,10,TOTAL,8
+Beni,80401,Santa Ana,2007,10,TOTAL,19
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,TOTAL,3890
+Beni,80303,Santa Rosa,2007,10,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2007,10,TOTAL,26
+Chuquisaca,10403,Sopachuy,2007,10,TOTAL,5
+Chuquisaca,10101,Sucre,2007,10,TOTAL,759
+Chuquisaca,10601,Tarabuco,2007,10,TOTAL,2
+Tarija,60101,Tarija,2007,10,TOTAL,463
+Cochabamba,30903,Tiquipaya,2007,10,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2007,10,TOTAL,16
+Oruro,41001,Toledo,2007,10,TOTAL,2
+Beni,80101,Trinidad,2007,10,TOTAL,524
+Potosí,50801,Tupiza,2007,10,TOTAL,62
+Potosí,50201,Uncia,2007,10,TOTAL,31
+Santa Cruz,70801,Vallegrande,2007,10,TOTAL,23
+La Paz,20801,Viacha,2007,10,TOTAL,12
+Tarija,60303,Villa Montes,2007,10,TOTAL,72
+Cochabamba,31003,Villa Tunari,2007,10,TOTAL,42
+Potosí,51501,Villazon,2007,10,TOTAL,27
+Cochabamba,30904,Vinto,2007,10,TOTAL,22
+Santa Cruz,70201,Warnes,2007,10,TOTAL,30
+Tarija,60301,Yacuiba,2007,10,TOTAL,129
+Santa Cruz,70403,Yapacani,2007,10,TOTAL,11
+Cochabamba,30201,Aiquile,2007,11,TOTAL,14
+Santa Cruz,71501,Ascencion De Guarayos,2007,11,TOTAL,9
+Potosí,50802,Atocha,2007,11,TOTAL,11
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,11,TOTAL,2
+Chuquisaca,10201,Azurduy,2007,11,TOTAL,2
+Tarija,60202,Bermejo,2007,11,TOTAL,12
+Potosí,50301,Betanzos,2007,11,TOTAL,2
+Chuquisaca,10701,Camargo,2007,11,TOTAL,43
+Santa Cruz,70706,Camiri,2007,11,TOTAL,27
+La Paz,22001,Caranavi,2007,11,TOTAL,31
+Santa Cruz,70702,Charagua,2007,11,TOTAL,12
+La Paz,21101,Chulumani (v. De La Libertad),2007,11,TOTAL,1
+Pando,90101,Cobija,2007,11,TOTAL,106
+Cochabamba,30101,Cochabamba,2007,11,TOTAL,2704
+Cochabamba,30905,Colcapirhua,2007,11,TOTAL,34
+Santa Cruz,71301,Comarapa,2007,11,TOTAL,8
+Santa Cruz,71101,Concepcion,2007,11,TOTAL,16
+La Paz,21401,Coroico,2007,11,TOTAL,15
+Santa Cruz,70102,Cotoca,2007,11,TOTAL,10
+Chuquisaca,10902,Culpina,2007,11,TOTAL,1
+La Paz,20105,El Alto,2007,11,TOTAL,712
+Tarija,60502,El Puente(tja),2007,11,TOTAL,1
+Santa Cruz,70105,El Torno,2007,11,TOTAL,10
+Beni,80202,Guayaramerin,2007,11,TOTAL,52
+Oruro,40701,Huanuni,2007,11,TOTAL,2
+La Paz,20101,La Paz,2007,11,TOTAL,2980
+Potosí,50203,Llallagua,2007,11,TOTAL,49
+Beni,80801,Magdalena,2007,11,TOTAL,17
+Santa Cruz,70903,Mairana,2007,11,TOTAL,12
+Chuquisaca,10501,Monteagudo,2007,11,TOTAL,18
+Santa Cruz,71001,Montero,2007,11,TOTAL,982
+Oruro,40101,Oruro,2007,11,TOTAL,598
+Chuquisaca,10401,Padilla,2007,11,TOTAL,13
+La Paz,21305,Patacamaya,2007,11,TOTAL,52
+Santa Cruz,70601,Portachuelo,2007,11,TOTAL,39
+Potosí,50101,Potosi,2007,11,TOTAL,197
+La Paz,20401,Puerto Acosta,2007,11,TOTAL,15
+Santa Cruz,71401,Puerto Suarez,2007,11,TOTAL,18
+Cochabamba,31205,Puerto Villarroel,2007,11,TOTAL,23
+Cochabamba,31401,Punata,2007,11,TOTAL,26
+Cochabamba,30901,Quillacollo,2007,11,TOTAL,84
+Beni,80301,Reyes,2007,11,TOTAL,2
+Beni,80201,Riberalta,2007,11,TOTAL,251
+Santa Cruz,70503,Robore,2007,11,TOTAL,10
+Beni,80304,Rurrenabaque,2007,11,TOTAL,5
+Cochabamba,31001,Sacaba,2007,11,TOTAL,94
+Santa Cruz,70901,Samaipata,2007,11,TOTAL,2
+Beni,80302,San Borja,2007,11,TOTAL,11
+La Paz,21502,San Buena Ventura,2007,11,TOTAL,10
+Santa Cruz,70402,San Carlos,2007,11,TOTAL,44
+Beni,80501,San Ignacio,2007,11,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,TOTAL,57
+Santa Cruz,71102,San Javier(stc),2007,11,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2007,11,TOTAL,6
+Santa Cruz,70404,San Juan De Yapacani,2007,11,TOTAL,32
+Santa Cruz,71104,San Julian,2007,11,TOTAL,19
+Chuquisaca,10702,San Lucas,2007,11,TOTAL,2
+Santa Cruz,71201,San Matias,2007,11,TOTAL,12
+Beni,80702,San Ramon,2007,11,TOTAL,3
+Beni,80401,Santa Ana,2007,11,TOTAL,14
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,11,TOTAL,3591
+Beni,80303,Santa Rosa,2007,11,TOTAL,4
+Cochabamba,30902,Sipe Sipe,2007,11,TOTAL,15
+Chuquisaca,10403,Sopachuy,2007,11,TOTAL,9
+Chuquisaca,10101,Sucre,2007,11,TOTAL,788
+Chuquisaca,10601,Tarabuco,2007,11,TOTAL,1
+Tarija,60101,Tarija,2007,11,TOTAL,441
+Cochabamba,30903,Tiquipaya,2007,11,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2007,11,TOTAL,15
+Oruro,41001,Toledo,2007,11,TOTAL,1
+Beni,80101,Trinidad,2007,11,TOTAL,259
+Potosí,50801,Tupiza,2007,11,TOTAL,47
+Potosí,50201,Uncia,2007,11,TOTAL,33
+Potosí,51201,Uyuni,2007,11,TOTAL,3
+Santa Cruz,70801,Vallegrande,2007,11,TOTAL,19
+La Paz,20801,Viacha,2007,11,TOTAL,11
+Tarija,60303,Villa Montes,2007,11,TOTAL,74
+Cochabamba,31003,Villa Tunari,2007,11,TOTAL,26
+Potosí,51501,Villazon,2007,11,TOTAL,22
+Santa Cruz,70201,Warnes,2007,11,TOTAL,35
+Tarija,60301,Yacuiba,2007,11,TOTAL,124
+Santa Cruz,70403,Yapacani,2007,11,TOTAL,3
+Chuquisaca,10102,Yotala,2007,11,TOTAL,3
+Chuquisaca,10301,Zudañez,2007,11,TOTAL,1
+La Paz,20201,Achacachi,2007,12,TOTAL,1
+Cochabamba,30201,Aiquile,2007,12,TOTAL,8
+Santa Cruz,71501,Ascencion De Guarayos,2007,12,TOTAL,5
+Potosí,50802,Atocha,2007,12,TOTAL,13
+Chuquisaca,10201,Azurduy,2007,12,TOTAL,1
+Beni,80802,Baures,2007,12,TOTAL,2
+Tarija,60202,Bermejo,2007,12,TOTAL,25
+Potosí,50301,Betanzos,2007,12,TOTAL,2
+Santa Cruz,70706,Camiri,2007,12,TOTAL,31
+Oruro,40102,Caracollo,2007,12,TOTAL,1
+La Paz,22001,Caranavi,2007,12,TOTAL,30
+Oruro,40201,Challapata,2007,12,TOTAL,1
+Santa Cruz,70702,Charagua,2007,12,TOTAL,6
+La Paz,21101,Chulumani (v. De La Libertad),2007,12,TOTAL,2
+Pando,90101,Cobija,2007,12,TOTAL,95
+Cochabamba,30101,Cochabamba,2007,12,TOTAL,2324
+Cochabamba,30905,Colcapirhua,2007,12,TOTAL,39
+Santa Cruz,71301,Comarapa,2007,12,TOTAL,5
+Santa Cruz,71101,Concepcion,2007,12,TOTAL,8
+La Paz,21701,Copacabana,2007,12,TOTAL,2
+La Paz,21401,Coroico,2007,12,TOTAL,11
+Potosí,50601,Cotagaita,2007,12,TOTAL,1
+Santa Cruz,70102,Cotoca,2007,12,TOTAL,11
+La Paz,20105,El Alto,2007,12,TOTAL,787
+Santa Cruz,70105,El Torno,2007,12,TOTAL,30
+Beni,80202,Guayaramerin,2007,12,TOTAL,51
+Oruro,40701,Huanuni,2007,12,TOTAL,1
+La Paz,20101,La Paz,2007,12,TOTAL,2821
+Potosí,50203,Llallagua,2007,12,TOTAL,52
+Beni,80801,Magdalena,2007,12,TOTAL,2
+Santa Cruz,70903,Mairana,2007,12,TOTAL,3
+Chuquisaca,10501,Monteagudo,2007,12,TOTAL,8
+Santa Cruz,71001,Montero,2007,12,TOTAL,169
+Potosí,50404,Ocuri,2007,12,TOTAL,2
+Oruro,40101,Oruro,2007,12,TOTAL,589
+Chuquisaca,10401,Padilla,2007,12,TOTAL,13
+La Paz,21305,Patacamaya,2007,12,TOTAL,49
+Santa Cruz,70601,Portachuelo,2007,12,TOTAL,36
+Potosí,50101,Potosi,2007,12,TOTAL,222
+La Paz,20401,Puerto Acosta,2007,12,TOTAL,7
+Santa Cruz,71402,Puerto Quijarro,2007,12,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2007,12,TOTAL,12
+Cochabamba,31205,Puerto Villarroel,2007,12,TOTAL,19
+Cochabamba,31401,Punata,2007,12,TOTAL,15
+Cochabamba,30901,Quillacollo,2007,12,TOTAL,134
+Beni,80201,Riberalta,2007,12,TOTAL,250
+Santa Cruz,70503,Robore,2007,12,TOTAL,6
+Beni,80304,Rurrenabaque,2007,12,TOTAL,15
+Cochabamba,31001,Sacaba,2007,12,TOTAL,29
+Santa Cruz,70901,Samaipata,2007,12,TOTAL,4
+Beni,80302,San Borja,2007,12,TOTAL,11
+La Paz,21502,San Buena Ventura,2007,12,TOTAL,7
+Santa Cruz,70402,San Carlos,2007,12,TOTAL,24
+Santa Cruz,70301,San Ignacio De Velasco,2007,12,TOTAL,52
+Santa Cruz,71102,San Javier(stc),2007,12,TOTAL,4
+Beni,80701,San Joaquin,2007,12,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2007,12,TOTAL,8
+Santa Cruz,70404,San Juan De Yapacani,2007,12,TOTAL,24
+Santa Cruz,71104,San Julian,2007,12,TOTAL,7
+Chuquisaca,10702,San Lucas,2007,12,TOTAL,6
+Santa Cruz,71201,San Matias,2007,12,TOTAL,9
+Beni,80702,San Ramon,2007,12,TOTAL,12
+Beni,80702,San Ramon,2007,12,TOTAL,10
+Beni,80401,Santa Ana,2007,12,TOTAL,25
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL,2961
+Beni,80303,Santa Rosa,2007,12,TOTAL,1
+Cochabamba,30902,Sipe Sipe,2007,12,TOTAL,14
+Chuquisaca,10403,Sopachuy,2007,12,TOTAL,5
+Chuquisaca,10101,Sucre,2007,12,TOTAL,741
+Chuquisaca,10601,Tarabuco,2007,12,TOTAL,6
+Tarija,60101,Tarija,2007,12,TOTAL,430
+Cochabamba,31601,Tiraque (cbba),2007,12,TOTAL,7
+Beni,80101,Trinidad,2007,12,TOTAL,311
+Potosí,50801,Tupiza,2007,12,TOTAL,27
+Potosí,51201,Uyuni,2007,12,TOTAL,6
+Santa Cruz,70801,Vallegrande,2007,12,TOTAL,34
+Tarija,60303,Villa Montes,2007,12,TOTAL,48
+Cochabamba,31003,Villa Tunari,2007,12,TOTAL,26
+Potosí,51501,Villazon,2007,12,TOTAL,31
+Potosí,50602,Vitichi,2007,12,TOTAL,1
+Santa Cruz,70201,Warnes,2007,12,TOTAL,27
+Tarija,60301,Yacuiba,2007,12,TOTAL,94
+Chuquisaca,10602,Yamparaez,2007,12,TOTAL,2
+Santa Cruz,70403,Yapacani,2007,12,TOTAL,5
+Chuquisaca,10102,Yotala,2007,12,TOTAL,1
+Chuquisaca,10301,Zudañez,2007,12,TOTAL,2

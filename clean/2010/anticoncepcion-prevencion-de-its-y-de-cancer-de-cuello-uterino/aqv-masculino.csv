@@ -1,0 +1,105 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2010,1,AQV masculino,1
+La Paz,20105,El Alto,2010,1,AQV masculino,1
+La Paz,20101,La Paz,2010,1,AQV masculino,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,AQV masculino,2
+Cochabamba,30101,Cochabamba,2010,2,AQV masculino,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,AQV masculino,1
+Chuquisaca,10101,Sucre,2010,2,AQV masculino,1
+Cochabamba,30101,Cochabamba,2010,3,AQV masculino,1
+La Paz,20105,El Alto,2010,3,AQV masculino,2
+La Paz,20101,La Paz,2010,3,AQV masculino,1
+Tarija,60501,San Lorenzo(tja),2010,3,AQV masculino,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,AQV masculino,8
+Chuquisaca,10101,Sucre,2010,3,AQV masculino,1
+Cochabamba,30101,Cochabamba,2010,4,AQV masculino,2
+La Paz,20105,El Alto,2010,4,AQV masculino,2
+La Paz,20101,La Paz,2010,4,AQV masculino,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,4,AQV masculino,6
+Chuquisaca,10101,Sucre,2010,4,AQV masculino,1
+La Paz,20101,La Paz,2010,5,AQV masculino,4
+Chuquisaca,10702,San Lucas,2010,5,AQV masculino,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,5,AQV masculino,1
+Cochabamba,30101,Cochabamba,2010,6,AQV masculino,2
+La Paz,20105,El Alto,2010,6,AQV masculino,1
+La Paz,20101,La Paz,2010,6,AQV masculino,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,AQV masculino,1
+Chuquisaca,10101,Sucre,2010,6,AQV masculino,1
+Potosí,50802,Atocha,2010,7,AQV masculino,1
+Cochabamba,30101,Cochabamba,2010,7,AQV masculino,3
+La Paz,20101,La Paz,2010,7,AQV masculino,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,AQV masculino,2
+Cochabamba,30101,Cochabamba,2010,8,AQV masculino,1
+La Paz,20105,El Alto,2010,8,AQV masculino,2
+La Paz,20101,La Paz,2010,8,AQV masculino,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,8,AQV masculino,1
+Cochabamba,30101,Cochabamba,2010,9,AQV masculino,5
+La Paz,20105,El Alto,2010,9,AQV masculino,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,9,AQV masculino,3
+Cochabamba,30101,Cochabamba,2010,10,AQV masculino,5
+La Paz,20105,El Alto,2010,10,AQV masculino,1
+La Paz,20101,La Paz,2010,10,AQV masculino,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,10,AQV masculino,0
+La Paz,21301,Sica Sica (villa Aroma),2010,10,AQV masculino,1
+Chuquisaca,10101,Sucre,2010,10,AQV masculino,1
+Cochabamba,30101,Cochabamba,2010,11,AQV masculino,2
+La Paz,20105,El Alto,2010,11,AQV masculino,2
+La Paz,20101,La Paz,2010,11,AQV masculino,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,AQV masculino,2
+Cochabamba,30101,Cochabamba,2010,12,AQV masculino,2
+La Paz,20105,El Alto,2010,12,AQV masculino,2
+La Paz,20101,La Paz,2010,12,AQV masculino,1
+Santa Cruz,71201,San Matias,2010,12,AQV masculino,1
+Chuquisaca,10101,Sucre,2010,12,AQV masculino,1
+Cochabamba,30101,Cochabamba,2010,1,TOTAL,1
+La Paz,20105,El Alto,2010,1,TOTAL,1
+La Paz,20101,La Paz,2010,1,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,1,TOTAL,2
+Cochabamba,30101,Cochabamba,2010,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,2,TOTAL,1
+Chuquisaca,10101,Sucre,2010,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,3,TOTAL,1
+La Paz,20105,El Alto,2010,3,TOTAL,2
+La Paz,20101,La Paz,2010,3,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2010,3,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,3,TOTAL,8
+Chuquisaca,10101,Sucre,2010,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,4,TOTAL,2
+La Paz,20105,El Alto,2010,4,TOTAL,2
+La Paz,20101,La Paz,2010,4,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,4,TOTAL,6
+Chuquisaca,10101,Sucre,2010,4,TOTAL,1
+La Paz,20101,La Paz,2010,5,TOTAL,4
+Chuquisaca,10702,San Lucas,2010,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,6,TOTAL,2
+La Paz,20105,El Alto,2010,6,TOTAL,1
+La Paz,20101,La Paz,2010,6,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,6,TOTAL,1
+Chuquisaca,10101,Sucre,2010,6,TOTAL,1
+Potosí,50802,Atocha,2010,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,7,TOTAL,3
+La Paz,20101,La Paz,2010,7,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,7,TOTAL,2
+Cochabamba,30101,Cochabamba,2010,8,TOTAL,1
+La Paz,20105,El Alto,2010,8,TOTAL,2
+La Paz,20101,La Paz,2010,8,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,9,TOTAL,5
+La Paz,20105,El Alto,2010,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,9,TOTAL,3
+Cochabamba,30101,Cochabamba,2010,10,TOTAL,5
+La Paz,20105,El Alto,2010,10,TOTAL,1
+La Paz,20101,La Paz,2010,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,10,TOTAL,0
+La Paz,21301,Sica Sica (villa Aroma),2010,10,TOTAL,1
+Chuquisaca,10101,Sucre,2010,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2010,11,TOTAL,2
+La Paz,20105,El Alto,2010,11,TOTAL,2
+La Paz,20101,La Paz,2010,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2010,11,TOTAL,2
+Cochabamba,30101,Cochabamba,2010,12,TOTAL,2
+La Paz,20105,El Alto,2010,12,TOTAL,2
+La Paz,20101,La Paz,2010,12,TOTAL,1
+Santa Cruz,71201,San Matias,2010,12,TOTAL,1
+Chuquisaca,10101,Sucre,2010,12,TOTAL,1

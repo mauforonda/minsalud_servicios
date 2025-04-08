@@ -1,0 +1,59 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70706,Camiri,2017,1,Partos atendidos por partera en servicio,1
+Oruro,40401,Curahuara De Carangas,2017,1,Partos atendidos por partera en servicio,1
+Beni,80501,San Ignacio,2017,1,Partos atendidos por partera en servicio,1
+Chuquisaca,10403,Sopachuy,2017,2,Partos atendidos por partera en servicio,3
+Potosí,50302,Chaqui,2017,3,Partos atendidos por partera en servicio,1
+Oruro,40401,Curahuara De Carangas,2017,3,Partos atendidos por partera en servicio,2
+Beni,80501,San Ignacio,2017,3,Partos atendidos por partera en servicio,3
+Santa Cruz,71102,San Javier(stc),2017,4,Partos atendidos por partera en servicio,28
+Tarija,60302,Carapari,2017,5,Partos atendidos por partera en servicio,1
+Oruro,40401,Curahuara De Carangas,2017,5,Partos atendidos por partera en servicio,2
+Santa Cruz,70402,San Carlos,2017,5,Partos atendidos por partera en servicio,1
+Santa Cruz,71102,San Javier(stc),2017,6,Partos atendidos por partera en servicio,29
+Santa Cruz,71102,San Javier(stc),2017,7,Partos atendidos por partera en servicio,23
+Santa Cruz,71201,San Matias,2017,7,Partos atendidos por partera en servicio,2
+Potosí,50102,Tinguipaya,2017,7,Partos atendidos por partera en servicio,1
+Potosí,50401,Colquechaca,2017,8,Partos atendidos por partera en servicio,3
+Oruro,40401,Curahuara De Carangas,2017,8,Partos atendidos por partera en servicio,1
+Santa Cruz,71102,San Javier(stc),2017,8,Partos atendidos por partera en servicio,22
+Oruro,40401,Curahuara De Carangas,2017,9,Partos atendidos por partera en servicio,1
+Santa Cruz,71102,San Javier(stc),2017,9,Partos atendidos por partera en servicio,29
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,Partos atendidos por partera en servicio,23
+Potosí,50502,Toro Toro,2017,9,Partos atendidos por partera en servicio,4
+Santa Cruz,71102,San Javier(stc),2017,10,Partos atendidos por partera en servicio,28
+Santa Cruz,71102,San Javier(stc),2017,11,Partos atendidos por partera en servicio,20
+Chuquisaca,10702,San Lucas,2017,11,Partos atendidos por partera en servicio,2
+Potosí,51001,San Pablo De Lipez,2017,11,Partos atendidos por partera en servicio,1
+Beni,80301,Reyes,2017,12,Partos atendidos por partera en servicio,1
+Santa Cruz,71102,San Javier(stc),2017,12,Partos atendidos por partera en servicio,19
+Beni,80101,Trinidad,2017,12,Partos atendidos por partera en servicio,6
+Santa Cruz,70706,Camiri,2017,1,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2017,1,TOTAL,1
+Beni,80501,San Ignacio,2017,1,TOTAL,1
+Chuquisaca,10403,Sopachuy,2017,2,TOTAL,3
+Potosí,50302,Chaqui,2017,3,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2017,3,TOTAL,2
+Beni,80501,San Ignacio,2017,3,TOTAL,3
+Santa Cruz,71102,San Javier(stc),2017,4,TOTAL,28
+Tarija,60302,Carapari,2017,5,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2017,5,TOTAL,2
+Santa Cruz,70402,San Carlos,2017,5,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2017,6,TOTAL,29
+Santa Cruz,71102,San Javier(stc),2017,7,TOTAL,23
+Santa Cruz,71201,San Matias,2017,7,TOTAL,2
+Potosí,50102,Tinguipaya,2017,7,TOTAL,1
+Potosí,50401,Colquechaca,2017,8,TOTAL,3
+Oruro,40401,Curahuara De Carangas,2017,8,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2017,8,TOTAL,22
+Oruro,40401,Curahuara De Carangas,2017,9,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2017,9,TOTAL,29
+Santa Cruz,70101,Santa Cruz De La Sierra,2017,9,TOTAL,23
+Potosí,50502,Toro Toro,2017,9,TOTAL,4
+Santa Cruz,71102,San Javier(stc),2017,10,TOTAL,28
+Santa Cruz,71102,San Javier(stc),2017,11,TOTAL,20
+Chuquisaca,10702,San Lucas,2017,11,TOTAL,2
+Potosí,51001,San Pablo De Lipez,2017,11,TOTAL,1
+Beni,80301,Reyes,2017,12,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2017,12,TOTAL,19
+Beni,80101,Trinidad,2017,12,TOTAL,6

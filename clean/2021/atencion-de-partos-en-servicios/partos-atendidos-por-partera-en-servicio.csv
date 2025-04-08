@@ -1,0 +1,51 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70103,Porongo,2021,2,Partos atendidos por partera en servicio,1
+La Paz,20101,La Paz,2021,3,Partos atendidos por partera en servicio,3
+Beni,80602,San Andres,2021,3,Partos atendidos por partera en servicio,5
+Santa Cruz,71106,Cuatro Cañadas,2021,4,Partos atendidos por partera en servicio,23
+La Paz,20101,La Paz,2021,4,Partos atendidos por partera en servicio,11
+Cochabamba,31205,Puerto Villarroel,2021,4,Partos atendidos por partera en servicio,1
+Santa Cruz,71201,San Matias,2021,4,Partos atendidos por partera en servicio,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,Partos atendidos por partera en servicio,13
+Beni,80101,Trinidad,2021,4,Partos atendidos por partera en servicio,6
+Santa Cruz,70201,Warnes,2021,4,Partos atendidos por partera en servicio,3
+Beni,80501,San Ignacio,2021,6,Partos atendidos por partera en servicio,1
+Santa Cruz,71201,San Matias,2021,6,Partos atendidos por partera en servicio,1
+Cochabamba,31101,Tapacari,2021,6,Partos atendidos por partera en servicio,1
+Cochabamba,31401,Punata,2021,8,Partos atendidos por partera en servicio,10
+Cochabamba,30101,Cochabamba,2021,9,Partos atendidos por partera en servicio,35
+Santa Cruz,70705,Gutierrez,2021,9,Partos atendidos por partera en servicio,2
+Santa Cruz,71003,Mineros,2021,9,Partos atendidos por partera en servicio,1
+Chuquisaca,10501,Monteagudo,2021,9,Partos atendidos por partera en servicio,3
+Beni,80102,San Javier(bni),2021,9,Partos atendidos por partera en servicio,1
+Beni,80101,Trinidad,2021,9,Partos atendidos por partera en servicio,6
+Cochabamba,31205,Puerto Villarroel,2021,10,Partos atendidos por partera en servicio,4
+La Paz,20105,El Alto,2021,11,Partos atendidos por partera en servicio,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,Partos atendidos por partera en servicio,51
+Beni,80101,Trinidad,2021,11,Partos atendidos por partera en servicio,1
+Santa Cruz,71201,San Matias,2021,12,Partos atendidos por partera en servicio,2
+Santa Cruz,70103,Porongo,2021,2,TOTAL,1
+La Paz,20101,La Paz,2021,3,TOTAL,3
+Beni,80602,San Andres,2021,3,TOTAL,5
+Santa Cruz,71106,Cuatro Cañadas,2021,4,TOTAL,23
+La Paz,20101,La Paz,2021,4,TOTAL,11
+Cochabamba,31205,Puerto Villarroel,2021,4,TOTAL,1
+Santa Cruz,71201,San Matias,2021,4,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,TOTAL,13
+Beni,80101,Trinidad,2021,4,TOTAL,6
+Santa Cruz,70201,Warnes,2021,4,TOTAL,3
+Beni,80501,San Ignacio,2021,6,TOTAL,1
+Santa Cruz,71201,San Matias,2021,6,TOTAL,1
+Cochabamba,31101,Tapacari,2021,6,TOTAL,1
+Cochabamba,31401,Punata,2021,8,TOTAL,10
+Cochabamba,30101,Cochabamba,2021,9,TOTAL,35
+Santa Cruz,70705,Gutierrez,2021,9,TOTAL,2
+Santa Cruz,71003,Mineros,2021,9,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,9,TOTAL,3
+Beni,80102,San Javier(bni),2021,9,TOTAL,1
+Beni,80101,Trinidad,2021,9,TOTAL,6
+Cochabamba,31205,Puerto Villarroel,2021,10,TOTAL,4
+La Paz,20105,El Alto,2021,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,TOTAL,51
+Beni,80101,Trinidad,2021,11,TOTAL,1
+Santa Cruz,71201,San Matias,2021,12,TOTAL,2

@@ -1,0 +1,805 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20201,Achacachi,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,50802,Atocha,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70703,Cabezas,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,12
+Santa Cruz,70706,Camiri,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Oruro,40102,Caracollo,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+La Paz,22001,Caranavi,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,71403,Carmen Rivero Torrez,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,70702,Charagua,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Potosí,50202,Chayanta,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Cochabamba,30101,Cochabamba,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,26
+Potosí,50401,Colquechaca,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20301,Coro Coro,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20105,El Alto,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,70105,El Torno,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,70705,Gutierrez,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Beni,80803,Huaracaje,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+La Paz,21501,Ixiamas,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20101,La Paz,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,13
+La Paz,20901,Luribay,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Beni,80801,Magdalena,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20103,Mecapaca,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Chuquisaca,10501,Monteagudo,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,70202,Okinawa,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,50101,Potosi,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,34
+Potosí,50402,Ravelo,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80201,Riberalta,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,14
+Potosí,50701,Sacaca,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,51003,San Antonio De Esmoruco,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,71105,San Antonio De Lomerio,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Beni,80302,San Borja,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+Beni,80501,San Ignacio,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,28
+Tarija,60501,San Lorenzo(tja),2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50405,San Pedro De Macha,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,50902,San Pedro De Quemes,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,43
+Tarija,60101,Tarija,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,15
+Potosí,50801,Tupiza,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,18
+La Paz,20801,Viacha,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,38
+Tarija,60303,Villa Montes,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Santa Cruz,70201,Warnes,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,144
+La Paz,20903,Yaco,2021,1,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,51302,Acacio,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20201,Achacachi,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Tarija,60202,Bermejo,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70706,Camiri,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,71403,Carmen Rivero Torrez,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Potosí,50202,Chayanta,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20301,Coro Coro,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50601,Cotagaita,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20105,El Alto,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,70705,Gutierrez,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Beni,80803,Huaracaje,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20101,La Paz,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Santa Cruz,70202,Okinawa,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+La Paz,20102,Palca,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Potosí,50101,Potosi,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Potosí,50402,Ravelo,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80301,Reyes,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Beni,80201,Riberalta,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Potosí,50701,Sacaca,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Beni,80302,San Borja,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Beni,80501,San Ignacio,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Tarija,60501,San Lorenzo(tja),2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50405,San Pedro De Macha,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,45
+Tarija,60101,Tarija,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Potosí,50801,Tupiza,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+La Paz,21302,Umala,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20801,Viacha,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,14
+Santa Cruz,70201,Warnes,2021,2,Ninas(os) menores de 6 meses con dosis completa de hierro,42
+Potosí,51302,Acacio,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20201,Achacachi,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70703,Cabezas,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,35
+Santa Cruz,70706,Camiri,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,38
+Oruro,40102,Caracollo,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,70702,Charagua,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Potosí,50202,Chayanta,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Potosí,50901,"Colcha ""k""",2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50601,Cotagaita,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20105,El Alto,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,30
+Santa Cruz,70105,El Torno,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,20
+Santa Cruz,70705,Gutierrez,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Beni,80803,Huaracaje,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+La Paz,21501,Ixiamas,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20101,La Paz,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,63
+Santa Cruz,70701,Lagunillas,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Chuquisaca,10501,Monteagudo,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,70202,Okinawa,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,71401,Puerto Suarez,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,50701,Sacaca,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,51601,San Agustin,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,51003,San Antonio De Esmoruco,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80302,San Borja,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Beni,80501,San Ignacio,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Tarija,60501,San Lorenzo(tja),2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Potosí,50405,San Pedro De Macha,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,69
+Tarija,60101,Tarija,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,15
+Potosí,50801,Tupiza,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,10
+Potosí,50201,Uncia,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,51201,Uyuni,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70201,Warnes,2021,3,Ninas(os) menores de 6 meses con dosis completa de hierro,144
+La Paz,20201,Achacachi,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20104,Achocalla,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80802,Baures,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70703,Cabezas,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Santa Cruz,70706,Camiri,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,70702,Charagua,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50202,Chayanta,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,50401,Colquechaca,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20105,El Alto,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,28
+Santa Cruz,70105,El Torno,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Beni,80202,Guayaramerin,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,13
+Santa Cruz,70705,Gutierrez,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+La Paz,21501,Ixiamas,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70104,La Guardia,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+La Paz,20101,La Paz,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,31
+Potosí,51401,Llica,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+La Paz,20103,Mecapaca,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Chuquisaca,10501,Monteagudo,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70202,Okinawa,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+La Paz,20102,Palca,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Oruro,40601,Poopo,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70103,Porongo,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,50101,Potosi,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,37
+Potosí,51101,Puna,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80201,Riberalta,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,21
+Potosí,50701,Sacaca,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Beni,80302,San Borja,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80501,San Ignacio,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Tarija,60501,San Lorenzo(tja),2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,36
+Tarija,60101,Tarija,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Potosí,50801,Tupiza,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,10
+La Paz,21302,Umala,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20801,Viacha,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Santa Cruz,70201,Warnes,2021,4,Ninas(os) menores de 6 meses con dosis completa de hierro,110
+La Paz,20201,Achacachi,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70703,Cabezas,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Santa Cruz,70706,Camiri,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,25
+Potosí,50202,Chayanta,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Potosí,50401,Colquechaca,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50601,Cotagaita,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20105,El Alto,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,35
+Santa Cruz,70105,El Torno,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,70705,Gutierrez,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+La Paz,20101,La Paz,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,32
+La Paz,20103,Mecapaca,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Santa Cruz,70202,Okinawa,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Oruro,40101,Oruro,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,15
+La Paz,20102,Palca,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Potosí,50101,Potosi,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,71401,Puerto Suarez,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Beni,80301,Reyes,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Beni,80201,Riberalta,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Potosí,50701,Sacaca,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Beni,80302,San Borja,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80501,San Ignacio,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Tarija,60501,San Lorenzo(tja),2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Potosí,50501,San Pedro De Buena Vista,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Potosí,50405,San Pedro De Macha,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,51402,Tahua,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Tarija,60101,Tarija,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Potosí,50801,Tupiza,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,20
+Santa Cruz,71502,Urubicha,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20801,Viacha,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70201,Warnes,2021,5,Ninas(os) menores de 6 meses con dosis completa de hierro,100
+Santa Cruz,71501,Ascencion De Guarayos,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70703,Cabezas,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Santa Cruz,70706,Camiri,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Oruro,40102,Caracollo,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70702,Charagua,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Cochabamba,30101,Cochabamba,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,14
+Cochabamba,30905,Colcapirhua,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,13
+Potosí,50401,Colquechaca,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,71101,Concepcion,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,25
+Potosí,50601,Cotagaita,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20105,El Alto,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,22
+Santa Cruz,70105,El Torno,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80202,Guayaramerin,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70705,Gutierrez,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Oruro,40701,Huanuni,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+La Paz,21501,Ixiamas,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70104,La Guardia,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+La Paz,20101,La Paz,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,34
+Beni,80801,Magdalena,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Chuquisaca,10501,Monteagudo,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Santa Cruz,70202,Okinawa,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Oruro,40101,Oruro,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,22
+Potosí,50403,Pocoata,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Santa Cruz,70103,Porongo,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Potosí,50101,Potosi,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+Santa Cruz,71402,Puerto Quijarro,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,16
+Santa Cruz,71401,Puerto Suarez,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80201,Riberalta,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Potosí,50701,Sacaca,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80302,San Borja,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80501,San Ignacio,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,71104,San Julian,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Beni,80401,Santa Ana,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,32
+Tarija,60101,Tarija,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,50
+Potosí,50801,Tupiza,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,12
+La Paz,20801,Viacha,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+Tarija,60303,Villa Montes,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Santa Cruz,70201,Warnes,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,25
+Tarija,60301,Yacuiba,2021,6,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Tarija,60202,Bermejo,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Chuquisaca,10701,Camargo,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70706,Camiri,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+Oruro,40102,Caracollo,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Cochabamba,30801,Cliza,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Cochabamba,30101,Cochabamba,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Cochabamba,30905,Colcapirhua,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,23
+Santa Cruz,71101,Concepcion,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,13
+Potosí,50601,Cotagaita,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20105,El Alto,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,22
+Santa Cruz,70105,El Torno,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Cochabamba,31206,Entre Rios Cbba,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20405,Escoma,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70104,La Guardia,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,41
+La Paz,20101,La Paz,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,16
+Oruro,40101,Oruro,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,23
+Santa Cruz,70502,Pailon,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,70103,Porongo,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50101,Potosi,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,71401,Puerto Suarez,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Beni,80301,Reyes,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80201,Riberalta,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80302,San Borja,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80501,San Ignacio,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Santa Cruz,70404,San Juan De Yapacani,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,21
+Beni,80303,Santa Rosa,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Tarija,60101,Tarija,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Potosí,50801,Tupiza,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+La Paz,20801,Viacha,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+Tarija,60303,Villa Montes,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,70201,Warnes,2021,7,Ninas(os) menores de 6 meses con dosis completa de hierro,13
+Santa Cruz,70703,Cabezas,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,70706,Camiri,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Cochabamba,30101,Cochabamba,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Cochabamba,30905,Colcapirhua,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,36
+La Paz,21004,Colquiri,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,71101,Concepcion,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,19
+La Paz,20105,El Alto,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,90
+Santa Cruz,70105,El Torno,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Cochabamba,31206,Entre Rios Cbba,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80803,Huaracaje,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,21501,Ixiamas,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,70104,La Guardia,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,104
+La Paz,20101,La Paz,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,21
+Santa Cruz,70701,Lagunillas,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80801,Magdalena,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Oruro,40101,Oruro,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,10
+Santa Cruz,70502,Pailon,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,71402,Puerto Quijarro,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,10
+Santa Cruz,71401,Puerto Suarez,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Beni,80301,Reyes,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80201,Riberalta,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Beni,80302,San Borja,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70404,San Juan De Yapacani,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,33
+Tarija,60101,Tarija,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Cochabamba,30903,Tiquipaya,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Potosí,50801,Tupiza,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Tarija,60303,Villa Montes,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,70201,Warnes,2021,8,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+La Paz,20201,Achacachi,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80802,Baures,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,70703,Cabezas,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,70706,Camiri,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Santa Cruz,71403,Carmen Rivero Torrez,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Cochabamba,30101,Cochabamba,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+Santa Cruz,71101,Concepcion,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,35
+La Paz,20105,El Alto,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,18
+Santa Cruz,70105,El Torno,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Cochabamba,31206,Entre Rios Cbba,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70705,Gutierrez,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80803,Huaracaje,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+La Paz,21501,Ixiamas,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70104,La Guardia,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,65
+La Paz,20101,La Paz,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,23
+Santa Cruz,70701,Lagunillas,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Oruro,40101,Oruro,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70502,Pailon,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+Potosí,50101,Potosi,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,12
+Santa Cruz,71402,Puerto Quijarro,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Santa Cruz,71401,Puerto Suarez,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Beni,80201,Riberalta,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Beni,80302,San Borja,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70402,San Carlos,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80501,San Ignacio,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,69
+Tarija,60101,Tarija,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Potosí,50801,Tupiza,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+La Paz,20801,Viacha,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Tarija,60303,Villa Montes,2021,9,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Potosí,50802,Atocha,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70703,Cabezas,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Santa Cruz,70706,Camiri,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,17
+Cochabamba,30101,Cochabamba,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,11
+Santa Cruz,71301,Comarapa,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20105,El Alto,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,27
+Santa Cruz,70105,El Torno,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70705,Gutierrez,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80803,Huaracaje,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Santa Cruz,70104,La Guardia,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,36
+La Paz,20101,La Paz,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,14
+Santa Cruz,70701,Lagunillas,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20901,Luribay,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80801,Magdalena,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50101,Potosi,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Santa Cruz,71402,Puerto Quijarro,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,18
+Santa Cruz,71401,Puerto Suarez,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Beni,80301,Reyes,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80201,Riberalta,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Beni,80302,San Borja,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,70402,San Carlos,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80501,San Ignacio,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,32
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,97
+Oruro,40104,Soracachi,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Tarija,60101,Tarija,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,5
+Potosí,50801,Tupiza,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,19
+Tarija,60303,Villa Montes,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Santa Cruz,70201,Warnes,2021,10,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+La Paz,20201,Achacachi,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,14
+Potosí,50802,Atocha,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Tarija,60202,Bermejo,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70703,Cabezas,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,9
+Santa Cruz,70702,Charagua,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Cochabamba,30101,Cochabamba,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Cochabamba,30905,Colcapirhua,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,71101,Concepcion,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20804,Desaguadero,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+La Paz,20105,El Alto,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,46
+Santa Cruz,70105,El Torno,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,10
+Cochabamba,31206,Entre Rios Cbba,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,70705,Gutierrez,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80803,Huaracaje,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,21501,Ixiamas,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20101,La Paz,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,43
+Santa Cruz,70701,Lagunillas,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80801,Magdalena,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Oruro,40101,Oruro,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Santa Cruz,70103,Porongo,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Potosí,50101,Potosi,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,71402,Puerto Quijarro,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,15
+Santa Cruz,71401,Puerto Suarez,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Beni,80201,Riberalta,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Beni,80302,San Borja,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Beni,80501,San Ignacio,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,34
+Santa Cruz,71104,San Julian,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,30
+Chuquisaca,10101,Sucre,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Tarija,60101,Tarija,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50801,Tupiza,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,10
+Santa Cruz,71502,Urubicha,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Tarija,60303,Villa Montes,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Santa Cruz,70201,Warnes,2021,11,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,70703,Cabezas,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Santa Cruz,70706,Camiri,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Cochabamba,30701,Capinota,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70702,Charagua,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,8
+Cochabamba,30101,Cochabamba,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,50901,"Colcha ""k""",2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,71301,Comarapa,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20105,El Alto,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,32
+Santa Cruz,70105,El Torno,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,70705,Gutierrez,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,21501,Ixiamas,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+La Paz,20101,La Paz,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,44
+Santa Cruz,70701,Lagunillas,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Beni,80801,Magdalena,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,71001,Montero,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,21
+Santa Cruz,70103,Porongo,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,70601,Portachuelo,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Potosí,50101,Potosi,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,10
+Santa Cruz,71402,Puerto Quijarro,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,22
+Santa Cruz,71401,Puerto Suarez,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,3
+Santa Cruz,71302,Saipina,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Potosí,51003,San Antonio De Esmoruco,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Beni,80302,San Borja,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+Santa Cruz,70402,San Carlos,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,10
+Beni,80501,San Ignacio,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Santa Cruz,70404,San Juan De Yapacani,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,89
+Tarija,60101,Tarija,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,6
+Potosí,50801,Tupiza,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,71502,Urubicha,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Tarija,60303,Villa Montes,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,7
+Potosí,51501,Villazon,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,1
+Santa Cruz,70201,Warnes,2021,12,Ninas(os) menores de 6 meses con dosis completa de hierro,2
+La Paz,20201,Achacachi,2021,1,TOTAL,2
+Potosí,50802,Atocha,2021,1,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,1,TOTAL,12
+Santa Cruz,70706,Camiri,2021,1,TOTAL,2
+Oruro,40102,Caracollo,2021,1,TOTAL,4
+La Paz,22001,Caranavi,2021,1,TOTAL,2
+Santa Cruz,71403,Carmen Rivero Torrez,2021,1,TOTAL,3
+Santa Cruz,70702,Charagua,2021,1,TOTAL,3
+Potosí,50202,Chayanta,2021,1,TOTAL,5
+Cochabamba,30101,Cochabamba,2021,1,TOTAL,26
+Potosí,50401,Colquechaca,2021,1,TOTAL,1
+La Paz,20301,Coro Coro,2021,1,TOTAL,1
+La Paz,20105,El Alto,2021,1,TOTAL,2
+Santa Cruz,70105,El Torno,2021,1,TOTAL,5
+Santa Cruz,70705,Gutierrez,2021,1,TOTAL,3
+Beni,80803,Huaracaje,2021,1,TOTAL,3
+La Paz,21501,Ixiamas,2021,1,TOTAL,1
+La Paz,20101,La Paz,2021,1,TOTAL,13
+La Paz,20901,Luribay,2021,1,TOTAL,4
+Beni,80801,Magdalena,2021,1,TOTAL,1
+La Paz,20103,Mecapaca,2021,1,TOTAL,5
+Chuquisaca,10501,Monteagudo,2021,1,TOTAL,2
+Santa Cruz,70202,Okinawa,2021,1,TOTAL,2
+Potosí,50101,Potosi,2021,1,TOTAL,34
+Potosí,50402,Ravelo,2021,1,TOTAL,1
+Beni,80201,Riberalta,2021,1,TOTAL,14
+Potosí,50701,Sacaca,2021,1,TOTAL,2
+Potosí,51003,San Antonio De Esmoruco,2021,1,TOTAL,2
+Santa Cruz,71105,San Antonio De Lomerio,2021,1,TOTAL,4
+Beni,80302,San Borja,2021,1,TOTAL,9
+Beni,80501,San Ignacio,2021,1,TOTAL,28
+Tarija,60501,San Lorenzo(tja),2021,1,TOTAL,1
+Potosí,50405,San Pedro De Macha,2021,1,TOTAL,2
+Potosí,50902,San Pedro De Quemes,2021,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,1,TOTAL,43
+Tarija,60101,Tarija,2021,1,TOTAL,15
+Potosí,50801,Tupiza,2021,1,TOTAL,18
+La Paz,20801,Viacha,2021,1,TOTAL,38
+Tarija,60303,Villa Montes,2021,1,TOTAL,4
+Santa Cruz,70201,Warnes,2021,1,TOTAL,144
+La Paz,20903,Yaco,2021,1,TOTAL,1
+Potosí,51302,Acacio,2021,2,TOTAL,2
+La Paz,20201,Achacachi,2021,2,TOTAL,2
+Tarija,60202,Bermejo,2021,2,TOTAL,1
+Santa Cruz,70706,Camiri,2021,2,TOTAL,5
+Santa Cruz,71403,Carmen Rivero Torrez,2021,2,TOTAL,3
+Potosí,50202,Chayanta,2021,2,TOTAL,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,2,TOTAL,2
+La Paz,20301,Coro Coro,2021,2,TOTAL,1
+Potosí,50601,Cotagaita,2021,2,TOTAL,1
+La Paz,20105,El Alto,2021,2,TOTAL,5
+Santa Cruz,70705,Gutierrez,2021,2,TOTAL,3
+Beni,80803,Huaracaje,2021,2,TOTAL,2
+La Paz,20101,La Paz,2021,2,TOTAL,11
+Santa Cruz,70202,Okinawa,2021,2,TOTAL,4
+La Paz,20102,Palca,2021,2,TOTAL,4
+Potosí,50101,Potosi,2021,2,TOTAL,11
+Potosí,50402,Ravelo,2021,2,TOTAL,1
+Beni,80301,Reyes,2021,2,TOTAL,4
+Beni,80201,Riberalta,2021,2,TOTAL,4
+Potosí,50701,Sacaca,2021,2,TOTAL,3
+Beni,80302,San Borja,2021,2,TOTAL,6
+Beni,80501,San Ignacio,2021,2,TOTAL,7
+Tarija,60501,San Lorenzo(tja),2021,2,TOTAL,1
+Potosí,50405,San Pedro De Macha,2021,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,2,TOTAL,45
+Tarija,60101,Tarija,2021,2,TOTAL,4
+Potosí,50801,Tupiza,2021,2,TOTAL,7
+La Paz,21302,Umala,2021,2,TOTAL,1
+La Paz,20801,Viacha,2021,2,TOTAL,14
+Santa Cruz,70201,Warnes,2021,2,TOTAL,42
+Potosí,51302,Acacio,2021,3,TOTAL,2
+La Paz,20201,Achacachi,2021,3,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,3,TOTAL,35
+Santa Cruz,70706,Camiri,2021,3,TOTAL,38
+Oruro,40102,Caracollo,2021,3,TOTAL,3
+Santa Cruz,70702,Charagua,2021,3,TOTAL,11
+Potosí,50202,Chayanta,2021,3,TOTAL,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,3,TOTAL,3
+Potosí,50901,"Colcha ""k""",2021,3,TOTAL,1
+Potosí,50601,Cotagaita,2021,3,TOTAL,1
+La Paz,20105,El Alto,2021,3,TOTAL,30
+Santa Cruz,70105,El Torno,2021,3,TOTAL,20
+Santa Cruz,70705,Gutierrez,2021,3,TOTAL,5
+Beni,80803,Huaracaje,2021,3,TOTAL,3
+La Paz,21501,Ixiamas,2021,3,TOTAL,1
+La Paz,20101,La Paz,2021,3,TOTAL,63
+Santa Cruz,70701,Lagunillas,2021,3,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,3,TOTAL,2
+Santa Cruz,70202,Okinawa,2021,3,TOTAL,2
+Santa Cruz,71401,Puerto Suarez,2021,3,TOTAL,2
+Potosí,50701,Sacaca,2021,3,TOTAL,1
+Potosí,51601,San Agustin,2021,3,TOTAL,1
+Potosí,51003,San Antonio De Esmoruco,2021,3,TOTAL,1
+Beni,80302,San Borja,2021,3,TOTAL,3
+Beni,80501,San Ignacio,2021,3,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2021,3,TOTAL,5
+Potosí,50405,San Pedro De Macha,2021,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,3,TOTAL,69
+Tarija,60101,Tarija,2021,3,TOTAL,15
+Potosí,50801,Tupiza,2021,3,TOTAL,10
+Potosí,50201,Uncia,2021,3,TOTAL,2
+Potosí,51201,Uyuni,2021,3,TOTAL,1
+Santa Cruz,70201,Warnes,2021,3,TOTAL,144
+La Paz,20201,Achacachi,2021,4,TOTAL,1
+La Paz,20104,Achocalla,2021,4,TOTAL,2
+Beni,80802,Baures,2021,4,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,4,TOTAL,6
+Santa Cruz,70706,Camiri,2021,4,TOTAL,5
+Santa Cruz,70702,Charagua,2021,4,TOTAL,1
+Potosí,50202,Chayanta,2021,4,TOTAL,5
+Potosí,50204,Chuquihuta Ayllu Jucumani,2021,4,TOTAL,2
+Potosí,50401,Colquechaca,2021,4,TOTAL,1
+La Paz,20105,El Alto,2021,4,TOTAL,28
+Santa Cruz,70105,El Torno,2021,4,TOTAL,4
+Beni,80202,Guayaramerin,2021,4,TOTAL,13
+Santa Cruz,70705,Gutierrez,2021,4,TOTAL,5
+La Paz,21501,Ixiamas,2021,4,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,4,TOTAL,6
+La Paz,20101,La Paz,2021,4,TOTAL,31
+Potosí,51401,Llica,2021,4,TOTAL,6
+La Paz,20103,Mecapaca,2021,4,TOTAL,3
+Chuquisaca,10501,Monteagudo,2021,4,TOTAL,1
+Santa Cruz,70202,Okinawa,2021,4,TOTAL,8
+La Paz,20102,Palca,2021,4,TOTAL,4
+Oruro,40601,Poopo,2021,4,TOTAL,1
+Santa Cruz,70103,Porongo,2021,4,TOTAL,2
+Potosí,50101,Potosi,2021,4,TOTAL,37
+Potosí,51101,Puna,2021,4,TOTAL,1
+Beni,80201,Riberalta,2021,4,TOTAL,21
+Potosí,50701,Sacaca,2021,4,TOTAL,3
+Beni,80302,San Borja,2021,4,TOTAL,1
+Beni,80501,San Ignacio,2021,4,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2021,4,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,4,TOTAL,36
+Tarija,60101,Tarija,2021,4,TOTAL,5
+Potosí,50801,Tupiza,2021,4,TOTAL,10
+La Paz,21302,Umala,2021,4,TOTAL,1
+La Paz,20801,Viacha,2021,4,TOTAL,4
+Santa Cruz,70201,Warnes,2021,4,TOTAL,110
+La Paz,20201,Achacachi,2021,5,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,5,TOTAL,8
+Santa Cruz,70706,Camiri,2021,5,TOTAL,25
+Potosí,50202,Chayanta,2021,5,TOTAL,4
+Potosí,50401,Colquechaca,2021,5,TOTAL,1
+Potosí,50601,Cotagaita,2021,5,TOTAL,2
+La Paz,20105,El Alto,2021,5,TOTAL,35
+Santa Cruz,70105,El Torno,2021,5,TOTAL,5
+Santa Cruz,70705,Gutierrez,2021,5,TOTAL,3
+La Paz,20101,La Paz,2021,5,TOTAL,32
+La Paz,20103,Mecapaca,2021,5,TOTAL,4
+Santa Cruz,70202,Okinawa,2021,5,TOTAL,2
+Oruro,40101,Oruro,2021,5,TOTAL,15
+La Paz,20102,Palca,2021,5,TOTAL,5
+Potosí,50101,Potosi,2021,5,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2021,5,TOTAL,6
+Beni,80301,Reyes,2021,5,TOTAL,3
+Beni,80201,Riberalta,2021,5,TOTAL,5
+Potosí,50701,Sacaca,2021,5,TOTAL,4
+Beni,80302,San Borja,2021,5,TOTAL,1
+Beni,80501,San Ignacio,2021,5,TOTAL,4
+Tarija,60501,San Lorenzo(tja),2021,5,TOTAL,5
+Potosí,50501,San Pedro De Buena Vista,2021,5,TOTAL,3
+Potosí,50405,San Pedro De Macha,2021,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,5,TOTAL,2
+Potosí,51402,Tahua,2021,5,TOTAL,2
+Tarija,60101,Tarija,2021,5,TOTAL,11
+Potosí,50801,Tupiza,2021,5,TOTAL,20
+Santa Cruz,71502,Urubicha,2021,5,TOTAL,2
+La Paz,20801,Viacha,2021,5,TOTAL,1
+Santa Cruz,70201,Warnes,2021,5,TOTAL,100
+Santa Cruz,71501,Ascencion De Guarayos,2021,6,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,6,TOTAL,11
+Santa Cruz,70706,Camiri,2021,6,TOTAL,4
+Oruro,40102,Caracollo,2021,6,TOTAL,1
+Santa Cruz,70702,Charagua,2021,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2021,6,TOTAL,14
+Cochabamba,30905,Colcapirhua,2021,6,TOTAL,13
+Potosí,50401,Colquechaca,2021,6,TOTAL,1
+Santa Cruz,71101,Concepcion,2021,6,TOTAL,25
+Potosí,50601,Cotagaita,2021,6,TOTAL,2
+La Paz,20105,El Alto,2021,6,TOTAL,22
+Santa Cruz,70105,El Torno,2021,6,TOTAL,2
+Beni,80202,Guayaramerin,2021,6,TOTAL,1
+Santa Cruz,70705,Gutierrez,2021,6,TOTAL,1
+Oruro,40701,Huanuni,2021,6,TOTAL,9
+La Paz,21501,Ixiamas,2021,6,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,6,TOTAL,5
+La Paz,20101,La Paz,2021,6,TOTAL,34
+Beni,80801,Magdalena,2021,6,TOTAL,1
+Chuquisaca,10501,Monteagudo,2021,6,TOTAL,7
+Santa Cruz,70202,Okinawa,2021,6,TOTAL,11
+Oruro,40101,Oruro,2021,6,TOTAL,22
+Potosí,50403,Pocoata,2021,6,TOTAL,4
+Santa Cruz,70103,Porongo,2021,6,TOTAL,8
+Potosí,50101,Potosi,2021,6,TOTAL,9
+Santa Cruz,71402,Puerto Quijarro,2021,6,TOTAL,16
+Santa Cruz,71401,Puerto Suarez,2021,6,TOTAL,2
+Beni,80201,Riberalta,2021,6,TOTAL,7
+Potosí,50701,Sacaca,2021,6,TOTAL,1
+Beni,80302,San Borja,2021,6,TOTAL,2
+Beni,80501,San Ignacio,2021,6,TOTAL,5
+Santa Cruz,71104,San Julian,2021,6,TOTAL,7
+Beni,80401,Santa Ana,2021,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,6,TOTAL,32
+Tarija,60101,Tarija,2021,6,TOTAL,50
+Potosí,50801,Tupiza,2021,6,TOTAL,12
+La Paz,20801,Viacha,2021,6,TOTAL,9
+Tarija,60303,Villa Montes,2021,6,TOTAL,4
+Santa Cruz,70201,Warnes,2021,6,TOTAL,25
+Tarija,60301,Yacuiba,2021,6,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,7,TOTAL,1
+Tarija,60202,Bermejo,2021,7,TOTAL,1
+Chuquisaca,10701,Camargo,2021,7,TOTAL,1
+Santa Cruz,70706,Camiri,2021,7,TOTAL,9
+Oruro,40102,Caracollo,2021,7,TOTAL,1
+Cochabamba,30801,Cliza,2021,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2021,7,TOTAL,5
+Cochabamba,30905,Colcapirhua,2021,7,TOTAL,23
+Santa Cruz,71101,Concepcion,2021,7,TOTAL,13
+Potosí,50601,Cotagaita,2021,7,TOTAL,2
+La Paz,20105,El Alto,2021,7,TOTAL,22
+Santa Cruz,70105,El Torno,2021,7,TOTAL,3
+Cochabamba,31206,Entre Rios Cbba,2021,7,TOTAL,1
+La Paz,20405,Escoma,2021,7,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,7,TOTAL,41
+La Paz,20101,La Paz,2021,7,TOTAL,16
+Oruro,40101,Oruro,2021,7,TOTAL,23
+Santa Cruz,70502,Pailon,2021,7,TOTAL,5
+Santa Cruz,70103,Porongo,2021,7,TOTAL,1
+Potosí,50101,Potosi,2021,7,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2021,7,TOTAL,11
+Beni,80301,Reyes,2021,7,TOTAL,1
+Beni,80201,Riberalta,2021,7,TOTAL,1
+Beni,80302,San Borja,2021,7,TOTAL,2
+Beni,80501,San Ignacio,2021,7,TOTAL,6
+Santa Cruz,70404,San Juan De Yapacani,2021,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,7,TOTAL,21
+Beni,80303,Santa Rosa,2021,7,TOTAL,2
+Tarija,60101,Tarija,2021,7,TOTAL,3
+Potosí,50801,Tupiza,2021,7,TOTAL,11
+La Paz,20801,Viacha,2021,7,TOTAL,9
+Tarija,60303,Villa Montes,2021,7,TOTAL,3
+Santa Cruz,70201,Warnes,2021,7,TOTAL,13
+Santa Cruz,70703,Cabezas,2021,8,TOTAL,5
+Santa Cruz,70706,Camiri,2021,8,TOTAL,7
+Cochabamba,30101,Cochabamba,2021,8,TOTAL,8
+Cochabamba,30905,Colcapirhua,2021,8,TOTAL,36
+La Paz,21004,Colquiri,2021,8,TOTAL,2
+Santa Cruz,71101,Concepcion,2021,8,TOTAL,19
+La Paz,20105,El Alto,2021,8,TOTAL,90
+Santa Cruz,70105,El Torno,2021,8,TOTAL,3
+Cochabamba,31206,Entre Rios Cbba,2021,8,TOTAL,2
+Beni,80803,Huaracaje,2021,8,TOTAL,2
+La Paz,21501,Ixiamas,2021,8,TOTAL,3
+Santa Cruz,70104,La Guardia,2021,8,TOTAL,104
+La Paz,20101,La Paz,2021,8,TOTAL,21
+Santa Cruz,70701,Lagunillas,2021,8,TOTAL,1
+Beni,80801,Magdalena,2021,8,TOTAL,1
+Oruro,40101,Oruro,2021,8,TOTAL,10
+Santa Cruz,70502,Pailon,2021,8,TOTAL,5
+Santa Cruz,71402,Puerto Quijarro,2021,8,TOTAL,10
+Santa Cruz,71401,Puerto Suarez,2021,8,TOTAL,7
+Beni,80301,Reyes,2021,8,TOTAL,1
+Beni,80201,Riberalta,2021,8,TOTAL,4
+Beni,80302,San Borja,2021,8,TOTAL,1
+Santa Cruz,70404,San Juan De Yapacani,2021,8,TOTAL,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,8,TOTAL,33
+Tarija,60101,Tarija,2021,8,TOTAL,4
+Cochabamba,30903,Tiquipaya,2021,8,TOTAL,3
+Potosí,50801,Tupiza,2021,8,TOTAL,11
+Tarija,60303,Villa Montes,2021,8,TOTAL,3
+Santa Cruz,70201,Warnes,2021,8,TOTAL,9
+La Paz,20201,Achacachi,2021,9,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,9,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,9,TOTAL,1
+Beni,80802,Baures,2021,9,TOTAL,2
+Santa Cruz,70703,Cabezas,2021,9,TOTAL,3
+Santa Cruz,70706,Camiri,2021,9,TOTAL,8
+Santa Cruz,71403,Carmen Rivero Torrez,2021,9,TOTAL,3
+Cochabamba,30101,Cochabamba,2021,9,TOTAL,9
+Santa Cruz,71101,Concepcion,2021,9,TOTAL,35
+La Paz,20105,El Alto,2021,9,TOTAL,18
+Santa Cruz,70105,El Torno,2021,9,TOTAL,4
+Cochabamba,31206,Entre Rios Cbba,2021,9,TOTAL,1
+Santa Cruz,70705,Gutierrez,2021,9,TOTAL,2
+Beni,80803,Huaracaje,2021,9,TOTAL,3
+La Paz,21501,Ixiamas,2021,9,TOTAL,1
+Santa Cruz,70104,La Guardia,2021,9,TOTAL,65
+La Paz,20101,La Paz,2021,9,TOTAL,23
+Santa Cruz,70701,Lagunillas,2021,9,TOTAL,6
+Oruro,40101,Oruro,2021,9,TOTAL,1
+Santa Cruz,70502,Pailon,2021,9,TOTAL,9
+Potosí,50101,Potosi,2021,9,TOTAL,12
+Santa Cruz,71402,Puerto Quijarro,2021,9,TOTAL,11
+Santa Cruz,71401,Puerto Suarez,2021,9,TOTAL,7
+Beni,80201,Riberalta,2021,9,TOTAL,8
+Beni,80302,San Borja,2021,9,TOTAL,1
+Santa Cruz,70402,San Carlos,2021,9,TOTAL,1
+Beni,80501,San Ignacio,2021,9,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,9,TOTAL,69
+Tarija,60101,Tarija,2021,9,TOTAL,3
+Potosí,50801,Tupiza,2021,9,TOTAL,4
+La Paz,20801,Viacha,2021,9,TOTAL,5
+Tarija,60303,Villa Montes,2021,9,TOTAL,4
+Potosí,50802,Atocha,2021,10,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,10,TOTAL,6
+Santa Cruz,70706,Camiri,2021,10,TOTAL,17
+Cochabamba,30101,Cochabamba,2021,10,TOTAL,11
+Santa Cruz,71301,Comarapa,2021,10,TOTAL,1
+La Paz,20105,El Alto,2021,10,TOTAL,27
+Santa Cruz,70105,El Torno,2021,10,TOTAL,1
+Santa Cruz,70705,Gutierrez,2021,10,TOTAL,1
+Beni,80803,Huaracaje,2021,10,TOTAL,6
+Santa Cruz,70104,La Guardia,2021,10,TOTAL,36
+La Paz,20101,La Paz,2021,10,TOTAL,14
+Santa Cruz,70701,Lagunillas,2021,10,TOTAL,2
+La Paz,20901,Luribay,2021,10,TOTAL,2
+Beni,80801,Magdalena,2021,10,TOTAL,1
+Potosí,50101,Potosi,2021,10,TOTAL,6
+Santa Cruz,71402,Puerto Quijarro,2021,10,TOTAL,18
+Santa Cruz,71401,Puerto Suarez,2021,10,TOTAL,8
+Beni,80301,Reyes,2021,10,TOTAL,1
+Beni,80201,Riberalta,2021,10,TOTAL,6
+Beni,80302,San Borja,2021,10,TOTAL,3
+Santa Cruz,70402,San Carlos,2021,10,TOTAL,2
+Beni,80501,San Ignacio,2021,10,TOTAL,32
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,10,TOTAL,97
+Oruro,40104,Soracachi,2021,10,TOTAL,1
+Tarija,60101,Tarija,2021,10,TOTAL,5
+Potosí,50801,Tupiza,2021,10,TOTAL,19
+Tarija,60303,Villa Montes,2021,10,TOTAL,4
+Santa Cruz,70201,Warnes,2021,10,TOTAL,4
+La Paz,20201,Achacachi,2021,11,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2021,11,TOTAL,14
+Potosí,50802,Atocha,2021,11,TOTAL,1
+Tarija,60202,Bermejo,2021,11,TOTAL,1
+Santa Cruz,70703,Cabezas,2021,11,TOTAL,9
+Santa Cruz,70702,Charagua,2021,11,TOTAL,2
+Cochabamba,30101,Cochabamba,2021,11,TOTAL,8
+Cochabamba,30905,Colcapirhua,2021,11,TOTAL,1
+Santa Cruz,71101,Concepcion,2021,11,TOTAL,1
+La Paz,20804,Desaguadero,2021,11,TOTAL,1
+La Paz,20105,El Alto,2021,11,TOTAL,46
+Santa Cruz,70105,El Torno,2021,11,TOTAL,10
+Cochabamba,31206,Entre Rios Cbba,2021,11,TOTAL,3
+Santa Cruz,70705,Gutierrez,2021,11,TOTAL,2
+Beni,80803,Huaracaje,2021,11,TOTAL,2
+La Paz,21501,Ixiamas,2021,11,TOTAL,2
+La Paz,20101,La Paz,2021,11,TOTAL,43
+Santa Cruz,70701,Lagunillas,2021,11,TOTAL,1
+Beni,80801,Magdalena,2021,11,TOTAL,1
+Oruro,40101,Oruro,2021,11,TOTAL,6
+Santa Cruz,70103,Porongo,2021,11,TOTAL,8
+Potosí,50101,Potosi,2021,11,TOTAL,3
+Santa Cruz,71402,Puerto Quijarro,2021,11,TOTAL,15
+Santa Cruz,71401,Puerto Suarez,2021,11,TOTAL,6
+Beni,80201,Riberalta,2021,11,TOTAL,3
+Beni,80302,San Borja,2021,11,TOTAL,3
+Beni,80501,San Ignacio,2021,11,TOTAL,34
+Santa Cruz,71104,San Julian,2021,11,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,11,TOTAL,30
+Chuquisaca,10101,Sucre,2021,11,TOTAL,3
+Tarija,60101,Tarija,2021,11,TOTAL,1
+Potosí,50801,Tupiza,2021,11,TOTAL,10
+Santa Cruz,71502,Urubicha,2021,11,TOTAL,1
+Tarija,60303,Villa Montes,2021,11,TOTAL,7
+Santa Cruz,70201,Warnes,2021,11,TOTAL,3
+Cochabamba,30301,Ayopaya (v. De Independencia),2021,12,TOTAL,3
+Santa Cruz,70703,Cabezas,2021,12,TOTAL,6
+Santa Cruz,70706,Camiri,2021,12,TOTAL,8
+Cochabamba,30701,Capinota,2021,12,TOTAL,1
+Santa Cruz,70702,Charagua,2021,12,TOTAL,8
+Cochabamba,30101,Cochabamba,2021,12,TOTAL,2
+Potosí,50901,"Colcha ""k""",2021,12,TOTAL,2
+Santa Cruz,71301,Comarapa,2021,12,TOTAL,2
+La Paz,20105,El Alto,2021,12,TOTAL,32
+Santa Cruz,70105,El Torno,2021,12,TOTAL,2
+Santa Cruz,70705,Gutierrez,2021,12,TOTAL,2
+La Paz,21501,Ixiamas,2021,12,TOTAL,3
+La Paz,20101,La Paz,2021,12,TOTAL,44
+Santa Cruz,70701,Lagunillas,2021,12,TOTAL,2
+Beni,80801,Magdalena,2021,12,TOTAL,2
+Santa Cruz,71001,Montero,2021,12,TOTAL,21
+Santa Cruz,70103,Porongo,2021,12,TOTAL,2
+Santa Cruz,70601,Portachuelo,2021,12,TOTAL,1
+Potosí,50101,Potosi,2021,12,TOTAL,10
+Santa Cruz,71402,Puerto Quijarro,2021,12,TOTAL,22
+Santa Cruz,71401,Puerto Suarez,2021,12,TOTAL,3
+Santa Cruz,71302,Saipina,2021,12,TOTAL,2
+Potosí,51003,San Antonio De Esmoruco,2021,12,TOTAL,1
+Beni,80302,San Borja,2021,12,TOTAL,2
+Santa Cruz,70402,San Carlos,2021,12,TOTAL,10
+Beni,80501,San Ignacio,2021,12,TOTAL,7
+Santa Cruz,70404,San Juan De Yapacani,2021,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2021,12,TOTAL,89
+Tarija,60101,Tarija,2021,12,TOTAL,6
+Potosí,50801,Tupiza,2021,12,TOTAL,1
+Santa Cruz,71502,Urubicha,2021,12,TOTAL,1
+Tarija,60303,Villa Montes,2021,12,TOTAL,7
+Potosí,51501,Villazon,2021,12,TOTAL,1
+Santa Cruz,70201,Warnes,2021,12,TOTAL,2

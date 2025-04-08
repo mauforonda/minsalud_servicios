@@ -1,0 +1,453 @@
+,group,variable,month,TELEDISPOSITIVOS ECOGRAFO < A 6 MESES,TELEDISPOSITIVOS ECOGRAFO < A 6 MESES,TELEDISPOSITIVOS ECOGRAFO 6 MESES < 1 AÑO,TELEDISPOSITIVOS ECOGRAFO 6 MESES < 1 AÑO,TELEDISPOSITIVOS ECOGRAFO 1 A 4 AÑOS,TELEDISPOSITIVOS ECOGRAFO 1 A 4 AÑOS,TELEDISPOSITIVOS ECOGRAFO 5 A 9 AÑOS,TELEDISPOSITIVOS ECOGRAFO 5 A 9 AÑOS,TELEDISPOSITIVOS ECOGRAFO 10 A 14 AÑOS,TELEDISPOSITIVOS ECOGRAFO 10 A 14 AÑOS,TELEDISPOSITIVOS ECOGRAFO 15 A 19 AÑOS,TELEDISPOSITIVOS ECOGRAFO 15 A 19 AÑOS,TELEDISPOSITIVOS ECOGRAFO 20 A 39 AÑOS,TELEDISPOSITIVOS ECOGRAFO 20 A 39 AÑOS,TELEDISPOSITIVOS ECOGRAFO 40 A 49 AÑOS,TELEDISPOSITIVOS ECOGRAFO 40 A 49 AÑOS,TELEDISPOSITIVOS ECOGRAFO 50 A 59 AÑOS,TELEDISPOSITIVOS ECOGRAFO 50 A 59 AÑOS,TELEDISPOSITIVOS ECOGRAFO 60 A MAS,TELEDISPOSITIVOS ECOGRAFO 60 A MAS,TOTALES,TOTALES,TOTALES
+,,,,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,MASCULINO,FEMENINO,TOTAL MASCULINO,TOTAL FEMENINO,TOTAL
+municipality,,,,,,,,,,,,,,,,,,,,,,,,,,
+APOLO,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,6,0,8,1,3,1,1,0,0,2,18,20
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+CHIMORE,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,1,2,1,2,3,1,1,0,2,3,4,8,12,20
+CHIPAYA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,2,3
+CHUMA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,10,10
+CORO CORO,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,0,1,6,7
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,1,0,5,1,9,10
+CURVA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+GUAQUI,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+HUARINA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+LA PAZ,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,2,4,0,3,1,0,0,0,0,0,3,7,10
+LAGUNILLAS,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,3,4
+MACHACAMARCA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ORURO,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,3
+PORCO,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,4,8
+PUERTO ACOSTA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+PUERTO PEREZ,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,1,0,2,5,7
+QUIME,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,5,4,16,0,0,0,2,0,1,4,24,28
+SALINAS DE GARCI MENDOZA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,3
+SANTIAGO DE MACHACA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TAHUA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TOLEDO,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,7,1,16,0,2,0,1,1,5,2,31,33
+TURCO,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+UNCIA,telesalud,teledispositivos ecografo,2024-01-01,0,1,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,7,7
+VILA VILA,telesalud,teledispositivos ecografo,2024-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,4
+ARQUE,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,1,0,0,0,3,1,6,2,2,0,0,0,1,3,13,16
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,2,1,3
+CHACARILLA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHIPAYA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,1,1,0,1,7,8
+CHOQUE COTA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,1,0,0,0,0,0,9,9
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,2,0,0,0,10,10
+COLQUIRI,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,1,2,0,3,0,2,0,0,1,2,2,9,11
+CURVA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,2,0,0,0,0,1,2,1,1,1,1,0,0,1,6,4,10
+EL CHORO,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,4,4
+EL VILLAR,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,4,5
+GUAQUI,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,1,0,1,6,7
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+HUMANATA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+INQUISIVI,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+JESUS DE MACHACA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,15,1,1,2,1,4,1,8,18,26
+LA PAZ,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,5,5,0,0,0,4,0,9,7,16
+MACHACAMARCA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+PORCO,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,2,0,0,0,0,10,7,17
+PUERTO ACOSTA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,5
+PUERTO CARABUCO,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+PUERTO PEREZ,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,7,0,1,0,0,1,1,2,10,12
+QUIME,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,25,4,13,3,6,0,2,0,0,7,46,53
+SACABAMBA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+SAN BENITO,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,6
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,1,0,0,0,0,1,1,2,0,0,0,0,0,1,2,4,6
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,2,0,2,2,8,5,42,0,4,0,1,1,1,8,60,68
+SANTUARIO DE QUILLACAS,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+SAPAHAQUI,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,4,4
+TIAHUANACU,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,2,2,2,0,1,2,13,15
+TURCO,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,5,5
+VILA VILA,telesalud,teledispositivos ecografo,2024-02-01,0,0,0,0,0,0,0,0,0,2,0,1,0,6,0,1,0,1,1,1,1,12,13
+ALCALA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+APOLO,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,4,0,25,0,1,1,0,0,0,1,30,31
+ARQUE,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,3,4
+CABEZAS,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3,3
+CAIROMA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,5
+CHIPAYA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,7,15,0,2,1,4,2,4,10,26,36
+CHOQUE COTA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,2,0,5,0,0,0,1,0,0,0,9,9
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,2,0,13,13
+"COLCHA ""K""",telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CORO CORO,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,1,2,1,2,7,9
+CURVA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,3,1,4,3,7
+EL CHORO,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+EUREKA (SANTOS MERCADO),telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,21,0,6,0,7,1,1,0,0,0,35,1,36
+GUAQUI,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,1,4,5
+HUACARETA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,2,3,5
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,1,0,0,2,0,2,1,6,1,1,0,1,0,0,3,12,15
+HUARINA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+LA ASUNTA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,3,0,1,4,7,6,5,33,9,192,3,14,7,12,20,9,55,270,325
+LA PAZ,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,0,0,0,0,0,1,5,6
+MACHACAMARCA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+MOCOMOCO,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+MOJOCOYA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,8,3,8,0,3,0,0,2,5,5,25,30
+PORCO,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,1,1,1,5,6
+PRESTO,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,0,2,4,6
+PUERTO PEREZ,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,0,0,0,1,1,3,5,8
+QUIME,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,23,6,18,11,9,8,5,0,0,25,55,80
+SAN BENITO,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,1,2,5,0,0,0,0,0,0,0,6,2,8
+SAN LORENZO(PND),telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,6,4,0,2,0,2,2,0,8,8,16
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,1,4,5
+SAN PEDRO DE QUEMES,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,1,0,0,0,1,7,7,46,1,6,0,2,2,0,12,61,73
+SANTIAGO DE MACHACA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+SAPAHAQUI,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,4,2,4,4,3,9,14,23
+TAHUA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TIAHUANACU,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,1,4,0,4,8,12
+TOCO,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+TODOS SANTOS,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+TOTORA(CBBA),telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TURCO,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+VILA VILA,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,2,3
+WARNES,telesalud,teledispositivos ecografo,2024-03-01,0,0,0,0,0,0,0,0,0,1,0,2,7,19,1,3,3,9,8,18,19,52,71
+ANZALDO,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,3,0,4,0,0,0,2,1,3,1,12,13
+APOLO,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,1,1,0,2,5,0,2,0,0,0,0,3,8,11
+ARAMPAMPA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,3,2,5
+ARQUE,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,1,0,6,1,12,0,1,0,1,0,0,1,21,22
+CAQUIAVIRI,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+CHIPAYA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,4,4
+CHOQUE COTA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,1,0,2,2,4,6,10
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,14,14
+CKOCHAS,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,4,4
+COCHABAMBA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,3,4,12,7,46,72,63,88,151
+COIPASA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+COLLANA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+CORO CORO,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CORQUE,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,3,11,1,2,0,1,0,0,1,0,0,0,0,0,0,0,5,14,19
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,2,0,0,1,0,2,4,0,0,0,1,3,4,6,11,17
+CURVA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,4
+EL CHORO,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAQUI,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,3,4
+GUTIERREZ,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,1,0,1,6,7
+HUMANATA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+JESUS DE MACHACA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,1,0,10,10
+LORETO,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+MACHACAMARCA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MACHARETI,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+PUERTO PEREZ,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,2,1,2,5,7
+QUIME,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,23,6,18,11,9,8,5,0,0,25,55,80
+RAVELO,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,3,4,2,7,3,11,0,15,1,9,1,11,10,57,67
+SACABAMBA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,5
+SAN BENITO,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,2,10,1,1,0,0,0,0,3,12,15
+SAN JUAN DE YAPACANI,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,3,3
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,2,0,1,2,3,0,0,2,0,0,0,4,6,10
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,1,0,0,0,1,6,5,37,2,7,2,2,6,3,17,55,72
+SANTIAGO DE MACHACA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+SAPAHAQUI,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+TIAHUANACU,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,0,5,3,8
+TOLATA,telesalud,teledispositivos ecografo,2024-04-01,8,2,0,0,0,0,0,0,0,0,0,1,0,7,0,2,0,0,0,0,8,12,20
+TURCO,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,2,0,1,0,4,2,6
+UNCIA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+VACAS,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,2,2,4
+VILA VILA,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,3,0,0,0,0,2,5,7
+WARNES,telesalud,teledispositivos ecografo,2024-04-01,0,0,0,0,0,0,0,0,0,0,0,1,18,19,1,12,5,9,12,15,36,56,92
+ANZALDO,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,1,0,2,0,6,0,0,0,1,2,1,2,11,13
+APOLO,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,3,0,9,0,3,0,0,0,1,0,16,16
+ARQUE,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,1,0,0,5,2,18,1,5,1,0,0,0,5,28,33
+CARIPUYO,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CHIMORE,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,1,0,3,0,2,0,19,0,9,0,5,0,1,0,40,40
+CHIPAYA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,1,0,7,7
+CHOQUE COTA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+CHUMA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,3,3,13,0,0,0,0,0,0,3,16,19
+CKOCHAS,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,2,1,0,1,13,14
+"COLCHA ""K""",telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+COLOMI,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,1,3,4
+CORO CORO,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,1,3,4
+CRUZ DE MACHACAMARCA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,1,0,1,0,4,1,0,0,2,6,7,7,15,22
+CURVA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,1,2,1,3,0,1,1,1,2,2,5,9,14
+EL CHORO,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+EL VILLAR,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,4,4,8
+HUACARETA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,2,0,4,2,6
+JESUS DE MACHACA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,3,0,7,7
+LA ASUNTA,telesalud,teledispositivos ecografo,2024-05-01,0,0,1,0,2,2,1,2,3,6,1,24,8,228,4,23,7,10,17,13,44,308,352
+MACHARETI,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+PATACAMAYA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+PORCO,telesalud,teledispositivos ecografo,2024-05-01,0,1,0,0,2,0,1,0,0,0,0,1,1,4,0,0,0,0,0,0,4,6,10
+PUERTO ACOSTA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,2,3
+PUERTO PEREZ,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,4,5
+QUIME,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,5,0,13,2,4,0,0,0,0,2,22,24
+SACABAMBA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,1,0,0,0,2,3,5
+SAN BENITO,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,2,10,1,1,0,0,0,0,3,12,15
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,0,0,3,1,4,5,9
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,1,1,0,8,7,31,2,4,2,2,5,3,17,49,66
+SANTIAGO DE CALLAPA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,4,0,4,3,7
+SAPAHAQUI,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+SUCRE,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,9,0,1,0,0,0,0,0,12,12
+UMALA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,1,0,5,5
+VACAS,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,5,0,2,3,0,2,1,6,9,15
+VILA VILA,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,1,4,5
+WARNES,telesalud,teledispositivos ecografo,2024-05-01,0,0,0,0,0,0,1,0,0,0,1,0,3,5,2,3,1,1,5,2,13,11,24
+ANZALDO,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,2,1,4,1,0,1,0,0,1,3,7,10
+APOLO,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,7,0,32,0,6,0,0,0,0,0,45,45
+ARQUE,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,1,0,4,0,7,0,1,0,1,0,1,0,15,15
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+CARIPUYO,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHIPAYA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,1,0,0,0,0,0,7,7
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,2,23,0,3,0,0,1,1,3,28,31
+CKOCHAS,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,4,4
+COLLANA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,5,5
+COLQUENCHA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,1,1,1,5,6
+COLQUIRI,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CORO CORO,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,3,4
+CURVA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,2,0,1,0,3,1,0,0,0,0,1,1,7,8
+ESCARA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,3,0,0,0,0,0,13,13
+FERNANDEZ ALONSO,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,0,0,0,1,2,4,6
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,5,15,5,4,2,10,2,5,14,34,48
+JESUS DE MACHACA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,2,1,2,5,7
+LA ASUNTA,telesalud,teledispositivos ecografo,2024-06-01,1,1,0,0,0,0,0,2,4,4,1,23,9,198,7,24,9,15,17,18,48,285,333
+LA RIVERA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,1,4,5
+MACHARETI,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,1,2,3,5
+MOCOMOCO,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+NUEVO MANOA (NUEVA ESPERANZA),telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+PORCO,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,1,3,6,1,3,0,0,0,1,0,11,0,1,0,0,0,0,4,23,27
+PUERTO ACOSTA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,2,0,0,0,1,2,4,6
+PUERTO CARABUCO,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+PUERTO PEREZ,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,7,0,0,0,0,1,0,1,8,9
+SACABAMBA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,0,1,1,2,6,8
+SAN BENITO,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,2,5,1,1,0,0,0,0,3,7,10
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,2,0,0,0,2,0,4,0,0,0,2,1,0,1,10,11
+SANTIAGO DE CALLAPA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,1,3,4
+SANTIAGO DE MACHACA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,6,0,16,0,0,0,0,0,1,0,23,23
+SANTUARIO DE QUILLACAS,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,1,3,4
+SAPAHAQUI,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+SICA SICA (VILLA AROMA),telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,0,1,2,2,1,4,10,14
+TODOS SANTOS,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,4,0,0,0,4,3,7
+URUBICHA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,1,2,4,4,9,9,18
+VACAS,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,2,0,6,1,1,1,14,15
+VILA VILA,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,12,0,2,0,0,0,0,0,15,15
+VILLAZON,telesalud,teledispositivos ecografo,2024-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,2,0,1,3,2,3,8,11
+ANZALDO,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,1,0,0,2,10,0,2,3,4,2,5,7,22,29
+APOLO,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,1,0,1,1,0,0,0,4,1,9,1,2,0,0,0,0,4,16,20
+ARQUE,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,4,0,6,0,2,0,3,0,4,0,19,19
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,4,4
+CHIMORE,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,1,2,1,0,2,4,8,2,7,3,3,5,5,16,27,43
+CHIPAYA,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,7,0,1,0,0,2,0,3,9,12
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,8,0,0,0,0,0,15,15
+CKOCHAS,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,3,0,1,0,3,6,7,13
+"COLCHA ""K""",telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+COLLANA,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+COLQUENCHA,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,1,3,4
+CURVA,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,1,0,0,0,0,3,1,6,0,2,1,0,2,1,5,12,17
+EL CHORO,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,3,3
+EL VILLAR,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,2,0,2,11,13
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,3,2,6,1,1,0,1,2,0,5,11,16
+JESUS DE MACHACA,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+LA ASUNTA,telesalud,teledispositivos ecografo,2024-07-01,1,1,0,0,0,0,2,1,0,4,3,28,15,179,5,26,5,9,13,7,44,255,299
+MACHARETI,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,1,1,5,6
+MOCOMOCO,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+ORURO,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+PORCO,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,1,0,1,2,2,4,0,1,0,0,0,0,0,7,4,11
+SAN BENITO,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+SANTIAGO DE CALLAPA,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+SICA SICA (VILLA AROMA),telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,1,1,0,2,0,9,0,1,0,0,1,3,2,16,18
+SUCRE,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,1,4,5
+TURCO,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,1,0,4,4,2,4,14,18
+VACAS,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,1,0,0,0,0,1,0,2,0,2,1,0,2,1,1,5,5,11,16
+VILA VILA,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+YUNCHARA,telesalud,teledispositivos ecografo,2024-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,0,1,0,1,3,5,8
+ANCORAIMES,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,0,0,1,5,6
+ANZALDO,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,1,0,7,7
+ARQUE,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,6,0,12,0,2,0,0,0,1,0,21,21
+ASCENCION DE GUARAYOS,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,9,0,0,0,0,1,1,1,11,12
+CAQUIAVIRI,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CATACORA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,1,0,5,5
+CHIPAYA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,12,12
+CKOCHAS,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,6,6
+COLLANA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0,0,0,3,0,2,2,9,11
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,4,0,4
+CURVA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,1,0,0,1,5,6
+EL CHORO,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+EL PUENTE(STC),telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,1,3,3,6
+GAIOC JATUN AYLLU YURA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,1,1,0,2,2,2,3,1,0,0,1,2,0,8,7,15
+HUARINA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUMANATA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+ICLA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,7,2,4,0,4,2,5,5,21,26
+JESUS DE MACHACA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,6,1,1,0,0,0,0,2,8,10
+LA ASUNTA,telesalud,teledispositivos ecografo,2024-08-01,1,0,0,0,1,1,1,1,0,4,2,25,12,220,9,33,6,17,16,7,48,308,356
+MACHACAMARCA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+MACHARETI,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,5,5
+NAZACARA DE PACAJES,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+PORCO,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,1,1,1,2,0,0,0,1,0,8,0,4,0,0,1,0,3,16,19
+QUIABAYA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,4
+QUIME,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,5,0,13,2,4,0,0,0,0,2,22,24
+SACABAMBA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SALINAS DE GARCI MENDOZA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SAN BENITO,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,2,5,2,2,2,2,2,0,8,10,18
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,2,0,0,0,2,3,5,8
+SANTIAGO DE CALLAPA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+SICA SICA (VILLA AROMA),telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,2,1,5,0,4,4,0,0,0,5,11,16
+SUCRE,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,1,1,1,0,0,1,2,32,3,6,0,8,2,4,9,52,61
+TARACO,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,14,6,0,2,1,4,2,12,17,29
+TIAHUANACU,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+TURCO,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,3,1,2,2,1,5,9,14
+VACAS,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,1,1,0,1,2,6,0,1,1,0,0,4,4,13,17
+VILA VILA,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,1,1,0,1,1,6,7
+WARNES,telesalud,teledispositivos ecografo,2024-08-01,0,0,0,0,0,0,0,0,0,0,1,2,8,2,1,2,1,1,6,6,17,13,30
+ANCORAIMES,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,2,0,2,3,5
+ANZALDO,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,2,6,3,11,14
+APOLO,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,2,0,0,0,1,1,6,7
+ARQUE,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,8,2,2,0,1,1,2,3,14,17
+AYO AYO,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+CHIMORE,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,3,3,5,5,10
+CHIPAYA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,6,0,1,0,0,0,0,2,7,9
+"COLCHA ""K""",telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLLANA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,2,0,2,0,9,9
+COLQUECHACA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CRUZ DE MACHACAMARCA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,4
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,3
+CURVA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,1,0,3,0,2,0,0,0,1,0,2,0,9,9
+EL CHORO,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+GUAQUI,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,1,0,5,5
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,7,7
+HUARINA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUMANATA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,3
+ICLA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,1,3,2,3,8,1,4,2,6,2,7,11,28,39
+JESUS DE MACHACA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,2,0,2,4,4,10,14
+MACHARETI,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,1,0,0,0,2,1,8,9
+POCOATA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+POOPO,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+PORCO,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,3,0,2,0,5,0,4,0,15,2,3,0,2,0,0,2,34,36
+PUERTO ACOSTA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+QUIRUSILLAS,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,3,3,6
+SALINAS DE GARCI MENDOZA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+SAN BENITO,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,2,5,2,2,2,2,1,0,7,10,17
+SAN IGNACIO,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,1,1,4,2,8,5,13
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,1,3,0,1,1,0,4,2,3,1,1,0,2,1,3,8,15,23
+SAN RAFAEL,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+SANTIAGO DE CALLAPA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,2,1,0,3,4,7
+SANTIAGO DE HUARI,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,3,1,4
+SICA SICA (VILLA AROMA),telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,3,2,0,0,3,8,11
+SUCRE,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,23,0,6,0,4,1,2,2,36,38
+TIAHUANACU,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,1,0,1,0,0,2,6,8
+TURCO,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,2,1,4,0,0,0,0,1,2,2,8,10
+VACAS,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,1,2,1,3,2,3,0,1,1,3,5,12,17
+VILA VILA,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,1,0,1,0,2,5,7
+WARNES,telesalud,teledispositivos ecografo,2024-09-01,0,0,0,0,0,0,0,0,1,8,0,0,2,8,2,4,6,1,16,6,27,27,54
+ANCORAIMES,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+ANZALDO,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1,1,0,0,1,4,2,9,11
+APOLO,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,2,0,17,0,1,0,1,0,0,0,22,22
+ARQUE,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1,3,4
+AYO AYO,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,4,4
+CAQUIAVIRI,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CARIPUYO,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+CHIMORE,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+CHIPAYA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1,0,0,0,0,0,5,5
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,17,1,0,0,0,0,0,2,17,19
+CLIZA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,1,0,0,5,1,9,4,32,6,11,2,6,0,2,14,65,79
+"COLCHA ""K""",telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+COLLANA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,1,0,2,0,8,8
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,1,0,0,0,0,1,0,0,0,6,0,0,0,0,0,0,1,7,8
+CURVA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,1,0,0,0,1,1,1,6,1,0,1,1,0,0,5,8,13
+EL CHORO,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+EL PUENTE(TJA),telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,4,4
+EL VILLAR,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,0,0,0,0,5,4,9
+ENTRE RIOS CBBA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3,4
+GUAQUI,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,1,3,4
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,20,0,0,0,0,0,0,0,22,22
+HUARINA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+HUATAJATA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,2,0,3,4,7
+HUMANATA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+ICLA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,7,1,5,2,4,3,23,26
+LA ASUNTA,telesalud,teledispositivos ecografo,2024-10-01,0,1,0,0,0,1,4,1,4,7,4,34,26,226,6,35,7,23,14,13,65,341,406
+MACHACAMARCA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+MACHARETI,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+PORCO,telesalud,teledispositivos ecografo,2024-10-01,1,0,2,1,0,2,0,4,0,1,2,2,1,2,1,1,0,2,0,1,7,16,23
+PUERTO CARABUCO,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SALINAS DE GARCI MENDOZA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,1,0,0,1,5,6
+SAN ANDRES DE MACHACA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,1,0,2,0,1,1,7,1,6,0,2,6,4,8,23,31
+SAN ANTONIO DE LOMERIO,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,1,0,0,0,1,0,3,0,0,0,0,1,3,1,8,9
+SAN RAFAEL,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,12,1,38,0,7,0,0,0,2,1,59,60
+SANTIAGO DE CALLAPA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,2,4
+SANTUARIO DE QUILLACAS,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,11,9,0,0,0,0,0,0,0,0,0,0,11,9,20
+SUCRE,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,6,6
+TARACO,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,1,0,0,1,6,1,2,0,2,3,3,5,14,19
+TARATA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,2,0,0,1,0,3,2,0,0,1,3,2,6,6,13,13,26
+TURCO,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,2,3,3,6,9
+VACAS,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,3,4
+VILA VILA,telesalud,teledispositivos ecografo,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,4,0,4,1,1,0,1,1,1,2,11,13
+AIQUILE,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,1,0,0,1,1,0,6,1,4,0,3,8,18,10,33,43
+ANCORAIMES,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,1,1,2,0,5,5,10
+ANZALDO,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,1,0,2,0,6,0,0,0,1,1,2,1,12,13
+APOLO,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,1,0,2,0,8,0,1,0,1,1,0,1,13,14
+ARQUE,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,2,0,0,0,0,0,6,6
+CALAMARCA,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,2,3
+CAMATAQUI (C. VILLA ABECIA),telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+CAQUIAVIRI,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,1,1,2,5,3,11,14
+CARIPUYO,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CHIMORE,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,1,1,1,2,2,6,3,24,5,6,3,4,5,8,20,51,71
+CHUQUIHUTA AYLLU JUCUMANI,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,3,5,8
+CKOCHAS,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,0,0,1,0,7,7
+"COLCHA ""K""",telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLLANA,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,2,0,1,0,1,0,10,10
+COROICO,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,4,1,1,1,3,11,1,15,9,24
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,1,0,2,3,5
+CURVA,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,1,0,0,1,5,1,0,0,0,2,0,4,6,10
+GUAQUI,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,4,1,2,1,3,5,2,8,12,20
+HUACAYA (VILLA DE HUACAYA),telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,6,0,0,0,0,0,11,11
+HUACHACALLA,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,0,3
+HUARINA,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+JESUS DE MACHACA,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,1,2,1,3,6,9
+LA ASUNTA,telesalud,teledispositivos ecografo,2024-11-01,1,0,0,1,2,1,1,6,2,6,2,28,10,204,13,24,10,16,17,12,58,298,356
+MACHARETI,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,1,5,6
+OMEREQUE,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+POOPO,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+PORCO,telesalud,teledispositivos ecografo,2024-11-01,1,1,3,2,1,3,0,2,0,0,1,1,2,4,1,2,0,2,1,1,10,18,28
+PORVENIR,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,48,0,13,0,0,0,0,0,0,0,61,0,61
+RAVELO,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,1,1,3,13,0,2,0,0,3,2,7,18,25
+SAN BENITO,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,0,1,1,0,0,5,4,9
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,1,2,1,7,8
+SAN RAFAEL,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+SANTA CRUZ DE LA SIERRA,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,3,0,19,0,2,0,2,0,5,0,31,31
+SICA SICA (VILLA AROMA),telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,1,0,2,3,5
+TITO YUPANQUI (PARQUIPUJIO),telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,1,0,2,0,5,0,2,0,0,3,2,3,12,15
+TURCO,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,2,2,4
+VACAS,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,2,2,1,2,9,11
+VILLA SERRANO,telesalud,teledispositivos ecografo,2024-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,2,0,1,5,3,8
+ANCORAIMES,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+ANZALDO,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,1,4,1,8,9
+APOLO,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,4,1,1,1,2,0,1,2,10,12
+ARQUE,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,1,3,4
+AYO AYO,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+CALACOTO,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,2,5,2,7
+CARAPARI,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,5,6,8,9,17
+CARIPUYO,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+CATACORA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,1,0,0,0,6,6
+CHIMORE,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,2,0,1,2,0,0,1,2,6,1,3,3,5,7,6,15,24,39
+CHIPAYA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,1,0,0,1,1,2,7,9
+CKOCHAS,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,3,0,0,2,8,10
+COCAPATA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+COIPASA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+COLLANA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,2,1,4,4,8
+COMANCHE,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,1,0,0,0,0,2,5,7
+CURAHUARA DE CARANGAS,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,3,0,4,3,7
+CURVA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+EL VILLAR,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,7,17,0,0,0,0,4,3,11,20,31
+GRAL. J.J. PEREZ (CHARAZANI),telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+GUAQUI,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,1,2,8,4,10,10,20
+HUACHACALLA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+JESUS DE MACHACA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,2,0,0,0,1,0,3,8,11
+LA ASUNTA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,1,3,2,4,22,11,169,6,25,4,7,12,9,40,235,275
+MACHACAMARCA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+MACHARETI,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+SALINAS DE GARCI MENDOZA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+SAN ANDRES DE MACHACA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+SAN BENITO,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,0,1,1,0,0,5,4,9
+SAN PABLO DE LIPEZ,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,8,0,3,0,0,0,0,0,0,0,11,0,11
+SANTUARIO DE QUILLACAS,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+SICA SICA (VILLA AROMA),telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,1,4,5
+TURCO,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+VACAS,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3,2,3,4,7
+VILA VILA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,0,0,0,0,0,1,6,7
+YUNCHARA,telesalud,teledispositivos ecografo,2024-12-01,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,1,4,5

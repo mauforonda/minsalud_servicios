@@ -1,0 +1,11 @@
+department,municipality_id,municipality,year,month,population,value
+Pando,90102,Porvenir,2022,1,Nacidos muertos atendidos por partera,1
+Cochabamba,30101,Cochabamba,2022,3,Nacidos muertos atendidos por partera,3
+Potosí,50203,Llallagua,2022,3,Nacidos muertos atendidos por partera,2
+Cochabamba,30101,Cochabamba,2022,5,Nacidos muertos atendidos por partera,1
+Beni,80501,San Ignacio,2022,5,Nacidos muertos atendidos por partera,1
+Pando,90102,Porvenir,2022,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2022,3,TOTAL,3
+Potosí,50203,Llallagua,2022,3,TOTAL,2
+Cochabamba,30101,Cochabamba,2022,5,TOTAL,1
+Beni,80501,San Ignacio,2022,5,TOTAL,1

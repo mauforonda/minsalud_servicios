@@ -1,0 +1,615 @@
+municipality,group,variable,month,Viviendas Positivas,TOTAL
+ACACIO,chagas viviendas,viviendas positivas,2017-01-01,2,2
+ARANI,chagas viviendas,viviendas positivas,2017-01-01,1,1
+CAPINOTA,chagas viviendas,viviendas positivas,2017-01-01,1,1
+CLIZA,chagas viviendas,viviendas positivas,2017-01-01,1,1
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-01-01,14,14
+COMARAPA,chagas viviendas,viviendas positivas,2017-01-01,1,1
+COTAGAITA,chagas viviendas,viviendas positivas,2017-01-01,1,1
+EL TORNO,chagas viviendas,viviendas positivas,2017-01-01,2,2
+ICLA,chagas viviendas,viviendas positivas,2017-01-01,1,1
+LAGUNILLAS,chagas viviendas,viviendas positivas,2017-01-01,4,4
+MONTEAGUDO,chagas viviendas,viviendas positivas,2017-01-01,4,4
+OMEREQUE,chagas viviendas,viviendas positivas,2017-01-01,5,5
+PAMPA GRANDE,chagas viviendas,viviendas positivas,2017-01-01,23,23
+PASORAPA,chagas viviendas,viviendas positivas,2017-01-01,2,2
+POJO (CBBA),chagas viviendas,viviendas positivas,2017-01-01,16,16
+PUNA,chagas viviendas,viviendas positivas,2017-01-01,2,2
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-01-01,2,2
+RAVELO,chagas viviendas,viviendas positivas,2017-01-01,4,4
+SACABA,chagas viviendas,viviendas positivas,2017-01-01,1,1
+SAIPINA,chagas viviendas,viviendas positivas,2017-01-01,2,2
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-01-01,1,1
+SANTIVAÑES,chagas viviendas,viviendas positivas,2017-01-01,10,10
+TACOBAMBA,chagas viviendas,viviendas positivas,2017-01-01,6,6
+TAPACARI,chagas viviendas,viviendas positivas,2017-01-01,1,1
+TIQUIPAYA,chagas viviendas,viviendas positivas,2017-01-01,1,1
+TOCO,chagas viviendas,viviendas positivas,2017-01-01,1,1
+TORO TORO,chagas viviendas,viviendas positivas,2017-01-01,1,1
+TOTORA(CBBA),chagas viviendas,viviendas positivas,2017-01-01,1,1
+TUPIZA,chagas viviendas,viviendas positivas,2017-01-01,3,3
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-01-01,1,1
+VILA VILA,chagas viviendas,viviendas positivas,2017-01-01,4,4
+ARANI,chagas viviendas,viviendas positivas,2017-02-01,4,4
+CAPINOTA,chagas viviendas,viviendas positivas,2017-02-01,7,7
+CLIZA,chagas viviendas,viviendas positivas,2017-02-01,3,3
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-02-01,55,55
+COLCAPIRHUA,chagas viviendas,viviendas positivas,2017-02-01,2,2
+COLQUECHACA,chagas viviendas,viviendas positivas,2017-02-01,7,7
+COTAGAITA,chagas viviendas,viviendas positivas,2017-02-01,1,1
+EL TORNO,chagas viviendas,viviendas positivas,2017-02-01,1,1
+LAGUNILLAS,chagas viviendas,viviendas positivas,2017-02-01,10,10
+OMEREQUE,chagas viviendas,viviendas positivas,2017-02-01,2,2
+PAMPA GRANDE,chagas viviendas,viviendas positivas,2017-02-01,8,8
+PASORAPA,chagas viviendas,viviendas positivas,2017-02-01,2,2
+POCONA,chagas viviendas,viviendas positivas,2017-02-01,1,1
+POJO (CBBA),chagas viviendas,viviendas positivas,2017-02-01,9,9
+PUNA,chagas viviendas,viviendas positivas,2017-02-01,1,1
+PUNATA,chagas viviendas,viviendas positivas,2017-02-01,12,12
+SAIPINA,chagas viviendas,viviendas positivas,2017-02-01,5,5
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-02-01,2,2
+SAN LUCAS,chagas viviendas,viviendas positivas,2017-02-01,1,1
+SANTIVAÑES,chagas viviendas,viviendas positivas,2017-02-01,11,11
+SIPE SIPE,chagas viviendas,viviendas positivas,2017-02-01,8,8
+TAPACARI,chagas viviendas,viviendas positivas,2017-02-01,1,1
+TOLATA,chagas viviendas,viviendas positivas,2017-02-01,1,1
+TUPIZA,chagas viviendas,viviendas positivas,2017-02-01,3,3
+URIONDO (A. CONCEPCION),chagas viviendas,viviendas positivas,2017-02-01,1,1
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-02-01,6,6
+VILA VILA,chagas viviendas,viviendas positivas,2017-02-01,4,4
+VILLA RIVERO,chagas viviendas,viviendas positivas,2017-02-01,2,2
+YOTALA,chagas viviendas,viviendas positivas,2017-02-01,8,8
+AIQUILE,chagas viviendas,viviendas positivas,2017-03-01,25,25
+ANZALDO,chagas viviendas,viviendas positivas,2017-03-01,4,4
+ARANI,chagas viviendas,viviendas positivas,2017-03-01,4,4
+AYOPAYA (V. DE INDEPENDENCIA),chagas viviendas,viviendas positivas,2017-03-01,6,6
+CAMATAQUI (C. VILLA ABECIA),chagas viviendas,viviendas positivas,2017-03-01,1,1
+CAPINOTA,chagas viviendas,viviendas positivas,2017-03-01,15,15
+CLIZA,chagas viviendas,viviendas positivas,2017-03-01,2,2
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-03-01,28,28
+COLCAPIRHUA,chagas viviendas,viviendas positivas,2017-03-01,2,2
+COLQUECHACA,chagas viviendas,viviendas positivas,2017-03-01,5,5
+COMARAPA,chagas viviendas,viviendas positivas,2017-03-01,55,55
+COTAGAITA,chagas viviendas,viviendas positivas,2017-03-01,4,4
+CUCHUMUELA (V. G. VILLARROEL),chagas viviendas,viviendas positivas,2017-03-01,2,2
+EL TORNO,chagas viviendas,viviendas positivas,2017-03-01,2,2
+ENTRE RIOS TRJ,chagas viviendas,viviendas positivas,2017-03-01,8,8
+GUTIERREZ,chagas viviendas,viviendas positivas,2017-03-01,1,1
+HUACARETA,chagas viviendas,viviendas positivas,2017-03-01,41,41
+HUACAYA (VILLA DE HUACAYA),chagas viviendas,viviendas positivas,2017-03-01,2,2
+LAGUNILLAS,chagas viviendas,viviendas positivas,2017-03-01,10,10
+LAS CARRERAS,chagas viviendas,viviendas positivas,2017-03-01,8,8
+MIZQUE,chagas viviendas,viviendas positivas,2017-03-01,25,25
+MONTEAGUDO,chagas viviendas,viviendas positivas,2017-03-01,12,12
+OMEREQUE,chagas viviendas,viviendas positivas,2017-03-01,15,15
+PADILLA,chagas viviendas,viviendas positivas,2017-03-01,4,4
+PASORAPA,chagas viviendas,viviendas positivas,2017-03-01,14,14
+POCONA,chagas viviendas,viviendas positivas,2017-03-01,3,3
+POJO (CBBA),chagas viviendas,viviendas positivas,2017-03-01,11,11
+POROMA,chagas viviendas,viviendas positivas,2017-03-01,1,1
+PUNATA,chagas viviendas,viviendas positivas,2017-03-01,14,14
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-03-01,1,1
+SACABA,chagas viviendas,viviendas positivas,2017-03-01,6,6
+SAIPINA,chagas viviendas,viviendas positivas,2017-03-01,9,9
+SAMAIPATA,chagas viviendas,viviendas positivas,2017-03-01,3,3
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-03-01,3,3
+SAN LUCAS,chagas viviendas,viviendas positivas,2017-03-01,2,2
+SAN PEDRO DE BUENA VISTA,chagas viviendas,viviendas positivas,2017-03-01,8,8
+SANTIVAÑES,chagas viviendas,viviendas positivas,2017-03-01,5,5
+SIPE SIPE,chagas viviendas,viviendas positivas,2017-03-01,1,1
+SUCRE,chagas viviendas,viviendas positivas,2017-03-01,6,6
+TARIJA,chagas viviendas,viviendas positivas,2017-03-01,1,1
+TOMAVE,chagas viviendas,viviendas positivas,2017-03-01,2,2
+TORO TORO,chagas viviendas,viviendas positivas,2017-03-01,1,1
+TOTORA(CBBA),chagas viviendas,viviendas positivas,2017-03-01,1,1
+TUPIZA,chagas viviendas,viviendas positivas,2017-03-01,11,11
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-03-01,3,3
+VILA VILA,chagas viviendas,viviendas positivas,2017-03-01,7,7
+VILLA MONTES,chagas viviendas,viviendas positivas,2017-03-01,26,26
+VINTO,chagas viviendas,viviendas positivas,2017-03-01,1,1
+VITICHI,chagas viviendas,viviendas positivas,2017-03-01,6,6
+YOTALA,chagas viviendas,viviendas positivas,2017-03-01,7,7
+ACACIO,chagas viviendas,viviendas positivas,2017-04-01,84,84
+AIQUILE,chagas viviendas,viviendas positivas,2017-04-01,21,21
+ALCALA,chagas viviendas,viviendas positivas,2017-04-01,1,1
+ARANI,chagas viviendas,viviendas positivas,2017-04-01,8,8
+ARQUE,chagas viviendas,viviendas positivas,2017-04-01,9,9
+AYOPAYA (V. DE INDEPENDENCIA),chagas viviendas,viviendas positivas,2017-04-01,3,3
+BETANZOS,chagas viviendas,viviendas positivas,2017-04-01,5,5
+BOYUIBE,chagas viviendas,viviendas positivas,2017-04-01,70,70
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-04-01,32,32
+COLQUECHACA,chagas viviendas,viviendas positivas,2017-04-01,2,2
+CUCHUMUELA (V. G. VILLARROEL),chagas viviendas,viviendas positivas,2017-04-01,1,1
+EL PUENTE(TJA),chagas viviendas,viviendas positivas,2017-04-01,1,1
+EL TORNO,chagas viviendas,viviendas positivas,2017-04-01,1,1
+LAS CARRERAS,chagas viviendas,viviendas positivas,2017-04-01,1,1
+MACHARETI,chagas viviendas,viviendas positivas,2017-04-01,9,9
+MIZQUE,chagas viviendas,viviendas positivas,2017-04-01,15,15
+MOJOCOYA,chagas viviendas,viviendas positivas,2017-04-01,125,125
+MONTEAGUDO,chagas viviendas,viviendas positivas,2017-04-01,5,5
+OMEREQUE,chagas viviendas,viviendas positivas,2017-04-01,15,15
+PASORAPA,chagas viviendas,viviendas positivas,2017-04-01,1,1
+POCONA,chagas viviendas,viviendas positivas,2017-04-01,2,2
+POJO (CBBA),chagas viviendas,viviendas positivas,2017-04-01,9,9
+PRESTO,chagas viviendas,viviendas positivas,2017-04-01,10,10
+PUNATA,chagas viviendas,viviendas positivas,2017-04-01,7,7
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-04-01,1,1
+SACABA,chagas viviendas,viviendas positivas,2017-04-01,4,4
+SAMAIPATA,chagas viviendas,viviendas positivas,2017-04-01,5,5
+SAN BENITO,chagas viviendas,viviendas positivas,2017-04-01,3,3
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-04-01,2,2
+SANTIVAÑES,chagas viviendas,viviendas positivas,2017-04-01,22,22
+SOPACHUY,chagas viviendas,viviendas positivas,2017-04-01,1,1
+SUCRE,chagas viviendas,viviendas positivas,2017-04-01,27,27
+TARATA,chagas viviendas,viviendas positivas,2017-04-01,3,3
+TARIJA,chagas viviendas,viviendas positivas,2017-04-01,3,3
+TOLATA,chagas viviendas,viviendas positivas,2017-04-01,2,2
+TOMAVE,chagas viviendas,viviendas positivas,2017-04-01,1,1
+TORO TORO,chagas viviendas,viviendas positivas,2017-04-01,9,9
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-04-01,4,4
+VILA VILA,chagas viviendas,viviendas positivas,2017-04-01,6,6
+VILLA CHARCAS,chagas viviendas,viviendas positivas,2017-04-01,1,1
+VILLA MONTES,chagas viviendas,viviendas positivas,2017-04-01,10,10
+VILLA RIVERO,chagas viviendas,viviendas positivas,2017-04-01,2,2
+VILLA SERRANO,chagas viviendas,viviendas positivas,2017-04-01,1,1
+VINTO,chagas viviendas,viviendas positivas,2017-04-01,11,11
+VITICHI,chagas viviendas,viviendas positivas,2017-04-01,4,4
+YUNCHARA,chagas viviendas,viviendas positivas,2017-04-01,1,1
+AIQUILE,chagas viviendas,viviendas positivas,2017-05-01,36,36
+ALCALA,chagas viviendas,viviendas positivas,2017-05-01,5,5
+ANZALDO,chagas viviendas,viviendas positivas,2017-05-01,4,4
+ARAMPAMPA,chagas viviendas,viviendas positivas,2017-05-01,2,2
+ARANI,chagas viviendas,viviendas positivas,2017-05-01,4,4
+ARBIETO,chagas viviendas,viviendas positivas,2017-05-01,11,11
+ARQUE,chagas viviendas,viviendas positivas,2017-05-01,3,3
+BETANZOS,chagas viviendas,viviendas positivas,2017-05-01,7,7
+BOYUIBE,chagas viviendas,viviendas positivas,2017-05-01,9,9
+"CAIZA ""D""",chagas viviendas,viviendas positivas,2017-05-01,2,2
+CAMARGO,chagas viviendas,viviendas positivas,2017-05-01,1,1
+CAPINOTA,chagas viviendas,viviendas positivas,2017-05-01,1,1
+CKOCHAS,chagas viviendas,viviendas positivas,2017-05-01,7,7
+CLIZA,chagas viviendas,viviendas positivas,2017-05-01,3,3
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-05-01,13,13
+COLCAPIRHUA,chagas viviendas,viviendas positivas,2017-05-01,5,5
+CORIPATA,chagas viviendas,viviendas positivas,2017-05-01,15,15
+COTAGAITA,chagas viviendas,viviendas positivas,2017-05-01,14,14
+CUCHUMUELA (V. G. VILLARROEL),chagas viviendas,viviendas positivas,2017-05-01,1,1
+CUEVO,chagas viviendas,viviendas positivas,2017-05-01,64,64
+CULPINA,chagas viviendas,viviendas positivas,2017-05-01,11,11
+EL VILLAR,chagas viviendas,viviendas positivas,2017-05-01,2,2
+ENTRE RIOS TRJ,chagas viviendas,viviendas positivas,2017-05-01,2,2
+HUACAYA (VILLA DE HUACAYA),chagas viviendas,viviendas positivas,2017-05-01,18,18
+ICLA,chagas viviendas,viviendas positivas,2017-05-01,1,1
+LAS CARRERAS,chagas viviendas,viviendas positivas,2017-05-01,33,33
+MOJOCOYA,chagas viviendas,viviendas positivas,2017-05-01,34,34
+MONTEAGUDO,chagas viviendas,viviendas positivas,2017-05-01,16,16
+OMEREQUE,chagas viviendas,viviendas positivas,2017-05-01,10,10
+PADCAYA,chagas viviendas,viviendas positivas,2017-05-01,2,2
+PAMPA GRANDE,chagas viviendas,viviendas positivas,2017-05-01,8,8
+PASORAPA,chagas viviendas,viviendas positivas,2017-05-01,1,1
+POCONA,chagas viviendas,viviendas positivas,2017-05-01,2,2
+POJO (CBBA),chagas viviendas,viviendas positivas,2017-05-01,20,20
+POROMA,chagas viviendas,viviendas positivas,2017-05-01,23,23
+PUNA,chagas viviendas,viviendas positivas,2017-05-01,14,14
+PUNATA,chagas viviendas,viviendas positivas,2017-05-01,7,7
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-05-01,3,3
+RAVELO,chagas viviendas,viviendas positivas,2017-05-01,14,14
+SACABA,chagas viviendas,viviendas positivas,2017-05-01,5,5
+SAN BENITO,chagas viviendas,viviendas positivas,2017-05-01,1,1
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-05-01,2,2
+SICAYA,chagas viviendas,viviendas positivas,2017-05-01,16,16
+SIPE SIPE,chagas viviendas,viviendas positivas,2017-05-01,6,6
+SUCRE,chagas viviendas,viviendas positivas,2017-05-01,25,25
+TACACHI,chagas viviendas,viviendas positivas,2017-05-01,5,5
+TACOBAMBA,chagas viviendas,viviendas positivas,2017-05-01,20,20
+TAPACARI,chagas viviendas,viviendas positivas,2017-05-01,1,1
+TARATA,chagas viviendas,viviendas positivas,2017-05-01,5,5
+TARIJA,chagas viviendas,viviendas positivas,2017-05-01,2,2
+TINGUIPAYA,chagas viviendas,viviendas positivas,2017-05-01,1,1
+TOLATA,chagas viviendas,viviendas positivas,2017-05-01,3,3
+TOMAVE,chagas viviendas,viviendas positivas,2017-05-01,2,2
+TORO TORO,chagas viviendas,viviendas positivas,2017-05-01,8,8
+TOTORA(CBBA),chagas viviendas,viviendas positivas,2017-05-01,1,1
+TUPIZA,chagas viviendas,viviendas positivas,2017-05-01,2,2
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-05-01,12,12
+VILLA CHARCAS,chagas viviendas,viviendas positivas,2017-05-01,1,1
+VILLA MONTES,chagas viviendas,viviendas positivas,2017-05-01,9,9
+VILLA RIVERO,chagas viviendas,viviendas positivas,2017-05-01,1,1
+VILLA SERRANO,chagas viviendas,viviendas positivas,2017-05-01,3,3
+VINTO,chagas viviendas,viviendas positivas,2017-05-01,4,4
+YACUIBA,chagas viviendas,viviendas positivas,2017-05-01,19,19
+YAMPARAEZ,chagas viviendas,viviendas positivas,2017-05-01,2,2
+YOTALA,chagas viviendas,viviendas positivas,2017-05-01,2,2
+AIQUILE,chagas viviendas,viviendas positivas,2017-06-01,18,18
+ARANI,chagas viviendas,viviendas positivas,2017-06-01,4,4
+ARBIETO,chagas viviendas,viviendas positivas,2017-06-01,6,6
+ARQUE,chagas viviendas,viviendas positivas,2017-06-01,2,2
+BETANZOS,chagas viviendas,viviendas positivas,2017-06-01,4,4
+BOYUIBE,chagas viviendas,viviendas positivas,2017-06-01,5,5
+"CAIZA ""D""",chagas viviendas,viviendas positivas,2017-06-01,1,1
+CAMARGO,chagas viviendas,viviendas positivas,2017-06-01,4,4
+CAPINOTA,chagas viviendas,viviendas positivas,2017-06-01,20,20
+CARAPARI,chagas viviendas,viviendas positivas,2017-06-01,8,8
+CKOCHAS,chagas viviendas,viviendas positivas,2017-06-01,6,6
+CLIZA,chagas viviendas,viviendas positivas,2017-06-01,4,4
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-06-01,4,4
+COLQUECHACA,chagas viviendas,viviendas positivas,2017-06-01,2,2
+COTAGAITA,chagas viviendas,viviendas positivas,2017-06-01,8,8
+CUCHUMUELA (V. G. VILLARROEL),chagas viviendas,viviendas positivas,2017-06-01,2,2
+CULPINA,chagas viviendas,viviendas positivas,2017-06-01,25,25
+EL PUENTE(TJA),chagas viviendas,viviendas positivas,2017-06-01,1,1
+EL VILLAR,chagas viviendas,viviendas positivas,2017-06-01,3,3
+ENTRE RIOS TRJ,chagas viviendas,viviendas positivas,2017-06-01,3,3
+ICLA,chagas viviendas,viviendas positivas,2017-06-01,3,3
+INCAHUASI,chagas viviendas,viviendas positivas,2017-06-01,1,1
+LAGUNILLAS,chagas viviendas,viviendas positivas,2017-06-01,2,2
+MOJOCOYA,chagas viviendas,viviendas positivas,2017-06-01,13,13
+MONTEAGUDO,chagas viviendas,viviendas positivas,2017-06-01,12,12
+OMEREQUE,chagas viviendas,viviendas positivas,2017-06-01,8,8
+PADILLA,chagas viviendas,viviendas positivas,2017-06-01,4,4
+PAMPA GRANDE,chagas viviendas,viviendas positivas,2017-06-01,2,2
+POCONA,chagas viviendas,viviendas positivas,2017-06-01,3,3
+POJO (CBBA),chagas viviendas,viviendas positivas,2017-06-01,1,1
+POROMA,chagas viviendas,viviendas positivas,2017-06-01,22,22
+PRESTO,chagas viviendas,viviendas positivas,2017-06-01,1,1
+PUNATA,chagas viviendas,viviendas positivas,2017-06-01,9,9
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-06-01,3,3
+RAVELO,chagas viviendas,viviendas positivas,2017-06-01,4,4
+SACABA,chagas viviendas,viviendas positivas,2017-06-01,9,9
+SAIPINA,chagas viviendas,viviendas positivas,2017-06-01,3,3
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-06-01,1,1
+SAN LUCAS,chagas viviendas,viviendas positivas,2017-06-01,9,9
+SICAYA,chagas viviendas,viviendas positivas,2017-06-01,12,12
+SUCRE,chagas viviendas,viviendas positivas,2017-06-01,26,26
+TACACHI,chagas viviendas,viviendas positivas,2017-06-01,3,3
+TACACOMA,chagas viviendas,viviendas positivas,2017-06-01,21,21
+TARABUCO,chagas viviendas,viviendas positivas,2017-06-01,23,23
+TARATA,chagas viviendas,viviendas positivas,2017-06-01,2,2
+TARIJA,chagas viviendas,viviendas positivas,2017-06-01,5,5
+TINGUIPAYA,chagas viviendas,viviendas positivas,2017-06-01,1,1
+TOCO,chagas viviendas,viviendas positivas,2017-06-01,1,1
+TOMINA,chagas viviendas,viviendas positivas,2017-06-01,8,8
+TOTORA(CBBA),chagas viviendas,viviendas positivas,2017-06-01,1,1
+TUPIZA,chagas viviendas,viviendas positivas,2017-06-01,11,11
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-06-01,85,85
+VILLA CHARCAS,chagas viviendas,viviendas positivas,2017-06-01,17,17
+VILLA MONTES,chagas viviendas,viviendas positivas,2017-06-01,5,5
+VILLA RIVERO,chagas viviendas,viviendas positivas,2017-06-01,7,7
+VILLA SERRANO,chagas viviendas,viviendas positivas,2017-06-01,3,3
+VITICHI,chagas viviendas,viviendas positivas,2017-06-01,8,8
+YACUIBA,chagas viviendas,viviendas positivas,2017-06-01,12,12
+YAMPARAEZ,chagas viviendas,viviendas positivas,2017-06-01,53,53
+YOTALA,chagas viviendas,viviendas positivas,2017-06-01,1,1
+YUNCHARA,chagas viviendas,viviendas positivas,2017-06-01,1,1
+ZUDAÑEZ,chagas viviendas,viviendas positivas,2017-06-01,35,35
+ACACIO,chagas viviendas,viviendas positivas,2017-07-01,2,2
+AIQUILE,chagas viviendas,viviendas positivas,2017-07-01,13,13
+ANZALDO,chagas viviendas,viviendas positivas,2017-07-01,2,2
+ARANI,chagas viviendas,viviendas positivas,2017-07-01,2,2
+ARBIETO,chagas viviendas,viviendas positivas,2017-07-01,4,4
+ARQUE,chagas viviendas,viviendas positivas,2017-07-01,8,8
+AYOPAYA (V. DE INDEPENDENCIA),chagas viviendas,viviendas positivas,2017-07-01,1,1
+BETANZOS,chagas viviendas,viviendas positivas,2017-07-01,7,7
+CKOCHAS,chagas viviendas,viviendas positivas,2017-07-01,9,9
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-07-01,3,3
+COLCAPIRHUA,chagas viviendas,viviendas positivas,2017-07-01,1,1
+COLQUECHACA,chagas viviendas,viviendas positivas,2017-07-01,2,2
+CORIPATA,chagas viviendas,viviendas positivas,2017-07-01,10,10
+COTAGAITA,chagas viviendas,viviendas positivas,2017-07-01,4,4
+CUATRO CAÑADAS,chagas viviendas,viviendas positivas,2017-07-01,5,5
+CULPINA,chagas viviendas,viviendas positivas,2017-07-01,6,6
+EL PUENTE(TJA),chagas viviendas,viviendas positivas,2017-07-01,7,7
+EL TORNO,chagas viviendas,viviendas positivas,2017-07-01,5,5
+EL VILLAR,chagas viviendas,viviendas positivas,2017-07-01,1,1
+ENTRE RIOS TRJ,chagas viviendas,viviendas positivas,2017-07-01,5,5
+HUACAYA (VILLA DE HUACAYA),chagas viviendas,viviendas positivas,2017-07-01,5,5
+LAGUNILLAS,chagas viviendas,viviendas positivas,2017-07-01,3,3
+OMEREQUE,chagas viviendas,viviendas positivas,2017-07-01,8,8
+PADILLA,chagas viviendas,viviendas positivas,2017-07-01,3,3
+PALCA,chagas viviendas,viviendas positivas,2017-07-01,15,15
+PASORAPA,chagas viviendas,viviendas positivas,2017-07-01,12,12
+POCONA,chagas viviendas,viviendas positivas,2017-07-01,1,1
+PUNATA,chagas viviendas,viviendas positivas,2017-07-01,8,8
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-07-01,1,1
+RAVELO,chagas viviendas,viviendas positivas,2017-07-01,3,3
+SACABA,chagas viviendas,viviendas positivas,2017-07-01,7,7
+SAIPINA,chagas viviendas,viviendas positivas,2017-07-01,2,2
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-07-01,4,4
+SAN PEDRO DE BUENA VISTA,chagas viviendas,viviendas positivas,2017-07-01,9,9
+SICAYA,chagas viviendas,viviendas positivas,2017-07-01,7,7
+SIPE SIPE,chagas viviendas,viviendas positivas,2017-07-01,1,1
+TACACHI,chagas viviendas,viviendas positivas,2017-07-01,2,2
+TINGUIPAYA,chagas viviendas,viviendas positivas,2017-07-01,1,1
+TIQUIPAYA,chagas viviendas,viviendas positivas,2017-07-01,1,1
+TOMAVE,chagas viviendas,viviendas positivas,2017-07-01,1,1
+TORO TORO,chagas viviendas,viviendas positivas,2017-07-01,1,1
+URIONDO (A. CONCEPCION),chagas viviendas,viviendas positivas,2017-07-01,1,1
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-07-01,4,4
+VILA VILA,chagas viviendas,viviendas positivas,2017-07-01,6,6
+VILLA MONTES,chagas viviendas,viviendas positivas,2017-07-01,92,92
+VILLA RIVERO,chagas viviendas,viviendas positivas,2017-07-01,2,2
+VILLA SERRANO,chagas viviendas,viviendas positivas,2017-07-01,1,1
+VINTO,chagas viviendas,viviendas positivas,2017-07-01,7,7
+VITICHI,chagas viviendas,viviendas positivas,2017-07-01,7,7
+YOTALA,chagas viviendas,viviendas positivas,2017-07-01,6,6
+YUNCHARA,chagas viviendas,viviendas positivas,2017-07-01,1,1
+AIQUILE,chagas viviendas,viviendas positivas,2017-08-01,18,18
+ANZALDO,chagas viviendas,viviendas positivas,2017-08-01,4,4
+ARAMPAMPA,chagas viviendas,viviendas positivas,2017-08-01,1,1
+ARANI,chagas viviendas,viviendas positivas,2017-08-01,4,4
+ARBIETO,chagas viviendas,viviendas positivas,2017-08-01,3,3
+ARQUE,chagas viviendas,viviendas positivas,2017-08-01,1,1
+AZURDUY,chagas viviendas,viviendas positivas,2017-08-01,1,1
+BETANZOS,chagas viviendas,viviendas positivas,2017-08-01,4,4
+BOYUIBE,chagas viviendas,viviendas positivas,2017-08-01,15,15
+"CAIZA ""D""",chagas viviendas,viviendas positivas,2017-08-01,6,6
+CAMARGO,chagas viviendas,viviendas positivas,2017-08-01,10,10
+CAMIRI,chagas viviendas,viviendas positivas,2017-08-01,25,25
+CAPINOTA,chagas viviendas,viviendas positivas,2017-08-01,2,2
+CARAPARI,chagas viviendas,viviendas positivas,2017-08-01,15,15
+CLIZA,chagas viviendas,viviendas positivas,2017-08-01,2,2
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-08-01,46,46
+COLCAPIRHUA,chagas viviendas,viviendas positivas,2017-08-01,7,7
+COTAGAITA,chagas viviendas,viviendas positivas,2017-08-01,18,18
+CUATRO CAÑADAS,chagas viviendas,viviendas positivas,2017-08-01,27,27
+EL PUENTE(TJA),chagas viviendas,viviendas positivas,2017-08-01,2,2
+EL TORNO,chagas viviendas,viviendas positivas,2017-08-01,14,14
+GUTIERREZ,chagas viviendas,viviendas positivas,2017-08-01,63,63
+HUACARETA,chagas viviendas,viviendas positivas,2017-08-01,11,11
+LAGUNILLAS,chagas viviendas,viviendas positivas,2017-08-01,3,3
+LAS CARRERAS,chagas viviendas,viviendas positivas,2017-08-01,5,5
+MONTEAGUDO,chagas viviendas,viviendas positivas,2017-08-01,4,4
+MORO MORO,chagas viviendas,viviendas positivas,2017-08-01,2,2
+OMEREQUE,chagas viviendas,viviendas positivas,2017-08-01,11,11
+PADCAYA,chagas viviendas,viviendas positivas,2017-08-01,2,2
+PASORAPA,chagas viviendas,viviendas positivas,2017-08-01,13,13
+POCONA,chagas viviendas,viviendas positivas,2017-08-01,1,1
+POROMA,chagas viviendas,viviendas positivas,2017-08-01,1,1
+PORONGO,chagas viviendas,viviendas positivas,2017-08-01,1,1
+PUNATA,chagas viviendas,viviendas positivas,2017-08-01,8,8
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-08-01,3,3
+QUIRUSILLAS,chagas viviendas,viviendas positivas,2017-08-01,2,2
+RAVELO,chagas viviendas,viviendas positivas,2017-08-01,5,5
+SACABA,chagas viviendas,viviendas positivas,2017-08-01,11,11
+SAIPINA,chagas viviendas,viviendas positivas,2017-08-01,2,2
+SAN BENITO,chagas viviendas,viviendas positivas,2017-08-01,1,1
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-08-01,4,4
+SAN PEDRO DE BUENA VISTA,chagas viviendas,viviendas positivas,2017-08-01,17,17
+SANTIVAÑES,chagas viviendas,viviendas positivas,2017-08-01,30,30
+SICAYA,chagas viviendas,viviendas positivas,2017-08-01,4,4
+SIPE SIPE,chagas viviendas,viviendas positivas,2017-08-01,6,6
+SUCRE,chagas viviendas,viviendas positivas,2017-08-01,21,21
+TACOBAMBA,chagas viviendas,viviendas positivas,2017-08-01,15,15
+TACOPAYA,chagas viviendas,viviendas positivas,2017-08-01,1,1
+TAPACARI,chagas viviendas,viviendas positivas,2017-08-01,2,2
+TARATA,chagas viviendas,viviendas positivas,2017-08-01,1,1
+TINGUIPAYA,chagas viviendas,viviendas positivas,2017-08-01,2,2
+TOLATA,chagas viviendas,viviendas positivas,2017-08-01,1,1
+TORO TORO,chagas viviendas,viviendas positivas,2017-08-01,1,1
+TOTORA(CBBA),chagas viviendas,viviendas positivas,2017-08-01,1,1
+TUPIZA,chagas viviendas,viviendas positivas,2017-08-01,1,1
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-08-01,3,3
+VILA VILA,chagas viviendas,viviendas positivas,2017-08-01,2,2
+VILLA SERRANO,chagas viviendas,viviendas positivas,2017-08-01,2,2
+VILLA VACA GUZMAN (MUYUPAMPA),chagas viviendas,viviendas positivas,2017-08-01,4,4
+VITICHI,chagas viviendas,viviendas positivas,2017-08-01,11,11
+YACUIBA,chagas viviendas,viviendas positivas,2017-08-01,11,11
+YOTALA,chagas viviendas,viviendas positivas,2017-08-01,4,4
+AIQUILE,chagas viviendas,viviendas positivas,2017-09-01,10,10
+ALCALA,chagas viviendas,viviendas positivas,2017-09-01,2,2
+ANZALDO,chagas viviendas,viviendas positivas,2017-09-01,14,14
+ARAMPAMPA,chagas viviendas,viviendas positivas,2017-09-01,1,1
+ARBIETO,chagas viviendas,viviendas positivas,2017-09-01,1,1
+AZURDUY,chagas viviendas,viviendas positivas,2017-09-01,5,5
+BETANZOS,chagas viviendas,viviendas positivas,2017-09-01,1,1
+"CAIZA ""D""",chagas viviendas,viviendas positivas,2017-09-01,6,6
+CAMIRI,chagas viviendas,viviendas positivas,2017-09-01,20,20
+CAPINOTA,chagas viviendas,viviendas positivas,2017-09-01,3,3
+CLIZA,chagas viviendas,viviendas positivas,2017-09-01,1,1
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-09-01,60,60
+COLCAPIRHUA,chagas viviendas,viviendas positivas,2017-09-01,6,6
+COTAGAITA,chagas viviendas,viviendas positivas,2017-09-01,14,14
+CUATRO CAÑADAS,chagas viviendas,viviendas positivas,2017-09-01,20,20
+CUEVO,chagas viviendas,viviendas positivas,2017-09-01,35,35
+CULPINA,chagas viviendas,viviendas positivas,2017-09-01,69,69
+EL PUENTE(TJA),chagas viviendas,viviendas positivas,2017-09-01,2,2
+EL VILLAR,chagas viviendas,viviendas positivas,2017-09-01,8,8
+GUTIERREZ,chagas viviendas,viviendas positivas,2017-09-01,202,202
+HUACAYA (VILLA DE HUACAYA),chagas viviendas,viviendas positivas,2017-09-01,23,23
+ICLA,chagas viviendas,viviendas positivas,2017-09-01,59,59
+LAGUNILLAS,chagas viviendas,viviendas positivas,2017-09-01,4,4
+LAS CARRERAS,chagas viviendas,viviendas positivas,2017-09-01,17,17
+MOJOCOYA,chagas viviendas,viviendas positivas,2017-09-01,7,7
+MONTEAGUDO,chagas viviendas,viviendas positivas,2017-09-01,5,5
+OMEREQUE,chagas viviendas,viviendas positivas,2017-09-01,8,8
+PADILLA,chagas viviendas,viviendas positivas,2017-09-01,1,1
+PASORAPA,chagas viviendas,viviendas positivas,2017-09-01,1,1
+POCONA,chagas viviendas,viviendas positivas,2017-09-01,2,2
+POROMA,chagas viviendas,viviendas positivas,2017-09-01,3,3
+PUNA,chagas viviendas,viviendas positivas,2017-09-01,2,2
+PUNATA,chagas viviendas,viviendas positivas,2017-09-01,5,5
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-09-01,2,2
+RAVELO,chagas viviendas,viviendas positivas,2017-09-01,5,5
+SACABA,chagas viviendas,viviendas positivas,2017-09-01,13,13
+SAMAIPATA,chagas viviendas,viviendas positivas,2017-09-01,1,1
+SAN BENITO,chagas viviendas,viviendas positivas,2017-09-01,2,2
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-09-01,8,8
+SAN PEDRO DE BUENA VISTA,chagas viviendas,viviendas positivas,2017-09-01,1,1
+SAPAHAQUI,chagas viviendas,viviendas positivas,2017-09-01,41,41
+SICAYA,chagas viviendas,viviendas positivas,2017-09-01,3,3
+SIPE SIPE,chagas viviendas,viviendas positivas,2017-09-01,1,1
+SUCRE,chagas viviendas,viviendas positivas,2017-09-01,101,101
+TACACHI,chagas viviendas,viviendas positivas,2017-09-01,4,4
+TARABUCO,chagas viviendas,viviendas positivas,2017-09-01,6,6
+TARATA,chagas viviendas,viviendas positivas,2017-09-01,6,6
+TARIJA,chagas viviendas,viviendas positivas,2017-09-01,7,7
+TINGUIPAYA,chagas viviendas,viviendas positivas,2017-09-01,2,2
+TOLATA,chagas viviendas,viviendas positivas,2017-09-01,1,1
+TOMAVE,chagas viviendas,viviendas positivas,2017-09-01,1,1
+TORO TORO,chagas viviendas,viviendas positivas,2017-09-01,8,8
+TUPIZA,chagas viviendas,viviendas positivas,2017-09-01,1,1
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-09-01,3,3
+VILA VILA,chagas viviendas,viviendas positivas,2017-09-01,2,2
+VILLA CHARCAS,chagas viviendas,viviendas positivas,2017-09-01,8,8
+VILLA MONTES,chagas viviendas,viviendas positivas,2017-09-01,13,13
+VILLAZON,chagas viviendas,viviendas positivas,2017-09-01,3,3
+VITICHI,chagas viviendas,viviendas positivas,2017-09-01,8,8
+YOTALA,chagas viviendas,viviendas positivas,2017-09-01,24,24
+ZUDAÑEZ,chagas viviendas,viviendas positivas,2017-09-01,16,16
+AIQUILE,chagas viviendas,viviendas positivas,2017-10-01,4,4
+ALCALA,chagas viviendas,viviendas positivas,2017-10-01,4,4
+ANZALDO,chagas viviendas,viviendas positivas,2017-10-01,2,2
+ARAMPAMPA,chagas viviendas,viviendas positivas,2017-10-01,2,2
+ARBIETO,chagas viviendas,viviendas positivas,2017-10-01,5,5
+ARQUE,chagas viviendas,viviendas positivas,2017-10-01,5,5
+BOYUIBE,chagas viviendas,viviendas positivas,2017-10-01,3,3
+CAPINOTA,chagas viviendas,viviendas positivas,2017-10-01,3,3
+CKOCHAS,chagas viviendas,viviendas positivas,2017-10-01,1,1
+CLIZA,chagas viviendas,viviendas positivas,2017-10-01,2,2
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-10-01,1,1
+COLQUECHACA,chagas viviendas,viviendas positivas,2017-10-01,2,2
+COMARAPA,chagas viviendas,viviendas positivas,2017-10-01,3,3
+COTAGAITA,chagas viviendas,viviendas positivas,2017-10-01,3,3
+CUATRO CAÑADAS,chagas viviendas,viviendas positivas,2017-10-01,6,6
+CUEVO,chagas viviendas,viviendas positivas,2017-10-01,15,15
+CULPINA,chagas viviendas,viviendas positivas,2017-10-01,20,20
+EL PUENTE(TJA),chagas viviendas,viviendas positivas,2017-10-01,1,1
+EL VILLAR,chagas viviendas,viviendas positivas,2017-10-01,8,8
+ENTRE RIOS TRJ,chagas viviendas,viviendas positivas,2017-10-01,2,2
+HUACAYA (VILLA DE HUACAYA),chagas viviendas,viviendas positivas,2017-10-01,10,10
+ICLA,chagas viviendas,viviendas positivas,2017-10-01,31,31
+LA GUARDIA,chagas viviendas,viviendas positivas,2017-10-01,48,48
+LAS CARRERAS,chagas viviendas,viviendas positivas,2017-10-01,30,30
+MOJOCOYA,chagas viviendas,viviendas positivas,2017-10-01,13,13
+MONTEAGUDO,chagas viviendas,viviendas positivas,2017-10-01,4,4
+MORO MORO,chagas viviendas,viviendas positivas,2017-10-01,13,13
+OMEREQUE,chagas viviendas,viviendas positivas,2017-10-01,8,8
+PADCAYA,chagas viviendas,viviendas positivas,2017-10-01,1,1
+PADILLA,chagas viviendas,viviendas positivas,2017-10-01,8,8
+POCONA,chagas viviendas,viviendas positivas,2017-10-01,1,1
+POROMA,chagas viviendas,viviendas positivas,2017-10-01,3,3
+PRESTO,chagas viviendas,viviendas positivas,2017-10-01,10,10
+PUNA,chagas viviendas,viviendas positivas,2017-10-01,6,6
+PUNATA,chagas viviendas,viviendas positivas,2017-10-01,11,11
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-10-01,52,52
+RAVELO,chagas viviendas,viviendas positivas,2017-10-01,3,3
+SACABA,chagas viviendas,viviendas positivas,2017-10-01,13,13
+SAMAIPATA,chagas viviendas,viviendas positivas,2017-10-01,9,9
+SAN BENITO,chagas viviendas,viviendas positivas,2017-10-01,2,2
+SAN PEDRO DE BUENA VISTA,chagas viviendas,viviendas positivas,2017-10-01,22,22
+SANTIVAÑES,chagas viviendas,viviendas positivas,2017-10-01,15,15
+SICAYA,chagas viviendas,viviendas positivas,2017-10-01,8,8
+SIPE SIPE,chagas viviendas,viviendas positivas,2017-10-01,5,5
+SUCRE,chagas viviendas,viviendas positivas,2017-10-01,16,16
+TAPACARI,chagas viviendas,viviendas positivas,2017-10-01,2,2
+TARABUCO,chagas viviendas,viviendas positivas,2017-10-01,19,19
+TARATA,chagas viviendas,viviendas positivas,2017-10-01,1,1
+TARIJA,chagas viviendas,viviendas positivas,2017-10-01,8,8
+TINGUIPAYA,chagas viviendas,viviendas positivas,2017-10-01,1,1
+TIQUIPAYA,chagas viviendas,viviendas positivas,2017-10-01,1,1
+TOLATA,chagas viviendas,viviendas positivas,2017-10-01,1,1
+TORO TORO,chagas viviendas,viviendas positivas,2017-10-01,2,2
+TOTORA(CBBA),chagas viviendas,viviendas positivas,2017-10-01,2,2
+TUPIZA,chagas viviendas,viviendas positivas,2017-10-01,10,10
+URIONDO (A. CONCEPCION),chagas viviendas,viviendas positivas,2017-10-01,1,1
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-10-01,4,4
+VILA VILA,chagas viviendas,viviendas positivas,2017-10-01,1,1
+VILLA RIVERO,chagas viviendas,viviendas positivas,2017-10-01,1,1
+VINTO,chagas viviendas,viviendas positivas,2017-10-01,4,4
+VITICHI,chagas viviendas,viviendas positivas,2017-10-01,2,2
+YOTALA,chagas viviendas,viviendas positivas,2017-10-01,5,5
+ZUDAÑEZ,chagas viviendas,viviendas positivas,2017-10-01,3,3
+ACACIO,chagas viviendas,viviendas positivas,2017-11-01,2,2
+AIQUILE,chagas viviendas,viviendas positivas,2017-11-01,13,13
+ANZALDO,chagas viviendas,viviendas positivas,2017-11-01,1,1
+ARAMPAMPA,chagas viviendas,viviendas positivas,2017-11-01,3,3
+ARANI,chagas viviendas,viviendas positivas,2017-11-01,4,4
+ARBIETO,chagas viviendas,viviendas positivas,2017-11-01,10,10
+BETANZOS,chagas viviendas,viviendas positivas,2017-11-01,3,3
+BOYUIBE,chagas viviendas,viviendas positivas,2017-11-01,13,13
+"CAIZA ""D""",chagas viviendas,viviendas positivas,2017-11-01,2,2
+CAMARGO,chagas viviendas,viviendas positivas,2017-11-01,4,4
+CAPINOTA,chagas viviendas,viviendas positivas,2017-11-01,2,2
+CLIZA,chagas viviendas,viviendas positivas,2017-11-01,1,1
+COCHABAMBA,chagas viviendas,viviendas positivas,2017-11-01,14,14
+COLQUIRI,chagas viviendas,viviendas positivas,2017-11-01,1,1
+COTAGAITA,chagas viviendas,viviendas positivas,2017-11-01,7,7
+CUCHUMUELA (V. G. VILLARROEL),chagas viviendas,viviendas positivas,2017-11-01,1,1
+EL PUENTE(TJA),chagas viviendas,viviendas positivas,2017-11-01,1,1
+EL TORNO,chagas viviendas,viviendas positivas,2017-11-01,8,8
+EL VILLAR,chagas viviendas,viviendas positivas,2017-11-01,3,3
+ENTRE RIOS TRJ,chagas viviendas,viviendas positivas,2017-11-01,1,1
+HUACAYA (VILLA DE HUACAYA),chagas viviendas,viviendas positivas,2017-11-01,16,16
+ICLA,chagas viviendas,viviendas positivas,2017-11-01,77,77
+LA PAZ,chagas viviendas,viviendas positivas,2017-11-01,0,0
+MIZQUE,chagas viviendas,viviendas positivas,2017-11-01,5,5
+OCURI,chagas viviendas,viviendas positivas,2017-11-01,1,1
+PADILLA,chagas viviendas,viviendas positivas,2017-11-01,3,3
+PASORAPA,chagas viviendas,viviendas positivas,2017-11-01,1,1
+POCONA,chagas viviendas,viviendas positivas,2017-11-01,1,1
+POJO (CBBA),chagas viviendas,viviendas positivas,2017-11-01,1,1
+POROMA,chagas viviendas,viviendas positivas,2017-11-01,10,10
+PUNA,chagas viviendas,viviendas positivas,2017-11-01,3,3
+RAVELO,chagas viviendas,viviendas positivas,2017-11-01,4,4
+SACABA,chagas viviendas,viviendas positivas,2017-11-01,5,5
+SAMAIPATA,chagas viviendas,viviendas positivas,2017-11-01,8,8
+SAN BENITO,chagas viviendas,viviendas positivas,2017-11-01,4,4
+SAN LORENZO(TJA),chagas viviendas,viviendas positivas,2017-11-01,1,1
+SAN LUCAS,chagas viviendas,viviendas positivas,2017-11-01,58,58
+SAN PEDRO DE BUENA VISTA,chagas viviendas,viviendas positivas,2017-11-01,44,44
+SANTIVAÑES,chagas viviendas,viviendas positivas,2017-11-01,20,20
+SAPAHAQUI,chagas viviendas,viviendas positivas,2017-11-01,15,15
+SICAYA,chagas viviendas,viviendas positivas,2017-11-01,3,3
+SIPE SIPE,chagas viviendas,viviendas positivas,2017-11-01,1,1
+SUCRE,chagas viviendas,viviendas positivas,2017-11-01,15,15
+TACACHI,chagas viviendas,viviendas positivas,2017-11-01,2,2
+TACOPAYA,chagas viviendas,viviendas positivas,2017-11-01,1,1
+TARABUCO,chagas viviendas,viviendas positivas,2017-11-01,3,3
+TARATA,chagas viviendas,viviendas positivas,2017-11-01,2,2
+TARVITA,chagas viviendas,viviendas positivas,2017-11-01,1,1
+TIQUIPAYA,chagas viviendas,viviendas positivas,2017-11-01,1,1
+TOCO,chagas viviendas,viviendas positivas,2017-11-01,1,1
+TOLATA,chagas viviendas,viviendas positivas,2017-11-01,1,1
+TOMAVE,chagas viviendas,viviendas positivas,2017-11-01,2,2
+TORO TORO,chagas viviendas,viviendas positivas,2017-11-01,3,3
+TUPIZA,chagas viviendas,viviendas positivas,2017-11-01,14,14
+URIONDO (A. CONCEPCION),chagas viviendas,viviendas positivas,2017-11-01,1,1
+VALLEGRANDE,chagas viviendas,viviendas positivas,2017-11-01,5,5
+VILA VILA,chagas viviendas,viviendas positivas,2017-11-01,6,6
+VILLA CHARCAS,chagas viviendas,viviendas positivas,2017-11-01,156,156
+VILLA MONTES,chagas viviendas,viviendas positivas,2017-11-01,1,1
+VILLA RIVERO,chagas viviendas,viviendas positivas,2017-11-01,4,4
+VINTO,chagas viviendas,viviendas positivas,2017-11-01,1,1
+VITICHI,chagas viviendas,viviendas positivas,2017-11-01,6,6
+AIQUILE,chagas viviendas,viviendas positivas,2017-12-01,4,4
+ARQUE,chagas viviendas,viviendas positivas,2017-12-01,9,9
+AYOPAYA (V. DE INDEPENDENCIA),chagas viviendas,viviendas positivas,2017-12-01,6,6
+"CAIZA ""D""",chagas viviendas,viviendas positivas,2017-12-01,1,1
+CLIZA,chagas viviendas,viviendas positivas,2017-12-01,2,2
+COLQUECHACA,chagas viviendas,viviendas positivas,2017-12-01,64,64
+COTAGAITA,chagas viviendas,viviendas positivas,2017-12-01,6,6
+EL PUENTE(TJA),chagas viviendas,viviendas positivas,2017-12-01,1,1
+EL TORNO,chagas viviendas,viviendas positivas,2017-12-01,1,1
+LA PAZ,chagas viviendas,viviendas positivas,2017-12-01,0,0
+LICOMA PAMPA,chagas viviendas,viviendas positivas,2017-12-01,2,2
+POCONA,chagas viviendas,viviendas positivas,2017-12-01,3,3
+POJO (CBBA),chagas viviendas,viviendas positivas,2017-12-01,3,3
+POROMA,chagas viviendas,viviendas positivas,2017-12-01,28,28
+PUNATA,chagas viviendas,viviendas positivas,2017-12-01,2,2
+QUILLACOLLO,chagas viviendas,viviendas positivas,2017-12-01,16,16
+SACABA,chagas viviendas,viviendas positivas,2017-12-01,3,3
+SAN BENITO,chagas viviendas,viviendas positivas,2017-12-01,3,3
+SANTIVAÑES,chagas viviendas,viviendas positivas,2017-12-01,1,1
+TACACHI,chagas viviendas,viviendas positivas,2017-12-01,2,2
+TAPACARI,chagas viviendas,viviendas positivas,2017-12-01,3,3
+TARIJA,chagas viviendas,viviendas positivas,2017-12-01,7,7
+TINGUIPAYA,chagas viviendas,viviendas positivas,2017-12-01,3,3
+TIQUIPAYA,chagas viviendas,viviendas positivas,2017-12-01,2,2
+TOLATA,chagas viviendas,viviendas positivas,2017-12-01,1,1
+TORO TORO,chagas viviendas,viviendas positivas,2017-12-01,2,2
+URIONDO (A. CONCEPCION),chagas viviendas,viviendas positivas,2017-12-01,2,2
+VILA VILA,chagas viviendas,viviendas positivas,2017-12-01,3,3
+VILLA RIVERO,chagas viviendas,viviendas positivas,2017-12-01,5,5
+VILLA VACA GUZMAN (MUYUPAMPA),chagas viviendas,viviendas positivas,2017-12-01,30,30
+VINTO,chagas viviendas,viviendas positivas,2017-12-01,1,1
+VITICHI,chagas viviendas,viviendas positivas,2017-12-01,2,2

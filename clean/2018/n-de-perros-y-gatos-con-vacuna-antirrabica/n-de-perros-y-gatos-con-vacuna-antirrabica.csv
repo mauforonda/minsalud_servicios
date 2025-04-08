@@ -1,0 +1,2959 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30201,Aiquile,2018,1,N de perros y gatos con vacuna antirrabica,421
+Cochabamba,30402,Anzaldo,2018,1,N de perros y gatos con vacuna antirrabica,25
+Cochabamba,30501,Arani,2018,1,N de perros y gatos con vacuna antirrabica,50
+Cochabamba,30403,Arbieto,2018,1,N de perros y gatos con vacuna antirrabica,500
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,1,N de perros y gatos con vacuna antirrabica,208
+La Paz,21203,Batallas,2018,1,N de perros y gatos con vacuna antirrabica,134
+Potosí,50301,Betanzos,2018,1,N de perros y gatos con vacuna antirrabica,80
+Santa Cruz,70401,Buena Vista,2018,1,N de perros y gatos con vacuna antirrabica,327
+Santa Cruz,70703,Cabezas,2018,1,N de perros y gatos con vacuna antirrabica,267
+Santa Cruz,70706,Camiri,2018,1,N de perros y gatos con vacuna antirrabica,305
+Cochabamba,30701,Capinota,2018,1,N de perros y gatos con vacuna antirrabica,763
+Oruro,40102,Caracollo,2018,1,N de perros y gatos con vacuna antirrabica,27
+Tarija,60302,Carapari,2018,1,N de perros y gatos con vacuna antirrabica,74
+Potosí,50702,Caripuyo,2018,1,N de perros y gatos con vacuna antirrabica,5
+Oruro,40201,Challapata,2018,1,N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,70702,Charagua,2018,1,N de perros y gatos con vacuna antirrabica,1730
+Potosí,50202,Chayanta,2018,1,N de perros y gatos con vacuna antirrabica,4
+Cochabamba,31204,Chimore,2018,1,N de perros y gatos con vacuna antirrabica,97
+Cochabamba,30801,Cliza,2018,1,N de perros y gatos con vacuna antirrabica,1007
+Cochabamba,30303,Cocapata,2018,1,N de perros y gatos con vacuna antirrabica,331
+Cochabamba,30101,Cochabamba,2018,1,N de perros y gatos con vacuna antirrabica,2682
+Cochabamba,30905,Colcapirhua,2018,1,N de perros y gatos con vacuna antirrabica,248
+Potosí,50901,"Colcha ""k""",2018,1,N de perros y gatos con vacuna antirrabica,139
+Cochabamba,31002,Colomi,2018,1,N de perros y gatos con vacuna antirrabica,293
+Potosí,50401,Colquechaca,2018,1,N de perros y gatos con vacuna antirrabica,169
+Potosí,50601,Cotagaita,2018,1,N de perros y gatos con vacuna antirrabica,62
+Santa Cruz,70102,Cotoca,2018,1,N de perros y gatos con vacuna antirrabica,315
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,1,N de perros y gatos con vacuna antirrabica,35
+Oruro,40401,Curahuara De Carangas,2018,1,N de perros y gatos con vacuna antirrabica,20
+La Paz,20105,El Alto,2018,1,N de perros y gatos con vacuna antirrabica,1234
+Santa Cruz,71503,El Puente(stc),2018,1,N de perros y gatos con vacuna antirrabica,33
+Tarija,60502,El Puente(tja),2018,1,N de perros y gatos con vacuna antirrabica,16
+Santa Cruz,70105,El Torno,2018,1,N de perros y gatos con vacuna antirrabica,60
+Santa Cruz,71004,Fernandez Alonso,2018,1,N de perros y gatos con vacuna antirrabica,32
+La Paz,21601,Gral. J.j. Perez (charazani),2018,1,N de perros y gatos con vacuna antirrabica,50
+Oruro,40701,Huanuni,2018,1,N de perros y gatos con vacuna antirrabica,40
+La Paz,21001,Inquisivi,2018,1,N de perros y gatos con vacuna antirrabica,4
+Santa Cruz,70104,La Guardia,2018,1,N de perros y gatos con vacuna antirrabica,43
+La Paz,20101,La Paz,2018,1,N de perros y gatos con vacuna antirrabica,839
+Santa Cruz,70701,Lagunillas,2018,1,N de perros y gatos con vacuna antirrabica,10
+La Paz,21202,Laja,2018,1,N de perros y gatos con vacuna antirrabica,120
+Cochabamba,31301,Mizque,2018,1,N de perros y gatos con vacuna antirrabica,12
+Potosí,51002,Mojinete,2018,1,N de perros y gatos con vacuna antirrabica,6
+Chuquisaca,10501,Monteagudo,2018,1,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71001,Montero,2018,1,N de perros y gatos con vacuna antirrabica,80
+Santa Cruz,70803,Moro Moro,2018,1,N de perros y gatos con vacuna antirrabica,45
+Cochabamba,30302,Morochata,2018,1,N de perros y gatos con vacuna antirrabica,61
+Potosí,50404,Ocuri,2018,1,N de perros y gatos con vacuna antirrabica,5
+Santa Cruz,70202,Okinawa,2018,1,N de perros y gatos con vacuna antirrabica,31
+Cochabamba,30203,Omereque,2018,1,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70502,Pailon,2018,1,N de perros y gatos con vacuna antirrabica,99
+Cochabamba,30202,Pasorapa,2018,1,N de perros y gatos con vacuna antirrabica,20
+Cochabamba,31203,Pocona,2018,1,N de perros y gatos con vacuna antirrabica,101
+Cochabamba,31202,Pojo (cbba),2018,1,N de perros y gatos con vacuna antirrabica,104
+Chuquisaca,10103,Poroma,2018,1,N de perros y gatos con vacuna antirrabica,28
+Santa Cruz,70103,Porongo,2018,1,N de perros y gatos con vacuna antirrabica,17
+Santa Cruz,70601,Portachuelo,2018,1,N de perros y gatos con vacuna antirrabica,100
+Potosí,50101,Potosi,2018,1,N de perros y gatos con vacuna antirrabica,283
+Cochabamba,31401,Punata,2018,1,N de perros y gatos con vacuna antirrabica,1621
+Cochabamba,30901,Quillacollo,2018,1,N de perros y gatos con vacuna antirrabica,2256
+Cochabamba,31001,Sacaba,2018,1,N de perros y gatos con vacuna antirrabica,4419
+Cochabamba,30404,Sacabamba,2018,1,N de perros y gatos con vacuna antirrabica,21
+Potosí,50701,Sacaca,2018,1,N de perros y gatos con vacuna antirrabica,90
+Santa Cruz,71302,Saipina,2018,1,N de perros y gatos con vacuna antirrabica,209
+Potosí,51003,San Antonio De Esmoruco,2018,1,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,31403,San Benito,2018,1,N de perros y gatos con vacuna antirrabica,100
+Santa Cruz,70402,San Carlos,2018,1,N de perros y gatos con vacuna antirrabica,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,1,N de perros y gatos con vacuna antirrabica,1444
+Santa Cruz,71104,San Julian,2018,1,N de perros y gatos con vacuna antirrabica,2115
+Santa Cruz,70302,San Miguel De Velasco,2018,1,N de perros y gatos con vacuna antirrabica,49
+Santa Cruz,71005,San Pedro,2018,1,N de perros y gatos con vacuna antirrabica,5
+Potosí,50902,San Pedro De Quemes,2018,1,N de perros y gatos con vacuna antirrabica,1
+La Paz,21702,San Pedro De Tiquina,2018,1,N de perros y gatos con vacuna antirrabica,7
+Santa Cruz,71103,San Ramon Scz,2018,1,N de perros y gatos con vacuna antirrabica,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,1,N de perros y gatos con vacuna antirrabica,8796
+Cochabamba,30702,Santivañes,2018,1,N de perros y gatos con vacuna antirrabica,490
+Cochabamba,31602,Shinaota,2018,1,N de perros y gatos con vacuna antirrabica,310
+Cochabamba,30703,Sicaya,2018,1,N de perros y gatos con vacuna antirrabica,60
+Cochabamba,30902,Sipe Sipe,2018,1,N de perros y gatos con vacuna antirrabica,2603
+Chuquisaca,10101,Sucre,2018,1,N de perros y gatos con vacuna antirrabica,47
+Potosí,51402,Tahua,2018,1,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30903,Tiquipaya,2018,1,N de perros y gatos con vacuna antirrabica,161
+Cochabamba,31601,Tiraque (cbba),2018,1,N de perros y gatos con vacuna antirrabica,1000
+Cochabamba,30802,Toco,2018,1,N de perros y gatos con vacuna antirrabica,50
+Cochabamba,30803,Tolata,2018,1,N de perros y gatos con vacuna antirrabica,17
+Cochabamba,31201,Totora(cbba),2018,1,N de perros y gatos con vacuna antirrabica,84
+Santa Cruz,70802,Trigal,2018,1,N de perros y gatos con vacuna antirrabica,9
+Potosí,51201,Uyuni,2018,1,N de perros y gatos con vacuna antirrabica,2065
+Santa Cruz,70801,Vallegrande,2018,1,N de perros y gatos con vacuna antirrabica,9
+Tarija,60303,Villa Montes,2018,1,N de perros y gatos con vacuna antirrabica,127
+Cochabamba,31003,Villa Tunari,2018,1,N de perros y gatos con vacuna antirrabica,2095
+Potosí,51501,Villazon,2018,1,N de perros y gatos con vacuna antirrabica,580
+Cochabamba,30904,Vinto,2018,1,N de perros y gatos con vacuna antirrabica,769
+Santa Cruz,70201,Warnes,2018,1,N de perros y gatos con vacuna antirrabica,713
+Santa Cruz,70403,Yapacani,2018,1,N de perros y gatos con vacuna antirrabica,27
+Cochabamba,30402,Anzaldo,2018,2,N de perros y gatos con vacuna antirrabica,2675
+Cochabamba,30403,Arbieto,2018,2,N de perros y gatos con vacuna antirrabica,5500
+Potosí,50802,Atocha,2018,2,N de perros y gatos con vacuna antirrabica,27
+La Paz,21203,Batallas,2018,2,N de perros y gatos con vacuna antirrabica,60
+Oruro,41202,Belen De Andamarca,2018,2,N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,70401,Buena Vista,2018,2,N de perros y gatos con vacuna antirrabica,266
+Santa Cruz,70703,Cabezas,2018,2,N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,70706,Camiri,2018,2,N de perros y gatos con vacuna antirrabica,215
+Cochabamba,30701,Capinota,2018,2,N de perros y gatos con vacuna antirrabica,156
+Oruro,40102,Caracollo,2018,2,N de perros y gatos con vacuna antirrabica,129
+Tarija,60302,Carapari,2018,2,N de perros y gatos con vacuna antirrabica,55
+Oruro,40201,Challapata,2018,2,N de perros y gatos con vacuna antirrabica,67
+Potosí,50202,Chayanta,2018,2,N de perros y gatos con vacuna antirrabica,6
+Cochabamba,30801,Cliza,2018,2,N de perros y gatos con vacuna antirrabica,7500
+Cochabamba,30303,Cocapata,2018,2,N de perros y gatos con vacuna antirrabica,202
+Cochabamba,30101,Cochabamba,2018,2,N de perros y gatos con vacuna antirrabica,2356
+Cochabamba,30905,Colcapirhua,2018,2,N de perros y gatos con vacuna antirrabica,1258
+Potosí,50901,"Colcha ""k""",2018,2,N de perros y gatos con vacuna antirrabica,27
+Cochabamba,31002,Colomi,2018,2,N de perros y gatos con vacuna antirrabica,127
+Potosí,50401,Colquechaca,2018,2,N de perros y gatos con vacuna antirrabica,101
+La Paz,21004,Colquiri,2018,2,N de perros y gatos con vacuna antirrabica,200
+La Paz,21701,Copacabana,2018,2,N de perros y gatos con vacuna antirrabica,20
+Potosí,50601,Cotagaita,2018,2,N de perros y gatos con vacuna antirrabica,98
+Santa Cruz,70102,Cotoca,2018,2,N de perros y gatos con vacuna antirrabica,26
+Oruro,40401,Curahuara De Carangas,2018,2,N de perros y gatos con vacuna antirrabica,30
+La Paz,20105,El Alto,2018,2,N de perros y gatos con vacuna antirrabica,488
+Santa Cruz,71503,El Puente(stc),2018,2,N de perros y gatos con vacuna antirrabica,35
+Santa Cruz,70105,El Torno,2018,2,N de perros y gatos con vacuna antirrabica,75
+Santa Cruz,71004,Fernandez Alonso,2018,2,N de perros y gatos con vacuna antirrabica,237
+Oruro,40701,Huanuni,2018,2,N de perros y gatos con vacuna antirrabica,283
+Oruro,41601,Huayllamarca,2018,2,N de perros y gatos con vacuna antirrabica,11
+Santa Cruz,70104,La Guardia,2018,2,N de perros y gatos con vacuna antirrabica,232
+La Paz,20101,La Paz,2018,2,N de perros y gatos con vacuna antirrabica,518
+Potosí,50203,Llallagua,2018,2,N de perros y gatos con vacuna antirrabica,230
+Potosí,51401,Llica,2018,2,N de perros y gatos con vacuna antirrabica,2
+Beni,80601,Loreto,2018,2,N de perros y gatos con vacuna antirrabica,160
+Chuquisaca,11003,Machareti,2018,2,N de perros y gatos con vacuna antirrabica,769
+Beni,80801,Magdalena,2018,2,N de perros y gatos con vacuna antirrabica,487
+Cochabamba,31301,Mizque,2018,2,N de perros y gatos con vacuna antirrabica,15
+Chuquisaca,10501,Monteagudo,2018,2,N de perros y gatos con vacuna antirrabica,19
+Santa Cruz,71001,Montero,2018,2,N de perros y gatos con vacuna antirrabica,113
+Santa Cruz,70803,Moro Moro,2018,2,N de perros y gatos con vacuna antirrabica,21
+Cochabamba,30302,Morochata,2018,2,N de perros y gatos con vacuna antirrabica,63
+Santa Cruz,70202,Okinawa,2018,2,N de perros y gatos con vacuna antirrabica,183
+Cochabamba,30203,Omereque,2018,2,N de perros y gatos con vacuna antirrabica,152
+Oruro,40101,Oruro,2018,2,N de perros y gatos con vacuna antirrabica,257
+Santa Cruz,70502,Pailon,2018,2,N de perros y gatos con vacuna antirrabica,660
+Cochabamba,30202,Pasorapa,2018,2,N de perros y gatos con vacuna antirrabica,20
+Oruro,40602,Pazña,2018,2,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,31203,Pocona,2018,2,N de perros y gatos con vacuna antirrabica,222
+Cochabamba,31202,Pojo (cbba),2018,2,N de perros y gatos con vacuna antirrabica,31
+Santa Cruz,70103,Porongo,2018,2,N de perros y gatos con vacuna antirrabica,53
+Santa Cruz,70601,Portachuelo,2018,2,N de perros y gatos con vacuna antirrabica,80
+Potosí,50101,Potosi,2018,2,N de perros y gatos con vacuna antirrabica,192
+La Paz,21204,Puerto Perez,2018,2,N de perros y gatos con vacuna antirrabica,20
+Potosí,51101,Puna,2018,2,N de perros y gatos con vacuna antirrabica,15
+Cochabamba,30901,Quillacollo,2018,2,N de perros y gatos con vacuna antirrabica,2174
+Potosí,50402,Ravelo,2018,2,N de perros y gatos con vacuna antirrabica,8
+Santa Cruz,70503,Robore,2018,2,N de perros y gatos con vacuna antirrabica,131
+Cochabamba,31001,Sacaba,2018,2,N de perros y gatos con vacuna antirrabica,16897
+Cochabamba,30404,Sacabamba,2018,2,N de perros y gatos con vacuna antirrabica,2159
+Potosí,50701,Sacaca,2018,2,N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,71302,Saipina,2018,2,N de perros y gatos con vacuna antirrabica,91
+Potosí,51601,San Agustin,2018,2,N de perros y gatos con vacuna antirrabica,5
+Santa Cruz,71105,San Antonio De Lomerio,2018,2,N de perros y gatos con vacuna antirrabica,249
+Santa Cruz,70402,San Carlos,2018,2,N de perros y gatos con vacuna antirrabica,6
+Santa Cruz,70301,San Ignacio De Velasco,2018,2,N de perros y gatos con vacuna antirrabica,597
+Santa Cruz,71104,San Julian,2018,2,N de perros y gatos con vacuna antirrabica,349
+Santa Cruz,70302,San Miguel De Velasco,2018,2,N de perros y gatos con vacuna antirrabica,250
+Santa Cruz,71005,San Pedro,2018,2,N de perros y gatos con vacuna antirrabica,7
+Potosí,50902,San Pedro De Quemes,2018,2,N de perros y gatos con vacuna antirrabica,7
+La Paz,21702,San Pedro De Tiquina,2018,2,N de perros y gatos con vacuna antirrabica,24
+Santa Cruz,70303,San Rafael,2018,2,N de perros y gatos con vacuna antirrabica,300
+Beni,80401,Santa Ana,2018,2,N de perros y gatos con vacuna antirrabica,66
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,2,N de perros y gatos con vacuna antirrabica,11781
+Cochabamba,31602,Shinaota,2018,2,N de perros y gatos con vacuna antirrabica,1441
+Cochabamba,30703,Sicaya,2018,2,N de perros y gatos con vacuna antirrabica,90
+Cochabamba,30902,Sipe Sipe,2018,2,N de perros y gatos con vacuna antirrabica,111
+Chuquisaca,10101,Sucre,2018,2,N de perros y gatos con vacuna antirrabica,52
+Cochabamba,30602,Tacopaya,2018,2,N de perros y gatos con vacuna antirrabica,31
+Cochabamba,30401,Tarata,2018,2,N de perros y gatos con vacuna antirrabica,2326
+Cochabamba,30903,Tiquipaya,2018,2,N de perros y gatos con vacuna antirrabica,34
+Cochabamba,30802,Toco,2018,2,N de perros y gatos con vacuna antirrabica,2400
+Cochabamba,30803,Tolata,2018,2,N de perros y gatos con vacuna antirrabica,2605
+Oruro,41001,Toledo,2018,2,N de perros y gatos con vacuna antirrabica,2
+Potosí,51202,Tomave,2018,2,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,31201,Totora(cbba),2018,2,N de perros y gatos con vacuna antirrabica,58
+Oruro,41301,Totora(orr),2018,2,N de perros y gatos con vacuna antirrabica,10
+Potosí,51201,Uyuni,2018,2,N de perros y gatos con vacuna antirrabica,2
+Santa Cruz,70801,Vallegrande,2018,2,N de perros y gatos con vacuna antirrabica,13
+La Paz,20801,Viacha,2018,2,N de perros y gatos con vacuna antirrabica,500
+Tarija,60303,Villa Montes,2018,2,N de perros y gatos con vacuna antirrabica,369
+Cochabamba,31003,Villa Tunari,2018,2,N de perros y gatos con vacuna antirrabica,2885
+Potosí,51501,Villazon,2018,2,N de perros y gatos con vacuna antirrabica,459
+Cochabamba,30904,Vinto,2018,2,N de perros y gatos con vacuna antirrabica,53
+Santa Cruz,70201,Warnes,2018,2,N de perros y gatos con vacuna antirrabica,913
+Santa Cruz,70403,Yapacani,2018,2,N de perros y gatos con vacuna antirrabica,56
+Cochabamba,30201,Aiquile,2018,3,N de perros y gatos con vacuna antirrabica,526
+Cochabamba,30402,Anzaldo,2018,3,N de perros y gatos con vacuna antirrabica,289
+Potosí,50802,Atocha,2018,3,N de perros y gatos con vacuna antirrabica,83
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,3,N de perros y gatos con vacuna antirrabica,30
+Tarija,60202,Bermejo,2018,3,N de perros y gatos con vacuna antirrabica,8
+Potosí,50301,Betanzos,2018,3,N de perros y gatos con vacuna antirrabica,247
+Santa Cruz,70401,Buena Vista,2018,3,N de perros y gatos con vacuna antirrabica,243
+Santa Cruz,70703,Cabezas,2018,3,N de perros y gatos con vacuna antirrabica,150
+Potosí,51102,"Caiza ""d""",2018,3,N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,70706,Camiri,2018,3,N de perros y gatos con vacuna antirrabica,1453
+Oruro,40102,Caracollo,2018,3,N de perros y gatos con vacuna antirrabica,26
+Tarija,60302,Carapari,2018,3,N de perros y gatos con vacuna antirrabica,7
+Oruro,40201,Challapata,2018,3,N de perros y gatos con vacuna antirrabica,28
+Potosí,50202,Chayanta,2018,3,N de perros y gatos con vacuna antirrabica,44
+Cochabamba,30303,Cocapata,2018,3,N de perros y gatos con vacuna antirrabica,44
+Cochabamba,30101,Cochabamba,2018,3,N de perros y gatos con vacuna antirrabica,1189
+Cochabamba,30905,Colcapirhua,2018,3,N de perros y gatos con vacuna antirrabica,871
+Potosí,50901,"Colcha ""k""",2018,3,N de perros y gatos con vacuna antirrabica,25
+Cochabamba,31002,Colomi,2018,3,N de perros y gatos con vacuna antirrabica,146
+La Paz,21004,Colquiri,2018,3,N de perros y gatos con vacuna antirrabica,70
+Potosí,50601,Cotagaita,2018,3,N de perros y gatos con vacuna antirrabica,307
+Santa Cruz,70102,Cotoca,2018,3,N de perros y gatos con vacuna antirrabica,290
+Santa Cruz,71106,Cuatro Cañadas,2018,3,N de perros y gatos con vacuna antirrabica,37
+Oruro,40401,Curahuara De Carangas,2018,3,N de perros y gatos con vacuna antirrabica,70
+La Paz,20105,El Alto,2018,3,N de perros y gatos con vacuna antirrabica,1049
+Santa Cruz,71503,El Puente(stc),2018,3,N de perros y gatos con vacuna antirrabica,233
+Santa Cruz,70105,El Torno,2018,3,N de perros y gatos con vacuna antirrabica,281
+Santa Cruz,71004,Fernandez Alonso,2018,3,N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,71002,General Saavedra,2018,3,N de perros y gatos con vacuna antirrabica,3
+Oruro,40701,Huanuni,2018,3,N de perros y gatos con vacuna antirrabica,57
+La Paz,21501,Ixiamas,2018,3,N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,70104,La Guardia,2018,3,N de perros y gatos con vacuna antirrabica,957
+La Paz,20101,La Paz,2018,3,N de perros y gatos con vacuna antirrabica,869
+Potosí,50203,Llallagua,2018,3,N de perros y gatos con vacuna antirrabica,240
+Potosí,51401,Llica,2018,3,N de perros y gatos con vacuna antirrabica,57
+Oruro,40702,Machacamarca,2018,3,N de perros y gatos con vacuna antirrabica,3
+Chuquisaca,11003,Machareti,2018,3,N de perros y gatos con vacuna antirrabica,624
+Santa Cruz,71003,Mineros,2018,3,N de perros y gatos con vacuna antirrabica,3
+Cochabamba,31301,Mizque,2018,3,N de perros y gatos con vacuna antirrabica,705
+Potosí,51002,Mojinete,2018,3,N de perros y gatos con vacuna antirrabica,86
+Santa Cruz,71001,Montero,2018,3,N de perros y gatos con vacuna antirrabica,121
+Cochabamba,30302,Morochata,2018,3,N de perros y gatos con vacuna antirrabica,26
+Santa Cruz,70202,Okinawa,2018,3,N de perros y gatos con vacuna antirrabica,43
+Cochabamba,30203,Omereque,2018,3,N de perros y gatos con vacuna antirrabica,576
+Oruro,40101,Oruro,2018,3,N de perros y gatos con vacuna antirrabica,1583
+Santa Cruz,70502,Pailon,2018,3,N de perros y gatos con vacuna antirrabica,185
+La Paz,21104,Palos Blancos,2018,3,N de perros y gatos con vacuna antirrabica,46
+Potosí,50403,Pocoata,2018,3,N de perros y gatos con vacuna antirrabica,1068
+Cochabamba,31203,Pocona,2018,3,N de perros y gatos con vacuna antirrabica,177
+Cochabamba,31202,Pojo (cbba),2018,3,N de perros y gatos con vacuna antirrabica,28
+Chuquisaca,10103,Poroma,2018,3,N de perros y gatos con vacuna antirrabica,7
+Santa Cruz,70103,Porongo,2018,3,N de perros y gatos con vacuna antirrabica,63
+Santa Cruz,70601,Portachuelo,2018,3,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70804,Postrer Valle,2018,3,N de perros y gatos con vacuna antirrabica,84
+Potosí,50101,Potosi,2018,3,N de perros y gatos con vacuna antirrabica,1211
+Potosí,51101,Puna,2018,3,N de perros y gatos con vacuna antirrabica,215
+Cochabamba,31401,Punata,2018,3,N de perros y gatos con vacuna antirrabica,38
+Cochabamba,30901,Quillacollo,2018,3,N de perros y gatos con vacuna antirrabica,2333
+Potosí,50402,Ravelo,2018,3,N de perros y gatos con vacuna antirrabica,94
+Santa Cruz,70503,Robore,2018,3,N de perros y gatos con vacuna antirrabica,240
+Cochabamba,31001,Sacaba,2018,3,N de perros y gatos con vacuna antirrabica,1017
+Potosí,50701,Sacaca,2018,3,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71302,Saipina,2018,3,N de perros y gatos con vacuna antirrabica,212
+Potosí,51601,San Agustin,2018,3,N de perros y gatos con vacuna antirrabica,32
+La Paz,21502,San Buena Ventura,2018,3,N de perros y gatos con vacuna antirrabica,180
+Santa Cruz,70402,San Carlos,2018,3,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70301,San Ignacio De Velasco,2018,3,N de perros y gatos con vacuna antirrabica,172
+Potosí,50902,San Pedro De Quemes,2018,3,N de perros y gatos con vacuna antirrabica,12
+Santa Cruz,70303,San Rafael,2018,3,N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,71103,San Ramon Scz,2018,3,N de perros y gatos con vacuna antirrabica,26
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,3,N de perros y gatos con vacuna antirrabica,10325
+Santa Cruz,70602,Santa Rosa Del Sara,2018,3,N de perros y gatos con vacuna antirrabica,40
+Cochabamba,31602,Shinaota,2018,3,N de perros y gatos con vacuna antirrabica,1092
+Cochabamba,30902,Sipe Sipe,2018,3,N de perros y gatos con vacuna antirrabica,45
+Oruro,40104,Soracachi,2018,3,N de perros y gatos con vacuna antirrabica,3
+Chuquisaca,10101,Sucre,2018,3,N de perros y gatos con vacuna antirrabica,36
+Cochabamba,30401,Tarata,2018,3,N de perros y gatos con vacuna antirrabica,550
+Cochabamba,30903,Tiquipaya,2018,3,N de perros y gatos con vacuna antirrabica,1011
+Oruro,41001,Toledo,2018,3,N de perros y gatos con vacuna antirrabica,3
+Potosí,50502,Toro Toro,2018,3,N de perros y gatos con vacuna antirrabica,192
+Cochabamba,31201,Totora(cbba),2018,3,N de perros y gatos con vacuna antirrabica,271
+Potosí,50801,Tupiza,2018,3,N de perros y gatos con vacuna antirrabica,48
+Santa Cruz,70801,Vallegrande,2018,3,N de perros y gatos con vacuna antirrabica,587
+Tarija,60303,Villa Montes,2018,3,N de perros y gatos con vacuna antirrabica,1212
+Cochabamba,31003,Villa Tunari,2018,3,N de perros y gatos con vacuna antirrabica,116
+Potosí,51501,Villazon,2018,3,N de perros y gatos con vacuna antirrabica,839
+Cochabamba,30904,Vinto,2018,3,N de perros y gatos con vacuna antirrabica,14
+Santa Cruz,70201,Warnes,2018,3,N de perros y gatos con vacuna antirrabica,2134
+Santa Cruz,70403,Yapacani,2018,3,N de perros y gatos con vacuna antirrabica,115
+Cochabamba,30201,Aiquile,2018,4,N de perros y gatos con vacuna antirrabica,7359
+Cochabamba,31303,Alalay,2018,4,N de perros y gatos con vacuna antirrabica,1210
+Cochabamba,30402,Anzaldo,2018,4,N de perros y gatos con vacuna antirrabica,60
+Cochabamba,30501,Arani,2018,4,N de perros y gatos con vacuna antirrabica,4950
+Cochabamba,30403,Arbieto,2018,4,N de perros y gatos con vacuna antirrabica,1078
+Cochabamba,30601,Arque,2018,4,N de perros y gatos con vacuna antirrabica,1487
+Potosí,50802,Atocha,2018,4,N de perros y gatos con vacuna antirrabica,139
+Potosí,50301,Betanzos,2018,4,N de perros y gatos con vacuna antirrabica,303
+Cochabamba,31501,Bolivar,2018,4,N de perros y gatos con vacuna antirrabica,443
+Potosí,51102,"Caiza ""d""",2018,4,N de perros y gatos con vacuna antirrabica,26
+Cochabamba,30701,Capinota,2018,4,N de perros y gatos con vacuna antirrabica,4807
+Oruro,40102,Caracollo,2018,4,N de perros y gatos con vacuna antirrabica,20
+Potosí,50202,Chayanta,2018,4,N de perros y gatos con vacuna antirrabica,133
+Cochabamba,31204,Chimore,2018,4,N de perros y gatos con vacuna antirrabica,4210
+Cochabamba,30801,Cliza,2018,4,N de perros y gatos con vacuna antirrabica,718
+Cochabamba,30303,Cocapata,2018,4,N de perros y gatos con vacuna antirrabica,2674
+Cochabamba,30101,Cochabamba,2018,4,N de perros y gatos con vacuna antirrabica,845
+Cochabamba,30905,Colcapirhua,2018,4,N de perros y gatos con vacuna antirrabica,1149
+Cochabamba,31002,Colomi,2018,4,N de perros y gatos con vacuna antirrabica,88
+La Paz,21004,Colquiri,2018,4,N de perros y gatos con vacuna antirrabica,30
+Potosí,50601,Cotagaita,2018,4,N de perros y gatos con vacuna antirrabica,8
+Santa Cruz,70102,Cotoca,2018,4,N de perros y gatos con vacuna antirrabica,2868
+Santa Cruz,71106,Cuatro Cañadas,2018,4,N de perros y gatos con vacuna antirrabica,30
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,4,N de perros y gatos con vacuna antirrabica,1200
+Oruro,40401,Curahuara De Carangas,2018,4,N de perros y gatos con vacuna antirrabica,9
+La Paz,20105,El Alto,2018,4,N de perros y gatos con vacuna antirrabica,2602
+Santa Cruz,71503,El Puente(stc),2018,4,N de perros y gatos con vacuna antirrabica,230
+Santa Cruz,70105,El Torno,2018,4,N de perros y gatos con vacuna antirrabica,60
+Cochabamba,31206,Entre Rios Cbba,2018,4,N de perros y gatos con vacuna antirrabica,9246
+Santa Cruz,71004,Fernandez Alonso,2018,4,N de perros y gatos con vacuna antirrabica,11
+Santa Cruz,70705,Gutierrez,2018,4,N de perros y gatos con vacuna antirrabica,152
+Santa Cruz,70104,La Guardia,2018,4,N de perros y gatos con vacuna antirrabica,1207
+La Paz,20101,La Paz,2018,4,N de perros y gatos con vacuna antirrabica,157
+Santa Cruz,70701,Lagunillas,2018,4,N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,71003,Mineros,2018,4,N de perros y gatos con vacuna antirrabica,5
+Cochabamba,31301,Mizque,2018,4,N de perros y gatos con vacuna antirrabica,5272
+Santa Cruz,71001,Montero,2018,4,N de perros y gatos con vacuna antirrabica,220
+Santa Cruz,70803,Moro Moro,2018,4,N de perros y gatos con vacuna antirrabica,100
+Cochabamba,30302,Morochata,2018,4,N de perros y gatos con vacuna antirrabica,7
+Potosí,50404,Ocuri,2018,4,N de perros y gatos con vacuna antirrabica,2
+Santa Cruz,70202,Okinawa,2018,4,N de perros y gatos con vacuna antirrabica,35
+Cochabamba,30203,Omereque,2018,4,N de perros y gatos con vacuna antirrabica,943
+Oruro,40101,Oruro,2018,4,N de perros y gatos con vacuna antirrabica,372
+Santa Cruz,70502,Pailon,2018,4,N de perros y gatos con vacuna antirrabica,12
+Cochabamba,30202,Pasorapa,2018,4,N de perros y gatos con vacuna antirrabica,1379
+Cochabamba,31203,Pocona,2018,4,N de perros y gatos con vacuna antirrabica,431
+Cochabamba,31202,Pojo (cbba),2018,4,N de perros y gatos con vacuna antirrabica,48
+Chuquisaca,10103,Poroma,2018,4,N de perros y gatos con vacuna antirrabica,60
+Santa Cruz,70103,Porongo,2018,4,N de perros y gatos con vacuna antirrabica,481
+Santa Cruz,70601,Portachuelo,2018,4,N de perros y gatos con vacuna antirrabica,121
+Santa Cruz,70804,Postrer Valle,2018,4,N de perros y gatos con vacuna antirrabica,277
+Potosí,50101,Potosi,2018,4,N de perros y gatos con vacuna antirrabica,361
+Beni,80703,Puerto Siles,2018,4,N de perros y gatos con vacuna antirrabica,258
+Cochabamba,31205,Puerto Villarroel,2018,4,N de perros y gatos con vacuna antirrabica,12432
+Cochabamba,31401,Punata,2018,4,N de perros y gatos con vacuna antirrabica,14345
+Cochabamba,30901,Quillacollo,2018,4,N de perros y gatos con vacuna antirrabica,42682
+Cochabamba,31304,Raqaypampa(eta),2018,4,N de perros y gatos con vacuna antirrabica,1777
+Santa Cruz,70503,Robore,2018,4,N de perros y gatos con vacuna antirrabica,341
+Cochabamba,31001,Sacaba,2018,4,N de perros y gatos con vacuna antirrabica,688
+Cochabamba,30404,Sacabamba,2018,4,N de perros y gatos con vacuna antirrabica,75
+Cochabamba,31403,San Benito,2018,4,N de perros y gatos con vacuna antirrabica,8540
+Santa Cruz,70301,San Ignacio De Velasco,2018,4,N de perros y gatos con vacuna antirrabica,918
+Beni,80102,San Javier(bni),2018,4,N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,70302,San Miguel De Velasco,2018,4,N de perros y gatos con vacuna antirrabica,46
+Potosí,50902,San Pedro De Quemes,2018,4,N de perros y gatos con vacuna antirrabica,19
+Santa Cruz,70303,San Rafael,2018,4,N de perros y gatos con vacuna antirrabica,74
+Santa Cruz,71103,San Ramon Scz,2018,4,N de perros y gatos con vacuna antirrabica,11
+Beni,80401,Santa Ana,2018,4,N de perros y gatos con vacuna antirrabica,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,4,N de perros y gatos con vacuna antirrabica,86870
+Cochabamba,30702,Santivañes,2018,4,N de perros y gatos con vacuna antirrabica,516
+Cochabamba,31602,Shinaota,2018,4,N de perros y gatos con vacuna antirrabica,366
+Cochabamba,30703,Sicaya,2018,4,N de perros y gatos con vacuna antirrabica,623
+Cochabamba,30902,Sipe Sipe,2018,4,N de perros y gatos con vacuna antirrabica,179
+Chuquisaca,10101,Sucre,2018,4,N de perros y gatos con vacuna antirrabica,362
+Cochabamba,31404,Tacachi,2018,4,N de perros y gatos con vacuna antirrabica,550
+Cochabamba,30602,Tacopaya,2018,4,N de perros y gatos con vacuna antirrabica,1084
+Potosí,51402,Tahua,2018,4,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,31101,Tapacari,2018,4,N de perros y gatos con vacuna antirrabica,4536
+Cochabamba,30401,Tarata,2018,4,N de perros y gatos con vacuna antirrabica,610
+Cochabamba,30903,Tiquipaya,2018,4,N de perros y gatos con vacuna antirrabica,18432
+Cochabamba,31601,Tiraque (cbba),2018,4,N de perros y gatos con vacuna antirrabica,9840
+Cochabamba,30802,Toco,2018,4,N de perros y gatos con vacuna antirrabica,125
+Cochabamba,30803,Tolata,2018,4,N de perros y gatos con vacuna antirrabica,90
+Cochabamba,31201,Totora(cbba),2018,4,N de perros y gatos con vacuna antirrabica,203
+Potosí,51201,Uyuni,2018,4,N de perros y gatos con vacuna antirrabica,22
+Cochabamba,30502,Vacas,2018,4,N de perros y gatos con vacuna antirrabica,3630
+Cochabamba,31302,Vila Vila,2018,4,N de perros y gatos con vacuna antirrabica,993
+Tarija,60303,Villa Montes,2018,4,N de perros y gatos con vacuna antirrabica,1786
+Cochabamba,31402,Villa Rivero,2018,4,N de perros y gatos con vacuna antirrabica,4700
+Cochabamba,31003,Villa Tunari,2018,4,N de perros y gatos con vacuna antirrabica,955
+Potosí,51501,Villazon,2018,4,N de perros y gatos con vacuna antirrabica,350
+Cochabamba,30904,Vinto,2018,4,N de perros y gatos con vacuna antirrabica,15364
+Santa Cruz,70201,Warnes,2018,4,N de perros y gatos con vacuna antirrabica,2631
+Tarija,60301,Yacuiba,2018,4,N de perros y gatos con vacuna antirrabica,40
+Santa Cruz,70403,Yapacani,2018,4,N de perros y gatos con vacuna antirrabica,54
+Cochabamba,30201,Aiquile,2018,5,N de perros y gatos con vacuna antirrabica,335
+Cochabamba,30402,Anzaldo,2018,5,N de perros y gatos con vacuna antirrabica,311
+Cochabamba,30403,Arbieto,2018,5,N de perros y gatos con vacuna antirrabica,220
+Cochabamba,30601,Arque,2018,5,N de perros y gatos con vacuna antirrabica,9
+Beni,80802,Baures,2018,5,N de perros y gatos con vacuna antirrabica,50
+Potosí,50301,Betanzos,2018,5,N de perros y gatos con vacuna antirrabica,150
+Cochabamba,31501,Bolivar,2018,5,N de perros y gatos con vacuna antirrabica,602
+Cochabamba,30701,Capinota,2018,5,N de perros y gatos con vacuna antirrabica,602
+Cochabamba,31204,Chimore,2018,5,N de perros y gatos con vacuna antirrabica,328
+Potosí,51103,Ckochas,2018,5,N de perros y gatos con vacuna antirrabica,200
+Cochabamba,30801,Cliza,2018,5,N de perros y gatos con vacuna antirrabica,1282
+Cochabamba,30303,Cocapata,2018,5,N de perros y gatos con vacuna antirrabica,2355
+Cochabamba,30101,Cochabamba,2018,5,N de perros y gatos con vacuna antirrabica,1418
+Cochabamba,30905,Colcapirhua,2018,5,N de perros y gatos con vacuna antirrabica,2269
+Cochabamba,31002,Colomi,2018,5,N de perros y gatos con vacuna antirrabica,1324
+Potosí,50401,Colquechaca,2018,5,N de perros y gatos con vacuna antirrabica,17
+Santa Cruz,70102,Cotoca,2018,5,N de perros y gatos con vacuna antirrabica,763
+Santa Cruz,71106,Cuatro Cañadas,2018,5,N de perros y gatos con vacuna antirrabica,132
+La Paz,20105,El Alto,2018,5,N de perros y gatos con vacuna antirrabica,794
+Santa Cruz,70105,El Torno,2018,5,N de perros y gatos con vacuna antirrabica,64
+Cochabamba,31206,Entre Rios Cbba,2018,5,N de perros y gatos con vacuna antirrabica,1120
+Santa Cruz,71004,Fernandez Alonso,2018,5,N de perros y gatos con vacuna antirrabica,79
+Santa Cruz,71002,General Saavedra,2018,5,N de perros y gatos con vacuna antirrabica,72
+Pando,90402,Ingavi (humaita),2018,5,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70104,La Guardia,2018,5,N de perros y gatos con vacuna antirrabica,414
+La Paz,20101,La Paz,2018,5,N de perros y gatos con vacuna antirrabica,320
+Cochabamba,31301,Mizque,2018,5,N de perros y gatos con vacuna antirrabica,216
+Santa Cruz,71001,Montero,2018,5,N de perros y gatos con vacuna antirrabica,1704
+Santa Cruz,70202,Okinawa,2018,5,N de perros y gatos con vacuna antirrabica,208
+Cochabamba,30203,Omereque,2018,5,N de perros y gatos con vacuna antirrabica,138
+Oruro,40101,Oruro,2018,5,N de perros y gatos con vacuna antirrabica,24
+Santa Cruz,70502,Pailon,2018,5,N de perros y gatos con vacuna antirrabica,234
+Cochabamba,30202,Pasorapa,2018,5,N de perros y gatos con vacuna antirrabica,176
+Cochabamba,31203,Pocona,2018,5,N de perros y gatos con vacuna antirrabica,48
+Cochabamba,31202,Pojo (cbba),2018,5,N de perros y gatos con vacuna antirrabica,90
+Potosí,51203,Porco,2018,5,N de perros y gatos con vacuna antirrabica,98
+Santa Cruz,70103,Porongo,2018,5,N de perros y gatos con vacuna antirrabica,468
+Santa Cruz,70601,Portachuelo,2018,5,N de perros y gatos con vacuna antirrabica,100
+Potosí,50101,Potosi,2018,5,N de perros y gatos con vacuna antirrabica,5189
+Pando,90301,Puerto Gonzalo Moreno,2018,5,N de perros y gatos con vacuna antirrabica,620
+Cochabamba,31205,Puerto Villarroel,2018,5,N de perros y gatos con vacuna antirrabica,141
+Cochabamba,31401,Punata,2018,5,N de perros y gatos con vacuna antirrabica,2107
+Cochabamba,30901,Quillacollo,2018,5,N de perros y gatos con vacuna antirrabica,6551
+Cochabamba,31304,Raqaypampa(eta),2018,5,N de perros y gatos con vacuna antirrabica,2133
+Beni,80201,Riberalta,2018,5,N de perros y gatos con vacuna antirrabica,30
+Cochabamba,31001,Sacaba,2018,5,N de perros y gatos con vacuna antirrabica,2946
+Cochabamba,30404,Sacabamba,2018,5,N de perros y gatos con vacuna antirrabica,25
+Potosí,50701,Sacaca,2018,5,N de perros y gatos con vacuna antirrabica,323
+Beni,80501,San Ignacio,2018,5,N de perros y gatos con vacuna antirrabica,180
+Santa Cruz,70301,San Ignacio De Velasco,2018,5,N de perros y gatos con vacuna antirrabica,263
+Beni,80102,San Javier(bni),2018,5,N de perros y gatos con vacuna antirrabica,54
+Santa Cruz,70501,San Jose De Chiquitos,2018,5,N de perros y gatos con vacuna antirrabica,2145
+Santa Cruz,70302,San Miguel De Velasco,2018,5,N de perros y gatos con vacuna antirrabica,250
+Santa Cruz,71005,San Pedro,2018,5,N de perros y gatos con vacuna antirrabica,22
+Potosí,50902,San Pedro De Quemes,2018,5,N de perros y gatos con vacuna antirrabica,9
+Santa Cruz,70303,San Rafael,2018,5,N de perros y gatos con vacuna antirrabica,276
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,5,N de perros y gatos con vacuna antirrabica,8544
+Santa Cruz,70602,Santa Rosa Del Sara,2018,5,N de perros y gatos con vacuna antirrabica,34
+Cochabamba,30702,Santivañes,2018,5,N de perros y gatos con vacuna antirrabica,395
+Pando,90303,Sena,2018,5,N de perros y gatos con vacuna antirrabica,203
+Cochabamba,31602,Shinaota,2018,5,N de perros y gatos con vacuna antirrabica,48
+Cochabamba,30703,Sicaya,2018,5,N de perros y gatos con vacuna antirrabica,100
+Cochabamba,30902,Sipe Sipe,2018,5,N de perros y gatos con vacuna antirrabica,352
+Cochabamba,30602,Tacopaya,2018,5,N de perros y gatos con vacuna antirrabica,226
+Cochabamba,31101,Tapacari,2018,5,N de perros y gatos con vacuna antirrabica,644
+Cochabamba,30401,Tarata,2018,5,N de perros y gatos con vacuna antirrabica,500
+Cochabamba,30903,Tiquipaya,2018,5,N de perros y gatos con vacuna antirrabica,876
+Cochabamba,30802,Toco,2018,5,N de perros y gatos con vacuna antirrabica,76
+Cochabamba,30803,Tolata,2018,5,N de perros y gatos con vacuna antirrabica,101
+Cochabamba,31201,Totora(cbba),2018,5,N de perros y gatos con vacuna antirrabica,123
+Cochabamba,31302,Vila Vila,2018,5,N de perros y gatos con vacuna antirrabica,498
+Tarija,60303,Villa Montes,2018,5,N de perros y gatos con vacuna antirrabica,176
+Cochabamba,31003,Villa Tunari,2018,5,N de perros y gatos con vacuna antirrabica,653
+Potosí,51501,Villazon,2018,5,N de perros y gatos con vacuna antirrabica,2380
+Cochabamba,30904,Vinto,2018,5,N de perros y gatos con vacuna antirrabica,707
+Santa Cruz,70201,Warnes,2018,5,N de perros y gatos con vacuna antirrabica,306
+Tarija,60301,Yacuiba,2018,5,N de perros y gatos con vacuna antirrabica,80
+Santa Cruz,70403,Yapacani,2018,5,N de perros y gatos con vacuna antirrabica,1051
+Cochabamba,30201,Aiquile,2018,6,N de perros y gatos con vacuna antirrabica,179
+Cochabamba,30601,Arque,2018,6,N de perros y gatos con vacuna antirrabica,9
+Cochabamba,31501,Bolivar,2018,6,N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30701,Capinota,2018,6,N de perros y gatos con vacuna antirrabica,200
+Tarija,60302,Carapari,2018,6,N de perros y gatos con vacuna antirrabica,1769
+Cochabamba,31204,Chimore,2018,6,N de perros y gatos con vacuna antirrabica,33
+Cochabamba,30303,Cocapata,2018,6,N de perros y gatos con vacuna antirrabica,873
+Cochabamba,30101,Cochabamba,2018,6,N de perros y gatos con vacuna antirrabica,1254
+Cochabamba,30905,Colcapirhua,2018,6,N de perros y gatos con vacuna antirrabica,804
+Potosí,50401,Colquechaca,2018,6,N de perros y gatos con vacuna antirrabica,175
+Santa Cruz,70102,Cotoca,2018,6,N de perros y gatos con vacuna antirrabica,190
+La Paz,20105,El Alto,2018,6,N de perros y gatos con vacuna antirrabica,419
+Santa Cruz,70105,El Torno,2018,6,N de perros y gatos con vacuna antirrabica,97
+Cochabamba,31206,Entre Rios Cbba,2018,6,N de perros y gatos con vacuna antirrabica,95
+Santa Cruz,70104,La Guardia,2018,6,N de perros y gatos con vacuna antirrabica,329
+La Paz,20101,La Paz,2018,6,N de perros y gatos con vacuna antirrabica,7
+Cochabamba,31301,Mizque,2018,6,N de perros y gatos con vacuna antirrabica,25
+Santa Cruz,71001,Montero,2018,6,N de perros y gatos con vacuna antirrabica,163
+Cochabamba,30302,Morochata,2018,6,N de perros y gatos con vacuna antirrabica,1243
+Santa Cruz,70202,Okinawa,2018,6,N de perros y gatos con vacuna antirrabica,51
+Cochabamba,30203,Omereque,2018,6,N de perros y gatos con vacuna antirrabica,381
+Oruro,40101,Oruro,2018,6,N de perros y gatos con vacuna antirrabica,258
+Santa Cruz,70502,Pailon,2018,6,N de perros y gatos con vacuna antirrabica,50
+Cochabamba,30202,Pasorapa,2018,6,N de perros y gatos con vacuna antirrabica,127
+Potosí,51203,Porco,2018,6,N de perros y gatos con vacuna antirrabica,26
+Santa Cruz,70103,Porongo,2018,6,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70601,Portachuelo,2018,6,N de perros y gatos con vacuna antirrabica,20
+Potosí,50101,Potosi,2018,6,N de perros y gatos con vacuna antirrabica,237
+Cochabamba,31205,Puerto Villarroel,2018,6,N de perros y gatos con vacuna antirrabica,207
+Cochabamba,30901,Quillacollo,2018,6,N de perros y gatos con vacuna antirrabica,1490
+Cochabamba,31304,Raqaypampa(eta),2018,6,N de perros y gatos con vacuna antirrabica,40
+Cochabamba,31001,Sacaba,2018,6,N de perros y gatos con vacuna antirrabica,276
+Potosí,50701,Sacaca,2018,6,N de perros y gatos con vacuna antirrabica,144
+Santa Cruz,70301,San Ignacio De Velasco,2018,6,N de perros y gatos con vacuna antirrabica,118
+Santa Cruz,70302,San Miguel De Velasco,2018,6,N de perros y gatos con vacuna antirrabica,25
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,6,N de perros y gatos con vacuna antirrabica,3318
+Cochabamba,30702,Santivañes,2018,6,N de perros y gatos con vacuna antirrabica,41
+Cochabamba,31602,Shinaota,2018,6,N de perros y gatos con vacuna antirrabica,120
+Cochabamba,30703,Sicaya,2018,6,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30902,Sipe Sipe,2018,6,N de perros y gatos con vacuna antirrabica,833
+Chuquisaca,10101,Sucre,2018,6,N de perros y gatos con vacuna antirrabica,1027
+Cochabamba,30602,Tacopaya,2018,6,N de perros y gatos con vacuna antirrabica,161
+Cochabamba,30903,Tiquipaya,2018,6,N de perros y gatos con vacuna antirrabica,682
+Cochabamba,30803,Tolata,2018,6,N de perros y gatos con vacuna antirrabica,9
+Tarija,60303,Villa Montes,2018,6,N de perros y gatos con vacuna antirrabica,126
+Cochabamba,31003,Villa Tunari,2018,6,N de perros y gatos con vacuna antirrabica,140
+Cochabamba,30904,Vinto,2018,6,N de perros y gatos con vacuna antirrabica,150
+Santa Cruz,70201,Warnes,2018,6,N de perros y gatos con vacuna antirrabica,707
+Santa Cruz,70403,Yapacani,2018,6,N de perros y gatos con vacuna antirrabica,15
+Cochabamba,30201,Aiquile,2018,7,N de perros y gatos con vacuna antirrabica,59
+Cochabamba,30601,Arque,2018,7,N de perros y gatos con vacuna antirrabica,5
+Cochabamba,31501,Bolivar,2018,7,N de perros y gatos con vacuna antirrabica,16
+Cochabamba,30701,Capinota,2018,7,N de perros y gatos con vacuna antirrabica,177
+Tarija,60302,Carapari,2018,7,N de perros y gatos con vacuna antirrabica,1289
+Potosí,50702,Caripuyo,2018,7,N de perros y gatos con vacuna antirrabica,86
+Cochabamba,31204,Chimore,2018,7,N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30303,Cocapata,2018,7,N de perros y gatos con vacuna antirrabica,710
+Cochabamba,30101,Cochabamba,2018,7,N de perros y gatos con vacuna antirrabica,234
+Cochabamba,30905,Colcapirhua,2018,7,N de perros y gatos con vacuna antirrabica,1236
+La Paz,20301,Coro Coro,2018,7,N de perros y gatos con vacuna antirrabica,200
+Santa Cruz,70102,Cotoca,2018,7,N de perros y gatos con vacuna antirrabica,78
+Santa Cruz,71106,Cuatro Cañadas,2018,7,N de perros y gatos con vacuna antirrabica,13
+La Paz,20105,El Alto,2018,7,N de perros y gatos con vacuna antirrabica,1050
+Santa Cruz,70105,El Torno,2018,7,N de perros y gatos con vacuna antirrabica,37
+Santa Cruz,70104,La Guardia,2018,7,N de perros y gatos con vacuna antirrabica,653
+La Paz,20101,La Paz,2018,7,N de perros y gatos con vacuna antirrabica,255
+Cochabamba,31301,Mizque,2018,7,N de perros y gatos con vacuna antirrabica,65
+Cochabamba,30302,Morochata,2018,7,N de perros y gatos con vacuna antirrabica,712
+Santa Cruz,70202,Okinawa,2018,7,N de perros y gatos con vacuna antirrabica,3
+Cochabamba,30203,Omereque,2018,7,N de perros y gatos con vacuna antirrabica,239
+Oruro,40101,Oruro,2018,7,N de perros y gatos con vacuna antirrabica,5
+Cochabamba,30202,Pasorapa,2018,7,N de perros y gatos con vacuna antirrabica,10
+Chuquisaca,10103,Poroma,2018,7,N de perros y gatos con vacuna antirrabica,199
+Santa Cruz,70103,Porongo,2018,7,N de perros y gatos con vacuna antirrabica,86
+Santa Cruz,70601,Portachuelo,2018,7,N de perros y gatos con vacuna antirrabica,49
+Potosí,50101,Potosi,2018,7,N de perros y gatos con vacuna antirrabica,716
+Cochabamba,30901,Quillacollo,2018,7,N de perros y gatos con vacuna antirrabica,282
+Cochabamba,31001,Sacaba,2018,7,N de perros y gatos con vacuna antirrabica,1731
+Potosí,50701,Sacaca,2018,7,N de perros y gatos con vacuna antirrabica,90
+Santa Cruz,70301,San Ignacio De Velasco,2018,7,N de perros y gatos con vacuna antirrabica,133
+Santa Cruz,70302,San Miguel De Velasco,2018,7,N de perros y gatos con vacuna antirrabica,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,7,N de perros y gatos con vacuna antirrabica,5453
+Cochabamba,30702,Santivañes,2018,7,N de perros y gatos con vacuna antirrabica,772
+Cochabamba,31602,Shinaota,2018,7,N de perros y gatos con vacuna antirrabica,60
+Cochabamba,30902,Sipe Sipe,2018,7,N de perros y gatos con vacuna antirrabica,92
+Oruro,40104,Soracachi,2018,7,N de perros y gatos con vacuna antirrabica,1
+Chuquisaca,10101,Sucre,2018,7,N de perros y gatos con vacuna antirrabica,23
+Cochabamba,30602,Tacopaya,2018,7,N de perros y gatos con vacuna antirrabica,109
+Chuquisaca,10601,Tarabuco,2018,7,N de perros y gatos con vacuna antirrabica,1996
+Cochabamba,30903,Tiquipaya,2018,7,N de perros y gatos con vacuna antirrabica,98
+Tarija,60303,Villa Montes,2018,7,N de perros y gatos con vacuna antirrabica,550
+Cochabamba,31003,Villa Tunari,2018,7,N de perros y gatos con vacuna antirrabica,88
+Potosí,51501,Villazon,2018,7,N de perros y gatos con vacuna antirrabica,90
+Cochabamba,30904,Vinto,2018,7,N de perros y gatos con vacuna antirrabica,208
+Santa Cruz,70201,Warnes,2018,7,N de perros y gatos con vacuna antirrabica,1069
+Potosí,51302,Acacio,2018,8,N de perros y gatos con vacuna antirrabica,1057
+La Paz,20201,Achacachi,2018,8,N de perros y gatos con vacuna antirrabica,8135
+La Paz,20104,Achocalla,2018,8,N de perros y gatos con vacuna antirrabica,5590
+Cochabamba,30201,Aiquile,2018,8,N de perros y gatos con vacuna antirrabica,6409
+Cochabamba,31303,Alalay,2018,8,N de perros y gatos con vacuna antirrabica,408
+Chuquisaca,10404,Alcala,2018,8,N de perros y gatos con vacuna antirrabica,2120
+La Paz,22002,Alto Beni,2018,8,N de perros y gatos con vacuna antirrabica,2100
+La Paz,20202,Ancoraimes,2018,8,N de perros y gatos con vacuna antirrabica,2686
+Oruro,41201,Andamarca,2018,8,N de perros y gatos con vacuna antirrabica,409
+Oruro,40603,Antequera,2018,8,N de perros y gatos con vacuna antirrabica,600
+Cochabamba,30402,Anzaldo,2018,8,N de perros y gatos con vacuna antirrabica,1499
+La Paz,20701,Apolo,2018,8,N de perros y gatos con vacuna antirrabica,3091
+Potosí,51301,Arampampa,2018,8,N de perros y gatos con vacuna antirrabica,1000
+Cochabamba,30403,Arbieto,2018,8,N de perros y gatos con vacuna antirrabica,6259
+Cochabamba,30601,Arque,2018,8,N de perros y gatos con vacuna antirrabica,1647
+Santa Cruz,71501,Ascencion De Guarayos,2018,8,N de perros y gatos con vacuna antirrabica,6478
+Potosí,50802,Atocha,2018,8,N de perros y gatos con vacuna antirrabica,2140
+La Paz,20503,Aucapata,2018,8,N de perros y gatos con vacuna antirrabica,1027
+La Paz,20502,Ayata,2018,8,N de perros y gatos con vacuna antirrabica,1971
+La Paz,21303,Ayo Ayo,2018,8,N de perros y gatos con vacuna antirrabica,1837
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,8,N de perros y gatos con vacuna antirrabica,4391
+Chuquisaca,10201,Azurduy,2018,8,N de perros y gatos con vacuna antirrabica,4110
+La Paz,21203,Batallas,2018,8,N de perros y gatos con vacuna antirrabica,4003
+Beni,80802,Baures,2018,8,N de perros y gatos con vacuna antirrabica,751
+Oruro,41202,Belen De Andamarca,2018,8,N de perros y gatos con vacuna antirrabica,104
+Potosí,50104,Belen De Urmiri,2018,8,N de perros y gatos con vacuna antirrabica,179
+Pando,90104,Bella Flor,2018,8,N de perros y gatos con vacuna antirrabica,712
+Tarija,60202,Bermejo,2018,8,N de perros y gatos con vacuna antirrabica,13232
+Potosí,50301,Betanzos,2018,8,N de perros y gatos con vacuna antirrabica,7580
+Cochabamba,31501,Bolivar,2018,8,N de perros y gatos con vacuna antirrabica,556
+Pando,90103,Bolpebra,2018,8,N de perros y gatos con vacuna antirrabica,646
+Santa Cruz,70707,Boyuibe,2018,8,N de perros y gatos con vacuna antirrabica,1584
+Santa Cruz,70401,Buena Vista,2018,8,N de perros y gatos con vacuna antirrabica,4380
+Santa Cruz,70703,Cabezas,2018,8,N de perros y gatos con vacuna antirrabica,7844
+La Paz,20905,Cairoma,2018,8,N de perros y gatos con vacuna antirrabica,1985
+Potosí,51102,"Caiza ""d""",2018,8,N de perros y gatos con vacuna antirrabica,2809
+La Paz,21003,Cajuata,2018,8,N de perros y gatos con vacuna antirrabica,2500
+La Paz,20303,Calacoto,2018,8,N de perros y gatos con vacuna antirrabica,1670
+La Paz,21304,Calamarca,2018,8,N de perros y gatos con vacuna antirrabica,2391
+Chuquisaca,10701,Camargo,2018,8,N de perros y gatos con vacuna antirrabica,2287
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,8,N de perros y gatos con vacuna antirrabica,811
+Santa Cruz,70706,Camiri,2018,8,N de perros y gatos con vacuna antirrabica,8609
+Cochabamba,30701,Capinota,2018,8,N de perros y gatos con vacuna antirrabica,4451
+La Paz,20302,Caquiaviri,2018,8,N de perros y gatos con vacuna antirrabica,2730
+Oruro,40102,Caracollo,2018,8,N de perros y gatos con vacuna antirrabica,4233
+La Paz,22001,Caranavi,2018,8,N de perros y gatos con vacuna antirrabica,11883
+Oruro,41503,Carangas,2018,8,N de perros y gatos con vacuna antirrabica,32
+Tarija,60302,Carapari,2018,8,N de perros y gatos con vacuna antirrabica,4012
+Potosí,50702,Caripuyo,2018,8,N de perros y gatos con vacuna antirrabica,1479
+Santa Cruz,71403,Carmen Rivero Torrez,2018,8,N de perros y gatos con vacuna antirrabica,1518
+La Paz,21902,Catacora,2018,8,N de perros y gatos con vacuna antirrabica,455
+La Paz,21803,Chacarilla,2018,8,N de perros y gatos con vacuna antirrabica,380
+Oruro,40201,Challapata,2018,8,N de perros y gatos con vacuna antirrabica,5657
+Potosí,50302,Chaqui,2018,8,N de perros y gatos con vacuna antirrabica,2743
+Santa Cruz,70702,Charagua,2018,8,N de perros y gatos con vacuna antirrabica,9025
+La Paz,20305,Charaña,2018,8,N de perros y gatos con vacuna antirrabica,460
+Potosí,50202,Chayanta,2018,8,N de perros y gatos con vacuna antirrabica,2853
+Cochabamba,31204,Chimore,2018,8,N de perros y gatos con vacuna antirrabica,3233
+Oruro,40903,Chipaya,2018,8,N de perros y gatos con vacuna antirrabica,140
+Oruro,40302,Choque Cota,2018,8,N de perros y gatos con vacuna antirrabica,217
+La Paz,20203,Chua Cocani,2018,8,N de perros y gatos con vacuna antirrabica,900
+La Paz,21101,Chulumani (v. De La Libertad),2018,8,N de perros y gatos con vacuna antirrabica,2566
+La Paz,20501,Chuma,2018,8,N de perros y gatos con vacuna antirrabica,2212
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,8,N de perros y gatos con vacuna antirrabica,1196
+Potosí,51103,Ckochas,2018,8,N de perros y gatos con vacuna antirrabica,4660
+Cochabamba,30801,Cliza,2018,8,N de perros y gatos con vacuna antirrabica,7205
+Pando,90101,Cobija,2018,8,N de perros y gatos con vacuna antirrabica,13141
+Cochabamba,30303,Cocapata,2018,8,N de perros y gatos con vacuna antirrabica,129
+Cochabamba,30101,Cochabamba,2018,8,N de perros y gatos con vacuna antirrabica,216729
+Oruro,40902,Coipasa,2018,8,N de perros y gatos con vacuna antirrabica,45
+Cochabamba,30905,Colcapirhua,2018,8,N de perros y gatos con vacuna antirrabica,15753
+Potosí,50901,"Colcha ""k""",2018,8,N de perros y gatos con vacuna antirrabica,2133
+La Paz,21307,Collana,2018,8,N de perros y gatos con vacuna antirrabica,763
+Cochabamba,31002,Colomi,2018,8,N de perros y gatos con vacuna antirrabica,4876
+Santa Cruz,70603,Colpa Belgica,2018,8,N de perros y gatos con vacuna antirrabica,1623
+Potosí,50401,Colquechaca,2018,8,N de perros y gatos con vacuna antirrabica,4729
+La Paz,21306,Colquencha,2018,8,N de perros y gatos con vacuna antirrabica,1814
+La Paz,21004,Colquiri,2018,8,N de perros y gatos con vacuna antirrabica,4028
+La Paz,20304,Comanche,2018,8,N de perros y gatos con vacuna antirrabica,1347
+Santa Cruz,71301,Comarapa,2018,8,N de perros y gatos con vacuna antirrabica,5282
+La Paz,20605,Combaya,2018,8,N de perros y gatos con vacuna antirrabica,658
+Santa Cruz,71101,Concepcion,2018,8,N de perros y gatos con vacuna antirrabica,5466
+La Paz,21701,Copacabana,2018,8,N de perros y gatos con vacuna antirrabica,2810
+La Paz,21402,Coripata,2018,8,N de perros y gatos con vacuna antirrabica,2912
+La Paz,20301,Coro Coro,2018,8,N de perros y gatos con vacuna antirrabica,1930
+La Paz,21401,Coroico,2018,8,N de perros y gatos con vacuna antirrabica,3367
+Oruro,40301,Corque,2018,8,N de perros y gatos con vacuna antirrabica,984
+Potosí,50601,Cotagaita,2018,8,N de perros y gatos con vacuna antirrabica,6911
+Santa Cruz,70102,Cotoca,2018,8,N de perros y gatos con vacuna antirrabica,14340
+Oruro,40503,Cruz De Machacamarca,2018,8,N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,71106,Cuatro Cañadas,2018,8,N de perros y gatos con vacuna antirrabica,7179
+Santa Cruz,70704,Cuevo,2018,8,N de perros y gatos con vacuna antirrabica,664
+Chuquisaca,10902,Culpina,2018,8,N de perros y gatos con vacuna antirrabica,4464
+Oruro,40401,Curahuara De Carangas,2018,8,N de perros y gatos con vacuna antirrabica,358
+La Paz,21602,Curva,2018,8,N de perros y gatos con vacuna antirrabica,541
+La Paz,20804,Desaguadero,2018,8,N de perros y gatos con vacuna antirrabica,1649
+La Paz,20105,El Alto,2018,8,N de perros y gatos con vacuna antirrabica,288563
+Oruro,40103,El Choro,2018,8,N de perros y gatos con vacuna antirrabica,1220
+Santa Cruz,71503,El Puente(stc),2018,8,N de perros y gatos con vacuna antirrabica,2668
+Tarija,60502,El Puente(tja),2018,8,N de perros y gatos con vacuna antirrabica,3543
+Santa Cruz,70105,El Torno,2018,8,N de perros y gatos con vacuna antirrabica,16831
+Chuquisaca,10405,El Villar,2018,8,N de perros y gatos con vacuna antirrabica,2500
+Tarija,60601,Entre Rios Trj,2018,8,N de perros y gatos con vacuna antirrabica,7004
+Cochabamba,31206,Entre Rios Cbba,2018,8,N de perros y gatos con vacuna antirrabica,5335
+Oruro,40502,Escara,2018,8,N de perros y gatos con vacuna antirrabica,40
+La Paz,20405,Escoma,2018,8,N de perros y gatos con vacuna antirrabica,1240
+Oruro,40505,Esmeralda,2018,8,N de perros y gatos con vacuna antirrabica,47
+Oruro,41101,Eucaliptus,2018,8,N de perros y gatos con vacuna antirrabica,1139
+Pando,90503,Eureka (santos Mercado),2018,8,N de perros y gatos con vacuna antirrabica,255
+Beni,80402,Exaltacion,2018,8,N de perros y gatos con vacuna antirrabica,395
+Santa Cruz,71004,Fernandez Alonso,2018,8,N de perros y gatos con vacuna antirrabica,3752
+Pando,90203,Filadelfia,2018,8,N de perros y gatos con vacuna antirrabica,998
+Santa Cruz,71002,General Saavedra,2018,8,N de perros y gatos con vacuna antirrabica,2655
+La Paz,21601,Gral. J.j. Perez (charazani),2018,8,N de perros y gatos con vacuna antirrabica,1852
+La Paz,20602,Guanay,2018,8,N de perros y gatos con vacuna antirrabica,2780
+La Paz,20802,Guaqui,2018,8,N de perros y gatos con vacuna antirrabica,1750
+Beni,80202,Guayaramerin,2018,8,N de perros y gatos con vacuna antirrabica,7459
+Santa Cruz,70705,Gutierrez,2018,8,N de perros y gatos con vacuna antirrabica,3771
+Chuquisaca,10502,Huacareta,2018,8,N de perros y gatos con vacuna antirrabica,1263
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,8,N de perros y gatos con vacuna antirrabica,930
+Oruro,40501,Huachacalla,2018,8,N de perros y gatos con vacuna antirrabica,196
+Oruro,40701,Huanuni,2018,8,N de perros y gatos con vacuna antirrabica,5874
+Beni,80803,Huaracaje,2018,8,N de perros y gatos con vacuna antirrabica,768
+La Paz,20204,Huarina,2018,8,N de perros y gatos con vacuna antirrabica,1600
+La Paz,20206,Huatajata,2018,8,N de perros y gatos con vacuna antirrabica,546
+Oruro,41601,Huayllamarca,2018,8,N de perros y gatos con vacuna antirrabica,881
+La Paz,20404,Humanata,2018,8,N de perros y gatos con vacuna antirrabica,1160
+La Paz,21005,Ichoca,2018,8,N de perros y gatos con vacuna antirrabica,1700
+Chuquisaca,10304,Icla,2018,8,N de perros y gatos con vacuna antirrabica,3034
+Chuquisaca,10703,Incahuasi,2018,8,N de perros y gatos con vacuna antirrabica,2530
+Pando,90402,Ingavi (humaita),2018,8,N de perros y gatos con vacuna antirrabica,211
+La Paz,21001,Inquisivi,2018,8,N de perros y gatos con vacuna antirrabica,2790
+La Paz,21102,Irupana (villa De Lanza),2018,8,N de perros y gatos con vacuna antirrabica,3181
+La Paz,21501,Ixiamas,2018,8,N de perros y gatos con vacuna antirrabica,2342
+La Paz,20806,Jesus De Machaca,2018,8,N de perros y gatos con vacuna antirrabica,3530
+La Paz,21105,La Asunta,2018,8,N de perros y gatos con vacuna antirrabica,6685
+Santa Cruz,70104,La Guardia,2018,8,N de perros y gatos con vacuna antirrabica,37514
+La Paz,20101,La Paz,2018,8,N de perros y gatos con vacuna antirrabica,193758
+Oruro,41501,La Rivera,2018,8,N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,70701,Lagunillas,2018,8,N de perros y gatos con vacuna antirrabica,1887
+La Paz,21202,Laja,2018,8,N de perros y gatos con vacuna antirrabica,5636
+Chuquisaca,10903,Las Carreras,2018,8,N de perros y gatos con vacuna antirrabica,908
+La Paz,21006,Licoma Pampa,2018,8,N de perros y gatos con vacuna antirrabica,700
+Potosí,50203,Llallagua,2018,8,N de perros y gatos con vacuna antirrabica,11720
+Potosí,51401,Llica,2018,8,N de perros y gatos con vacuna antirrabica,664
+Beni,80601,Loreto,2018,8,N de perros y gatos con vacuna antirrabica,401
+La Paz,20901,Luribay,2018,8,N de perros y gatos con vacuna antirrabica,2123
+Oruro,40702,Machacamarca,2018,8,N de perros y gatos con vacuna antirrabica,993
+Chuquisaca,11003,Machareti,2018,8,N de perros y gatos con vacuna antirrabica,2062
+Beni,80801,Magdalena,2018,8,N de perros y gatos con vacuna antirrabica,1848
+Santa Cruz,70903,Mairana,2018,8,N de perros y gatos con vacuna antirrabica,3540
+La Paz,20904,Malla,2018,8,N de perros y gatos con vacuna antirrabica,902
+La Paz,20607,Mapiri,2018,8,N de perros y gatos con vacuna antirrabica,2500
+La Paz,20103,Mecapaca,2018,8,N de perros y gatos con vacuna antirrabica,3779
+Santa Cruz,71003,Mineros,2018,8,N de perros y gatos con vacuna antirrabica,7112
+Cochabamba,31301,Mizque,2018,8,N de perros y gatos con vacuna antirrabica,4602
+La Paz,20402,Mocomoco,2018,8,N de perros y gatos con vacuna antirrabica,2792
+Potosí,51002,Mojinete,2018,8,N de perros y gatos con vacuna antirrabica,108
+Chuquisaca,10303,Mojocoya,2018,8,N de perros y gatos con vacuna antirrabica,2503
+Chuquisaca,10501,Monteagudo,2018,8,N de perros y gatos con vacuna antirrabica,4422
+Santa Cruz,71001,Montero,2018,8,N de perros y gatos con vacuna antirrabica,37951
+Santa Cruz,70803,Moro Moro,2018,8,N de perros y gatos con vacuna antirrabica,955
+Cochabamba,30302,Morochata,2018,8,N de perros y gatos con vacuna antirrabica,416
+Pando,90401,Nacebe (santa Rosa Del Abuna),2018,8,N de perros y gatos con vacuna antirrabica,500
+La Paz,20307,Nazacara De Pacajes,2018,8,N de perros y gatos con vacuna antirrabica,137
+Pando,90501,Nuevo Manoa (nueva Esperanza),2018,8,N de perros y gatos con vacuna antirrabica,250
+Potosí,50404,Ocuri,2018,8,N de perros y gatos con vacuna antirrabica,2912
+Santa Cruz,70202,Okinawa,2018,8,N de perros y gatos con vacuna antirrabica,3548
+Cochabamba,30203,Omereque,2018,8,N de perros y gatos con vacuna antirrabica,1410
+Oruro,40101,Oruro,2018,8,N de perros y gatos con vacuna antirrabica,112971
+Tarija,60201,Padcaya,2018,8,N de perros y gatos con vacuna antirrabica,6597
+Chuquisaca,10401,Padilla,2018,8,N de perros y gatos con vacuna antirrabica,5607
+Santa Cruz,70502,Pailon,2018,8,N de perros y gatos con vacuna antirrabica,11373
+La Paz,20102,Palca,2018,8,N de perros y gatos con vacuna antirrabica,4239
+La Paz,21104,Palos Blancos,2018,8,N de perros y gatos con vacuna antirrabica,6440
+Oruro,40802,Pampa Aullagas,2018,8,N de perros y gatos con vacuna antirrabica,490
+Santa Cruz,70902,Pampa Grande,2018,8,N de perros y gatos con vacuna antirrabica,3090
+La Paz,21802,Papel Pampa,2018,8,N de perros y gatos con vacuna antirrabica,1250
+Cochabamba,30202,Pasorapa,2018,8,N de perros y gatos con vacuna antirrabica,683
+La Paz,21305,Patacamaya,2018,8,N de perros y gatos con vacuna antirrabica,4720
+Oruro,40602,Pazña,2018,8,N de perros y gatos con vacuna antirrabica,1482
+La Paz,20702,Pelechuco,2018,8,N de perros y gatos con vacuna antirrabica,1528
+Potosí,50403,Pocoata,2018,8,N de perros y gatos con vacuna antirrabica,4032
+Cochabamba,31203,Pocona,2018,8,N de perros y gatos con vacuna antirrabica,1554
+Cochabamba,31202,Pojo (cbba),2018,8,N de perros y gatos con vacuna antirrabica,1389
+Oruro,40601,Poopo,2018,8,N de perros y gatos con vacuna antirrabica,1151
+Potosí,51203,Porco,2018,8,N de perros y gatos con vacuna antirrabica,2291
+Chuquisaca,10103,Poroma,2018,8,N de perros y gatos con vacuna antirrabica,4555
+Santa Cruz,70103,Porongo,2018,8,N de perros y gatos con vacuna antirrabica,4800
+Santa Cruz,70601,Portachuelo,2018,8,N de perros y gatos con vacuna antirrabica,4631
+Pando,90102,Porvenir,2018,8,N de perros y gatos con vacuna antirrabica,2003
+Santa Cruz,70804,Postrer Valle,2018,8,N de perros y gatos con vacuna antirrabica,661
+Potosí,50101,Potosi,2018,8,N de perros y gatos con vacuna antirrabica,52776
+Chuquisaca,10302,Presto,2018,8,N de perros y gatos con vacuna antirrabica,3200
+Santa Cruz,70805,Pucara,2018,8,N de perros y gatos con vacuna antirrabica,804
+La Paz,21201,Pucarani,2018,8,N de perros y gatos con vacuna antirrabica,8942
+La Paz,20401,Puerto Acosta,2018,8,N de perros y gatos con vacuna antirrabica,1350
+La Paz,20403,Puerto Carabuco,2018,8,N de perros y gatos con vacuna antirrabica,2436
+Pando,90301,Puerto Gonzalo Moreno,2018,8,N de perros y gatos con vacuna antirrabica,360
+La Paz,21204,Puerto Perez,2018,8,N de perros y gatos con vacuna antirrabica,1045
+Santa Cruz,71402,Puerto Quijarro,2018,8,N de perros y gatos con vacuna antirrabica,4116
+Pando,90201,Puerto Rico,2018,8,N de perros y gatos con vacuna antirrabica,984
+Santa Cruz,71401,Puerto Suarez,2018,8,N de perros y gatos con vacuna antirrabica,4817
+Cochabamba,31205,Puerto Villarroel,2018,8,N de perros y gatos con vacuna antirrabica,8799
+Potosí,51101,Puna,2018,8,N de perros y gatos con vacuna antirrabica,5240
+La Paz,20604,Quiabaya,2018,8,N de perros y gatos con vacuna antirrabica,550
+Cochabamba,30901,Quillacollo,2018,8,N de perros y gatos con vacuna antirrabica,36577
+La Paz,21002,Quime,2018,8,N de perros y gatos con vacuna antirrabica,1880
+Santa Cruz,70904,Quirusillas,2018,8,N de perros y gatos con vacuna antirrabica,571
+Cochabamba,31304,Raqaypampa(eta),2018,8,N de perros y gatos con vacuna antirrabica,1731
+Potosí,50402,Ravelo,2018,8,N de perros y gatos con vacuna antirrabica,5219
+Beni,80301,Reyes,2018,8,N de perros y gatos con vacuna antirrabica,1800
+Beni,80201,Riberalta,2018,8,N de perros y gatos con vacuna antirrabica,10691
+Santa Cruz,70503,Robore,2018,8,N de perros y gatos con vacuna antirrabica,3469
+Beni,80304,Rurrenabaque,2018,8,N de perros y gatos con vacuna antirrabica,3624
+Oruro,40901,Sabaya,2018,8,N de perros y gatos con vacuna antirrabica,352
+Cochabamba,31001,Sacaba,2018,8,N de perros y gatos con vacuna antirrabica,68010
+Cochabamba,30404,Sacabamba,2018,8,N de perros y gatos con vacuna antirrabica,1108
+Potosí,50701,Sacaca,2018,8,N de perros y gatos con vacuna antirrabica,4174
+Santa Cruz,71302,Saipina,2018,8,N de perros y gatos con vacuna antirrabica,1869
+Oruro,40801,Salinas De Garci Mendoza,2018,8,N de perros y gatos con vacuna antirrabica,1089
+Santa Cruz,70901,Samaipata,2018,8,N de perros y gatos con vacuna antirrabica,3585
+Potosí,51601,San Agustin,2018,8,N de perros y gatos con vacuna antirrabica,321
+Beni,80602,San Andres,2018,8,N de perros y gatos con vacuna antirrabica,2749
+La Paz,20805,San Andres De Machaca,2018,8,N de perros y gatos con vacuna antirrabica,1285
+Potosí,51003,San Antonio De Esmoruco,2018,8,N de perros y gatos con vacuna antirrabica,238
+Santa Cruz,71105,San Antonio De Lomerio,2018,8,N de perros y gatos con vacuna antirrabica,1994
+Beni,80302,San Borja,2018,8,N de perros y gatos con vacuna antirrabica,2290
+La Paz,21502,San Buena Ventura,2018,8,N de perros y gatos con vacuna antirrabica,2210
+Santa Cruz,70402,San Carlos,2018,8,N de perros y gatos con vacuna antirrabica,6781
+Beni,80501,San Ignacio,2018,8,N de perros y gatos con vacuna antirrabica,3751
+Santa Cruz,70301,San Ignacio De Velasco,2018,8,N de perros y gatos con vacuna antirrabica,9462
+Beni,80102,San Javier(bni),2018,8,N de perros y gatos con vacuna antirrabica,544
+Santa Cruz,71102,San Javier(stc),2018,8,N de perros y gatos con vacuna antirrabica,2839
+Beni,80701,San Joaquin,2018,8,N de perros y gatos con vacuna antirrabica,1230
+Santa Cruz,70501,San Jose De Chiquitos,2018,8,N de perros y gatos con vacuna antirrabica,8166
+Santa Cruz,70404,San Juan De Yapacani,2018,8,N de perros y gatos con vacuna antirrabica,502
+Santa Cruz,71104,San Julian,2018,8,N de perros y gatos con vacuna antirrabica,15115
+Pando,90302,San Lorenzo(pnd),2018,8,N de perros y gatos con vacuna antirrabica,1484
+Tarija,60501,San Lorenzo(tja),2018,8,N de perros y gatos con vacuna antirrabica,11139
+Chuquisaca,10702,San Lucas,2018,8,N de perros y gatos con vacuna antirrabica,7472
+Santa Cruz,71201,San Matias,2018,8,N de perros y gatos con vacuna antirrabica,5760
+Santa Cruz,70302,San Miguel De Velasco,2018,8,N de perros y gatos con vacuna antirrabica,2649
+Potosí,51001,San Pablo De Lipez,2018,8,N de perros y gatos con vacuna antirrabica,300
+Santa Cruz,71005,San Pedro,2018,8,N de perros y gatos con vacuna antirrabica,5299
+Potosí,50501,San Pedro De Buena Vista,2018,8,N de perros y gatos con vacuna antirrabica,7732
+La Paz,21801,San Pedro De Curahuara,2018,8,N de perros y gatos con vacuna antirrabica,1550
+Potosí,50902,San Pedro De Quemes,2018,8,N de perros y gatos con vacuna antirrabica,107
+La Paz,21702,San Pedro De Tiquina,2018,8,N de perros y gatos con vacuna antirrabica,1095
+Pando,90202,San Pedro(pnd),2018,8,N de perros y gatos con vacuna antirrabica,366
+Santa Cruz,70303,San Rafael,2018,8,N de perros y gatos con vacuna antirrabica,982
+Santa Cruz,71103,San Ramon Scz,2018,8,N de perros y gatos con vacuna antirrabica,1802
+Beni,80401,Santa Ana,2018,8,N de perros y gatos con vacuna antirrabica,4432
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,8,N de perros y gatos con vacuna antirrabica,392610
+Beni,80303,Santa Rosa,2018,8,N de perros y gatos con vacuna antirrabica,2275
+Santa Cruz,70602,Santa Rosa Del Sara,2018,8,N de perros y gatos con vacuna antirrabica,6528
+La Paz,20308,Santiago De Callapa,2018,8,N de perros y gatos con vacuna antirrabica,1210
+Oruro,41401,Santiago De Huari,2018,8,N de perros y gatos con vacuna antirrabica,1313
+La Paz,20205,Santiago De Huata,2018,8,N de perros y gatos con vacuna antirrabica,1620
+La Paz,21901,Santiago De Machaca,2018,8,N de perros y gatos con vacuna antirrabica,742
+Cochabamba,30702,Santivañes,2018,8,N de perros y gatos con vacuna antirrabica,905
+Oruro,40202,Santuario De Quillacas,2018,8,N de perros y gatos con vacuna antirrabica,420
+La Paz,20902,Sapahaqui,2018,8,N de perros y gatos con vacuna antirrabica,2093
+Pando,90303,Sena,2018,8,N de perros y gatos con vacuna antirrabica,721
+Cochabamba,31602,Shinaota,2018,8,N de perros y gatos con vacuna antirrabica,2111
+La Paz,21301,Sica Sica (villa Aroma),2018,8,N de perros y gatos con vacuna antirrabica,4810
+Cochabamba,30703,Sicaya,2018,8,N de perros y gatos con vacuna antirrabica,711
+Cochabamba,30902,Sipe Sipe,2018,8,N de perros y gatos con vacuna antirrabica,15732
+Chuquisaca,10403,Sopachuy,2018,8,N de perros y gatos con vacuna antirrabica,2232
+Oruro,40104,Soracachi,2018,8,N de perros y gatos con vacuna antirrabica,3086
+La Paz,20601,Sorata,2018,8,N de perros y gatos con vacuna antirrabica,4135
+Chuquisaca,10101,Sucre,2018,8,N de perros y gatos con vacuna antirrabica,93584
+La Paz,20603,Tacacoma,2018,8,N de perros y gatos con vacuna antirrabica,1600
+Potosí,50303,Tacobamba,2018,8,N de perros y gatos con vacuna antirrabica,2923
+Cochabamba,30602,Tacopaya,2018,8,N de perros y gatos con vacuna antirrabica,1403
+Potosí,51402,Tahua,2018,8,N de perros y gatos con vacuna antirrabica,330
+Cochabamba,31101,Tapacari,2018,8,N de perros y gatos con vacuna antirrabica,5022
+Chuquisaca,10601,Tarabuco,2018,8,N de perros y gatos con vacuna antirrabica,3409
+La Paz,20807,Taraco,2018,8,N de perros y gatos con vacuna antirrabica,1536
+Cochabamba,30401,Tarata,2018,8,N de perros y gatos con vacuna antirrabica,2398
+Tarija,60101,Tarija,2018,8,N de perros y gatos con vacuna antirrabica,66009
+Chuquisaca,10202,Tarvita,2018,8,N de perros y gatos con vacuna antirrabica,4844
+La Paz,20608,Teoponte,2018,8,N de perros y gatos con vacuna antirrabica,2310
+La Paz,20803,Tiawanacu,2018,8,N de perros y gatos con vacuna antirrabica,3640
+Potosí,50102,Tinguipaya,2018,8,N de perros y gatos con vacuna antirrabica,2541
+La Paz,20606,Tipuani,2018,8,N de perros y gatos con vacuna antirrabica,1575
+Cochabamba,30903,Tiquipaya,2018,8,N de perros y gatos con vacuna antirrabica,18719
+La Paz,21703,Tito Yupanqui (parquipujio),2018,8,N de perros y gatos con vacuna antirrabica,273
+Cochabamba,30802,Toco,2018,8,N de perros y gatos con vacuna antirrabica,2255
+Oruro,41502,Todos Santos,2018,8,N de perros y gatos con vacuna antirrabica,41
+Cochabamba,30803,Tolata,2018,8,N de perros y gatos con vacuna antirrabica,3862
+Oruro,41001,Toledo,2018,8,N de perros y gatos con vacuna antirrabica,1333
+Potosí,51202,Tomave,2018,8,N de perros y gatos con vacuna antirrabica,3574
+Chuquisaca,10402,Tomina,2018,8,N de perros y gatos con vacuna antirrabica,3495
+Potosí,50502,Toro Toro,2018,8,N de perros y gatos con vacuna antirrabica,3006
+Oruro,41301,Totora(orr),2018,8,N de perros y gatos con vacuna antirrabica,713
+Santa Cruz,70802,Trigal,2018,8,N de perros y gatos con vacuna antirrabica,941
+Beni,80101,Trinidad,2018,8,N de perros y gatos con vacuna antirrabica,587
+Potosí,50801,Tupiza,2018,8,N de perros y gatos con vacuna antirrabica,14138
+Oruro,40402,Turco,2018,8,N de perros y gatos con vacuna antirrabica,397
+La Paz,21302,Umala,2018,8,N de perros y gatos con vacuna antirrabica,1430
+Potosí,50201,Uncia,2018,8,N de perros y gatos con vacuna antirrabica,5514
+Tarija,60401,Uriondo (a. Concepcion),2018,8,N de perros y gatos con vacuna antirrabica,6442
+Santa Cruz,71502,Urubicha,2018,8,N de perros y gatos con vacuna antirrabica,2093
+Potosí,51201,Uyuni,2018,8,N de perros y gatos con vacuna antirrabica,7686
+Santa Cruz,70801,Vallegrande,2018,8,N de perros y gatos con vacuna antirrabica,4614
+La Paz,20801,Viacha,2018,8,N de perros y gatos con vacuna antirrabica,31411
+Cochabamba,31302,Vila Vila,2018,8,N de perros y gatos con vacuna antirrabica,1294
+Chuquisaca,10704,Villa Charcas,2018,8,N de perros y gatos con vacuna antirrabica,2500
+Tarija,60303,Villa Montes,2018,8,N de perros y gatos con vacuna antirrabica,12098
+Pando,90502,Villa Nueva (loma Alta),2018,8,N de perros y gatos con vacuna antirrabica,228
+Chuquisaca,10801,Villa Serrano,2018,8,N de perros y gatos con vacuna antirrabica,2882
+Cochabamba,31003,Villa Tunari,2018,8,N de perros y gatos con vacuna antirrabica,4947
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,8,N de perros y gatos con vacuna antirrabica,728
+Potosí,51501,Villazon,2018,8,N de perros y gatos con vacuna antirrabica,13240
+Cochabamba,30904,Vinto,2018,8,N de perros y gatos con vacuna antirrabica,1108
+Potosí,50602,Vitichi,2018,8,N de perros y gatos con vacuna antirrabica,2730
+La Paz,20306,Waldo Ballivian,2018,8,N de perros y gatos con vacuna antirrabica,594
+Santa Cruz,70201,Warnes,2018,8,N de perros y gatos con vacuna antirrabica,38717
+La Paz,20903,Yaco,2018,8,N de perros y gatos con vacuna antirrabica,1244
+Tarija,60301,Yacuiba,2018,8,N de perros y gatos con vacuna antirrabica,1038
+Chuquisaca,10602,Yamparaez,2018,8,N de perros y gatos con vacuna antirrabica,2335
+La Paz,21103,Yanacachi,2018,8,N de perros y gatos con vacuna antirrabica,1184
+Santa Cruz,70403,Yapacani,2018,8,N de perros y gatos con vacuna antirrabica,17579
+Potosí,50103,Yocalla,2018,8,N de perros y gatos con vacuna antirrabica,1286
+Chuquisaca,10102,Yotala,2018,8,N de perros y gatos con vacuna antirrabica,2395
+Oruro,40504,Yunguyo De Litoral,2018,8,N de perros y gatos con vacuna antirrabica,20
+Chuquisaca,10301,Zudañez,2018,8,N de perros y gatos con vacuna antirrabica,2858
+La Paz,20201,Achacachi,2018,9,N de perros y gatos con vacuna antirrabica,267
+La Paz,20104,Achocalla,2018,9,N de perros y gatos con vacuna antirrabica,233
+Cochabamba,30201,Aiquile,2018,9,N de perros y gatos con vacuna antirrabica,469
+Cochabamba,31303,Alalay,2018,9,N de perros y gatos con vacuna antirrabica,212
+La Paz,22002,Alto Beni,2018,9,N de perros y gatos con vacuna antirrabica,84
+Oruro,41201,Andamarca,2018,9,N de perros y gatos con vacuna antirrabica,91
+Oruro,40603,Antequera,2018,9,N de perros y gatos con vacuna antirrabica,50
+La Paz,20701,Apolo,2018,9,N de perros y gatos con vacuna antirrabica,867
+Cochabamba,30403,Arbieto,2018,9,N de perros y gatos con vacuna antirrabica,112
+Cochabamba,30601,Arque,2018,9,N de perros y gatos con vacuna antirrabica,53
+Santa Cruz,71501,Ascencion De Guarayos,2018,9,N de perros y gatos con vacuna antirrabica,146
+Potosí,50802,Atocha,2018,9,N de perros y gatos con vacuna antirrabica,34
+La Paz,20503,Aucapata,2018,9,N de perros y gatos con vacuna antirrabica,98
+La Paz,21303,Ayo Ayo,2018,9,N de perros y gatos con vacuna antirrabica,500
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,9,N de perros y gatos con vacuna antirrabica,49
+Chuquisaca,10201,Azurduy,2018,9,N de perros y gatos con vacuna antirrabica,461
+La Paz,21203,Batallas,2018,9,N de perros y gatos con vacuna antirrabica,234
+Beni,80802,Baures,2018,9,N de perros y gatos con vacuna antirrabica,5
+Oruro,41202,Belen De Andamarca,2018,9,N de perros y gatos con vacuna antirrabica,31
+Pando,90104,Bella Flor,2018,9,N de perros y gatos con vacuna antirrabica,59
+Tarija,60202,Bermejo,2018,9,N de perros y gatos con vacuna antirrabica,124
+Cochabamba,31501,Bolivar,2018,9,N de perros y gatos con vacuna antirrabica,257
+Santa Cruz,70707,Boyuibe,2018,9,N de perros y gatos con vacuna antirrabica,60
+Santa Cruz,70401,Buena Vista,2018,9,N de perros y gatos con vacuna antirrabica,251
+Santa Cruz,70703,Cabezas,2018,9,N de perros y gatos con vacuna antirrabica,1729
+La Paz,20905,Cairoma,2018,9,N de perros y gatos con vacuna antirrabica,499
+Potosí,51102,"Caiza ""d""",2018,9,N de perros y gatos con vacuna antirrabica,98
+Chuquisaca,10701,Camargo,2018,9,N de perros y gatos con vacuna antirrabica,1006
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,9,N de perros y gatos con vacuna antirrabica,16
+Santa Cruz,70706,Camiri,2018,9,N de perros y gatos con vacuna antirrabica,895
+Cochabamba,30701,Capinota,2018,9,N de perros y gatos con vacuna antirrabica,108
+Oruro,40102,Caracollo,2018,9,N de perros y gatos con vacuna antirrabica,355
+La Paz,22001,Caranavi,2018,9,N de perros y gatos con vacuna antirrabica,130
+Tarija,60302,Carapari,2018,9,N de perros y gatos con vacuna antirrabica,406
+Potosí,50702,Caripuyo,2018,9,N de perros y gatos con vacuna antirrabica,12
+La Paz,21902,Catacora,2018,9,N de perros y gatos con vacuna antirrabica,19
+Oruro,40201,Challapata,2018,9,N de perros y gatos con vacuna antirrabica,2002
+Santa Cruz,70702,Charagua,2018,9,N de perros y gatos con vacuna antirrabica,353
+Potosí,50202,Chayanta,2018,9,N de perros y gatos con vacuna antirrabica,158
+Cochabamba,31204,Chimore,2018,9,N de perros y gatos con vacuna antirrabica,652
+Oruro,40302,Choque Cota,2018,9,N de perros y gatos con vacuna antirrabica,41
+La Paz,21101,Chulumani (v. De La Libertad),2018,9,N de perros y gatos con vacuna antirrabica,309
+La Paz,20501,Chuma,2018,9,N de perros y gatos con vacuna antirrabica,54
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,9,N de perros y gatos con vacuna antirrabica,45
+Potosí,51103,Ckochas,2018,9,N de perros y gatos con vacuna antirrabica,930
+Cochabamba,30801,Cliza,2018,9,N de perros y gatos con vacuna antirrabica,528
+Cochabamba,30303,Cocapata,2018,9,N de perros y gatos con vacuna antirrabica,144
+Cochabamba,30101,Cochabamba,2018,9,N de perros y gatos con vacuna antirrabica,6174
+Oruro,40902,Coipasa,2018,9,N de perros y gatos con vacuna antirrabica,5
+Cochabamba,30905,Colcapirhua,2018,9,N de perros y gatos con vacuna antirrabica,806
+Potosí,50901,"Colcha ""k""",2018,9,N de perros y gatos con vacuna antirrabica,72
+Cochabamba,31002,Colomi,2018,9,N de perros y gatos con vacuna antirrabica,480
+Potosí,50401,Colquechaca,2018,9,N de perros y gatos con vacuna antirrabica,448
+La Paz,21004,Colquiri,2018,9,N de perros y gatos con vacuna antirrabica,137
+Santa Cruz,71301,Comarapa,2018,9,N de perros y gatos con vacuna antirrabica,24
+La Paz,20605,Combaya,2018,9,N de perros y gatos con vacuna antirrabica,22
+Santa Cruz,71101,Concepcion,2018,9,N de perros y gatos con vacuna antirrabica,170
+La Paz,21701,Copacabana,2018,9,N de perros y gatos con vacuna antirrabica,27
+La Paz,21402,Coripata,2018,9,N de perros y gatos con vacuna antirrabica,51
+Oruro,40301,Corque,2018,9,N de perros y gatos con vacuna antirrabica,117
+Potosí,50601,Cotagaita,2018,9,N de perros y gatos con vacuna antirrabica,169
+Santa Cruz,70102,Cotoca,2018,9,N de perros y gatos con vacuna antirrabica,440
+Oruro,40503,Cruz De Machacamarca,2018,9,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71106,Cuatro Cañadas,2018,9,N de perros y gatos con vacuna antirrabica,56
+Chuquisaca,10902,Culpina,2018,9,N de perros y gatos con vacuna antirrabica,161
+Oruro,40401,Curahuara De Carangas,2018,9,N de perros y gatos con vacuna antirrabica,61
+La Paz,21602,Curva,2018,9,N de perros y gatos con vacuna antirrabica,54
+La Paz,20105,El Alto,2018,9,N de perros y gatos con vacuna antirrabica,3815
+Oruro,40103,El Choro,2018,9,N de perros y gatos con vacuna antirrabica,144
+Santa Cruz,71503,El Puente(stc),2018,9,N de perros y gatos con vacuna antirrabica,252
+Tarija,60502,El Puente(tja),2018,9,N de perros y gatos con vacuna antirrabica,585
+Santa Cruz,70105,El Torno,2018,9,N de perros y gatos con vacuna antirrabica,222
+Tarija,60601,Entre Rios Trj,2018,9,N de perros y gatos con vacuna antirrabica,1058
+Cochabamba,31206,Entre Rios Cbba,2018,9,N de perros y gatos con vacuna antirrabica,2474
+Oruro,41101,Eucaliptus,2018,9,N de perros y gatos con vacuna antirrabica,51
+Pando,90503,Eureka (santos Mercado),2018,9,N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,71004,Fernandez Alonso,2018,9,N de perros y gatos con vacuna antirrabica,37
+Santa Cruz,71002,General Saavedra,2018,9,N de perros y gatos con vacuna antirrabica,558
+La Paz,21601,Gral. J.j. Perez (charazani),2018,9,N de perros y gatos con vacuna antirrabica,102
+Beni,80202,Guayaramerin,2018,9,N de perros y gatos con vacuna antirrabica,21
+Santa Cruz,70705,Gutierrez,2018,9,N de perros y gatos con vacuna antirrabica,113
+Chuquisaca,10502,Huacareta,2018,9,N de perros y gatos con vacuna antirrabica,1213
+Oruro,40701,Huanuni,2018,9,N de perros y gatos con vacuna antirrabica,129
+La Paz,20206,Huatajata,2018,9,N de perros y gatos con vacuna antirrabica,20
+Oruro,41601,Huayllamarca,2018,9,N de perros y gatos con vacuna antirrabica,138
+Chuquisaca,10304,Icla,2018,9,N de perros y gatos con vacuna antirrabica,76
+Chuquisaca,10703,Incahuasi,2018,9,N de perros y gatos con vacuna antirrabica,157
+Pando,90402,Ingavi (humaita),2018,9,N de perros y gatos con vacuna antirrabica,1
+La Paz,21001,Inquisivi,2018,9,N de perros y gatos con vacuna antirrabica,290
+La Paz,21102,Irupana (villa De Lanza),2018,9,N de perros y gatos con vacuna antirrabica,65
+La Paz,21105,La Asunta,2018,9,N de perros y gatos con vacuna antirrabica,165
+Santa Cruz,70104,La Guardia,2018,9,N de perros y gatos con vacuna antirrabica,2475
+La Paz,20101,La Paz,2018,9,N de perros y gatos con vacuna antirrabica,871
+Santa Cruz,70701,Lagunillas,2018,9,N de perros y gatos con vacuna antirrabica,177
+Chuquisaca,10903,Las Carreras,2018,9,N de perros y gatos con vacuna antirrabica,179
+Potosí,51401,Llica,2018,9,N de perros y gatos con vacuna antirrabica,27
+Beni,80601,Loreto,2018,9,N de perros y gatos con vacuna antirrabica,198
+La Paz,20901,Luribay,2018,9,N de perros y gatos con vacuna antirrabica,515
+Oruro,40702,Machacamarca,2018,9,N de perros y gatos con vacuna antirrabica,151
+Chuquisaca,11003,Machareti,2018,9,N de perros y gatos con vacuna antirrabica,33
+Beni,80801,Magdalena,2018,9,N de perros y gatos con vacuna antirrabica,182
+Santa Cruz,70903,Mairana,2018,9,N de perros y gatos con vacuna antirrabica,99
+Santa Cruz,71003,Mineros,2018,9,N de perros y gatos con vacuna antirrabica,20
+Cochabamba,31301,Mizque,2018,9,N de perros y gatos con vacuna antirrabica,398
+Potosí,51002,Mojinete,2018,9,N de perros y gatos con vacuna antirrabica,2
+Chuquisaca,10501,Monteagudo,2018,9,N de perros y gatos con vacuna antirrabica,4894
+Santa Cruz,71001,Montero,2018,9,N de perros y gatos con vacuna antirrabica,336
+Santa Cruz,70803,Moro Moro,2018,9,N de perros y gatos con vacuna antirrabica,53
+Cochabamba,30302,Morochata,2018,9,N de perros y gatos con vacuna antirrabica,292
+Pando,90501,Nuevo Manoa (nueva Esperanza),2018,9,N de perros y gatos con vacuna antirrabica,80
+Potosí,50404,Ocuri,2018,9,N de perros y gatos con vacuna antirrabica,123
+Santa Cruz,70202,Okinawa,2018,9,N de perros y gatos con vacuna antirrabica,11
+Cochabamba,30203,Omereque,2018,9,N de perros y gatos con vacuna antirrabica,236
+Oruro,40101,Oruro,2018,9,N de perros y gatos con vacuna antirrabica,249
+Tarija,60201,Padcaya,2018,9,N de perros y gatos con vacuna antirrabica,1666
+Santa Cruz,70502,Pailon,2018,9,N de perros y gatos con vacuna antirrabica,370
+Oruro,40802,Pampa Aullagas,2018,9,N de perros y gatos con vacuna antirrabica,17
+Cochabamba,30202,Pasorapa,2018,9,N de perros y gatos con vacuna antirrabica,1295
+Oruro,40602,Pazña,2018,9,N de perros y gatos con vacuna antirrabica,55
+La Paz,20702,Pelechuco,2018,9,N de perros y gatos con vacuna antirrabica,38
+Potosí,50403,Pocoata,2018,9,N de perros y gatos con vacuna antirrabica,711
+Cochabamba,31203,Pocona,2018,9,N de perros y gatos con vacuna antirrabica,2027
+Cochabamba,31202,Pojo (cbba),2018,9,N de perros y gatos con vacuna antirrabica,578
+Oruro,40601,Poopo,2018,9,N de perros y gatos con vacuna antirrabica,188
+Potosí,51203,Porco,2018,9,N de perros y gatos con vacuna antirrabica,159
+Chuquisaca,10103,Poroma,2018,9,N de perros y gatos con vacuna antirrabica,2006
+Santa Cruz,70601,Portachuelo,2018,9,N de perros y gatos con vacuna antirrabica,317
+Santa Cruz,70804,Postrer Valle,2018,9,N de perros y gatos con vacuna antirrabica,16
+Potosí,50101,Potosi,2018,9,N de perros y gatos con vacuna antirrabica,386
+Santa Cruz,70805,Pucara,2018,9,N de perros y gatos con vacuna antirrabica,21
+La Paz,21201,Pucarani,2018,9,N de perros y gatos con vacuna antirrabica,20
+La Paz,20403,Puerto Carabuco,2018,9,N de perros y gatos con vacuna antirrabica,10
+La Paz,21204,Puerto Perez,2018,9,N de perros y gatos con vacuna antirrabica,26
+Pando,90201,Puerto Rico,2018,9,N de perros y gatos con vacuna antirrabica,8
+Cochabamba,31205,Puerto Villarroel,2018,9,N de perros y gatos con vacuna antirrabica,1700
+Potosí,51101,Puna,2018,9,N de perros y gatos con vacuna antirrabica,222
+Cochabamba,30901,Quillacollo,2018,9,N de perros y gatos con vacuna antirrabica,2612
+Santa Cruz,70904,Quirusillas,2018,9,N de perros y gatos con vacuna antirrabica,84
+Cochabamba,31304,Raqaypampa(eta),2018,9,N de perros y gatos con vacuna antirrabica,38
+Potosí,50402,Ravelo,2018,9,N de perros y gatos con vacuna antirrabica,455
+Santa Cruz,70503,Robore,2018,9,N de perros y gatos con vacuna antirrabica,110
+Beni,80304,Rurrenabaque,2018,9,N de perros y gatos con vacuna antirrabica,146
+Cochabamba,31001,Sacaba,2018,9,N de perros y gatos con vacuna antirrabica,1100
+Cochabamba,30404,Sacabamba,2018,9,N de perros y gatos con vacuna antirrabica,152
+Potosí,50701,Sacaca,2018,9,N de perros y gatos con vacuna antirrabica,222
+Oruro,40801,Salinas De Garci Mendoza,2018,9,N de perros y gatos con vacuna antirrabica,112
+Potosí,51601,San Agustin,2018,9,N de perros y gatos con vacuna antirrabica,16
+Beni,80602,San Andres,2018,9,N de perros y gatos con vacuna antirrabica,104
+Potosí,51003,San Antonio De Esmoruco,2018,9,N de perros y gatos con vacuna antirrabica,45
+Beni,80302,San Borja,2018,9,N de perros y gatos con vacuna antirrabica,5205
+La Paz,21502,San Buena Ventura,2018,9,N de perros y gatos con vacuna antirrabica,15
+Santa Cruz,70402,San Carlos,2018,9,N de perros y gatos con vacuna antirrabica,53
+Beni,80501,San Ignacio,2018,9,N de perros y gatos con vacuna antirrabica,155
+Santa Cruz,70301,San Ignacio De Velasco,2018,9,N de perros y gatos con vacuna antirrabica,445
+Santa Cruz,71102,San Javier(stc),2018,9,N de perros y gatos con vacuna antirrabica,393
+Beni,80701,San Joaquin,2018,9,N de perros y gatos con vacuna antirrabica,74
+Santa Cruz,70404,San Juan De Yapacani,2018,9,N de perros y gatos con vacuna antirrabica,33
+Santa Cruz,71104,San Julian,2018,9,N de perros y gatos con vacuna antirrabica,960
+Tarija,60501,San Lorenzo(tja),2018,9,N de perros y gatos con vacuna antirrabica,260
+Chuquisaca,10702,San Lucas,2018,9,N de perros y gatos con vacuna antirrabica,682
+Santa Cruz,71201,San Matias,2018,9,N de perros y gatos con vacuna antirrabica,215
+Santa Cruz,70302,San Miguel De Velasco,2018,9,N de perros y gatos con vacuna antirrabica,44
+Potosí,51001,San Pablo De Lipez,2018,9,N de perros y gatos con vacuna antirrabica,54
+Santa Cruz,71005,San Pedro,2018,9,N de perros y gatos con vacuna antirrabica,161
+Potosí,50501,San Pedro De Buena Vista,2018,9,N de perros y gatos con vacuna antirrabica,1226
+Potosí,50902,San Pedro De Quemes,2018,9,N de perros y gatos con vacuna antirrabica,17
+Santa Cruz,70303,San Rafael,2018,9,N de perros y gatos con vacuna antirrabica,18
+Beni,80702,San Ramon Beni,2018,9,N de perros y gatos con vacuna antirrabica,1449
+Santa Cruz,71103,San Ramon Scz,2018,9,N de perros y gatos con vacuna antirrabica,93
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,9,N de perros y gatos con vacuna antirrabica,7137
+Santa Cruz,70602,Santa Rosa Del Sara,2018,9,N de perros y gatos con vacuna antirrabica,148
+Oruro,41401,Santiago De Huari,2018,9,N de perros y gatos con vacuna antirrabica,58
+La Paz,20205,Santiago De Huata,2018,9,N de perros y gatos con vacuna antirrabica,138
+Oruro,40202,Santuario De Quillacas,2018,9,N de perros y gatos con vacuna antirrabica,88
+La Paz,20902,Sapahaqui,2018,9,N de perros y gatos con vacuna antirrabica,50
+Cochabamba,31602,Shinaota,2018,9,N de perros y gatos con vacuna antirrabica,721
+Cochabamba,30902,Sipe Sipe,2018,9,N de perros y gatos con vacuna antirrabica,495
+Oruro,40104,Soracachi,2018,9,N de perros y gatos con vacuna antirrabica,124
+La Paz,20601,Sorata,2018,9,N de perros y gatos con vacuna antirrabica,189
+Chuquisaca,10101,Sucre,2018,9,N de perros y gatos con vacuna antirrabica,94
+Cochabamba,30602,Tacopaya,2018,9,N de perros y gatos con vacuna antirrabica,114
+Cochabamba,31101,Tapacari,2018,9,N de perros y gatos con vacuna antirrabica,117
+Chuquisaca,10601,Tarabuco,2018,9,N de perros y gatos con vacuna antirrabica,147
+Cochabamba,30401,Tarata,2018,9,N de perros y gatos con vacuna antirrabica,47
+Tarija,60101,Tarija,2018,9,N de perros y gatos con vacuna antirrabica,580
+Chuquisaca,10202,Tarvita,2018,9,N de perros y gatos con vacuna antirrabica,1433
+La Paz,20608,Teoponte,2018,9,N de perros y gatos con vacuna antirrabica,40
+Potosí,50102,Tinguipaya,2018,9,N de perros y gatos con vacuna antirrabica,122
+Cochabamba,30903,Tiquipaya,2018,9,N de perros y gatos con vacuna antirrabica,816
+La Paz,21703,Tito Yupanqui (parquipujio),2018,9,N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30802,Toco,2018,9,N de perros y gatos con vacuna antirrabica,35
+Cochabamba,30803,Tolata,2018,9,N de perros y gatos con vacuna antirrabica,190
+Oruro,41001,Toledo,2018,9,N de perros y gatos con vacuna antirrabica,61
+Potosí,51202,Tomave,2018,9,N de perros y gatos con vacuna antirrabica,445
+Chuquisaca,10402,Tomina,2018,9,N de perros y gatos con vacuna antirrabica,439
+Potosí,50502,Toro Toro,2018,9,N de perros y gatos con vacuna antirrabica,658
+Cochabamba,31201,Totora(cbba),2018,9,N de perros y gatos con vacuna antirrabica,2011
+Oruro,41301,Totora(orr),2018,9,N de perros y gatos con vacuna antirrabica,75
+Santa Cruz,70802,Trigal,2018,9,N de perros y gatos con vacuna antirrabica,38
+Beni,80101,Trinidad,2018,9,N de perros y gatos con vacuna antirrabica,20684
+Potosí,50801,Tupiza,2018,9,N de perros y gatos con vacuna antirrabica,237
+Oruro,40402,Turco,2018,9,N de perros y gatos con vacuna antirrabica,83
+La Paz,21302,Umala,2018,9,N de perros y gatos con vacuna antirrabica,9
+Potosí,50201,Uncia,2018,9,N de perros y gatos con vacuna antirrabica,21
+Tarija,60401,Uriondo (a. Concepcion),2018,9,N de perros y gatos con vacuna antirrabica,701
+Potosí,51201,Uyuni,2018,9,N de perros y gatos con vacuna antirrabica,282
+Santa Cruz,70801,Vallegrande,2018,9,N de perros y gatos con vacuna antirrabica,1375
+Cochabamba,31302,Vila Vila,2018,9,N de perros y gatos con vacuna antirrabica,127
+Tarija,60303,Villa Montes,2018,9,N de perros y gatos con vacuna antirrabica,258
+Pando,90502,Villa Nueva (loma Alta),2018,9,N de perros y gatos con vacuna antirrabica,14
+Cochabamba,31003,Villa Tunari,2018,9,N de perros y gatos con vacuna antirrabica,4706
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,9,N de perros y gatos con vacuna antirrabica,1106
+Potosí,51501,Villazon,2018,9,N de perros y gatos con vacuna antirrabica,361
+Cochabamba,30904,Vinto,2018,9,N de perros y gatos con vacuna antirrabica,1112
+Potosí,50602,Vitichi,2018,9,N de perros y gatos con vacuna antirrabica,30
+La Paz,20306,Waldo Ballivian,2018,9,N de perros y gatos con vacuna antirrabica,6
+Santa Cruz,70201,Warnes,2018,9,N de perros y gatos con vacuna antirrabica,779
+La Paz,20903,Yaco,2018,9,N de perros y gatos con vacuna antirrabica,30
+Tarija,60301,Yacuiba,2018,9,N de perros y gatos con vacuna antirrabica,21269
+Santa Cruz,70403,Yapacani,2018,9,N de perros y gatos con vacuna antirrabica,234
+Potosí,50103,Yocalla,2018,9,N de perros y gatos con vacuna antirrabica,54
+Chuquisaca,10102,Yotala,2018,9,N de perros y gatos con vacuna antirrabica,465
+Tarija,60402,Yunchara,2018,9,N de perros y gatos con vacuna antirrabica,1863
+Chuquisaca,10301,Zudañez,2018,9,N de perros y gatos con vacuna antirrabica,18
+La Paz,20201,Achacachi,2018,10,N de perros y gatos con vacuna antirrabica,107
+La Paz,20104,Achocalla,2018,10,N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30201,Aiquile,2018,10,N de perros y gatos con vacuna antirrabica,63
+Cochabamba,31303,Alalay,2018,10,N de perros y gatos con vacuna antirrabica,80
+La Paz,22002,Alto Beni,2018,10,N de perros y gatos con vacuna antirrabica,36
+Oruro,40603,Antequera,2018,10,N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30402,Anzaldo,2018,10,N de perros y gatos con vacuna antirrabica,160
+La Paz,20701,Apolo,2018,10,N de perros y gatos con vacuna antirrabica,17
+Cochabamba,30501,Arani,2018,10,N de perros y gatos con vacuna antirrabica,4960
+Cochabamba,30403,Arbieto,2018,10,N de perros y gatos con vacuna antirrabica,183
+Potosí,50802,Atocha,2018,10,N de perros y gatos con vacuna antirrabica,22222239
+La Paz,20503,Aucapata,2018,10,N de perros y gatos con vacuna antirrabica,129
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,10,N de perros y gatos con vacuna antirrabica,10
+Beni,80802,Baures,2018,10,N de perros y gatos con vacuna antirrabica,10
+Oruro,41202,Belen De Andamarca,2018,10,N de perros y gatos con vacuna antirrabica,22
+Pando,90104,Bella Flor,2018,10,N de perros y gatos con vacuna antirrabica,40
+Cochabamba,31501,Bolivar,2018,10,N de perros y gatos con vacuna antirrabica,8
+Santa Cruz,70707,Boyuibe,2018,10,N de perros y gatos con vacuna antirrabica,34
+Santa Cruz,70703,Cabezas,2018,10,N de perros y gatos con vacuna antirrabica,459
+La Paz,20905,Cairoma,2018,10,N de perros y gatos con vacuna antirrabica,32
+Potosí,51102,"Caiza ""d""",2018,10,N de perros y gatos con vacuna antirrabica,43
+Chuquisaca,10701,Camargo,2018,10,N de perros y gatos con vacuna antirrabica,9
+Santa Cruz,70706,Camiri,2018,10,N de perros y gatos con vacuna antirrabica,951
+Oruro,40102,Caracollo,2018,10,N de perros y gatos con vacuna antirrabica,236
+La Paz,22001,Caranavi,2018,10,N de perros y gatos con vacuna antirrabica,560
+Tarija,60302,Carapari,2018,10,N de perros y gatos con vacuna antirrabica,26
+Potosí,50702,Caripuyo,2018,10,N de perros y gatos con vacuna antirrabica,46
+La Paz,21902,Catacora,2018,10,N de perros y gatos con vacuna antirrabica,8
+Oruro,40201,Challapata,2018,10,N de perros y gatos con vacuna antirrabica,432
+Potosí,50202,Chayanta,2018,10,N de perros y gatos con vacuna antirrabica,67
+Cochabamba,31204,Chimore,2018,10,N de perros y gatos con vacuna antirrabica,510
+La Paz,21101,Chulumani (v. De La Libertad),2018,10,N de perros y gatos con vacuna antirrabica,64
+La Paz,20501,Chuma,2018,10,N de perros y gatos con vacuna antirrabica,41
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,10,N de perros y gatos con vacuna antirrabica,158
+Potosí,51103,Ckochas,2018,10,N de perros y gatos con vacuna antirrabica,25
+Cochabamba,30801,Cliza,2018,10,N de perros y gatos con vacuna antirrabica,402
+Cochabamba,30303,Cocapata,2018,10,N de perros y gatos con vacuna antirrabica,252
+Cochabamba,30101,Cochabamba,2018,10,N de perros y gatos con vacuna antirrabica,7902
+Oruro,40902,Coipasa,2018,10,N de perros y gatos con vacuna antirrabica,5
+Cochabamba,30905,Colcapirhua,2018,10,N de perros y gatos con vacuna antirrabica,2105
+Potosí,50901,"Colcha ""k""",2018,10,N de perros y gatos con vacuna antirrabica,79
+Cochabamba,31002,Colomi,2018,10,N de perros y gatos con vacuna antirrabica,1933
+Potosí,50401,Colquechaca,2018,10,N de perros y gatos con vacuna antirrabica,254
+Santa Cruz,71301,Comarapa,2018,10,N de perros y gatos con vacuna antirrabica,30
+La Paz,20605,Combaya,2018,10,N de perros y gatos con vacuna antirrabica,14
+Santa Cruz,71101,Concepcion,2018,10,N de perros y gatos con vacuna antirrabica,935
+La Paz,21701,Copacabana,2018,10,N de perros y gatos con vacuna antirrabica,50
+Oruro,40301,Corque,2018,10,N de perros y gatos con vacuna antirrabica,10
+Potosí,50601,Cotagaita,2018,10,N de perros y gatos con vacuna antirrabica,42
+Santa Cruz,70102,Cotoca,2018,10,N de perros y gatos con vacuna antirrabica,377
+Santa Cruz,71106,Cuatro Cañadas,2018,10,N de perros y gatos con vacuna antirrabica,66
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,10,N de perros y gatos con vacuna antirrabica,1200
+Chuquisaca,10902,Culpina,2018,10,N de perros y gatos con vacuna antirrabica,239
+Oruro,40401,Curahuara De Carangas,2018,10,N de perros y gatos con vacuna antirrabica,5
+La Paz,20105,El Alto,2018,10,N de perros y gatos con vacuna antirrabica,2501
+Santa Cruz,71503,El Puente(stc),2018,10,N de perros y gatos con vacuna antirrabica,260
+Tarija,60502,El Puente(tja),2018,10,N de perros y gatos con vacuna antirrabica,26
+Santa Cruz,70105,El Torno,2018,10,N de perros y gatos con vacuna antirrabica,125
+Tarija,60601,Entre Rios Trj,2018,10,N de perros y gatos con vacuna antirrabica,1648
+Cochabamba,31206,Entre Rios Cbba,2018,10,N de perros y gatos con vacuna antirrabica,836
+Santa Cruz,71004,Fernandez Alonso,2018,10,N de perros y gatos con vacuna antirrabica,88
+Pando,90203,Filadelfia,2018,10,N de perros y gatos con vacuna antirrabica,60
+Santa Cruz,71002,General Saavedra,2018,10,N de perros y gatos con vacuna antirrabica,429
+Chuquisaca,10502,Huacareta,2018,10,N de perros y gatos con vacuna antirrabica,491
+Oruro,40701,Huanuni,2018,10,N de perros y gatos con vacuna antirrabica,265
+Oruro,41601,Huayllamarca,2018,10,N de perros y gatos con vacuna antirrabica,199
+Pando,90402,Ingavi (humaita),2018,10,N de perros y gatos con vacuna antirrabica,70
+La Paz,21001,Inquisivi,2018,10,N de perros y gatos con vacuna antirrabica,60
+La Paz,21102,Irupana (villa De Lanza),2018,10,N de perros y gatos con vacuna antirrabica,58
+Santa Cruz,70104,La Guardia,2018,10,N de perros y gatos con vacuna antirrabica,1221
+La Paz,20101,La Paz,2018,10,N de perros y gatos con vacuna antirrabica,183
+Oruro,40702,Machacamarca,2018,10,N de perros y gatos con vacuna antirrabica,89
+Chuquisaca,11003,Machareti,2018,10,N de perros y gatos con vacuna antirrabica,67
+Beni,80801,Magdalena,2018,10,N de perros y gatos con vacuna antirrabica,2
+Santa Cruz,70903,Mairana,2018,10,N de perros y gatos con vacuna antirrabica,79
+La Paz,20904,Malla,2018,10,N de perros y gatos con vacuna antirrabica,50
+Cochabamba,31301,Mizque,2018,10,N de perros y gatos con vacuna antirrabica,351
+Chuquisaca,10501,Monteagudo,2018,10,N de perros y gatos con vacuna antirrabica,156
+Santa Cruz,71001,Montero,2018,10,N de perros y gatos con vacuna antirrabica,52
+Santa Cruz,70803,Moro Moro,2018,10,N de perros y gatos con vacuna antirrabica,100
+Cochabamba,30302,Morochata,2018,10,N de perros y gatos con vacuna antirrabica,964
+Potosí,50404,Ocuri,2018,10,N de perros y gatos con vacuna antirrabica,25
+Santa Cruz,70202,Okinawa,2018,10,N de perros y gatos con vacuna antirrabica,22
+Cochabamba,30203,Omereque,2018,10,N de perros y gatos con vacuna antirrabica,331
+Oruro,40101,Oruro,2018,10,N de perros y gatos con vacuna antirrabica,350
+Santa Cruz,70502,Pailon,2018,10,N de perros y gatos con vacuna antirrabica,210
+Santa Cruz,70902,Pampa Grande,2018,10,N de perros y gatos con vacuna antirrabica,50
+Cochabamba,30202,Pasorapa,2018,10,N de perros y gatos con vacuna antirrabica,50
+Potosí,50403,Pocoata,2018,10,N de perros y gatos con vacuna antirrabica,6
+Cochabamba,31203,Pocona,2018,10,N de perros y gatos con vacuna antirrabica,1061
+Cochabamba,31202,Pojo (cbba),2018,10,N de perros y gatos con vacuna antirrabica,365
+Oruro,40601,Poopo,2018,10,N de perros y gatos con vacuna antirrabica,70
+Potosí,51203,Porco,2018,10,N de perros y gatos con vacuna antirrabica,27
+Chuquisaca,10103,Poroma,2018,10,N de perros y gatos con vacuna antirrabica,461
+Santa Cruz,70103,Porongo,2018,10,N de perros y gatos con vacuna antirrabica,49
+Santa Cruz,70601,Portachuelo,2018,10,N de perros y gatos con vacuna antirrabica,53
+Potosí,50101,Potosi,2018,10,N de perros y gatos con vacuna antirrabica,371
+Pando,90301,Puerto Gonzalo Moreno,2018,10,N de perros y gatos con vacuna antirrabica,120
+Pando,90201,Puerto Rico,2018,10,N de perros y gatos con vacuna antirrabica,17
+Potosí,51101,Puna,2018,10,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,31401,Punata,2018,10,N de perros y gatos con vacuna antirrabica,16480
+Cochabamba,30901,Quillacollo,2018,10,N de perros y gatos con vacuna antirrabica,3163
+Cochabamba,31304,Raqaypampa(eta),2018,10,N de perros y gatos con vacuna antirrabica,38
+Potosí,50402,Ravelo,2018,10,N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,70503,Robore,2018,10,N de perros y gatos con vacuna antirrabica,75
+Beni,80304,Rurrenabaque,2018,10,N de perros y gatos con vacuna antirrabica,156
+Cochabamba,31001,Sacaba,2018,10,N de perros y gatos con vacuna antirrabica,20488
+Cochabamba,30404,Sacabamba,2018,10,N de perros y gatos con vacuna antirrabica,96
+Potosí,50701,Sacaca,2018,10,N de perros y gatos con vacuna antirrabica,121
+Oruro,40801,Salinas De Garci Mendoza,2018,10,N de perros y gatos con vacuna antirrabica,36
+Santa Cruz,70901,Samaipata,2018,10,N de perros y gatos con vacuna antirrabica,40
+Cochabamba,31403,San Benito,2018,10,N de perros y gatos con vacuna antirrabica,8540
+Beni,80302,San Borja,2018,10,N de perros y gatos con vacuna antirrabica,210
+Santa Cruz,70402,San Carlos,2018,10,N de perros y gatos con vacuna antirrabica,61
+Beni,80501,San Ignacio,2018,10,N de perros y gatos con vacuna antirrabica,31
+Santa Cruz,70301,San Ignacio De Velasco,2018,10,N de perros y gatos con vacuna antirrabica,313
+Beni,80102,San Javier(bni),2018,10,N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,71102,San Javier(stc),2018,10,N de perros y gatos con vacuna antirrabica,100
+Santa Cruz,71104,San Julian,2018,10,N de perros y gatos con vacuna antirrabica,2372
+Tarija,60501,San Lorenzo(tja),2018,10,N de perros y gatos con vacuna antirrabica,369
+Santa Cruz,70302,San Miguel De Velasco,2018,10,N de perros y gatos con vacuna antirrabica,7
+Potosí,51001,San Pablo De Lipez,2018,10,N de perros y gatos con vacuna antirrabica,33
+Santa Cruz,71005,San Pedro,2018,10,N de perros y gatos con vacuna antirrabica,232
+Potosí,50902,San Pedro De Quemes,2018,10,N de perros y gatos con vacuna antirrabica,1
+Santa Cruz,71103,San Ramon Scz,2018,10,N de perros y gatos con vacuna antirrabica,935
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,10,N de perros y gatos con vacuna antirrabica,868
+Santa Cruz,70602,Santa Rosa Del Sara,2018,10,N de perros y gatos con vacuna antirrabica,10
+Oruro,41401,Santiago De Huari,2018,10,N de perros y gatos con vacuna antirrabica,56
+Oruro,40202,Santuario De Quillacas,2018,10,N de perros y gatos con vacuna antirrabica,114
+Cochabamba,30902,Sipe Sipe,2018,10,N de perros y gatos con vacuna antirrabica,932
+Oruro,40104,Soracachi,2018,10,N de perros y gatos con vacuna antirrabica,90
+Chuquisaca,10101,Sucre,2018,10,N de perros y gatos con vacuna antirrabica,175
+Cochabamba,31404,Tacachi,2018,10,N de perros y gatos con vacuna antirrabica,540
+Potosí,50303,Tacobamba,2018,10,N de perros y gatos con vacuna antirrabica,15
+Cochabamba,30602,Tacopaya,2018,10,N de perros y gatos con vacuna antirrabica,63
+Potosí,51402,Tahua,2018,10,N de perros y gatos con vacuna antirrabica,5
+Cochabamba,31101,Tapacari,2018,10,N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30401,Tarata,2018,10,N de perros y gatos con vacuna antirrabica,49
+Tarija,60101,Tarija,2018,10,N de perros y gatos con vacuna antirrabica,165
+Chuquisaca,10202,Tarvita,2018,10,N de perros y gatos con vacuna antirrabica,54
+La Paz,20608,Teoponte,2018,10,N de perros y gatos con vacuna antirrabica,58
+Potosí,50102,Tinguipaya,2018,10,N de perros y gatos con vacuna antirrabica,74
+La Paz,20606,Tipuani,2018,10,N de perros y gatos con vacuna antirrabica,100
+Cochabamba,30903,Tiquipaya,2018,10,N de perros y gatos con vacuna antirrabica,243
+Cochabamba,31601,Tiraque (cbba),2018,10,N de perros y gatos con vacuna antirrabica,9820
+La Paz,21703,Tito Yupanqui (parquipujio),2018,10,N de perros y gatos con vacuna antirrabica,14
+Cochabamba,30802,Toco,2018,10,N de perros y gatos con vacuna antirrabica,51
+Cochabamba,30803,Tolata,2018,10,N de perros y gatos con vacuna antirrabica,361
+Oruro,41001,Toledo,2018,10,N de perros y gatos con vacuna antirrabica,34
+Potosí,51202,Tomave,2018,10,N de perros y gatos con vacuna antirrabica,217
+Potosí,50502,Toro Toro,2018,10,N de perros y gatos con vacuna antirrabica,64
+Cochabamba,31201,Totora(cbba),2018,10,N de perros y gatos con vacuna antirrabica,1232
+Oruro,41301,Totora(orr),2018,10,N de perros y gatos con vacuna antirrabica,72
+Beni,80101,Trinidad,2018,10,N de perros y gatos con vacuna antirrabica,155
+Potosí,50801,Tupiza,2018,10,N de perros y gatos con vacuna antirrabica,11
+Tarija,60401,Uriondo (a. Concepcion),2018,10,N de perros y gatos con vacuna antirrabica,245
+Santa Cruz,71502,Urubicha,2018,10,N de perros y gatos con vacuna antirrabica,126
+Potosí,51201,Uyuni,2018,10,N de perros y gatos con vacuna antirrabica,516
+Cochabamba,30502,Vacas,2018,10,N de perros y gatos con vacuna antirrabica,3600
+Santa Cruz,70801,Vallegrande,2018,10,N de perros y gatos con vacuna antirrabica,288
+Cochabamba,31302,Vila Vila,2018,10,N de perros y gatos con vacuna antirrabica,68
+Tarija,60303,Villa Montes,2018,10,N de perros y gatos con vacuna antirrabica,147
+Pando,90502,Villa Nueva (loma Alta),2018,10,N de perros y gatos con vacuna antirrabica,60
+Cochabamba,31402,Villa Rivero,2018,10,N de perros y gatos con vacuna antirrabica,4700
+Cochabamba,31003,Villa Tunari,2018,10,N de perros y gatos con vacuna antirrabica,574
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,10,N de perros y gatos con vacuna antirrabica,226
+Potosí,51501,Villazon,2018,10,N de perros y gatos con vacuna antirrabica,215
+Cochabamba,30904,Vinto,2018,10,N de perros y gatos con vacuna antirrabica,14258
+Potosí,50602,Vitichi,2018,10,N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,70201,Warnes,2018,10,N de perros y gatos con vacuna antirrabica,1671
+Tarija,60301,Yacuiba,2018,10,N de perros y gatos con vacuna antirrabica,802
+Santa Cruz,70403,Yapacani,2018,10,N de perros y gatos con vacuna antirrabica,352
+Tarija,60402,Yunchara,2018,10,N de perros y gatos con vacuna antirrabica,467
+Potosí,51302,Acacio,2018,11,N de perros y gatos con vacuna antirrabica,20
+La Paz,20201,Achacachi,2018,11,N de perros y gatos con vacuna antirrabica,11
+La Paz,20104,Achocalla,2018,11,N de perros y gatos con vacuna antirrabica,33
+Cochabamba,30201,Aiquile,2018,11,N de perros y gatos con vacuna antirrabica,17
+La Paz,20701,Apolo,2018,11,N de perros y gatos con vacuna antirrabica,160
+Cochabamba,30403,Arbieto,2018,11,N de perros y gatos con vacuna antirrabica,36
+Cochabamba,30601,Arque,2018,11,N de perros y gatos con vacuna antirrabica,55
+Santa Cruz,71501,Ascencion De Guarayos,2018,11,N de perros y gatos con vacuna antirrabica,2902
+Potosí,50802,Atocha,2018,11,N de perros y gatos con vacuna antirrabica,34
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,11,N de perros y gatos con vacuna antirrabica,402
+Tarija,60202,Bermejo,2018,11,N de perros y gatos con vacuna antirrabica,16
+Potosí,50301,Betanzos,2018,11,N de perros y gatos con vacuna antirrabica,462
+Cochabamba,31501,Bolivar,2018,11,N de perros y gatos con vacuna antirrabica,166
+La Paz,20905,Cairoma,2018,11,N de perros y gatos con vacuna antirrabica,27
+Potosí,51102,"Caiza ""d""",2018,11,N de perros y gatos con vacuna antirrabica,132
+La Paz,20303,Calacoto,2018,11,N de perros y gatos con vacuna antirrabica,130
+Chuquisaca,10701,Camargo,2018,11,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30701,Capinota,2018,11,N de perros y gatos con vacuna antirrabica,110
+La Paz,20302,Caquiaviri,2018,11,N de perros y gatos con vacuna antirrabica,30
+Oruro,40102,Caracollo,2018,11,N de perros y gatos con vacuna antirrabica,128
+Tarija,60302,Carapari,2018,11,N de perros y gatos con vacuna antirrabica,247
+Oruro,40201,Challapata,2018,11,N de perros y gatos con vacuna antirrabica,60
+Potosí,50202,Chayanta,2018,11,N de perros y gatos con vacuna antirrabica,123
+Cochabamba,31204,Chimore,2018,11,N de perros y gatos con vacuna antirrabica,529
+La Paz,21101,Chulumani (v. De La Libertad),2018,11,N de perros y gatos con vacuna antirrabica,44
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,11,N de perros y gatos con vacuna antirrabica,125
+Potosí,51103,Ckochas,2018,11,N de perros y gatos con vacuna antirrabica,55
+Cochabamba,30801,Cliza,2018,11,N de perros y gatos con vacuna antirrabica,612
+Cochabamba,30101,Cochabamba,2018,11,N de perros y gatos con vacuna antirrabica,59202
+Oruro,40902,Coipasa,2018,11,N de perros y gatos con vacuna antirrabica,1
+Cochabamba,30905,Colcapirhua,2018,11,N de perros y gatos con vacuna antirrabica,8715
+Potosí,50901,"Colcha ""k""",2018,11,N de perros y gatos con vacuna antirrabica,209
+Cochabamba,31002,Colomi,2018,11,N de perros y gatos con vacuna antirrabica,50
+Potosí,50401,Colquechaca,2018,11,N de perros y gatos con vacuna antirrabica,80
+La Paz,20605,Combaya,2018,11,N de perros y gatos con vacuna antirrabica,25
+Potosí,50601,Cotagaita,2018,11,N de perros y gatos con vacuna antirrabica,314
+Oruro,40503,Cruz De Machacamarca,2018,11,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71106,Cuatro Cañadas,2018,11,N de perros y gatos con vacuna antirrabica,74
+Chuquisaca,10902,Culpina,2018,11,N de perros y gatos con vacuna antirrabica,61
+Oruro,40401,Curahuara De Carangas,2018,11,N de perros y gatos con vacuna antirrabica,15
+La Paz,20105,El Alto,2018,11,N de perros y gatos con vacuna antirrabica,2164
+Santa Cruz,71503,El Puente(stc),2018,11,N de perros y gatos con vacuna antirrabica,20
+Tarija,60502,El Puente(tja),2018,11,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70105,El Torno,2018,11,N de perros y gatos con vacuna antirrabica,409
+Tarija,60601,Entre Rios Trj,2018,11,N de perros y gatos con vacuna antirrabica,83
+Santa Cruz,71004,Fernandez Alonso,2018,11,N de perros y gatos con vacuna antirrabica,106
+Pando,90203,Filadelfia,2018,11,N de perros y gatos con vacuna antirrabica,140
+Santa Cruz,71002,General Saavedra,2018,11,N de perros y gatos con vacuna antirrabica,10
+Chuquisaca,10502,Huacareta,2018,11,N de perros y gatos con vacuna antirrabica,22
+Oruro,40701,Huanuni,2018,11,N de perros y gatos con vacuna antirrabica,1324
+La Paz,20206,Huatajata,2018,11,N de perros y gatos con vacuna antirrabica,70
+Oruro,41601,Huayllamarca,2018,11,N de perros y gatos con vacuna antirrabica,9
+Santa Cruz,70104,La Guardia,2018,11,N de perros y gatos con vacuna antirrabica,2813
+La Paz,20101,La Paz,2018,11,N de perros y gatos con vacuna antirrabica,369
+La Paz,21202,Laja,2018,11,N de perros y gatos con vacuna antirrabica,30
+Potosí,51401,Llica,2018,11,N de perros y gatos con vacuna antirrabica,318
+Santa Cruz,70903,Mairana,2018,11,N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71001,Montero,2018,11,N de perros y gatos con vacuna antirrabica,849
+Potosí,50404,Ocuri,2018,11,N de perros y gatos con vacuna antirrabica,67
+Santa Cruz,70202,Okinawa,2018,11,N de perros y gatos con vacuna antirrabica,168
+Cochabamba,30203,Omereque,2018,11,N de perros y gatos con vacuna antirrabica,124
+Oruro,40101,Oruro,2018,11,N de perros y gatos con vacuna antirrabica,586
+Santa Cruz,70502,Pailon,2018,11,N de perros y gatos con vacuna antirrabica,139
+Santa Cruz,70902,Pampa Grande,2018,11,N de perros y gatos con vacuna antirrabica,150
+Cochabamba,30202,Pasorapa,2018,11,N de perros y gatos con vacuna antirrabica,65
+Potosí,50403,Pocoata,2018,11,N de perros y gatos con vacuna antirrabica,11
+Cochabamba,31203,Pocona,2018,11,N de perros y gatos con vacuna antirrabica,261
+Cochabamba,31202,Pojo (cbba),2018,11,N de perros y gatos con vacuna antirrabica,304
+Oruro,40601,Poopo,2018,11,N de perros y gatos con vacuna antirrabica,50
+Potosí,51203,Porco,2018,11,N de perros y gatos con vacuna antirrabica,2
+Chuquisaca,10103,Poroma,2018,11,N de perros y gatos con vacuna antirrabica,191
+Santa Cruz,70103,Porongo,2018,11,N de perros y gatos con vacuna antirrabica,13
+Potosí,50101,Potosi,2018,11,N de perros y gatos con vacuna antirrabica,383
+La Paz,21204,Puerto Perez,2018,11,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,31205,Puerto Villarroel,2018,11,N de perros y gatos con vacuna antirrabica,1957
+Potosí,51101,Puna,2018,11,N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30901,Quillacollo,2018,11,N de perros y gatos con vacuna antirrabica,1679
+Potosí,50402,Ravelo,2018,11,N de perros y gatos con vacuna antirrabica,196
+Santa Cruz,70503,Robore,2018,11,N de perros y gatos con vacuna antirrabica,69
+Beni,80304,Rurrenabaque,2018,11,N de perros y gatos con vacuna antirrabica,96
+Cochabamba,31001,Sacaba,2018,11,N de perros y gatos con vacuna antirrabica,1337
+Cochabamba,30404,Sacabamba,2018,11,N de perros y gatos con vacuna antirrabica,149
+Potosí,50701,Sacaca,2018,11,N de perros y gatos con vacuna antirrabica,490
+Oruro,40801,Salinas De Garci Mendoza,2018,11,N de perros y gatos con vacuna antirrabica,178
+Potosí,51601,San Agustin,2018,11,N de perros y gatos con vacuna antirrabica,36
+Beni,80302,San Borja,2018,11,N de perros y gatos con vacuna antirrabica,300
+Santa Cruz,70301,San Ignacio De Velasco,2018,11,N de perros y gatos con vacuna antirrabica,857
+Santa Cruz,71104,San Julian,2018,11,N de perros y gatos con vacuna antirrabica,3660
+Santa Cruz,70302,San Miguel De Velasco,2018,11,N de perros y gatos con vacuna antirrabica,10
+Potosí,51001,San Pablo De Lipez,2018,11,N de perros y gatos con vacuna antirrabica,24
+Santa Cruz,71005,San Pedro,2018,11,N de perros y gatos con vacuna antirrabica,50
+Potosí,50501,San Pedro De Buena Vista,2018,11,N de perros y gatos con vacuna antirrabica,30
+Potosí,50902,San Pedro De Quemes,2018,11,N de perros y gatos con vacuna antirrabica,41
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,11,N de perros y gatos con vacuna antirrabica,5299
+Santa Cruz,70602,Santa Rosa Del Sara,2018,11,N de perros y gatos con vacuna antirrabica,90
+Oruro,41401,Santiago De Huari,2018,11,N de perros y gatos con vacuna antirrabica,73
+La Paz,20205,Santiago De Huata,2018,11,N de perros y gatos con vacuna antirrabica,21
+La Paz,20902,Sapahaqui,2018,11,N de perros y gatos con vacuna antirrabica,31
+Cochabamba,30703,Sicaya,2018,11,N de perros y gatos con vacuna antirrabica,91
+Cochabamba,30902,Sipe Sipe,2018,11,N de perros y gatos con vacuna antirrabica,525
+Chuquisaca,10101,Sucre,2018,11,N de perros y gatos con vacuna antirrabica,84
+Potosí,50303,Tacobamba,2018,11,N de perros y gatos con vacuna antirrabica,33
+Cochabamba,30602,Tacopaya,2018,11,N de perros y gatos con vacuna antirrabica,200
+Potosí,51402,Tahua,2018,11,N de perros y gatos con vacuna antirrabica,15
+Cochabamba,31101,Tapacari,2018,11,N de perros y gatos con vacuna antirrabica,70
+Cochabamba,30401,Tarata,2018,11,N de perros y gatos con vacuna antirrabica,321
+Tarija,60101,Tarija,2018,11,N de perros y gatos con vacuna antirrabica,50
+Potosí,50102,Tinguipaya,2018,11,N de perros y gatos con vacuna antirrabica,80
+La Paz,20606,Tipuani,2018,11,N de perros y gatos con vacuna antirrabica,18
+Cochabamba,30903,Tiquipaya,2018,11,N de perros y gatos con vacuna antirrabica,857
+Cochabamba,31601,Tiraque (cbba),2018,11,N de perros y gatos con vacuna antirrabica,20
+La Paz,21703,Tito Yupanqui (parquipujio),2018,11,N de perros y gatos con vacuna antirrabica,11
+Cochabamba,30802,Toco,2018,11,N de perros y gatos con vacuna antirrabica,32
+Cochabamba,30803,Tolata,2018,11,N de perros y gatos con vacuna antirrabica,40
+Oruro,41001,Toledo,2018,11,N de perros y gatos con vacuna antirrabica,42
+Potosí,51202,Tomave,2018,11,N de perros y gatos con vacuna antirrabica,20
+Potosí,50502,Toro Toro,2018,11,N de perros y gatos con vacuna antirrabica,73
+Cochabamba,31201,Totora(cbba),2018,11,N de perros y gatos con vacuna antirrabica,507
+Oruro,41301,Totora(orr),2018,11,N de perros y gatos con vacuna antirrabica,45
+Santa Cruz,70802,Trigal,2018,11,N de perros y gatos con vacuna antirrabica,139
+Beni,80101,Trinidad,2018,11,N de perros y gatos con vacuna antirrabica,296
+Potosí,50801,Tupiza,2018,11,N de perros y gatos con vacuna antirrabica,25
+Potosí,50201,Uncia,2018,11,N de perros y gatos con vacuna antirrabica,327
+Santa Cruz,71502,Urubicha,2018,11,N de perros y gatos con vacuna antirrabica,476
+Cochabamba,30502,Vacas,2018,11,N de perros y gatos con vacuna antirrabica,40
+Tarija,60303,Villa Montes,2018,11,N de perros y gatos con vacuna antirrabica,432
+Cochabamba,31003,Villa Tunari,2018,11,N de perros y gatos con vacuna antirrabica,198
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,11,N de perros y gatos con vacuna antirrabica,183
+Potosí,51501,Villazon,2018,11,N de perros y gatos con vacuna antirrabica,231
+Cochabamba,30904,Vinto,2018,11,N de perros y gatos con vacuna antirrabica,2055
+Santa Cruz,70201,Warnes,2018,11,N de perros y gatos con vacuna antirrabica,2129
+Tarija,60301,Yacuiba,2018,11,N de perros y gatos con vacuna antirrabica,1341
+Santa Cruz,70403,Yapacani,2018,11,N de perros y gatos con vacuna antirrabica,6488
+Potosí,51302,Acacio,2018,12,N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30201,Aiquile,2018,12,N de perros y gatos con vacuna antirrabica,105
+Oruro,41201,Andamarca,2018,12,N de perros y gatos con vacuna antirrabica,55
+Cochabamba,30402,Anzaldo,2018,12,N de perros y gatos con vacuna antirrabica,40
+La Paz,20701,Apolo,2018,12,N de perros y gatos con vacuna antirrabica,165
+Cochabamba,30403,Arbieto,2018,12,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30601,Arque,2018,12,N de perros y gatos con vacuna antirrabica,15
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,12,N de perros y gatos con vacuna antirrabica,82
+Tarija,60202,Bermejo,2018,12,N de perros y gatos con vacuna antirrabica,177
+Potosí,50301,Betanzos,2018,12,N de perros y gatos con vacuna antirrabica,15
+Cochabamba,31501,Bolivar,2018,12,N de perros y gatos con vacuna antirrabica,10
+La Paz,20905,Cairoma,2018,12,N de perros y gatos con vacuna antirrabica,7
+La Paz,21902,Catacora,2018,12,N de perros y gatos con vacuna antirrabica,10
+Potosí,50202,Chayanta,2018,12,N de perros y gatos con vacuna antirrabica,16
+Cochabamba,31204,Chimore,2018,12,N de perros y gatos con vacuna antirrabica,765
+La Paz,21101,Chulumani (v. De La Libertad),2018,12,N de perros y gatos con vacuna antirrabica,13
+La Paz,20501,Chuma,2018,12,N de perros y gatos con vacuna antirrabica,5
+Cochabamba,30801,Cliza,2018,12,N de perros y gatos con vacuna antirrabica,247
+Pando,90101,Cobija,2018,12,N de perros y gatos con vacuna antirrabica,975
+Cochabamba,30101,Cochabamba,2018,12,N de perros y gatos con vacuna antirrabica,10464
+Cochabamba,30905,Colcapirhua,2018,12,N de perros y gatos con vacuna antirrabica,1000
+Potosí,50601,Cotagaita,2018,12,N de perros y gatos con vacuna antirrabica,16
+Santa Cruz,70102,Cotoca,2018,12,N de perros y gatos con vacuna antirrabica,550
+La Paz,20105,El Alto,2018,12,N de perros y gatos con vacuna antirrabica,600
+Tarija,60502,El Puente(tja),2018,12,N de perros y gatos con vacuna antirrabica,70
+Oruro,41101,Eucaliptus,2018,12,N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,71004,Fernandez Alonso,2018,12,N de perros y gatos con vacuna antirrabica,46
+La Paz,20101,La Paz,2018,12,N de perros y gatos con vacuna antirrabica,1264
+La Paz,21202,Laja,2018,12,N de perros y gatos con vacuna antirrabica,70
+Potosí,50203,Llallagua,2018,12,N de perros y gatos con vacuna antirrabica,500
+La Paz,20901,Luribay,2018,12,N de perros y gatos con vacuna antirrabica,10
+Oruro,40702,Machacamarca,2018,12,N de perros y gatos con vacuna antirrabica,110
+Santa Cruz,71001,Montero,2018,12,N de perros y gatos con vacuna antirrabica,3600
+Potosí,50404,Ocuri,2018,12,N de perros y gatos con vacuna antirrabica,15
+Santa Cruz,70202,Okinawa,2018,12,N de perros y gatos con vacuna antirrabica,473
+Cochabamba,30203,Omereque,2018,12,N de perros y gatos con vacuna antirrabica,10
+Oruro,40101,Oruro,2018,12,N de perros y gatos con vacuna antirrabica,99
+Santa Cruz,70502,Pailon,2018,12,N de perros y gatos con vacuna antirrabica,46
+Cochabamba,30202,Pasorapa,2018,12,N de perros y gatos con vacuna antirrabica,759
+Potosí,50403,Pocoata,2018,12,N de perros y gatos con vacuna antirrabica,16
+Cochabamba,31203,Pocona,2018,12,N de perros y gatos con vacuna antirrabica,448
+Cochabamba,31202,Pojo (cbba),2018,12,N de perros y gatos con vacuna antirrabica,70
+Potosí,51203,Porco,2018,12,N de perros y gatos con vacuna antirrabica,175
+Chuquisaca,10103,Poroma,2018,12,N de perros y gatos con vacuna antirrabica,126
+La Paz,21204,Puerto Perez,2018,12,N de perros y gatos con vacuna antirrabica,10
+Cochabamba,31205,Puerto Villarroel,2018,12,N de perros y gatos con vacuna antirrabica,940
+Potosí,51101,Puna,2018,12,N de perros y gatos con vacuna antirrabica,35
+Cochabamba,30901,Quillacollo,2018,12,N de perros y gatos con vacuna antirrabica,1940
+Cochabamba,31001,Sacaba,2018,12,N de perros y gatos con vacuna antirrabica,2083
+Santa Cruz,71104,San Julian,2018,12,N de perros y gatos con vacuna antirrabica,4311
+Santa Cruz,71005,San Pedro,2018,12,N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,12,N de perros y gatos con vacuna antirrabica,3721
+La Paz,20205,Santiago De Huata,2018,12,N de perros y gatos con vacuna antirrabica,13
+Cochabamba,30702,Santivañes,2018,12,N de perros y gatos con vacuna antirrabica,20
+La Paz,20902,Sapahaqui,2018,12,N de perros y gatos con vacuna antirrabica,29
+Cochabamba,30902,Sipe Sipe,2018,12,N de perros y gatos con vacuna antirrabica,199
+Chuquisaca,10101,Sucre,2018,12,N de perros y gatos con vacuna antirrabica,37
+Cochabamba,31101,Tapacari,2018,12,N de perros y gatos con vacuna antirrabica,130
+Cochabamba,30401,Tarata,2018,12,N de perros y gatos con vacuna antirrabica,42
+La Paz,20608,Teoponte,2018,12,N de perros y gatos con vacuna antirrabica,50
+Potosí,50102,Tinguipaya,2018,12,N de perros y gatos con vacuna antirrabica,124
+Cochabamba,30802,Toco,2018,12,N de perros y gatos con vacuna antirrabica,27
+Cochabamba,30803,Tolata,2018,12,N de perros y gatos con vacuna antirrabica,189
+Cochabamba,31201,Totora(cbba),2018,12,N de perros y gatos con vacuna antirrabica,485
+Oruro,41301,Totora(orr),2018,12,N de perros y gatos con vacuna antirrabica,15
+Beni,80101,Trinidad,2018,12,N de perros y gatos con vacuna antirrabica,30
+Potosí,50201,Uncia,2018,12,N de perros y gatos con vacuna antirrabica,929
+Tarija,60401,Uriondo (a. Concepcion),2018,12,N de perros y gatos con vacuna antirrabica,90
+Tarija,60303,Villa Montes,2018,12,N de perros y gatos con vacuna antirrabica,168
+Cochabamba,30904,Vinto,2018,12,N de perros y gatos con vacuna antirrabica,937
+Santa Cruz,70201,Warnes,2018,12,N de perros y gatos con vacuna antirrabica,1770
+Tarija,60301,Yacuiba,2018,12,N de perros y gatos con vacuna antirrabica,1686
+Cochabamba,30201,Aiquile,2018,1,TOTAL,421
+Cochabamba,30402,Anzaldo,2018,1,TOTAL,25
+Cochabamba,30501,Arani,2018,1,TOTAL,50
+Cochabamba,30403,Arbieto,2018,1,TOTAL,500
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,1,TOTAL,208
+La Paz,21203,Batallas,2018,1,TOTAL,134
+Potosí,50301,Betanzos,2018,1,TOTAL,80
+Santa Cruz,70401,Buena Vista,2018,1,TOTAL,327
+Santa Cruz,70703,Cabezas,2018,1,TOTAL,267
+Santa Cruz,70706,Camiri,2018,1,TOTAL,305
+Cochabamba,30701,Capinota,2018,1,TOTAL,763
+Oruro,40102,Caracollo,2018,1,TOTAL,27
+Tarija,60302,Carapari,2018,1,TOTAL,74
+Potosí,50702,Caripuyo,2018,1,TOTAL,5
+Oruro,40201,Challapata,2018,1,TOTAL,50
+Santa Cruz,70702,Charagua,2018,1,TOTAL,1730
+Potosí,50202,Chayanta,2018,1,TOTAL,4
+Cochabamba,31204,Chimore,2018,1,TOTAL,97
+Cochabamba,30801,Cliza,2018,1,TOTAL,1007
+Cochabamba,30303,Cocapata,2018,1,TOTAL,331
+Cochabamba,30101,Cochabamba,2018,1,TOTAL,2682
+Cochabamba,30905,Colcapirhua,2018,1,TOTAL,248
+Potosí,50901,"Colcha ""k""",2018,1,TOTAL,139
+Cochabamba,31002,Colomi,2018,1,TOTAL,293
+Potosí,50401,Colquechaca,2018,1,TOTAL,169
+Potosí,50601,Cotagaita,2018,1,TOTAL,62
+Santa Cruz,70102,Cotoca,2018,1,TOTAL,315
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,1,TOTAL,35
+Oruro,40401,Curahuara De Carangas,2018,1,TOTAL,20
+La Paz,20105,El Alto,2018,1,TOTAL,1234
+Santa Cruz,71503,El Puente(stc),2018,1,TOTAL,33
+Tarija,60502,El Puente(tja),2018,1,TOTAL,16
+Santa Cruz,70105,El Torno,2018,1,TOTAL,60
+Santa Cruz,71004,Fernandez Alonso,2018,1,TOTAL,32
+La Paz,21601,Gral. J.j. Perez (charazani),2018,1,TOTAL,50
+Oruro,40701,Huanuni,2018,1,TOTAL,40
+La Paz,21001,Inquisivi,2018,1,TOTAL,4
+Santa Cruz,70104,La Guardia,2018,1,TOTAL,43
+La Paz,20101,La Paz,2018,1,TOTAL,839
+Santa Cruz,70701,Lagunillas,2018,1,TOTAL,10
+La Paz,21202,Laja,2018,1,TOTAL,120
+Cochabamba,31301,Mizque,2018,1,TOTAL,12
+Potosí,51002,Mojinete,2018,1,TOTAL,6
+Chuquisaca,10501,Monteagudo,2018,1,TOTAL,10
+Santa Cruz,71001,Montero,2018,1,TOTAL,80
+Santa Cruz,70803,Moro Moro,2018,1,TOTAL,45
+Cochabamba,30302,Morochata,2018,1,TOTAL,61
+Potosí,50404,Ocuri,2018,1,TOTAL,5
+Santa Cruz,70202,Okinawa,2018,1,TOTAL,31
+Cochabamba,30203,Omereque,2018,1,TOTAL,10
+Santa Cruz,70502,Pailon,2018,1,TOTAL,99
+Cochabamba,30202,Pasorapa,2018,1,TOTAL,20
+Cochabamba,31203,Pocona,2018,1,TOTAL,101
+Cochabamba,31202,Pojo (cbba),2018,1,TOTAL,104
+Chuquisaca,10103,Poroma,2018,1,TOTAL,28
+Santa Cruz,70103,Porongo,2018,1,TOTAL,17
+Santa Cruz,70601,Portachuelo,2018,1,TOTAL,100
+Potosí,50101,Potosi,2018,1,TOTAL,283
+Cochabamba,31401,Punata,2018,1,TOTAL,1621
+Cochabamba,30901,Quillacollo,2018,1,TOTAL,2256
+Cochabamba,31001,Sacaba,2018,1,TOTAL,4419
+Cochabamba,30404,Sacabamba,2018,1,TOTAL,21
+Potosí,50701,Sacaca,2018,1,TOTAL,90
+Santa Cruz,71302,Saipina,2018,1,TOTAL,209
+Potosí,51003,San Antonio De Esmoruco,2018,1,TOTAL,10
+Cochabamba,31403,San Benito,2018,1,TOTAL,100
+Santa Cruz,70402,San Carlos,2018,1,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,1,TOTAL,1444
+Santa Cruz,71104,San Julian,2018,1,TOTAL,2115
+Santa Cruz,70302,San Miguel De Velasco,2018,1,TOTAL,49
+Santa Cruz,71005,San Pedro,2018,1,TOTAL,5
+Potosí,50902,San Pedro De Quemes,2018,1,TOTAL,1
+La Paz,21702,San Pedro De Tiquina,2018,1,TOTAL,7
+Santa Cruz,71103,San Ramon Scz,2018,1,TOTAL,21
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,1,TOTAL,8796
+Cochabamba,30702,Santivañes,2018,1,TOTAL,490
+Cochabamba,31602,Shinaota,2018,1,TOTAL,310
+Cochabamba,30703,Sicaya,2018,1,TOTAL,60
+Cochabamba,30902,Sipe Sipe,2018,1,TOTAL,2603
+Chuquisaca,10101,Sucre,2018,1,TOTAL,47
+Potosí,51402,Tahua,2018,1,TOTAL,10
+Cochabamba,30903,Tiquipaya,2018,1,TOTAL,161
+Cochabamba,31601,Tiraque (cbba),2018,1,TOTAL,1000
+Cochabamba,30802,Toco,2018,1,TOTAL,50
+Cochabamba,30803,Tolata,2018,1,TOTAL,17
+Cochabamba,31201,Totora(cbba),2018,1,TOTAL,84
+Santa Cruz,70802,Trigal,2018,1,TOTAL,9
+Potosí,51201,Uyuni,2018,1,TOTAL,2065
+Santa Cruz,70801,Vallegrande,2018,1,TOTAL,9
+Tarija,60303,Villa Montes,2018,1,TOTAL,127
+Cochabamba,31003,Villa Tunari,2018,1,TOTAL,2095
+Potosí,51501,Villazon,2018,1,TOTAL,580
+Cochabamba,30904,Vinto,2018,1,TOTAL,769
+Santa Cruz,70201,Warnes,2018,1,TOTAL,713
+Santa Cruz,70403,Yapacani,2018,1,TOTAL,27
+Cochabamba,30402,Anzaldo,2018,2,TOTAL,2675
+Cochabamba,30403,Arbieto,2018,2,TOTAL,5500
+Potosí,50802,Atocha,2018,2,TOTAL,27
+La Paz,21203,Batallas,2018,2,TOTAL,60
+Oruro,41202,Belen De Andamarca,2018,2,TOTAL,20
+Santa Cruz,70401,Buena Vista,2018,2,TOTAL,266
+Santa Cruz,70703,Cabezas,2018,2,TOTAL,30
+Santa Cruz,70706,Camiri,2018,2,TOTAL,215
+Cochabamba,30701,Capinota,2018,2,TOTAL,156
+Oruro,40102,Caracollo,2018,2,TOTAL,129
+Tarija,60302,Carapari,2018,2,TOTAL,55
+Oruro,40201,Challapata,2018,2,TOTAL,67
+Potosí,50202,Chayanta,2018,2,TOTAL,6
+Cochabamba,30801,Cliza,2018,2,TOTAL,7500
+Cochabamba,30303,Cocapata,2018,2,TOTAL,202
+Cochabamba,30101,Cochabamba,2018,2,TOTAL,2356
+Cochabamba,30905,Colcapirhua,2018,2,TOTAL,1258
+Potosí,50901,"Colcha ""k""",2018,2,TOTAL,27
+Cochabamba,31002,Colomi,2018,2,TOTAL,127
+Potosí,50401,Colquechaca,2018,2,TOTAL,101
+La Paz,21004,Colquiri,2018,2,TOTAL,200
+La Paz,21701,Copacabana,2018,2,TOTAL,20
+Potosí,50601,Cotagaita,2018,2,TOTAL,98
+Santa Cruz,70102,Cotoca,2018,2,TOTAL,26
+Oruro,40401,Curahuara De Carangas,2018,2,TOTAL,30
+La Paz,20105,El Alto,2018,2,TOTAL,488
+Santa Cruz,71503,El Puente(stc),2018,2,TOTAL,35
+Santa Cruz,70105,El Torno,2018,2,TOTAL,75
+Santa Cruz,71004,Fernandez Alonso,2018,2,TOTAL,237
+Oruro,40701,Huanuni,2018,2,TOTAL,283
+Oruro,41601,Huayllamarca,2018,2,TOTAL,11
+Santa Cruz,70104,La Guardia,2018,2,TOTAL,232
+La Paz,20101,La Paz,2018,2,TOTAL,518
+Potosí,50203,Llallagua,2018,2,TOTAL,230
+Potosí,51401,Llica,2018,2,TOTAL,2
+Beni,80601,Loreto,2018,2,TOTAL,160
+Chuquisaca,11003,Machareti,2018,2,TOTAL,769
+Beni,80801,Magdalena,2018,2,TOTAL,487
+Cochabamba,31301,Mizque,2018,2,TOTAL,15
+Chuquisaca,10501,Monteagudo,2018,2,TOTAL,19
+Santa Cruz,71001,Montero,2018,2,TOTAL,113
+Santa Cruz,70803,Moro Moro,2018,2,TOTAL,21
+Cochabamba,30302,Morochata,2018,2,TOTAL,63
+Santa Cruz,70202,Okinawa,2018,2,TOTAL,183
+Cochabamba,30203,Omereque,2018,2,TOTAL,152
+Oruro,40101,Oruro,2018,2,TOTAL,257
+Santa Cruz,70502,Pailon,2018,2,TOTAL,660
+Cochabamba,30202,Pasorapa,2018,2,TOTAL,20
+Oruro,40602,Pazña,2018,2,TOTAL,10
+Cochabamba,31203,Pocona,2018,2,TOTAL,222
+Cochabamba,31202,Pojo (cbba),2018,2,TOTAL,31
+Santa Cruz,70103,Porongo,2018,2,TOTAL,53
+Santa Cruz,70601,Portachuelo,2018,2,TOTAL,80
+Potosí,50101,Potosi,2018,2,TOTAL,192
+La Paz,21204,Puerto Perez,2018,2,TOTAL,20
+Potosí,51101,Puna,2018,2,TOTAL,15
+Cochabamba,30901,Quillacollo,2018,2,TOTAL,2174
+Potosí,50402,Ravelo,2018,2,TOTAL,8
+Santa Cruz,70503,Robore,2018,2,TOTAL,131
+Cochabamba,31001,Sacaba,2018,2,TOTAL,16897
+Cochabamba,30404,Sacabamba,2018,2,TOTAL,2159
+Potosí,50701,Sacaca,2018,2,TOTAL,30
+Santa Cruz,71302,Saipina,2018,2,TOTAL,91
+Potosí,51601,San Agustin,2018,2,TOTAL,5
+Santa Cruz,71105,San Antonio De Lomerio,2018,2,TOTAL,249
+Santa Cruz,70402,San Carlos,2018,2,TOTAL,6
+Santa Cruz,70301,San Ignacio De Velasco,2018,2,TOTAL,597
+Santa Cruz,71104,San Julian,2018,2,TOTAL,349
+Santa Cruz,70302,San Miguel De Velasco,2018,2,TOTAL,250
+Santa Cruz,71005,San Pedro,2018,2,TOTAL,7
+Potosí,50902,San Pedro De Quemes,2018,2,TOTAL,7
+La Paz,21702,San Pedro De Tiquina,2018,2,TOTAL,24
+Santa Cruz,70303,San Rafael,2018,2,TOTAL,300
+Beni,80401,Santa Ana,2018,2,TOTAL,66
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,2,TOTAL,11781
+Cochabamba,31602,Shinaota,2018,2,TOTAL,1441
+Cochabamba,30703,Sicaya,2018,2,TOTAL,90
+Cochabamba,30902,Sipe Sipe,2018,2,TOTAL,111
+Chuquisaca,10101,Sucre,2018,2,TOTAL,52
+Cochabamba,30602,Tacopaya,2018,2,TOTAL,31
+Cochabamba,30401,Tarata,2018,2,TOTAL,2326
+Cochabamba,30903,Tiquipaya,2018,2,TOTAL,34
+Cochabamba,30802,Toco,2018,2,TOTAL,2400
+Cochabamba,30803,Tolata,2018,2,TOTAL,2605
+Oruro,41001,Toledo,2018,2,TOTAL,2
+Potosí,51202,Tomave,2018,2,TOTAL,10
+Cochabamba,31201,Totora(cbba),2018,2,TOTAL,58
+Oruro,41301,Totora(orr),2018,2,TOTAL,10
+Potosí,51201,Uyuni,2018,2,TOTAL,2
+Santa Cruz,70801,Vallegrande,2018,2,TOTAL,13
+La Paz,20801,Viacha,2018,2,TOTAL,500
+Tarija,60303,Villa Montes,2018,2,TOTAL,369
+Cochabamba,31003,Villa Tunari,2018,2,TOTAL,2885
+Potosí,51501,Villazon,2018,2,TOTAL,459
+Cochabamba,30904,Vinto,2018,2,TOTAL,53
+Santa Cruz,70201,Warnes,2018,2,TOTAL,913
+Santa Cruz,70403,Yapacani,2018,2,TOTAL,56
+Cochabamba,30201,Aiquile,2018,3,TOTAL,526
+Cochabamba,30402,Anzaldo,2018,3,TOTAL,289
+Potosí,50802,Atocha,2018,3,TOTAL,83
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,3,TOTAL,30
+Tarija,60202,Bermejo,2018,3,TOTAL,8
+Potosí,50301,Betanzos,2018,3,TOTAL,247
+Santa Cruz,70401,Buena Vista,2018,3,TOTAL,243
+Santa Cruz,70703,Cabezas,2018,3,TOTAL,150
+Potosí,51102,"Caiza ""d""",2018,3,TOTAL,30
+Santa Cruz,70706,Camiri,2018,3,TOTAL,1453
+Oruro,40102,Caracollo,2018,3,TOTAL,26
+Tarija,60302,Carapari,2018,3,TOTAL,7
+Oruro,40201,Challapata,2018,3,TOTAL,28
+Potosí,50202,Chayanta,2018,3,TOTAL,44
+Cochabamba,30303,Cocapata,2018,3,TOTAL,44
+Cochabamba,30101,Cochabamba,2018,3,TOTAL,1189
+Cochabamba,30905,Colcapirhua,2018,3,TOTAL,871
+Potosí,50901,"Colcha ""k""",2018,3,TOTAL,25
+Cochabamba,31002,Colomi,2018,3,TOTAL,146
+La Paz,21004,Colquiri,2018,3,TOTAL,70
+Potosí,50601,Cotagaita,2018,3,TOTAL,307
+Santa Cruz,70102,Cotoca,2018,3,TOTAL,290
+Santa Cruz,71106,Cuatro Cañadas,2018,3,TOTAL,37
+Oruro,40401,Curahuara De Carangas,2018,3,TOTAL,70
+La Paz,20105,El Alto,2018,3,TOTAL,1049
+Santa Cruz,71503,El Puente(stc),2018,3,TOTAL,233
+Santa Cruz,70105,El Torno,2018,3,TOTAL,281
+Santa Cruz,71004,Fernandez Alonso,2018,3,TOTAL,3
+Santa Cruz,71002,General Saavedra,2018,3,TOTAL,3
+Oruro,40701,Huanuni,2018,3,TOTAL,57
+La Paz,21501,Ixiamas,2018,3,TOTAL,50
+Santa Cruz,70104,La Guardia,2018,3,TOTAL,957
+La Paz,20101,La Paz,2018,3,TOTAL,869
+Potosí,50203,Llallagua,2018,3,TOTAL,240
+Potosí,51401,Llica,2018,3,TOTAL,57
+Oruro,40702,Machacamarca,2018,3,TOTAL,3
+Chuquisaca,11003,Machareti,2018,3,TOTAL,624
+Santa Cruz,71003,Mineros,2018,3,TOTAL,3
+Cochabamba,31301,Mizque,2018,3,TOTAL,705
+Potosí,51002,Mojinete,2018,3,TOTAL,86
+Santa Cruz,71001,Montero,2018,3,TOTAL,121
+Cochabamba,30302,Morochata,2018,3,TOTAL,26
+Santa Cruz,70202,Okinawa,2018,3,TOTAL,43
+Cochabamba,30203,Omereque,2018,3,TOTAL,576
+Oruro,40101,Oruro,2018,3,TOTAL,1583
+Santa Cruz,70502,Pailon,2018,3,TOTAL,185
+La Paz,21104,Palos Blancos,2018,3,TOTAL,46
+Potosí,50403,Pocoata,2018,3,TOTAL,1068
+Cochabamba,31203,Pocona,2018,3,TOTAL,177
+Cochabamba,31202,Pojo (cbba),2018,3,TOTAL,28
+Chuquisaca,10103,Poroma,2018,3,TOTAL,7
+Santa Cruz,70103,Porongo,2018,3,TOTAL,63
+Santa Cruz,70601,Portachuelo,2018,3,TOTAL,10
+Santa Cruz,70804,Postrer Valle,2018,3,TOTAL,84
+Potosí,50101,Potosi,2018,3,TOTAL,1211
+Potosí,51101,Puna,2018,3,TOTAL,215
+Cochabamba,31401,Punata,2018,3,TOTAL,38
+Cochabamba,30901,Quillacollo,2018,3,TOTAL,2333
+Potosí,50402,Ravelo,2018,3,TOTAL,94
+Santa Cruz,70503,Robore,2018,3,TOTAL,240
+Cochabamba,31001,Sacaba,2018,3,TOTAL,1017
+Potosí,50701,Sacaca,2018,3,TOTAL,10
+Santa Cruz,71302,Saipina,2018,3,TOTAL,212
+Potosí,51601,San Agustin,2018,3,TOTAL,32
+La Paz,21502,San Buena Ventura,2018,3,TOTAL,180
+Santa Cruz,70402,San Carlos,2018,3,TOTAL,10
+Santa Cruz,70301,San Ignacio De Velasco,2018,3,TOTAL,172
+Potosí,50902,San Pedro De Quemes,2018,3,TOTAL,12
+Santa Cruz,70303,San Rafael,2018,3,TOTAL,50
+Santa Cruz,71103,San Ramon Scz,2018,3,TOTAL,26
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,3,TOTAL,10325
+Santa Cruz,70602,Santa Rosa Del Sara,2018,3,TOTAL,40
+Cochabamba,31602,Shinaota,2018,3,TOTAL,1092
+Cochabamba,30902,Sipe Sipe,2018,3,TOTAL,45
+Oruro,40104,Soracachi,2018,3,TOTAL,3
+Chuquisaca,10101,Sucre,2018,3,TOTAL,36
+Cochabamba,30401,Tarata,2018,3,TOTAL,550
+Cochabamba,30903,Tiquipaya,2018,3,TOTAL,1011
+Oruro,41001,Toledo,2018,3,TOTAL,3
+Potosí,50502,Toro Toro,2018,3,TOTAL,192
+Cochabamba,31201,Totora(cbba),2018,3,TOTAL,271
+Potosí,50801,Tupiza,2018,3,TOTAL,48
+Santa Cruz,70801,Vallegrande,2018,3,TOTAL,587
+Tarija,60303,Villa Montes,2018,3,TOTAL,1212
+Cochabamba,31003,Villa Tunari,2018,3,TOTAL,116
+Potosí,51501,Villazon,2018,3,TOTAL,839
+Cochabamba,30904,Vinto,2018,3,TOTAL,14
+Santa Cruz,70201,Warnes,2018,3,TOTAL,2134
+Santa Cruz,70403,Yapacani,2018,3,TOTAL,115
+Cochabamba,30201,Aiquile,2018,4,TOTAL,7359
+Cochabamba,31303,Alalay,2018,4,TOTAL,1210
+Cochabamba,30402,Anzaldo,2018,4,TOTAL,60
+Cochabamba,30501,Arani,2018,4,TOTAL,4950
+Cochabamba,30403,Arbieto,2018,4,TOTAL,1078
+Cochabamba,30601,Arque,2018,4,TOTAL,1487
+Potosí,50802,Atocha,2018,4,TOTAL,139
+Potosí,50301,Betanzos,2018,4,TOTAL,303
+Cochabamba,31501,Bolivar,2018,4,TOTAL,443
+Potosí,51102,"Caiza ""d""",2018,4,TOTAL,26
+Cochabamba,30701,Capinota,2018,4,TOTAL,4807
+Oruro,40102,Caracollo,2018,4,TOTAL,20
+Potosí,50202,Chayanta,2018,4,TOTAL,133
+Cochabamba,31204,Chimore,2018,4,TOTAL,4210
+Cochabamba,30801,Cliza,2018,4,TOTAL,718
+Cochabamba,30303,Cocapata,2018,4,TOTAL,2674
+Cochabamba,30101,Cochabamba,2018,4,TOTAL,845
+Cochabamba,30905,Colcapirhua,2018,4,TOTAL,1149
+Cochabamba,31002,Colomi,2018,4,TOTAL,88
+La Paz,21004,Colquiri,2018,4,TOTAL,30
+Potosí,50601,Cotagaita,2018,4,TOTAL,8
+Santa Cruz,70102,Cotoca,2018,4,TOTAL,2868
+Santa Cruz,71106,Cuatro Cañadas,2018,4,TOTAL,30
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,4,TOTAL,1200
+Oruro,40401,Curahuara De Carangas,2018,4,TOTAL,9
+La Paz,20105,El Alto,2018,4,TOTAL,2602
+Santa Cruz,71503,El Puente(stc),2018,4,TOTAL,230
+Santa Cruz,70105,El Torno,2018,4,TOTAL,60
+Cochabamba,31206,Entre Rios Cbba,2018,4,TOTAL,9246
+Santa Cruz,71004,Fernandez Alonso,2018,4,TOTAL,11
+Santa Cruz,70705,Gutierrez,2018,4,TOTAL,152
+Santa Cruz,70104,La Guardia,2018,4,TOTAL,1207
+La Paz,20101,La Paz,2018,4,TOTAL,157
+Santa Cruz,70701,Lagunillas,2018,4,TOTAL,20
+Santa Cruz,71003,Mineros,2018,4,TOTAL,5
+Cochabamba,31301,Mizque,2018,4,TOTAL,5272
+Santa Cruz,71001,Montero,2018,4,TOTAL,220
+Santa Cruz,70803,Moro Moro,2018,4,TOTAL,100
+Cochabamba,30302,Morochata,2018,4,TOTAL,7
+Potosí,50404,Ocuri,2018,4,TOTAL,2
+Santa Cruz,70202,Okinawa,2018,4,TOTAL,35
+Cochabamba,30203,Omereque,2018,4,TOTAL,943
+Oruro,40101,Oruro,2018,4,TOTAL,372
+Santa Cruz,70502,Pailon,2018,4,TOTAL,12
+Cochabamba,30202,Pasorapa,2018,4,TOTAL,1379
+Cochabamba,31203,Pocona,2018,4,TOTAL,431
+Cochabamba,31202,Pojo (cbba),2018,4,TOTAL,48
+Chuquisaca,10103,Poroma,2018,4,TOTAL,60
+Santa Cruz,70103,Porongo,2018,4,TOTAL,481
+Santa Cruz,70601,Portachuelo,2018,4,TOTAL,121
+Santa Cruz,70804,Postrer Valle,2018,4,TOTAL,277
+Potosí,50101,Potosi,2018,4,TOTAL,361
+Beni,80703,Puerto Siles,2018,4,TOTAL,258
+Cochabamba,31205,Puerto Villarroel,2018,4,TOTAL,12432
+Cochabamba,31401,Punata,2018,4,TOTAL,14345
+Cochabamba,30901,Quillacollo,2018,4,TOTAL,42682
+Cochabamba,31304,Raqaypampa(eta),2018,4,TOTAL,1777
+Santa Cruz,70503,Robore,2018,4,TOTAL,341
+Cochabamba,31001,Sacaba,2018,4,TOTAL,688
+Cochabamba,30404,Sacabamba,2018,4,TOTAL,75
+Cochabamba,31403,San Benito,2018,4,TOTAL,8540
+Santa Cruz,70301,San Ignacio De Velasco,2018,4,TOTAL,918
+Beni,80102,San Javier(bni),2018,4,TOTAL,30
+Santa Cruz,70302,San Miguel De Velasco,2018,4,TOTAL,46
+Potosí,50902,San Pedro De Quemes,2018,4,TOTAL,19
+Santa Cruz,70303,San Rafael,2018,4,TOTAL,74
+Santa Cruz,71103,San Ramon Scz,2018,4,TOTAL,11
+Beni,80401,Santa Ana,2018,4,TOTAL,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,4,TOTAL,86870
+Cochabamba,30702,Santivañes,2018,4,TOTAL,516
+Cochabamba,31602,Shinaota,2018,4,TOTAL,366
+Cochabamba,30703,Sicaya,2018,4,TOTAL,623
+Cochabamba,30902,Sipe Sipe,2018,4,TOTAL,179
+Chuquisaca,10101,Sucre,2018,4,TOTAL,362
+Cochabamba,31404,Tacachi,2018,4,TOTAL,550
+Cochabamba,30602,Tacopaya,2018,4,TOTAL,1084
+Potosí,51402,Tahua,2018,4,TOTAL,10
+Cochabamba,31101,Tapacari,2018,4,TOTAL,4536
+Cochabamba,30401,Tarata,2018,4,TOTAL,610
+Cochabamba,30903,Tiquipaya,2018,4,TOTAL,18432
+Cochabamba,31601,Tiraque (cbba),2018,4,TOTAL,9840
+Cochabamba,30802,Toco,2018,4,TOTAL,125
+Cochabamba,30803,Tolata,2018,4,TOTAL,90
+Cochabamba,31201,Totora(cbba),2018,4,TOTAL,203
+Potosí,51201,Uyuni,2018,4,TOTAL,22
+Cochabamba,30502,Vacas,2018,4,TOTAL,3630
+Cochabamba,31302,Vila Vila,2018,4,TOTAL,993
+Tarija,60303,Villa Montes,2018,4,TOTAL,1786
+Cochabamba,31402,Villa Rivero,2018,4,TOTAL,4700
+Cochabamba,31003,Villa Tunari,2018,4,TOTAL,955
+Potosí,51501,Villazon,2018,4,TOTAL,350
+Cochabamba,30904,Vinto,2018,4,TOTAL,15364
+Santa Cruz,70201,Warnes,2018,4,TOTAL,2631
+Tarija,60301,Yacuiba,2018,4,TOTAL,40
+Santa Cruz,70403,Yapacani,2018,4,TOTAL,54
+Cochabamba,30201,Aiquile,2018,5,TOTAL,335
+Cochabamba,30402,Anzaldo,2018,5,TOTAL,311
+Cochabamba,30403,Arbieto,2018,5,TOTAL,220
+Cochabamba,30601,Arque,2018,5,TOTAL,9
+Beni,80802,Baures,2018,5,TOTAL,50
+Potosí,50301,Betanzos,2018,5,TOTAL,150
+Cochabamba,31501,Bolivar,2018,5,TOTAL,602
+Cochabamba,30701,Capinota,2018,5,TOTAL,602
+Cochabamba,31204,Chimore,2018,5,TOTAL,328
+Potosí,51103,Ckochas,2018,5,TOTAL,200
+Cochabamba,30801,Cliza,2018,5,TOTAL,1282
+Cochabamba,30303,Cocapata,2018,5,TOTAL,2355
+Cochabamba,30101,Cochabamba,2018,5,TOTAL,1418
+Cochabamba,30905,Colcapirhua,2018,5,TOTAL,2269
+Cochabamba,31002,Colomi,2018,5,TOTAL,1324
+Potosí,50401,Colquechaca,2018,5,TOTAL,17
+Santa Cruz,70102,Cotoca,2018,5,TOTAL,763
+Santa Cruz,71106,Cuatro Cañadas,2018,5,TOTAL,132
+La Paz,20105,El Alto,2018,5,TOTAL,794
+Santa Cruz,70105,El Torno,2018,5,TOTAL,64
+Cochabamba,31206,Entre Rios Cbba,2018,5,TOTAL,1120
+Santa Cruz,71004,Fernandez Alonso,2018,5,TOTAL,79
+Santa Cruz,71002,General Saavedra,2018,5,TOTAL,72
+Pando,90402,Ingavi (humaita),2018,5,TOTAL,10
+Santa Cruz,70104,La Guardia,2018,5,TOTAL,414
+La Paz,20101,La Paz,2018,5,TOTAL,320
+Cochabamba,31301,Mizque,2018,5,TOTAL,216
+Santa Cruz,71001,Montero,2018,5,TOTAL,1704
+Santa Cruz,70202,Okinawa,2018,5,TOTAL,208
+Cochabamba,30203,Omereque,2018,5,TOTAL,138
+Oruro,40101,Oruro,2018,5,TOTAL,24
+Santa Cruz,70502,Pailon,2018,5,TOTAL,234
+Cochabamba,30202,Pasorapa,2018,5,TOTAL,176
+Cochabamba,31203,Pocona,2018,5,TOTAL,48
+Cochabamba,31202,Pojo (cbba),2018,5,TOTAL,90
+Potosí,51203,Porco,2018,5,TOTAL,98
+Santa Cruz,70103,Porongo,2018,5,TOTAL,468
+Santa Cruz,70601,Portachuelo,2018,5,TOTAL,100
+Potosí,50101,Potosi,2018,5,TOTAL,5189
+Pando,90301,Puerto Gonzalo Moreno,2018,5,TOTAL,620
+Cochabamba,31205,Puerto Villarroel,2018,5,TOTAL,141
+Cochabamba,31401,Punata,2018,5,TOTAL,2107
+Cochabamba,30901,Quillacollo,2018,5,TOTAL,6551
+Cochabamba,31304,Raqaypampa(eta),2018,5,TOTAL,2133
+Beni,80201,Riberalta,2018,5,TOTAL,30
+Cochabamba,31001,Sacaba,2018,5,TOTAL,2946
+Cochabamba,30404,Sacabamba,2018,5,TOTAL,25
+Potosí,50701,Sacaca,2018,5,TOTAL,323
+Beni,80501,San Ignacio,2018,5,TOTAL,180
+Santa Cruz,70301,San Ignacio De Velasco,2018,5,TOTAL,263
+Beni,80102,San Javier(bni),2018,5,TOTAL,54
+Santa Cruz,70501,San Jose De Chiquitos,2018,5,TOTAL,2145
+Santa Cruz,70302,San Miguel De Velasco,2018,5,TOTAL,250
+Santa Cruz,71005,San Pedro,2018,5,TOTAL,22
+Potosí,50902,San Pedro De Quemes,2018,5,TOTAL,9
+Santa Cruz,70303,San Rafael,2018,5,TOTAL,276
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,5,TOTAL,8544
+Santa Cruz,70602,Santa Rosa Del Sara,2018,5,TOTAL,34
+Cochabamba,30702,Santivañes,2018,5,TOTAL,395
+Pando,90303,Sena,2018,5,TOTAL,203
+Cochabamba,31602,Shinaota,2018,5,TOTAL,48
+Cochabamba,30703,Sicaya,2018,5,TOTAL,100
+Cochabamba,30902,Sipe Sipe,2018,5,TOTAL,352
+Cochabamba,30602,Tacopaya,2018,5,TOTAL,226
+Cochabamba,31101,Tapacari,2018,5,TOTAL,644
+Cochabamba,30401,Tarata,2018,5,TOTAL,500
+Cochabamba,30903,Tiquipaya,2018,5,TOTAL,876
+Cochabamba,30802,Toco,2018,5,TOTAL,76
+Cochabamba,30803,Tolata,2018,5,TOTAL,101
+Cochabamba,31201,Totora(cbba),2018,5,TOTAL,123
+Cochabamba,31302,Vila Vila,2018,5,TOTAL,498
+Tarija,60303,Villa Montes,2018,5,TOTAL,176
+Cochabamba,31003,Villa Tunari,2018,5,TOTAL,653
+Potosí,51501,Villazon,2018,5,TOTAL,2380
+Cochabamba,30904,Vinto,2018,5,TOTAL,707
+Santa Cruz,70201,Warnes,2018,5,TOTAL,306
+Tarija,60301,Yacuiba,2018,5,TOTAL,80
+Santa Cruz,70403,Yapacani,2018,5,TOTAL,1051
+Cochabamba,30201,Aiquile,2018,6,TOTAL,179
+Cochabamba,30601,Arque,2018,6,TOTAL,9
+Cochabamba,31501,Bolivar,2018,6,TOTAL,30
+Cochabamba,30701,Capinota,2018,6,TOTAL,200
+Tarija,60302,Carapari,2018,6,TOTAL,1769
+Cochabamba,31204,Chimore,2018,6,TOTAL,33
+Cochabamba,30303,Cocapata,2018,6,TOTAL,873
+Cochabamba,30101,Cochabamba,2018,6,TOTAL,1254
+Cochabamba,30905,Colcapirhua,2018,6,TOTAL,804
+Potosí,50401,Colquechaca,2018,6,TOTAL,175
+Santa Cruz,70102,Cotoca,2018,6,TOTAL,190
+La Paz,20105,El Alto,2018,6,TOTAL,419
+Santa Cruz,70105,El Torno,2018,6,TOTAL,97
+Cochabamba,31206,Entre Rios Cbba,2018,6,TOTAL,95
+Santa Cruz,70104,La Guardia,2018,6,TOTAL,329
+La Paz,20101,La Paz,2018,6,TOTAL,7
+Cochabamba,31301,Mizque,2018,6,TOTAL,25
+Santa Cruz,71001,Montero,2018,6,TOTAL,163
+Cochabamba,30302,Morochata,2018,6,TOTAL,1243
+Santa Cruz,70202,Okinawa,2018,6,TOTAL,51
+Cochabamba,30203,Omereque,2018,6,TOTAL,381
+Oruro,40101,Oruro,2018,6,TOTAL,258
+Santa Cruz,70502,Pailon,2018,6,TOTAL,50
+Cochabamba,30202,Pasorapa,2018,6,TOTAL,127
+Potosí,51203,Porco,2018,6,TOTAL,26
+Santa Cruz,70103,Porongo,2018,6,TOTAL,10
+Santa Cruz,70601,Portachuelo,2018,6,TOTAL,20
+Potosí,50101,Potosi,2018,6,TOTAL,237
+Cochabamba,31205,Puerto Villarroel,2018,6,TOTAL,207
+Cochabamba,30901,Quillacollo,2018,6,TOTAL,1490
+Cochabamba,31304,Raqaypampa(eta),2018,6,TOTAL,40
+Cochabamba,31001,Sacaba,2018,6,TOTAL,276
+Potosí,50701,Sacaca,2018,6,TOTAL,144
+Santa Cruz,70301,San Ignacio De Velasco,2018,6,TOTAL,118
+Santa Cruz,70302,San Miguel De Velasco,2018,6,TOTAL,25
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,6,TOTAL,3318
+Cochabamba,30702,Santivañes,2018,6,TOTAL,41
+Cochabamba,31602,Shinaota,2018,6,TOTAL,120
+Cochabamba,30703,Sicaya,2018,6,TOTAL,10
+Cochabamba,30902,Sipe Sipe,2018,6,TOTAL,833
+Chuquisaca,10101,Sucre,2018,6,TOTAL,1027
+Cochabamba,30602,Tacopaya,2018,6,TOTAL,161
+Cochabamba,30903,Tiquipaya,2018,6,TOTAL,682
+Cochabamba,30803,Tolata,2018,6,TOTAL,9
+Tarija,60303,Villa Montes,2018,6,TOTAL,126
+Cochabamba,31003,Villa Tunari,2018,6,TOTAL,140
+Cochabamba,30904,Vinto,2018,6,TOTAL,150
+Santa Cruz,70201,Warnes,2018,6,TOTAL,707
+Santa Cruz,70403,Yapacani,2018,6,TOTAL,15
+Cochabamba,30201,Aiquile,2018,7,TOTAL,59
+Cochabamba,30601,Arque,2018,7,TOTAL,5
+Cochabamba,31501,Bolivar,2018,7,TOTAL,16
+Cochabamba,30701,Capinota,2018,7,TOTAL,177
+Tarija,60302,Carapari,2018,7,TOTAL,1289
+Potosí,50702,Caripuyo,2018,7,TOTAL,86
+Cochabamba,31204,Chimore,2018,7,TOTAL,30
+Cochabamba,30303,Cocapata,2018,7,TOTAL,710
+Cochabamba,30101,Cochabamba,2018,7,TOTAL,234
+Cochabamba,30905,Colcapirhua,2018,7,TOTAL,1236
+La Paz,20301,Coro Coro,2018,7,TOTAL,200
+Santa Cruz,70102,Cotoca,2018,7,TOTAL,78
+Santa Cruz,71106,Cuatro Cañadas,2018,7,TOTAL,13
+La Paz,20105,El Alto,2018,7,TOTAL,1050
+Santa Cruz,70105,El Torno,2018,7,TOTAL,37
+Santa Cruz,70104,La Guardia,2018,7,TOTAL,653
+La Paz,20101,La Paz,2018,7,TOTAL,255
+Cochabamba,31301,Mizque,2018,7,TOTAL,65
+Cochabamba,30302,Morochata,2018,7,TOTAL,712
+Santa Cruz,70202,Okinawa,2018,7,TOTAL,3
+Cochabamba,30203,Omereque,2018,7,TOTAL,239
+Oruro,40101,Oruro,2018,7,TOTAL,5
+Cochabamba,30202,Pasorapa,2018,7,TOTAL,10
+Chuquisaca,10103,Poroma,2018,7,TOTAL,199
+Santa Cruz,70103,Porongo,2018,7,TOTAL,86
+Santa Cruz,70601,Portachuelo,2018,7,TOTAL,49
+Potosí,50101,Potosi,2018,7,TOTAL,716
+Cochabamba,30901,Quillacollo,2018,7,TOTAL,282
+Cochabamba,31001,Sacaba,2018,7,TOTAL,1731
+Potosí,50701,Sacaca,2018,7,TOTAL,90
+Santa Cruz,70301,San Ignacio De Velasco,2018,7,TOTAL,133
+Santa Cruz,70302,San Miguel De Velasco,2018,7,TOTAL,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,7,TOTAL,5453
+Cochabamba,30702,Santivañes,2018,7,TOTAL,772
+Cochabamba,31602,Shinaota,2018,7,TOTAL,60
+Cochabamba,30902,Sipe Sipe,2018,7,TOTAL,92
+Oruro,40104,Soracachi,2018,7,TOTAL,1
+Chuquisaca,10101,Sucre,2018,7,TOTAL,23
+Cochabamba,30602,Tacopaya,2018,7,TOTAL,109
+Chuquisaca,10601,Tarabuco,2018,7,TOTAL,1996
+Cochabamba,30903,Tiquipaya,2018,7,TOTAL,98
+Tarija,60303,Villa Montes,2018,7,TOTAL,550
+Cochabamba,31003,Villa Tunari,2018,7,TOTAL,88
+Potosí,51501,Villazon,2018,7,TOTAL,90
+Cochabamba,30904,Vinto,2018,7,TOTAL,208
+Santa Cruz,70201,Warnes,2018,7,TOTAL,1069
+Potosí,51302,Acacio,2018,8,TOTAL,1057
+La Paz,20201,Achacachi,2018,8,TOTAL,8135
+La Paz,20104,Achocalla,2018,8,TOTAL,5590
+Cochabamba,30201,Aiquile,2018,8,TOTAL,6409
+Cochabamba,31303,Alalay,2018,8,TOTAL,408
+Chuquisaca,10404,Alcala,2018,8,TOTAL,2120
+La Paz,22002,Alto Beni,2018,8,TOTAL,2100
+La Paz,20202,Ancoraimes,2018,8,TOTAL,2686
+Oruro,41201,Andamarca,2018,8,TOTAL,409
+Oruro,40603,Antequera,2018,8,TOTAL,600
+Cochabamba,30402,Anzaldo,2018,8,TOTAL,1499
+La Paz,20701,Apolo,2018,8,TOTAL,3091
+Potosí,51301,Arampampa,2018,8,TOTAL,1000
+Cochabamba,30403,Arbieto,2018,8,TOTAL,6259
+Cochabamba,30601,Arque,2018,8,TOTAL,1647
+Santa Cruz,71501,Ascencion De Guarayos,2018,8,TOTAL,6478
+Potosí,50802,Atocha,2018,8,TOTAL,2140
+La Paz,20503,Aucapata,2018,8,TOTAL,1027
+La Paz,20502,Ayata,2018,8,TOTAL,1971
+La Paz,21303,Ayo Ayo,2018,8,TOTAL,1837
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,8,TOTAL,4391
+Chuquisaca,10201,Azurduy,2018,8,TOTAL,4110
+La Paz,21203,Batallas,2018,8,TOTAL,4003
+Beni,80802,Baures,2018,8,TOTAL,751
+Oruro,41202,Belen De Andamarca,2018,8,TOTAL,104
+Potosí,50104,Belen De Urmiri,2018,8,TOTAL,179
+Pando,90104,Bella Flor,2018,8,TOTAL,712
+Tarija,60202,Bermejo,2018,8,TOTAL,13232
+Potosí,50301,Betanzos,2018,8,TOTAL,7580
+Cochabamba,31501,Bolivar,2018,8,TOTAL,556
+Pando,90103,Bolpebra,2018,8,TOTAL,646
+Santa Cruz,70707,Boyuibe,2018,8,TOTAL,1584
+Santa Cruz,70401,Buena Vista,2018,8,TOTAL,4380
+Santa Cruz,70703,Cabezas,2018,8,TOTAL,7844
+La Paz,20905,Cairoma,2018,8,TOTAL,1985
+Potosí,51102,"Caiza ""d""",2018,8,TOTAL,2809
+La Paz,21003,Cajuata,2018,8,TOTAL,2500
+La Paz,20303,Calacoto,2018,8,TOTAL,1670
+La Paz,21304,Calamarca,2018,8,TOTAL,2391
+Chuquisaca,10701,Camargo,2018,8,TOTAL,2287
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,8,TOTAL,811
+Santa Cruz,70706,Camiri,2018,8,TOTAL,8609
+Cochabamba,30701,Capinota,2018,8,TOTAL,4451
+La Paz,20302,Caquiaviri,2018,8,TOTAL,2730
+Oruro,40102,Caracollo,2018,8,TOTAL,4233
+La Paz,22001,Caranavi,2018,8,TOTAL,11883
+Oruro,41503,Carangas,2018,8,TOTAL,32
+Tarija,60302,Carapari,2018,8,TOTAL,4012
+Potosí,50702,Caripuyo,2018,8,TOTAL,1479
+Santa Cruz,71403,Carmen Rivero Torrez,2018,8,TOTAL,1518
+La Paz,21902,Catacora,2018,8,TOTAL,455
+La Paz,21803,Chacarilla,2018,8,TOTAL,380
+Oruro,40201,Challapata,2018,8,TOTAL,5657
+Potosí,50302,Chaqui,2018,8,TOTAL,2743
+Santa Cruz,70702,Charagua,2018,8,TOTAL,9025
+La Paz,20305,Charaña,2018,8,TOTAL,460
+Potosí,50202,Chayanta,2018,8,TOTAL,2853
+Cochabamba,31204,Chimore,2018,8,TOTAL,3233
+Oruro,40903,Chipaya,2018,8,TOTAL,140
+Oruro,40302,Choque Cota,2018,8,TOTAL,217
+La Paz,20203,Chua Cocani,2018,8,TOTAL,900
+La Paz,21101,Chulumani (v. De La Libertad),2018,8,TOTAL,2566
+La Paz,20501,Chuma,2018,8,TOTAL,2212
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,8,TOTAL,1196
+Potosí,51103,Ckochas,2018,8,TOTAL,4660
+Cochabamba,30801,Cliza,2018,8,TOTAL,7205
+Pando,90101,Cobija,2018,8,TOTAL,13141
+Cochabamba,30303,Cocapata,2018,8,TOTAL,129
+Cochabamba,30101,Cochabamba,2018,8,TOTAL,216729
+Oruro,40902,Coipasa,2018,8,TOTAL,45
+Cochabamba,30905,Colcapirhua,2018,8,TOTAL,15753
+Potosí,50901,"Colcha ""k""",2018,8,TOTAL,2133
+La Paz,21307,Collana,2018,8,TOTAL,763
+Cochabamba,31002,Colomi,2018,8,TOTAL,4876
+Santa Cruz,70603,Colpa Belgica,2018,8,TOTAL,1623
+Potosí,50401,Colquechaca,2018,8,TOTAL,4729
+La Paz,21306,Colquencha,2018,8,TOTAL,1814
+La Paz,21004,Colquiri,2018,8,TOTAL,4028
+La Paz,20304,Comanche,2018,8,TOTAL,1347
+Santa Cruz,71301,Comarapa,2018,8,TOTAL,5282
+La Paz,20605,Combaya,2018,8,TOTAL,658
+Santa Cruz,71101,Concepcion,2018,8,TOTAL,5466
+La Paz,21701,Copacabana,2018,8,TOTAL,2810
+La Paz,21402,Coripata,2018,8,TOTAL,2912
+La Paz,20301,Coro Coro,2018,8,TOTAL,1930
+La Paz,21401,Coroico,2018,8,TOTAL,3367
+Oruro,40301,Corque,2018,8,TOTAL,984
+Potosí,50601,Cotagaita,2018,8,TOTAL,6911
+Santa Cruz,70102,Cotoca,2018,8,TOTAL,14340
+Oruro,40503,Cruz De Machacamarca,2018,8,TOTAL,20
+Santa Cruz,71106,Cuatro Cañadas,2018,8,TOTAL,7179
+Santa Cruz,70704,Cuevo,2018,8,TOTAL,664
+Chuquisaca,10902,Culpina,2018,8,TOTAL,4464
+Oruro,40401,Curahuara De Carangas,2018,8,TOTAL,358
+La Paz,21602,Curva,2018,8,TOTAL,541
+La Paz,20804,Desaguadero,2018,8,TOTAL,1649
+La Paz,20105,El Alto,2018,8,TOTAL,288563
+Oruro,40103,El Choro,2018,8,TOTAL,1220
+Santa Cruz,71503,El Puente(stc),2018,8,TOTAL,2668
+Tarija,60502,El Puente(tja),2018,8,TOTAL,3543
+Santa Cruz,70105,El Torno,2018,8,TOTAL,16831
+Chuquisaca,10405,El Villar,2018,8,TOTAL,2500
+Tarija,60601,Entre Rios Trj,2018,8,TOTAL,7004
+Cochabamba,31206,Entre Rios Cbba,2018,8,TOTAL,5335
+Oruro,40502,Escara,2018,8,TOTAL,40
+La Paz,20405,Escoma,2018,8,TOTAL,1240
+Oruro,40505,Esmeralda,2018,8,TOTAL,47
+Oruro,41101,Eucaliptus,2018,8,TOTAL,1139
+Pando,90503,Eureka (santos Mercado),2018,8,TOTAL,255
+Beni,80402,Exaltacion,2018,8,TOTAL,395
+Santa Cruz,71004,Fernandez Alonso,2018,8,TOTAL,3752
+Pando,90203,Filadelfia,2018,8,TOTAL,998
+Santa Cruz,71002,General Saavedra,2018,8,TOTAL,2655
+La Paz,21601,Gral. J.j. Perez (charazani),2018,8,TOTAL,1852
+La Paz,20602,Guanay,2018,8,TOTAL,2780
+La Paz,20802,Guaqui,2018,8,TOTAL,1750
+Beni,80202,Guayaramerin,2018,8,TOTAL,7459
+Santa Cruz,70705,Gutierrez,2018,8,TOTAL,3771
+Chuquisaca,10502,Huacareta,2018,8,TOTAL,1263
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,8,TOTAL,930
+Oruro,40501,Huachacalla,2018,8,TOTAL,196
+Oruro,40701,Huanuni,2018,8,TOTAL,5874
+Beni,80803,Huaracaje,2018,8,TOTAL,768
+La Paz,20204,Huarina,2018,8,TOTAL,1600
+La Paz,20206,Huatajata,2018,8,TOTAL,546
+Oruro,41601,Huayllamarca,2018,8,TOTAL,881
+La Paz,20404,Humanata,2018,8,TOTAL,1160
+La Paz,21005,Ichoca,2018,8,TOTAL,1700
+Chuquisaca,10304,Icla,2018,8,TOTAL,3034
+Chuquisaca,10703,Incahuasi,2018,8,TOTAL,2530
+Pando,90402,Ingavi (humaita),2018,8,TOTAL,211
+La Paz,21001,Inquisivi,2018,8,TOTAL,2790
+La Paz,21102,Irupana (villa De Lanza),2018,8,TOTAL,3181
+La Paz,21501,Ixiamas,2018,8,TOTAL,2342
+La Paz,20806,Jesus De Machaca,2018,8,TOTAL,3530
+La Paz,21105,La Asunta,2018,8,TOTAL,6685
+Santa Cruz,70104,La Guardia,2018,8,TOTAL,37514
+La Paz,20101,La Paz,2018,8,TOTAL,193758
+Oruro,41501,La Rivera,2018,8,TOTAL,30
+Santa Cruz,70701,Lagunillas,2018,8,TOTAL,1887
+La Paz,21202,Laja,2018,8,TOTAL,5636
+Chuquisaca,10903,Las Carreras,2018,8,TOTAL,908
+La Paz,21006,Licoma Pampa,2018,8,TOTAL,700
+Potosí,50203,Llallagua,2018,8,TOTAL,11720
+Potosí,51401,Llica,2018,8,TOTAL,664
+Beni,80601,Loreto,2018,8,TOTAL,401
+La Paz,20901,Luribay,2018,8,TOTAL,2123
+Oruro,40702,Machacamarca,2018,8,TOTAL,993
+Chuquisaca,11003,Machareti,2018,8,TOTAL,2062
+Beni,80801,Magdalena,2018,8,TOTAL,1848
+Santa Cruz,70903,Mairana,2018,8,TOTAL,3540
+La Paz,20904,Malla,2018,8,TOTAL,902
+La Paz,20607,Mapiri,2018,8,TOTAL,2500
+La Paz,20103,Mecapaca,2018,8,TOTAL,3779
+Santa Cruz,71003,Mineros,2018,8,TOTAL,7112
+Cochabamba,31301,Mizque,2018,8,TOTAL,4602
+La Paz,20402,Mocomoco,2018,8,TOTAL,2792
+Potosí,51002,Mojinete,2018,8,TOTAL,108
+Chuquisaca,10303,Mojocoya,2018,8,TOTAL,2503
+Chuquisaca,10501,Monteagudo,2018,8,TOTAL,4422
+Santa Cruz,71001,Montero,2018,8,TOTAL,37951
+Santa Cruz,70803,Moro Moro,2018,8,TOTAL,955
+Cochabamba,30302,Morochata,2018,8,TOTAL,416
+Pando,90401,Nacebe (santa Rosa Del Abuna),2018,8,TOTAL,500
+La Paz,20307,Nazacara De Pacajes,2018,8,TOTAL,137
+Pando,90501,Nuevo Manoa (nueva Esperanza),2018,8,TOTAL,250
+Potosí,50404,Ocuri,2018,8,TOTAL,2912
+Santa Cruz,70202,Okinawa,2018,8,TOTAL,3548
+Cochabamba,30203,Omereque,2018,8,TOTAL,1410
+Oruro,40101,Oruro,2018,8,TOTAL,112971
+Tarija,60201,Padcaya,2018,8,TOTAL,6597
+Chuquisaca,10401,Padilla,2018,8,TOTAL,5607
+Santa Cruz,70502,Pailon,2018,8,TOTAL,11373
+La Paz,20102,Palca,2018,8,TOTAL,4239
+La Paz,21104,Palos Blancos,2018,8,TOTAL,6440
+Oruro,40802,Pampa Aullagas,2018,8,TOTAL,490
+Santa Cruz,70902,Pampa Grande,2018,8,TOTAL,3090
+La Paz,21802,Papel Pampa,2018,8,TOTAL,1250
+Cochabamba,30202,Pasorapa,2018,8,TOTAL,683
+La Paz,21305,Patacamaya,2018,8,TOTAL,4720
+Oruro,40602,Pazña,2018,8,TOTAL,1482
+La Paz,20702,Pelechuco,2018,8,TOTAL,1528
+Potosí,50403,Pocoata,2018,8,TOTAL,4032
+Cochabamba,31203,Pocona,2018,8,TOTAL,1554
+Cochabamba,31202,Pojo (cbba),2018,8,TOTAL,1389
+Oruro,40601,Poopo,2018,8,TOTAL,1151
+Potosí,51203,Porco,2018,8,TOTAL,2291
+Chuquisaca,10103,Poroma,2018,8,TOTAL,4555
+Santa Cruz,70103,Porongo,2018,8,TOTAL,4800
+Santa Cruz,70601,Portachuelo,2018,8,TOTAL,4631
+Pando,90102,Porvenir,2018,8,TOTAL,2003
+Santa Cruz,70804,Postrer Valle,2018,8,TOTAL,661
+Potosí,50101,Potosi,2018,8,TOTAL,52776
+Chuquisaca,10302,Presto,2018,8,TOTAL,3200
+Santa Cruz,70805,Pucara,2018,8,TOTAL,804
+La Paz,21201,Pucarani,2018,8,TOTAL,8942
+La Paz,20401,Puerto Acosta,2018,8,TOTAL,1350
+La Paz,20403,Puerto Carabuco,2018,8,TOTAL,2436
+Pando,90301,Puerto Gonzalo Moreno,2018,8,TOTAL,360
+La Paz,21204,Puerto Perez,2018,8,TOTAL,1045
+Santa Cruz,71402,Puerto Quijarro,2018,8,TOTAL,4116
+Pando,90201,Puerto Rico,2018,8,TOTAL,984
+Santa Cruz,71401,Puerto Suarez,2018,8,TOTAL,4817
+Cochabamba,31205,Puerto Villarroel,2018,8,TOTAL,8799
+Potosí,51101,Puna,2018,8,TOTAL,5240
+La Paz,20604,Quiabaya,2018,8,TOTAL,550
+Cochabamba,30901,Quillacollo,2018,8,TOTAL,36577
+La Paz,21002,Quime,2018,8,TOTAL,1880
+Santa Cruz,70904,Quirusillas,2018,8,TOTAL,571
+Cochabamba,31304,Raqaypampa(eta),2018,8,TOTAL,1731
+Potosí,50402,Ravelo,2018,8,TOTAL,5219
+Beni,80301,Reyes,2018,8,TOTAL,1800
+Beni,80201,Riberalta,2018,8,TOTAL,10691
+Santa Cruz,70503,Robore,2018,8,TOTAL,3469
+Beni,80304,Rurrenabaque,2018,8,TOTAL,3624
+Oruro,40901,Sabaya,2018,8,TOTAL,352
+Cochabamba,31001,Sacaba,2018,8,TOTAL,68010
+Cochabamba,30404,Sacabamba,2018,8,TOTAL,1108
+Potosí,50701,Sacaca,2018,8,TOTAL,4174
+Santa Cruz,71302,Saipina,2018,8,TOTAL,1869
+Oruro,40801,Salinas De Garci Mendoza,2018,8,TOTAL,1089
+Santa Cruz,70901,Samaipata,2018,8,TOTAL,3585
+Potosí,51601,San Agustin,2018,8,TOTAL,321
+Beni,80602,San Andres,2018,8,TOTAL,2749
+La Paz,20805,San Andres De Machaca,2018,8,TOTAL,1285
+Potosí,51003,San Antonio De Esmoruco,2018,8,TOTAL,238
+Santa Cruz,71105,San Antonio De Lomerio,2018,8,TOTAL,1994
+Beni,80302,San Borja,2018,8,TOTAL,2290
+La Paz,21502,San Buena Ventura,2018,8,TOTAL,2210
+Santa Cruz,70402,San Carlos,2018,8,TOTAL,6781
+Beni,80501,San Ignacio,2018,8,TOTAL,3751
+Santa Cruz,70301,San Ignacio De Velasco,2018,8,TOTAL,9462
+Beni,80102,San Javier(bni),2018,8,TOTAL,544
+Santa Cruz,71102,San Javier(stc),2018,8,TOTAL,2839
+Beni,80701,San Joaquin,2018,8,TOTAL,1230
+Santa Cruz,70501,San Jose De Chiquitos,2018,8,TOTAL,8166
+Santa Cruz,70404,San Juan De Yapacani,2018,8,TOTAL,502
+Santa Cruz,71104,San Julian,2018,8,TOTAL,15115
+Pando,90302,San Lorenzo(pnd),2018,8,TOTAL,1484
+Tarija,60501,San Lorenzo(tja),2018,8,TOTAL,11139
+Chuquisaca,10702,San Lucas,2018,8,TOTAL,7472
+Santa Cruz,71201,San Matias,2018,8,TOTAL,5760
+Santa Cruz,70302,San Miguel De Velasco,2018,8,TOTAL,2649
+Potosí,51001,San Pablo De Lipez,2018,8,TOTAL,300
+Santa Cruz,71005,San Pedro,2018,8,TOTAL,5299
+Potosí,50501,San Pedro De Buena Vista,2018,8,TOTAL,7732
+La Paz,21801,San Pedro De Curahuara,2018,8,TOTAL,1550
+Potosí,50902,San Pedro De Quemes,2018,8,TOTAL,107
+La Paz,21702,San Pedro De Tiquina,2018,8,TOTAL,1095
+Pando,90202,San Pedro(pnd),2018,8,TOTAL,366
+Santa Cruz,70303,San Rafael,2018,8,TOTAL,982
+Santa Cruz,71103,San Ramon Scz,2018,8,TOTAL,1802
+Beni,80401,Santa Ana,2018,8,TOTAL,4432
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,8,TOTAL,392610
+Beni,80303,Santa Rosa,2018,8,TOTAL,2275
+Santa Cruz,70602,Santa Rosa Del Sara,2018,8,TOTAL,6528
+La Paz,20308,Santiago De Callapa,2018,8,TOTAL,1210
+Oruro,41401,Santiago De Huari,2018,8,TOTAL,1313
+La Paz,20205,Santiago De Huata,2018,8,TOTAL,1620
+La Paz,21901,Santiago De Machaca,2018,8,TOTAL,742
+Cochabamba,30702,Santivañes,2018,8,TOTAL,905
+Oruro,40202,Santuario De Quillacas,2018,8,TOTAL,420
+La Paz,20902,Sapahaqui,2018,8,TOTAL,2093
+Pando,90303,Sena,2018,8,TOTAL,721
+Cochabamba,31602,Shinaota,2018,8,TOTAL,2111
+La Paz,21301,Sica Sica (villa Aroma),2018,8,TOTAL,4810
+Cochabamba,30703,Sicaya,2018,8,TOTAL,711
+Cochabamba,30902,Sipe Sipe,2018,8,TOTAL,15732
+Chuquisaca,10403,Sopachuy,2018,8,TOTAL,2232
+Oruro,40104,Soracachi,2018,8,TOTAL,3086
+La Paz,20601,Sorata,2018,8,TOTAL,4135
+Chuquisaca,10101,Sucre,2018,8,TOTAL,93584
+La Paz,20603,Tacacoma,2018,8,TOTAL,1600
+Potosí,50303,Tacobamba,2018,8,TOTAL,2923
+Cochabamba,30602,Tacopaya,2018,8,TOTAL,1403
+Potosí,51402,Tahua,2018,8,TOTAL,330
+Cochabamba,31101,Tapacari,2018,8,TOTAL,5022
+Chuquisaca,10601,Tarabuco,2018,8,TOTAL,3409
+La Paz,20807,Taraco,2018,8,TOTAL,1536
+Cochabamba,30401,Tarata,2018,8,TOTAL,2398
+Tarija,60101,Tarija,2018,8,TOTAL,66009
+Chuquisaca,10202,Tarvita,2018,8,TOTAL,4844
+La Paz,20608,Teoponte,2018,8,TOTAL,2310
+La Paz,20803,Tiawanacu,2018,8,TOTAL,3640
+Potosí,50102,Tinguipaya,2018,8,TOTAL,2541
+La Paz,20606,Tipuani,2018,8,TOTAL,1575
+Cochabamba,30903,Tiquipaya,2018,8,TOTAL,18719
+La Paz,21703,Tito Yupanqui (parquipujio),2018,8,TOTAL,273
+Cochabamba,30802,Toco,2018,8,TOTAL,2255
+Oruro,41502,Todos Santos,2018,8,TOTAL,41
+Cochabamba,30803,Tolata,2018,8,TOTAL,3862
+Oruro,41001,Toledo,2018,8,TOTAL,1333
+Potosí,51202,Tomave,2018,8,TOTAL,3574
+Chuquisaca,10402,Tomina,2018,8,TOTAL,3495
+Potosí,50502,Toro Toro,2018,8,TOTAL,3006
+Oruro,41301,Totora(orr),2018,8,TOTAL,713
+Santa Cruz,70802,Trigal,2018,8,TOTAL,941
+Beni,80101,Trinidad,2018,8,TOTAL,587
+Potosí,50801,Tupiza,2018,8,TOTAL,14138
+Oruro,40402,Turco,2018,8,TOTAL,397
+La Paz,21302,Umala,2018,8,TOTAL,1430
+Potosí,50201,Uncia,2018,8,TOTAL,5514
+Tarija,60401,Uriondo (a. Concepcion),2018,8,TOTAL,6442
+Santa Cruz,71502,Urubicha,2018,8,TOTAL,2093
+Potosí,51201,Uyuni,2018,8,TOTAL,7686
+Santa Cruz,70801,Vallegrande,2018,8,TOTAL,4614
+La Paz,20801,Viacha,2018,8,TOTAL,31411
+Cochabamba,31302,Vila Vila,2018,8,TOTAL,1294
+Chuquisaca,10704,Villa Charcas,2018,8,TOTAL,2500
+Tarija,60303,Villa Montes,2018,8,TOTAL,12098
+Pando,90502,Villa Nueva (loma Alta),2018,8,TOTAL,228
+Chuquisaca,10801,Villa Serrano,2018,8,TOTAL,2882
+Cochabamba,31003,Villa Tunari,2018,8,TOTAL,4947
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,8,TOTAL,728
+Potosí,51501,Villazon,2018,8,TOTAL,13240
+Cochabamba,30904,Vinto,2018,8,TOTAL,1108
+Potosí,50602,Vitichi,2018,8,TOTAL,2730
+La Paz,20306,Waldo Ballivian,2018,8,TOTAL,594
+Santa Cruz,70201,Warnes,2018,8,TOTAL,38717
+La Paz,20903,Yaco,2018,8,TOTAL,1244
+Tarija,60301,Yacuiba,2018,8,TOTAL,1038
+Chuquisaca,10602,Yamparaez,2018,8,TOTAL,2335
+La Paz,21103,Yanacachi,2018,8,TOTAL,1184
+Santa Cruz,70403,Yapacani,2018,8,TOTAL,17579
+Potosí,50103,Yocalla,2018,8,TOTAL,1286
+Chuquisaca,10102,Yotala,2018,8,TOTAL,2395
+Oruro,40504,Yunguyo De Litoral,2018,8,TOTAL,20
+Chuquisaca,10301,Zudañez,2018,8,TOTAL,2858
+La Paz,20201,Achacachi,2018,9,TOTAL,267
+La Paz,20104,Achocalla,2018,9,TOTAL,233
+Cochabamba,30201,Aiquile,2018,9,TOTAL,469
+Cochabamba,31303,Alalay,2018,9,TOTAL,212
+La Paz,22002,Alto Beni,2018,9,TOTAL,84
+Oruro,41201,Andamarca,2018,9,TOTAL,91
+Oruro,40603,Antequera,2018,9,TOTAL,50
+La Paz,20701,Apolo,2018,9,TOTAL,867
+Cochabamba,30403,Arbieto,2018,9,TOTAL,112
+Cochabamba,30601,Arque,2018,9,TOTAL,53
+Santa Cruz,71501,Ascencion De Guarayos,2018,9,TOTAL,146
+Potosí,50802,Atocha,2018,9,TOTAL,34
+La Paz,20503,Aucapata,2018,9,TOTAL,98
+La Paz,21303,Ayo Ayo,2018,9,TOTAL,500
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,9,TOTAL,49
+Chuquisaca,10201,Azurduy,2018,9,TOTAL,461
+La Paz,21203,Batallas,2018,9,TOTAL,234
+Beni,80802,Baures,2018,9,TOTAL,5
+Oruro,41202,Belen De Andamarca,2018,9,TOTAL,31
+Pando,90104,Bella Flor,2018,9,TOTAL,59
+Tarija,60202,Bermejo,2018,9,TOTAL,124
+Cochabamba,31501,Bolivar,2018,9,TOTAL,257
+Santa Cruz,70707,Boyuibe,2018,9,TOTAL,60
+Santa Cruz,70401,Buena Vista,2018,9,TOTAL,251
+Santa Cruz,70703,Cabezas,2018,9,TOTAL,1729
+La Paz,20905,Cairoma,2018,9,TOTAL,499
+Potosí,51102,"Caiza ""d""",2018,9,TOTAL,98
+Chuquisaca,10701,Camargo,2018,9,TOTAL,1006
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,9,TOTAL,16
+Santa Cruz,70706,Camiri,2018,9,TOTAL,895
+Cochabamba,30701,Capinota,2018,9,TOTAL,108
+Oruro,40102,Caracollo,2018,9,TOTAL,355
+La Paz,22001,Caranavi,2018,9,TOTAL,130
+Tarija,60302,Carapari,2018,9,TOTAL,406
+Potosí,50702,Caripuyo,2018,9,TOTAL,12
+La Paz,21902,Catacora,2018,9,TOTAL,19
+Oruro,40201,Challapata,2018,9,TOTAL,2002
+Santa Cruz,70702,Charagua,2018,9,TOTAL,353
+Potosí,50202,Chayanta,2018,9,TOTAL,158
+Cochabamba,31204,Chimore,2018,9,TOTAL,652
+Oruro,40302,Choque Cota,2018,9,TOTAL,41
+La Paz,21101,Chulumani (v. De La Libertad),2018,9,TOTAL,309
+La Paz,20501,Chuma,2018,9,TOTAL,54
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,9,TOTAL,45
+Potosí,51103,Ckochas,2018,9,TOTAL,930
+Cochabamba,30801,Cliza,2018,9,TOTAL,528
+Cochabamba,30303,Cocapata,2018,9,TOTAL,144
+Cochabamba,30101,Cochabamba,2018,9,TOTAL,6174
+Oruro,40902,Coipasa,2018,9,TOTAL,5
+Cochabamba,30905,Colcapirhua,2018,9,TOTAL,806
+Potosí,50901,"Colcha ""k""",2018,9,TOTAL,72
+Cochabamba,31002,Colomi,2018,9,TOTAL,480
+Potosí,50401,Colquechaca,2018,9,TOTAL,448
+La Paz,21004,Colquiri,2018,9,TOTAL,137
+Santa Cruz,71301,Comarapa,2018,9,TOTAL,24
+La Paz,20605,Combaya,2018,9,TOTAL,22
+Santa Cruz,71101,Concepcion,2018,9,TOTAL,170
+La Paz,21701,Copacabana,2018,9,TOTAL,27
+La Paz,21402,Coripata,2018,9,TOTAL,51
+Oruro,40301,Corque,2018,9,TOTAL,117
+Potosí,50601,Cotagaita,2018,9,TOTAL,169
+Santa Cruz,70102,Cotoca,2018,9,TOTAL,440
+Oruro,40503,Cruz De Machacamarca,2018,9,TOTAL,10
+Santa Cruz,71106,Cuatro Cañadas,2018,9,TOTAL,56
+Chuquisaca,10902,Culpina,2018,9,TOTAL,161
+Oruro,40401,Curahuara De Carangas,2018,9,TOTAL,61
+La Paz,21602,Curva,2018,9,TOTAL,54
+La Paz,20105,El Alto,2018,9,TOTAL,3815
+Oruro,40103,El Choro,2018,9,TOTAL,144
+Santa Cruz,71503,El Puente(stc),2018,9,TOTAL,252
+Tarija,60502,El Puente(tja),2018,9,TOTAL,585
+Santa Cruz,70105,El Torno,2018,9,TOTAL,222
+Tarija,60601,Entre Rios Trj,2018,9,TOTAL,1058
+Cochabamba,31206,Entre Rios Cbba,2018,9,TOTAL,2474
+Oruro,41101,Eucaliptus,2018,9,TOTAL,51
+Pando,90503,Eureka (santos Mercado),2018,9,TOTAL,50
+Santa Cruz,71004,Fernandez Alonso,2018,9,TOTAL,37
+Santa Cruz,71002,General Saavedra,2018,9,TOTAL,558
+La Paz,21601,Gral. J.j. Perez (charazani),2018,9,TOTAL,102
+Beni,80202,Guayaramerin,2018,9,TOTAL,21
+Santa Cruz,70705,Gutierrez,2018,9,TOTAL,113
+Chuquisaca,10502,Huacareta,2018,9,TOTAL,1213
+Oruro,40701,Huanuni,2018,9,TOTAL,129
+La Paz,20206,Huatajata,2018,9,TOTAL,20
+Oruro,41601,Huayllamarca,2018,9,TOTAL,138
+Chuquisaca,10304,Icla,2018,9,TOTAL,76
+Chuquisaca,10703,Incahuasi,2018,9,TOTAL,157
+Pando,90402,Ingavi (humaita),2018,9,TOTAL,1
+La Paz,21001,Inquisivi,2018,9,TOTAL,290
+La Paz,21102,Irupana (villa De Lanza),2018,9,TOTAL,65
+La Paz,21105,La Asunta,2018,9,TOTAL,165
+Santa Cruz,70104,La Guardia,2018,9,TOTAL,2475
+La Paz,20101,La Paz,2018,9,TOTAL,871
+Santa Cruz,70701,Lagunillas,2018,9,TOTAL,177
+Chuquisaca,10903,Las Carreras,2018,9,TOTAL,179
+Potosí,51401,Llica,2018,9,TOTAL,27
+Beni,80601,Loreto,2018,9,TOTAL,198
+La Paz,20901,Luribay,2018,9,TOTAL,515
+Oruro,40702,Machacamarca,2018,9,TOTAL,151
+Chuquisaca,11003,Machareti,2018,9,TOTAL,33
+Beni,80801,Magdalena,2018,9,TOTAL,182
+Santa Cruz,70903,Mairana,2018,9,TOTAL,99
+Santa Cruz,71003,Mineros,2018,9,TOTAL,20
+Cochabamba,31301,Mizque,2018,9,TOTAL,398
+Potosí,51002,Mojinete,2018,9,TOTAL,2
+Chuquisaca,10501,Monteagudo,2018,9,TOTAL,4894
+Santa Cruz,71001,Montero,2018,9,TOTAL,336
+Santa Cruz,70803,Moro Moro,2018,9,TOTAL,53
+Cochabamba,30302,Morochata,2018,9,TOTAL,292
+Pando,90501,Nuevo Manoa (nueva Esperanza),2018,9,TOTAL,80
+Potosí,50404,Ocuri,2018,9,TOTAL,123
+Santa Cruz,70202,Okinawa,2018,9,TOTAL,11
+Cochabamba,30203,Omereque,2018,9,TOTAL,236
+Oruro,40101,Oruro,2018,9,TOTAL,249
+Tarija,60201,Padcaya,2018,9,TOTAL,1666
+Santa Cruz,70502,Pailon,2018,9,TOTAL,370
+Oruro,40802,Pampa Aullagas,2018,9,TOTAL,17
+Cochabamba,30202,Pasorapa,2018,9,TOTAL,1295
+Oruro,40602,Pazña,2018,9,TOTAL,55
+La Paz,20702,Pelechuco,2018,9,TOTAL,38
+Potosí,50403,Pocoata,2018,9,TOTAL,711
+Cochabamba,31203,Pocona,2018,9,TOTAL,2027
+Cochabamba,31202,Pojo (cbba),2018,9,TOTAL,578
+Oruro,40601,Poopo,2018,9,TOTAL,188
+Potosí,51203,Porco,2018,9,TOTAL,159
+Chuquisaca,10103,Poroma,2018,9,TOTAL,2006
+Santa Cruz,70601,Portachuelo,2018,9,TOTAL,317
+Santa Cruz,70804,Postrer Valle,2018,9,TOTAL,16
+Potosí,50101,Potosi,2018,9,TOTAL,386
+Santa Cruz,70805,Pucara,2018,9,TOTAL,21
+La Paz,21201,Pucarani,2018,9,TOTAL,20
+La Paz,20403,Puerto Carabuco,2018,9,TOTAL,10
+La Paz,21204,Puerto Perez,2018,9,TOTAL,26
+Pando,90201,Puerto Rico,2018,9,TOTAL,8
+Cochabamba,31205,Puerto Villarroel,2018,9,TOTAL,1700
+Potosí,51101,Puna,2018,9,TOTAL,222
+Cochabamba,30901,Quillacollo,2018,9,TOTAL,2612
+Santa Cruz,70904,Quirusillas,2018,9,TOTAL,84
+Cochabamba,31304,Raqaypampa(eta),2018,9,TOTAL,38
+Potosí,50402,Ravelo,2018,9,TOTAL,455
+Santa Cruz,70503,Robore,2018,9,TOTAL,110
+Beni,80304,Rurrenabaque,2018,9,TOTAL,146
+Cochabamba,31001,Sacaba,2018,9,TOTAL,1100
+Cochabamba,30404,Sacabamba,2018,9,TOTAL,152
+Potosí,50701,Sacaca,2018,9,TOTAL,222
+Oruro,40801,Salinas De Garci Mendoza,2018,9,TOTAL,112
+Potosí,51601,San Agustin,2018,9,TOTAL,16
+Beni,80602,San Andres,2018,9,TOTAL,104
+Potosí,51003,San Antonio De Esmoruco,2018,9,TOTAL,45
+Beni,80302,San Borja,2018,9,TOTAL,5205
+La Paz,21502,San Buena Ventura,2018,9,TOTAL,15
+Santa Cruz,70402,San Carlos,2018,9,TOTAL,53
+Beni,80501,San Ignacio,2018,9,TOTAL,155
+Santa Cruz,70301,San Ignacio De Velasco,2018,9,TOTAL,445
+Santa Cruz,71102,San Javier(stc),2018,9,TOTAL,393
+Beni,80701,San Joaquin,2018,9,TOTAL,74
+Santa Cruz,70404,San Juan De Yapacani,2018,9,TOTAL,33
+Santa Cruz,71104,San Julian,2018,9,TOTAL,960
+Tarija,60501,San Lorenzo(tja),2018,9,TOTAL,260
+Chuquisaca,10702,San Lucas,2018,9,TOTAL,682
+Santa Cruz,71201,San Matias,2018,9,TOTAL,215
+Santa Cruz,70302,San Miguel De Velasco,2018,9,TOTAL,44
+Potosí,51001,San Pablo De Lipez,2018,9,TOTAL,54
+Santa Cruz,71005,San Pedro,2018,9,TOTAL,161
+Potosí,50501,San Pedro De Buena Vista,2018,9,TOTAL,1226
+Potosí,50902,San Pedro De Quemes,2018,9,TOTAL,17
+Santa Cruz,70303,San Rafael,2018,9,TOTAL,18
+Beni,80702,San Ramon Beni,2018,9,TOTAL,1449
+Santa Cruz,71103,San Ramon Scz,2018,9,TOTAL,93
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,9,TOTAL,7137
+Santa Cruz,70602,Santa Rosa Del Sara,2018,9,TOTAL,148
+Oruro,41401,Santiago De Huari,2018,9,TOTAL,58
+La Paz,20205,Santiago De Huata,2018,9,TOTAL,138
+Oruro,40202,Santuario De Quillacas,2018,9,TOTAL,88
+La Paz,20902,Sapahaqui,2018,9,TOTAL,50
+Cochabamba,31602,Shinaota,2018,9,TOTAL,721
+Cochabamba,30902,Sipe Sipe,2018,9,TOTAL,495
+Oruro,40104,Soracachi,2018,9,TOTAL,124
+La Paz,20601,Sorata,2018,9,TOTAL,189
+Chuquisaca,10101,Sucre,2018,9,TOTAL,94
+Cochabamba,30602,Tacopaya,2018,9,TOTAL,114
+Cochabamba,31101,Tapacari,2018,9,TOTAL,117
+Chuquisaca,10601,Tarabuco,2018,9,TOTAL,147
+Cochabamba,30401,Tarata,2018,9,TOTAL,47
+Tarija,60101,Tarija,2018,9,TOTAL,580
+Chuquisaca,10202,Tarvita,2018,9,TOTAL,1433
+La Paz,20608,Teoponte,2018,9,TOTAL,40
+Potosí,50102,Tinguipaya,2018,9,TOTAL,122
+Cochabamba,30903,Tiquipaya,2018,9,TOTAL,816
+La Paz,21703,Tito Yupanqui (parquipujio),2018,9,TOTAL,30
+Cochabamba,30802,Toco,2018,9,TOTAL,35
+Cochabamba,30803,Tolata,2018,9,TOTAL,190
+Oruro,41001,Toledo,2018,9,TOTAL,61
+Potosí,51202,Tomave,2018,9,TOTAL,445
+Chuquisaca,10402,Tomina,2018,9,TOTAL,439
+Potosí,50502,Toro Toro,2018,9,TOTAL,658
+Cochabamba,31201,Totora(cbba),2018,9,TOTAL,2011
+Oruro,41301,Totora(orr),2018,9,TOTAL,75
+Santa Cruz,70802,Trigal,2018,9,TOTAL,38
+Beni,80101,Trinidad,2018,9,TOTAL,20684
+Potosí,50801,Tupiza,2018,9,TOTAL,237
+Oruro,40402,Turco,2018,9,TOTAL,83
+La Paz,21302,Umala,2018,9,TOTAL,9
+Potosí,50201,Uncia,2018,9,TOTAL,21
+Tarija,60401,Uriondo (a. Concepcion),2018,9,TOTAL,701
+Potosí,51201,Uyuni,2018,9,TOTAL,282
+Santa Cruz,70801,Vallegrande,2018,9,TOTAL,1375
+Cochabamba,31302,Vila Vila,2018,9,TOTAL,127
+Tarija,60303,Villa Montes,2018,9,TOTAL,258
+Pando,90502,Villa Nueva (loma Alta),2018,9,TOTAL,14
+Cochabamba,31003,Villa Tunari,2018,9,TOTAL,4706
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,9,TOTAL,1106
+Potosí,51501,Villazon,2018,9,TOTAL,361
+Cochabamba,30904,Vinto,2018,9,TOTAL,1112
+Potosí,50602,Vitichi,2018,9,TOTAL,30
+La Paz,20306,Waldo Ballivian,2018,9,TOTAL,6
+Santa Cruz,70201,Warnes,2018,9,TOTAL,779
+La Paz,20903,Yaco,2018,9,TOTAL,30
+Tarija,60301,Yacuiba,2018,9,TOTAL,21269
+Santa Cruz,70403,Yapacani,2018,9,TOTAL,234
+Potosí,50103,Yocalla,2018,9,TOTAL,54
+Chuquisaca,10102,Yotala,2018,9,TOTAL,465
+Tarija,60402,Yunchara,2018,9,TOTAL,1863
+Chuquisaca,10301,Zudañez,2018,9,TOTAL,18
+La Paz,20201,Achacachi,2018,10,TOTAL,107
+La Paz,20104,Achocalla,2018,10,TOTAL,20
+Cochabamba,30201,Aiquile,2018,10,TOTAL,63
+Cochabamba,31303,Alalay,2018,10,TOTAL,80
+La Paz,22002,Alto Beni,2018,10,TOTAL,36
+Oruro,40603,Antequera,2018,10,TOTAL,20
+Cochabamba,30402,Anzaldo,2018,10,TOTAL,160
+La Paz,20701,Apolo,2018,10,TOTAL,17
+Cochabamba,30501,Arani,2018,10,TOTAL,4960
+Cochabamba,30403,Arbieto,2018,10,TOTAL,183
+Potosí,50802,Atocha,2018,10,TOTAL,22222239
+La Paz,20503,Aucapata,2018,10,TOTAL,129
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,10,TOTAL,10
+Beni,80802,Baures,2018,10,TOTAL,10
+Oruro,41202,Belen De Andamarca,2018,10,TOTAL,22
+Pando,90104,Bella Flor,2018,10,TOTAL,40
+Cochabamba,31501,Bolivar,2018,10,TOTAL,8
+Santa Cruz,70707,Boyuibe,2018,10,TOTAL,34
+Santa Cruz,70703,Cabezas,2018,10,TOTAL,459
+La Paz,20905,Cairoma,2018,10,TOTAL,32
+Potosí,51102,"Caiza ""d""",2018,10,TOTAL,43
+Chuquisaca,10701,Camargo,2018,10,TOTAL,9
+Santa Cruz,70706,Camiri,2018,10,TOTAL,951
+Oruro,40102,Caracollo,2018,10,TOTAL,236
+La Paz,22001,Caranavi,2018,10,TOTAL,560
+Tarija,60302,Carapari,2018,10,TOTAL,26
+Potosí,50702,Caripuyo,2018,10,TOTAL,46
+La Paz,21902,Catacora,2018,10,TOTAL,8
+Oruro,40201,Challapata,2018,10,TOTAL,432
+Potosí,50202,Chayanta,2018,10,TOTAL,67
+Cochabamba,31204,Chimore,2018,10,TOTAL,510
+La Paz,21101,Chulumani (v. De La Libertad),2018,10,TOTAL,64
+La Paz,20501,Chuma,2018,10,TOTAL,41
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,10,TOTAL,158
+Potosí,51103,Ckochas,2018,10,TOTAL,25
+Cochabamba,30801,Cliza,2018,10,TOTAL,402
+Cochabamba,30303,Cocapata,2018,10,TOTAL,252
+Cochabamba,30101,Cochabamba,2018,10,TOTAL,7902
+Oruro,40902,Coipasa,2018,10,TOTAL,5
+Cochabamba,30905,Colcapirhua,2018,10,TOTAL,2105
+Potosí,50901,"Colcha ""k""",2018,10,TOTAL,79
+Cochabamba,31002,Colomi,2018,10,TOTAL,1933
+Potosí,50401,Colquechaca,2018,10,TOTAL,254
+Santa Cruz,71301,Comarapa,2018,10,TOTAL,30
+La Paz,20605,Combaya,2018,10,TOTAL,14
+Santa Cruz,71101,Concepcion,2018,10,TOTAL,935
+La Paz,21701,Copacabana,2018,10,TOTAL,50
+Oruro,40301,Corque,2018,10,TOTAL,10
+Potosí,50601,Cotagaita,2018,10,TOTAL,42
+Santa Cruz,70102,Cotoca,2018,10,TOTAL,377
+Santa Cruz,71106,Cuatro Cañadas,2018,10,TOTAL,66
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,10,TOTAL,1200
+Chuquisaca,10902,Culpina,2018,10,TOTAL,239
+Oruro,40401,Curahuara De Carangas,2018,10,TOTAL,5
+La Paz,20105,El Alto,2018,10,TOTAL,2501
+Santa Cruz,71503,El Puente(stc),2018,10,TOTAL,260
+Tarija,60502,El Puente(tja),2018,10,TOTAL,26
+Santa Cruz,70105,El Torno,2018,10,TOTAL,125
+Tarija,60601,Entre Rios Trj,2018,10,TOTAL,1648
+Cochabamba,31206,Entre Rios Cbba,2018,10,TOTAL,836
+Santa Cruz,71004,Fernandez Alonso,2018,10,TOTAL,88
+Pando,90203,Filadelfia,2018,10,TOTAL,60
+Santa Cruz,71002,General Saavedra,2018,10,TOTAL,429
+Chuquisaca,10502,Huacareta,2018,10,TOTAL,491
+Oruro,40701,Huanuni,2018,10,TOTAL,265
+Oruro,41601,Huayllamarca,2018,10,TOTAL,199
+Pando,90402,Ingavi (humaita),2018,10,TOTAL,70
+La Paz,21001,Inquisivi,2018,10,TOTAL,60
+La Paz,21102,Irupana (villa De Lanza),2018,10,TOTAL,58
+Santa Cruz,70104,La Guardia,2018,10,TOTAL,1221
+La Paz,20101,La Paz,2018,10,TOTAL,183
+Oruro,40702,Machacamarca,2018,10,TOTAL,89
+Chuquisaca,11003,Machareti,2018,10,TOTAL,67
+Beni,80801,Magdalena,2018,10,TOTAL,2
+Santa Cruz,70903,Mairana,2018,10,TOTAL,79
+La Paz,20904,Malla,2018,10,TOTAL,50
+Cochabamba,31301,Mizque,2018,10,TOTAL,351
+Chuquisaca,10501,Monteagudo,2018,10,TOTAL,156
+Santa Cruz,71001,Montero,2018,10,TOTAL,52
+Santa Cruz,70803,Moro Moro,2018,10,TOTAL,100
+Cochabamba,30302,Morochata,2018,10,TOTAL,964
+Potosí,50404,Ocuri,2018,10,TOTAL,25
+Santa Cruz,70202,Okinawa,2018,10,TOTAL,22
+Cochabamba,30203,Omereque,2018,10,TOTAL,331
+Oruro,40101,Oruro,2018,10,TOTAL,350
+Santa Cruz,70502,Pailon,2018,10,TOTAL,210
+Santa Cruz,70902,Pampa Grande,2018,10,TOTAL,50
+Cochabamba,30202,Pasorapa,2018,10,TOTAL,50
+Potosí,50403,Pocoata,2018,10,TOTAL,6
+Cochabamba,31203,Pocona,2018,10,TOTAL,1061
+Cochabamba,31202,Pojo (cbba),2018,10,TOTAL,365
+Oruro,40601,Poopo,2018,10,TOTAL,70
+Potosí,51203,Porco,2018,10,TOTAL,27
+Chuquisaca,10103,Poroma,2018,10,TOTAL,461
+Santa Cruz,70103,Porongo,2018,10,TOTAL,49
+Santa Cruz,70601,Portachuelo,2018,10,TOTAL,53
+Potosí,50101,Potosi,2018,10,TOTAL,371
+Pando,90301,Puerto Gonzalo Moreno,2018,10,TOTAL,120
+Pando,90201,Puerto Rico,2018,10,TOTAL,17
+Potosí,51101,Puna,2018,10,TOTAL,10
+Cochabamba,31401,Punata,2018,10,TOTAL,16480
+Cochabamba,30901,Quillacollo,2018,10,TOTAL,3163
+Cochabamba,31304,Raqaypampa(eta),2018,10,TOTAL,38
+Potosí,50402,Ravelo,2018,10,TOTAL,20
+Santa Cruz,70503,Robore,2018,10,TOTAL,75
+Beni,80304,Rurrenabaque,2018,10,TOTAL,156
+Cochabamba,31001,Sacaba,2018,10,TOTAL,20488
+Cochabamba,30404,Sacabamba,2018,10,TOTAL,96
+Potosí,50701,Sacaca,2018,10,TOTAL,121
+Oruro,40801,Salinas De Garci Mendoza,2018,10,TOTAL,36
+Santa Cruz,70901,Samaipata,2018,10,TOTAL,40
+Cochabamba,31403,San Benito,2018,10,TOTAL,8540
+Beni,80302,San Borja,2018,10,TOTAL,210
+Santa Cruz,70402,San Carlos,2018,10,TOTAL,61
+Beni,80501,San Ignacio,2018,10,TOTAL,31
+Santa Cruz,70301,San Ignacio De Velasco,2018,10,TOTAL,313
+Beni,80102,San Javier(bni),2018,10,TOTAL,20
+Santa Cruz,71102,San Javier(stc),2018,10,TOTAL,100
+Santa Cruz,71104,San Julian,2018,10,TOTAL,2372
+Tarija,60501,San Lorenzo(tja),2018,10,TOTAL,369
+Santa Cruz,70302,San Miguel De Velasco,2018,10,TOTAL,7
+Potosí,51001,San Pablo De Lipez,2018,10,TOTAL,33
+Santa Cruz,71005,San Pedro,2018,10,TOTAL,232
+Potosí,50902,San Pedro De Quemes,2018,10,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2018,10,TOTAL,935
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,10,TOTAL,868
+Santa Cruz,70602,Santa Rosa Del Sara,2018,10,TOTAL,10
+Oruro,41401,Santiago De Huari,2018,10,TOTAL,56
+Oruro,40202,Santuario De Quillacas,2018,10,TOTAL,114
+Cochabamba,30902,Sipe Sipe,2018,10,TOTAL,932
+Oruro,40104,Soracachi,2018,10,TOTAL,90
+Chuquisaca,10101,Sucre,2018,10,TOTAL,175
+Cochabamba,31404,Tacachi,2018,10,TOTAL,540
+Potosí,50303,Tacobamba,2018,10,TOTAL,15
+Cochabamba,30602,Tacopaya,2018,10,TOTAL,63
+Potosí,51402,Tahua,2018,10,TOTAL,5
+Cochabamba,31101,Tapacari,2018,10,TOTAL,20
+Cochabamba,30401,Tarata,2018,10,TOTAL,49
+Tarija,60101,Tarija,2018,10,TOTAL,165
+Chuquisaca,10202,Tarvita,2018,10,TOTAL,54
+La Paz,20608,Teoponte,2018,10,TOTAL,58
+Potosí,50102,Tinguipaya,2018,10,TOTAL,74
+La Paz,20606,Tipuani,2018,10,TOTAL,100
+Cochabamba,30903,Tiquipaya,2018,10,TOTAL,243
+Cochabamba,31601,Tiraque (cbba),2018,10,TOTAL,9820
+La Paz,21703,Tito Yupanqui (parquipujio),2018,10,TOTAL,14
+Cochabamba,30802,Toco,2018,10,TOTAL,51
+Cochabamba,30803,Tolata,2018,10,TOTAL,361
+Oruro,41001,Toledo,2018,10,TOTAL,34
+Potosí,51202,Tomave,2018,10,TOTAL,217
+Potosí,50502,Toro Toro,2018,10,TOTAL,64
+Cochabamba,31201,Totora(cbba),2018,10,TOTAL,1232
+Oruro,41301,Totora(orr),2018,10,TOTAL,72
+Beni,80101,Trinidad,2018,10,TOTAL,155
+Potosí,50801,Tupiza,2018,10,TOTAL,11
+Tarija,60401,Uriondo (a. Concepcion),2018,10,TOTAL,245
+Santa Cruz,71502,Urubicha,2018,10,TOTAL,126
+Potosí,51201,Uyuni,2018,10,TOTAL,516
+Cochabamba,30502,Vacas,2018,10,TOTAL,3600
+Santa Cruz,70801,Vallegrande,2018,10,TOTAL,288
+Cochabamba,31302,Vila Vila,2018,10,TOTAL,68
+Tarija,60303,Villa Montes,2018,10,TOTAL,147
+Pando,90502,Villa Nueva (loma Alta),2018,10,TOTAL,60
+Cochabamba,31402,Villa Rivero,2018,10,TOTAL,4700
+Cochabamba,31003,Villa Tunari,2018,10,TOTAL,574
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,10,TOTAL,226
+Potosí,51501,Villazon,2018,10,TOTAL,215
+Cochabamba,30904,Vinto,2018,10,TOTAL,14258
+Potosí,50602,Vitichi,2018,10,TOTAL,20
+Santa Cruz,70201,Warnes,2018,10,TOTAL,1671
+Tarija,60301,Yacuiba,2018,10,TOTAL,802
+Santa Cruz,70403,Yapacani,2018,10,TOTAL,352
+Tarija,60402,Yunchara,2018,10,TOTAL,467
+Potosí,51302,Acacio,2018,11,TOTAL,20
+La Paz,20201,Achacachi,2018,11,TOTAL,11
+La Paz,20104,Achocalla,2018,11,TOTAL,33
+Cochabamba,30201,Aiquile,2018,11,TOTAL,17
+La Paz,20701,Apolo,2018,11,TOTAL,160
+Cochabamba,30403,Arbieto,2018,11,TOTAL,36
+Cochabamba,30601,Arque,2018,11,TOTAL,55
+Santa Cruz,71501,Ascencion De Guarayos,2018,11,TOTAL,2902
+Potosí,50802,Atocha,2018,11,TOTAL,34
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,11,TOTAL,402
+Tarija,60202,Bermejo,2018,11,TOTAL,16
+Potosí,50301,Betanzos,2018,11,TOTAL,462
+Cochabamba,31501,Bolivar,2018,11,TOTAL,166
+La Paz,20905,Cairoma,2018,11,TOTAL,27
+Potosí,51102,"Caiza ""d""",2018,11,TOTAL,132
+La Paz,20303,Calacoto,2018,11,TOTAL,130
+Chuquisaca,10701,Camargo,2018,11,TOTAL,10
+Cochabamba,30701,Capinota,2018,11,TOTAL,110
+La Paz,20302,Caquiaviri,2018,11,TOTAL,30
+Oruro,40102,Caracollo,2018,11,TOTAL,128
+Tarija,60302,Carapari,2018,11,TOTAL,247
+Oruro,40201,Challapata,2018,11,TOTAL,60
+Potosí,50202,Chayanta,2018,11,TOTAL,123
+Cochabamba,31204,Chimore,2018,11,TOTAL,529
+La Paz,21101,Chulumani (v. De La Libertad),2018,11,TOTAL,44
+Potosí,50204,Chuquihuta Ayllu Jucumani,2018,11,TOTAL,125
+Potosí,51103,Ckochas,2018,11,TOTAL,55
+Cochabamba,30801,Cliza,2018,11,TOTAL,612
+Cochabamba,30101,Cochabamba,2018,11,TOTAL,59202
+Oruro,40902,Coipasa,2018,11,TOTAL,1
+Cochabamba,30905,Colcapirhua,2018,11,TOTAL,8715
+Potosí,50901,"Colcha ""k""",2018,11,TOTAL,209
+Cochabamba,31002,Colomi,2018,11,TOTAL,50
+Potosí,50401,Colquechaca,2018,11,TOTAL,80
+La Paz,20605,Combaya,2018,11,TOTAL,25
+Potosí,50601,Cotagaita,2018,11,TOTAL,314
+Oruro,40503,Cruz De Machacamarca,2018,11,TOTAL,10
+Santa Cruz,71106,Cuatro Cañadas,2018,11,TOTAL,74
+Chuquisaca,10902,Culpina,2018,11,TOTAL,61
+Oruro,40401,Curahuara De Carangas,2018,11,TOTAL,15
+La Paz,20105,El Alto,2018,11,TOTAL,2164
+Santa Cruz,71503,El Puente(stc),2018,11,TOTAL,20
+Tarija,60502,El Puente(tja),2018,11,TOTAL,10
+Santa Cruz,70105,El Torno,2018,11,TOTAL,409
+Tarija,60601,Entre Rios Trj,2018,11,TOTAL,83
+Santa Cruz,71004,Fernandez Alonso,2018,11,TOTAL,106
+Pando,90203,Filadelfia,2018,11,TOTAL,140
+Santa Cruz,71002,General Saavedra,2018,11,TOTAL,10
+Chuquisaca,10502,Huacareta,2018,11,TOTAL,22
+Oruro,40701,Huanuni,2018,11,TOTAL,1324
+La Paz,20206,Huatajata,2018,11,TOTAL,70
+Oruro,41601,Huayllamarca,2018,11,TOTAL,9
+Santa Cruz,70104,La Guardia,2018,11,TOTAL,2813
+La Paz,20101,La Paz,2018,11,TOTAL,369
+La Paz,21202,Laja,2018,11,TOTAL,30
+Potosí,51401,Llica,2018,11,TOTAL,318
+Santa Cruz,70903,Mairana,2018,11,TOTAL,10
+Santa Cruz,71001,Montero,2018,11,TOTAL,849
+Potosí,50404,Ocuri,2018,11,TOTAL,67
+Santa Cruz,70202,Okinawa,2018,11,TOTAL,168
+Cochabamba,30203,Omereque,2018,11,TOTAL,124
+Oruro,40101,Oruro,2018,11,TOTAL,586
+Santa Cruz,70502,Pailon,2018,11,TOTAL,139
+Santa Cruz,70902,Pampa Grande,2018,11,TOTAL,150
+Cochabamba,30202,Pasorapa,2018,11,TOTAL,65
+Potosí,50403,Pocoata,2018,11,TOTAL,11
+Cochabamba,31203,Pocona,2018,11,TOTAL,261
+Cochabamba,31202,Pojo (cbba),2018,11,TOTAL,304
+Oruro,40601,Poopo,2018,11,TOTAL,50
+Potosí,51203,Porco,2018,11,TOTAL,2
+Chuquisaca,10103,Poroma,2018,11,TOTAL,191
+Santa Cruz,70103,Porongo,2018,11,TOTAL,13
+Potosí,50101,Potosi,2018,11,TOTAL,383
+La Paz,21204,Puerto Perez,2018,11,TOTAL,10
+Cochabamba,31205,Puerto Villarroel,2018,11,TOTAL,1957
+Potosí,51101,Puna,2018,11,TOTAL,20
+Cochabamba,30901,Quillacollo,2018,11,TOTAL,1679
+Potosí,50402,Ravelo,2018,11,TOTAL,196
+Santa Cruz,70503,Robore,2018,11,TOTAL,69
+Beni,80304,Rurrenabaque,2018,11,TOTAL,96
+Cochabamba,31001,Sacaba,2018,11,TOTAL,1337
+Cochabamba,30404,Sacabamba,2018,11,TOTAL,149
+Potosí,50701,Sacaca,2018,11,TOTAL,490
+Oruro,40801,Salinas De Garci Mendoza,2018,11,TOTAL,178
+Potosí,51601,San Agustin,2018,11,TOTAL,36
+Beni,80302,San Borja,2018,11,TOTAL,300
+Santa Cruz,70301,San Ignacio De Velasco,2018,11,TOTAL,857
+Santa Cruz,71104,San Julian,2018,11,TOTAL,3660
+Santa Cruz,70302,San Miguel De Velasco,2018,11,TOTAL,10
+Potosí,51001,San Pablo De Lipez,2018,11,TOTAL,24
+Santa Cruz,71005,San Pedro,2018,11,TOTAL,50
+Potosí,50501,San Pedro De Buena Vista,2018,11,TOTAL,30
+Potosí,50902,San Pedro De Quemes,2018,11,TOTAL,41
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,11,TOTAL,5299
+Santa Cruz,70602,Santa Rosa Del Sara,2018,11,TOTAL,90
+Oruro,41401,Santiago De Huari,2018,11,TOTAL,73
+La Paz,20205,Santiago De Huata,2018,11,TOTAL,21
+La Paz,20902,Sapahaqui,2018,11,TOTAL,31
+Cochabamba,30703,Sicaya,2018,11,TOTAL,91
+Cochabamba,30902,Sipe Sipe,2018,11,TOTAL,525
+Chuquisaca,10101,Sucre,2018,11,TOTAL,84
+Potosí,50303,Tacobamba,2018,11,TOTAL,33
+Cochabamba,30602,Tacopaya,2018,11,TOTAL,200
+Potosí,51402,Tahua,2018,11,TOTAL,15
+Cochabamba,31101,Tapacari,2018,11,TOTAL,70
+Cochabamba,30401,Tarata,2018,11,TOTAL,321
+Tarija,60101,Tarija,2018,11,TOTAL,50
+Potosí,50102,Tinguipaya,2018,11,TOTAL,80
+La Paz,20606,Tipuani,2018,11,TOTAL,18
+Cochabamba,30903,Tiquipaya,2018,11,TOTAL,857
+Cochabamba,31601,Tiraque (cbba),2018,11,TOTAL,20
+La Paz,21703,Tito Yupanqui (parquipujio),2018,11,TOTAL,11
+Cochabamba,30802,Toco,2018,11,TOTAL,32
+Cochabamba,30803,Tolata,2018,11,TOTAL,40
+Oruro,41001,Toledo,2018,11,TOTAL,42
+Potosí,51202,Tomave,2018,11,TOTAL,20
+Potosí,50502,Toro Toro,2018,11,TOTAL,73
+Cochabamba,31201,Totora(cbba),2018,11,TOTAL,507
+Oruro,41301,Totora(orr),2018,11,TOTAL,45
+Santa Cruz,70802,Trigal,2018,11,TOTAL,139
+Beni,80101,Trinidad,2018,11,TOTAL,296
+Potosí,50801,Tupiza,2018,11,TOTAL,25
+Potosí,50201,Uncia,2018,11,TOTAL,327
+Santa Cruz,71502,Urubicha,2018,11,TOTAL,476
+Cochabamba,30502,Vacas,2018,11,TOTAL,40
+Tarija,60303,Villa Montes,2018,11,TOTAL,432
+Cochabamba,31003,Villa Tunari,2018,11,TOTAL,198
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,11,TOTAL,183
+Potosí,51501,Villazon,2018,11,TOTAL,231
+Cochabamba,30904,Vinto,2018,11,TOTAL,2055
+Santa Cruz,70201,Warnes,2018,11,TOTAL,2129
+Tarija,60301,Yacuiba,2018,11,TOTAL,1341
+Santa Cruz,70403,Yapacani,2018,11,TOTAL,6488
+Potosí,51302,Acacio,2018,12,TOTAL,20
+Cochabamba,30201,Aiquile,2018,12,TOTAL,105
+Oruro,41201,Andamarca,2018,12,TOTAL,55
+Cochabamba,30402,Anzaldo,2018,12,TOTAL,40
+La Paz,20701,Apolo,2018,12,TOTAL,165
+Cochabamba,30403,Arbieto,2018,12,TOTAL,10
+Cochabamba,30601,Arque,2018,12,TOTAL,15
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,12,TOTAL,82
+Tarija,60202,Bermejo,2018,12,TOTAL,177
+Potosí,50301,Betanzos,2018,12,TOTAL,15
+Cochabamba,31501,Bolivar,2018,12,TOTAL,10
+La Paz,20905,Cairoma,2018,12,TOTAL,7
+La Paz,21902,Catacora,2018,12,TOTAL,10
+Potosí,50202,Chayanta,2018,12,TOTAL,16
+Cochabamba,31204,Chimore,2018,12,TOTAL,765
+La Paz,21101,Chulumani (v. De La Libertad),2018,12,TOTAL,13
+La Paz,20501,Chuma,2018,12,TOTAL,5
+Cochabamba,30801,Cliza,2018,12,TOTAL,247
+Pando,90101,Cobija,2018,12,TOTAL,975
+Cochabamba,30101,Cochabamba,2018,12,TOTAL,10464
+Cochabamba,30905,Colcapirhua,2018,12,TOTAL,1000
+Potosí,50601,Cotagaita,2018,12,TOTAL,16
+Santa Cruz,70102,Cotoca,2018,12,TOTAL,550
+La Paz,20105,El Alto,2018,12,TOTAL,600
+Tarija,60502,El Puente(tja),2018,12,TOTAL,70
+Oruro,41101,Eucaliptus,2018,12,TOTAL,50
+Santa Cruz,71004,Fernandez Alonso,2018,12,TOTAL,46
+La Paz,20101,La Paz,2018,12,TOTAL,1264
+La Paz,21202,Laja,2018,12,TOTAL,70
+Potosí,50203,Llallagua,2018,12,TOTAL,500
+La Paz,20901,Luribay,2018,12,TOTAL,10
+Oruro,40702,Machacamarca,2018,12,TOTAL,110
+Santa Cruz,71001,Montero,2018,12,TOTAL,3600
+Potosí,50404,Ocuri,2018,12,TOTAL,15
+Santa Cruz,70202,Okinawa,2018,12,TOTAL,473
+Cochabamba,30203,Omereque,2018,12,TOTAL,10
+Oruro,40101,Oruro,2018,12,TOTAL,99
+Santa Cruz,70502,Pailon,2018,12,TOTAL,46
+Cochabamba,30202,Pasorapa,2018,12,TOTAL,759
+Potosí,50403,Pocoata,2018,12,TOTAL,16
+Cochabamba,31203,Pocona,2018,12,TOTAL,448
+Cochabamba,31202,Pojo (cbba),2018,12,TOTAL,70
+Potosí,51203,Porco,2018,12,TOTAL,175
+Chuquisaca,10103,Poroma,2018,12,TOTAL,126
+La Paz,21204,Puerto Perez,2018,12,TOTAL,10
+Cochabamba,31205,Puerto Villarroel,2018,12,TOTAL,940
+Potosí,51101,Puna,2018,12,TOTAL,35
+Cochabamba,30901,Quillacollo,2018,12,TOTAL,1940
+Cochabamba,31001,Sacaba,2018,12,TOTAL,2083
+Santa Cruz,71104,San Julian,2018,12,TOTAL,4311
+Santa Cruz,71005,San Pedro,2018,12,TOTAL,50
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,12,TOTAL,3721
+La Paz,20205,Santiago De Huata,2018,12,TOTAL,13
+Cochabamba,30702,Santivañes,2018,12,TOTAL,20
+La Paz,20902,Sapahaqui,2018,12,TOTAL,29
+Cochabamba,30902,Sipe Sipe,2018,12,TOTAL,199
+Chuquisaca,10101,Sucre,2018,12,TOTAL,37
+Cochabamba,31101,Tapacari,2018,12,TOTAL,130
+Cochabamba,30401,Tarata,2018,12,TOTAL,42
+La Paz,20608,Teoponte,2018,12,TOTAL,50
+Potosí,50102,Tinguipaya,2018,12,TOTAL,124
+Cochabamba,30802,Toco,2018,12,TOTAL,27
+Cochabamba,30803,Tolata,2018,12,TOTAL,189
+Cochabamba,31201,Totora(cbba),2018,12,TOTAL,485
+Oruro,41301,Totora(orr),2018,12,TOTAL,15
+Beni,80101,Trinidad,2018,12,TOTAL,30
+Potosí,50201,Uncia,2018,12,TOTAL,929
+Tarija,60401,Uriondo (a. Concepcion),2018,12,TOTAL,90
+Tarija,60303,Villa Montes,2018,12,TOTAL,168
+Cochabamba,30904,Vinto,2018,12,TOTAL,937
+Santa Cruz,70201,Warnes,2018,12,TOTAL,1770
+Tarija,60301,Yacuiba,2018,12,TOTAL,1686

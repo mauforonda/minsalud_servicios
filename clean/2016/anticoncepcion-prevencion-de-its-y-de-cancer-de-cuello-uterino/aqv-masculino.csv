@@ -1,0 +1,433 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2016,1,AQV masculino,0
+La Paz,20105,El Alto,2016,1,AQV masculino,0
+La Paz,20101,La Paz,2016,1,AQV masculino,0
+Santa Cruz,70202,Okinawa,2016,1,AQV masculino,0
+Potosí,50101,Potosi,2016,1,AQV masculino,0
+Santa Cruz,70501,San Jose De Chiquitos,2016,1,AQV masculino,0
+Santa Cruz,70801,Vallegrande,2016,1,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,2,AQV masculino,0
+La Paz,20105,El Alto,2016,2,AQV masculino,0
+La Paz,20101,La Paz,2016,2,AQV masculino,0
+Santa Cruz,70903,Mairana,2016,2,AQV masculino,0
+Santa Cruz,70502,Pailon,2016,2,AQV masculino,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,AQV masculino,0
+Chuquisaca,10101,Sucre,2016,2,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,3,AQV masculino,0
+La Paz,20105,El Alto,2016,3,AQV masculino,0
+La Paz,20101,La Paz,2016,3,AQV masculino,0
+Oruro,40101,Oruro,2016,3,AQV masculino,0
+Potosí,50101,Potosi,2016,3,AQV masculino,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,AQV masculino,0
+Chuquisaca,10101,Sucre,2016,3,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,4,AQV masculino,0
+La Paz,20105,El Alto,2016,4,AQV masculino,0
+La Paz,20101,La Paz,2016,4,AQV masculino,0
+Santa Cruz,71005,San Pedro,2016,4,AQV masculino,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,AQV masculino,0
+Chuquisaca,10101,Sucre,2016,4,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,5,AQV masculino,0
+La Paz,20105,El Alto,2016,5,AQV masculino,0
+Oruro,40101,Oruro,2016,5,AQV masculino,0
+Potosí,50101,Potosi,2016,5,AQV masculino,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,AQV masculino,0
+Chuquisaca,10101,Sucre,2016,5,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,6,AQV masculino,0
+La Paz,20105,El Alto,2016,6,AQV masculino,0
+La Paz,20101,La Paz,2016,6,AQV masculino,0
+Chuquisaca,10101,Sucre,2016,6,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,7,AQV masculino,0
+La Paz,20105,El Alto,2016,7,AQV masculino,0
+Potosí,50101,Potosi,2016,7,AQV masculino,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,AQV masculino,0
+Potosí,50602,Vitichi,2016,7,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,8,AQV masculino,0
+La Paz,20105,El Alto,2016,8,AQV masculino,0
+Santa Cruz,70105,El Torno,2016,8,AQV masculino,0
+La Paz,20101,La Paz,2016,8,AQV masculino,0
+Potosí,50101,Potosi,2016,8,AQV masculino,0
+Potosí,50102,Tinguipaya,2016,8,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,9,AQV masculino,0
+La Paz,20105,El Alto,2016,9,AQV masculino,0
+Oruro,40101,Oruro,2016,9,AQV masculino,0
+Oruro,40601,Poopo,2016,9,AQV masculino,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,AQV masculino,0
+Cochabamba,31204,Chimore,2016,10,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,10,AQV masculino,0
+La Paz,20105,El Alto,2016,10,AQV masculino,0
+Beni,80202,Guayaramerin,2016,10,AQV masculino,0
+La Paz,20101,La Paz,2016,10,AQV masculino,0
+Potosí,50101,Potosi,2016,10,AQV masculino,0
+Chuquisaca,10101,Sucre,2016,10,AQV masculino,0
+Cochabamba,30904,Vinto,2016,10,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,11,AQV masculino,0
+La Paz,20105,El Alto,2016,11,AQV masculino,0
+La Paz,20101,La Paz,2016,11,AQV masculino,0
+Potosí,50101,Potosi,2016,11,AQV masculino,0
+Santa Cruz,70404,San Juan De Yapacani,2016,11,AQV masculino,0
+Chuquisaca,10101,Sucre,2016,11,AQV masculino,1
+Cochabamba,30101,Cochabamba,2016,12,AQV masculino,0
+La Paz,20105,El Alto,2016,12,AQV masculino,0
+La Paz,20101,La Paz,2016,12,AQV masculino,0
+Potosí,50101,Potosi,2016,12,AQV masculino,0
+Chuquisaca,10101,Sucre,2016,12,AQV masculino,0
+Cochabamba,30101,Cochabamba,2016,1,AQV masculino1,0
+La Paz,20105,El Alto,2016,1,AQV masculino1,1
+La Paz,20101,La Paz,2016,1,AQV masculino1,0
+Santa Cruz,70202,Okinawa,2016,1,AQV masculino1,0
+Potosí,50101,Potosi,2016,1,AQV masculino1,0
+Santa Cruz,70501,San Jose De Chiquitos,2016,1,AQV masculino1,0
+Santa Cruz,70801,Vallegrande,2016,1,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,2,AQV masculino1,0
+La Paz,20105,El Alto,2016,2,AQV masculino1,0
+La Paz,20101,La Paz,2016,2,AQV masculino1,0
+Santa Cruz,70903,Mairana,2016,2,AQV masculino1,0
+Santa Cruz,70502,Pailon,2016,2,AQV masculino1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,AQV masculino1,0
+Chuquisaca,10101,Sucre,2016,2,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,3,AQV masculino1,0
+La Paz,20105,El Alto,2016,3,AQV masculino1,0
+La Paz,20101,La Paz,2016,3,AQV masculino1,0
+Oruro,40101,Oruro,2016,3,AQV masculino1,0
+Potosí,50101,Potosi,2016,3,AQV masculino1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,AQV masculino1,0
+Chuquisaca,10101,Sucre,2016,3,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,4,AQV masculino1,0
+La Paz,20105,El Alto,2016,4,AQV masculino1,0
+La Paz,20101,La Paz,2016,4,AQV masculino1,0
+Santa Cruz,71005,San Pedro,2016,4,AQV masculino1,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,AQV masculino1,0
+Chuquisaca,10101,Sucre,2016,4,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,5,AQV masculino1,0
+La Paz,20105,El Alto,2016,5,AQV masculino1,0
+Oruro,40101,Oruro,2016,5,AQV masculino1,0
+Potosí,50101,Potosi,2016,5,AQV masculino1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,AQV masculino1,0
+Chuquisaca,10101,Sucre,2016,5,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,6,AQV masculino1,0
+La Paz,20105,El Alto,2016,6,AQV masculino1,0
+La Paz,20101,La Paz,2016,6,AQV masculino1,0
+Chuquisaca,10101,Sucre,2016,6,AQV masculino1,1
+Cochabamba,30101,Cochabamba,2016,7,AQV masculino1,0
+La Paz,20105,El Alto,2016,7,AQV masculino1,0
+Potosí,50101,Potosi,2016,7,AQV masculino1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,AQV masculino1,0
+Potosí,50602,Vitichi,2016,7,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,8,AQV masculino1,0
+La Paz,20105,El Alto,2016,8,AQV masculino1,0
+Santa Cruz,70105,El Torno,2016,8,AQV masculino1,0
+La Paz,20101,La Paz,2016,8,AQV masculino1,0
+Potosí,50101,Potosi,2016,8,AQV masculino1,0
+Potosí,50102,Tinguipaya,2016,8,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,9,AQV masculino1,0
+La Paz,20105,El Alto,2016,9,AQV masculino1,0
+Oruro,40101,Oruro,2016,9,AQV masculino1,0
+Oruro,40601,Poopo,2016,9,AQV masculino1,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,AQV masculino1,0
+Cochabamba,31204,Chimore,2016,10,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,10,AQV masculino1,0
+La Paz,20105,El Alto,2016,10,AQV masculino1,0
+Beni,80202,Guayaramerin,2016,10,AQV masculino1,0
+La Paz,20101,La Paz,2016,10,AQV masculino1,0
+Potosí,50101,Potosi,2016,10,AQV masculino1,0
+Chuquisaca,10101,Sucre,2016,10,AQV masculino1,0
+Cochabamba,30904,Vinto,2016,10,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,11,AQV masculino1,0
+La Paz,20105,El Alto,2016,11,AQV masculino1,0
+La Paz,20101,La Paz,2016,11,AQV masculino1,0
+Potosí,50101,Potosi,2016,11,AQV masculino1,0
+Santa Cruz,70404,San Juan De Yapacani,2016,11,AQV masculino1,1
+Chuquisaca,10101,Sucre,2016,11,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,12,AQV masculino1,0
+La Paz,20105,El Alto,2016,12,AQV masculino1,0
+La Paz,20101,La Paz,2016,12,AQV masculino1,0
+Potosí,50101,Potosi,2016,12,AQV masculino1,0
+Chuquisaca,10101,Sucre,2016,12,AQV masculino1,0
+Cochabamba,30101,Cochabamba,2016,1,AQV masculino2,3
+La Paz,20105,El Alto,2016,1,AQV masculino2,2
+La Paz,20101,La Paz,2016,1,AQV masculino2,7
+Santa Cruz,70202,Okinawa,2016,1,AQV masculino2,1
+Potosí,50101,Potosi,2016,1,AQV masculino2,4
+Santa Cruz,70501,San Jose De Chiquitos,2016,1,AQV masculino2,9
+Santa Cruz,70801,Vallegrande,2016,1,AQV masculino2,6
+Cochabamba,30101,Cochabamba,2016,2,AQV masculino2,1
+La Paz,20105,El Alto,2016,2,AQV masculino2,4
+La Paz,20101,La Paz,2016,2,AQV masculino2,7
+Santa Cruz,70903,Mairana,2016,2,AQV masculino2,1
+Santa Cruz,70502,Pailon,2016,2,AQV masculino2,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,AQV masculino2,0
+Chuquisaca,10101,Sucre,2016,2,AQV masculino2,1
+Cochabamba,30101,Cochabamba,2016,3,AQV masculino2,0
+La Paz,20105,El Alto,2016,3,AQV masculino2,0
+La Paz,20101,La Paz,2016,3,AQV masculino2,7
+Oruro,40101,Oruro,2016,3,AQV masculino2,1
+Potosí,50101,Potosi,2016,3,AQV masculino2,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,AQV masculino2,0
+Chuquisaca,10101,Sucre,2016,3,AQV masculino2,1
+Cochabamba,30101,Cochabamba,2016,4,AQV masculino2,10
+La Paz,20105,El Alto,2016,4,AQV masculino2,2
+La Paz,20101,La Paz,2016,4,AQV masculino2,2
+Santa Cruz,71005,San Pedro,2016,4,AQV masculino2,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,AQV masculino2,4
+Chuquisaca,10101,Sucre,2016,4,AQV masculino2,1
+Cochabamba,30101,Cochabamba,2016,5,AQV masculino2,2
+La Paz,20105,El Alto,2016,5,AQV masculino2,3
+Oruro,40101,Oruro,2016,5,AQV masculino2,0
+Potosí,50101,Potosi,2016,5,AQV masculino2,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,AQV masculino2,0
+Chuquisaca,10101,Sucre,2016,5,AQV masculino2,4
+Cochabamba,30101,Cochabamba,2016,6,AQV masculino2,6
+La Paz,20105,El Alto,2016,6,AQV masculino2,1
+La Paz,20101,La Paz,2016,6,AQV masculino2,5
+Chuquisaca,10101,Sucre,2016,6,AQV masculino2,3
+Cochabamba,30101,Cochabamba,2016,7,AQV masculino2,6
+La Paz,20105,El Alto,2016,7,AQV masculino2,1
+Potosí,50101,Potosi,2016,7,AQV masculino2,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,AQV masculino2,1
+Potosí,50602,Vitichi,2016,7,AQV masculino2,3
+Cochabamba,30101,Cochabamba,2016,8,AQV masculino2,3
+La Paz,20105,El Alto,2016,8,AQV masculino2,1
+Santa Cruz,70105,El Torno,2016,8,AQV masculino2,1
+La Paz,20101,La Paz,2016,8,AQV masculino2,4
+Potosí,50101,Potosi,2016,8,AQV masculino2,2
+Potosí,50102,Tinguipaya,2016,8,AQV masculino2,1
+Cochabamba,30101,Cochabamba,2016,9,AQV masculino2,4
+La Paz,20105,El Alto,2016,9,AQV masculino2,13
+Oruro,40101,Oruro,2016,9,AQV masculino2,1
+Oruro,40601,Poopo,2016,9,AQV masculino2,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,AQV masculino2,2
+Cochabamba,31204,Chimore,2016,10,AQV masculino2,2
+Cochabamba,30101,Cochabamba,2016,10,AQV masculino2,1
+La Paz,20105,El Alto,2016,10,AQV masculino2,4
+Beni,80202,Guayaramerin,2016,10,AQV masculino2,1
+La Paz,20101,La Paz,2016,10,AQV masculino2,2
+Potosí,50101,Potosi,2016,10,AQV masculino2,1
+Chuquisaca,10101,Sucre,2016,10,AQV masculino2,1
+Cochabamba,30904,Vinto,2016,10,AQV masculino2,0
+Cochabamba,30101,Cochabamba,2016,11,AQV masculino2,5
+La Paz,20105,El Alto,2016,11,AQV masculino2,6
+La Paz,20101,La Paz,2016,11,AQV masculino2,8
+Potosí,50101,Potosi,2016,11,AQV masculino2,4
+Santa Cruz,70404,San Juan De Yapacani,2016,11,AQV masculino2,2
+Chuquisaca,10101,Sucre,2016,11,AQV masculino2,1
+Cochabamba,30101,Cochabamba,2016,12,AQV masculino2,6
+La Paz,20105,El Alto,2016,12,AQV masculino2,1
+La Paz,20101,La Paz,2016,12,AQV masculino2,1
+Potosí,50101,Potosi,2016,12,AQV masculino2,1
+Chuquisaca,10101,Sucre,2016,12,AQV masculino2,1
+Cochabamba,30101,Cochabamba,2016,1,AQV masculino3,6
+La Paz,20105,El Alto,2016,1,AQV masculino3,5
+La Paz,20101,La Paz,2016,1,AQV masculino3,3
+Santa Cruz,70202,Okinawa,2016,1,AQV masculino3,0
+Potosí,50101,Potosi,2016,1,AQV masculino3,0
+Santa Cruz,70501,San Jose De Chiquitos,2016,1,AQV masculino3,3
+Santa Cruz,70801,Vallegrande,2016,1,AQV masculino3,5
+Cochabamba,30101,Cochabamba,2016,2,AQV masculino3,0
+La Paz,20105,El Alto,2016,2,AQV masculino3,0
+La Paz,20101,La Paz,2016,2,AQV masculino3,1
+Santa Cruz,70903,Mairana,2016,2,AQV masculino3,0
+Santa Cruz,70502,Pailon,2016,2,AQV masculino3,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,AQV masculino3,1
+Chuquisaca,10101,Sucre,2016,2,AQV masculino3,0
+Cochabamba,30101,Cochabamba,2016,3,AQV masculino3,1
+La Paz,20105,El Alto,2016,3,AQV masculino3,3
+La Paz,20101,La Paz,2016,3,AQV masculino3,0
+Oruro,40101,Oruro,2016,3,AQV masculino3,0
+Potosí,50101,Potosi,2016,3,AQV masculino3,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,AQV masculino3,3
+Chuquisaca,10101,Sucre,2016,3,AQV masculino3,0
+Cochabamba,30101,Cochabamba,2016,4,AQV masculino3,2
+La Paz,20105,El Alto,2016,4,AQV masculino3,17
+La Paz,20101,La Paz,2016,4,AQV masculino3,0
+Santa Cruz,71005,San Pedro,2016,4,AQV masculino3,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,AQV masculino3,8
+Chuquisaca,10101,Sucre,2016,4,AQV masculino3,0
+Cochabamba,30101,Cochabamba,2016,5,AQV masculino3,5
+La Paz,20105,El Alto,2016,5,AQV masculino3,2
+Oruro,40101,Oruro,2016,5,AQV masculino3,1
+Potosí,50101,Potosi,2016,5,AQV masculino3,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,AQV masculino3,3
+Chuquisaca,10101,Sucre,2016,5,AQV masculino3,1
+Cochabamba,30101,Cochabamba,2016,6,AQV masculino3,4
+La Paz,20105,El Alto,2016,6,AQV masculino3,7
+La Paz,20101,La Paz,2016,6,AQV masculino3,0
+Chuquisaca,10101,Sucre,2016,6,AQV masculino3,0
+Cochabamba,30101,Cochabamba,2016,7,AQV masculino3,3
+La Paz,20105,El Alto,2016,7,AQV masculino3,10
+Potosí,50101,Potosi,2016,7,AQV masculino3,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,AQV masculino3,1
+Potosí,50602,Vitichi,2016,7,AQV masculino3,0
+Cochabamba,30101,Cochabamba,2016,8,AQV masculino3,2
+La Paz,20105,El Alto,2016,8,AQV masculino3,5
+Santa Cruz,70105,El Torno,2016,8,AQV masculino3,0
+La Paz,20101,La Paz,2016,8,AQV masculino3,0
+Potosí,50101,Potosi,2016,8,AQV masculino3,3
+Potosí,50102,Tinguipaya,2016,8,AQV masculino3,0
+Cochabamba,30101,Cochabamba,2016,9,AQV masculino3,3
+La Paz,20105,El Alto,2016,9,AQV masculino3,5
+Oruro,40101,Oruro,2016,9,AQV masculino3,0
+Oruro,40601,Poopo,2016,9,AQV masculino3,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,AQV masculino3,0
+Cochabamba,31204,Chimore,2016,10,AQV masculino3,0
+Cochabamba,30101,Cochabamba,2016,10,AQV masculino3,1
+La Paz,20105,El Alto,2016,10,AQV masculino3,8
+Beni,80202,Guayaramerin,2016,10,AQV masculino3,0
+La Paz,20101,La Paz,2016,10,AQV masculino3,0
+Potosí,50101,Potosi,2016,10,AQV masculino3,1
+Chuquisaca,10101,Sucre,2016,10,AQV masculino3,0
+Cochabamba,30904,Vinto,2016,10,AQV masculino3,1
+Cochabamba,30101,Cochabamba,2016,11,AQV masculino3,4
+La Paz,20105,El Alto,2016,11,AQV masculino3,0
+La Paz,20101,La Paz,2016,11,AQV masculino3,0
+Potosí,50101,Potosi,2016,11,AQV masculino3,2
+Santa Cruz,70404,San Juan De Yapacani,2016,11,AQV masculino3,0
+Chuquisaca,10101,Sucre,2016,11,AQV masculino3,0
+Cochabamba,30101,Cochabamba,2016,12,AQV masculino3,6
+La Paz,20105,El Alto,2016,12,AQV masculino3,2
+La Paz,20101,La Paz,2016,12,AQV masculino3,1
+Potosí,50101,Potosi,2016,12,AQV masculino3,2
+Chuquisaca,10101,Sucre,2016,12,AQV masculino3,0
+Cochabamba,30101,Cochabamba,2016,1,AQV masculino4,0
+La Paz,20105,El Alto,2016,1,AQV masculino4,0
+La Paz,20101,La Paz,2016,1,AQV masculino4,0
+Santa Cruz,70202,Okinawa,2016,1,AQV masculino4,0
+Potosí,50101,Potosi,2016,1,AQV masculino4,0
+Santa Cruz,70501,San Jose De Chiquitos,2016,1,AQV masculino4,0
+Santa Cruz,70801,Vallegrande,2016,1,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,2,AQV masculino4,0
+La Paz,20105,El Alto,2016,2,AQV masculino4,0
+La Paz,20101,La Paz,2016,2,AQV masculino4,0
+Santa Cruz,70903,Mairana,2016,2,AQV masculino4,0
+Santa Cruz,70502,Pailon,2016,2,AQV masculino4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,AQV masculino4,0
+Chuquisaca,10101,Sucre,2016,2,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,3,AQV masculino4,1
+La Paz,20105,El Alto,2016,3,AQV masculino4,0
+La Paz,20101,La Paz,2016,3,AQV masculino4,0
+Oruro,40101,Oruro,2016,3,AQV masculino4,0
+Potosí,50101,Potosi,2016,3,AQV masculino4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,AQV masculino4,0
+Chuquisaca,10101,Sucre,2016,3,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,4,AQV masculino4,0
+La Paz,20105,El Alto,2016,4,AQV masculino4,0
+La Paz,20101,La Paz,2016,4,AQV masculino4,0
+Santa Cruz,71005,San Pedro,2016,4,AQV masculino4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,AQV masculino4,0
+Chuquisaca,10101,Sucre,2016,4,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,5,AQV masculino4,0
+La Paz,20105,El Alto,2016,5,AQV masculino4,0
+Oruro,40101,Oruro,2016,5,AQV masculino4,0
+Potosí,50101,Potosi,2016,5,AQV masculino4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,AQV masculino4,0
+Chuquisaca,10101,Sucre,2016,5,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,6,AQV masculino4,0
+La Paz,20105,El Alto,2016,6,AQV masculino4,0
+La Paz,20101,La Paz,2016,6,AQV masculino4,0
+Chuquisaca,10101,Sucre,2016,6,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,7,AQV masculino4,0
+La Paz,20105,El Alto,2016,7,AQV masculino4,0
+Potosí,50101,Potosi,2016,7,AQV masculino4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,AQV masculino4,0
+Potosí,50602,Vitichi,2016,7,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,8,AQV masculino4,0
+La Paz,20105,El Alto,2016,8,AQV masculino4,0
+Santa Cruz,70105,El Torno,2016,8,AQV masculino4,0
+La Paz,20101,La Paz,2016,8,AQV masculino4,0
+Potosí,50101,Potosi,2016,8,AQV masculino4,0
+Potosí,50102,Tinguipaya,2016,8,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,9,AQV masculino4,0
+La Paz,20105,El Alto,2016,9,AQV masculino4,0
+Oruro,40101,Oruro,2016,9,AQV masculino4,0
+Oruro,40601,Poopo,2016,9,AQV masculino4,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,AQV masculino4,0
+Cochabamba,31204,Chimore,2016,10,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,10,AQV masculino4,0
+La Paz,20105,El Alto,2016,10,AQV masculino4,0
+Beni,80202,Guayaramerin,2016,10,AQV masculino4,0
+La Paz,20101,La Paz,2016,10,AQV masculino4,0
+Potosí,50101,Potosi,2016,10,AQV masculino4,0
+Chuquisaca,10101,Sucre,2016,10,AQV masculino4,0
+Cochabamba,30904,Vinto,2016,10,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,11,AQV masculino4,1
+La Paz,20105,El Alto,2016,11,AQV masculino4,0
+La Paz,20101,La Paz,2016,11,AQV masculino4,0
+Potosí,50101,Potosi,2016,11,AQV masculino4,0
+Santa Cruz,70404,San Juan De Yapacani,2016,11,AQV masculino4,0
+Chuquisaca,10101,Sucre,2016,11,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,12,AQV masculino4,0
+La Paz,20105,El Alto,2016,12,AQV masculino4,0
+La Paz,20101,La Paz,2016,12,AQV masculino4,0
+Potosí,50101,Potosi,2016,12,AQV masculino4,0
+Chuquisaca,10101,Sucre,2016,12,AQV masculino4,0
+Cochabamba,30101,Cochabamba,2016,1,TOTAL,9
+La Paz,20105,El Alto,2016,1,TOTAL,8
+La Paz,20101,La Paz,2016,1,TOTAL,10
+Santa Cruz,70202,Okinawa,2016,1,TOTAL,1
+Potosí,50101,Potosi,2016,1,TOTAL,4
+Santa Cruz,70501,San Jose De Chiquitos,2016,1,TOTAL,12
+Santa Cruz,70801,Vallegrande,2016,1,TOTAL,11
+Cochabamba,30101,Cochabamba,2016,2,TOTAL,1
+La Paz,20105,El Alto,2016,2,TOTAL,4
+La Paz,20101,La Paz,2016,2,TOTAL,8
+Santa Cruz,70903,Mairana,2016,2,TOTAL,1
+Santa Cruz,70502,Pailon,2016,2,TOTAL,6
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,TOTAL,1
+Chuquisaca,10101,Sucre,2016,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,3,TOTAL,2
+La Paz,20105,El Alto,2016,3,TOTAL,3
+La Paz,20101,La Paz,2016,3,TOTAL,7
+Oruro,40101,Oruro,2016,3,TOTAL,1
+Potosí,50101,Potosi,2016,3,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,TOTAL,3
+Chuquisaca,10101,Sucre,2016,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,4,TOTAL,12
+La Paz,20105,El Alto,2016,4,TOTAL,19
+La Paz,20101,La Paz,2016,4,TOTAL,2
+Santa Cruz,71005,San Pedro,2016,4,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,TOTAL,12
+Chuquisaca,10101,Sucre,2016,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,5,TOTAL,7
+La Paz,20105,El Alto,2016,5,TOTAL,5
+Oruro,40101,Oruro,2016,5,TOTAL,1
+Potosí,50101,Potosi,2016,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,TOTAL,3
+Chuquisaca,10101,Sucre,2016,5,TOTAL,5
+Cochabamba,30101,Cochabamba,2016,6,TOTAL,10
+La Paz,20105,El Alto,2016,6,TOTAL,8
+La Paz,20101,La Paz,2016,6,TOTAL,5
+Chuquisaca,10101,Sucre,2016,6,TOTAL,4
+Cochabamba,30101,Cochabamba,2016,7,TOTAL,9
+La Paz,20105,El Alto,2016,7,TOTAL,11
+Potosí,50101,Potosi,2016,7,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,TOTAL,2
+Potosí,50602,Vitichi,2016,7,TOTAL,3
+Cochabamba,30101,Cochabamba,2016,8,TOTAL,5
+La Paz,20105,El Alto,2016,8,TOTAL,6
+Santa Cruz,70105,El Torno,2016,8,TOTAL,1
+La Paz,20101,La Paz,2016,8,TOTAL,4
+Potosí,50101,Potosi,2016,8,TOTAL,5
+Potosí,50102,Tinguipaya,2016,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,9,TOTAL,7
+La Paz,20105,El Alto,2016,9,TOTAL,18
+Oruro,40101,Oruro,2016,9,TOTAL,1
+Oruro,40601,Poopo,2016,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,TOTAL,2
+Cochabamba,31204,Chimore,2016,10,TOTAL,2
+Cochabamba,30101,Cochabamba,2016,10,TOTAL,2
+La Paz,20105,El Alto,2016,10,TOTAL,12
+Beni,80202,Guayaramerin,2016,10,TOTAL,1
+La Paz,20101,La Paz,2016,10,TOTAL,2
+Potosí,50101,Potosi,2016,10,TOTAL,2
+Chuquisaca,10101,Sucre,2016,10,TOTAL,1
+Cochabamba,30904,Vinto,2016,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,11,TOTAL,10
+La Paz,20105,El Alto,2016,11,TOTAL,6
+La Paz,20101,La Paz,2016,11,TOTAL,8
+Potosí,50101,Potosi,2016,11,TOTAL,6
+Santa Cruz,70404,San Juan De Yapacani,2016,11,TOTAL,3
+Chuquisaca,10101,Sucre,2016,11,TOTAL,2
+Cochabamba,30101,Cochabamba,2016,12,TOTAL,12
+La Paz,20105,El Alto,2016,12,TOTAL,3
+La Paz,20101,La Paz,2016,12,TOTAL,2
+Potosí,50101,Potosi,2016,12,TOTAL,3
+Chuquisaca,10101,Sucre,2016,12,TOTAL,1

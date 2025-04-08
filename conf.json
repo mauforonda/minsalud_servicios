@@ -1,0 +1,35 @@
+{
+    "cookie": "qwvza5au0dogy12lkw5ogv11",
+    "pages": {
+        "2001": "Form_301_2001.aspx",
+        "2002": "Form_301_2001.aspx",
+        "2003": "Form_301_2001.aspx",
+        "2004": "Form_301_2001.aspx",
+        "2005": "Form_301_2007.aspx",
+        "2006": "Form_301_2007.aspx",
+        "2007": "Form_301_2007.aspx",
+        "2008": "Form_301_2008.aspx",
+        "2009": "Form_301_2009.aspx",
+        "2010": "Form_301_2010.aspx",
+        "2011": "Form_301_2011.aspx",
+        "2012": "Form_301_2012.aspx",
+        "2013": "Form_301_2013.aspx",
+        "2014": "Form_301_2014_2.aspx",
+        "2015": "Form_301_2015.aspx",
+        "2016": "Form_301_2016.aspx",
+        "2017": "Form_301_2017.aspx",
+        "2018": "Form_301_2018.aspx",
+        "2019": "Form_301_2019.aspx",
+        "2020": "Form_301_2020.aspx",
+        "2021": "Form_301_2021.aspx",
+        "2022": "Form_301_2022.aspx",
+        "2023": "Form_301_2023.aspx",
+        "2024": "Form_301_2024.aspx"
+    },
+    "filenames": {
+        "variables": "indexes/variables.csv",
+        "raw": "indexes/raw.csv",
+        "clean": "indexes/clean.csv",
+        "download_errors": "errors"
+    }
+}

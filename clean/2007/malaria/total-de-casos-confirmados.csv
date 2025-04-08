@@ -1,0 +1,979 @@
+department,municipality_id,municipality,year,month,population,value
+Beni,80802,Baures,2007,1,Total de casos confirmados,10
+Tarija,60202,Bermejo,2007,1,Total de casos confirmados,84
+La Paz,22001,Caranavi,2007,1,Total de casos confirmados,3
+Tarija,60302,Carapari,2007,1,Total de casos confirmados,3
+Pando,90101,Cobija,2007,1,Total de casos confirmados,22
+Santa Cruz,70105,El Torno,2007,1,Total de casos confirmados,39
+Tarija,60601,Entre Rios,2007,1,Total de casos confirmados,14
+Pando,90203,Filadelfia,2007,1,Total de casos confirmados,9
+La Paz,20602,Guanay,2007,1,Total de casos confirmados,4
+Beni,80202,Guayaramerin,2007,1,Total de casos confirmados,521
+Pando,90402,Ingavi (humaita),2007,1,Total de casos confirmados,14
+Beni,80801,Magdalena,2007,1,Total de casos confirmados,1
+Cochabamba,31301,Mizque,2007,1,Total de casos confirmados,3
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,1,Total de casos confirmados,10
+Tarija,60201,Padcaya,2007,1,Total de casos confirmados,33
+Chuquisaca,10401,Padilla,2007,1,Total de casos confirmados,1
+Santa Cruz,70103,Porongo,2007,1,Total de casos confirmados,6
+Pando,90102,Porvenir,2007,1,Total de casos confirmados,5
+Pando,90201,Puerto Rico,2007,1,Total de casos confirmados,26
+Beni,80301,Reyes,2007,1,Total de casos confirmados,2
+Beni,80201,Riberalta,2007,1,Total de casos confirmados,582
+Beni,80304,Rurrenabaque,2007,1,Total de casos confirmados,4
+Beni,80302,San Borja,2007,1,Total de casos confirmados,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,Total de casos confirmados,12
+Pando,90302,San Lorenzo(pnd),2007,1,Total de casos confirmados,15
+Pando,90202,San Pedro(pnd),2007,1,Total de casos confirmados,3
+Beni,80303,Santa Rosa,2007,1,Total de casos confirmados,1
+Pando,90303,Sena,2007,1,Total de casos confirmados,9
+La Paz,20608,Teoponte,2007,1,Total de casos confirmados,3
+Cochabamba,31601,Tiraque (cbba),2007,1,Total de casos confirmados,3
+Pando,90502,Villa Nueva (loma Alta),2007,1,Total de casos confirmados,3
+Chuquisaca,10801,Villa Serrano,2007,1,Total de casos confirmados,3
+Cochabamba,31003,Villa Tunari,2007,1,Total de casos confirmados,25
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,1,Total de casos confirmados,2
+Tarija,60301,Yacuiba,2007,1,Total de casos confirmados,17
+Tarija,60402,Yunchara,2007,1,Total de casos confirmados,2
+Beni,80802,Baures,2007,2,Total de casos confirmados,18
+Tarija,60202,Bermejo,2007,2,Total de casos confirmados,16
+La Paz,22001,Caranavi,2007,2,Total de casos confirmados,3
+Tarija,60302,Carapari,2007,2,Total de casos confirmados,7
+Pando,90101,Cobija,2007,2,Total de casos confirmados,18
+Santa Cruz,70105,El Torno,2007,2,Total de casos confirmados,9
+Tarija,60601,Entre Rios,2007,2,Total de casos confirmados,3
+Pando,90503,Eureka (santos Mercado),2007,2,Total de casos confirmados,6
+Beni,80202,Guayaramerin,2007,2,Total de casos confirmados,570
+Chuquisaca,10502,Huacareta,2007,2,Total de casos confirmados,2
+Pando,90402,Ingavi (humaita),2007,2,Total de casos confirmados,3
+La Paz,21501,Ixiamas,2007,2,Total de casos confirmados,31
+Santa Cruz,70104,La Guardia,2007,2,Total de casos confirmados,2
+La Paz,20101,La Paz,2007,2,Total de casos confirmados,2
+Cochabamba,31301,Mizque,2007,2,Total de casos confirmados,1
+Chuquisaca,10501,Monteagudo,2007,2,Total de casos confirmados,2
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,2,Total de casos confirmados,7
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,2,Total de casos confirmados,14
+Tarija,60201,Padcaya,2007,2,Total de casos confirmados,5
+Chuquisaca,10401,Padilla,2007,2,Total de casos confirmados,4
+Santa Cruz,70103,Porongo,2007,2,Total de casos confirmados,14
+Pando,90201,Puerto Rico,2007,2,Total de casos confirmados,12
+Beni,80301,Reyes,2007,2,Total de casos confirmados,6
+Beni,80201,Riberalta,2007,2,Total de casos confirmados,590
+Beni,80304,Rurrenabaque,2007,2,Total de casos confirmados,1
+Beni,80302,San Borja,2007,2,Total de casos confirmados,8
+Santa Cruz,70301,San Ignacio De Velasco,2007,2,Total de casos confirmados,5
+Beni,80701,San Joaquin,2007,2,Total de casos confirmados,1
+Pando,90302,San Lorenzo(pnd),2007,2,Total de casos confirmados,16
+Pando,90202,San Pedro(pnd),2007,2,Total de casos confirmados,3
+Santa Cruz,70303,San Rafael,2007,2,Total de casos confirmados,2
+Beni,80702,San Ramon,2007,2,Total de casos confirmados,1
+Pando,90303,Sena,2007,2,Total de casos confirmados,56
+La Paz,20608,Teoponte,2007,2,Total de casos confirmados,1
+Tarija,60303,Villa Montes,2007,2,Total de casos confirmados,17
+Pando,90502,Villa Nueva (loma Alta),2007,2,Total de casos confirmados,8
+Cochabamba,31003,Villa Tunari,2007,2,Total de casos confirmados,9
+Tarija,60301,Yacuiba,2007,2,Total de casos confirmados,10
+Beni,80802,Baures,2007,3,Total de casos confirmados,11
+Tarija,60202,Bermejo,2007,3,Total de casos confirmados,9
+La Paz,22001,Caranavi,2007,3,Total de casos confirmados,1
+Tarija,60302,Carapari,2007,3,Total de casos confirmados,36
+Pando,90101,Cobija,2007,3,Total de casos confirmados,22
+Santa Cruz,70105,El Torno,2007,3,Total de casos confirmados,2
+Tarija,60601,Entre Rios,2007,3,Total de casos confirmados,16
+Pando,90503,Eureka (santos Mercado),2007,3,Total de casos confirmados,20
+La Paz,20602,Guanay,2007,3,Total de casos confirmados,3
+Beni,80202,Guayaramerin,2007,3,Total de casos confirmados,440
+Chuquisaca,10502,Huacareta,2007,3,Total de casos confirmados,1
+Pando,90402,Ingavi (humaita),2007,3,Total de casos confirmados,6
+La Paz,21102,Irupana (villa De Lanza),2007,3,Total de casos confirmados,1
+Chuquisaca,11003,Machareti,2007,3,Total de casos confirmados,1
+Beni,80801,Magdalena,2007,3,Total de casos confirmados,1
+Cochabamba,31301,Mizque,2007,3,Total de casos confirmados,3
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,3,Total de casos confirmados,6
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,3,Total de casos confirmados,10
+Tarija,60201,Padcaya,2007,3,Total de casos confirmados,2
+Chuquisaca,10401,Padilla,2007,3,Total de casos confirmados,2
+Santa Cruz,70103,Porongo,2007,3,Total de casos confirmados,21
+Pando,90102,Porvenir,2007,3,Total de casos confirmados,10
+Pando,90301,Puerto Gonzalo Moreno,2007,3,Total de casos confirmados,14
+Pando,90201,Puerto Rico,2007,3,Total de casos confirmados,10
+Beni,80301,Reyes,2007,3,Total de casos confirmados,8
+Beni,80201,Riberalta,2007,3,Total de casos confirmados,808
+Beni,80302,San Borja,2007,3,Total de casos confirmados,5
+Santa Cruz,70301,San Ignacio De Velasco,2007,3,Total de casos confirmados,1
+Pando,90302,San Lorenzo(pnd),2007,3,Total de casos confirmados,26
+Santa Cruz,70303,San Rafael,2007,3,Total de casos confirmados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,Total de casos confirmados,1
+Beni,80303,Santa Rosa,2007,3,Total de casos confirmados,2
+Pando,90303,Sena,2007,3,Total de casos confirmados,63
+Chuquisaca,10403,Sopachuy,2007,3,Total de casos confirmados,2
+Chuquisaca,10402,Tomina,2007,3,Total de casos confirmados,2
+Potosí,50502,Toro Toro,2007,3,Total de casos confirmados,11
+Cochabamba,31201,Totora(cbba),2007,3,Total de casos confirmados,1
+Cochabamba,31302,Vila Vila,2007,3,Total de casos confirmados,2
+Pando,90502,Villa Nueva (loma Alta),2007,3,Total de casos confirmados,2
+Tarija,60301,Yacuiba,2007,3,Total de casos confirmados,37
+Potosí,51302,Acacio,2007,4,Total de casos confirmados,1
+Cochabamba,30201,Aiquile,2007,4,Total de casos confirmados,2
+Chuquisaca,10201,Azurduy,2007,4,Total de casos confirmados,3
+Beni,80802,Baures,2007,4,Total de casos confirmados,18
+Tarija,60202,Bermejo,2007,4,Total de casos confirmados,2
+Tarija,60302,Carapari,2007,4,Total de casos confirmados,26
+Santa Cruz,70105,El Torno,2007,4,Total de casos confirmados,6
+Tarija,60601,Entre Rios,2007,4,Total de casos confirmados,7
+Tarija,60601,Entre Rios,2007,4,Total de casos confirmados,1
+Pando,90503,Eureka (santos Mercado),2007,4,Total de casos confirmados,11
+Pando,90203,Filadelfia,2007,4,Total de casos confirmados,7
+Beni,80202,Guayaramerin,2007,4,Total de casos confirmados,517
+Santa Cruz,70705,Gutierrez,2007,4,Total de casos confirmados,1
+La Paz,20101,La Paz,2007,4,Total de casos confirmados,1
+Beni,80801,Magdalena,2007,4,Total de casos confirmados,3
+La Paz,20607,Mapiri,2007,4,Total de casos confirmados,2
+Chuquisaca,10501,Monteagudo,2007,4,Total de casos confirmados,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,4,Total de casos confirmados,5
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,4,Total de casos confirmados,4
+Tarija,60201,Padcaya,2007,4,Total de casos confirmados,1
+Chuquisaca,10401,Padilla,2007,4,Total de casos confirmados,1
+Santa Cruz,70103,Porongo,2007,4,Total de casos confirmados,7
+Pando,90102,Porvenir,2007,4,Total de casos confirmados,6
+Pando,90301,Puerto Gonzalo Moreno,2007,4,Total de casos confirmados,7
+Pando,90201,Puerto Rico,2007,4,Total de casos confirmados,13
+Beni,80301,Reyes,2007,4,Total de casos confirmados,10
+Beni,80201,Riberalta,2007,4,Total de casos confirmados,696
+Beni,80302,San Borja,2007,4,Total de casos confirmados,3
+Beni,80701,San Joaquin,2007,4,Total de casos confirmados,2
+Pando,90302,San Lorenzo(pnd),2007,4,Total de casos confirmados,24
+Pando,90202,San Pedro(pnd),2007,4,Total de casos confirmados,3
+Beni,80303,Santa Rosa,2007,4,Total de casos confirmados,4
+Pando,90303,Sena,2007,4,Total de casos confirmados,45
+La Paz,20608,Teoponte,2007,4,Total de casos confirmados,2
+Potosí,50502,Toro Toro,2007,4,Total de casos confirmados,3
+Tarija,60303,Villa Montes,2007,4,Total de casos confirmados,23
+Pando,90502,Villa Nueva (loma Alta),2007,4,Total de casos confirmados,1
+Chuquisaca,10801,Villa Serrano,2007,4,Total de casos confirmados,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,4,Total de casos confirmados,3
+Tarija,60301,Yacuiba,2007,4,Total de casos confirmados,42
+Potosí,51302,Acacio,2007,5,Total de casos confirmados,2
+La Paz,20701,Apolo,2007,5,Total de casos confirmados,1
+Chuquisaca,10201,Azurduy,2007,5,Total de casos confirmados,1
+Beni,80802,Baures,2007,5,Total de casos confirmados,17
+Pando,90104,Bella Flor,2007,5,Total de casos confirmados,5
+Tarija,60202,Bermejo,2007,5,Total de casos confirmados,7
+Santa Cruz,70703,Cabezas,2007,5,Total de casos confirmados,2
+Santa Cruz,70706,Camiri,2007,5,Total de casos confirmados,1
+La Paz,22001,Caranavi,2007,5,Total de casos confirmados,2
+Tarija,60302,Carapari,2007,5,Total de casos confirmados,22
+Pando,90101,Cobija,2007,5,Total de casos confirmados,23
+Cochabamba,30101,Cochabamba,2007,5,Total de casos confirmados,7
+Santa Cruz,70105,El Torno,2007,5,Total de casos confirmados,17
+Tarija,60601,Entre Rios,2007,5,Total de casos confirmados,18
+Tarija,60601,Entre Rios,2007,5,Total de casos confirmados,1
+Pando,90503,Eureka (santos Mercado),2007,5,Total de casos confirmados,13
+Pando,90203,Filadelfia,2007,5,Total de casos confirmados,2
+Beni,80202,Guayaramerin,2007,5,Total de casos confirmados,553
+Pando,90402,Ingavi (humaita),2007,5,Total de casos confirmados,3
+La Paz,21501,Ixiamas,2007,5,Total de casos confirmados,2
+Beni,80801,Magdalena,2007,5,Total de casos confirmados,2
+La Paz,20607,Mapiri,2007,5,Total de casos confirmados,3
+Cochabamba,31301,Mizque,2007,5,Total de casos confirmados,3
+Chuquisaca,10501,Monteagudo,2007,5,Total de casos confirmados,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,5,Total de casos confirmados,14
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,5,Total de casos confirmados,3
+Tarija,60201,Padcaya,2007,5,Total de casos confirmados,2
+Chuquisaca,10401,Padilla,2007,5,Total de casos confirmados,7
+Chuquisaca,10103,Poroma,2007,5,Total de casos confirmados,24
+Santa Cruz,70103,Porongo,2007,5,Total de casos confirmados,2
+Pando,90102,Porvenir,2007,5,Total de casos confirmados,4
+Pando,90301,Puerto Gonzalo Moreno,2007,5,Total de casos confirmados,2
+Pando,90201,Puerto Rico,2007,5,Total de casos confirmados,6
+Beni,80301,Reyes,2007,5,Total de casos confirmados,2
+Beni,80201,Riberalta,2007,5,Total de casos confirmados,584
+Beni,80302,San Borja,2007,5,Total de casos confirmados,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,5,Total de casos confirmados,1
+Beni,80701,San Joaquin,2007,5,Total de casos confirmados,1
+Pando,90302,San Lorenzo(pnd),2007,5,Total de casos confirmados,11
+Tarija,60501,San Lorenzo(tja),2007,5,Total de casos confirmados,3
+Pando,90202,San Pedro(pnd),2007,5,Total de casos confirmados,2
+Beni,80303,Santa Rosa,2007,5,Total de casos confirmados,1
+Pando,90303,Sena,2007,5,Total de casos confirmados,28
+Chuquisaca,10202,Tarvita,2007,5,Total de casos confirmados,1
+Cochabamba,31601,Tiraque (cbba),2007,5,Total de casos confirmados,1
+Cochabamba,31302,Vila Vila,2007,5,Total de casos confirmados,1
+Tarija,60303,Villa Montes,2007,5,Total de casos confirmados,19
+Pando,90502,Villa Nueva (loma Alta),2007,5,Total de casos confirmados,5
+Tarija,60301,Yacuiba,2007,5,Total de casos confirmados,55
+Cochabamba,30201,Aiquile,2007,6,Total de casos confirmados,1
+Beni,80802,Baures,2007,6,Total de casos confirmados,20
+Tarija,60202,Bermejo,2007,6,Total de casos confirmados,10
+Santa Cruz,70703,Cabezas,2007,6,Total de casos confirmados,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,6,Total de casos confirmados,1
+La Paz,22001,Caranavi,2007,6,Total de casos confirmados,1
+Tarija,60302,Carapari,2007,6,Total de casos confirmados,8
+Santa Cruz,70704,Cuevo,2007,6,Total de casos confirmados,1
+Santa Cruz,70105,El Torno,2007,6,Total de casos confirmados,6
+Tarija,60601,Entre Rios,2007,6,Total de casos confirmados,6
+Pando,90503,Eureka (santos Mercado),2007,6,Total de casos confirmados,24
+Pando,90203,Filadelfia,2007,6,Total de casos confirmados,2
+Beni,80202,Guayaramerin,2007,6,Total de casos confirmados,281
+La Paz,20607,Mapiri,2007,6,Total de casos confirmados,2
+Cochabamba,31301,Mizque,2007,6,Total de casos confirmados,1
+Chuquisaca,10501,Monteagudo,2007,6,Total de casos confirmados,1
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,6,Total de casos confirmados,3
+Tarija,60201,Padcaya,2007,6,Total de casos confirmados,6
+Chuquisaca,10401,Padilla,2007,6,Total de casos confirmados,6
+La Paz,21104,Palos Blancos,2007,6,Total de casos confirmados,1
+Chuquisaca,10103,Poroma,2007,6,Total de casos confirmados,3
+Santa Cruz,70103,Porongo,2007,6,Total de casos confirmados,2
+Pando,90102,Porvenir,2007,6,Total de casos confirmados,4
+Pando,90301,Puerto Gonzalo Moreno,2007,6,Total de casos confirmados,6
+Pando,90201,Puerto Rico,2007,6,Total de casos confirmados,5
+Beni,80201,Riberalta,2007,6,Total de casos confirmados,391
+Santa Cruz,70301,San Ignacio De Velasco,2007,6,Total de casos confirmados,1
+Pando,90302,San Lorenzo(pnd),2007,6,Total de casos confirmados,8
+Tarija,60501,San Lorenzo(tja),2007,6,Total de casos confirmados,1
+Pando,90202,San Pedro(pnd),2007,6,Total de casos confirmados,1
+Beni,80303,Santa Rosa,2007,6,Total de casos confirmados,1
+Pando,90303,Sena,2007,6,Total de casos confirmados,28
+Potosí,50502,Toro Toro,2007,6,Total de casos confirmados,2
+Cochabamba,31302,Vila Vila,2007,6,Total de casos confirmados,1
+Tarija,60303,Villa Montes,2007,6,Total de casos confirmados,5
+Pando,90502,Villa Nueva (loma Alta),2007,6,Total de casos confirmados,3
+Cochabamba,31003,Villa Tunari,2007,6,Total de casos confirmados,4
+Tarija,60301,Yacuiba,2007,6,Total de casos confirmados,13
+Cochabamba,30201,Aiquile,2007,7,Total de casos confirmados,1
+Cochabamba,30402,Anzaldo,2007,7,Total de casos confirmados,1
+Chuquisaca,10201,Azurduy,2007,7,Total de casos confirmados,1
+Beni,80802,Baures,2007,7,Total de casos confirmados,21
+Pando,90104,Bella Flor,2007,7,Total de casos confirmados,3
+Tarija,60202,Bermejo,2007,7,Total de casos confirmados,7
+Santa Cruz,70703,Cabezas,2007,7,Total de casos confirmados,1
+Santa Cruz,70706,Camiri,2007,7,Total de casos confirmados,1
+La Paz,22001,Caranavi,2007,7,Total de casos confirmados,2
+Tarija,60302,Carapari,2007,7,Total de casos confirmados,3
+Pando,90101,Cobija,2007,7,Total de casos confirmados,14
+Santa Cruz,70105,El Torno,2007,7,Total de casos confirmados,5
+Tarija,60601,Entre Rios,2007,7,Total de casos confirmados,5
+Pando,90503,Eureka (santos Mercado),2007,7,Total de casos confirmados,26
+Pando,90203,Filadelfia,2007,7,Total de casos confirmados,6
+Beni,80202,Guayaramerin,2007,7,Total de casos confirmados,259
+La Paz,21501,Ixiamas,2007,7,Total de casos confirmados,1
+Chuquisaca,11003,Machareti,2007,7,Total de casos confirmados,1
+La Paz,20607,Mapiri,2007,7,Total de casos confirmados,1
+Cochabamba,31301,Mizque,2007,7,Total de casos confirmados,2
+Chuquisaca,10501,Monteagudo,2007,7,Total de casos confirmados,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,7,Total de casos confirmados,2
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,7,Total de casos confirmados,4
+Tarija,60201,Padcaya,2007,7,Total de casos confirmados,2
+Chuquisaca,10401,Padilla,2007,7,Total de casos confirmados,1
+Cochabamba,31202,Pojo (cbba),2007,7,Total de casos confirmados,1
+Pando,90102,Porvenir,2007,7,Total de casos confirmados,7
+Pando,90301,Puerto Gonzalo Moreno,2007,7,Total de casos confirmados,5
+Pando,90201,Puerto Rico,2007,7,Total de casos confirmados,9
+Cochabamba,31401,Punata,2007,7,Total de casos confirmados,1
+Beni,80301,Reyes,2007,7,Total de casos confirmados,13
+Beni,80201,Riberalta,2007,7,Total de casos confirmados,425
+Beni,80302,San Borja,2007,7,Total de casos confirmados,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,7,Total de casos confirmados,4
+Pando,90302,San Lorenzo(pnd),2007,7,Total de casos confirmados,17
+Pando,90303,Sena,2007,7,Total de casos confirmados,28
+Chuquisaca,10101,Sucre,2007,7,Total de casos confirmados,2
+La Paz,20608,Teoponte,2007,7,Total de casos confirmados,2
+Cochabamba,31003,Villa Tunari,2007,7,Total de casos confirmados,5
+Tarija,60301,Yacuiba,2007,7,Total de casos confirmados,11
+Potosí,51302,Acacio,2007,8,Total de casos confirmados,1
+Beni,80802,Baures,2007,8,Total de casos confirmados,39
+Tarija,60202,Bermejo,2007,8,Total de casos confirmados,10
+Tarija,60302,Carapari,2007,8,Total de casos confirmados,7
+Pando,90101,Cobija,2007,8,Total de casos confirmados,7
+Santa Cruz,70105,El Torno,2007,8,Total de casos confirmados,8
+Tarija,60601,Entre Rios,2007,8,Total de casos confirmados,3
+Pando,90503,Eureka (santos Mercado),2007,8,Total de casos confirmados,12
+Pando,90203,Filadelfia,2007,8,Total de casos confirmados,1
+Beni,80202,Guayaramerin,2007,8,Total de casos confirmados,229
+Chuquisaca,10703,Incahuasi,2007,8,Total de casos confirmados,2
+La Paz,21501,Ixiamas,2007,8,Total de casos confirmados,1
+Santa Cruz,70104,La Guardia,2007,8,Total de casos confirmados,1
+Santa Cruz,70701,Lagunillas,2007,8,Total de casos confirmados,2
+Chuquisaca,11003,Machareti,2007,8,Total de casos confirmados,1
+La Paz,20607,Mapiri,2007,8,Total de casos confirmados,1
+Cochabamba,31301,Mizque,2007,8,Total de casos confirmados,1
+Chuquisaca,10303,Mojocoya,2007,8,Total de casos confirmados,1
+Chuquisaca,10501,Monteagudo,2007,8,Total de casos confirmados,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,8,Total de casos confirmados,3
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,8,Total de casos confirmados,11
+Chuquisaca,10103,Poroma,2007,8,Total de casos confirmados,3
+Santa Cruz,70103,Porongo,2007,8,Total de casos confirmados,2
+Pando,90102,Porvenir,2007,8,Total de casos confirmados,6
+Pando,90301,Puerto Gonzalo Moreno,2007,8,Total de casos confirmados,7
+Pando,90201,Puerto Rico,2007,8,Total de casos confirmados,4
+Beni,80301,Reyes,2007,8,Total de casos confirmados,3
+Beni,80201,Riberalta,2007,8,Total de casos confirmados,474
+Beni,80304,Rurrenabaque,2007,8,Total de casos confirmados,4
+Beni,80302,San Borja,2007,8,Total de casos confirmados,4
+Santa Cruz,70301,San Ignacio De Velasco,2007,8,Total de casos confirmados,6
+Santa Cruz,71104,San Julian,2007,8,Total de casos confirmados,2
+Pando,90302,San Lorenzo(pnd),2007,8,Total de casos confirmados,16
+Potosí,50501,San Pedro De Buena Vista,2007,8,Total de casos confirmados,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,Total de casos confirmados,1
+Pando,90303,Sena,2007,8,Total de casos confirmados,13
+Tarija,60303,Villa Montes,2007,8,Total de casos confirmados,7
+Pando,90502,Villa Nueva (loma Alta),2007,8,Total de casos confirmados,1
+Cochabamba,31003,Villa Tunari,2007,8,Total de casos confirmados,1
+Tarija,60301,Yacuiba,2007,8,Total de casos confirmados,11
+Potosí,51302,Acacio,2007,9,Total de casos confirmados,1
+La Paz,20701,Apolo,2007,9,Total de casos confirmados,1
+Beni,80802,Baures,2007,9,Total de casos confirmados,34
+Pando,90104,Bella Flor,2007,9,Total de casos confirmados,1
+Tarija,60202,Bermejo,2007,9,Total de casos confirmados,31
+La Paz,22001,Caranavi,2007,9,Total de casos confirmados,1
+Tarija,60302,Carapari,2007,9,Total de casos confirmados,1
+Pando,90101,Cobija,2007,9,Total de casos confirmados,9
+Santa Cruz,70105,El Torno,2007,9,Total de casos confirmados,3
+Pando,90503,Eureka (santos Mercado),2007,9,Total de casos confirmados,10
+Beni,80202,Guayaramerin,2007,9,Total de casos confirmados,129
+Chuquisaca,10502,Huacareta,2007,9,Total de casos confirmados,5
+Pando,90402,Ingavi (humaita),2007,9,Total de casos confirmados,1
+La Paz,21501,Ixiamas,2007,9,Total de casos confirmados,11
+La Paz,20607,Mapiri,2007,9,Total de casos confirmados,1
+Cochabamba,31301,Mizque,2007,9,Total de casos confirmados,1
+Chuquisaca,10501,Monteagudo,2007,9,Total de casos confirmados,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,Total de casos confirmados,7
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,9,Total de casos confirmados,36
+Tarija,60201,Padcaya,2007,9,Total de casos confirmados,1
+Chuquisaca,10401,Padilla,2007,9,Total de casos confirmados,1
+La Paz,21104,Palos Blancos,2007,9,Total de casos confirmados,1
+Chuquisaca,10103,Poroma,2007,9,Total de casos confirmados,1
+Pando,90102,Porvenir,2007,9,Total de casos confirmados,4
+Pando,90301,Puerto Gonzalo Moreno,2007,9,Total de casos confirmados,2
+Pando,90201,Puerto Rico,2007,9,Total de casos confirmados,7
+Cochabamba,31401,Punata,2007,9,Total de casos confirmados,2
+Beni,80301,Reyes,2007,9,Total de casos confirmados,1
+Beni,80201,Riberalta,2007,9,Total de casos confirmados,452
+Beni,80304,Rurrenabaque,2007,9,Total de casos confirmados,1
+Beni,80302,San Borja,2007,9,Total de casos confirmados,8
+Santa Cruz,70402,San Carlos,2007,9,Total de casos confirmados,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,Total de casos confirmados,7
+Chuquisaca,10702,San Lucas,2007,9,Total de casos confirmados,1
+Santa Cruz,71005,San Pedro,2007,9,Total de casos confirmados,1
+Potosí,50501,San Pedro De Buena Vista,2007,9,Total de casos confirmados,3
+Pando,90202,San Pedro(pnd),2007,9,Total de casos confirmados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,Total de casos confirmados,1
+Pando,90303,Sena,2007,9,Total de casos confirmados,11
+Cochabamba,31302,Vila Vila,2007,9,Total de casos confirmados,1
+Tarija,60301,Yacuiba,2007,9,Total de casos confirmados,4
+Chuquisaca,10201,Azurduy,2007,10,Total de casos confirmados,3
+Beni,80802,Baures,2007,10,Total de casos confirmados,27
+Pando,90104,Bella Flor,2007,10,Total de casos confirmados,3
+Tarija,60202,Bermejo,2007,10,Total de casos confirmados,13
+Santa Cruz,70703,Cabezas,2007,10,Total de casos confirmados,2
+La Paz,22001,Caranavi,2007,10,Total de casos confirmados,1
+Pando,90101,Cobija,2007,10,Total de casos confirmados,23
+Cochabamba,31002,Colomi,2007,10,Total de casos confirmados,2
+Santa Cruz,70105,El Torno,2007,10,Total de casos confirmados,16
+Tarija,60601,Entre Rios,2007,10,Total de casos confirmados,2
+Pando,90503,Eureka (santos Mercado),2007,10,Total de casos confirmados,15
+Pando,90203,Filadelfia,2007,10,Total de casos confirmados,3
+Beni,80202,Guayaramerin,2007,10,Total de casos confirmados,184
+Chuquisaca,10502,Huacareta,2007,10,Total de casos confirmados,2
+Chuquisaca,10703,Incahuasi,2007,10,Total de casos confirmados,1
+Pando,90402,Ingavi (humaita),2007,10,Total de casos confirmados,5
+La Paz,21501,Ixiamas,2007,10,Total de casos confirmados,9
+Santa Cruz,70701,Lagunillas,2007,10,Total de casos confirmados,4
+Cochabamba,31301,Mizque,2007,10,Total de casos confirmados,1
+Chuquisaca,10501,Monteagudo,2007,10,Total de casos confirmados,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,10,Total de casos confirmados,1
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,10,Total de casos confirmados,6
+Santa Cruz,70202,Okinawa,2007,10,Total de casos confirmados,2
+Tarija,60201,Padcaya,2007,10,Total de casos confirmados,4
+Chuquisaca,10401,Padilla,2007,10,Total de casos confirmados,1
+Chuquisaca,10103,Poroma,2007,10,Total de casos confirmados,1
+Pando,90102,Porvenir,2007,10,Total de casos confirmados,5
+Pando,90301,Puerto Gonzalo Moreno,2007,10,Total de casos confirmados,1
+Pando,90201,Puerto Rico,2007,10,Total de casos confirmados,9
+Beni,80703,Puerto Siles,2007,10,Total de casos confirmados,3
+Beni,80301,Reyes,2007,10,Total de casos confirmados,2
+Beni,80201,Riberalta,2007,10,Total de casos confirmados,521
+Santa Cruz,71302,Saipina,2007,10,Total de casos confirmados,1
+Beni,80302,San Borja,2007,10,Total de casos confirmados,4
+Santa Cruz,70301,San Ignacio De Velasco,2007,10,Total de casos confirmados,47
+Pando,90302,San Lorenzo(pnd),2007,10,Total de casos confirmados,5
+Tarija,60501,San Lorenzo(tja),2007,10,Total de casos confirmados,2
+Potosí,50501,San Pedro De Buena Vista,2007,10,Total de casos confirmados,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,Total de casos confirmados,1
+Beni,80303,Santa Rosa,2007,10,Total de casos confirmados,1
+Pando,90303,Sena,2007,10,Total de casos confirmados,17
+Chuquisaca,10601,Tarabuco,2007,10,Total de casos confirmados,1
+Cochabamba,31601,Tiraque (cbba),2007,10,Total de casos confirmados,1
+Cochabamba,31302,Vila Vila,2007,10,Total de casos confirmados,1
+Cochabamba,31003,Villa Tunari,2007,10,Total de casos confirmados,4
+Tarija,60301,Yacuiba,2007,10,Total de casos confirmados,8
+Potosí,51302,Acacio,2007,11,Total de casos confirmados,2
+Beni,80802,Baures,2007,11,Total de casos confirmados,18
+Tarija,60202,Bermejo,2007,11,Total de casos confirmados,9
+Santa Cruz,70401,Buena Vista,2007,11,Total de casos confirmados,8
+Santa Cruz,70703,Cabezas,2007,11,Total de casos confirmados,2
+La Paz,22001,Caranavi,2007,11,Total de casos confirmados,1
+Tarija,60302,Carapari,2007,11,Total de casos confirmados,9
+Pando,90101,Cobija,2007,11,Total de casos confirmados,19
+Santa Cruz,70105,El Torno,2007,11,Total de casos confirmados,40
+Tarija,60601,Entre Rios,2007,11,Total de casos confirmados,8
+Pando,90503,Eureka (santos Mercado),2007,11,Total de casos confirmados,5
+Pando,90203,Filadelfia,2007,11,Total de casos confirmados,8
+Beni,80202,Guayaramerin,2007,11,Total de casos confirmados,253
+Pando,90402,Ingavi (humaita),2007,11,Total de casos confirmados,3
+La Paz,21501,Ixiamas,2007,11,Total de casos confirmados,2
+La Paz,21105,La Asunta,2007,11,Total de casos confirmados,2
+Santa Cruz,70104,La Guardia,2007,11,Total de casos confirmados,2
+La Paz,20101,La Paz,2007,11,Total de casos confirmados,4
+Beni,80801,Magdalena,2007,11,Total de casos confirmados,1
+Santa Cruz,71003,Mineros,2007,11,Total de casos confirmados,1
+Cochabamba,31301,Mizque,2007,11,Total de casos confirmados,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,11,Total de casos confirmados,2
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,11,Total de casos confirmados,16
+Tarija,60201,Padcaya,2007,11,Total de casos confirmados,3
+La Paz,21104,Palos Blancos,2007,11,Total de casos confirmados,1
+Chuquisaca,10103,Poroma,2007,11,Total de casos confirmados,1
+Santa Cruz,70103,Porongo,2007,11,Total de casos confirmados,4
+Pando,90102,Porvenir,2007,11,Total de casos confirmados,4
+Pando,90301,Puerto Gonzalo Moreno,2007,11,Total de casos confirmados,2
+Pando,90201,Puerto Rico,2007,11,Total de casos confirmados,6
+Beni,80201,Riberalta,2007,11,Total de casos confirmados,389
+Beni,80304,Rurrenabaque,2007,11,Total de casos confirmados,1
+Beni,80302,San Borja,2007,11,Total de casos confirmados,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,Total de casos confirmados,10
+Pando,90302,San Lorenzo(pnd),2007,11,Total de casos confirmados,10
+Potosí,50501,San Pedro De Buena Vista,2007,11,Total de casos confirmados,21
+Beni,80303,Santa Rosa,2007,11,Total de casos confirmados,2
+Pando,90303,Sena,2007,11,Total de casos confirmados,2
+La Paz,20608,Teoponte,2007,11,Total de casos confirmados,4
+Pando,90502,Villa Nueva (loma Alta),2007,11,Total de casos confirmados,3
+Chuquisaca,10801,Villa Serrano,2007,11,Total de casos confirmados,2
+Cochabamba,31003,Villa Tunari,2007,11,Total de casos confirmados,10
+Tarija,60301,Yacuiba,2007,11,Total de casos confirmados,6
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,12,Total de casos confirmados,1
+Chuquisaca,10201,Azurduy,2007,12,Total de casos confirmados,1
+Beni,80802,Baures,2007,12,Total de casos confirmados,5
+Tarija,60202,Bermejo,2007,12,Total de casos confirmados,48
+Santa Cruz,70401,Buena Vista,2007,12,Total de casos confirmados,27
+La Paz,22001,Caranavi,2007,12,Total de casos confirmados,5
+Tarija,60302,Carapari,2007,12,Total de casos confirmados,14
+Pando,90101,Cobija,2007,12,Total de casos confirmados,13
+Santa Cruz,70704,Cuevo,2007,12,Total de casos confirmados,1
+Santa Cruz,70105,El Torno,2007,12,Total de casos confirmados,49
+Tarija,60601,Entre Rios,2007,12,Total de casos confirmados,13
+Beni,80202,Guayaramerin,2007,12,Total de casos confirmados,182
+Santa Cruz,70104,La Guardia,2007,12,Total de casos confirmados,1
+La Paz,20101,La Paz,2007,12,Total de casos confirmados,2
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,12,Total de casos confirmados,5
+Tarija,60201,Padcaya,2007,12,Total de casos confirmados,5
+Chuquisaca,10401,Padilla,2007,12,Total de casos confirmados,2
+La Paz,21104,Palos Blancos,2007,12,Total de casos confirmados,4
+Chuquisaca,10103,Poroma,2007,12,Total de casos confirmados,1
+Santa Cruz,70103,Porongo,2007,12,Total de casos confirmados,3
+Pando,90102,Porvenir,2007,12,Total de casos confirmados,5
+Pando,90301,Puerto Gonzalo Moreno,2007,12,Total de casos confirmados,5
+Pando,90201,Puerto Rico,2007,12,Total de casos confirmados,5
+Beni,80201,Riberalta,2007,12,Total de casos confirmados,411
+Beni,80304,Rurrenabaque,2007,12,Total de casos confirmados,2
+Beni,80302,San Borja,2007,12,Total de casos confirmados,6
+Santa Cruz,70402,San Carlos,2007,12,Total de casos confirmados,18
+Beni,80701,San Joaquin,2007,12,Total de casos confirmados,1
+Pando,90302,San Lorenzo(pnd),2007,12,Total de casos confirmados,5
+Chuquisaca,10702,San Lucas,2007,12,Total de casos confirmados,1
+Potosí,50501,San Pedro De Buena Vista,2007,12,Total de casos confirmados,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,Total de casos confirmados,1
+Pando,90303,Sena,2007,12,Total de casos confirmados,7
+La Paz,20608,Teoponte,2007,12,Total de casos confirmados,11
+Potosí,50502,Toro Toro,2007,12,Total de casos confirmados,7
+Santa Cruz,70801,Vallegrande,2007,12,Total de casos confirmados,1
+Cochabamba,31003,Villa Tunari,2007,12,Total de casos confirmados,22
+Tarija,60301,Yacuiba,2007,12,Total de casos confirmados,18
+Beni,80802,Baures,2007,1,TOTAL,10
+Tarija,60202,Bermejo,2007,1,TOTAL,84
+La Paz,22001,Caranavi,2007,1,TOTAL,3
+Tarija,60302,Carapari,2007,1,TOTAL,3
+Pando,90101,Cobija,2007,1,TOTAL,22
+Santa Cruz,70105,El Torno,2007,1,TOTAL,39
+Tarija,60601,Entre Rios,2007,1,TOTAL,14
+Pando,90203,Filadelfia,2007,1,TOTAL,9
+La Paz,20602,Guanay,2007,1,TOTAL,4
+Beni,80202,Guayaramerin,2007,1,TOTAL,521
+Pando,90402,Ingavi (humaita),2007,1,TOTAL,14
+Beni,80801,Magdalena,2007,1,TOTAL,1
+Cochabamba,31301,Mizque,2007,1,TOTAL,3
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,1,TOTAL,10
+Tarija,60201,Padcaya,2007,1,TOTAL,33
+Chuquisaca,10401,Padilla,2007,1,TOTAL,1
+Santa Cruz,70103,Porongo,2007,1,TOTAL,6
+Pando,90102,Porvenir,2007,1,TOTAL,5
+Pando,90201,Puerto Rico,2007,1,TOTAL,26
+Beni,80301,Reyes,2007,1,TOTAL,2
+Beni,80201,Riberalta,2007,1,TOTAL,582
+Beni,80304,Rurrenabaque,2007,1,TOTAL,4
+Beni,80302,San Borja,2007,1,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,1,TOTAL,12
+Pando,90302,San Lorenzo(pnd),2007,1,TOTAL,15
+Pando,90202,San Pedro(pnd),2007,1,TOTAL,3
+Beni,80303,Santa Rosa,2007,1,TOTAL,1
+Pando,90303,Sena,2007,1,TOTAL,9
+La Paz,20608,Teoponte,2007,1,TOTAL,3
+Cochabamba,31601,Tiraque (cbba),2007,1,TOTAL,3
+Pando,90502,Villa Nueva (loma Alta),2007,1,TOTAL,3
+Chuquisaca,10801,Villa Serrano,2007,1,TOTAL,3
+Cochabamba,31003,Villa Tunari,2007,1,TOTAL,25
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,1,TOTAL,2
+Tarija,60301,Yacuiba,2007,1,TOTAL,17
+Tarija,60402,Yunchara,2007,1,TOTAL,2
+Beni,80802,Baures,2007,2,TOTAL,18
+Tarija,60202,Bermejo,2007,2,TOTAL,16
+La Paz,22001,Caranavi,2007,2,TOTAL,3
+Tarija,60302,Carapari,2007,2,TOTAL,7
+Pando,90101,Cobija,2007,2,TOTAL,18
+Santa Cruz,70105,El Torno,2007,2,TOTAL,9
+Tarija,60601,Entre Rios,2007,2,TOTAL,3
+Pando,90503,Eureka (santos Mercado),2007,2,TOTAL,6
+Beni,80202,Guayaramerin,2007,2,TOTAL,570
+Chuquisaca,10502,Huacareta,2007,2,TOTAL,2
+Pando,90402,Ingavi (humaita),2007,2,TOTAL,3
+La Paz,21501,Ixiamas,2007,2,TOTAL,31
+Santa Cruz,70104,La Guardia,2007,2,TOTAL,2
+La Paz,20101,La Paz,2007,2,TOTAL,2
+Cochabamba,31301,Mizque,2007,2,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,2,TOTAL,2
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,2,TOTAL,7
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,2,TOTAL,14
+Tarija,60201,Padcaya,2007,2,TOTAL,5
+Chuquisaca,10401,Padilla,2007,2,TOTAL,4
+Santa Cruz,70103,Porongo,2007,2,TOTAL,14
+Pando,90201,Puerto Rico,2007,2,TOTAL,12
+Beni,80301,Reyes,2007,2,TOTAL,6
+Beni,80201,Riberalta,2007,2,TOTAL,590
+Beni,80304,Rurrenabaque,2007,2,TOTAL,1
+Beni,80302,San Borja,2007,2,TOTAL,8
+Santa Cruz,70301,San Ignacio De Velasco,2007,2,TOTAL,5
+Beni,80701,San Joaquin,2007,2,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2007,2,TOTAL,16
+Pando,90202,San Pedro(pnd),2007,2,TOTAL,3
+Santa Cruz,70303,San Rafael,2007,2,TOTAL,2
+Beni,80702,San Ramon,2007,2,TOTAL,1
+Pando,90303,Sena,2007,2,TOTAL,56
+La Paz,20608,Teoponte,2007,2,TOTAL,1
+Tarija,60303,Villa Montes,2007,2,TOTAL,17
+Pando,90502,Villa Nueva (loma Alta),2007,2,TOTAL,8
+Cochabamba,31003,Villa Tunari,2007,2,TOTAL,9
+Tarija,60301,Yacuiba,2007,2,TOTAL,10
+Beni,80802,Baures,2007,3,TOTAL,11
+Tarija,60202,Bermejo,2007,3,TOTAL,9
+La Paz,22001,Caranavi,2007,3,TOTAL,1
+Tarija,60302,Carapari,2007,3,TOTAL,36
+Pando,90101,Cobija,2007,3,TOTAL,22
+Santa Cruz,70105,El Torno,2007,3,TOTAL,2
+Tarija,60601,Entre Rios,2007,3,TOTAL,16
+Pando,90503,Eureka (santos Mercado),2007,3,TOTAL,20
+La Paz,20602,Guanay,2007,3,TOTAL,3
+Beni,80202,Guayaramerin,2007,3,TOTAL,440
+Chuquisaca,10502,Huacareta,2007,3,TOTAL,1
+Pando,90402,Ingavi (humaita),2007,3,TOTAL,6
+La Paz,21102,Irupana (villa De Lanza),2007,3,TOTAL,1
+Chuquisaca,11003,Machareti,2007,3,TOTAL,1
+Beni,80801,Magdalena,2007,3,TOTAL,1
+Cochabamba,31301,Mizque,2007,3,TOTAL,3
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,3,TOTAL,6
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,3,TOTAL,10
+Tarija,60201,Padcaya,2007,3,TOTAL,2
+Chuquisaca,10401,Padilla,2007,3,TOTAL,2
+Santa Cruz,70103,Porongo,2007,3,TOTAL,21
+Pando,90102,Porvenir,2007,3,TOTAL,10
+Pando,90301,Puerto Gonzalo Moreno,2007,3,TOTAL,14
+Pando,90201,Puerto Rico,2007,3,TOTAL,10
+Beni,80301,Reyes,2007,3,TOTAL,8
+Beni,80201,Riberalta,2007,3,TOTAL,808
+Beni,80302,San Borja,2007,3,TOTAL,5
+Santa Cruz,70301,San Ignacio De Velasco,2007,3,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2007,3,TOTAL,26
+Santa Cruz,70303,San Rafael,2007,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,3,TOTAL,1
+Beni,80303,Santa Rosa,2007,3,TOTAL,2
+Pando,90303,Sena,2007,3,TOTAL,63
+Chuquisaca,10403,Sopachuy,2007,3,TOTAL,2
+Chuquisaca,10402,Tomina,2007,3,TOTAL,2
+Potosí,50502,Toro Toro,2007,3,TOTAL,11
+Cochabamba,31201,Totora(cbba),2007,3,TOTAL,1
+Cochabamba,31302,Vila Vila,2007,3,TOTAL,2
+Pando,90502,Villa Nueva (loma Alta),2007,3,TOTAL,2
+Tarija,60301,Yacuiba,2007,3,TOTAL,37
+Potosí,51302,Acacio,2007,4,TOTAL,1
+Cochabamba,30201,Aiquile,2007,4,TOTAL,2
+Chuquisaca,10201,Azurduy,2007,4,TOTAL,3
+Beni,80802,Baures,2007,4,TOTAL,18
+Tarija,60202,Bermejo,2007,4,TOTAL,2
+Tarija,60302,Carapari,2007,4,TOTAL,26
+Santa Cruz,70105,El Torno,2007,4,TOTAL,6
+Tarija,60601,Entre Rios,2007,4,TOTAL,7
+Tarija,60601,Entre Rios,2007,4,TOTAL,1
+Pando,90503,Eureka (santos Mercado),2007,4,TOTAL,11
+Pando,90203,Filadelfia,2007,4,TOTAL,7
+Beni,80202,Guayaramerin,2007,4,TOTAL,517
+Santa Cruz,70705,Gutierrez,2007,4,TOTAL,1
+La Paz,20101,La Paz,2007,4,TOTAL,1
+Beni,80801,Magdalena,2007,4,TOTAL,3
+La Paz,20607,Mapiri,2007,4,TOTAL,2
+Chuquisaca,10501,Monteagudo,2007,4,TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,4,TOTAL,5
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,4,TOTAL,4
+Tarija,60201,Padcaya,2007,4,TOTAL,1
+Chuquisaca,10401,Padilla,2007,4,TOTAL,1
+Santa Cruz,70103,Porongo,2007,4,TOTAL,7
+Pando,90102,Porvenir,2007,4,TOTAL,6
+Pando,90301,Puerto Gonzalo Moreno,2007,4,TOTAL,7
+Pando,90201,Puerto Rico,2007,4,TOTAL,13
+Beni,80301,Reyes,2007,4,TOTAL,10
+Beni,80201,Riberalta,2007,4,TOTAL,696
+Beni,80302,San Borja,2007,4,TOTAL,3
+Beni,80701,San Joaquin,2007,4,TOTAL,2
+Pando,90302,San Lorenzo(pnd),2007,4,TOTAL,24
+Pando,90202,San Pedro(pnd),2007,4,TOTAL,3
+Beni,80303,Santa Rosa,2007,4,TOTAL,4
+Pando,90303,Sena,2007,4,TOTAL,45
+La Paz,20608,Teoponte,2007,4,TOTAL,2
+Potosí,50502,Toro Toro,2007,4,TOTAL,3
+Tarija,60303,Villa Montes,2007,4,TOTAL,23
+Pando,90502,Villa Nueva (loma Alta),2007,4,TOTAL,1
+Chuquisaca,10801,Villa Serrano,2007,4,TOTAL,4
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2007,4,TOTAL,3
+Tarija,60301,Yacuiba,2007,4,TOTAL,42
+Potosí,51302,Acacio,2007,5,TOTAL,2
+La Paz,20701,Apolo,2007,5,TOTAL,1
+Chuquisaca,10201,Azurduy,2007,5,TOTAL,1
+Beni,80802,Baures,2007,5,TOTAL,17
+Pando,90104,Bella Flor,2007,5,TOTAL,5
+Tarija,60202,Bermejo,2007,5,TOTAL,7
+Santa Cruz,70703,Cabezas,2007,5,TOTAL,2
+Santa Cruz,70706,Camiri,2007,5,TOTAL,1
+La Paz,22001,Caranavi,2007,5,TOTAL,2
+Tarija,60302,Carapari,2007,5,TOTAL,22
+Pando,90101,Cobija,2007,5,TOTAL,23
+Cochabamba,30101,Cochabamba,2007,5,TOTAL,7
+Santa Cruz,70105,El Torno,2007,5,TOTAL,17
+Tarija,60601,Entre Rios,2007,5,TOTAL,18
+Tarija,60601,Entre Rios,2007,5,TOTAL,1
+Pando,90503,Eureka (santos Mercado),2007,5,TOTAL,13
+Pando,90203,Filadelfia,2007,5,TOTAL,2
+Beni,80202,Guayaramerin,2007,5,TOTAL,553
+Pando,90402,Ingavi (humaita),2007,5,TOTAL,3
+La Paz,21501,Ixiamas,2007,5,TOTAL,2
+Beni,80801,Magdalena,2007,5,TOTAL,2
+La Paz,20607,Mapiri,2007,5,TOTAL,3
+Cochabamba,31301,Mizque,2007,5,TOTAL,3
+Chuquisaca,10501,Monteagudo,2007,5,TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,5,TOTAL,14
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,5,TOTAL,3
+Tarija,60201,Padcaya,2007,5,TOTAL,2
+Chuquisaca,10401,Padilla,2007,5,TOTAL,7
+Chuquisaca,10103,Poroma,2007,5,TOTAL,24
+Santa Cruz,70103,Porongo,2007,5,TOTAL,2
+Pando,90102,Porvenir,2007,5,TOTAL,4
+Pando,90301,Puerto Gonzalo Moreno,2007,5,TOTAL,2
+Pando,90201,Puerto Rico,2007,5,TOTAL,6
+Beni,80301,Reyes,2007,5,TOTAL,2
+Beni,80201,Riberalta,2007,5,TOTAL,584
+Beni,80302,San Borja,2007,5,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2007,5,TOTAL,1
+Beni,80701,San Joaquin,2007,5,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2007,5,TOTAL,11
+Tarija,60501,San Lorenzo(tja),2007,5,TOTAL,3
+Pando,90202,San Pedro(pnd),2007,5,TOTAL,2
+Beni,80303,Santa Rosa,2007,5,TOTAL,1
+Pando,90303,Sena,2007,5,TOTAL,28
+Chuquisaca,10202,Tarvita,2007,5,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2007,5,TOTAL,1
+Cochabamba,31302,Vila Vila,2007,5,TOTAL,1
+Tarija,60303,Villa Montes,2007,5,TOTAL,19
+Pando,90502,Villa Nueva (loma Alta),2007,5,TOTAL,5
+Tarija,60301,Yacuiba,2007,5,TOTAL,55
+Cochabamba,30201,Aiquile,2007,6,TOTAL,1
+Beni,80802,Baures,2007,6,TOTAL,20
+Tarija,60202,Bermejo,2007,6,TOTAL,10
+Santa Cruz,70703,Cabezas,2007,6,TOTAL,1
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2007,6,TOTAL,1
+La Paz,22001,Caranavi,2007,6,TOTAL,1
+Tarija,60302,Carapari,2007,6,TOTAL,8
+Santa Cruz,70704,Cuevo,2007,6,TOTAL,1
+Santa Cruz,70105,El Torno,2007,6,TOTAL,6
+Tarija,60601,Entre Rios,2007,6,TOTAL,6
+Pando,90503,Eureka (santos Mercado),2007,6,TOTAL,24
+Pando,90203,Filadelfia,2007,6,TOTAL,2
+Beni,80202,Guayaramerin,2007,6,TOTAL,281
+La Paz,20607,Mapiri,2007,6,TOTAL,2
+Cochabamba,31301,Mizque,2007,6,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,6,TOTAL,1
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,6,TOTAL,3
+Tarija,60201,Padcaya,2007,6,TOTAL,6
+Chuquisaca,10401,Padilla,2007,6,TOTAL,6
+La Paz,21104,Palos Blancos,2007,6,TOTAL,1
+Chuquisaca,10103,Poroma,2007,6,TOTAL,3
+Santa Cruz,70103,Porongo,2007,6,TOTAL,2
+Pando,90102,Porvenir,2007,6,TOTAL,4
+Pando,90301,Puerto Gonzalo Moreno,2007,6,TOTAL,6
+Pando,90201,Puerto Rico,2007,6,TOTAL,5
+Beni,80201,Riberalta,2007,6,TOTAL,391
+Santa Cruz,70301,San Ignacio De Velasco,2007,6,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2007,6,TOTAL,8
+Tarija,60501,San Lorenzo(tja),2007,6,TOTAL,1
+Pando,90202,San Pedro(pnd),2007,6,TOTAL,1
+Beni,80303,Santa Rosa,2007,6,TOTAL,1
+Pando,90303,Sena,2007,6,TOTAL,28
+Potosí,50502,Toro Toro,2007,6,TOTAL,2
+Cochabamba,31302,Vila Vila,2007,6,TOTAL,1
+Tarija,60303,Villa Montes,2007,6,TOTAL,5
+Pando,90502,Villa Nueva (loma Alta),2007,6,TOTAL,3
+Cochabamba,31003,Villa Tunari,2007,6,TOTAL,4
+Tarija,60301,Yacuiba,2007,6,TOTAL,13
+Cochabamba,30201,Aiquile,2007,7,TOTAL,1
+Cochabamba,30402,Anzaldo,2007,7,TOTAL,1
+Chuquisaca,10201,Azurduy,2007,7,TOTAL,1
+Beni,80802,Baures,2007,7,TOTAL,21
+Pando,90104,Bella Flor,2007,7,TOTAL,3
+Tarija,60202,Bermejo,2007,7,TOTAL,7
+Santa Cruz,70703,Cabezas,2007,7,TOTAL,1
+Santa Cruz,70706,Camiri,2007,7,TOTAL,1
+La Paz,22001,Caranavi,2007,7,TOTAL,2
+Tarija,60302,Carapari,2007,7,TOTAL,3
+Pando,90101,Cobija,2007,7,TOTAL,14
+Santa Cruz,70105,El Torno,2007,7,TOTAL,5
+Tarija,60601,Entre Rios,2007,7,TOTAL,5
+Pando,90503,Eureka (santos Mercado),2007,7,TOTAL,26
+Pando,90203,Filadelfia,2007,7,TOTAL,6
+Beni,80202,Guayaramerin,2007,7,TOTAL,259
+La Paz,21501,Ixiamas,2007,7,TOTAL,1
+Chuquisaca,11003,Machareti,2007,7,TOTAL,1
+La Paz,20607,Mapiri,2007,7,TOTAL,1
+Cochabamba,31301,Mizque,2007,7,TOTAL,2
+Chuquisaca,10501,Monteagudo,2007,7,TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,7,TOTAL,2
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,7,TOTAL,4
+Tarija,60201,Padcaya,2007,7,TOTAL,2
+Chuquisaca,10401,Padilla,2007,7,TOTAL,1
+Cochabamba,31202,Pojo (cbba),2007,7,TOTAL,1
+Pando,90102,Porvenir,2007,7,TOTAL,7
+Pando,90301,Puerto Gonzalo Moreno,2007,7,TOTAL,5
+Pando,90201,Puerto Rico,2007,7,TOTAL,9
+Cochabamba,31401,Punata,2007,7,TOTAL,1
+Beni,80301,Reyes,2007,7,TOTAL,13
+Beni,80201,Riberalta,2007,7,TOTAL,425
+Beni,80302,San Borja,2007,7,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,7,TOTAL,4
+Pando,90302,San Lorenzo(pnd),2007,7,TOTAL,17
+Pando,90303,Sena,2007,7,TOTAL,28
+Chuquisaca,10101,Sucre,2007,7,TOTAL,2
+La Paz,20608,Teoponte,2007,7,TOTAL,2
+Cochabamba,31003,Villa Tunari,2007,7,TOTAL,5
+Tarija,60301,Yacuiba,2007,7,TOTAL,11
+Potosí,51302,Acacio,2007,8,TOTAL,1
+Beni,80802,Baures,2007,8,TOTAL,39
+Tarija,60202,Bermejo,2007,8,TOTAL,10
+Tarija,60302,Carapari,2007,8,TOTAL,7
+Pando,90101,Cobija,2007,8,TOTAL,7
+Santa Cruz,70105,El Torno,2007,8,TOTAL,8
+Tarija,60601,Entre Rios,2007,8,TOTAL,3
+Pando,90503,Eureka (santos Mercado),2007,8,TOTAL,12
+Pando,90203,Filadelfia,2007,8,TOTAL,1
+Beni,80202,Guayaramerin,2007,8,TOTAL,229
+Chuquisaca,10703,Incahuasi,2007,8,TOTAL,2
+La Paz,21501,Ixiamas,2007,8,TOTAL,1
+Santa Cruz,70104,La Guardia,2007,8,TOTAL,1
+Santa Cruz,70701,Lagunillas,2007,8,TOTAL,2
+Chuquisaca,11003,Machareti,2007,8,TOTAL,1
+La Paz,20607,Mapiri,2007,8,TOTAL,1
+Cochabamba,31301,Mizque,2007,8,TOTAL,1
+Chuquisaca,10303,Mojocoya,2007,8,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,8,TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,8,TOTAL,3
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,8,TOTAL,11
+Chuquisaca,10103,Poroma,2007,8,TOTAL,3
+Santa Cruz,70103,Porongo,2007,8,TOTAL,2
+Pando,90102,Porvenir,2007,8,TOTAL,6
+Pando,90301,Puerto Gonzalo Moreno,2007,8,TOTAL,7
+Pando,90201,Puerto Rico,2007,8,TOTAL,4
+Beni,80301,Reyes,2007,8,TOTAL,3
+Beni,80201,Riberalta,2007,8,TOTAL,474
+Beni,80304,Rurrenabaque,2007,8,TOTAL,4
+Beni,80302,San Borja,2007,8,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2007,8,TOTAL,6
+Santa Cruz,71104,San Julian,2007,8,TOTAL,2
+Pando,90302,San Lorenzo(pnd),2007,8,TOTAL,16
+Potosí,50501,San Pedro De Buena Vista,2007,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,8,TOTAL,1
+Pando,90303,Sena,2007,8,TOTAL,13
+Tarija,60303,Villa Montes,2007,8,TOTAL,7
+Pando,90502,Villa Nueva (loma Alta),2007,8,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,8,TOTAL,1
+Tarija,60301,Yacuiba,2007,8,TOTAL,11
+Potosí,51302,Acacio,2007,9,TOTAL,1
+La Paz,20701,Apolo,2007,9,TOTAL,1
+Beni,80802,Baures,2007,9,TOTAL,34
+Pando,90104,Bella Flor,2007,9,TOTAL,1
+Tarija,60202,Bermejo,2007,9,TOTAL,31
+La Paz,22001,Caranavi,2007,9,TOTAL,1
+Tarija,60302,Carapari,2007,9,TOTAL,1
+Pando,90101,Cobija,2007,9,TOTAL,9
+Santa Cruz,70105,El Torno,2007,9,TOTAL,3
+Pando,90503,Eureka (santos Mercado),2007,9,TOTAL,10
+Beni,80202,Guayaramerin,2007,9,TOTAL,129
+Chuquisaca,10502,Huacareta,2007,9,TOTAL,5
+Pando,90402,Ingavi (humaita),2007,9,TOTAL,1
+La Paz,21501,Ixiamas,2007,9,TOTAL,11
+La Paz,20607,Mapiri,2007,9,TOTAL,1
+Cochabamba,31301,Mizque,2007,9,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,9,TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,9,TOTAL,7
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,9,TOTAL,36
+Tarija,60201,Padcaya,2007,9,TOTAL,1
+Chuquisaca,10401,Padilla,2007,9,TOTAL,1
+La Paz,21104,Palos Blancos,2007,9,TOTAL,1
+Chuquisaca,10103,Poroma,2007,9,TOTAL,1
+Pando,90102,Porvenir,2007,9,TOTAL,4
+Pando,90301,Puerto Gonzalo Moreno,2007,9,TOTAL,2
+Pando,90201,Puerto Rico,2007,9,TOTAL,7
+Cochabamba,31401,Punata,2007,9,TOTAL,2
+Beni,80301,Reyes,2007,9,TOTAL,1
+Beni,80201,Riberalta,2007,9,TOTAL,452
+Beni,80304,Rurrenabaque,2007,9,TOTAL,1
+Beni,80302,San Borja,2007,9,TOTAL,8
+Santa Cruz,70402,San Carlos,2007,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2007,9,TOTAL,7
+Chuquisaca,10702,San Lucas,2007,9,TOTAL,1
+Santa Cruz,71005,San Pedro,2007,9,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2007,9,TOTAL,3
+Pando,90202,San Pedro(pnd),2007,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,9,TOTAL,1
+Pando,90303,Sena,2007,9,TOTAL,11
+Cochabamba,31302,Vila Vila,2007,9,TOTAL,1
+Tarija,60301,Yacuiba,2007,9,TOTAL,4
+Chuquisaca,10201,Azurduy,2007,10,TOTAL,3
+Beni,80802,Baures,2007,10,TOTAL,27
+Pando,90104,Bella Flor,2007,10,TOTAL,3
+Tarija,60202,Bermejo,2007,10,TOTAL,13
+Santa Cruz,70703,Cabezas,2007,10,TOTAL,2
+La Paz,22001,Caranavi,2007,10,TOTAL,1
+Pando,90101,Cobija,2007,10,TOTAL,23
+Cochabamba,31002,Colomi,2007,10,TOTAL,2
+Santa Cruz,70105,El Torno,2007,10,TOTAL,16
+Tarija,60601,Entre Rios,2007,10,TOTAL,2
+Pando,90503,Eureka (santos Mercado),2007,10,TOTAL,15
+Pando,90203,Filadelfia,2007,10,TOTAL,3
+Beni,80202,Guayaramerin,2007,10,TOTAL,184
+Chuquisaca,10502,Huacareta,2007,10,TOTAL,2
+Chuquisaca,10703,Incahuasi,2007,10,TOTAL,1
+Pando,90402,Ingavi (humaita),2007,10,TOTAL,5
+La Paz,21501,Ixiamas,2007,10,TOTAL,9
+Santa Cruz,70701,Lagunillas,2007,10,TOTAL,4
+Cochabamba,31301,Mizque,2007,10,TOTAL,1
+Chuquisaca,10501,Monteagudo,2007,10,TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,10,TOTAL,1
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,10,TOTAL,6
+Santa Cruz,70202,Okinawa,2007,10,TOTAL,2
+Tarija,60201,Padcaya,2007,10,TOTAL,4
+Chuquisaca,10401,Padilla,2007,10,TOTAL,1
+Chuquisaca,10103,Poroma,2007,10,TOTAL,1
+Pando,90102,Porvenir,2007,10,TOTAL,5
+Pando,90301,Puerto Gonzalo Moreno,2007,10,TOTAL,1
+Pando,90201,Puerto Rico,2007,10,TOTAL,9
+Beni,80703,Puerto Siles,2007,10,TOTAL,3
+Beni,80301,Reyes,2007,10,TOTAL,2
+Beni,80201,Riberalta,2007,10,TOTAL,521
+Santa Cruz,71302,Saipina,2007,10,TOTAL,1
+Beni,80302,San Borja,2007,10,TOTAL,4
+Santa Cruz,70301,San Ignacio De Velasco,2007,10,TOTAL,47
+Pando,90302,San Lorenzo(pnd),2007,10,TOTAL,5
+Tarija,60501,San Lorenzo(tja),2007,10,TOTAL,2
+Potosí,50501,San Pedro De Buena Vista,2007,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,10,TOTAL,1
+Beni,80303,Santa Rosa,2007,10,TOTAL,1
+Pando,90303,Sena,2007,10,TOTAL,17
+Chuquisaca,10601,Tarabuco,2007,10,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2007,10,TOTAL,1
+Cochabamba,31302,Vila Vila,2007,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,10,TOTAL,4
+Tarija,60301,Yacuiba,2007,10,TOTAL,8
+Potosí,51302,Acacio,2007,11,TOTAL,2
+Beni,80802,Baures,2007,11,TOTAL,18
+Tarija,60202,Bermejo,2007,11,TOTAL,9
+Santa Cruz,70401,Buena Vista,2007,11,TOTAL,8
+Santa Cruz,70703,Cabezas,2007,11,TOTAL,2
+La Paz,22001,Caranavi,2007,11,TOTAL,1
+Tarija,60302,Carapari,2007,11,TOTAL,9
+Pando,90101,Cobija,2007,11,TOTAL,19
+Santa Cruz,70105,El Torno,2007,11,TOTAL,40
+Tarija,60601,Entre Rios,2007,11,TOTAL,8
+Pando,90503,Eureka (santos Mercado),2007,11,TOTAL,5
+Pando,90203,Filadelfia,2007,11,TOTAL,8
+Beni,80202,Guayaramerin,2007,11,TOTAL,253
+Pando,90402,Ingavi (humaita),2007,11,TOTAL,3
+La Paz,21501,Ixiamas,2007,11,TOTAL,2
+La Paz,21105,La Asunta,2007,11,TOTAL,2
+Santa Cruz,70104,La Guardia,2007,11,TOTAL,2
+La Paz,20101,La Paz,2007,11,TOTAL,4
+Beni,80801,Magdalena,2007,11,TOTAL,1
+Santa Cruz,71003,Mineros,2007,11,TOTAL,1
+Cochabamba,31301,Mizque,2007,11,TOTAL,1
+Pando,90401,Nacebe (santa Rosa Del Abuna),2007,11,TOTAL,2
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,11,TOTAL,16
+Tarija,60201,Padcaya,2007,11,TOTAL,3
+La Paz,21104,Palos Blancos,2007,11,TOTAL,1
+Chuquisaca,10103,Poroma,2007,11,TOTAL,1
+Santa Cruz,70103,Porongo,2007,11,TOTAL,4
+Pando,90102,Porvenir,2007,11,TOTAL,4
+Pando,90301,Puerto Gonzalo Moreno,2007,11,TOTAL,2
+Pando,90201,Puerto Rico,2007,11,TOTAL,6
+Beni,80201,Riberalta,2007,11,TOTAL,389
+Beni,80304,Rurrenabaque,2007,11,TOTAL,1
+Beni,80302,San Borja,2007,11,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2007,11,TOTAL,10
+Pando,90302,San Lorenzo(pnd),2007,11,TOTAL,10
+Potosí,50501,San Pedro De Buena Vista,2007,11,TOTAL,21
+Beni,80303,Santa Rosa,2007,11,TOTAL,2
+Pando,90303,Sena,2007,11,TOTAL,2
+La Paz,20608,Teoponte,2007,11,TOTAL,4
+Pando,90502,Villa Nueva (loma Alta),2007,11,TOTAL,3
+Chuquisaca,10801,Villa Serrano,2007,11,TOTAL,2
+Cochabamba,31003,Villa Tunari,2007,11,TOTAL,10
+Tarija,60301,Yacuiba,2007,11,TOTAL,6
+Cochabamba,30301,Ayopaya (v. De Independencia),2007,12,TOTAL,1
+Chuquisaca,10201,Azurduy,2007,12,TOTAL,1
+Beni,80802,Baures,2007,12,TOTAL,5
+Tarija,60202,Bermejo,2007,12,TOTAL,48
+Santa Cruz,70401,Buena Vista,2007,12,TOTAL,27
+La Paz,22001,Caranavi,2007,12,TOTAL,5
+Tarija,60302,Carapari,2007,12,TOTAL,14
+Pando,90101,Cobija,2007,12,TOTAL,13
+Santa Cruz,70704,Cuevo,2007,12,TOTAL,1
+Santa Cruz,70105,El Torno,2007,12,TOTAL,49
+Tarija,60601,Entre Rios,2007,12,TOTAL,13
+Beni,80202,Guayaramerin,2007,12,TOTAL,182
+Santa Cruz,70104,La Guardia,2007,12,TOTAL,1
+La Paz,20101,La Paz,2007,12,TOTAL,2
+Pando,90501,Nuevo Manoa (nueva Esperanza),2007,12,TOTAL,5
+Tarija,60201,Padcaya,2007,12,TOTAL,5
+Chuquisaca,10401,Padilla,2007,12,TOTAL,2
+La Paz,21104,Palos Blancos,2007,12,TOTAL,4
+Chuquisaca,10103,Poroma,2007,12,TOTAL,1
+Santa Cruz,70103,Porongo,2007,12,TOTAL,3
+Pando,90102,Porvenir,2007,12,TOTAL,5
+Pando,90301,Puerto Gonzalo Moreno,2007,12,TOTAL,5
+Pando,90201,Puerto Rico,2007,12,TOTAL,5
+Beni,80201,Riberalta,2007,12,TOTAL,411
+Beni,80304,Rurrenabaque,2007,12,TOTAL,2
+Beni,80302,San Borja,2007,12,TOTAL,6
+Santa Cruz,70402,San Carlos,2007,12,TOTAL,18
+Beni,80701,San Joaquin,2007,12,TOTAL,1
+Pando,90302,San Lorenzo(pnd),2007,12,TOTAL,5
+Chuquisaca,10702,San Lucas,2007,12,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2007,12,TOTAL,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2007,12,TOTAL,1
+Pando,90303,Sena,2007,12,TOTAL,7
+La Paz,20608,Teoponte,2007,12,TOTAL,11
+Potosí,50502,Toro Toro,2007,12,TOTAL,7
+Santa Cruz,70801,Vallegrande,2007,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2007,12,TOTAL,22
+Tarija,60301,Yacuiba,2007,12,TOTAL,18

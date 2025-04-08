@@ -1,0 +1,929 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60202,Bermejo,2018,1,Nacidos muertos,1
+Santa Cruz,70703,Cabezas,2018,1,Nacidos muertos,1
+Santa Cruz,70706,Camiri,2018,1,Nacidos muertos,2
+Cochabamba,30701,Capinota,2018,1,Nacidos muertos,1
+Oruro,40102,Caracollo,2018,1,Nacidos muertos,1
+La Paz,22001,Caranavi,2018,1,Nacidos muertos,1
+Santa Cruz,71403,Carmen Rivero Torrez,2018,1,Nacidos muertos,1
+Oruro,40201,Challapata,2018,1,Nacidos muertos,1
+Santa Cruz,70702,Charagua,2018,1,Nacidos muertos,1
+Pando,90101,Cobija,2018,1,Nacidos muertos,3
+Cochabamba,30101,Cochabamba,2018,1,Nacidos muertos,23
+Santa Cruz,71301,Comarapa,2018,1,Nacidos muertos,1
+La Paz,21401,Coroico,2018,1,Nacidos muertos,1
+La Paz,20105,El Alto,2018,1,Nacidos muertos,24
+Cochabamba,31206,Entre Rios Cbba,2018,1,Nacidos muertos,1
+Beni,80202,Guayaramerin,2018,1,Nacidos muertos,3
+La Paz,20101,La Paz,2018,1,Nacidos muertos,15
+Potosí,50203,Llallagua,2018,1,Nacidos muertos,1
+Chuquisaca,11003,Machareti,2018,1,Nacidos muertos,1
+Beni,80801,Magdalena,2018,1,Nacidos muertos,1
+Chuquisaca,10501,Monteagudo,2018,1,Nacidos muertos,1
+Santa Cruz,71001,Montero,2018,1,Nacidos muertos,3
+Potosí,50404,Ocuri,2018,1,Nacidos muertos,1
+Oruro,40101,Oruro,2018,1,Nacidos muertos,10
+Santa Cruz,70502,Pailon,2018,1,Nacidos muertos,2
+La Paz,21104,Palos Blancos,2018,1,Nacidos muertos,1
+Potosí,50101,Potosi,2018,1,Nacidos muertos,3
+Santa Cruz,71401,Puerto Suarez,2018,1,Nacidos muertos,1
+Cochabamba,31205,Puerto Villarroel,2018,1,Nacidos muertos,1
+Beni,80201,Riberalta,2018,1,Nacidos muertos,3
+Beni,80304,Rurrenabaque,2018,1,Nacidos muertos,1
+Cochabamba,31001,Sacaba,2018,1,Nacidos muertos,3
+Santa Cruz,70301,San Ignacio De Velasco,2018,1,Nacidos muertos,1
+Santa Cruz,71104,San Julian,2018,1,Nacidos muertos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,1,Nacidos muertos,27
+Chuquisaca,10101,Sucre,2018,1,Nacidos muertos,2
+Chuquisaca,10601,Tarabuco,2018,1,Nacidos muertos,1
+Tarija,60101,Tarija,2018,1,Nacidos muertos,1
+Potosí,50102,Tinguipaya,2018,1,Nacidos muertos,1
+Beni,80101,Trinidad,2018,1,Nacidos muertos,2
+Potosí,50801,Tupiza,2018,1,Nacidos muertos,1
+Tarija,60303,Villa Montes,2018,1,Nacidos muertos,3
+Cochabamba,31003,Villa Tunari,2018,1,Nacidos muertos,1
+Santa Cruz,70201,Warnes,2018,1,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,1,Nacidos muertos,3
+La Paz,20201,Achacachi,2018,2,Nacidos muertos,2
+La Paz,20701,Apolo,2018,2,Nacidos muertos,1
+Santa Cruz,70706,Camiri,2018,2,Nacidos muertos,1
+Oruro,40201,Challapata,2018,2,Nacidos muertos,1
+Santa Cruz,70702,Charagua,2018,2,Nacidos muertos,2
+Pando,90101,Cobija,2018,2,Nacidos muertos,1
+Cochabamba,30101,Cochabamba,2018,2,Nacidos muertos,15
+La Paz,20105,El Alto,2018,2,Nacidos muertos,26
+La Paz,20101,La Paz,2018,2,Nacidos muertos,16
+Potosí,50203,Llallagua,2018,2,Nacidos muertos,2
+Chuquisaca,10501,Monteagudo,2018,2,Nacidos muertos,2
+Santa Cruz,71001,Montero,2018,2,Nacidos muertos,2
+Oruro,40101,Oruro,2018,2,Nacidos muertos,8
+Chuquisaca,10401,Padilla,2018,2,Nacidos muertos,1
+Potosí,50101,Potosi,2018,2,Nacidos muertos,5
+Santa Cruz,71401,Puerto Suarez,2018,2,Nacidos muertos,2
+Beni,80201,Riberalta,2018,2,Nacidos muertos,5
+Cochabamba,31001,Sacaba,2018,2,Nacidos muertos,2
+Santa Cruz,70301,San Ignacio De Velasco,2018,2,Nacidos muertos,1
+Santa Cruz,71102,San Javier(stc),2018,2,Nacidos muertos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,2,Nacidos muertos,37
+Chuquisaca,10101,Sucre,2018,2,Nacidos muertos,3
+Tarija,60101,Tarija,2018,2,Nacidos muertos,4
+Chuquisaca,10202,Tarvita,2018,2,Nacidos muertos,1
+Cochabamba,30903,Tiquipaya,2018,2,Nacidos muertos,1
+Cochabamba,31201,Totora(cbba),2018,2,Nacidos muertos,1
+Beni,80101,Trinidad,2018,2,Nacidos muertos,4
+La Paz,20801,Viacha,2018,2,Nacidos muertos,2
+Tarija,60303,Villa Montes,2018,2,Nacidos muertos,2
+Cochabamba,31003,Villa Tunari,2018,2,Nacidos muertos,3
+Santa Cruz,70201,Warnes,2018,2,Nacidos muertos,2
+Tarija,60301,Yacuiba,2018,2,Nacidos muertos,3
+Santa Cruz,70403,Yapacani,2018,2,Nacidos muertos,2
+Tarija,60202,Bermejo,2018,3,Nacidos muertos,3
+Chuquisaca,10701,Camargo,2018,3,Nacidos muertos,1
+Santa Cruz,70706,Camiri,2018,3,Nacidos muertos,1
+Oruro,40102,Caracollo,2018,3,Nacidos muertos,1
+La Paz,22001,Caranavi,2018,3,Nacidos muertos,1
+Oruro,40201,Challapata,2018,3,Nacidos muertos,4
+La Paz,21101,Chulumani (v. De La Libertad),2018,3,Nacidos muertos,3
+Cochabamba,30801,Cliza,2018,3,Nacidos muertos,1
+Pando,90101,Cobija,2018,3,Nacidos muertos,1
+Cochabamba,30101,Cochabamba,2018,3,Nacidos muertos,27
+La Paz,20105,El Alto,2018,3,Nacidos muertos,20
+Beni,80202,Guayaramerin,2018,3,Nacidos muertos,1
+Chuquisaca,10304,Icla,2018,3,Nacidos muertos,1
+La Paz,20101,La Paz,2018,3,Nacidos muertos,18
+Santa Cruz,71001,Montero,2018,3,Nacidos muertos,5
+Oruro,40101,Oruro,2018,3,Nacidos muertos,6
+La Paz,21104,Palos Blancos,2018,3,Nacidos muertos,1
+La Paz,21305,Patacamaya,2018,3,Nacidos muertos,1
+Potosí,50101,Potosi,2018,3,Nacidos muertos,15
+Cochabamba,31205,Puerto Villarroel,2018,3,Nacidos muertos,2
+Beni,80201,Riberalta,2018,3,Nacidos muertos,6
+Potosí,50701,Sacaca,2018,3,Nacidos muertos,1
+Santa Cruz,70901,Samaipata,2018,3,Nacidos muertos,1
+Beni,80302,San Borja,2018,3,Nacidos muertos,2
+La Paz,21502,San Buena Ventura,2018,3,Nacidos muertos,1
+Beni,80501,San Ignacio,2018,3,Nacidos muertos,1
+Santa Cruz,71102,San Javier(stc),2018,3,Nacidos muertos,1
+Santa Cruz,71104,San Julian,2018,3,Nacidos muertos,1
+Chuquisaca,10702,San Lucas,2018,3,Nacidos muertos,1
+Beni,80401,Santa Ana,2018,3,Nacidos muertos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,3,Nacidos muertos,33
+Chuquisaca,10101,Sucre,2018,3,Nacidos muertos,11
+Cochabamba,30903,Tiquipaya,2018,3,Nacidos muertos,1
+Potosí,51202,Tomave,2018,3,Nacidos muertos,1
+Beni,80101,Trinidad,2018,3,Nacidos muertos,3
+Potosí,51201,Uyuni,2018,3,Nacidos muertos,1
+Santa Cruz,70801,Vallegrande,2018,3,Nacidos muertos,2
+Tarija,60303,Villa Montes,2018,3,Nacidos muertos,1
+Cochabamba,31003,Villa Tunari,2018,3,Nacidos muertos,1
+Potosí,51501,Villazon,2018,3,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,3,Nacidos muertos,1
+La Paz,20201,Achacachi,2018,4,Nacidos muertos,1
+Santa Cruz,71501,Ascencion De Guarayos,2018,4,Nacidos muertos,1
+Potosí,50301,Betanzos,2018,4,Nacidos muertos,1
+Santa Cruz,70706,Camiri,2018,4,Nacidos muertos,3
+La Paz,22001,Caranavi,2018,4,Nacidos muertos,4
+Oruro,40201,Challapata,2018,4,Nacidos muertos,1
+Cochabamba,30101,Cochabamba,2018,4,Nacidos muertos,18
+La Paz,20105,El Alto,2018,4,Nacidos muertos,19
+Beni,80202,Guayaramerin,2018,4,Nacidos muertos,2
+La Paz,20101,La Paz,2018,4,Nacidos muertos,19
+Chuquisaca,10501,Monteagudo,2018,4,Nacidos muertos,2
+Santa Cruz,71001,Montero,2018,4,Nacidos muertos,1
+Oruro,40101,Oruro,2018,4,Nacidos muertos,10
+Potosí,50101,Potosi,2018,4,Nacidos muertos,9
+Cochabamba,31205,Puerto Villarroel,2018,4,Nacidos muertos,5
+Cochabamba,30901,Quillacollo,2018,4,Nacidos muertos,1
+La Paz,21002,Quime,2018,4,Nacidos muertos,1
+Potosí,50402,Ravelo,2018,4,Nacidos muertos,1
+Beni,80301,Reyes,2018,4,Nacidos muertos,2
+Beni,80201,Riberalta,2018,4,Nacidos muertos,3
+Beni,80304,Rurrenabaque,2018,4,Nacidos muertos,1
+Oruro,40901,Sabaya,2018,4,Nacidos muertos,1
+Cochabamba,31001,Sacaba,2018,4,Nacidos muertos,2
+Beni,80602,San Andres,2018,4,Nacidos muertos,1
+Beni,80302,San Borja,2018,4,Nacidos muertos,3
+Santa Cruz,70301,San Ignacio De Velasco,2018,4,Nacidos muertos,2
+Santa Cruz,71102,San Javier(stc),2018,4,Nacidos muertos,3
+Santa Cruz,70501,San Jose De Chiquitos,2018,4,Nacidos muertos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,4,Nacidos muertos,38
+Beni,80303,Santa Rosa,2018,4,Nacidos muertos,1
+Cochabamba,31602,Shinaota,2018,4,Nacidos muertos,1
+Chuquisaca,10101,Sucre,2018,4,Nacidos muertos,4
+Cochabamba,30903,Tiquipaya,2018,4,Nacidos muertos,2
+Beni,80101,Trinidad,2018,4,Nacidos muertos,3
+Potosí,51201,Uyuni,2018,4,Nacidos muertos,1
+Tarija,60303,Villa Montes,2018,4,Nacidos muertos,1
+Cochabamba,31003,Villa Tunari,2018,4,Nacidos muertos,2
+Santa Cruz,70201,Warnes,2018,4,Nacidos muertos,2
+Tarija,60301,Yacuiba,2018,4,Nacidos muertos,1
+La Paz,20202,Ancoraimes,2018,5,Nacidos muertos,1
+La Paz,20701,Apolo,2018,5,Nacidos muertos,1
+Tarija,60202,Bermejo,2018,5,Nacidos muertos,1
+Santa Cruz,70706,Camiri,2018,5,Nacidos muertos,1
+Oruro,40102,Caracollo,2018,5,Nacidos muertos,1
+La Paz,22001,Caranavi,2018,5,Nacidos muertos,1
+Oruro,40201,Challapata,2018,5,Nacidos muertos,1
+Pando,90101,Cobija,2018,5,Nacidos muertos,1
+Cochabamba,30101,Cochabamba,2018,5,Nacidos muertos,15
+Potosí,50401,Colquechaca,2018,5,Nacidos muertos,1
+La Paz,21402,Coripata,2018,5,Nacidos muertos,1
+Chuquisaca,10902,Culpina,2018,5,Nacidos muertos,1
+La Paz,20105,El Alto,2018,5,Nacidos muertos,20
+Beni,80202,Guayaramerin,2018,5,Nacidos muertos,1
+Oruro,40701,Huanuni,2018,5,Nacidos muertos,1
+La Paz,21105,La Asunta,2018,5,Nacidos muertos,1
+La Paz,20101,La Paz,2018,5,Nacidos muertos,19
+Potosí,50203,Llallagua,2018,5,Nacidos muertos,1
+Santa Cruz,70903,Mairana,2018,5,Nacidos muertos,14
+Chuquisaca,10303,Mojocoya,2018,5,Nacidos muertos,1
+Chuquisaca,10501,Monteagudo,2018,5,Nacidos muertos,1
+Santa Cruz,71001,Montero,2018,5,Nacidos muertos,2
+Oruro,40101,Oruro,2018,5,Nacidos muertos,6
+Potosí,50101,Potosi,2018,5,Nacidos muertos,14
+Beni,80201,Riberalta,2018,5,Nacidos muertos,5
+Beni,80304,Rurrenabaque,2018,5,Nacidos muertos,3
+Cochabamba,31001,Sacaba,2018,5,Nacidos muertos,2
+Beni,80302,San Borja,2018,5,Nacidos muertos,1
+Beni,80501,San Ignacio,2018,5,Nacidos muertos,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,5,Nacidos muertos,1
+Santa Cruz,71102,San Javier(stc),2018,5,Nacidos muertos,2
+Santa Cruz,70501,San Jose De Chiquitos,2018,5,Nacidos muertos,1
+Santa Cruz,71201,San Matias,2018,5,Nacidos muertos,2
+Beni,80401,Santa Ana,2018,5,Nacidos muertos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,5,Nacidos muertos,33
+Pando,90303,Sena,2018,5,Nacidos muertos,1
+Chuquisaca,10101,Sucre,2018,5,Nacidos muertos,5
+Tarija,60101,Tarija,2018,5,Nacidos muertos,5
+Beni,80101,Trinidad,2018,5,Nacidos muertos,4
+Potosí,50201,Uncia,2018,5,Nacidos muertos,1
+La Paz,20801,Viacha,2018,5,Nacidos muertos,1
+Tarija,60303,Villa Montes,2018,5,Nacidos muertos,2
+Cochabamba,31003,Villa Tunari,2018,5,Nacidos muertos,4
+Potosí,51501,Villazon,2018,5,Nacidos muertos,1
+Santa Cruz,70201,Warnes,2018,5,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,5,Nacidos muertos,3
+Santa Cruz,70403,Yapacani,2018,5,Nacidos muertos,2
+La Paz,20201,Achacachi,2018,6,Nacidos muertos,1
+Tarija,60202,Bermejo,2018,6,Nacidos muertos,1
+Chuquisaca,10701,Camargo,2018,6,Nacidos muertos,1
+La Paz,22001,Caranavi,2018,6,Nacidos muertos,2
+Cochabamba,30801,Cliza,2018,6,Nacidos muertos,1
+Cochabamba,30101,Cochabamba,2018,6,Nacidos muertos,20
+Potosí,50401,Colquechaca,2018,6,Nacidos muertos,1
+La Paz,20105,El Alto,2018,6,Nacidos muertos,22
+Santa Cruz,70105,El Torno,2018,6,Nacidos muertos,1
+La Paz,20101,La Paz,2018,6,Nacidos muertos,36
+Potosí,50203,Llallagua,2018,6,Nacidos muertos,3
+Chuquisaca,10501,Monteagudo,2018,6,Nacidos muertos,1
+Santa Cruz,71001,Montero,2018,6,Nacidos muertos,2
+Oruro,40101,Oruro,2018,6,Nacidos muertos,8
+Santa Cruz,70502,Pailon,2018,6,Nacidos muertos,1
+Chuquisaca,10103,Poroma,2018,6,Nacidos muertos,1
+Potosí,50101,Potosi,2018,6,Nacidos muertos,5
+Cochabamba,31205,Puerto Villarroel,2018,6,Nacidos muertos,4
+Beni,80301,Reyes,2018,6,Nacidos muertos,1
+Beni,80201,Riberalta,2018,6,Nacidos muertos,6
+Cochabamba,31001,Sacaba,2018,6,Nacidos muertos,2
+Santa Cruz,71102,San Javier(stc),2018,6,Nacidos muertos,1
+Santa Cruz,71103,San Ramon Scz,2018,6,Nacidos muertos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,6,Nacidos muertos,33
+Chuquisaca,10101,Sucre,2018,6,Nacidos muertos,3
+Tarija,60101,Tarija,2018,6,Nacidos muertos,6
+Chuquisaca,10202,Tarvita,2018,6,Nacidos muertos,1
+Potosí,50102,Tinguipaya,2018,6,Nacidos muertos,1
+Cochabamba,30903,Tiquipaya,2018,6,Nacidos muertos,1
+Potosí,50201,Uncia,2018,6,Nacidos muertos,1
+Santa Cruz,70801,Vallegrande,2018,6,Nacidos muertos,1
+Tarija,60303,Villa Montes,2018,6,Nacidos muertos,1
+Cochabamba,31003,Villa Tunari,2018,6,Nacidos muertos,2
+Potosí,51501,Villazon,2018,6,Nacidos muertos,1
+Santa Cruz,70201,Warnes,2018,6,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,6,Nacidos muertos,2
+Chuquisaca,10201,Azurduy,2018,7,Nacidos muertos,1
+Tarija,60202,Bermejo,2018,7,Nacidos muertos,1
+Chuquisaca,10701,Camargo,2018,7,Nacidos muertos,1
+Santa Cruz,70706,Camiri,2018,7,Nacidos muertos,2
+Oruro,40201,Challapata,2018,7,Nacidos muertos,1
+Santa Cruz,70702,Charagua,2018,7,Nacidos muertos,1
+Cochabamba,30101,Cochabamba,2018,7,Nacidos muertos,18
+Potosí,50901,"Colcha ""k""",2018,7,Nacidos muertos,1
+Potosí,50401,Colquechaca,2018,7,Nacidos muertos,1
+La Paz,20105,El Alto,2018,7,Nacidos muertos,22
+Beni,80202,Guayaramerin,2018,7,Nacidos muertos,1
+Oruro,40701,Huanuni,2018,7,Nacidos muertos,1
+La Paz,21105,La Asunta,2018,7,Nacidos muertos,1
+La Paz,20101,La Paz,2018,7,Nacidos muertos,12
+La Paz,21202,Laja,2018,7,Nacidos muertos,1
+Potosí,50203,Llallagua,2018,7,Nacidos muertos,3
+Santa Cruz,71001,Montero,2018,7,Nacidos muertos,1
+Oruro,40101,Oruro,2018,7,Nacidos muertos,3
+La Paz,21305,Patacamaya,2018,7,Nacidos muertos,2
+Potosí,50101,Potosi,2018,7,Nacidos muertos,4
+Cochabamba,31205,Puerto Villarroel,2018,7,Nacidos muertos,2
+Potosí,50402,Ravelo,2018,7,Nacidos muertos,1
+Beni,80201,Riberalta,2018,7,Nacidos muertos,3
+Cochabamba,31001,Sacaba,2018,7,Nacidos muertos,1
+Santa Cruz,70901,Samaipata,2018,7,Nacidos muertos,1
+Beni,80302,San Borja,2018,7,Nacidos muertos,1
+La Paz,21502,San Buena Ventura,2018,7,Nacidos muertos,2
+Beni,80501,San Ignacio,2018,7,Nacidos muertos,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,7,Nacidos muertos,2
+Chuquisaca,10702,San Lucas,2018,7,Nacidos muertos,1
+Santa Cruz,71201,San Matias,2018,7,Nacidos muertos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,7,Nacidos muertos,27
+La Paz,20601,Sorata,2018,7,Nacidos muertos,1
+Chuquisaca,10101,Sucre,2018,7,Nacidos muertos,4
+Tarija,60101,Tarija,2018,7,Nacidos muertos,5
+Chuquisaca,10202,Tarvita,2018,7,Nacidos muertos,1
+Cochabamba,30903,Tiquipaya,2018,7,Nacidos muertos,1
+Beni,80101,Trinidad,2018,7,Nacidos muertos,3
+Potosí,51201,Uyuni,2018,7,Nacidos muertos,1
+Tarija,60303,Villa Montes,2018,7,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,7,Nacidos muertos,3
+Santa Cruz,70403,Yapacani,2018,7,Nacidos muertos,1
+La Paz,20201,Achacachi,2018,8,Nacidos muertos,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,8,Nacidos muertos,1
+Santa Cruz,70706,Camiri,2018,8,Nacidos muertos,1
+Cochabamba,30701,Capinota,2018,8,Nacidos muertos,1
+La Paz,22001,Caranavi,2018,8,Nacidos muertos,3
+La Paz,21101,Chulumani (v. De La Libertad),2018,8,Nacidos muertos,2
+Cochabamba,30801,Cliza,2018,8,Nacidos muertos,1
+Pando,90101,Cobija,2018,8,Nacidos muertos,1
+Cochabamba,30101,Cochabamba,2018,8,Nacidos muertos,20
+La Paz,21401,Coroico,2018,8,Nacidos muertos,1
+Santa Cruz,70102,Cotoca,2018,8,Nacidos muertos,2
+Chuquisaca,10902,Culpina,2018,8,Nacidos muertos,1
+La Paz,20105,El Alto,2018,8,Nacidos muertos,28
+Santa Cruz,70105,El Torno,2018,8,Nacidos muertos,1
+Cochabamba,31206,Entre Rios Cbba,2018,8,Nacidos muertos,1
+Beni,80202,Guayaramerin,2018,8,Nacidos muertos,1
+Chuquisaca,10703,Incahuasi,2018,8,Nacidos muertos,1
+La Paz,20101,La Paz,2018,8,Nacidos muertos,20
+Potosí,50203,Llallagua,2018,8,Nacidos muertos,2
+Beni,80801,Magdalena,2018,8,Nacidos muertos,1
+Santa Cruz,70903,Mairana,2018,8,Nacidos muertos,1
+Santa Cruz,71001,Montero,2018,8,Nacidos muertos,2
+Potosí,50404,Ocuri,2018,8,Nacidos muertos,1
+Oruro,40101,Oruro,2018,8,Nacidos muertos,5
+La Paz,21305,Patacamaya,2018,8,Nacidos muertos,1
+Potosí,50101,Potosi,2018,8,Nacidos muertos,8
+Pando,90301,Puerto Gonzalo Moreno,2018,8,Nacidos muertos,1
+Cochabamba,31205,Puerto Villarroel,2018,8,Nacidos muertos,1
+Beni,80201,Riberalta,2018,8,Nacidos muertos,8
+Cochabamba,31001,Sacaba,2018,8,Nacidos muertos,5
+La Paz,21502,San Buena Ventura,2018,8,Nacidos muertos,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,8,Nacidos muertos,1
+Chuquisaca,10702,San Lucas,2018,8,Nacidos muertos,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,8,Nacidos muertos,27
+Chuquisaca,10101,Sucre,2018,8,Nacidos muertos,5
+Tarija,60101,Tarija,2018,8,Nacidos muertos,3
+Cochabamba,30903,Tiquipaya,2018,8,Nacidos muertos,1
+Beni,80101,Trinidad,2018,8,Nacidos muertos,2
+Potosí,51201,Uyuni,2018,8,Nacidos muertos,1
+Cochabamba,31003,Villa Tunari,2018,8,Nacidos muertos,1
+Santa Cruz,70201,Warnes,2018,8,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,8,Nacidos muertos,2
+Santa Cruz,70403,Yapacani,2018,8,Nacidos muertos,2
+La Paz,20201,Achacachi,2018,9,Nacidos muertos,1
+Santa Cruz,71501,Ascencion De Guarayos,2018,9,Nacidos muertos,1
+Chuquisaca,10701,Camargo,2018,9,Nacidos muertos,1
+Santa Cruz,70706,Camiri,2018,9,Nacidos muertos,1
+Cochabamba,30801,Cliza,2018,9,Nacidos muertos,1
+Cochabamba,30101,Cochabamba,2018,9,Nacidos muertos,13
+La Paz,21004,Colquiri,2018,9,Nacidos muertos,1
+Santa Cruz,71101,Concepcion,2018,9,Nacidos muertos,1
+La Paz,20105,El Alto,2018,9,Nacidos muertos,21
+Chuquisaca,10703,Incahuasi,2018,9,Nacidos muertos,1
+La Paz,21501,Ixiamas,2018,9,Nacidos muertos,1
+La Paz,20101,La Paz,2018,9,Nacidos muertos,20
+Potosí,50203,Llallagua,2018,9,Nacidos muertos,2
+Chuquisaca,10501,Monteagudo,2018,9,Nacidos muertos,1
+Santa Cruz,71001,Montero,2018,9,Nacidos muertos,6
+Oruro,40101,Oruro,2018,9,Nacidos muertos,6
+Potosí,50101,Potosi,2018,9,Nacidos muertos,9
+Cochabamba,31205,Puerto Villarroel,2018,9,Nacidos muertos,7
+Beni,80201,Riberalta,2018,9,Nacidos muertos,3
+Beni,80302,San Borja,2018,9,Nacidos muertos,2
+Santa Cruz,70402,San Carlos,2018,9,Nacidos muertos,2
+Santa Cruz,70301,San Ignacio De Velasco,2018,9,Nacidos muertos,1
+Santa Cruz,71104,San Julian,2018,9,Nacidos muertos,1
+Santa Cruz,71201,San Matias,2018,9,Nacidos muertos,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,9,Nacidos muertos,19
+Chuquisaca,10101,Sucre,2018,9,Nacidos muertos,4
+Chuquisaca,10601,Tarabuco,2018,9,Nacidos muertos,1
+Tarija,60101,Tarija,2018,9,Nacidos muertos,5
+Beni,80101,Trinidad,2018,9,Nacidos muertos,4
+Chuquisaca,10704,Villa Charcas,2018,9,Nacidos muertos,1
+Tarija,60303,Villa Montes,2018,9,Nacidos muertos,2
+Cochabamba,31003,Villa Tunari,2018,9,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,9,Nacidos muertos,4
+La Paz,20201,Achacachi,2018,10,Nacidos muertos,1
+Cochabamba,30201,Aiquile,2018,10,Nacidos muertos,2
+Santa Cruz,70706,Camiri,2018,10,Nacidos muertos,1
+La Paz,22001,Caranavi,2018,10,Nacidos muertos,3
+Cochabamba,30101,Cochabamba,2018,10,Nacidos muertos,13
+Santa Cruz,70603,Colpa Belgica,2018,10,Nacidos muertos,1
+La Paz,21402,Coripata,2018,10,Nacidos muertos,1
+La Paz,20105,El Alto,2018,10,Nacidos muertos,28
+Santa Cruz,70105,El Torno,2018,10,Nacidos muertos,1
+Beni,80202,Guayaramerin,2018,10,Nacidos muertos,2
+La Paz,20101,La Paz,2018,10,Nacidos muertos,22
+Potosí,50203,Llallagua,2018,10,Nacidos muertos,3
+Chuquisaca,10501,Monteagudo,2018,10,Nacidos muertos,1
+Santa Cruz,71001,Montero,2018,10,Nacidos muertos,8
+Oruro,40101,Oruro,2018,10,Nacidos muertos,7
+Potosí,50101,Potosi,2018,10,Nacidos muertos,6
+Cochabamba,31205,Puerto Villarroel,2018,10,Nacidos muertos,2
+Beni,80201,Riberalta,2018,10,Nacidos muertos,4
+Cochabamba,31001,Sacaba,2018,10,Nacidos muertos,1
+Santa Cruz,71105,San Antonio De Lomerio,2018,10,Nacidos muertos,1
+Santa Cruz,70402,San Carlos,2018,10,Nacidos muertos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,10,Nacidos muertos,30
+Chuquisaca,10101,Sucre,2018,10,Nacidos muertos,4
+Chuquisaca,10601,Tarabuco,2018,10,Nacidos muertos,2
+Cochabamba,30903,Tiquipaya,2018,10,Nacidos muertos,1
+Cochabamba,31201,Totora(cbba),2018,10,Nacidos muertos,1
+Beni,80101,Trinidad,2018,10,Nacidos muertos,2
+Potosí,50801,Tupiza,2018,10,Nacidos muertos,1
+Santa Cruz,70801,Vallegrande,2018,10,Nacidos muertos,1
+Chuquisaca,10704,Villa Charcas,2018,10,Nacidos muertos,1
+Tarija,60303,Villa Montes,2018,10,Nacidos muertos,1
+Potosí,51501,Villazon,2018,10,Nacidos muertos,1
+Santa Cruz,70201,Warnes,2018,10,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,10,Nacidos muertos,1
+Santa Cruz,70403,Yapacani,2018,10,Nacidos muertos,3
+Cochabamba,30201,Aiquile,2018,11,Nacidos muertos,1
+La Paz,20701,Apolo,2018,11,Nacidos muertos,1
+Tarija,60202,Bermejo,2018,11,Nacidos muertos,2
+Santa Cruz,70706,Camiri,2018,11,Nacidos muertos,1
+Oruro,40201,Challapata,2018,11,Nacidos muertos,1
+Cochabamba,30101,Cochabamba,2018,11,Nacidos muertos,10
+La Paz,20105,El Alto,2018,11,Nacidos muertos,19
+Beni,80202,Guayaramerin,2018,11,Nacidos muertos,1
+La Paz,20101,La Paz,2018,11,Nacidos muertos,8
+Chuquisaca,10501,Monteagudo,2018,11,Nacidos muertos,1
+Oruro,40101,Oruro,2018,11,Nacidos muertos,6
+Potosí,50101,Potosi,2018,11,Nacidos muertos,4
+Cochabamba,31205,Puerto Villarroel,2018,11,Nacidos muertos,1
+Beni,80201,Riberalta,2018,11,Nacidos muertos,5
+Cochabamba,31001,Sacaba,2018,11,Nacidos muertos,1
+Santa Cruz,71105,San Antonio De Lomerio,2018,11,Nacidos muertos,1
+Beni,80302,San Borja,2018,11,Nacidos muertos,1
+Chuquisaca,10702,San Lucas,2018,11,Nacidos muertos,3
+Santa Cruz,71103,San Ramon Scz,2018,11,Nacidos muertos,1
+Beni,80401,Santa Ana,2018,11,Nacidos muertos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,11,Nacidos muertos,40
+Beni,80303,Santa Rosa,2018,11,Nacidos muertos,2
+Cochabamba,31602,Shinaota,2018,11,Nacidos muertos,1
+Chuquisaca,10101,Sucre,2018,11,Nacidos muertos,8
+Cochabamba,31101,Tapacari,2018,11,Nacidos muertos,1
+Tarija,60101,Tarija,2018,11,Nacidos muertos,6
+Chuquisaca,10202,Tarvita,2018,11,Nacidos muertos,1
+Potosí,50502,Toro Toro,2018,11,Nacidos muertos,1
+Beni,80101,Trinidad,2018,11,Nacidos muertos,1
+Potosí,50801,Tupiza,2018,11,Nacidos muertos,1
+Chuquisaca,10704,Villa Charcas,2018,11,Nacidos muertos,1
+Tarija,60303,Villa Montes,2018,11,Nacidos muertos,1
+Cochabamba,31003,Villa Tunari,2018,11,Nacidos muertos,3
+Cochabamba,30904,Vinto,2018,11,Nacidos muertos,1
+Potosí,50602,Vitichi,2018,11,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,11,Nacidos muertos,3
+Santa Cruz,70403,Yapacani,2018,11,Nacidos muertos,4
+Tarija,60202,Bermejo,2018,12,Nacidos muertos,1
+Santa Cruz,70706,Camiri,2018,12,Nacidos muertos,1
+La Paz,22001,Caranavi,2018,12,Nacidos muertos,1
+Santa Cruz,70702,Charagua,2018,12,Nacidos muertos,1
+Pando,90101,Cobija,2018,12,Nacidos muertos,7
+Cochabamba,30101,Cochabamba,2018,12,Nacidos muertos,14
+La Paz,20105,El Alto,2018,12,Nacidos muertos,12
+La Paz,20101,La Paz,2018,12,Nacidos muertos,27
+Potosí,50203,Llallagua,2018,12,Nacidos muertos,3
+Santa Cruz,71001,Montero,2018,12,Nacidos muertos,3
+Oruro,40101,Oruro,2018,12,Nacidos muertos,7
+Potosí,50403,Pocoata,2018,12,Nacidos muertos,1
+Potosí,50101,Potosi,2018,12,Nacidos muertos,8
+Santa Cruz,71401,Puerto Suarez,2018,12,Nacidos muertos,2
+Cochabamba,31205,Puerto Villarroel,2018,12,Nacidos muertos,3
+Beni,80201,Riberalta,2018,12,Nacidos muertos,4
+Beni,80304,Rurrenabaque,2018,12,Nacidos muertos,1
+Cochabamba,31001,Sacaba,2018,12,Nacidos muertos,1
+Beni,80302,San Borja,2018,12,Nacidos muertos,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,12,Nacidos muertos,1
+Santa Cruz,71104,San Julian,2018,12,Nacidos muertos,1
+Santa Cruz,71201,San Matias,2018,12,Nacidos muertos,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,12,Nacidos muertos,36
+Chuquisaca,10101,Sucre,2018,12,Nacidos muertos,7
+Tarija,60101,Tarija,2018,12,Nacidos muertos,3
+Potosí,51201,Uyuni,2018,12,Nacidos muertos,1
+Santa Cruz,70801,Vallegrande,2018,12,Nacidos muertos,1
+Tarija,60303,Villa Montes,2018,12,Nacidos muertos,2
+Cochabamba,30904,Vinto,2018,12,Nacidos muertos,2
+Potosí,50602,Vitichi,2018,12,Nacidos muertos,1
+Santa Cruz,70201,Warnes,2018,12,Nacidos muertos,1
+Tarija,60301,Yacuiba,2018,12,Nacidos muertos,2
+Santa Cruz,70403,Yapacani,2018,12,Nacidos muertos,3
+Tarija,60202,Bermejo,2018,1,TOTAL,1
+Santa Cruz,70703,Cabezas,2018,1,TOTAL,1
+Santa Cruz,70706,Camiri,2018,1,TOTAL,2
+Cochabamba,30701,Capinota,2018,1,TOTAL,1
+Oruro,40102,Caracollo,2018,1,TOTAL,1
+La Paz,22001,Caranavi,2018,1,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2018,1,TOTAL,1
+Oruro,40201,Challapata,2018,1,TOTAL,1
+Santa Cruz,70702,Charagua,2018,1,TOTAL,1
+Pando,90101,Cobija,2018,1,TOTAL,3
+Cochabamba,30101,Cochabamba,2018,1,TOTAL,23
+Santa Cruz,71301,Comarapa,2018,1,TOTAL,1
+La Paz,21401,Coroico,2018,1,TOTAL,1
+La Paz,20105,El Alto,2018,1,TOTAL,24
+Cochabamba,31206,Entre Rios Cbba,2018,1,TOTAL,1
+Beni,80202,Guayaramerin,2018,1,TOTAL,3
+La Paz,20101,La Paz,2018,1,TOTAL,15
+Potosí,50203,Llallagua,2018,1,TOTAL,1
+Chuquisaca,11003,Machareti,2018,1,TOTAL,1
+Beni,80801,Magdalena,2018,1,TOTAL,1
+Chuquisaca,10501,Monteagudo,2018,1,TOTAL,1
+Santa Cruz,71001,Montero,2018,1,TOTAL,3
+Potosí,50404,Ocuri,2018,1,TOTAL,1
+Oruro,40101,Oruro,2018,1,TOTAL,10
+Santa Cruz,70502,Pailon,2018,1,TOTAL,2
+La Paz,21104,Palos Blancos,2018,1,TOTAL,1
+Potosí,50101,Potosi,2018,1,TOTAL,3
+Santa Cruz,71401,Puerto Suarez,2018,1,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2018,1,TOTAL,1
+Beni,80201,Riberalta,2018,1,TOTAL,3
+Beni,80304,Rurrenabaque,2018,1,TOTAL,1
+Cochabamba,31001,Sacaba,2018,1,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2018,1,TOTAL,1
+Santa Cruz,71104,San Julian,2018,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,1,TOTAL,27
+Chuquisaca,10101,Sucre,2018,1,TOTAL,2
+Chuquisaca,10601,Tarabuco,2018,1,TOTAL,1
+Tarija,60101,Tarija,2018,1,TOTAL,1
+Potosí,50102,Tinguipaya,2018,1,TOTAL,1
+Beni,80101,Trinidad,2018,1,TOTAL,2
+Potosí,50801,Tupiza,2018,1,TOTAL,1
+Tarija,60303,Villa Montes,2018,1,TOTAL,3
+Cochabamba,31003,Villa Tunari,2018,1,TOTAL,1
+Santa Cruz,70201,Warnes,2018,1,TOTAL,1
+Tarija,60301,Yacuiba,2018,1,TOTAL,3
+La Paz,20201,Achacachi,2018,2,TOTAL,2
+La Paz,20701,Apolo,2018,2,TOTAL,1
+Santa Cruz,70706,Camiri,2018,2,TOTAL,1
+Oruro,40201,Challapata,2018,2,TOTAL,1
+Santa Cruz,70702,Charagua,2018,2,TOTAL,2
+Pando,90101,Cobija,2018,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2018,2,TOTAL,15
+La Paz,20105,El Alto,2018,2,TOTAL,26
+La Paz,20101,La Paz,2018,2,TOTAL,16
+Potosí,50203,Llallagua,2018,2,TOTAL,2
+Chuquisaca,10501,Monteagudo,2018,2,TOTAL,2
+Santa Cruz,71001,Montero,2018,2,TOTAL,2
+Oruro,40101,Oruro,2018,2,TOTAL,8
+Chuquisaca,10401,Padilla,2018,2,TOTAL,1
+Potosí,50101,Potosi,2018,2,TOTAL,5
+Santa Cruz,71401,Puerto Suarez,2018,2,TOTAL,2
+Beni,80201,Riberalta,2018,2,TOTAL,5
+Cochabamba,31001,Sacaba,2018,2,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2018,2,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2018,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,2,TOTAL,37
+Chuquisaca,10101,Sucre,2018,2,TOTAL,3
+Tarija,60101,Tarija,2018,2,TOTAL,4
+Chuquisaca,10202,Tarvita,2018,2,TOTAL,1
+Cochabamba,30903,Tiquipaya,2018,2,TOTAL,1
+Cochabamba,31201,Totora(cbba),2018,2,TOTAL,1
+Beni,80101,Trinidad,2018,2,TOTAL,4
+La Paz,20801,Viacha,2018,2,TOTAL,2
+Tarija,60303,Villa Montes,2018,2,TOTAL,2
+Cochabamba,31003,Villa Tunari,2018,2,TOTAL,3
+Santa Cruz,70201,Warnes,2018,2,TOTAL,2
+Tarija,60301,Yacuiba,2018,2,TOTAL,3
+Santa Cruz,70403,Yapacani,2018,2,TOTAL,2
+Tarija,60202,Bermejo,2018,3,TOTAL,3
+Chuquisaca,10701,Camargo,2018,3,TOTAL,1
+Santa Cruz,70706,Camiri,2018,3,TOTAL,1
+Oruro,40102,Caracollo,2018,3,TOTAL,1
+La Paz,22001,Caranavi,2018,3,TOTAL,1
+Oruro,40201,Challapata,2018,3,TOTAL,4
+La Paz,21101,Chulumani (v. De La Libertad),2018,3,TOTAL,3
+Cochabamba,30801,Cliza,2018,3,TOTAL,1
+Pando,90101,Cobija,2018,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2018,3,TOTAL,27
+La Paz,20105,El Alto,2018,3,TOTAL,20
+Beni,80202,Guayaramerin,2018,3,TOTAL,1
+Chuquisaca,10304,Icla,2018,3,TOTAL,1
+La Paz,20101,La Paz,2018,3,TOTAL,18
+Santa Cruz,71001,Montero,2018,3,TOTAL,5
+Oruro,40101,Oruro,2018,3,TOTAL,6
+La Paz,21104,Palos Blancos,2018,3,TOTAL,1
+La Paz,21305,Patacamaya,2018,3,TOTAL,1
+Potosí,50101,Potosi,2018,3,TOTAL,15
+Cochabamba,31205,Puerto Villarroel,2018,3,TOTAL,2
+Beni,80201,Riberalta,2018,3,TOTAL,6
+Potosí,50701,Sacaca,2018,3,TOTAL,1
+Santa Cruz,70901,Samaipata,2018,3,TOTAL,1
+Beni,80302,San Borja,2018,3,TOTAL,2
+La Paz,21502,San Buena Ventura,2018,3,TOTAL,1
+Beni,80501,San Ignacio,2018,3,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2018,3,TOTAL,1
+Santa Cruz,71104,San Julian,2018,3,TOTAL,1
+Chuquisaca,10702,San Lucas,2018,3,TOTAL,1
+Beni,80401,Santa Ana,2018,3,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,3,TOTAL,33
+Chuquisaca,10101,Sucre,2018,3,TOTAL,11
+Cochabamba,30903,Tiquipaya,2018,3,TOTAL,1
+Potosí,51202,Tomave,2018,3,TOTAL,1
+Beni,80101,Trinidad,2018,3,TOTAL,3
+Potosí,51201,Uyuni,2018,3,TOTAL,1
+Santa Cruz,70801,Vallegrande,2018,3,TOTAL,2
+Tarija,60303,Villa Montes,2018,3,TOTAL,1
+Cochabamba,31003,Villa Tunari,2018,3,TOTAL,1
+Potosí,51501,Villazon,2018,3,TOTAL,1
+Tarija,60301,Yacuiba,2018,3,TOTAL,1
+La Paz,20201,Achacachi,2018,4,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2018,4,TOTAL,1
+Potosí,50301,Betanzos,2018,4,TOTAL,1
+Santa Cruz,70706,Camiri,2018,4,TOTAL,3
+La Paz,22001,Caranavi,2018,4,TOTAL,4
+Oruro,40201,Challapata,2018,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2018,4,TOTAL,18
+La Paz,20105,El Alto,2018,4,TOTAL,19
+Beni,80202,Guayaramerin,2018,4,TOTAL,2
+La Paz,20101,La Paz,2018,4,TOTAL,19
+Chuquisaca,10501,Monteagudo,2018,4,TOTAL,2
+Santa Cruz,71001,Montero,2018,4,TOTAL,1
+Oruro,40101,Oruro,2018,4,TOTAL,10
+Potosí,50101,Potosi,2018,4,TOTAL,9
+Cochabamba,31205,Puerto Villarroel,2018,4,TOTAL,5
+Cochabamba,30901,Quillacollo,2018,4,TOTAL,1
+La Paz,21002,Quime,2018,4,TOTAL,1
+Potosí,50402,Ravelo,2018,4,TOTAL,1
+Beni,80301,Reyes,2018,4,TOTAL,2
+Beni,80201,Riberalta,2018,4,TOTAL,3
+Beni,80304,Rurrenabaque,2018,4,TOTAL,1
+Oruro,40901,Sabaya,2018,4,TOTAL,1
+Cochabamba,31001,Sacaba,2018,4,TOTAL,2
+Beni,80602,San Andres,2018,4,TOTAL,1
+Beni,80302,San Borja,2018,4,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2018,4,TOTAL,2
+Santa Cruz,71102,San Javier(stc),2018,4,TOTAL,3
+Santa Cruz,70501,San Jose De Chiquitos,2018,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,4,TOTAL,38
+Beni,80303,Santa Rosa,2018,4,TOTAL,1
+Cochabamba,31602,Shinaota,2018,4,TOTAL,1
+Chuquisaca,10101,Sucre,2018,4,TOTAL,4
+Cochabamba,30903,Tiquipaya,2018,4,TOTAL,2
+Beni,80101,Trinidad,2018,4,TOTAL,3
+Potosí,51201,Uyuni,2018,4,TOTAL,1
+Tarija,60303,Villa Montes,2018,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2018,4,TOTAL,2
+Santa Cruz,70201,Warnes,2018,4,TOTAL,2
+Tarija,60301,Yacuiba,2018,4,TOTAL,1
+La Paz,20202,Ancoraimes,2018,5,TOTAL,1
+La Paz,20701,Apolo,2018,5,TOTAL,1
+Tarija,60202,Bermejo,2018,5,TOTAL,1
+Santa Cruz,70706,Camiri,2018,5,TOTAL,1
+Oruro,40102,Caracollo,2018,5,TOTAL,1
+La Paz,22001,Caranavi,2018,5,TOTAL,1
+Oruro,40201,Challapata,2018,5,TOTAL,1
+Pando,90101,Cobija,2018,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2018,5,TOTAL,15
+Potosí,50401,Colquechaca,2018,5,TOTAL,1
+La Paz,21402,Coripata,2018,5,TOTAL,1
+Chuquisaca,10902,Culpina,2018,5,TOTAL,1
+La Paz,20105,El Alto,2018,5,TOTAL,20
+Beni,80202,Guayaramerin,2018,5,TOTAL,1
+Oruro,40701,Huanuni,2018,5,TOTAL,1
+La Paz,21105,La Asunta,2018,5,TOTAL,1
+La Paz,20101,La Paz,2018,5,TOTAL,19
+Potosí,50203,Llallagua,2018,5,TOTAL,1
+Santa Cruz,70903,Mairana,2018,5,TOTAL,14
+Chuquisaca,10303,Mojocoya,2018,5,TOTAL,1
+Chuquisaca,10501,Monteagudo,2018,5,TOTAL,1
+Santa Cruz,71001,Montero,2018,5,TOTAL,2
+Oruro,40101,Oruro,2018,5,TOTAL,6
+Potosí,50101,Potosi,2018,5,TOTAL,14
+Beni,80201,Riberalta,2018,5,TOTAL,5
+Beni,80304,Rurrenabaque,2018,5,TOTAL,3
+Cochabamba,31001,Sacaba,2018,5,TOTAL,2
+Beni,80302,San Borja,2018,5,TOTAL,1
+Beni,80501,San Ignacio,2018,5,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,5,TOTAL,1
+Santa Cruz,71102,San Javier(stc),2018,5,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2018,5,TOTAL,1
+Santa Cruz,71201,San Matias,2018,5,TOTAL,2
+Beni,80401,Santa Ana,2018,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,5,TOTAL,33
+Pando,90303,Sena,2018,5,TOTAL,1
+Chuquisaca,10101,Sucre,2018,5,TOTAL,5
+Tarija,60101,Tarija,2018,5,TOTAL,5
+Beni,80101,Trinidad,2018,5,TOTAL,4
+Potosí,50201,Uncia,2018,5,TOTAL,1
+La Paz,20801,Viacha,2018,5,TOTAL,1
+Tarija,60303,Villa Montes,2018,5,TOTAL,2
+Cochabamba,31003,Villa Tunari,2018,5,TOTAL,4
+Potosí,51501,Villazon,2018,5,TOTAL,1
+Santa Cruz,70201,Warnes,2018,5,TOTAL,1
+Tarija,60301,Yacuiba,2018,5,TOTAL,3
+Santa Cruz,70403,Yapacani,2018,5,TOTAL,2
+La Paz,20201,Achacachi,2018,6,TOTAL,1
+Tarija,60202,Bermejo,2018,6,TOTAL,1
+Chuquisaca,10701,Camargo,2018,6,TOTAL,1
+La Paz,22001,Caranavi,2018,6,TOTAL,2
+Cochabamba,30801,Cliza,2018,6,TOTAL,1
+Cochabamba,30101,Cochabamba,2018,6,TOTAL,20
+Potosí,50401,Colquechaca,2018,6,TOTAL,1
+La Paz,20105,El Alto,2018,6,TOTAL,22
+Santa Cruz,70105,El Torno,2018,6,TOTAL,1
+La Paz,20101,La Paz,2018,6,TOTAL,36
+Potosí,50203,Llallagua,2018,6,TOTAL,3
+Chuquisaca,10501,Monteagudo,2018,6,TOTAL,1
+Santa Cruz,71001,Montero,2018,6,TOTAL,2
+Oruro,40101,Oruro,2018,6,TOTAL,8
+Santa Cruz,70502,Pailon,2018,6,TOTAL,1
+Chuquisaca,10103,Poroma,2018,6,TOTAL,1
+Potosí,50101,Potosi,2018,6,TOTAL,5
+Cochabamba,31205,Puerto Villarroel,2018,6,TOTAL,4
+Beni,80301,Reyes,2018,6,TOTAL,1
+Beni,80201,Riberalta,2018,6,TOTAL,6
+Cochabamba,31001,Sacaba,2018,6,TOTAL,2
+Santa Cruz,71102,San Javier(stc),2018,6,TOTAL,1
+Santa Cruz,71103,San Ramon Scz,2018,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,6,TOTAL,33
+Chuquisaca,10101,Sucre,2018,6,TOTAL,3
+Tarija,60101,Tarija,2018,6,TOTAL,6
+Chuquisaca,10202,Tarvita,2018,6,TOTAL,1
+Potosí,50102,Tinguipaya,2018,6,TOTAL,1
+Cochabamba,30903,Tiquipaya,2018,6,TOTAL,1
+Potosí,50201,Uncia,2018,6,TOTAL,1
+Santa Cruz,70801,Vallegrande,2018,6,TOTAL,1
+Tarija,60303,Villa Montes,2018,6,TOTAL,1
+Cochabamba,31003,Villa Tunari,2018,6,TOTAL,2
+Potosí,51501,Villazon,2018,6,TOTAL,1
+Santa Cruz,70201,Warnes,2018,6,TOTAL,1
+Tarija,60301,Yacuiba,2018,6,TOTAL,2
+Chuquisaca,10201,Azurduy,2018,7,TOTAL,1
+Tarija,60202,Bermejo,2018,7,TOTAL,1
+Chuquisaca,10701,Camargo,2018,7,TOTAL,1
+Santa Cruz,70706,Camiri,2018,7,TOTAL,2
+Oruro,40201,Challapata,2018,7,TOTAL,1
+Santa Cruz,70702,Charagua,2018,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2018,7,TOTAL,18
+Potosí,50901,"Colcha ""k""",2018,7,TOTAL,1
+Potosí,50401,Colquechaca,2018,7,TOTAL,1
+La Paz,20105,El Alto,2018,7,TOTAL,22
+Beni,80202,Guayaramerin,2018,7,TOTAL,1
+Oruro,40701,Huanuni,2018,7,TOTAL,1
+La Paz,21105,La Asunta,2018,7,TOTAL,1
+La Paz,20101,La Paz,2018,7,TOTAL,12
+La Paz,21202,Laja,2018,7,TOTAL,1
+Potosí,50203,Llallagua,2018,7,TOTAL,3
+Santa Cruz,71001,Montero,2018,7,TOTAL,1
+Oruro,40101,Oruro,2018,7,TOTAL,3
+La Paz,21305,Patacamaya,2018,7,TOTAL,2
+Potosí,50101,Potosi,2018,7,TOTAL,4
+Cochabamba,31205,Puerto Villarroel,2018,7,TOTAL,2
+Potosí,50402,Ravelo,2018,7,TOTAL,1
+Beni,80201,Riberalta,2018,7,TOTAL,3
+Cochabamba,31001,Sacaba,2018,7,TOTAL,1
+Santa Cruz,70901,Samaipata,2018,7,TOTAL,1
+Beni,80302,San Borja,2018,7,TOTAL,1
+La Paz,21502,San Buena Ventura,2018,7,TOTAL,2
+Beni,80501,San Ignacio,2018,7,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,7,TOTAL,2
+Chuquisaca,10702,San Lucas,2018,7,TOTAL,1
+Santa Cruz,71201,San Matias,2018,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,7,TOTAL,27
+La Paz,20601,Sorata,2018,7,TOTAL,1
+Chuquisaca,10101,Sucre,2018,7,TOTAL,4
+Tarija,60101,Tarija,2018,7,TOTAL,5
+Chuquisaca,10202,Tarvita,2018,7,TOTAL,1
+Cochabamba,30903,Tiquipaya,2018,7,TOTAL,1
+Beni,80101,Trinidad,2018,7,TOTAL,3
+Potosí,51201,Uyuni,2018,7,TOTAL,1
+Tarija,60303,Villa Montes,2018,7,TOTAL,1
+Tarija,60301,Yacuiba,2018,7,TOTAL,3
+Santa Cruz,70403,Yapacani,2018,7,TOTAL,1
+La Paz,20201,Achacachi,2018,8,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,8,TOTAL,1
+Santa Cruz,70706,Camiri,2018,8,TOTAL,1
+Cochabamba,30701,Capinota,2018,8,TOTAL,1
+La Paz,22001,Caranavi,2018,8,TOTAL,3
+La Paz,21101,Chulumani (v. De La Libertad),2018,8,TOTAL,2
+Cochabamba,30801,Cliza,2018,8,TOTAL,1
+Pando,90101,Cobija,2018,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2018,8,TOTAL,20
+La Paz,21401,Coroico,2018,8,TOTAL,1
+Santa Cruz,70102,Cotoca,2018,8,TOTAL,2
+Chuquisaca,10902,Culpina,2018,8,TOTAL,1
+La Paz,20105,El Alto,2018,8,TOTAL,28
+Santa Cruz,70105,El Torno,2018,8,TOTAL,1
+Cochabamba,31206,Entre Rios Cbba,2018,8,TOTAL,1
+Beni,80202,Guayaramerin,2018,8,TOTAL,1
+Chuquisaca,10703,Incahuasi,2018,8,TOTAL,1
+La Paz,20101,La Paz,2018,8,TOTAL,20
+Potosí,50203,Llallagua,2018,8,TOTAL,2
+Beni,80801,Magdalena,2018,8,TOTAL,1
+Santa Cruz,70903,Mairana,2018,8,TOTAL,1
+Santa Cruz,71001,Montero,2018,8,TOTAL,2
+Potosí,50404,Ocuri,2018,8,TOTAL,1
+Oruro,40101,Oruro,2018,8,TOTAL,5
+La Paz,21305,Patacamaya,2018,8,TOTAL,1
+Potosí,50101,Potosi,2018,8,TOTAL,8
+Pando,90301,Puerto Gonzalo Moreno,2018,8,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2018,8,TOTAL,1
+Beni,80201,Riberalta,2018,8,TOTAL,8
+Cochabamba,31001,Sacaba,2018,8,TOTAL,5
+La Paz,21502,San Buena Ventura,2018,8,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,8,TOTAL,1
+Chuquisaca,10702,San Lucas,2018,8,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,8,TOTAL,27
+Chuquisaca,10101,Sucre,2018,8,TOTAL,5
+Tarija,60101,Tarija,2018,8,TOTAL,3
+Cochabamba,30903,Tiquipaya,2018,8,TOTAL,1
+Beni,80101,Trinidad,2018,8,TOTAL,2
+Potosí,51201,Uyuni,2018,8,TOTAL,1
+Cochabamba,31003,Villa Tunari,2018,8,TOTAL,1
+Santa Cruz,70201,Warnes,2018,8,TOTAL,1
+Tarija,60301,Yacuiba,2018,8,TOTAL,2
+Santa Cruz,70403,Yapacani,2018,8,TOTAL,2
+La Paz,20201,Achacachi,2018,9,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2018,9,TOTAL,1
+Chuquisaca,10701,Camargo,2018,9,TOTAL,1
+Santa Cruz,70706,Camiri,2018,9,TOTAL,1
+Cochabamba,30801,Cliza,2018,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2018,9,TOTAL,13
+La Paz,21004,Colquiri,2018,9,TOTAL,1
+Santa Cruz,71101,Concepcion,2018,9,TOTAL,1
+La Paz,20105,El Alto,2018,9,TOTAL,21
+Chuquisaca,10703,Incahuasi,2018,9,TOTAL,1
+La Paz,21501,Ixiamas,2018,9,TOTAL,1
+La Paz,20101,La Paz,2018,9,TOTAL,20
+Potosí,50203,Llallagua,2018,9,TOTAL,2
+Chuquisaca,10501,Monteagudo,2018,9,TOTAL,1
+Santa Cruz,71001,Montero,2018,9,TOTAL,6
+Oruro,40101,Oruro,2018,9,TOTAL,6
+Potosí,50101,Potosi,2018,9,TOTAL,9
+Cochabamba,31205,Puerto Villarroel,2018,9,TOTAL,7
+Beni,80201,Riberalta,2018,9,TOTAL,3
+Beni,80302,San Borja,2018,9,TOTAL,2
+Santa Cruz,70402,San Carlos,2018,9,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2018,9,TOTAL,1
+Santa Cruz,71104,San Julian,2018,9,TOTAL,1
+Santa Cruz,71201,San Matias,2018,9,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,9,TOTAL,19
+Chuquisaca,10101,Sucre,2018,9,TOTAL,4
+Chuquisaca,10601,Tarabuco,2018,9,TOTAL,1
+Tarija,60101,Tarija,2018,9,TOTAL,5
+Beni,80101,Trinidad,2018,9,TOTAL,4
+Chuquisaca,10704,Villa Charcas,2018,9,TOTAL,1
+Tarija,60303,Villa Montes,2018,9,TOTAL,2
+Cochabamba,31003,Villa Tunari,2018,9,TOTAL,1
+Tarija,60301,Yacuiba,2018,9,TOTAL,4
+La Paz,20201,Achacachi,2018,10,TOTAL,1
+Cochabamba,30201,Aiquile,2018,10,TOTAL,2
+Santa Cruz,70706,Camiri,2018,10,TOTAL,1
+La Paz,22001,Caranavi,2018,10,TOTAL,3
+Cochabamba,30101,Cochabamba,2018,10,TOTAL,13
+Santa Cruz,70603,Colpa Belgica,2018,10,TOTAL,1
+La Paz,21402,Coripata,2018,10,TOTAL,1
+La Paz,20105,El Alto,2018,10,TOTAL,28
+Santa Cruz,70105,El Torno,2018,10,TOTAL,1
+Beni,80202,Guayaramerin,2018,10,TOTAL,2
+La Paz,20101,La Paz,2018,10,TOTAL,22
+Potosí,50203,Llallagua,2018,10,TOTAL,3
+Chuquisaca,10501,Monteagudo,2018,10,TOTAL,1
+Santa Cruz,71001,Montero,2018,10,TOTAL,8
+Oruro,40101,Oruro,2018,10,TOTAL,7
+Potosí,50101,Potosi,2018,10,TOTAL,6
+Cochabamba,31205,Puerto Villarroel,2018,10,TOTAL,2
+Beni,80201,Riberalta,2018,10,TOTAL,4
+Cochabamba,31001,Sacaba,2018,10,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2018,10,TOTAL,1
+Santa Cruz,70402,San Carlos,2018,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,10,TOTAL,30
+Chuquisaca,10101,Sucre,2018,10,TOTAL,4
+Chuquisaca,10601,Tarabuco,2018,10,TOTAL,2
+Cochabamba,30903,Tiquipaya,2018,10,TOTAL,1
+Cochabamba,31201,Totora(cbba),2018,10,TOTAL,1
+Beni,80101,Trinidad,2018,10,TOTAL,2
+Potosí,50801,Tupiza,2018,10,TOTAL,1
+Santa Cruz,70801,Vallegrande,2018,10,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2018,10,TOTAL,1
+Tarija,60303,Villa Montes,2018,10,TOTAL,1
+Potosí,51501,Villazon,2018,10,TOTAL,1
+Santa Cruz,70201,Warnes,2018,10,TOTAL,1
+Tarija,60301,Yacuiba,2018,10,TOTAL,1
+Santa Cruz,70403,Yapacani,2018,10,TOTAL,3
+Cochabamba,30201,Aiquile,2018,11,TOTAL,1
+La Paz,20701,Apolo,2018,11,TOTAL,1
+Tarija,60202,Bermejo,2018,11,TOTAL,2
+Santa Cruz,70706,Camiri,2018,11,TOTAL,1
+Oruro,40201,Challapata,2018,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2018,11,TOTAL,10
+La Paz,20105,El Alto,2018,11,TOTAL,19
+Beni,80202,Guayaramerin,2018,11,TOTAL,1
+La Paz,20101,La Paz,2018,11,TOTAL,8
+Chuquisaca,10501,Monteagudo,2018,11,TOTAL,1
+Oruro,40101,Oruro,2018,11,TOTAL,6
+Potosí,50101,Potosi,2018,11,TOTAL,4
+Cochabamba,31205,Puerto Villarroel,2018,11,TOTAL,1
+Beni,80201,Riberalta,2018,11,TOTAL,5
+Cochabamba,31001,Sacaba,2018,11,TOTAL,1
+Santa Cruz,71105,San Antonio De Lomerio,2018,11,TOTAL,1
+Beni,80302,San Borja,2018,11,TOTAL,1
+Chuquisaca,10702,San Lucas,2018,11,TOTAL,3
+Santa Cruz,71103,San Ramon Scz,2018,11,TOTAL,1
+Beni,80401,Santa Ana,2018,11,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,11,TOTAL,40
+Beni,80303,Santa Rosa,2018,11,TOTAL,2
+Cochabamba,31602,Shinaota,2018,11,TOTAL,1
+Chuquisaca,10101,Sucre,2018,11,TOTAL,8
+Cochabamba,31101,Tapacari,2018,11,TOTAL,1
+Tarija,60101,Tarija,2018,11,TOTAL,6
+Chuquisaca,10202,Tarvita,2018,11,TOTAL,1
+Potosí,50502,Toro Toro,2018,11,TOTAL,1
+Beni,80101,Trinidad,2018,11,TOTAL,1
+Potosí,50801,Tupiza,2018,11,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2018,11,TOTAL,1
+Tarija,60303,Villa Montes,2018,11,TOTAL,1
+Cochabamba,31003,Villa Tunari,2018,11,TOTAL,3
+Cochabamba,30904,Vinto,2018,11,TOTAL,1
+Potosí,50602,Vitichi,2018,11,TOTAL,1
+Tarija,60301,Yacuiba,2018,11,TOTAL,3
+Santa Cruz,70403,Yapacani,2018,11,TOTAL,4
+Tarija,60202,Bermejo,2018,12,TOTAL,1
+Santa Cruz,70706,Camiri,2018,12,TOTAL,1
+La Paz,22001,Caranavi,2018,12,TOTAL,1
+Santa Cruz,70702,Charagua,2018,12,TOTAL,1
+Pando,90101,Cobija,2018,12,TOTAL,7
+Cochabamba,30101,Cochabamba,2018,12,TOTAL,14
+La Paz,20105,El Alto,2018,12,TOTAL,12
+La Paz,20101,La Paz,2018,12,TOTAL,27
+Potosí,50203,Llallagua,2018,12,TOTAL,3
+Santa Cruz,71001,Montero,2018,12,TOTAL,3
+Oruro,40101,Oruro,2018,12,TOTAL,7
+Potosí,50403,Pocoata,2018,12,TOTAL,1
+Potosí,50101,Potosi,2018,12,TOTAL,8
+Santa Cruz,71401,Puerto Suarez,2018,12,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2018,12,TOTAL,3
+Beni,80201,Riberalta,2018,12,TOTAL,4
+Beni,80304,Rurrenabaque,2018,12,TOTAL,1
+Cochabamba,31001,Sacaba,2018,12,TOTAL,1
+Beni,80302,San Borja,2018,12,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2018,12,TOTAL,1
+Santa Cruz,71104,San Julian,2018,12,TOTAL,1
+Santa Cruz,71201,San Matias,2018,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2018,12,TOTAL,36
+Chuquisaca,10101,Sucre,2018,12,TOTAL,7
+Tarija,60101,Tarija,2018,12,TOTAL,3
+Potosí,51201,Uyuni,2018,12,TOTAL,1
+Santa Cruz,70801,Vallegrande,2018,12,TOTAL,1
+Tarija,60303,Villa Montes,2018,12,TOTAL,2
+Cochabamba,30904,Vinto,2018,12,TOTAL,2
+Potosí,50602,Vitichi,2018,12,TOTAL,1
+Santa Cruz,70201,Warnes,2018,12,TOTAL,1
+Tarija,60301,Yacuiba,2018,12,TOTAL,2
+Santa Cruz,70403,Yapacani,2018,12,TOTAL,3

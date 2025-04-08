@@ -1,0 +1,69 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,50301,Betanzos,2021,1,Nacidos muertos con peso menor a 2500g,1
+Potosí,50401,Colquechaca,2021,1,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10202,Tarvita,2021,1,Nacidos muertos con peso menor a 2500g,1
+Potosí,50401,Colquechaca,2021,2,Nacidos muertos con peso menor a 2500g,1
+La Paz,20105,El Alto,2021,2,Nacidos muertos con peso menor a 2500g,3
+Potosí,50402,Ravelo,2021,2,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10702,San Lucas,2021,2,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10103,Poroma,2021,3,Nacidos muertos con peso menor a 2500g,1
+Beni,80101,Trinidad,2021,3,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10902,Culpina,2021,4,Nacidos muertos con peso menor a 2500g,1
+La Paz,20802,Guaqui,2021,4,Nacidos muertos con peso menor a 2500g,1
+La Paz,20101,La Paz,2021,4,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10201,Azurduy,2021,5,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70401,Buena Vista,2021,5,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10703,Incahuasi,2021,5,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,5,Nacidos muertos con peso menor a 2500g,1
+Potosí,51302,Acacio,2021,6,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,71001,Montero,2021,6,Nacidos muertos con peso menor a 2500g,1
+La Paz,21204,Puerto Perez,2021,7,Nacidos muertos con peso menor a 2500g,1
+Beni,80301,Reyes,2021,7,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,30602,Tacopaya,2021,7,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31601,Tiraque (cbba),2021,7,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70403,Yapacani,2021,7,Nacidos muertos con peso menor a 2500g,1
+La Paz,20102,Palca,2021,8,Nacidos muertos con peso menor a 2500g,1
+Potosí,50101,Potosi,2021,8,Nacidos muertos con peso menor a 2500g,1
+Chuquisaca,10704,Villa Charcas,2021,8,Nacidos muertos con peso menor a 2500g,1
+Potosí,50901,"Colcha ""k""",2021,9,Nacidos muertos con peso menor a 2500g,1
+Oruro,40701,Huanuni,2021,9,Nacidos muertos con peso menor a 2500g,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,Nacidos muertos con peso menor a 2500g,1
+La Paz,20402,Mocomoco,2021,10,Nacidos muertos con peso menor a 2500g,1
+Cochabamba,31401,Punata,2021,10,Nacidos muertos con peso menor a 2500g,1
+Potosí,50402,Ravelo,2021,10,Nacidos muertos con peso menor a 2500g,1
+La Paz,21104,Palos Blancos,2021,12,Nacidos muertos con peso menor a 2500g,1
+Potosí,50201,Uncia,2021,12,Nacidos muertos con peso menor a 2500g,1
+Potosí,50301,Betanzos,2021,1,TOTAL,1
+Potosí,50401,Colquechaca,2021,1,TOTAL,1
+Chuquisaca,10202,Tarvita,2021,1,TOTAL,1
+Potosí,50401,Colquechaca,2021,2,TOTAL,1
+La Paz,20105,El Alto,2021,2,TOTAL,3
+Potosí,50402,Ravelo,2021,2,TOTAL,1
+Chuquisaca,10702,San Lucas,2021,2,TOTAL,1
+Chuquisaca,10103,Poroma,2021,3,TOTAL,1
+Beni,80101,Trinidad,2021,3,TOTAL,1
+Chuquisaca,10902,Culpina,2021,4,TOTAL,1
+La Paz,20802,Guaqui,2021,4,TOTAL,1
+La Paz,20101,La Paz,2021,4,TOTAL,1
+Chuquisaca,10201,Azurduy,2021,5,TOTAL,1
+Santa Cruz,70401,Buena Vista,2021,5,TOTAL,1
+Chuquisaca,10703,Incahuasi,2021,5,TOTAL,1
+Potosí,50101,Potosi,2021,5,TOTAL,1
+Potosí,51302,Acacio,2021,6,TOTAL,1
+Santa Cruz,71001,Montero,2021,6,TOTAL,1
+La Paz,21204,Puerto Perez,2021,7,TOTAL,1
+Beni,80301,Reyes,2021,7,TOTAL,1
+Cochabamba,30602,Tacopaya,2021,7,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2021,7,TOTAL,1
+Santa Cruz,70403,Yapacani,2021,7,TOTAL,1
+La Paz,20102,Palca,2021,8,TOTAL,1
+Potosí,50101,Potosi,2021,8,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2021,8,TOTAL,1
+Potosí,50901,"Colcha ""k""",2021,9,TOTAL,1
+Oruro,40701,Huanuni,2021,9,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2021,9,TOTAL,1
+La Paz,20402,Mocomoco,2021,10,TOTAL,1
+Cochabamba,31401,Punata,2021,10,TOTAL,1
+Potosí,50402,Ravelo,2021,10,TOTAL,1
+La Paz,21104,Palos Blancos,2021,12,TOTAL,1
+Potosí,50201,Uncia,2021,12,TOTAL,1

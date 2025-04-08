@@ -1,0 +1,55 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70105,El Torno,2016,2,Partos atendidos por partera en servicio,6
+Potosí,51002,Mojinete,2016,2,Partos atendidos por partera en servicio,1
+Beni,80601,Loreto,2016,3,Partos atendidos por partera en servicio,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,3,Partos atendidos por partera en servicio,1
+Cochabamba,31204,Chimore,2016,4,Partos atendidos por partera en servicio,1
+Oruro,40401,Curahuara De Carangas,2016,4,Partos atendidos por partera en servicio,3
+Santa Cruz,70403,Yapacani,2016,4,Partos atendidos por partera en servicio,1
+Oruro,40401,Curahuara De Carangas,2016,5,Partos atendidos por partera en servicio,4
+Oruro,40101,Oruro,2016,5,Partos atendidos por partera en servicio,2
+Beni,80304,Rurrenabaque,2016,5,Partos atendidos por partera en servicio,1
+Chuquisaca,10702,San Lucas,2016,5,Partos atendidos por partera en servicio,1
+Oruro,40401,Curahuara De Carangas,2016,6,Partos atendidos por partera en servicio,2
+Potosí,50701,Sacaca,2016,6,Partos atendidos por partera en servicio,1
+Santa Cruz,71201,San Matias,2016,7,Partos atendidos por partera en servicio,5
+Oruro,40401,Curahuara De Carangas,2016,8,Partos atendidos por partera en servicio,1
+Santa Cruz,70701,Lagunillas,2016,8,Partos atendidos por partera en servicio,4
+Santa Cruz,70706,Camiri,2016,9,Partos atendidos por partera en servicio,38
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,Partos atendidos por partera en servicio,57
+Tarija,60303,Villa Montes,2016,9,Partos atendidos por partera en servicio,67
+Santa Cruz,70706,Camiri,2016,10,Partos atendidos por partera en servicio,37
+Beni,80501,San Ignacio,2016,10,Partos atendidos por partera en servicio,1
+Tarija,60401,Uriondo (a. Concepcion),2016,10,Partos atendidos por partera en servicio,1
+Santa Cruz,70801,Vallegrande,2016,10,Partos atendidos por partera en servicio,31
+Potosí,50802,Atocha,2016,11,Partos atendidos por partera en servicio,2
+Pando,90302,San Lorenzo(pnd),2016,11,Partos atendidos por partera en servicio,1
+Chuquisaca,10102,Yotala,2016,11,Partos atendidos por partera en servicio,8
+Santa Cruz,70706,Camiri,2016,12,Partos atendidos por partera en servicio,27
+Santa Cruz,70105,El Torno,2016,2,TOTAL,6
+Potosí,51002,Mojinete,2016,2,TOTAL,1
+Beni,80601,Loreto,2016,3,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2016,3,TOTAL,1
+Cochabamba,31204,Chimore,2016,4,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2016,4,TOTAL,3
+Santa Cruz,70403,Yapacani,2016,4,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2016,5,TOTAL,4
+Oruro,40101,Oruro,2016,5,TOTAL,2
+Beni,80304,Rurrenabaque,2016,5,TOTAL,1
+Chuquisaca,10702,San Lucas,2016,5,TOTAL,1
+Oruro,40401,Curahuara De Carangas,2016,6,TOTAL,2
+Potosí,50701,Sacaca,2016,6,TOTAL,1
+Santa Cruz,71201,San Matias,2016,7,TOTAL,5
+Oruro,40401,Curahuara De Carangas,2016,8,TOTAL,1
+Santa Cruz,70701,Lagunillas,2016,8,TOTAL,4
+Santa Cruz,70706,Camiri,2016,9,TOTAL,38
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,TOTAL,57
+Tarija,60303,Villa Montes,2016,9,TOTAL,67
+Santa Cruz,70706,Camiri,2016,10,TOTAL,37
+Beni,80501,San Ignacio,2016,10,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2016,10,TOTAL,1
+Santa Cruz,70801,Vallegrande,2016,10,TOTAL,31
+Potosí,50802,Atocha,2016,11,TOTAL,2
+Pando,90302,San Lorenzo(pnd),2016,11,TOTAL,1
+Chuquisaca,10102,Yotala,2016,11,TOTAL,8
+Santa Cruz,70706,Camiri,2016,12,TOTAL,27

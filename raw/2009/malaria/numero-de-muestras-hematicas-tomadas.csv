@@ -1,0 +1,982 @@
+municipality,group,variable,month,Número de Muestras hemáticas tomadas,TOTAL
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-01-01,10,10
+AYATA,malaria,numero de muestras hematicas tomadas,2009-01-01,3,3
+AYOPAYA (V. DE INDEPENDENCIA),malaria,numero de muestras hematicas tomadas,2009-01-01,3,3
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-01-01,7,7
+BAURES,malaria,numero de muestras hematicas tomadas,2009-01-01,65,65
+BELLA FLOR,malaria,numero de muestras hematicas tomadas,2009-01-01,36,36
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-01-01,130,130
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-01-01,91,91
+CABEZAS,malaria,numero de muestras hematicas tomadas,2009-01-01,6,6
+CAMATAQUI (C. VILLA ABECIA),malaria,numero de muestras hematicas tomadas,2009-01-01,22,22
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-01-01,92,92
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-01-01,124,124
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-01-01,78,78
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-01-01,381,381
+COLOMI,malaria,numero de muestras hematicas tomadas,2009-01-01,2,2
+CONCEPCION,malaria,numero de muestras hematicas tomadas,2009-01-01,37,37
+COROICO,malaria,numero de muestras hematicas tomadas,2009-01-01,15,15
+COTOCA,malaria,numero de muestras hematicas tomadas,2009-01-01,4,4
+CUEVO,malaria,numero de muestras hematicas tomadas,2009-01-01,4,4
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-01-01,7,7
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-01-01,870,870
+EL VILLAR,malaria,numero de muestras hematicas tomadas,2009-01-01,2,2
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-01-01,81,81
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-01-01,2,2
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-01-01,58,58
+EXALTACION,malaria,numero de muestras hematicas tomadas,2009-01-01,1,1
+FILADELFIA,malaria,numero de muestras hematicas tomadas,2009-01-01,27,27
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-01-01,10,10
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-01-01,126,126
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-01-01,2797,2797
+GUTIERREZ,malaria,numero de muestras hematicas tomadas,2009-01-01,1,1
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-01-01,14,14
+ICLA,malaria,numero de muestras hematicas tomadas,2009-01-01,1,1
+INGAVI (HUMAITA),malaria,numero de muestras hematicas tomadas,2009-01-01,24,24
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-01-01,106,106
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-01-01,44,44
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-01-01,56,56
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-01-01,24,24
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-01-01,25,25
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-01-01,129,129
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-01-01,26,26
+MIZQUE,malaria,numero de muestras hematicas tomadas,2009-01-01,14,14
+MOJOCOYA,malaria,numero de muestras hematicas tomadas,2009-01-01,4,4
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-01-01,125,125
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-01-01,109,109
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-01-01,349,349
+OMEREQUE,malaria,numero de muestras hematicas tomadas,2009-01-01,5,5
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-01-01,8,8
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-01-01,32,32
+PAILON,malaria,numero de muestras hematicas tomadas,2009-01-01,3,3
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-01-01,104,104
+POROMA,malaria,numero de muestras hematicas tomadas,2009-01-01,38,38
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-01-01,47,47
+PORTACHUELO,malaria,numero de muestras hematicas tomadas,2009-01-01,1,1
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-01-01,138,138
+PRESTO,malaria,numero de muestras hematicas tomadas,2009-01-01,1,1
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-01-01,63,63
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-01-01,200,200
+PUERTO VILLARROEL,malaria,numero de muestras hematicas tomadas,2009-01-01,9,9
+REYES,malaria,numero de muestras hematicas tomadas,2009-01-01,10,10
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-01-01,2959,2959
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-01-01,3,3
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-01-01,90,90
+SAN BORJA,malaria,numero de muestras hematicas tomadas,2009-01-01,8,8
+SAN BUENA VENTURA,malaria,numero de muestras hematicas tomadas,2009-01-01,5,5
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-01-01,17,17
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-01-01,48,48
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-01-01,72,72
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-01-01,331,331
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-01-01,3,3
+SAN LUCAS,malaria,numero de muestras hematicas tomadas,2009-01-01,1,1
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-01-01,38,38
+SAN PEDRO,malaria,numero de muestras hematicas tomadas,2009-01-01,2,2
+SAN PEDRO DE BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-01-01,4,4
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-01-01,24,24
+SANTA ANA,malaria,numero de muestras hematicas tomadas,2009-01-01,1,1
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-01-01,19,19
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-01-01,23,23
+SENA,malaria,numero de muestras hematicas tomadas,2009-01-01,336,336
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-01-01,24,24
+SUCRE,malaria,numero de muestras hematicas tomadas,2009-01-01,3,3
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-01-01,93,93
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-01-01,8,8
+VALLEGRANDE,malaria,numero de muestras hematicas tomadas,2009-01-01,2,2
+VILA VILA,malaria,numero de muestras hematicas tomadas,2009-01-01,4,4
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-01-01,307,307
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-01-01,44,44
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-01-01,5,5
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-01-01,39,39
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-01-01,5,5
+WARNES,malaria,numero de muestras hematicas tomadas,2009-01-01,1,1
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-01-01,603,603
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-01-01,41,41
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-01-01,2,2
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-02-01,38,38
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-02-01,9,9
+APOLO,malaria,numero de muestras hematicas tomadas,2009-02-01,4,4
+AYATA,malaria,numero de muestras hematicas tomadas,2009-02-01,12,12
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-02-01,17,17
+BAURES,malaria,numero de muestras hematicas tomadas,2009-02-01,154,154
+BELLA FLOR,malaria,numero de muestras hematicas tomadas,2009-02-01,44,44
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-02-01,159,159
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-02-01,134,134
+CABEZAS,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+CAMATAQUI (C. VILLA ABECIA),malaria,numero de muestras hematicas tomadas,2009-02-01,5,5
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-02-01,179,179
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-02-01,141,141
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-02-01,8,8
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-02-01,267,267
+CONCEPCION,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+COROICO,malaria,numero de muestras hematicas tomadas,2009-02-01,12,12
+CUEVO,malaria,numero de muestras hematicas tomadas,2009-02-01,3,3
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-02-01,7,7
+EL PUENTE(TJA),malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-02-01,873,873
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-02-01,105,105
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-02-01,4,4
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-02-01,49,49
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-02-01,29,29
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-02-01,290,290
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-02-01,1364,1364
+GUTIERREZ,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-02-01,10,10
+INGAVI (HUMAITA),malaria,numero de muestras hematicas tomadas,2009-02-01,38,38
+IRUPANA (VILLA DE LANZA),malaria,numero de muestras hematicas tomadas,2009-02-01,2,2
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-02-01,37,37
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-02-01,53,53
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-02-01,37,37
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-02-01,44,44
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-02-01,11,11
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-02-01,59,59
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-02-01,17,17
+MOJOCOYA,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-02-01,91,91
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-02-01,71,71
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-02-01,229,229
+OMEREQUE,malaria,numero de muestras hematicas tomadas,2009-02-01,6,6
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-02-01,57,57
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-02-01,4,4
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-02-01,65,65
+PASORAPA,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+POROMA,malaria,numero de muestras hematicas tomadas,2009-02-01,31,31
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-02-01,80,80
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-02-01,68,68
+PUERTO ACOSTA,malaria,numero de muestras hematicas tomadas,2009-02-01,3,3
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-02-01,33,33
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-02-01,219,219
+PUERTO SILES,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+REYES,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-02-01,1764,1764
+ROBORE,malaria,numero de muestras hematicas tomadas,2009-02-01,7,7
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+SACABA,malaria,numero de muestras hematicas tomadas,2009-02-01,6,6
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-02-01,72,72
+SAN BORJA,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-02-01,26,26
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-02-01,218,218
+SAN JAVIER(STC),malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+SAN JOAQUIN,malaria,numero de muestras hematicas tomadas,2009-02-01,2,2
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-02-01,74,74
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-02-01,123,123
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-02-01,3,3
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-02-01,73,73
+SAN PEDRO,malaria,numero de muestras hematicas tomadas,2009-02-01,2,2
+SAN PEDRO DE BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-02-01,24,24
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-02-01,5,5
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-02-01,26,26
+SENA,malaria,numero de muestras hematicas tomadas,2009-02-01,251,251
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-02-01,35,35
+TARVITA,malaria,numero de muestras hematicas tomadas,2009-02-01,2,2
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-02-01,87,87
+TOMINA,malaria,numero de muestras hematicas tomadas,2009-02-01,4,4
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-02-01,11,11
+VALLEGRANDE,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+VILA VILA,malaria,numero de muestras hematicas tomadas,2009-02-01,4,4
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-02-01,116,116
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-02-01,99,99
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-02-01,4,4
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-02-01,61,61
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-02-01,50,50
+WARNES,malaria,numero de muestras hematicas tomadas,2009-02-01,1,1
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-02-01,669,669
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-02-01,49,49
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-02-01,2,2
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-03-01,29,29
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-03-01,13,13
+ALALAY,malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+ALCALA,malaria,numero de muestras hematicas tomadas,2009-03-01,182,182
+APOLO,malaria,numero de muestras hematicas tomadas,2009-03-01,24,24
+ARANI,malaria,numero de muestras hematicas tomadas,2009-03-01,311,311
+AYATA,malaria,numero de muestras hematicas tomadas,2009-03-01,4,4
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-03-01,17,17
+BAURES,malaria,numero de muestras hematicas tomadas,2009-03-01,129,129
+BELLA FLOR,malaria,numero de muestras hematicas tomadas,2009-03-01,34,34
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-03-01,96,96
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-03-01,20,20
+CABEZAS,malaria,numero de muestras hematicas tomadas,2009-03-01,4,4
+CAMATAQUI (C. VILLA ABECIA),malaria,numero de muestras hematicas tomadas,2009-03-01,14,14
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-03-01,82,82
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-03-01,120,120
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-03-01,11,11
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-03-01,128,128
+COLOMI,malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+CONCEPCION,malaria,numero de muestras hematicas tomadas,2009-03-01,30,30
+CUEVO,malaria,numero de muestras hematicas tomadas,2009-03-01,2,2
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-03-01,12,12
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-03-01,510,510
+EL VILLAR,malaria,numero de muestras hematicas tomadas,2009-03-01,2,2
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-03-01,99,99
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-03-01,4,4
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-03-01,103,103
+FILADELFIA,malaria,numero de muestras hematicas tomadas,2009-03-01,35,35
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-03-01,181,181
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-03-01,146,146
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-03-01,1118,1118
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-03-01,3,3
+HUARACAJE,malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-03-01,63,63
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-03-01,15,15
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-03-01,44,44
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-03-01,57,57
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-03-01,16,16
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-03-01,85,85
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-03-01,14,14
+MIZQUE,malaria,numero de muestras hematicas tomadas,2009-03-01,7,7
+MOJOCOYA,malaria,numero de muestras hematicas tomadas,2009-03-01,4,4
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-03-01,51,51
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-03-01,65,65
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-03-01,304,304
+OMEREQUE,malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-03-01,116,116
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-03-01,6,6
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-03-01,25,25
+POJO (CBBA),malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+POROMA,malaria,numero de muestras hematicas tomadas,2009-03-01,13,13
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-03-01,56,56
+PORTACHUELO,malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-03-01,94,94
+PRESTO,malaria,numero de muestras hematicas tomadas,2009-03-01,2,2
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-03-01,10,10
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-03-01,161,161
+RAVELO,malaria,numero de muestras hematicas tomadas,2009-03-01,72,72
+REYES,malaria,numero de muestras hematicas tomadas,2009-03-01,25,25
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-03-01,2025,2025
+ROBORE,malaria,numero de muestras hematicas tomadas,2009-03-01,2,2
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-03-01,5,5
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-03-01,112,112
+SAMAIPATA,malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+SAN BORJA,malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-03-01,7,7
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-03-01,218,218
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-03-01,84,84
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-03-01,7,7
+SAN LUCAS,malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-03-01,14,14
+SAN PEDRO DE BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-03-01,4,4
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-03-01,58,58
+SAN RAMON,malaria,numero de muestras hematicas tomadas,2009-03-01,10,10
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-03-01,2,2
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-03-01,27,27
+SENA,malaria,numero de muestras hematicas tomadas,2009-03-01,324,324
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-03-01,23,23
+TARVITA,malaria,numero de muestras hematicas tomadas,2009-03-01,2,2
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-03-01,61,61
+TOMINA,malaria,numero de muestras hematicas tomadas,2009-03-01,4,4
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-03-01,54,54
+VILA VILA,malaria,numero de muestras hematicas tomadas,2009-03-01,15,15
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-03-01,138,138
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-03-01,73,73
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-03-01,1,1
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-03-01,27,27
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-03-01,16,16
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-03-01,463,463
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-03-01,16,16
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-04-01,32,32
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-04-01,17,17
+ALCALA,malaria,numero de muestras hematicas tomadas,2009-04-01,197,197
+APOLO,malaria,numero de muestras hematicas tomadas,2009-04-01,6,6
+AYATA,malaria,numero de muestras hematicas tomadas,2009-04-01,43,43
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-04-01,13,13
+BAURES,malaria,numero de muestras hematicas tomadas,2009-04-01,124,124
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-04-01,81,81
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-04-01,10,10
+CABEZAS,malaria,numero de muestras hematicas tomadas,2009-04-01,5,5
+CAMATAQUI (C. VILLA ABECIA),malaria,numero de muestras hematicas tomadas,2009-04-01,8,8
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-04-01,45,45
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-04-01,94,94
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-04-01,87,87
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-04-01,111,111
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-04-01,2,2
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-04-01,290,290
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-04-01,53,53
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-04-01,2,2
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-04-01,32,32
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-04-01,42,42
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-04-01,106,106
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-04-01,1136,1136
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-04-01,14,14
+IXIAMAS,malaria,numero de muestras hematicas tomadas,2009-04-01,2,2
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-04-01,12,12
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-04-01,28,28
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-04-01,46,46
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-04-01,25,25
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-04-01,10,10
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-04-01,152,152
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-04-01,39,39
+MIZQUE,malaria,numero de muestras hematicas tomadas,2009-04-01,6,6
+MOJOCOYA,malaria,numero de muestras hematicas tomadas,2009-04-01,1,1
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-04-01,32,32
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-04-01,65,65
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-04-01,266,266
+OMEREQUE,malaria,numero de muestras hematicas tomadas,2009-04-01,10,10
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-04-01,109,109
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-04-01,4,4
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-04-01,17,17
+PASORAPA,malaria,numero de muestras hematicas tomadas,2009-04-01,1,1
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-04-01,29,29
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-04-01,84,84
+PRESTO,malaria,numero de muestras hematicas tomadas,2009-04-01,1,1
+PUERTO CARABUCO,malaria,numero de muestras hematicas tomadas,2009-04-01,1,1
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-04-01,49,49
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-04-01,315,315
+PUERTO SILES,malaria,numero de muestras hematicas tomadas,2009-04-01,1,1
+REYES,malaria,numero de muestras hematicas tomadas,2009-04-01,28,28
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-04-01,2387,2387
+ROBORE,malaria,numero de muestras hematicas tomadas,2009-04-01,5,5
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-04-01,2,2
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-04-01,112,112
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-04-01,1,1
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-04-01,135,135
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-04-01,50,50
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-04-01,99,99
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-04-01,2,2
+SAN LUCAS,malaria,numero de muestras hematicas tomadas,2009-04-01,1,1
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-04-01,72,72
+SAN PEDRO DE BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-04-01,71,71
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-04-01,22,22
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-04-01,4,4
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-04-01,20,20
+SENA,malaria,numero de muestras hematicas tomadas,2009-04-01,320,320
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-04-01,25,25
+SUCRE,malaria,numero de muestras hematicas tomadas,2009-04-01,2,2
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-04-01,45,45
+TIRAQUE (CBBA),malaria,numero de muestras hematicas tomadas,2009-04-01,1,1
+TOMINA,malaria,numero de muestras hematicas tomadas,2009-04-01,2,2
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-04-01,59,59
+VALLEGRANDE,malaria,numero de muestras hematicas tomadas,2009-04-01,6,6
+VILA VILA,malaria,numero de muestras hematicas tomadas,2009-04-01,15,15
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-04-01,311,311
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-04-01,46,46
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-04-01,23,23
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-04-01,27,27
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-04-01,15,15
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-04-01,701,701
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-04-01,13,13
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-04-01,1,1
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-05-01,7,7
+AYATA,malaria,numero de muestras hematicas tomadas,2009-05-01,8,8
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-05-01,21,21
+BAURES,malaria,numero de muestras hematicas tomadas,2009-05-01,127,127
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-05-01,51,51
+BOYUIBE,malaria,numero de muestras hematicas tomadas,2009-05-01,1,1
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-05-01,21,21
+CABEZAS,malaria,numero de muestras hematicas tomadas,2009-05-01,4,4
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-05-01,48,48
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-05-01,62,62
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-05-01,38,38
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-05-01,84,84
+CONCEPCION,malaria,numero de muestras hematicas tomadas,2009-05-01,160,160
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-05-01,5,5
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-05-01,107,107
+EL VILLAR,malaria,numero de muestras hematicas tomadas,2009-05-01,1,1
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-05-01,1,1
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-05-01,81,81
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-05-01,64,64
+FILADELFIA,malaria,numero de muestras hematicas tomadas,2009-05-01,8,8
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-05-01,13,13
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-05-01,85,85
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-05-01,1211,1211
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-05-01,3,3
+INGAVI (HUMAITA),malaria,numero de muestras hematicas tomadas,2009-05-01,10,10
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-05-01,4,4
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-05-01,11,11
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-05-01,25,25
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-05-01,24,24
+LAS CARRERAS,malaria,numero de muestras hematicas tomadas,2009-05-01,4,4
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-05-01,8,8
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-05-01,52,52
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-05-01,16,16
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-05-01,18,18
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-05-01,201,201
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-05-01,580,580
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-05-01,38,38
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-05-01,19,19
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-05-01,26,26
+PASORAPA,malaria,numero de muestras hematicas tomadas,2009-05-01,2,2
+POROMA,malaria,numero de muestras hematicas tomadas,2009-05-01,32,32
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-05-01,12,12
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-05-01,68,68
+PRESTO,malaria,numero de muestras hematicas tomadas,2009-05-01,5,5
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-05-01,27,27
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-05-01,309,309
+PUERTO SILES,malaria,numero de muestras hematicas tomadas,2009-05-01,1,1
+PUERTO VILLARROEL,malaria,numero de muestras hematicas tomadas,2009-05-01,3,3
+REYES,malaria,numero de muestras hematicas tomadas,2009-05-01,23,23
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-05-01,1950,1950
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-05-01,1,1
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-05-01,85,85
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-05-01,3,3
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-05-01,332,332
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-05-01,100,100
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-05-01,336,336
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-05-01,4,4
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-05-01,42,42
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-05-01,1,1
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-05-01,20,20
+SENA,malaria,numero de muestras hematicas tomadas,2009-05-01,248,248
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-05-01,17,17
+TARVITA,malaria,numero de muestras hematicas tomadas,2009-05-01,2,2
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-05-01,30,30
+TIRAQUE (CBBA),malaria,numero de muestras hematicas tomadas,2009-05-01,1,1
+TOMINA,malaria,numero de muestras hematicas tomadas,2009-05-01,3,3
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-05-01,5,5
+VALLEGRANDE,malaria,numero de muestras hematicas tomadas,2009-05-01,14,14
+VILA VILA,malaria,numero de muestras hematicas tomadas,2009-05-01,1,1
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-05-01,251,251
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-05-01,49,49
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-05-01,32,32
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-05-01,35,35
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-05-01,3,3
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-05-01,394,394
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-05-01,13,13
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-05-01,2,2
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-06-01,50,50
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-06-01,2,2
+AYATA,malaria,numero de muestras hematicas tomadas,2009-06-01,2,2
+AYOPAYA (V. DE INDEPENDENCIA),malaria,numero de muestras hematicas tomadas,2009-06-01,3,3
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-06-01,19,19
+BAURES,malaria,numero de muestras hematicas tomadas,2009-06-01,125,125
+BELLA FLOR,malaria,numero de muestras hematicas tomadas,2009-06-01,73,73
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-06-01,67,67
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-06-01,9,9
+CABEZAS,malaria,numero de muestras hematicas tomadas,2009-06-01,2,2
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-06-01,33,33
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-06-01,59,59
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-06-01,27,27
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-06-01,55,55
+CONCEPCION,malaria,numero de muestras hematicas tomadas,2009-06-01,63,63
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-06-01,4,4
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-06-01,184,184
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-06-01,77,77
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-06-01,110,110
+FILADELFIA,malaria,numero de muestras hematicas tomadas,2009-06-01,91,91
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-06-01,10,10
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-06-01,114,114
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-06-01,1381,1381
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-06-01,118,118
+INGAVI (HUMAITA),malaria,numero de muestras hematicas tomadas,2009-06-01,56,56
+IXIAMAS,malaria,numero de muestras hematicas tomadas,2009-06-01,1,1
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-06-01,8,8
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-06-01,9,9
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-06-01,42,42
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-06-01,1,1
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-06-01,156,156
+MAIRANA,malaria,numero de muestras hematicas tomadas,2009-06-01,1,1
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-06-01,15,15
+MIZQUE,malaria,numero de muestras hematicas tomadas,2009-06-01,1,1
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-06-01,470,470
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-06-01,122,122
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-06-01,394,394
+OMEREQUE,malaria,numero de muestras hematicas tomadas,2009-06-01,1,1
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-06-01,77,77
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-06-01,51,51
+PAILON,malaria,numero de muestras hematicas tomadas,2009-06-01,2,2
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-06-01,21,21
+PATACAMAYA,malaria,numero de muestras hematicas tomadas,2009-06-01,1,1
+POROMA,malaria,numero de muestras hematicas tomadas,2009-06-01,10,10
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-06-01,14,14
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-06-01,158,158
+PRESTO,malaria,numero de muestras hematicas tomadas,2009-06-01,2,2
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-06-01,131,131
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-06-01,392,392
+PUERTO VILLARROEL,malaria,numero de muestras hematicas tomadas,2009-06-01,8,8
+REYES,malaria,numero de muestras hematicas tomadas,2009-06-01,14,14
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-06-01,1821,1821
+ROBORE,malaria,numero de muestras hematicas tomadas,2009-06-01,10,10
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-06-01,1,1
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-06-01,130,130
+SAN BORJA,malaria,numero de muestras hematicas tomadas,2009-06-01,1,1
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-06-01,4,4
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-06-01,128,128
+SAN JOAQUIN,malaria,numero de muestras hematicas tomadas,2009-06-01,83,83
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-06-01,72,72
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-06-01,75,75
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-06-01,1,1
+SAN LUCAS,malaria,numero de muestras hematicas tomadas,2009-06-01,11,11
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-06-01,75,75
+SAN PEDRO DE BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-06-01,92,92
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-06-01,55,55
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-06-01,54,54
+SENA,malaria,numero de muestras hematicas tomadas,2009-06-01,176,176
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-06-01,13,13
+TARABUCO,malaria,numero de muestras hematicas tomadas,2009-06-01,2,2
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-06-01,18,18
+TOMINA,malaria,numero de muestras hematicas tomadas,2009-06-01,2,2
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-06-01,56,56
+VALLEGRANDE,malaria,numero de muestras hematicas tomadas,2009-06-01,4,4
+VILA VILA,malaria,numero de muestras hematicas tomadas,2009-06-01,2,2
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-06-01,233,233
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-06-01,78,78
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-06-01,8,8
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-06-01,105,105
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-06-01,2,2
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-06-01,623,623
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-06-01,12,12
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-06-01,11,11
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-07-01,56,56
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-07-01,3,3
+ARAMPAMPA,malaria,numero de muestras hematicas tomadas,2009-07-01,5,5
+AYATA,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+AYOPAYA (V. DE INDEPENDENCIA),malaria,numero de muestras hematicas tomadas,2009-07-01,3,3
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-07-01,8,8
+BAURES,malaria,numero de muestras hematicas tomadas,2009-07-01,131,131
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-07-01,33,33
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-07-01,18,18
+CABEZAS,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-07-01,14,14
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-07-01,30,30
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-07-01,17,17
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-07-01,89,89
+CUEVO,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-07-01,131,131
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-07-01,85,85
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-07-01,125,125
+FILADELFIA,malaria,numero de muestras hematicas tomadas,2009-07-01,3,3
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-07-01,2,2
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-07-01,97,97
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-07-01,780,780
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-07-01,2,2
+INCAHUASI,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+INGAVI (HUMAITA),malaria,numero de muestras hematicas tomadas,2009-07-01,22,22
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-07-01,5,5
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-07-01,15,15
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-07-01,22,22
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-07-01,17,17
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-07-01,52,52
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-07-01,36,36
+MIZQUE,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-07-01,23,23
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-07-01,87,87
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-07-01,250,250
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-07-01,32,32
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-07-01,6,6
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-07-01,17,17
+POROMA,malaria,numero de muestras hematicas tomadas,2009-07-01,12,12
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-07-01,11,11
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-07-01,114,114
+PRESTO,malaria,numero de muestras hematicas tomadas,2009-07-01,2,2
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-07-01,68,68
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-07-01,245,245
+PUERTO SILES,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+REYES,malaria,numero de muestras hematicas tomadas,2009-07-01,16,16
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-07-01,2071,2071
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-07-01,2,2
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-07-01,85,85
+SAN BORJA,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-07-01,3,3
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-07-01,384,384
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-07-01,72,72
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-07-01,127,127
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+SAN LUCAS,malaria,numero de muestras hematicas tomadas,2009-07-01,2,2
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-07-01,51,51
+SAN MIGUEL DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-07-01,22,22
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-07-01,2,2
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-07-01,29,29
+SENA,malaria,numero de muestras hematicas tomadas,2009-07-01,172,172
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-07-01,13,13
+TARVITA,malaria,numero de muestras hematicas tomadas,2009-07-01,4,4
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-07-01,22,22
+TOMINA,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-07-01,22,22
+VALLEGRANDE,malaria,numero de muestras hematicas tomadas,2009-07-01,3,3
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-07-01,146,146
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-07-01,89,89
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-07-01,35,35
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-07-01,44,44
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-07-01,3,3
+WARNES,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-07-01,228,228
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-07-01,8,8
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-07-01,1,1
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-08-01,40,40
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-08-01,9,9
+ARAMPAMPA,malaria,numero de muestras hematicas tomadas,2009-08-01,10,10
+AYATA,malaria,numero de muestras hematicas tomadas,2009-08-01,2,2
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+BAURES,malaria,numero de muestras hematicas tomadas,2009-08-01,119,119
+BELLA FLOR,malaria,numero de muestras hematicas tomadas,2009-08-01,24,24
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-08-01,45,45
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-08-01,16,16
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-08-01,97,97
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-08-01,6,6
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-08-01,110,110
+CONCEPCION,malaria,numero de muestras hematicas tomadas,2009-08-01,96,96
+CUEVO,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-08-01,5,5
+EL ALTO,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-08-01,195,195
+EL VILLAR,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-08-01,226,226
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-08-01,77,77
+EXALTACION,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+FILADELFIA,malaria,numero de muestras hematicas tomadas,2009-08-01,5,5
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-08-01,60,60
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-08-01,730,730
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-08-01,96,96
+INCAHUASI,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+IXIAMAS,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-08-01,5,5
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-08-01,109,109
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-08-01,16,16
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-08-01,2,2
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-08-01,36,36
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-08-01,18,18
+MIZQUE,malaria,numero de muestras hematicas tomadas,2009-08-01,3,3
+MOJOCOYA,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-08-01,18,18
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-08-01,85,85
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-08-01,233,233
+OMEREQUE,malaria,numero de muestras hematicas tomadas,2009-08-01,2,2
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-08-01,24,24
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-08-01,2,2
+PAILON,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-08-01,8,8
+POROMA,malaria,numero de muestras hematicas tomadas,2009-08-01,18,18
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-08-01,13,13
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-08-01,87,87
+PRESTO,malaria,numero de muestras hematicas tomadas,2009-08-01,4,4
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-08-01,133,133
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-08-01,217,217
+RAVELO,malaria,numero de muestras hematicas tomadas,2009-08-01,3,3
+REYES,malaria,numero de muestras hematicas tomadas,2009-08-01,13,13
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-08-01,900,900
+ROBORE,malaria,numero de muestras hematicas tomadas,2009-08-01,8,8
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-08-01,4,4
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-08-01,178,178
+SAN BORJA,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-08-01,3,3
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-08-01,189,189
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-08-01,48,48
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-08-01,67,67
+SANTA ANA,malaria,numero de muestras hematicas tomadas,2009-08-01,1,1
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-08-01,0,0
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-08-01,19,19
+SENA,malaria,numero de muestras hematicas tomadas,2009-08-01,202,202
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-08-01,5,5
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-08-01,15,15
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-08-01,4,4
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-08-01,181,181
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-08-01,76,76
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-08-01,4,4
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-08-01,18,18
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-08-01,3,3
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-08-01,394,394
+YAMPARAEZ,malaria,numero de muestras hematicas tomadas,2009-08-01,223,223
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-08-01,9,9
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-09-01,56,56
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-09-01,6,6
+APOLO,malaria,numero de muestras hematicas tomadas,2009-09-01,51,51
+ARAMPAMPA,malaria,numero de muestras hematicas tomadas,2009-09-01,25,25
+AYATA,malaria,numero de muestras hematicas tomadas,2009-09-01,5,5
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-09-01,6,6
+BAURES,malaria,numero de muestras hematicas tomadas,2009-09-01,175,175
+BELLA FLOR,malaria,numero de muestras hematicas tomadas,2009-09-01,21,21
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-09-01,39,39
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-09-01,16,16
+CABEZAS,malaria,numero de muestras hematicas tomadas,2009-09-01,3,3
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-09-01,228,228
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-09-01,59,59
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-09-01,132,132
+CUEVO,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-09-01,2,2
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-09-01,147,147
+EL VILLAR,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-09-01,108,108
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-09-01,93,93
+FILADELFIA,malaria,numero de muestras hematicas tomadas,2009-09-01,108,108
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-09-01,6,6
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-09-01,20,20
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-09-01,2047,2047
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-09-01,6,6
+ICLA,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+INCAHUASI,malaria,numero de muestras hematicas tomadas,2009-09-01,90,90
+IXIAMAS,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-09-01,11,11
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-09-01,14,14
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-09-01,159,159
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-09-01,24,24
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-09-01,72,72
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-09-01,7,7
+MOJOCOYA,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-09-01,47,47
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-09-01,81,81
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-09-01,212,212
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-09-01,27,27
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-09-01,47,47
+PAILON,malaria,numero de muestras hematicas tomadas,2009-09-01,2,2
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-09-01,17,17
+POROMA,malaria,numero de muestras hematicas tomadas,2009-09-01,6,6
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-09-01,13,13
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-09-01,79,79
+PRESTO,malaria,numero de muestras hematicas tomadas,2009-09-01,25,25
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-09-01,14,14
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-09-01,221,221
+REYES,malaria,numero de muestras hematicas tomadas,2009-09-01,24,24
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-09-01,1549,1549
+ROBORE,malaria,numero de muestras hematicas tomadas,2009-09-01,15,15
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-09-01,4,4
+SACABA,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-09-01,82,82
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-09-01,9,9
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-09-01,174,174
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-09-01,36,36
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-09-01,225,225
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-09-01,2,2
+SAN LUCAS,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-09-01,98,98
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-09-01,23,23
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-09-01,1,1
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-09-01,22,22
+SENA,malaria,numero de muestras hematicas tomadas,2009-09-01,202,202
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-09-01,12,12
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-09-01,16,16
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-09-01,53,53
+VALLEGRANDE,malaria,numero de muestras hematicas tomadas,2009-09-01,2,2
+VILA VILA,malaria,numero de muestras hematicas tomadas,2009-09-01,12,12
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-09-01,255,255
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-09-01,109,109
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-09-01,16,16
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-09-01,18,18
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-09-01,3,3
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-09-01,527,527
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-09-01,10,10
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-09-01,3,3
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-10-01,35,35
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-10-01,4,4
+APOLO,malaria,numero de muestras hematicas tomadas,2009-10-01,19,19
+AYATA,malaria,numero de muestras hematicas tomadas,2009-10-01,1,1
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-10-01,58,58
+BAURES,malaria,numero de muestras hematicas tomadas,2009-10-01,155,155
+BELLA FLOR,malaria,numero de muestras hematicas tomadas,2009-10-01,84,84
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-10-01,47,47
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-10-01,33,33
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-10-01,15,15
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-10-01,81,81
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-10-01,11,11
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-10-01,146,146
+COLOMI,malaria,numero de muestras hematicas tomadas,2009-10-01,1,1
+CONCEPCION,malaria,numero de muestras hematicas tomadas,2009-10-01,50,50
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-10-01,112,112
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-10-01,119,119
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-10-01,1,1
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-10-01,99,99
+FILADELFIA,malaria,numero de muestras hematicas tomadas,2009-10-01,7,7
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-10-01,4,4
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-10-01,40,40
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-10-01,1258,1258
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-10-01,6,6
+INCAHUASI,malaria,numero de muestras hematicas tomadas,2009-10-01,4,4
+INGAVI (HUMAITA),malaria,numero de muestras hematicas tomadas,2009-10-01,24,24
+IXIAMAS,malaria,numero de muestras hematicas tomadas,2009-10-01,2,2
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-10-01,8,8
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-10-01,12,12
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-10-01,94,94
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-10-01,19,19
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-10-01,1,1
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-10-01,88,88
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-10-01,8,8
+MIZQUE,malaria,numero de muestras hematicas tomadas,2009-10-01,1,1
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-10-01,56,56
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-10-01,61,61
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-10-01,323,323
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-10-01,41,41
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-10-01,4,4
+PAILON,malaria,numero de muestras hematicas tomadas,2009-10-01,2,2
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-10-01,30,30
+POROMA,malaria,numero de muestras hematicas tomadas,2009-10-01,10,10
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-10-01,11,11
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-10-01,196,196
+PRESTO,malaria,numero de muestras hematicas tomadas,2009-10-01,1,1
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-10-01,41,41
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-10-01,197,197
+PUNA,malaria,numero de muestras hematicas tomadas,2009-10-01,1,1
+REYES,malaria,numero de muestras hematicas tomadas,2009-10-01,10,10
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-10-01,1228,1228
+ROBORE,malaria,numero de muestras hematicas tomadas,2009-10-01,15,15
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-10-01,2,2
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-10-01,263,263
+SAN BORJA,malaria,numero de muestras hematicas tomadas,2009-10-01,1,1
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-10-01,10,10
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-10-01,86,86
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-10-01,36,36
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-10-01,176,176
+SAN LUCAS,malaria,numero de muestras hematicas tomadas,2009-10-01,2,2
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-10-01,186,186
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-10-01,21,21
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-10-01,0,0
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-10-01,21,21
+SENA,malaria,numero de muestras hematicas tomadas,2009-10-01,203,203
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-10-01,7,7
+TARABUCO,malaria,numero de muestras hematicas tomadas,2009-10-01,1,1
+TARVITA,malaria,numero de muestras hematicas tomadas,2009-10-01,70,70
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-10-01,20,20
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-10-01,4,4
+VALLEGRANDE,malaria,numero de muestras hematicas tomadas,2009-10-01,2,2
+VILA VILA,malaria,numero de muestras hematicas tomadas,2009-10-01,214,214
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-10-01,39,39
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-10-01,12,12
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-10-01,12,12
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-10-01,3,3
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-10-01,339,339
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-10-01,9,9
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-10-01,13,13
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-11-01,52,52
+AIQUILE,malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+APOLO,malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-11-01,27,27
+BAURES,malaria,numero de muestras hematicas tomadas,2009-11-01,116,116
+BELLA FLOR,malaria,numero de muestras hematicas tomadas,2009-11-01,8,8
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-11-01,39,39
+BOLPEBRA,malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-11-01,22,22
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-11-01,53,53
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-11-01,17,17
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-11-01,105,105
+COLOMI,malaria,numero de muestras hematicas tomadas,2009-11-01,1,1
+CONCEPCION,malaria,numero de muestras hematicas tomadas,2009-11-01,30,30
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-11-01,16,16
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-11-01,209,209
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-11-01,203,203
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-11-01,72,72
+GRAL. J.J. PEREZ (CHARAZANI),malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-11-01,36,36
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-11-01,1272,1272
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+INCAHUASI,malaria,numero de muestras hematicas tomadas,2009-11-01,33,33
+INGAVI (HUMAITA),malaria,numero de muestras hematicas tomadas,2009-11-01,17,17
+IXIAMAS,malaria,numero de muestras hematicas tomadas,2009-11-01,4,4
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-11-01,14,14
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-11-01,6,6
+LA PAZ,malaria,numero de muestras hematicas tomadas,2009-11-01,21,21
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-11-01,18,18
+MACHARETI,malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-11-01,59,59
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-11-01,10,10
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-11-01,18,18
+MONTERO,malaria,numero de muestras hematicas tomadas,2009-11-01,1,1
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-11-01,62,62
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-11-01,388,388
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-11-01,196,196
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-11-01,9,9
+PAILON,malaria,numero de muestras hematicas tomadas,2009-11-01,1,1
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-11-01,70,70
+POROMA,malaria,numero de muestras hematicas tomadas,2009-11-01,4,4
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-11-01,4,4
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-11-01,206,206
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-11-01,96,96
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-11-01,202,202
+PUERTO VILLARROEL,malaria,numero de muestras hematicas tomadas,2009-11-01,7,7
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-11-01,1202,1202
+ROBORE,malaria,numero de muestras hematicas tomadas,2009-11-01,12,12
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+SACABA,malaria,numero de muestras hematicas tomadas,2009-11-01,4,4
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-11-01,5,5
+SAN BORJA,malaria,numero de muestras hematicas tomadas,2009-11-01,4,4
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-11-01,12,12
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-11-01,131,131
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-11-01,44,44
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-11-01,162,162
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+SAN LUCAS,malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+SAN MATIAS,malaria,numero de muestras hematicas tomadas,2009-11-01,95,95
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-11-01,18,18
+SANTA CRUZ DE LA SIERRA,malaria,numero de muestras hematicas tomadas,2009-11-01,2,2
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-11-01,31,31
+SENA,malaria,numero de muestras hematicas tomadas,2009-11-01,77,77
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-11-01,10,10
+TARABUCO,malaria,numero de muestras hematicas tomadas,2009-11-01,1,1
+TARVITA,malaria,numero de muestras hematicas tomadas,2009-11-01,3,3
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-11-01,31,31
+TOCO,malaria,numero de muestras hematicas tomadas,2009-11-01,120,120
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-11-01,63,63
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-11-01,280,280
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-11-01,63,63
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-11-01,7,7
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-11-01,21,21
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-11-01,1,1
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-11-01,405,405
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-11-01,16,16
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-11-01,1,1
+ACACIO,malaria,numero de muestras hematicas tomadas,2009-12-01,10,10
+ALCALA,malaria,numero de muestras hematicas tomadas,2009-12-01,5,5
+APOLO,malaria,numero de muestras hematicas tomadas,2009-12-01,21,21
+AZURDUY,malaria,numero de muestras hematicas tomadas,2009-12-01,77,77
+BAURES,malaria,numero de muestras hematicas tomadas,2009-12-01,84,84
+BELLA FLOR,malaria,numero de muestras hematicas tomadas,2009-12-01,35,35
+BERMEJO,malaria,numero de muestras hematicas tomadas,2009-12-01,84,84
+BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-12-01,14,14
+CAMIRI,malaria,numero de muestras hematicas tomadas,2009-12-01,17,17
+CARANAVI,malaria,numero de muestras hematicas tomadas,2009-12-01,64,64
+CARAPARI,malaria,numero de muestras hematicas tomadas,2009-12-01,33,33
+COBIJA,malaria,numero de muestras hematicas tomadas,2009-12-01,155,155
+CONCEPCION,malaria,numero de muestras hematicas tomadas,2009-12-01,162,162
+COROICO,malaria,numero de muestras hematicas tomadas,2009-12-01,4,4
+CUEVO,malaria,numero de muestras hematicas tomadas,2009-12-01,2,2
+CULPINA,malaria,numero de muestras hematicas tomadas,2009-12-01,4,4
+EL TORNO,malaria,numero de muestras hematicas tomadas,2009-12-01,243,243
+ENTRE RIOS,malaria,numero de muestras hematicas tomadas,2009-12-01,149,149
+EUREKA (SANTOS MERCADO),malaria,numero de muestras hematicas tomadas,2009-12-01,54,54
+FILADELFIA,malaria,numero de muestras hematicas tomadas,2009-12-01,10,10
+GUANAY,malaria,numero de muestras hematicas tomadas,2009-12-01,40,40
+GUAYARAMERIN,malaria,numero de muestras hematicas tomadas,2009-12-01,2216,2216
+HUACARETA,malaria,numero de muestras hematicas tomadas,2009-12-01,5,5
+INGAVI (HUMAITA),malaria,numero de muestras hematicas tomadas,2009-12-01,7,7
+LA ASUNTA,malaria,numero de muestras hematicas tomadas,2009-12-01,19,19
+LA GUARDIA,malaria,numero de muestras hematicas tomadas,2009-12-01,15,15
+LAGUNILLAS,malaria,numero de muestras hematicas tomadas,2009-12-01,26,26
+MAGDALENA,malaria,numero de muestras hematicas tomadas,2009-12-01,57,57
+MAPIRI,malaria,numero de muestras hematicas tomadas,2009-12-01,9,9
+MIZQUE,malaria,numero de muestras hematicas tomadas,2009-12-01,1,1
+MONTEAGUDO,malaria,numero de muestras hematicas tomadas,2009-12-01,26,26
+NACEBE (SANTA ROSA DEL ABUNA),malaria,numero de muestras hematicas tomadas,2009-12-01,78,78
+NUEVO MANOA (NUEVA ESPERANZA),malaria,numero de muestras hematicas tomadas,2009-12-01,272,272
+OMEREQUE,malaria,numero de muestras hematicas tomadas,2009-12-01,1,1
+PADCAYA,malaria,numero de muestras hematicas tomadas,2009-12-01,20,20
+PADILLA,malaria,numero de muestras hematicas tomadas,2009-12-01,5,5
+PAILON,malaria,numero de muestras hematicas tomadas,2009-12-01,2,2
+PALOS BLANCOS,malaria,numero de muestras hematicas tomadas,2009-12-01,127,127
+PORONGO,malaria,numero de muestras hematicas tomadas,2009-12-01,22,22
+PORVENIR,malaria,numero de muestras hematicas tomadas,2009-12-01,37,37
+PUERTO GONZALO MORENO,malaria,numero de muestras hematicas tomadas,2009-12-01,79,79
+PUERTO RICO,malaria,numero de muestras hematicas tomadas,2009-12-01,168,168
+REYES,malaria,numero de muestras hematicas tomadas,2009-12-01,18,18
+RIBERALTA,malaria,numero de muestras hematicas tomadas,2009-12-01,1513,1513
+ROBORE,malaria,numero de muestras hematicas tomadas,2009-12-01,15,15
+RURRENABAQUE,malaria,numero de muestras hematicas tomadas,2009-12-01,2,2
+SAIPINA,malaria,numero de muestras hematicas tomadas,2009-12-01,24,24
+SAN BORJA,malaria,numero de muestras hematicas tomadas,2009-12-01,2,2
+SAN CARLOS,malaria,numero de muestras hematicas tomadas,2009-12-01,12,12
+SAN IGNACIO DE VELASCO,malaria,numero de muestras hematicas tomadas,2009-12-01,126,126
+SAN JOSE DE CHIQUITOS,malaria,numero de muestras hematicas tomadas,2009-12-01,36,36
+SAN LORENZO(PND),malaria,numero de muestras hematicas tomadas,2009-12-01,95,95
+SAN LORENZO(TJA),malaria,numero de muestras hematicas tomadas,2009-12-01,2,2
+SAN LUCAS,malaria,numero de muestras hematicas tomadas,2009-12-01,5,5
+SAN PEDRO DE BUENA VISTA,malaria,numero de muestras hematicas tomadas,2009-12-01,90,90
+SAN PEDRO(PND),malaria,numero de muestras hematicas tomadas,2009-12-01,24,24
+SANTA ANA,malaria,numero de muestras hematicas tomadas,2009-12-01,1,1
+SANTA ROSA,malaria,numero de muestras hematicas tomadas,2009-12-01,18,18
+SENA,malaria,numero de muestras hematicas tomadas,2009-12-01,164,164
+SOPACHUY,malaria,numero de muestras hematicas tomadas,2009-12-01,9,9
+TARVITA,malaria,numero de muestras hematicas tomadas,2009-12-01,1,1
+TEOPONTE,malaria,numero de muestras hematicas tomadas,2009-12-01,54,54
+TIRAQUE (CBBA),malaria,numero de muestras hematicas tomadas,2009-12-01,3,3
+TOMINA,malaria,numero de muestras hematicas tomadas,2009-12-01,177,177
+TORO TORO,malaria,numero de muestras hematicas tomadas,2009-12-01,53,53
+URIONDO (A. CONCEPCION),malaria,numero de muestras hematicas tomadas,2009-12-01,2,2
+VILLA MONTES,malaria,numero de muestras hematicas tomadas,2009-12-01,266,266
+VILLA NUEVA (LOMA ALTA),malaria,numero de muestras hematicas tomadas,2009-12-01,24,24
+VILLA SERRANO,malaria,numero de muestras hematicas tomadas,2009-12-01,1,1
+VILLA TUNARI,malaria,numero de muestras hematicas tomadas,2009-12-01,15,15
+VILLA VACA GUZMAN (MUYUPAMPA),malaria,numero de muestras hematicas tomadas,2009-12-01,3,3
+WARNES,malaria,numero de muestras hematicas tomadas,2009-12-01,2,2
+YACUIBA,malaria,numero de muestras hematicas tomadas,2009-12-01,453,453
+YAPACANI,malaria,numero de muestras hematicas tomadas,2009-12-01,14,14
+ZUDAÑEZ,malaria,numero de muestras hematicas tomadas,2009-12-01,6,6

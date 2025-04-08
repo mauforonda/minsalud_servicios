@@ -1,0 +1,305 @@
+department,municipality_id,municipality,year,month,population,value
+Chuquisaca,10201,Azurduy,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,71301,Comarapa,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80202,Guayaramerin,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10304,Icla,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60201,Padcaya,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,2
+Beni,80201,Riberalta,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80701,San Joaquin,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,3
+Oruro,41301,Totora(orr),2023,1,Pacientes referidos del establecimiento a la medicina tradicional,9
+Beni,80101,Trinidad,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60303,Villa Montes,2023,1,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60201,Padcaya,2023,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80701,San Joaquin,2023,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60101,Tarija,2023,2,Pacientes referidos del establecimiento a la medicina tradicional,1
+Oruro,41301,Totora(orr),2023,2,Pacientes referidos del establecimiento a la medicina tradicional,8
+Chuquisaca,10704,Villa Charcas,2023,2,Pacientes referidos del establecimiento a la medicina tradicional,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2023,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71301,Comarapa,2023,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70102,Cotoca,2023,3,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60502,El Puente(tja),2023,3,Pacientes referidos del establecimiento a la medicina tradicional,3
+Beni,80202,Guayaramerin,2023,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60201,Padcaya,2023,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80701,San Joaquin,2023,3,Pacientes referidos del establecimiento a la medicina tradicional,2
+Oruro,41301,Totora(orr),2023,3,Pacientes referidos del establecimiento a la medicina tradicional,5
+Chuquisaca,10704,Villa Charcas,2023,3,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10301,Zudañez,2023,3,Pacientes referidos del establecimiento a la medicina tradicional,1
+Potosí,50802,Atocha,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,70706,Camiri,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60302,Carapari,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60201,Padcaya,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10103,Poroma,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,4
+Chuquisaca,10202,Tarvita,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10402,Tomina,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,1
+Oruro,41301,Totora(orr),2023,4,Pacientes referidos del establecimiento a la medicina tradicional,7
+Beni,80101,Trinidad,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10704,Villa Charcas,2023,4,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,70706,Camiri,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60302,Carapari,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,3
+Cochabamba,30101,Cochabamba,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71301,Comarapa,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,2
+La Paz,20806,Jesus De Machaca,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60201,Padcaya,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80201,Riberalta,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,5
+Cochabamba,31101,Tapacari,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60101,Tarija,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+Oruro,41301,Totora(orr),2023,5,Pacientes referidos del establecimiento a la medicina tradicional,6
+Chuquisaca,10704,Villa Charcas,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,6
+Tarija,60303,Villa Montes,2023,5,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20104,Achocalla,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,0
+Potosí,50204,Chuquihuta Ayllu Jucumani,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,6
+Tarija,60502,El Puente(tja),2023,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20806,Jesus De Machaca,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,14
+Chuquisaca,10501,Monteagudo,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10103,Poroma,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,4
+Beni,80201,Riberalta,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Cochabamba,30602,Tacopaya,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60101,Tarija,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,2
+Oruro,41301,Totora(orr),2023,6,Pacientes referidos del establecimiento a la medicina tradicional,7
+Chuquisaca,10704,Villa Charcas,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,8
+Tarija,60303,Villa Montes,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70201,Warnes,2023,6,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60302,Carapari,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,60
+Tarija,60502,El Puente(tja),2023,7,Pacientes referidos del establecimiento a la medicina tradicional,3
+La Paz,20806,Jesus De Machaca,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Beni,80703,Puerto Siles,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Beni,80201,Riberalta,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80302,San Borja,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,5
+Pando,90302,San Lorenzo(pnd),2023,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Potosí,50405,San Pedro De Macha,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60101,Tarija,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Oruro,41301,Totora(orr),2023,7,Pacientes referidos del establecimiento a la medicina tradicional,7
+Chuquisaca,10704,Villa Charcas,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60303,Villa Montes,2023,7,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,70401,Buena Vista,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71301,Comarapa,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,3
+La Paz,20105,El Alto,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,2
+La Paz,20101,La Paz,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Potosí,50404,Ocuri,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60201,Padcaya,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10103,Poroma,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,2
+Beni,80201,Riberalta,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60501,San Lorenzo(tja),2023,8,Pacientes referidos del establecimiento a la medicina tradicional,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Oruro,41301,Totora(orr),2023,8,Pacientes referidos del establecimiento a la medicina tradicional,5
+Beni,80101,Trinidad,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,6
+Tarija,60401,Uriondo (a. Concepcion),2023,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70801,Vallegrande,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10704,Villa Charcas,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60301,Yacuiba,2023,8,Pacientes referidos del establecimiento a la medicina tradicional,1
+Potosí,50802,Atocha,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80802,Baures,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71301,Comarapa,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60502,El Puente(tja),2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20806,Jesus De Machaca,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10903,Las Carreras,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60201,Padcaya,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80201,Riberalta,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,5
+Beni,80302,San Borja,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60501,San Lorenzo(tja),2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70602,Santa Rosa Del Sara,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60101,Tarija,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+Oruro,41301,Totora(orr),2023,9,Pacientes referidos del establecimiento a la medicina tradicional,5
+Beni,80101,Trinidad,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,11
+Chuquisaca,10704,Villa Charcas,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60303,Villa Montes,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60301,Yacuiba,2023,9,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10701,Camargo,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10903,Las Carreras,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,11003,Machareti,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10303,Mojocoya,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Chuquisaca,10103,Poroma,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80201,Riberalta,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,3
+Beni,80302,San Borja,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80701,San Joaquin,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,3
+Tarija,60101,Tarija,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,1
+Oruro,41301,Totora(orr),2023,10,Pacientes referidos del establecimiento a la medicina tradicional,4
+Beni,80101,Trinidad,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,2
+La Paz,20801,Viacha,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,6
+Chuquisaca,10704,Villa Charcas,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,4
+Tarija,60301,Yacuiba,2023,10,Pacientes referidos del establecimiento a la medicina tradicional,3
+Potosí,50802,Atocha,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71301,Comarapa,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+La Paz,20105,El Alto,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,3
+La Paz,20607,Mapiri,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,5
+Tarija,60201,Padcaya,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,3
+Chuquisaca,10103,Poroma,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80201,Riberalta,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80302,San Borja,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,5
+Beni,80501,San Ignacio,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70602,Santa Rosa Del Sara,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60101,Tarija,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,3
+Oruro,41301,Totora(orr),2023,11,Pacientes referidos del establecimiento a la medicina tradicional,7
+Beni,80101,Trinidad,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60303,Villa Montes,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10301,Zudañez,2023,11,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,71301,Comarapa,2023,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Santa Cruz,70102,Cotoca,2023,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Beni,80201,Riberalta,2023,12,Pacientes referidos del establecimiento a la medicina tradicional,2
+Pando,90302,San Lorenzo(pnd),2023,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Tarija,60501,San Lorenzo(tja),2023,12,Pacientes referidos del establecimiento a la medicina tradicional,2
+Tarija,60101,Tarija,2023,12,Pacientes referidos del establecimiento a la medicina tradicional,1
+Oruro,41301,Totora(orr),2023,12,Pacientes referidos del establecimiento a la medicina tradicional,5
+Beni,80101,Trinidad,2023,12,Pacientes referidos del establecimiento a la medicina tradicional,2
+Chuquisaca,10704,Villa Charcas,2023,12,Pacientes referidos del establecimiento a la medicina tradicional,4
+Chuquisaca,10201,Azurduy,2023,1,TOTAL,2
+Santa Cruz,71301,Comarapa,2023,1,TOTAL,1
+Beni,80202,Guayaramerin,2023,1,TOTAL,2
+Chuquisaca,10304,Icla,2023,1,TOTAL,2
+Tarija,60201,Padcaya,2023,1,TOTAL,2
+Beni,80201,Riberalta,2023,1,TOTAL,1
+Beni,80701,San Joaquin,2023,1,TOTAL,3
+Oruro,41301,Totora(orr),2023,1,TOTAL,9
+Beni,80101,Trinidad,2023,1,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2023,1,TOTAL,3
+Tarija,60303,Villa Montes,2023,1,TOTAL,2
+Tarija,60201,Padcaya,2023,2,TOTAL,1
+Beni,80701,San Joaquin,2023,2,TOTAL,1
+Tarija,60101,Tarija,2023,2,TOTAL,1
+Oruro,41301,Totora(orr),2023,2,TOTAL,8
+Chuquisaca,10704,Villa Charcas,2023,2,TOTAL,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2023,3,TOTAL,1
+Santa Cruz,71301,Comarapa,2023,3,TOTAL,1
+Santa Cruz,70102,Cotoca,2023,3,TOTAL,2
+Tarija,60502,El Puente(tja),2023,3,TOTAL,3
+Beni,80202,Guayaramerin,2023,3,TOTAL,1
+Tarija,60201,Padcaya,2023,3,TOTAL,1
+Beni,80701,San Joaquin,2023,3,TOTAL,2
+Oruro,41301,Totora(orr),2023,3,TOTAL,5
+Chuquisaca,10704,Villa Charcas,2023,3,TOTAL,2
+Chuquisaca,10301,Zudañez,2023,3,TOTAL,1
+Potosí,50802,Atocha,2023,4,TOTAL,2
+Santa Cruz,70706,Camiri,2023,4,TOTAL,1
+Tarija,60302,Carapari,2023,4,TOTAL,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2023,4,TOTAL,2
+Tarija,60201,Padcaya,2023,4,TOTAL,2
+Chuquisaca,10103,Poroma,2023,4,TOTAL,4
+Chuquisaca,10202,Tarvita,2023,4,TOTAL,1
+Chuquisaca,10402,Tomina,2023,4,TOTAL,1
+Oruro,41301,Totora(orr),2023,4,TOTAL,7
+Beni,80101,Trinidad,2023,4,TOTAL,3
+Chuquisaca,10704,Villa Charcas,2023,4,TOTAL,2
+Santa Cruz,70706,Camiri,2023,5,TOTAL,1
+Tarija,60302,Carapari,2023,5,TOTAL,1
+Potosí,50204,Chuquihuta Ayllu Jucumani,2023,5,TOTAL,3
+Cochabamba,30101,Cochabamba,2023,5,TOTAL,1
+Santa Cruz,71301,Comarapa,2023,5,TOTAL,1
+La Paz,20105,El Alto,2023,5,TOTAL,2
+La Paz,20806,Jesus De Machaca,2023,5,TOTAL,3
+Tarija,60201,Padcaya,2023,5,TOTAL,1
+Beni,80201,Riberalta,2023,5,TOTAL,5
+Cochabamba,31101,Tapacari,2023,5,TOTAL,1
+Tarija,60101,Tarija,2023,5,TOTAL,1
+Oruro,41301,Totora(orr),2023,5,TOTAL,6
+Chuquisaca,10704,Villa Charcas,2023,5,TOTAL,6
+Tarija,60303,Villa Montes,2023,5,TOTAL,1
+La Paz,20104,Achocalla,2023,6,TOTAL,0
+Potosí,50204,Chuquihuta Ayllu Jucumani,2023,6,TOTAL,1
+La Paz,20105,El Alto,2023,6,TOTAL,6
+Tarija,60502,El Puente(tja),2023,6,TOTAL,1
+La Paz,20806,Jesus De Machaca,2023,6,TOTAL,14
+Chuquisaca,10501,Monteagudo,2023,6,TOTAL,3
+Chuquisaca,10103,Poroma,2023,6,TOTAL,4
+Beni,80201,Riberalta,2023,6,TOTAL,1
+Cochabamba,30602,Tacopaya,2023,6,TOTAL,1
+Tarija,60101,Tarija,2023,6,TOTAL,2
+Oruro,41301,Totora(orr),2023,6,TOTAL,7
+Chuquisaca,10704,Villa Charcas,2023,6,TOTAL,8
+Tarija,60303,Villa Montes,2023,6,TOTAL,1
+Santa Cruz,70201,Warnes,2023,6,TOTAL,1
+Tarija,60302,Carapari,2023,7,TOTAL,1
+La Paz,20105,El Alto,2023,7,TOTAL,60
+Tarija,60502,El Puente(tja),2023,7,TOTAL,3
+La Paz,20806,Jesus De Machaca,2023,7,TOTAL,2
+Beni,80703,Puerto Siles,2023,7,TOTAL,2
+Beni,80201,Riberalta,2023,7,TOTAL,1
+Beni,80302,San Borja,2023,7,TOTAL,5
+Pando,90302,San Lorenzo(pnd),2023,7,TOTAL,1
+Potosí,50405,San Pedro De Macha,2023,7,TOTAL,1
+Tarija,60101,Tarija,2023,7,TOTAL,2
+Oruro,41301,Totora(orr),2023,7,TOTAL,7
+Chuquisaca,10704,Villa Charcas,2023,7,TOTAL,3
+Tarija,60303,Villa Montes,2023,7,TOTAL,2
+Santa Cruz,70401,Buena Vista,2023,8,TOTAL,1
+Santa Cruz,71301,Comarapa,2023,8,TOTAL,3
+La Paz,20105,El Alto,2023,8,TOTAL,2
+La Paz,20101,La Paz,2023,8,TOTAL,1
+Potosí,50404,Ocuri,2023,8,TOTAL,1
+Tarija,60201,Padcaya,2023,8,TOTAL,1
+Chuquisaca,10103,Poroma,2023,8,TOTAL,2
+Beni,80201,Riberalta,2023,8,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2023,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2023,8,TOTAL,1
+Oruro,41301,Totora(orr),2023,8,TOTAL,5
+Beni,80101,Trinidad,2023,8,TOTAL,6
+Tarija,60401,Uriondo (a. Concepcion),2023,8,TOTAL,1
+Santa Cruz,70801,Vallegrande,2023,8,TOTAL,1
+Chuquisaca,10704,Villa Charcas,2023,8,TOTAL,3
+Tarija,60301,Yacuiba,2023,8,TOTAL,1
+Potosí,50802,Atocha,2023,9,TOTAL,1
+Beni,80802,Baures,2023,9,TOTAL,1
+Santa Cruz,71301,Comarapa,2023,9,TOTAL,1
+La Paz,20105,El Alto,2023,9,TOTAL,1
+Tarija,60502,El Puente(tja),2023,9,TOTAL,1
+La Paz,20806,Jesus De Machaca,2023,9,TOTAL,1
+Chuquisaca,10903,Las Carreras,2023,9,TOTAL,3
+Tarija,60201,Padcaya,2023,9,TOTAL,1
+Beni,80201,Riberalta,2023,9,TOTAL,5
+Beni,80302,San Borja,2023,9,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2023,9,TOTAL,1
+Santa Cruz,70602,Santa Rosa Del Sara,2023,9,TOTAL,1
+Tarija,60101,Tarija,2023,9,TOTAL,2
+Oruro,41301,Totora(orr),2023,9,TOTAL,5
+Beni,80101,Trinidad,2023,9,TOTAL,11
+Chuquisaca,10704,Villa Charcas,2023,9,TOTAL,2
+Tarija,60303,Villa Montes,2023,9,TOTAL,1
+Tarija,60301,Yacuiba,2023,9,TOTAL,1
+Chuquisaca,10701,Camargo,2023,10,TOTAL,1
+La Paz,20105,El Alto,2023,10,TOTAL,1
+Chuquisaca,10903,Las Carreras,2023,10,TOTAL,1
+Chuquisaca,11003,Machareti,2023,10,TOTAL,2
+Chuquisaca,10303,Mojocoya,2023,10,TOTAL,1
+Chuquisaca,10103,Poroma,2023,10,TOTAL,1
+Beni,80201,Riberalta,2023,10,TOTAL,3
+Beni,80302,San Borja,2023,10,TOTAL,1
+Beni,80701,San Joaquin,2023,10,TOTAL,3
+Tarija,60101,Tarija,2023,10,TOTAL,1
+Oruro,41301,Totora(orr),2023,10,TOTAL,4
+Beni,80101,Trinidad,2023,10,TOTAL,2
+La Paz,20801,Viacha,2023,10,TOTAL,6
+Chuquisaca,10704,Villa Charcas,2023,10,TOTAL,4
+Tarija,60301,Yacuiba,2023,10,TOTAL,3
+Potosí,50802,Atocha,2023,11,TOTAL,1
+Santa Cruz,71301,Comarapa,2023,11,TOTAL,1
+La Paz,20105,El Alto,2023,11,TOTAL,3
+La Paz,20607,Mapiri,2023,11,TOTAL,5
+Tarija,60201,Padcaya,2023,11,TOTAL,3
+Chuquisaca,10103,Poroma,2023,11,TOTAL,1
+Beni,80201,Riberalta,2023,11,TOTAL,1
+Beni,80302,San Borja,2023,11,TOTAL,5
+Beni,80501,San Ignacio,2023,11,TOTAL,1
+Santa Cruz,70602,Santa Rosa Del Sara,2023,11,TOTAL,1
+Tarija,60101,Tarija,2023,11,TOTAL,3
+Oruro,41301,Totora(orr),2023,11,TOTAL,7
+Beni,80101,Trinidad,2023,11,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2023,11,TOTAL,1
+Tarija,60303,Villa Montes,2023,11,TOTAL,2
+Chuquisaca,10301,Zudañez,2023,11,TOTAL,1
+Santa Cruz,71301,Comarapa,2023,12,TOTAL,1
+Santa Cruz,70102,Cotoca,2023,12,TOTAL,1
+Beni,80201,Riberalta,2023,12,TOTAL,2
+Pando,90302,San Lorenzo(pnd),2023,12,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2023,12,TOTAL,2
+Tarija,60101,Tarija,2023,12,TOTAL,1
+Oruro,41301,Totora(orr),2023,12,TOTAL,5
+Beni,80101,Trinidad,2023,12,TOTAL,2
+Chuquisaca,10704,Villa Charcas,2023,12,TOTAL,4

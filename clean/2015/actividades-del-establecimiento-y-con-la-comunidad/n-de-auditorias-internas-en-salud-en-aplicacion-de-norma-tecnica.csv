@@ -1,0 +1,793 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,21304,Calamarca,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30801,Cliza,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Pando,90101,Cobija,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,75
+Potosí,50401,Colquechaca,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40301,Corque,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,20602,Guanay,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20101,La Paz,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,21202,Laja,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10303,Mojocoya,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Oruro,40101,Oruro,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,26
+Santa Cruz,70601,Portachuelo,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10302,Presto,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70303,San Rafael,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Chuquisaca,10101,Sucre,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10601,Tarabuco,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,13
+Tarija,60101,Tarija,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Cochabamba,30803,Tolata,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30904,Vinto,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Santa Cruz,70201,Warnes,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60301,Yacuiba,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70403,Yapacani,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10301,Zudañez,2015,1,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Tarija,60202,Bermejo,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70703,Cabezas,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,9
+La Paz,20203,Chua Cocani,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30101,Cochabamba,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Potosí,50401,Colquechaca,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20105,El Alto,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Chuquisaca,10304,Icla,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,9
+La Paz,21105,La Asunta,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20101,La Paz,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10303,Mojocoya,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Oruro,40101,Oruro,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,199
+Tarija,60201,Padcaya,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70601,Portachuelo,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10302,Presto,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,15
+La Paz,21502,San Buena Ventura,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10101,Sucre,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10601,Tarabuco,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Tarija,60101,Tarija,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Cochabamba,30803,Tolata,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10402,Tomina,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60301,Yacuiba,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,18
+Chuquisaca,10602,Yamparaez,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Tarija,60402,Yunchara,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10301,Zudañez,2015,2,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Santa Cruz,70703,Cabezas,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50302,Chaqui,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,31204,Chimore,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30101,Cochabamba,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Potosí,50401,Colquechaca,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60601,Entre Rios Trj,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,71002,General Saavedra,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10304,Icla,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,10
+La Paz,20101,La Paz,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,21202,Laja,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10903,Las Carreras,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Chuquisaca,10303,Mojocoya,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,10401,Padilla,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,7
+La Paz,20102,Palca,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Cochabamba,31203,Pocona,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10302,Presto,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,21204,Puerto Perez,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50402,Ravelo,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,21502,San Buena Ventura,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,71104,San Julian,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,30
+Chuquisaca,10101,Sucre,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Chuquisaca,10601,Tarabuco,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,13
+Tarija,60101,Tarija,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30803,Tolata,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20801,Viacha,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,10704,Villa Charcas,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60301,Yacuiba,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Tarija,60402,Yunchara,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10301,Zudañez,2015,3,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Chuquisaca,10404,Alcala,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Tarija,60202,Bermejo,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,51102,"Caiza ""d""",2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21304,Calamarca,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,20501,Chuma,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,51103,Ckochas,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Potosí,50401,Colquechaca,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10902,Culpina,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Santa Cruz,70105,El Torno,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10304,Icla,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,6
+La Paz,20101,La Paz,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Chuquisaca,10303,Mojocoya,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,10501,Monteagudo,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Potosí,50404,Ocuri,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40101,Oruro,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,74
+Chuquisaca,10401,Padilla,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Cochabamba,31203,Pocona,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Santa Cruz,70103,Porongo,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10302,Presto,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Potosí,51101,Puna,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,13
+Cochabamba,30901,Quillacollo,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Beni,80302,San Borja,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21502,San Buena Ventura,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,144
+Cochabamba,30902,Sipe Sipe,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,43
+Chuquisaca,10101,Sucre,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,14
+Chuquisaca,10601,Tarabuco,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,12
+Chuquisaca,10202,Tarvita,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Potosí,50102,Tinguipaya,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30803,Tolata,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10402,Tomina,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10704,Villa Charcas,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60301,Yacuiba,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Chuquisaca,10602,Yamparaez,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Tarija,60402,Yunchara,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Chuquisaca,10301,Zudañez,2015,4,N de auditorias internas en salud en aplicacion de norma tecnica,6
+La Paz,21304,Calamarca,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Potosí,51103,Ckochas,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,20802,Guaqui,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20204,Huarina,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10304,Icla,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,11
+La Paz,20101,La Paz,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Chuquisaca,10303,Mojocoya,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Santa Cruz,71001,Montero,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10401,Padilla,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20102,Palca,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10302,Presto,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Cochabamba,30901,Quillacollo,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21502,San Buena Ventura,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Cochabamba,30902,Sipe Sipe,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10101,Sucre,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Chuquisaca,10601,Tarabuco,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,11
+Cochabamba,30803,Tolata,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60301,Yacuiba,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,17
+Chuquisaca,10602,Yamparaez,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Tarija,60402,Yunchara,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,10301,Zudañez,2015,5,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Chuquisaca,10201,Azurduy,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20303,Calacoto,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20501,Chuma,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40301,Corque,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70102,Cotoca,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10902,Culpina,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20105,El Alto,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Tarija,60601,Entre Rios Trj,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,11
+Chuquisaca,10304,Icla,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Pando,90402,Ingavi (humaita),2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,6
+La Paz,20101,La Paz,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,11003,Machareti,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10303,Mojocoya,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,10501,Monteagudo,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71001,Montero,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60201,Padcaya,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10401,Padilla,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70502,Pailon,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50101,Potosi,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10302,Presto,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Potosí,51101,Puna,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Beni,80602,San Andres,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,3
+La Paz,21502,San Buena Ventura,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10702,San Lucas,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10101,Sucre,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Chuquisaca,10601,Tarabuco,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Chuquisaca,10202,Tarvita,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60301,Yacuiba,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10602,Yamparaez,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60402,Yunchara,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,20
+Chuquisaca,10301,Zudañez,2015,6,N de auditorias internas en salud en aplicacion de norma tecnica,7
+La Paz,21304,Calamarca,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60302,Carapari,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,20
+Cochabamba,30101,Cochabamba,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Cochabamba,30905,Colcapirhua,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10902,Culpina,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Tarija,60502,El Puente(tja),2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,20802,Guaqui,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20204,Huarina,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10304,Icla,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,12
+La Paz,20101,La Paz,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Beni,80601,Loreto,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,11003,Machareti,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10303,Mojocoya,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,10501,Monteagudo,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50404,Ocuri,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60201,Padcaya,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10401,Padilla,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10302,Presto,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,8
+La Paz,21502,San Buena Ventura,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70501,San Jose De Chiquitos,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60501,San Lorenzo(tja),2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Chuquisaca,10702,San Lucas,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,46
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,11
+Chuquisaca,10101,Sucre,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,14
+Chuquisaca,10601,Tarabuco,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,12
+Tarija,60101,Tarija,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,10202,Tarvita,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70801,Vallegrande,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,31003,Villa Tunari,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,24
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60301,Yacuiba,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10602,Yamparaez,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,11
+Tarija,60402,Yunchara,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Chuquisaca,10301,Zudañez,2015,7,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Chuquisaca,10404,Alcala,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21303,Ayo Ayo,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60202,Bermejo,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50302,Chaqui,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Pando,90101,Cobija,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,120
+Cochabamba,30101,Cochabamba,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Santa Cruz,71106,Cuatro Cañadas,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10902,Culpina,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10304,Icla,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,12
+La Paz,20101,La Paz,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,7
+La Paz,20103,Mecapaca,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10303,Mojocoya,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Oruro,40101,Oruro,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,11
+Tarija,60201,Padcaya,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10401,Padilla,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,31203,Pocona,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50101,Potosi,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10302,Presto,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Cochabamba,31205,Puerto Villarroel,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Potosí,51101,Puna,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,43
+Cochabamba,30901,Quillacollo,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40901,Sabaya,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21502,San Buena Ventura,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70404,San Juan De Yapacani,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,19
+Tarija,60501,San Lorenzo(tja),2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,12
+Chuquisaca,10702,San Lucas,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,13
+Cochabamba,30902,Sipe Sipe,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10101,Sucre,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Chuquisaca,10601,Tarabuco,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,12
+Tarija,60101,Tarija,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10202,Tarvita,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Oruro,41502,Todos Santos,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30803,Tolata,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50602,Vitichi,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70201,Warnes,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Tarija,60301,Yacuiba,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10602,Yamparaez,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Tarija,60402,Yunchara,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Chuquisaca,10301,Zudañez,2015,8,N de auditorias internas en salud en aplicacion de norma tecnica,7
+La Paz,20701,Apolo,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,50
+Tarija,60202,Bermejo,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70401,Buena Vista,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,51103,Ckochas,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30801,Cliza,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30303,Cocapata,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,30101,Cochabamba,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Oruro,40301,Corque,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50601,Cotagaita,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10902,Culpina,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,7
+La Paz,20105,El Alto,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Tarija,60502,El Puente(tja),2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70105,El Torno,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Tarija,60601,Entre Rios Trj,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10304,Icla,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,12
+La Paz,20101,La Paz,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Beni,80601,Loreto,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Chuquisaca,11003,Machareti,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10303,Mojocoya,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Chuquisaca,10501,Monteagudo,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Santa Cruz,71001,Montero,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60201,Padcaya,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10401,Padilla,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Cochabamba,31202,Pojo (cbba),2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10302,Presto,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Cochabamba,30901,Quillacollo,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40901,Sabaya,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21502,San Buena Ventura,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Tarija,60501,San Lorenzo(tja),2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10702,San Lucas,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,10101,Sucre,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,34
+Chuquisaca,10601,Tarabuco,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,12
+Tarija,60101,Tarija,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Potosí,50102,Tinguipaya,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30803,Tolata,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Santa Cruz,70201,Warnes,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10602,Yamparaez,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Tarija,60402,Yunchara,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Chuquisaca,10301,Zudañez,2015,9,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Chuquisaca,10201,Azurduy,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70401,Buena Vista,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70703,Cabezas,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,22001,Caranavi,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30303,Cocapata,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Cochabamba,30101,Cochabamba,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Oruro,40301,Corque,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50601,Cotagaita,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21602,Curva,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Santa Cruz,70105,El Torno,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10405,El Villar,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60601,Entre Rios Trj,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10502,Huacareta,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10304,Icla,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,10
+La Paz,20806,Jesus De Machaca,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20101,La Paz,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10303,Mojocoya,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Chuquisaca,10501,Monteagudo,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60201,Padcaya,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10401,Padilla,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+La Paz,21802,Papel Pampa,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,51203,Porco,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Chuquisaca,10302,Presto,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Cochabamba,30901,Quillacollo,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Oruro,40901,Sabaya,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,21502,San Buena Ventura,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60501,San Lorenzo(tja),2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,6
+Chuquisaca,10702,San Lucas,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,71005,San Pedro,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,11
+Chuquisaca,10101,Sucre,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,13
+Chuquisaca,10601,Tarabuco,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,11
+Tarija,60101,Tarija,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,50502,Toro Toro,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60401,Uriondo (a. Concepcion),2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70801,Vallegrande,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Tarija,60301,Yacuiba,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10602,Yamparaez,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60402,Yunchara,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10301,Zudañez,2015,10,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Tarija,60202,Bermejo,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10701,Camargo,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70706,Camiri,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Tarija,60302,Carapari,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,51103,Ckochas,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Cochabamba,30101,Cochabamba,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Oruro,40301,Corque,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10902,Culpina,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20105,El Alto,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Chuquisaca,10502,Huacareta,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10304,Icla,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,12
+Chuquisaca,10703,Incahuasi,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20101,La Paz,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10303,Mojocoya,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Potosí,50404,Ocuri,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10401,Padilla,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Potosí,51203,Porco,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10302,Presto,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,6
+La Paz,21502,San Buena Ventura,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Tarija,60501,San Lorenzo(tja),2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Chuquisaca,10702,San Lucas,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Oruro,41401,Santiago De Huari,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+La Paz,20601,Sorata,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10101,Sucre,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,5
+Cochabamba,31101,Tapacari,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,12
+Chuquisaca,10601,Tarabuco,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Tarija,60101,Tarija,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Potosí,50102,Tinguipaya,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Potosí,50201,Uncia,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,13
+Tarija,60401,Uriondo (a. Concepcion),2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,31003,Villa Tunari,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Potosí,51501,Villazon,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Cochabamba,30904,Vinto,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,73
+Santa Cruz,70201,Warnes,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,9
+Chuquisaca,10602,Yamparaez,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Chuquisaca,10102,Yotala,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,4
+Tarija,60402,Yunchara,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Chuquisaca,10301,Zudañez,2015,11,N de auditorias internas en salud en aplicacion de norma tecnica,7
+Cochabamba,31204,Chimore,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Cochabamba,30101,Cochabamba,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,6
+La Paz,20105,El Alto,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Santa Cruz,70105,El Torno,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10304,Icla,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,12
+La Paz,20101,La Paz,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Oruro,40702,Machacamarca,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Chuquisaca,10303,Mojocoya,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,8
+Chuquisaca,10401,Padilla,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10302,Presto,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,9
+La Paz,21502,San Buena Ventura,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10101,Sucre,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,2
+Chuquisaca,10601,Tarabuco,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,10
+La Paz,21302,Umala,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70801,Vallegrande,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Pando,90502,Villa Nueva (loma Alta),2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Potosí,51501,Villazon,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,1
+Santa Cruz,70201,Warnes,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,10
+Tarija,60301,Yacuiba,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,13
+Chuquisaca,10602,Yamparaez,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,3
+Tarija,60402,Yunchara,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,37
+Chuquisaca,10301,Zudañez,2015,12,N de auditorias internas en salud en aplicacion de norma tecnica,4
+La Paz,21304,Calamarca,2015,1,TOTAL,2
+Cochabamba,30801,Cliza,2015,1,TOTAL,1
+Pando,90101,Cobija,2015,1,TOTAL,75
+Potosí,50401,Colquechaca,2015,1,TOTAL,1
+Oruro,40301,Corque,2015,1,TOTAL,1
+La Paz,20105,El Alto,2015,1,TOTAL,3
+La Paz,20602,Guanay,2015,1,TOTAL,1
+La Paz,20101,La Paz,2015,1,TOTAL,2
+La Paz,21202,Laja,2015,1,TOTAL,1
+Chuquisaca,10303,Mojocoya,2015,1,TOTAL,8
+Oruro,40101,Oruro,2015,1,TOTAL,26
+Santa Cruz,70601,Portachuelo,2015,1,TOTAL,1
+Chuquisaca,10302,Presto,2015,1,TOTAL,1
+Santa Cruz,70303,San Rafael,2015,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,1,TOTAL,4
+Chuquisaca,10101,Sucre,2015,1,TOTAL,1
+Chuquisaca,10601,Tarabuco,2015,1,TOTAL,13
+Tarija,60101,Tarija,2015,1,TOTAL,5
+Cochabamba,30803,Tolata,2015,1,TOTAL,1
+Cochabamba,30904,Vinto,2015,1,TOTAL,3
+Santa Cruz,70201,Warnes,2015,1,TOTAL,1
+Tarija,60301,Yacuiba,2015,1,TOTAL,1
+Santa Cruz,70403,Yapacani,2015,1,TOTAL,1
+Chuquisaca,10301,Zudañez,2015,1,TOTAL,6
+Tarija,60202,Bermejo,2015,2,TOTAL,1
+Santa Cruz,70703,Cabezas,2015,2,TOTAL,9
+La Paz,20203,Chua Cocani,2015,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,2,TOTAL,4
+Potosí,50401,Colquechaca,2015,2,TOTAL,2
+La Paz,20105,El Alto,2015,2,TOTAL,4
+Chuquisaca,10304,Icla,2015,2,TOTAL,9
+La Paz,21105,La Asunta,2015,2,TOTAL,2
+La Paz,20101,La Paz,2015,2,TOTAL,2
+Chuquisaca,10303,Mojocoya,2015,2,TOTAL,6
+Oruro,40101,Oruro,2015,2,TOTAL,199
+Tarija,60201,Padcaya,2015,2,TOTAL,2
+Santa Cruz,70601,Portachuelo,2015,2,TOTAL,1
+Chuquisaca,10302,Presto,2015,2,TOTAL,15
+La Paz,21502,San Buena Ventura,2015,2,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,2,TOTAL,1
+Chuquisaca,10101,Sucre,2015,2,TOTAL,3
+Chuquisaca,10601,Tarabuco,2015,2,TOTAL,9
+Tarija,60101,Tarija,2015,2,TOTAL,4
+Cochabamba,30803,Tolata,2015,2,TOTAL,1
+Chuquisaca,10402,Tomina,2015,2,TOTAL,1
+Tarija,60301,Yacuiba,2015,2,TOTAL,18
+Chuquisaca,10602,Yamparaez,2015,2,TOTAL,4
+Tarija,60402,Yunchara,2015,2,TOTAL,1
+Chuquisaca,10301,Zudañez,2015,2,TOTAL,5
+Santa Cruz,70703,Cabezas,2015,3,TOTAL,1
+Potosí,50302,Chaqui,2015,3,TOTAL,2
+Cochabamba,31204,Chimore,2015,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,3,TOTAL,4
+Potosí,50401,Colquechaca,2015,3,TOTAL,1
+La Paz,20105,El Alto,2015,3,TOTAL,2
+Tarija,60601,Entre Rios Trj,2015,3,TOTAL,2
+Santa Cruz,71002,General Saavedra,2015,3,TOTAL,1
+Chuquisaca,10304,Icla,2015,3,TOTAL,10
+La Paz,20101,La Paz,2015,3,TOTAL,3
+La Paz,21202,Laja,2015,3,TOTAL,1
+Chuquisaca,10903,Las Carreras,2015,3,TOTAL,5
+Chuquisaca,10303,Mojocoya,2015,3,TOTAL,6
+Chuquisaca,10401,Padilla,2015,3,TOTAL,7
+La Paz,20102,Palca,2015,3,TOTAL,3
+Cochabamba,31203,Pocona,2015,3,TOTAL,3
+Chuquisaca,10302,Presto,2015,3,TOTAL,3
+La Paz,21204,Puerto Perez,2015,3,TOTAL,1
+Potosí,50402,Ravelo,2015,3,TOTAL,2
+La Paz,21502,San Buena Ventura,2015,3,TOTAL,2
+Santa Cruz,71104,San Julian,2015,3,TOTAL,30
+Chuquisaca,10101,Sucre,2015,3,TOTAL,8
+Chuquisaca,10601,Tarabuco,2015,3,TOTAL,13
+Tarija,60101,Tarija,2015,3,TOTAL,1
+Cochabamba,30803,Tolata,2015,3,TOTAL,1
+La Paz,20801,Viacha,2015,3,TOTAL,6
+Chuquisaca,10704,Villa Charcas,2015,3,TOTAL,1
+Tarija,60301,Yacuiba,2015,3,TOTAL,4
+Tarija,60402,Yunchara,2015,3,TOTAL,1
+Chuquisaca,10301,Zudañez,2015,3,TOTAL,7
+Chuquisaca,10404,Alcala,2015,4,TOTAL,4
+Tarija,60202,Bermejo,2015,4,TOTAL,1
+Potosí,51102,"Caiza ""d""",2015,4,TOTAL,1
+La Paz,21304,Calamarca,2015,4,TOTAL,3
+La Paz,20501,Chuma,2015,4,TOTAL,1
+Potosí,51103,Ckochas,2015,4,TOTAL,2
+Potosí,50401,Colquechaca,2015,4,TOTAL,1
+Chuquisaca,10902,Culpina,2015,4,TOTAL,1
+La Paz,20105,El Alto,2015,4,TOTAL,3
+Santa Cruz,70105,El Torno,2015,4,TOTAL,1
+Chuquisaca,10304,Icla,2015,4,TOTAL,6
+La Paz,20101,La Paz,2015,4,TOTAL,5
+Chuquisaca,10303,Mojocoya,2015,4,TOTAL,6
+Chuquisaca,10501,Monteagudo,2015,4,TOTAL,4
+Potosí,50404,Ocuri,2015,4,TOTAL,1
+Oruro,40101,Oruro,2015,4,TOTAL,74
+Chuquisaca,10401,Padilla,2015,4,TOTAL,3
+Cochabamba,31203,Pocona,2015,4,TOTAL,3
+Santa Cruz,70103,Porongo,2015,4,TOTAL,1
+Chuquisaca,10302,Presto,2015,4,TOTAL,3
+Potosí,51101,Puna,2015,4,TOTAL,13
+Cochabamba,30901,Quillacollo,2015,4,TOTAL,1
+Beni,80302,San Borja,2015,4,TOTAL,1
+La Paz,21502,San Buena Ventura,2015,4,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,4,TOTAL,144
+Cochabamba,30902,Sipe Sipe,2015,4,TOTAL,43
+Chuquisaca,10101,Sucre,2015,4,TOTAL,14
+Chuquisaca,10601,Tarabuco,2015,4,TOTAL,12
+Chuquisaca,10202,Tarvita,2015,4,TOTAL,10
+Potosí,50102,Tinguipaya,2015,4,TOTAL,1
+Cochabamba,30803,Tolata,2015,4,TOTAL,1
+Chuquisaca,10402,Tomina,2015,4,TOTAL,3
+Chuquisaca,10704,Villa Charcas,2015,4,TOTAL,1
+Tarija,60301,Yacuiba,2015,4,TOTAL,8
+Chuquisaca,10602,Yamparaez,2015,4,TOTAL,8
+Tarija,60402,Yunchara,2015,4,TOTAL,8
+Chuquisaca,10301,Zudañez,2015,4,TOTAL,6
+La Paz,21304,Calamarca,2015,5,TOTAL,3
+Potosí,51103,Ckochas,2015,5,TOTAL,1
+La Paz,20105,El Alto,2015,5,TOTAL,3
+La Paz,20802,Guaqui,2015,5,TOTAL,1
+La Paz,20204,Huarina,2015,5,TOTAL,1
+Chuquisaca,10304,Icla,2015,5,TOTAL,11
+La Paz,20101,La Paz,2015,5,TOTAL,4
+Chuquisaca,10303,Mojocoya,2015,5,TOTAL,6
+Santa Cruz,71001,Montero,2015,5,TOTAL,1
+Chuquisaca,10401,Padilla,2015,5,TOTAL,2
+La Paz,20102,Palca,2015,5,TOTAL,1
+Chuquisaca,10302,Presto,2015,5,TOTAL,3
+Cochabamba,30901,Quillacollo,2015,5,TOTAL,1
+La Paz,21502,San Buena Ventura,2015,5,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,5,TOTAL,6
+Cochabamba,30902,Sipe Sipe,2015,5,TOTAL,1
+Chuquisaca,10101,Sucre,2015,5,TOTAL,4
+Chuquisaca,10601,Tarabuco,2015,5,TOTAL,11
+Cochabamba,30803,Tolata,2015,5,TOTAL,1
+Tarija,60301,Yacuiba,2015,5,TOTAL,17
+Chuquisaca,10602,Yamparaez,2015,5,TOTAL,3
+Tarija,60402,Yunchara,2015,5,TOTAL,6
+Chuquisaca,10301,Zudañez,2015,5,TOTAL,7
+Chuquisaca,10201,Azurduy,2015,6,TOTAL,1
+La Paz,20303,Calacoto,2015,6,TOTAL,1
+La Paz,20501,Chuma,2015,6,TOTAL,1
+Oruro,40301,Corque,2015,6,TOTAL,1
+Santa Cruz,70102,Cotoca,2015,6,TOTAL,1
+Chuquisaca,10902,Culpina,2015,6,TOTAL,2
+La Paz,20105,El Alto,2015,6,TOTAL,6
+Tarija,60601,Entre Rios Trj,2015,6,TOTAL,11
+Chuquisaca,10304,Icla,2015,6,TOTAL,10
+Pando,90402,Ingavi (humaita),2015,6,TOTAL,6
+La Paz,20101,La Paz,2015,6,TOTAL,6
+Chuquisaca,11003,Machareti,2015,6,TOTAL,1
+Chuquisaca,10303,Mojocoya,2015,6,TOTAL,6
+Chuquisaca,10501,Monteagudo,2015,6,TOTAL,1
+Santa Cruz,71001,Montero,2015,6,TOTAL,1
+Tarija,60201,Padcaya,2015,6,TOTAL,1
+Chuquisaca,10401,Padilla,2015,6,TOTAL,2
+Santa Cruz,70502,Pailon,2015,6,TOTAL,1
+Potosí,50101,Potosi,2015,6,TOTAL,1
+Chuquisaca,10302,Presto,2015,6,TOTAL,5
+Potosí,51101,Puna,2015,6,TOTAL,1
+Beni,80602,San Andres,2015,6,TOTAL,3
+La Paz,21502,San Buena Ventura,2015,6,TOTAL,2
+Chuquisaca,10702,San Lucas,2015,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,6,TOTAL,3
+Chuquisaca,10101,Sucre,2015,6,TOTAL,4
+Chuquisaca,10601,Tarabuco,2015,6,TOTAL,9
+Chuquisaca,10202,Tarvita,2015,6,TOTAL,7
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,6,TOTAL,1
+Tarija,60301,Yacuiba,2015,6,TOTAL,2
+Chuquisaca,10602,Yamparaez,2015,6,TOTAL,2
+Tarija,60402,Yunchara,2015,6,TOTAL,20
+Chuquisaca,10301,Zudañez,2015,6,TOTAL,7
+La Paz,21304,Calamarca,2015,7,TOTAL,2
+Tarija,60302,Carapari,2015,7,TOTAL,2
+Potosí,50204,Chuquihuta Ayllu Jucumani,2015,7,TOTAL,20
+Cochabamba,30101,Cochabamba,2015,7,TOTAL,10
+Cochabamba,30905,Colcapirhua,2015,7,TOTAL,1
+Chuquisaca,10902,Culpina,2015,7,TOTAL,1
+La Paz,20105,El Alto,2015,7,TOTAL,3
+Tarija,60502,El Puente(tja),2015,7,TOTAL,2
+La Paz,20802,Guaqui,2015,7,TOTAL,1
+La Paz,20204,Huarina,2015,7,TOTAL,1
+Chuquisaca,10304,Icla,2015,7,TOTAL,12
+La Paz,20101,La Paz,2015,7,TOTAL,7
+Beni,80601,Loreto,2015,7,TOTAL,2
+Chuquisaca,11003,Machareti,2015,7,TOTAL,1
+Chuquisaca,10303,Mojocoya,2015,7,TOTAL,6
+Chuquisaca,10501,Monteagudo,2015,7,TOTAL,1
+Potosí,50404,Ocuri,2015,7,TOTAL,1
+Tarija,60201,Padcaya,2015,7,TOTAL,1
+Chuquisaca,10401,Padilla,2015,7,TOTAL,2
+Chuquisaca,10302,Presto,2015,7,TOTAL,8
+La Paz,21502,San Buena Ventura,2015,7,TOTAL,2
+Santa Cruz,70501,San Jose De Chiquitos,2015,7,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2015,7,TOTAL,10
+Chuquisaca,10702,San Lucas,2015,7,TOTAL,46
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,7,TOTAL,11
+Chuquisaca,10101,Sucre,2015,7,TOTAL,14
+Chuquisaca,10601,Tarabuco,2015,7,TOTAL,12
+Tarija,60101,Tarija,2015,7,TOTAL,6
+Chuquisaca,10202,Tarvita,2015,7,TOTAL,1
+Santa Cruz,70801,Vallegrande,2015,7,TOTAL,1
+Cochabamba,31003,Villa Tunari,2015,7,TOTAL,24
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,7,TOTAL,1
+Tarija,60301,Yacuiba,2015,7,TOTAL,3
+Chuquisaca,10602,Yamparaez,2015,7,TOTAL,11
+Tarija,60402,Yunchara,2015,7,TOTAL,5
+Chuquisaca,10301,Zudañez,2015,7,TOTAL,7
+Chuquisaca,10404,Alcala,2015,8,TOTAL,1
+La Paz,21303,Ayo Ayo,2015,8,TOTAL,1
+Tarija,60202,Bermejo,2015,8,TOTAL,1
+Potosí,50302,Chaqui,2015,8,TOTAL,1
+Pando,90101,Cobija,2015,8,TOTAL,120
+Cochabamba,30101,Cochabamba,2015,8,TOTAL,4
+Santa Cruz,71106,Cuatro Cañadas,2015,8,TOTAL,1
+Chuquisaca,10902,Culpina,2015,8,TOTAL,1
+La Paz,20105,El Alto,2015,8,TOTAL,2
+Chuquisaca,10304,Icla,2015,8,TOTAL,12
+La Paz,20101,La Paz,2015,8,TOTAL,7
+La Paz,20103,Mecapaca,2015,8,TOTAL,1
+Chuquisaca,10303,Mojocoya,2015,8,TOTAL,9
+Oruro,40101,Oruro,2015,8,TOTAL,11
+Tarija,60201,Padcaya,2015,8,TOTAL,2
+Chuquisaca,10401,Padilla,2015,8,TOTAL,2
+Cochabamba,31203,Pocona,2015,8,TOTAL,1
+Potosí,50101,Potosi,2015,8,TOTAL,1
+Chuquisaca,10302,Presto,2015,8,TOTAL,5
+Cochabamba,31205,Puerto Villarroel,2015,8,TOTAL,2
+Potosí,51101,Puna,2015,8,TOTAL,43
+Cochabamba,30901,Quillacollo,2015,8,TOTAL,1
+Oruro,40901,Sabaya,2015,8,TOTAL,1
+La Paz,21502,San Buena Ventura,2015,8,TOTAL,2
+Santa Cruz,70404,San Juan De Yapacani,2015,8,TOTAL,19
+Tarija,60501,San Lorenzo(tja),2015,8,TOTAL,12
+Chuquisaca,10702,San Lucas,2015,8,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,8,TOTAL,13
+Cochabamba,30902,Sipe Sipe,2015,8,TOTAL,1
+Chuquisaca,10101,Sucre,2015,8,TOTAL,7
+Chuquisaca,10601,Tarabuco,2015,8,TOTAL,12
+Tarija,60101,Tarija,2015,8,TOTAL,1
+Chuquisaca,10202,Tarvita,2015,8,TOTAL,3
+Oruro,41502,Todos Santos,2015,8,TOTAL,1
+Cochabamba,30803,Tolata,2015,8,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,8,TOTAL,1
+Potosí,50602,Vitichi,2015,8,TOTAL,1
+Santa Cruz,70201,Warnes,2015,8,TOTAL,9
+Tarija,60301,Yacuiba,2015,8,TOTAL,1
+Chuquisaca,10602,Yamparaez,2015,8,TOTAL,10
+Tarija,60402,Yunchara,2015,8,TOTAL,9
+Chuquisaca,10301,Zudañez,2015,8,TOTAL,7
+La Paz,20701,Apolo,2015,9,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2015,9,TOTAL,50
+Tarija,60202,Bermejo,2015,9,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,9,TOTAL,1
+Potosí,51103,Ckochas,2015,9,TOTAL,2
+Cochabamba,30801,Cliza,2015,9,TOTAL,1
+Cochabamba,30303,Cocapata,2015,9,TOTAL,2
+Cochabamba,30101,Cochabamba,2015,9,TOTAL,4
+Oruro,40301,Corque,2015,9,TOTAL,1
+Potosí,50601,Cotagaita,2015,9,TOTAL,2
+Chuquisaca,10902,Culpina,2015,9,TOTAL,7
+La Paz,20105,El Alto,2015,9,TOTAL,5
+Tarija,60502,El Puente(tja),2015,9,TOTAL,1
+Santa Cruz,70105,El Torno,2015,9,TOTAL,3
+Tarija,60601,Entre Rios Trj,2015,9,TOTAL,1
+Chuquisaca,10304,Icla,2015,9,TOTAL,12
+La Paz,20101,La Paz,2015,9,TOTAL,3
+Beni,80601,Loreto,2015,9,TOTAL,7
+Chuquisaca,11003,Machareti,2015,9,TOTAL,1
+Chuquisaca,10303,Mojocoya,2015,9,TOTAL,9
+Chuquisaca,10501,Monteagudo,2015,9,TOTAL,5
+Santa Cruz,71001,Montero,2015,9,TOTAL,1
+Tarija,60201,Padcaya,2015,9,TOTAL,1
+Chuquisaca,10401,Padilla,2015,9,TOTAL,2
+Cochabamba,31202,Pojo (cbba),2015,9,TOTAL,2
+Chuquisaca,10302,Presto,2015,9,TOTAL,6
+Cochabamba,30901,Quillacollo,2015,9,TOTAL,1
+Oruro,40901,Sabaya,2015,9,TOTAL,1
+La Paz,21502,San Buena Ventura,2015,9,TOTAL,3
+Tarija,60501,San Lorenzo(tja),2015,9,TOTAL,3
+Chuquisaca,10702,San Lucas,2015,9,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,9,TOTAL,6
+Chuquisaca,10101,Sucre,2015,9,TOTAL,34
+Chuquisaca,10601,Tarabuco,2015,9,TOTAL,12
+Tarija,60101,Tarija,2015,9,TOTAL,2
+Potosí,50102,Tinguipaya,2015,9,TOTAL,1
+Cochabamba,30803,Tolata,2015,9,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,9,TOTAL,4
+Santa Cruz,70201,Warnes,2015,9,TOTAL,1
+Chuquisaca,10602,Yamparaez,2015,9,TOTAL,9
+Tarija,60402,Yunchara,2015,9,TOTAL,8
+Chuquisaca,10301,Zudañez,2015,9,TOTAL,7
+Chuquisaca,10201,Azurduy,2015,10,TOTAL,1
+Santa Cruz,70401,Buena Vista,2015,10,TOTAL,1
+Santa Cruz,70703,Cabezas,2015,10,TOTAL,1
+La Paz,22001,Caranavi,2015,10,TOTAL,1
+Cochabamba,30303,Cocapata,2015,10,TOTAL,3
+Cochabamba,30101,Cochabamba,2015,10,TOTAL,5
+Oruro,40301,Corque,2015,10,TOTAL,1
+Potosí,50601,Cotagaita,2015,10,TOTAL,1
+La Paz,21602,Curva,2015,10,TOTAL,1
+La Paz,20105,El Alto,2015,10,TOTAL,3
+Santa Cruz,70105,El Torno,2015,10,TOTAL,1
+Chuquisaca,10405,El Villar,2015,10,TOTAL,2
+Tarija,60601,Entre Rios Trj,2015,10,TOTAL,2
+Chuquisaca,10502,Huacareta,2015,10,TOTAL,1
+Chuquisaca,10304,Icla,2015,10,TOTAL,10
+La Paz,20806,Jesus De Machaca,2015,10,TOTAL,1
+La Paz,20101,La Paz,2015,10,TOTAL,2
+Chuquisaca,10303,Mojocoya,2015,10,TOTAL,8
+Chuquisaca,10501,Monteagudo,2015,10,TOTAL,2
+Tarija,60201,Padcaya,2015,10,TOTAL,1
+Chuquisaca,10401,Padilla,2015,10,TOTAL,2
+La Paz,21802,Papel Pampa,2015,10,TOTAL,1
+Potosí,51203,Porco,2015,10,TOTAL,4
+Chuquisaca,10302,Presto,2015,10,TOTAL,3
+Cochabamba,30901,Quillacollo,2015,10,TOTAL,1
+Oruro,40901,Sabaya,2015,10,TOTAL,1
+La Paz,21502,San Buena Ventura,2015,10,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2015,10,TOTAL,6
+Chuquisaca,10702,San Lucas,2015,10,TOTAL,1
+Santa Cruz,71005,San Pedro,2015,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,10,TOTAL,11
+Chuquisaca,10101,Sucre,2015,10,TOTAL,13
+Chuquisaca,10601,Tarabuco,2015,10,TOTAL,11
+Tarija,60101,Tarija,2015,10,TOTAL,1
+Potosí,50502,Toro Toro,2015,10,TOTAL,1
+Tarija,60401,Uriondo (a. Concepcion),2015,10,TOTAL,1
+Santa Cruz,70801,Vallegrande,2015,10,TOTAL,1
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2015,10,TOTAL,5
+Tarija,60301,Yacuiba,2015,10,TOTAL,1
+Chuquisaca,10602,Yamparaez,2015,10,TOTAL,2
+Tarija,60402,Yunchara,2015,10,TOTAL,3
+Chuquisaca,10301,Zudañez,2015,10,TOTAL,7
+Tarija,60202,Bermejo,2015,11,TOTAL,3
+Chuquisaca,10701,Camargo,2015,11,TOTAL,2
+Santa Cruz,70706,Camiri,2015,11,TOTAL,1
+Tarija,60302,Carapari,2015,11,TOTAL,1
+Potosí,51103,Ckochas,2015,11,TOTAL,9
+Cochabamba,30101,Cochabamba,2015,11,TOTAL,4
+Oruro,40301,Corque,2015,11,TOTAL,1
+Chuquisaca,10902,Culpina,2015,11,TOTAL,1
+La Paz,20105,El Alto,2015,11,TOTAL,4
+Chuquisaca,10502,Huacareta,2015,11,TOTAL,2
+Chuquisaca,10304,Icla,2015,11,TOTAL,12
+Chuquisaca,10703,Incahuasi,2015,11,TOTAL,1
+La Paz,20101,La Paz,2015,11,TOTAL,2
+Chuquisaca,10303,Mojocoya,2015,11,TOTAL,8
+Potosí,50404,Ocuri,2015,11,TOTAL,3
+Chuquisaca,10401,Padilla,2015,11,TOTAL,2
+Potosí,51203,Porco,2015,11,TOTAL,1
+Chuquisaca,10302,Presto,2015,11,TOTAL,6
+La Paz,21502,San Buena Ventura,2015,11,TOTAL,2
+Tarija,60501,San Lorenzo(tja),2015,11,TOTAL,8
+Chuquisaca,10702,San Lucas,2015,11,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,11,TOTAL,4
+Oruro,41401,Santiago De Huari,2015,11,TOTAL,1
+La Paz,20601,Sorata,2015,11,TOTAL,1
+Chuquisaca,10101,Sucre,2015,11,TOTAL,5
+Cochabamba,31101,Tapacari,2015,11,TOTAL,12
+Chuquisaca,10601,Tarabuco,2015,11,TOTAL,10
+Tarija,60101,Tarija,2015,11,TOTAL,2
+Potosí,50102,Tinguipaya,2015,11,TOTAL,2
+Potosí,50201,Uncia,2015,11,TOTAL,13
+Tarija,60401,Uriondo (a. Concepcion),2015,11,TOTAL,1
+Cochabamba,31003,Villa Tunari,2015,11,TOTAL,4
+Potosí,51501,Villazon,2015,11,TOTAL,7
+Cochabamba,30904,Vinto,2015,11,TOTAL,73
+Santa Cruz,70201,Warnes,2015,11,TOTAL,9
+Chuquisaca,10602,Yamparaez,2015,11,TOTAL,3
+Chuquisaca,10102,Yotala,2015,11,TOTAL,4
+Tarija,60402,Yunchara,2015,11,TOTAL,10
+Chuquisaca,10301,Zudañez,2015,11,TOTAL,7
+Cochabamba,31204,Chimore,2015,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2015,12,TOTAL,6
+La Paz,20105,El Alto,2015,12,TOTAL,8
+Santa Cruz,70105,El Torno,2015,12,TOTAL,1
+Chuquisaca,10304,Icla,2015,12,TOTAL,12
+La Paz,20101,La Paz,2015,12,TOTAL,2
+Oruro,40702,Machacamarca,2015,12,TOTAL,1
+Chuquisaca,10303,Mojocoya,2015,12,TOTAL,8
+Chuquisaca,10401,Padilla,2015,12,TOTAL,2
+Chuquisaca,10302,Presto,2015,12,TOTAL,9
+La Paz,21502,San Buena Ventura,2015,12,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2015,12,TOTAL,2
+Chuquisaca,10101,Sucre,2015,12,TOTAL,2
+Chuquisaca,10601,Tarabuco,2015,12,TOTAL,10
+La Paz,21302,Umala,2015,12,TOTAL,1
+Santa Cruz,70801,Vallegrande,2015,12,TOTAL,1
+Pando,90502,Villa Nueva (loma Alta),2015,12,TOTAL,1
+Potosí,51501,Villazon,2015,12,TOTAL,1
+Santa Cruz,70201,Warnes,2015,12,TOTAL,10
+Tarija,60301,Yacuiba,2015,12,TOTAL,13
+Chuquisaca,10602,Yamparaez,2015,12,TOTAL,3
+Tarija,60402,Yunchara,2015,12,TOTAL,37
+Chuquisaca,10301,Zudañez,2015,12,TOTAL,4

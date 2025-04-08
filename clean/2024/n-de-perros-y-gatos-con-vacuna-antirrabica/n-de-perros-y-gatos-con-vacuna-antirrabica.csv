@@ -1,0 +1,2433 @@
+department,municipality_id,municipality,year,month,population,value
+La Paz,20104,Achocalla,2024,1,5. N de perros y gatos con vacuna antirrabica,1
+Cochabamba,30201,Aiquile,2024,1,5. N de perros y gatos con vacuna antirrabica,19
+Cochabamba,30403,Arbieto,2024,1,5. N de perros y gatos con vacuna antirrabica,74
+Potosí,50802,Atocha,2024,1,5. N de perros y gatos con vacuna antirrabica,23
+Potosí,51102,"Caiza ""d""",2024,1,5. N de perros y gatos con vacuna antirrabica,3
+Cochabamba,30701,Capinota,2024,1,5. N de perros y gatos con vacuna antirrabica,47
+Tarija,60302,Carapari,2024,1,5. N de perros y gatos con vacuna antirrabica,7
+La Paz,20203,Chua Cocani,2024,1,5. N de perros y gatos con vacuna antirrabica,5
+La Paz,20501,Chuma,2024,1,5. N de perros y gatos con vacuna antirrabica,17
+Cochabamba,30801,Cliza,2024,1,5. N de perros y gatos con vacuna antirrabica,111
+Pando,90101,Cobija,2024,1,5. N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30303,Cocapata,2024,1,5. N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30101,Cochabamba,2024,1,5. N de perros y gatos con vacuna antirrabica,2480
+Cochabamba,30905,Colcapirhua,2024,1,5. N de perros y gatos con vacuna antirrabica,295
+Cochabamba,31002,Colomi,2024,1,5. N de perros y gatos con vacuna antirrabica,18
+Potosí,50601,Cotagaita,2024,1,5. N de perros y gatos con vacuna antirrabica,26
+La Paz,20105,El Alto,2024,1,5. N de perros y gatos con vacuna antirrabica,238
+Tarija,60601,Entre Rios Trj,2024,1,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71004,Fernandez Alonso,2024,1,5. N de perros y gatos con vacuna antirrabica,13
+Santa Cruz,71002,General Saavedra,2024,1,5. N de perros y gatos con vacuna antirrabica,7
+La Paz,21105,La Asunta,2024,1,5. N de perros y gatos con vacuna antirrabica,100
+La Paz,20101,La Paz,2024,1,5. N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,71003,Mineros,2024,1,5. N de perros y gatos con vacuna antirrabica,6
+Cochabamba,31301,Mizque,2024,1,5. N de perros y gatos con vacuna antirrabica,15
+La Paz,20402,Mocomoco,2024,1,5. N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,71001,Montero,2024,1,5. N de perros y gatos con vacuna antirrabica,27
+Potosí,50404,Ocuri,2024,1,5. N de perros y gatos con vacuna antirrabica,55
+Oruro,40101,Oruro,2024,1,5. N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,70502,Pailon,2024,1,5. N de perros y gatos con vacuna antirrabica,50
+Potosí,51203,Porco,2024,1,5. N de perros y gatos con vacuna antirrabica,7
+Santa Cruz,70601,Portachuelo,2024,1,5. N de perros y gatos con vacuna antirrabica,28
+La Paz,21201,Pucarani,2024,1,5. N de perros y gatos con vacuna antirrabica,11
+La Paz,20403,Puerto Carabuco,2024,1,5. N de perros y gatos con vacuna antirrabica,50
+Cochabamba,30901,Quillacollo,2024,1,5. N de perros y gatos con vacuna antirrabica,812
+Cochabamba,31001,Sacaba,2024,1,5. N de perros y gatos con vacuna antirrabica,607
+Cochabamba,30404,Sacabamba,2024,1,5. N de perros y gatos con vacuna antirrabica,10
+La Paz,21502,San Buena Ventura,2024,1,5. N de perros y gatos con vacuna antirrabica,9
+Santa Cruz,70402,San Carlos,2024,1,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70301,San Ignacio De Velasco,2024,1,5. N de perros y gatos con vacuna antirrabica,21
+Santa Cruz,70501,San Jose De Chiquitos,2024,1,5. N de perros y gatos con vacuna antirrabica,214
+Santa Cruz,71005,San Pedro,2024,1,5. N de perros y gatos con vacuna antirrabica,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,5. N de perros y gatos con vacuna antirrabica,2044
+Cochabamba,30902,Sipe Sipe,2024,1,5. N de perros y gatos con vacuna antirrabica,7
+Chuquisaca,10101,Sucre,2024,1,5. N de perros y gatos con vacuna antirrabica,59
+Cochabamba,30401,Tarata,2024,1,5. N de perros y gatos con vacuna antirrabica,57
+Cochabamba,30903,Tiquipaya,2024,1,5. N de perros y gatos con vacuna antirrabica,286
+Cochabamba,30802,Toco,2024,1,5. N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30803,Tolata,2024,1,5. N de perros y gatos con vacuna antirrabica,20
+Potosí,51202,Tomave,2024,1,5. N de perros y gatos con vacuna antirrabica,5
+Oruro,41301,Totora(orr),2024,1,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50801,Tupiza,2024,1,5. N de perros y gatos con vacuna antirrabica,6
+La Paz,20801,Viacha,2024,1,5. N de perros y gatos con vacuna antirrabica,1200
+Tarija,60303,Villa Montes,2024,1,5. N de perros y gatos con vacuna antirrabica,40
+Cochabamba,31003,Villa Tunari,2024,1,5. N de perros y gatos con vacuna antirrabica,107
+Potosí,51501,Villazon,2024,1,5. N de perros y gatos con vacuna antirrabica,13
+Cochabamba,30904,Vinto,2024,1,5. N de perros y gatos con vacuna antirrabica,8
+Santa Cruz,70201,Warnes,2024,1,5. N de perros y gatos con vacuna antirrabica,1280
+Cochabamba,30201,Aiquile,2024,2,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30403,Arbieto,2024,2,5. N de perros y gatos con vacuna antirrabica,46
+Potosí,51102,"Caiza ""d""",2024,2,5. N de perros y gatos con vacuna antirrabica,25
+Cochabamba,30701,Capinota,2024,2,5. N de perros y gatos con vacuna antirrabica,11
+Cochabamba,30801,Cliza,2024,2,5. N de perros y gatos con vacuna antirrabica,154
+Cochabamba,30303,Cocapata,2024,2,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30101,Cochabamba,2024,2,5. N de perros y gatos con vacuna antirrabica,3309
+Cochabamba,30905,Colcapirhua,2024,2,5. N de perros y gatos con vacuna antirrabica,50
+Cochabamba,31002,Colomi,2024,2,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50601,Cotagaita,2024,2,5. N de perros y gatos con vacuna antirrabica,16
+La Paz,20105,El Alto,2024,2,5. N de perros y gatos con vacuna antirrabica,102
+Santa Cruz,71004,Fernandez Alonso,2024,2,5. N de perros y gatos con vacuna antirrabica,28
+Santa Cruz,71002,General Saavedra,2024,2,5. N de perros y gatos con vacuna antirrabica,8
+La Paz,20101,La Paz,2024,2,5. N de perros y gatos con vacuna antirrabica,44
+Cochabamba,31301,Mizque,2024,2,5. N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,71001,Montero,2024,2,5. N de perros y gatos con vacuna antirrabica,85
+Potosí,50404,Ocuri,2024,2,5. N de perros y gatos con vacuna antirrabica,15
+Oruro,40101,Oruro,2024,2,5. N de perros y gatos con vacuna antirrabica,309
+Santa Cruz,70502,Pailon,2024,2,5. N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,70601,Portachuelo,2024,2,5. N de perros y gatos con vacuna antirrabica,19
+Potosí,50101,Potosi,2024,2,5. N de perros y gatos con vacuna antirrabica,32
+La Paz,21201,Pucarani,2024,2,5. N de perros y gatos con vacuna antirrabica,50
+La Paz,20401,Puerto Acosta,2024,2,5. N de perros y gatos con vacuna antirrabica,10
+La Paz,21204,Puerto Perez,2024,2,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,51101,Puna,2024,2,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30901,Quillacollo,2024,2,5. N de perros y gatos con vacuna antirrabica,946
+Santa Cruz,70503,Robore,2024,2,5. N de perros y gatos con vacuna antirrabica,51
+Cochabamba,31001,Sacaba,2024,2,5. N de perros y gatos con vacuna antirrabica,193
+Beni,80501,San Ignacio,2024,2,5. N de perros y gatos con vacuna antirrabica,80
+Santa Cruz,70301,San Ignacio De Velasco,2024,2,5. N de perros y gatos con vacuna antirrabica,52
+Santa Cruz,70404,San Juan De Yapacani,2024,2,5. N de perros y gatos con vacuna antirrabica,5
+Santa Cruz,70302,San Miguel De Velasco,2024,2,5. N de perros y gatos con vacuna antirrabica,7
+Santa Cruz,71005,San Pedro,2024,2,5. N de perros y gatos con vacuna antirrabica,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,5. N de perros y gatos con vacuna antirrabica,1126
+Cochabamba,30902,Sipe Sipe,2024,2,5. N de perros y gatos con vacuna antirrabica,97
+Chuquisaca,10101,Sucre,2024,2,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30401,Tarata,2024,2,5. N de perros y gatos con vacuna antirrabica,49
+Cochabamba,30903,Tiquipaya,2024,2,5. N de perros y gatos con vacuna antirrabica,629
+Cochabamba,30802,Toco,2024,2,5. N de perros y gatos con vacuna antirrabica,50
+Cochabamba,30803,Tolata,2024,2,5. N de perros y gatos con vacuna antirrabica,45
+Potosí,51202,Tomave,2024,2,5. N de perros y gatos con vacuna antirrabica,1
+Tarija,60303,Villa Montes,2024,2,5. N de perros y gatos con vacuna antirrabica,208
+Cochabamba,31003,Villa Tunari,2024,2,5. N de perros y gatos con vacuna antirrabica,134
+Potosí,51501,Villazon,2024,2,5. N de perros y gatos con vacuna antirrabica,9
+Cochabamba,30904,Vinto,2024,2,5. N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,70201,Warnes,2024,2,5. N de perros y gatos con vacuna antirrabica,2861
+Cochabamba,30403,Arbieto,2024,3,5. N de perros y gatos con vacuna antirrabica,97
+Potosí,50802,Atocha,2024,3,5. N de perros y gatos con vacuna antirrabica,1
+Potosí,50202,Chayanta,2024,3,5. N de perros y gatos con vacuna antirrabica,110
+La Paz,20501,Chuma,2024,3,5. N de perros y gatos con vacuna antirrabica,4
+Cochabamba,30801,Cliza,2024,3,5. N de perros y gatos con vacuna antirrabica,259
+Cochabamba,30303,Cocapata,2024,3,5. N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30101,Cochabamba,2024,3,5. N de perros y gatos con vacuna antirrabica,1894
+Cochabamba,30905,Colcapirhua,2024,3,5. N de perros y gatos con vacuna antirrabica,130
+La Paz,20304,Comanche,2024,3,5. N de perros y gatos con vacuna antirrabica,18
+La Paz,20301,Coro Coro,2024,3,5. N de perros y gatos con vacuna antirrabica,20
+La Paz,20105,El Alto,2024,3,5. N de perros y gatos con vacuna antirrabica,1138
+Santa Cruz,70105,El Torno,2024,3,5. N de perros y gatos con vacuna antirrabica,611
+La Paz,20405,Escoma,2024,3,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71004,Fernandez Alonso,2024,3,5. N de perros y gatos con vacuna antirrabica,15
+La Paz,20101,La Paz,2024,3,5. N de perros y gatos con vacuna antirrabica,32
+Santa Cruz,71003,Mineros,2024,3,5. N de perros y gatos con vacuna antirrabica,6
+Cochabamba,31301,Mizque,2024,3,5. N de perros y gatos con vacuna antirrabica,2
+La Paz,20402,Mocomoco,2024,3,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71001,Montero,2024,3,5. N de perros y gatos con vacuna antirrabica,144
+Potosí,50404,Ocuri,2024,3,5. N de perros y gatos con vacuna antirrabica,6
+Oruro,40101,Oruro,2024,3,5. N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,70601,Portachuelo,2024,3,5. N de perros y gatos con vacuna antirrabica,17
+Potosí,50101,Potosi,2024,3,5. N de perros y gatos con vacuna antirrabica,10
+La Paz,21201,Pucarani,2024,3,5. N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30901,Quillacollo,2024,3,5. N de perros y gatos con vacuna antirrabica,3119
+Cochabamba,31001,Sacaba,2024,3,5. N de perros y gatos con vacuna antirrabica,1693
+Beni,80302,San Borja,2024,3,5. N de perros y gatos con vacuna antirrabica,23
+La Paz,21502,San Buena Ventura,2024,3,5. N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,70301,San Ignacio De Velasco,2024,3,5. N de perros y gatos con vacuna antirrabica,28
+Santa Cruz,71005,San Pedro,2024,3,5. N de perros y gatos con vacuna antirrabica,45
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,5. N de perros y gatos con vacuna antirrabica,326
+Cochabamba,30902,Sipe Sipe,2024,3,5. N de perros y gatos con vacuna antirrabica,253
+Chuquisaca,10101,Sucre,2024,3,5. N de perros y gatos con vacuna antirrabica,72
+Cochabamba,30401,Tarata,2024,3,5. N de perros y gatos con vacuna antirrabica,88
+Cochabamba,30903,Tiquipaya,2024,3,5. N de perros y gatos con vacuna antirrabica,144
+Cochabamba,30802,Toco,2024,3,5. N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30803,Tolata,2024,3,5. N de perros y gatos con vacuna antirrabica,119
+Tarija,60303,Villa Montes,2024,3,5. N de perros y gatos con vacuna antirrabica,109
+Cochabamba,31003,Villa Tunari,2024,3,5. N de perros y gatos con vacuna antirrabica,141
+Potosí,51501,Villazon,2024,3,5. N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30904,Vinto,2024,3,5. N de perros y gatos con vacuna antirrabica,90
+Santa Cruz,70201,Warnes,2024,3,5. N de perros y gatos con vacuna antirrabica,79
+Cochabamba,30201,Aiquile,2024,4,5. N de perros y gatos con vacuna antirrabica,6
+Cochabamba,30403,Arbieto,2024,4,5. N de perros y gatos con vacuna antirrabica,50
+La Paz,21203,Batallas,2024,4,5. N de perros y gatos con vacuna antirrabica,100
+Cochabamba,30701,Capinota,2024,4,5. N de perros y gatos con vacuna antirrabica,1
+Tarija,60302,Carapari,2024,4,5. N de perros y gatos con vacuna antirrabica,8
+La Paz,20501,Chuma,2024,4,5. N de perros y gatos con vacuna antirrabica,3
+Cochabamba,30801,Cliza,2024,4,5. N de perros y gatos con vacuna antirrabica,169
+Cochabamba,30101,Cochabamba,2024,4,5. N de perros y gatos con vacuna antirrabica,5616
+Cochabamba,30905,Colcapirhua,2024,4,5. N de perros y gatos con vacuna antirrabica,180
+Potosí,50601,Cotagaita,2024,4,5. N de perros y gatos con vacuna antirrabica,9
+La Paz,20105,El Alto,2024,4,5. N de perros y gatos con vacuna antirrabica,1762
+Santa Cruz,70105,El Torno,2024,4,5. N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,71004,Fernandez Alonso,2024,4,5. N de perros y gatos con vacuna antirrabica,11
+Santa Cruz,71002,General Saavedra,2024,4,5. N de perros y gatos con vacuna antirrabica,12
+La Paz,21501,Ixiamas,2024,4,5. N de perros y gatos con vacuna antirrabica,218
+La Paz,20101,La Paz,2024,4,5. N de perros y gatos con vacuna antirrabica,201
+Santa Cruz,71003,Mineros,2024,4,5. N de perros y gatos con vacuna antirrabica,1
+Cochabamba,31301,Mizque,2024,4,5. N de perros y gatos con vacuna antirrabica,5
+La Paz,20402,Mocomoco,2024,4,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71001,Montero,2024,4,5. N de perros y gatos con vacuna antirrabica,31
+Santa Cruz,70803,Moro Moro,2024,4,5. N de perros y gatos con vacuna antirrabica,6
+Oruro,40101,Oruro,2024,4,5. N de perros y gatos con vacuna antirrabica,190
+Santa Cruz,70601,Portachuelo,2024,4,5. N de perros y gatos con vacuna antirrabica,14
+Potosí,50101,Potosi,2024,4,5. N de perros y gatos con vacuna antirrabica,2175
+Cochabamba,30901,Quillacollo,2024,4,5. N de perros y gatos con vacuna antirrabica,1068
+Santa Cruz,70503,Robore,2024,4,5. N de perros y gatos con vacuna antirrabica,20
+Cochabamba,31001,Sacaba,2024,4,5. N de perros y gatos con vacuna antirrabica,130
+Beni,80302,San Borja,2024,4,5. N de perros y gatos con vacuna antirrabica,1
+La Paz,21502,San Buena Ventura,2024,4,5. N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,70301,San Ignacio De Velasco,2024,4,5. N de perros y gatos con vacuna antirrabica,14
+Beni,80102,San Javier(bni),2024,4,5. N de perros y gatos con vacuna antirrabica,40
+Santa Cruz,71005,San Pedro,2024,4,5. N de perros y gatos con vacuna antirrabica,46
+Santa Cruz,70303,San Rafael,2024,4,5. N de perros y gatos con vacuna antirrabica,180
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,5. N de perros y gatos con vacuna antirrabica,1387
+Cochabamba,30902,Sipe Sipe,2024,4,5. N de perros y gatos con vacuna antirrabica,154
+Chuquisaca,10101,Sucre,2024,4,5. N de perros y gatos con vacuna antirrabica,44
+Cochabamba,30401,Tarata,2024,4,5. N de perros y gatos con vacuna antirrabica,58
+Cochabamba,30903,Tiquipaya,2024,4,5. N de perros y gatos con vacuna antirrabica,161
+Cochabamba,30803,Tolata,2024,4,5. N de perros y gatos con vacuna antirrabica,71
+Cochabamba,31003,Villa Tunari,2024,4,5. N de perros y gatos con vacuna antirrabica,73
+Potosí,51501,Villazon,2024,4,5. N de perros y gatos con vacuna antirrabica,25
+Cochabamba,30904,Vinto,2024,4,5. N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,70201,Warnes,2024,4,5. N de perros y gatos con vacuna antirrabica,51
+Tarija,60301,Yacuiba,2024,4,5. N de perros y gatos con vacuna antirrabica,1
+Cochabamba,30201,Aiquile,2024,5,5. N de perros y gatos con vacuna antirrabica,4
+Cochabamba,30501,Arani,2024,5,5. N de perros y gatos con vacuna antirrabica,200
+Cochabamba,30403,Arbieto,2024,5,5. N de perros y gatos con vacuna antirrabica,67
+La Paz,21203,Batallas,2024,5,5. N de perros y gatos con vacuna antirrabica,40
+Potosí,51102,"Caiza ""d""",2024,5,5. N de perros y gatos con vacuna antirrabica,2
+La Paz,20501,Chuma,2024,5,5. N de perros y gatos con vacuna antirrabica,4
+Cochabamba,30303,Cocapata,2024,5,5. N de perros y gatos con vacuna antirrabica,342
+Cochabamba,30101,Cochabamba,2024,5,5. N de perros y gatos con vacuna antirrabica,3693
+La Paz,20105,El Alto,2024,5,5. N de perros y gatos con vacuna antirrabica,384
+Cochabamba,31206,Entre Rios Cbba,2024,5,5. N de perros y gatos con vacuna antirrabica,270
+Santa Cruz,71004,Fernandez Alonso,2024,5,5. N de perros y gatos con vacuna antirrabica,19
+Santa Cruz,71002,General Saavedra,2024,5,5. N de perros y gatos con vacuna antirrabica,9
+La Paz,21501,Ixiamas,2024,5,5. N de perros y gatos con vacuna antirrabica,142
+La Paz,20101,La Paz,2024,5,5. N de perros y gatos con vacuna antirrabica,28
+La Paz,20402,Mocomoco,2024,5,5. N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,71001,Montero,2024,5,5. N de perros y gatos con vacuna antirrabica,725
+Oruro,40101,Oruro,2024,5,5. N de perros y gatos con vacuna antirrabica,37
+Santa Cruz,70502,Pailon,2024,5,5. N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,70601,Portachuelo,2024,5,5. N de perros y gatos con vacuna antirrabica,15
+La Paz,21204,Puerto Perez,2024,5,5. N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30901,Quillacollo,2024,5,5. N de perros y gatos con vacuna antirrabica,1112
+Beni,80301,Reyes,2024,5,5. N de perros y gatos con vacuna antirrabica,1544
+Cochabamba,31001,Sacaba,2024,5,5. N de perros y gatos con vacuna antirrabica,812
+Beni,80302,San Borja,2024,5,5. N de perros y gatos con vacuna antirrabica,1
+La Paz,21502,San Buena Ventura,2024,5,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70402,San Carlos,2024,5,5. N de perros y gatos con vacuna antirrabica,8
+Santa Cruz,70301,San Ignacio De Velasco,2024,5,5. N de perros y gatos con vacuna antirrabica,23
+Santa Cruz,71005,San Pedro,2024,5,5. N de perros y gatos con vacuna antirrabica,41
+Beni,80401,Santa Ana,2024,5,5. N de perros y gatos con vacuna antirrabica,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,5. N de perros y gatos con vacuna antirrabica,685
+Beni,80303,Santa Rosa,2024,5,5. N de perros y gatos con vacuna antirrabica,1015
+Cochabamba,30902,Sipe Sipe,2024,5,5. N de perros y gatos con vacuna antirrabica,509
+Chuquisaca,10101,Sucre,2024,5,5. N de perros y gatos con vacuna antirrabica,40
+Cochabamba,30903,Tiquipaya,2024,5,5. N de perros y gatos con vacuna antirrabica,897
+Cochabamba,30802,Toco,2024,5,5. N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30803,Tolata,2024,5,5. N de perros y gatos con vacuna antirrabica,36
+Tarija,60303,Villa Montes,2024,5,5. N de perros y gatos con vacuna antirrabica,552
+Cochabamba,31003,Villa Tunari,2024,5,5. N de perros y gatos con vacuna antirrabica,20
+Potosí,51501,Villazon,2024,5,5. N de perros y gatos con vacuna antirrabica,13
+Cochabamba,30904,Vinto,2024,5,5. N de perros y gatos con vacuna antirrabica,108
+Santa Cruz,70201,Warnes,2024,5,5. N de perros y gatos con vacuna antirrabica,128
+Tarija,60301,Yacuiba,2024,5,5. N de perros y gatos con vacuna antirrabica,709
+Potosí,51302,Acacio,2024,6,5. N de perros y gatos con vacuna antirrabica,598
+La Paz,20201,Achacachi,2024,6,5. N de perros y gatos con vacuna antirrabica,9028
+La Paz,20104,Achocalla,2024,6,5. N de perros y gatos con vacuna antirrabica,9630
+Cochabamba,30201,Aiquile,2024,6,5. N de perros y gatos con vacuna antirrabica,4919
+Cochabamba,31303,Alalay,2024,6,5. N de perros y gatos con vacuna antirrabica,780
+Chuquisaca,10404,Alcala,2024,6,5. N de perros y gatos con vacuna antirrabica,605
+La Paz,22002,Alto Beni,2024,6,5. N de perros y gatos con vacuna antirrabica,3000
+La Paz,20202,Ancoraimes,2024,6,5. N de perros y gatos con vacuna antirrabica,1849
+Cochabamba,30402,Anzaldo,2024,6,5. N de perros y gatos con vacuna antirrabica,1355
+La Paz,20701,Apolo,2024,6,5. N de perros y gatos con vacuna antirrabica,2797
+Cochabamba,30501,Arani,2024,6,5. N de perros y gatos con vacuna antirrabica,3986
+Cochabamba,30403,Arbieto,2024,6,5. N de perros y gatos con vacuna antirrabica,9539
+Cochabamba,30601,Arque,2024,6,5. N de perros y gatos con vacuna antirrabica,1984
+Potosí,50802,Atocha,2024,6,5. N de perros y gatos con vacuna antirrabica,1715
+La Paz,20503,Aucapata,2024,6,5. N de perros y gatos con vacuna antirrabica,747
+La Paz,20502,Ayata,2024,6,5. N de perros y gatos con vacuna antirrabica,1396
+La Paz,21303,Ayo Ayo,2024,6,5. N de perros y gatos con vacuna antirrabica,2250
+Cochabamba,30301,Ayopaya (v. De Independencia),2024,6,5. N de perros y gatos con vacuna antirrabica,4307
+La Paz,21203,Batallas,2024,6,5. N de perros y gatos con vacuna antirrabica,3932
+Oruro,41202,Belen De Andamarca,2024,6,5. N de perros y gatos con vacuna antirrabica,55
+Potosí,50104,Belen De Urmiri,2024,6,5. N de perros y gatos con vacuna antirrabica,35
+Pando,90104,Bella Flor,2024,6,5. N de perros y gatos con vacuna antirrabica,660
+Tarija,60202,Bermejo,2024,6,5. N de perros y gatos con vacuna antirrabica,12910
+Cochabamba,31501,Bolivar,2024,6,5. N de perros y gatos con vacuna antirrabica,971
+Pando,90103,Bolpebra,2024,6,5. N de perros y gatos con vacuna antirrabica,849
+La Paz,20905,Cairoma,2024,6,5. N de perros y gatos con vacuna antirrabica,1391
+Potosí,51102,"Caiza ""d""",2024,6,5. N de perros y gatos con vacuna antirrabica,1210
+La Paz,21003,Cajuata,2024,6,5. N de perros y gatos con vacuna antirrabica,1610
+La Paz,20303,Calacoto,2024,6,5. N de perros y gatos con vacuna antirrabica,1500
+La Paz,21304,Calamarca,2024,6,5. N de perros y gatos con vacuna antirrabica,2300
+Chuquisaca,10701,Camargo,2024,6,5. N de perros y gatos con vacuna antirrabica,712
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,6,5. N de perros y gatos con vacuna antirrabica,290
+Cochabamba,30701,Capinota,2024,6,5. N de perros y gatos con vacuna antirrabica,4939
+La Paz,20302,Caquiaviri,2024,6,5. N de perros y gatos con vacuna antirrabica,2170
+Oruro,40102,Caracollo,2024,6,5. N de perros y gatos con vacuna antirrabica,3224
+La Paz,22001,Caranavi,2024,6,5. N de perros y gatos con vacuna antirrabica,8977
+Tarija,60302,Carapari,2024,6,5. N de perros y gatos con vacuna antirrabica,7050
+Potosí,50702,Caripuyo,2024,6,5. N de perros y gatos con vacuna antirrabica,1255
+La Paz,21902,Catacora,2024,6,5. N de perros y gatos con vacuna antirrabica,400
+La Paz,21803,Chacarilla,2024,6,5. N de perros y gatos con vacuna antirrabica,510
+Oruro,40201,Challapata,2024,6,5. N de perros y gatos con vacuna antirrabica,4921
+Potosí,50302,Chaqui,2024,6,5. N de perros y gatos con vacuna antirrabica,264
+La Paz,20305,Charaña,2024,6,5. N de perros y gatos con vacuna antirrabica,800
+Potosí,50202,Chayanta,2024,6,5. N de perros y gatos con vacuna antirrabica,1005
+Cochabamba,31204,Chimore,2024,6,5. N de perros y gatos con vacuna antirrabica,4868
+La Paz,20203,Chua Cocani,2024,6,5. N de perros y gatos con vacuna antirrabica,770
+La Paz,21101,Chulumani (v. De La Libertad),2024,6,5. N de perros y gatos con vacuna antirrabica,3860
+La Paz,20501,Chuma,2024,6,5. N de perros y gatos con vacuna antirrabica,1548
+Potosí,51103,Ckochas,2024,6,5. N de perros y gatos con vacuna antirrabica,4
+Cochabamba,30801,Cliza,2024,6,5. N de perros y gatos con vacuna antirrabica,4108
+Pando,90101,Cobija,2024,6,5. N de perros y gatos con vacuna antirrabica,18034
+Cochabamba,30303,Cocapata,2024,6,5. N de perros y gatos con vacuna antirrabica,2419
+Cochabamba,30101,Cochabamba,2024,6,5. N de perros y gatos con vacuna antirrabica,238030
+Cochabamba,30905,Colcapirhua,2024,6,5. N de perros y gatos con vacuna antirrabica,18155
+Potosí,50901,"Colcha ""k""",2024,6,5. N de perros y gatos con vacuna antirrabica,2166
+La Paz,21307,Collana,2024,6,5. N de perros y gatos con vacuna antirrabica,700
+Cochabamba,31002,Colomi,2024,6,5. N de perros y gatos con vacuna antirrabica,7856
+Potosí,50401,Colquechaca,2024,6,5. N de perros y gatos con vacuna antirrabica,452
+La Paz,21306,Colquencha,2024,6,5. N de perros y gatos con vacuna antirrabica,1580
+La Paz,21004,Colquiri,2024,6,5. N de perros y gatos con vacuna antirrabica,4320
+La Paz,20304,Comanche,2024,6,5. N de perros y gatos con vacuna antirrabica,1380
+La Paz,20605,Combaya,2024,6,5. N de perros y gatos con vacuna antirrabica,391
+La Paz,21701,Copacabana,2024,6,5. N de perros y gatos con vacuna antirrabica,3336
+La Paz,21402,Coripata,2024,6,5. N de perros y gatos con vacuna antirrabica,3210
+La Paz,20301,Coro Coro,2024,6,5. N de perros y gatos con vacuna antirrabica,2068
+La Paz,21401,Coroico,2024,6,5. N de perros y gatos con vacuna antirrabica,4120
+Potosí,50601,Cotagaita,2024,6,5. N de perros y gatos con vacuna antirrabica,221
+Santa Cruz,71106,Cuatro Cañadas,2024,6,5. N de perros y gatos con vacuna antirrabica,13
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2024,6,5. N de perros y gatos con vacuna antirrabica,650
+Chuquisaca,10902,Culpina,2024,6,5. N de perros y gatos con vacuna antirrabica,967
+La Paz,21602,Curva,2024,6,5. N de perros y gatos con vacuna antirrabica,515
+La Paz,20804,Desaguadero,2024,6,5. N de perros y gatos con vacuna antirrabica,1799
+La Paz,20105,El Alto,2024,6,5. N de perros y gatos con vacuna antirrabica,316997
+Tarija,60502,El Puente(tja),2024,6,5. N de perros y gatos con vacuna antirrabica,614
+Chuquisaca,10405,El Villar,2024,6,5. N de perros y gatos con vacuna antirrabica,163
+Tarija,60601,Entre Rios Trj,2024,6,5. N de perros y gatos con vacuna antirrabica,6481
+Cochabamba,31206,Entre Rios Cbba,2024,6,5. N de perros y gatos con vacuna antirrabica,8520
+La Paz,20405,Escoma,2024,6,5. N de perros y gatos con vacuna antirrabica,1180
+Pando,90503,Eureka (santos Mercado),2024,6,5. N de perros y gatos con vacuna antirrabica,270
+Santa Cruz,71004,Fernandez Alonso,2024,6,5. N de perros y gatos con vacuna antirrabica,49
+Pando,90203,Filadelfia,2024,6,5. N de perros y gatos con vacuna antirrabica,110
+Santa Cruz,71002,General Saavedra,2024,6,5. N de perros y gatos con vacuna antirrabica,60
+La Paz,21601,Gral. J.j. Perez (charazani),2024,6,5. N de perros y gatos con vacuna antirrabica,1600
+La Paz,20602,Guanay,2024,6,5. N de perros y gatos con vacuna antirrabica,3082
+La Paz,20802,Guaqui,2024,6,5. N de perros y gatos con vacuna antirrabica,1900
+Beni,80803,Huacaraje,2024,6,5. N de perros y gatos con vacuna antirrabica,909
+Oruro,40701,Huanuni,2024,6,5. N de perros y gatos con vacuna antirrabica,3270
+La Paz,20204,Huarina,2024,6,5. N de perros y gatos con vacuna antirrabica,1700
+La Paz,20206,Huatajata,2024,6,5. N de perros y gatos con vacuna antirrabica,600
+La Paz,20404,Humanata,2024,6,5. N de perros y gatos con vacuna antirrabica,375
+La Paz,21005,Ichoca,2024,6,5. N de perros y gatos con vacuna antirrabica,1230
+Pando,90402,Ingavi (humaita),2024,6,5. N de perros y gatos con vacuna antirrabica,100
+La Paz,21001,Inquisivi,2024,6,5. N de perros y gatos con vacuna antirrabica,3160
+La Paz,21102,Irupana (villa De Lanza),2024,6,5. N de perros y gatos con vacuna antirrabica,3145
+La Paz,21501,Ixiamas,2024,6,5. N de perros y gatos con vacuna antirrabica,2551
+La Paz,20806,Jesus De Machaca,2024,6,5. N de perros y gatos con vacuna antirrabica,3176
+La Paz,21105,La Asunta,2024,6,5. N de perros y gatos con vacuna antirrabica,4389
+La Paz,20101,La Paz,2024,6,5. N de perros y gatos con vacuna antirrabica,215207
+La Paz,21202,Laja,2024,6,5. N de perros y gatos con vacuna antirrabica,7370
+La Paz,21006,Licoma Pampa,2024,6,5. N de perros y gatos con vacuna antirrabica,560
+Potosí,51401,Llica,2024,6,5. N de perros y gatos con vacuna antirrabica,970
+Beni,80601,Loreto,2024,6,5. N de perros y gatos con vacuna antirrabica,381
+La Paz,20901,Luribay,2024,6,5. N de perros y gatos con vacuna antirrabica,1558
+Beni,80801,Magdalena,2024,6,5. N de perros y gatos con vacuna antirrabica,699
+La Paz,20904,Malla,2024,6,5. N de perros y gatos con vacuna antirrabica,528
+La Paz,20607,Mapiri,2024,6,5. N de perros y gatos con vacuna antirrabica,3000
+La Paz,20103,Mecapaca,2024,6,5. N de perros y gatos con vacuna antirrabica,2739
+Santa Cruz,71003,Mineros,2024,6,5. N de perros y gatos con vacuna antirrabica,12
+Cochabamba,31301,Mizque,2024,6,5. N de perros y gatos con vacuna antirrabica,4249
+La Paz,20402,Mocomoco,2024,6,5. N de perros y gatos con vacuna antirrabica,2585
+Potosí,51002,Mojinete,2024,6,5. N de perros y gatos con vacuna antirrabica,58
+Santa Cruz,71001,Montero,2024,6,5. N de perros y gatos con vacuna antirrabica,280
+Cochabamba,30302,Morochata,2024,6,5. N de perros y gatos con vacuna antirrabica,1700
+Pando,90401,Nacebe (santa Rosa Del Abuna),2024,6,5. N de perros y gatos con vacuna antirrabica,549
+La Paz,20307,Nazacara De Pacajes,2024,6,5. N de perros y gatos con vacuna antirrabica,150
+Pando,90501,Nuevo Manoa (nueva Esperanza),2024,6,5. N de perros y gatos con vacuna antirrabica,503
+Cochabamba,30203,Omereque,2024,6,5. N de perros y gatos con vacuna antirrabica,1865
+Oruro,40101,Oruro,2024,6,5. N de perros y gatos con vacuna antirrabica,101189
+Tarija,60201,Padcaya,2024,6,5. N de perros y gatos con vacuna antirrabica,552
+Chuquisaca,10401,Padilla,2024,6,5. N de perros y gatos con vacuna antirrabica,2209
+La Paz,20102,Palca,2024,6,5. N de perros y gatos con vacuna antirrabica,4420
+La Paz,21104,Palos Blancos,2024,6,5. N de perros y gatos con vacuna antirrabica,7120
+La Paz,21802,Papel Pampa,2024,6,5. N de perros y gatos con vacuna antirrabica,1480
+Cochabamba,30202,Pasorapa,2024,6,5. N de perros y gatos con vacuna antirrabica,1030
+La Paz,21305,Patacamaya,2024,6,5. N de perros y gatos con vacuna antirrabica,5120
+Oruro,40602,Pazña,2024,6,5. N de perros y gatos con vacuna antirrabica,685
+La Paz,20702,Pelechuco,2024,6,5. N de perros y gatos con vacuna antirrabica,1390
+Cochabamba,31203,Pocona,2024,6,5. N de perros y gatos con vacuna antirrabica,2678
+Cochabamba,31202,Pojo (cbba),2024,6,5. N de perros y gatos con vacuna antirrabica,2454
+Potosí,51203,Porco,2024,6,5. N de perros y gatos con vacuna antirrabica,314
+Chuquisaca,10103,Poroma,2024,6,5. N de perros y gatos con vacuna antirrabica,235
+Pando,90102,Porvenir,2024,6,5. N de perros y gatos con vacuna antirrabica,1397
+La Paz,21201,Pucarani,2024,6,5. N de perros y gatos con vacuna antirrabica,8019
+La Paz,20401,Puerto Acosta,2024,6,5. N de perros y gatos con vacuna antirrabica,2068
+La Paz,20403,Puerto Carabuco,2024,6,5. N de perros y gatos con vacuna antirrabica,2435
+Pando,90301,Puerto Gonzalo Moreno,2024,6,5. N de perros y gatos con vacuna antirrabica,903
+La Paz,21204,Puerto Perez,2024,6,5. N de perros y gatos con vacuna antirrabica,860
+Cochabamba,31205,Puerto Villarroel,2024,6,5. N de perros y gatos con vacuna antirrabica,13989
+Potosí,51101,Puna,2024,6,5. N de perros y gatos con vacuna antirrabica,1249
+Cochabamba,31401,Punata,2024,6,5. N de perros y gatos con vacuna antirrabica,17723
+La Paz,20604,Quiabaya,2024,6,5. N de perros y gatos con vacuna antirrabica,549
+Cochabamba,30901,Quillacollo,2024,6,5. N de perros y gatos con vacuna antirrabica,71860
+La Paz,21002,Quime,2024,6,5. N de perros y gatos con vacuna antirrabica,1660
+Cochabamba,31304,Raqaypampa(eta),2024,6,5. N de perros y gatos con vacuna antirrabica,806
+Potosí,50402,Ravelo,2024,6,5. N de perros y gatos con vacuna antirrabica,282
+Beni,80201,Riberalta,2024,6,5. N de perros y gatos con vacuna antirrabica,11782
+Beni,80304,Rurrenabaque,2024,6,5. N de perros y gatos con vacuna antirrabica,3712
+Cochabamba,31001,Sacaba,2024,6,5. N de perros y gatos con vacuna antirrabica,72194
+Cochabamba,30404,Sacabamba,2024,6,5. N de perros y gatos con vacuna antirrabica,1173
+Potosí,50701,Sacaca,2024,6,5. N de perros y gatos con vacuna antirrabica,20
+Oruro,40801,Salinas De Garci Mendoza,2024,6,5. N de perros y gatos con vacuna antirrabica,1240
+Potosí,51601,San Agustin,2024,6,5. N de perros y gatos con vacuna antirrabica,102
+La Paz,20805,San Andres De Machaca,2024,6,5. N de perros y gatos con vacuna antirrabica,1469
+Cochabamba,31403,San Benito,2024,6,5. N de perros y gatos con vacuna antirrabica,7409
+Beni,80302,San Borja,2024,6,5. N de perros y gatos con vacuna antirrabica,90
+La Paz,21502,San Buena Ventura,2024,6,5. N de perros y gatos con vacuna antirrabica,1332
+Santa Cruz,70402,San Carlos,2024,6,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70301,San Ignacio De Velasco,2024,6,5. N de perros y gatos con vacuna antirrabica,21
+Beni,80102,San Javier(bni),2024,6,5. N de perros y gatos con vacuna antirrabica,280
+Pando,90302,San Lorenzo(pnd),2024,6,5. N de perros y gatos con vacuna antirrabica,502
+Chuquisaca,10702,San Lucas,2024,6,5. N de perros y gatos con vacuna antirrabica,1305
+Santa Cruz,71005,San Pedro,2024,6,5. N de perros y gatos con vacuna antirrabica,17
+Potosí,50501,San Pedro De Buena Vista,2024,6,5. N de perros y gatos con vacuna antirrabica,50
+La Paz,21801,San Pedro De Curahuara,2024,6,5. N de perros y gatos con vacuna antirrabica,1670
+Potosí,50902,San Pedro De Quemes,2024,6,5. N de perros y gatos con vacuna antirrabica,96
+La Paz,21702,San Pedro De Tiquina,2024,6,5. N de perros y gatos con vacuna antirrabica,1620
+Pando,90202,San Pedro(pnd),2024,6,5. N de perros y gatos con vacuna antirrabica,410
+Beni,80401,Santa Ana,2024,6,5. N de perros y gatos con vacuna antirrabica,3604
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,5. N de perros y gatos con vacuna antirrabica,350
+La Paz,20308,Santiago De Callapa,2024,6,5. N de perros y gatos con vacuna antirrabica,1520
+Oruro,41401,Santiago De Huari,2024,6,5. N de perros y gatos con vacuna antirrabica,20
+La Paz,20205,Santiago De Huata,2024,6,5. N de perros y gatos con vacuna antirrabica,1551
+La Paz,21901,Santiago De Machaca,2024,6,5. N de perros y gatos con vacuna antirrabica,779
+Cochabamba,30702,Santivañes,2024,6,5. N de perros y gatos con vacuna antirrabica,3019
+Oruro,40202,Santuario De Quillacas,2024,6,5. N de perros y gatos con vacuna antirrabica,349
+La Paz,20902,Sapahaqui,2024,6,5. N de perros y gatos con vacuna antirrabica,2077
+Pando,90303,Sena,2024,6,5. N de perros y gatos con vacuna antirrabica,1957
+Cochabamba,31602,Shinaota,2024,6,5. N de perros y gatos con vacuna antirrabica,4191
+La Paz,21301,Sica Sica (villa Aroma),2024,6,5. N de perros y gatos con vacuna antirrabica,3660
+Cochabamba,30703,Sicaya,2024,6,5. N de perros y gatos con vacuna antirrabica,720
+Cochabamba,30902,Sipe Sipe,2024,6,5. N de perros y gatos con vacuna antirrabica,20394
+La Paz,20601,Sorata,2024,6,5. N de perros y gatos con vacuna antirrabica,2720
+Chuquisaca,10101,Sucre,2024,6,5. N de perros y gatos con vacuna antirrabica,80680
+Cochabamba,31404,Tacachi,2024,6,5. N de perros y gatos con vacuna antirrabica,472
+La Paz,20603,Tacacoma,2024,6,5. N de perros y gatos con vacuna antirrabica,1830
+Potosí,50303,Tacobamba,2024,6,5. N de perros y gatos con vacuna antirrabica,46
+Cochabamba,30602,Tacopaya,2024,6,5. N de perros y gatos con vacuna antirrabica,1429
+Potosí,51402,Tahua,2024,6,5. N de perros y gatos con vacuna antirrabica,19
+Cochabamba,31101,Tapacari,2024,6,5. N de perros y gatos con vacuna antirrabica,5846
+La Paz,20807,Taraco,2024,6,5. N de perros y gatos con vacuna antirrabica,1810
+Cochabamba,30401,Tarata,2024,6,5. N de perros y gatos con vacuna antirrabica,2854
+Tarija,60101,Tarija,2024,6,5. N de perros y gatos con vacuna antirrabica,63751
+La Paz,20608,Teoponte,2024,6,5. N de perros y gatos con vacuna antirrabica,2330
+La Paz,20803,Tiahuanacu,2024,6,5. N de perros y gatos con vacuna antirrabica,3220
+La Paz,20606,Tipuani,2024,6,5. N de perros y gatos con vacuna antirrabica,2290
+Cochabamba,30903,Tiquipaya,2024,6,5. N de perros y gatos con vacuna antirrabica,25511
+Cochabamba,31601,Tiraque (cbba),2024,6,5. N de perros y gatos con vacuna antirrabica,8330
+La Paz,21703,Tito Yupanqui (parquipujio),2024,6,5. N de perros y gatos con vacuna antirrabica,340
+Cochabamba,30802,Toco,2024,6,5. N de perros y gatos con vacuna antirrabica,2148
+Cochabamba,30803,Tolata,2024,6,5. N de perros y gatos con vacuna antirrabica,3219
+Oruro,41001,Toledo,2024,6,5. N de perros y gatos con vacuna antirrabica,60
+Potosí,51202,Tomave,2024,6,5. N de perros y gatos con vacuna antirrabica,121
+Chuquisaca,10402,Tomina,2024,6,5. N de perros y gatos con vacuna antirrabica,570
+Cochabamba,31201,Totora(cbba),2024,6,5. N de perros y gatos con vacuna antirrabica,3121
+Beni,80101,Trinidad,2024,6,5. N de perros y gatos con vacuna antirrabica,15837
+Potosí,50801,Tupiza,2024,6,5. N de perros y gatos con vacuna antirrabica,6880
+Oruro,40402,Turco,2024,6,5. N de perros y gatos con vacuna antirrabica,60
+La Paz,21302,Umala,2024,6,5. N de perros y gatos con vacuna antirrabica,1640
+Potosí,50201,Uncia,2024,6,5. N de perros y gatos con vacuna antirrabica,2017
+Tarija,60401,Uriondo (a. Concepcion),2024,6,5. N de perros y gatos con vacuna antirrabica,3062
+Cochabamba,30502,Vacas,2024,6,5. N de perros y gatos con vacuna antirrabica,2650
+La Paz,20801,Viacha,2024,6,5. N de perros y gatos con vacuna antirrabica,40080
+Cochabamba,31302,Vila Vila,2024,6,5. N de perros y gatos con vacuna antirrabica,828
+Tarija,60303,Villa Montes,2024,6,5. N de perros y gatos con vacuna antirrabica,896
+Pando,90502,Villa Nueva (loma Alta),2024,6,5. N de perros y gatos con vacuna antirrabica,509
+Cochabamba,31402,Villa Rivero,2024,6,5. N de perros y gatos con vacuna antirrabica,3524
+Chuquisaca,10801,Villa Serrano,2024,6,5. N de perros y gatos con vacuna antirrabica,835
+Cochabamba,31003,Villa Tunari,2024,6,5. N de perros y gatos con vacuna antirrabica,10956
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,6,5. N de perros y gatos con vacuna antirrabica,1698
+Potosí,51501,Villazon,2024,6,5. N de perros y gatos con vacuna antirrabica,12739
+Cochabamba,30904,Vinto,2024,6,5. N de perros y gatos con vacuna antirrabica,23564
+La Paz,20306,Waldo Ballivian,2024,6,5. N de perros y gatos con vacuna antirrabica,650
+Santa Cruz,70201,Warnes,2024,6,5. N de perros y gatos con vacuna antirrabica,79
+La Paz,20903,Yaco,2024,6,5. N de perros y gatos con vacuna antirrabica,1500
+Tarija,60301,Yacuiba,2024,6,5. N de perros y gatos con vacuna antirrabica,130
+Chuquisaca,10602,Yamparaez,2024,6,5. N de perros y gatos con vacuna antirrabica,92
+La Paz,21103,Yanacachi,2024,6,5. N de perros y gatos con vacuna antirrabica,1266
+Potosí,50103,Yocalla,2024,6,5. N de perros y gatos con vacuna antirrabica,530
+Chuquisaca,10102,Yotala,2024,6,5. N de perros y gatos con vacuna antirrabica,40
+Tarija,60402,Yunchara,2024,6,5. N de perros y gatos con vacuna antirrabica,484
+Potosí,51302,Acacio,2024,7,5. N de perros y gatos con vacuna antirrabica,847
+La Paz,20201,Achacachi,2024,7,5. N de perros y gatos con vacuna antirrabica,100
+La Paz,20104,Achocalla,2024,7,5. N de perros y gatos con vacuna antirrabica,190
+Cochabamba,30201,Aiquile,2024,7,5. N de perros y gatos con vacuna antirrabica,4053
+Chuquisaca,10404,Alcala,2024,7,5. N de perros y gatos con vacuna antirrabica,1313
+La Paz,20202,Ancoraimes,2024,7,5. N de perros y gatos con vacuna antirrabica,90
+Oruro,41201,Andamarca,2024,7,5. N de perros y gatos con vacuna antirrabica,670
+Oruro,40603,Antequera,2024,7,5. N de perros y gatos con vacuna antirrabica,720
+Cochabamba,30402,Anzaldo,2024,7,5. N de perros y gatos con vacuna antirrabica,331
+La Paz,20701,Apolo,2024,7,5. N de perros y gatos con vacuna antirrabica,74
+Potosí,51301,Arampampa,2024,7,5. N de perros y gatos con vacuna antirrabica,738
+Cochabamba,30501,Arani,2024,7,5. N de perros y gatos con vacuna antirrabica,195
+Cochabamba,30403,Arbieto,2024,7,5. N de perros y gatos con vacuna antirrabica,975
+Cochabamba,30601,Arque,2024,7,5. N de perros y gatos con vacuna antirrabica,178
+Potosí,50802,Atocha,2024,7,5. N de perros y gatos con vacuna antirrabica,1044
+La Paz,20503,Aucapata,2024,7,5. N de perros y gatos con vacuna antirrabica,94
+La Paz,20502,Ayata,2024,7,5. N de perros y gatos con vacuna antirrabica,14
+Cochabamba,30301,Ayopaya (v. De Independencia),2024,7,5. N de perros y gatos con vacuna antirrabica,1124
+Chuquisaca,10201,Azurduy,2024,7,5. N de perros y gatos con vacuna antirrabica,2627
+La Paz,21203,Batallas,2024,7,5. N de perros y gatos con vacuna antirrabica,831
+Beni,80802,Baures,2024,7,5. N de perros y gatos con vacuna antirrabica,658
+Oruro,41202,Belen De Andamarca,2024,7,5. N de perros y gatos con vacuna antirrabica,85
+Potosí,50104,Belen De Urmiri,2024,7,5. N de perros y gatos con vacuna antirrabica,117
+Pando,90104,Bella Flor,2024,7,5. N de perros y gatos con vacuna antirrabica,394
+Tarija,60202,Bermejo,2024,7,5. N de perros y gatos con vacuna antirrabica,2091
+Potosí,50301,Betanzos,2024,7,5. N de perros y gatos con vacuna antirrabica,8687
+Cochabamba,31501,Bolivar,2024,7,5. N de perros y gatos con vacuna antirrabica,39
+La Paz,20905,Cairoma,2024,7,5. N de perros y gatos con vacuna antirrabica,189
+Potosí,51102,"Caiza ""d""",2024,7,5. N de perros y gatos con vacuna antirrabica,2263
+La Paz,21003,Cajuata,2024,7,5. N de perros y gatos con vacuna antirrabica,180
+La Paz,20303,Calacoto,2024,7,5. N de perros y gatos con vacuna antirrabica,30
+La Paz,21304,Calamarca,2024,7,5. N de perros y gatos con vacuna antirrabica,100
+Chuquisaca,10701,Camargo,2024,7,5. N de perros y gatos con vacuna antirrabica,2103
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,7,5. N de perros y gatos con vacuna antirrabica,691
+Cochabamba,30701,Capinota,2024,7,5. N de perros y gatos con vacuna antirrabica,1570
+La Paz,20302,Caquiaviri,2024,7,5. N de perros y gatos con vacuna antirrabica,40
+Oruro,40102,Caracollo,2024,7,5. N de perros y gatos con vacuna antirrabica,794
+La Paz,22001,Caranavi,2024,7,5. N de perros y gatos con vacuna antirrabica,1415
+Oruro,41503,Carangas,2024,7,5. N de perros y gatos con vacuna antirrabica,60
+Tarija,60302,Carapari,2024,7,5. N de perros y gatos con vacuna antirrabica,1404
+Potosí,50702,Caripuyo,2024,7,5. N de perros y gatos con vacuna antirrabica,478
+Oruro,40201,Challapata,2024,7,5. N de perros y gatos con vacuna antirrabica,3207
+Potosí,50302,Chaqui,2024,7,5. N de perros y gatos con vacuna antirrabica,2423
+Potosí,50202,Chayanta,2024,7,5. N de perros y gatos con vacuna antirrabica,1723
+Cochabamba,31204,Chimore,2024,7,5. N de perros y gatos con vacuna antirrabica,652
+Oruro,40903,Chipaya,2024,7,5. N de perros y gatos con vacuna antirrabica,130
+Oruro,40302,Choque Cota,2024,7,5. N de perros y gatos con vacuna antirrabica,370
+La Paz,21101,Chulumani (v. De La Libertad),2024,7,5. N de perros y gatos con vacuna antirrabica,60
+La Paz,20501,Chuma,2024,7,5. N de perros y gatos con vacuna antirrabica,59
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,7,5. N de perros y gatos con vacuna antirrabica,1659
+Potosí,51103,Ckochas,2024,7,5. N de perros y gatos con vacuna antirrabica,4899
+Cochabamba,30801,Cliza,2024,7,5. N de perros y gatos con vacuna antirrabica,305
+Pando,90101,Cobija,2024,7,5. N de perros y gatos con vacuna antirrabica,63
+Cochabamba,30303,Cocapata,2024,7,5. N de perros y gatos con vacuna antirrabica,1477
+Cochabamba,30101,Cochabamba,2024,7,5. N de perros y gatos con vacuna antirrabica,30943
+Oruro,40902,Coipasa,2024,7,5. N de perros y gatos con vacuna antirrabica,82
+Cochabamba,30905,Colcapirhua,2024,7,5. N de perros y gatos con vacuna antirrabica,5017
+Potosí,50901,"Colcha ""k""",2024,7,5. N de perros y gatos con vacuna antirrabica,164
+La Paz,21307,Collana,2024,7,5. N de perros y gatos con vacuna antirrabica,100
+Cochabamba,31002,Colomi,2024,7,5. N de perros y gatos con vacuna antirrabica,1002
+Potosí,50401,Colquechaca,2024,7,5. N de perros y gatos con vacuna antirrabica,1923
+La Paz,21306,Colquencha,2024,7,5. N de perros y gatos con vacuna antirrabica,50
+La Paz,20304,Comanche,2024,7,5. N de perros y gatos con vacuna antirrabica,70
+La Paz,20605,Combaya,2024,7,5. N de perros y gatos con vacuna antirrabica,8
+La Paz,21701,Copacabana,2024,7,5. N de perros y gatos con vacuna antirrabica,152
+La Paz,21402,Coripata,2024,7,5. N de perros y gatos con vacuna antirrabica,60
+La Paz,20301,Coro Coro,2024,7,5. N de perros y gatos con vacuna antirrabica,150
+La Paz,21401,Coroico,2024,7,5. N de perros y gatos con vacuna antirrabica,170
+Oruro,40301,Corque,2024,7,5. N de perros y gatos con vacuna antirrabica,850
+Potosí,50601,Cotagaita,2024,7,5. N de perros y gatos con vacuna antirrabica,6411
+Oruro,40503,Cruz De Machacamarca,2024,7,5. N de perros y gatos con vacuna antirrabica,50
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2024,7,5. N de perros y gatos con vacuna antirrabica,150
+Chuquisaca,10902,Culpina,2024,7,5. N de perros y gatos con vacuna antirrabica,3471
+Oruro,40401,Curahuara De Carangas,2024,7,5. N de perros y gatos con vacuna antirrabica,570
+La Paz,21602,Curva,2024,7,5. N de perros y gatos con vacuna antirrabica,15
+La Paz,20804,Desaguadero,2024,7,5. N de perros y gatos con vacuna antirrabica,17
+La Paz,20105,El Alto,2024,7,5. N de perros y gatos con vacuna antirrabica,11451
+Oruro,40103,El Choro,2024,7,5. N de perros y gatos con vacuna antirrabica,1650
+Tarija,60502,El Puente(tja),2024,7,5. N de perros y gatos con vacuna antirrabica,3679
+Chuquisaca,10405,El Villar,2024,7,5. N de perros y gatos con vacuna antirrabica,2257
+Tarija,60601,Entre Rios Trj,2024,7,5. N de perros y gatos con vacuna antirrabica,4241
+Cochabamba,31206,Entre Rios Cbba,2024,7,5. N de perros y gatos con vacuna antirrabica,699
+Oruro,40502,Escara,2024,7,5. N de perros y gatos con vacuna antirrabica,50
+La Paz,20405,Escoma,2024,7,5. N de perros y gatos con vacuna antirrabica,508
+Oruro,40505,Esmeralda,2024,7,5. N de perros y gatos con vacuna antirrabica,70
+Oruro,41101,Eucaliptus,2024,7,5. N de perros y gatos con vacuna antirrabica,1150
+Santa Cruz,71004,Fernandez Alonso,2024,7,5. N de perros y gatos con vacuna antirrabica,15
+Pando,90203,Filadelfia,2024,7,5. N de perros y gatos con vacuna antirrabica,1150
+Potosí,51204,Gaioc Jatun Ayllu Yura,2024,7,5. N de perros y gatos con vacuna antirrabica,1287
+Beni,80502,Gia-tim,2024,7,5. N de perros y gatos con vacuna antirrabica,52
+La Paz,20602,Guanay,2024,7,5. N de perros y gatos con vacuna antirrabica,118
+La Paz,20802,Guaqui,2024,7,5. N de perros y gatos con vacuna antirrabica,36
+Chuquisaca,10502,Huacareta,2024,7,5. N de perros y gatos con vacuna antirrabica,1768
+Chuquisaca,11002,Huacaya (villa De Huacaya),2024,7,5. N de perros y gatos con vacuna antirrabica,1082
+Oruro,40501,Huachacalla,2024,7,5. N de perros y gatos con vacuna antirrabica,128
+Oruro,40701,Huanuni,2024,7,5. N de perros y gatos con vacuna antirrabica,3053
+La Paz,20206,Huatajata,2024,7,5. N de perros y gatos con vacuna antirrabica,50
+Oruro,41601,Huayllamarca,2024,7,5. N de perros y gatos con vacuna antirrabica,580
+La Paz,20404,Humanata,2024,7,5. N de perros y gatos con vacuna antirrabica,782
+La Paz,21005,Ichoca,2024,7,5. N de perros y gatos con vacuna antirrabica,80
+Chuquisaca,10304,Icla,2024,7,5. N de perros y gatos con vacuna antirrabica,2540
+Chuquisaca,10703,Incahuasi,2024,7,5. N de perros y gatos con vacuna antirrabica,1970
+Pando,90402,Ingavi (humaita),2024,7,5. N de perros y gatos con vacuna antirrabica,114
+La Paz,21001,Inquisivi,2024,7,5. N de perros y gatos con vacuna antirrabica,130
+La Paz,21102,Irupana (villa De Lanza),2024,7,5. N de perros y gatos con vacuna antirrabica,180
+La Paz,21501,Ixiamas,2024,7,5. N de perros y gatos con vacuna antirrabica,358
+La Paz,20806,Jesus De Machaca,2024,7,5. N de perros y gatos con vacuna antirrabica,534
+La Paz,21105,La Asunta,2024,7,5. N de perros y gatos con vacuna antirrabica,4589
+La Paz,20101,La Paz,2024,7,5. N de perros y gatos con vacuna antirrabica,2803
+Oruro,41501,La Rivera,2024,7,5. N de perros y gatos con vacuna antirrabica,40
+La Paz,21202,Laja,2024,7,5. N de perros y gatos con vacuna antirrabica,30
+Chuquisaca,10903,Las Carreras,2024,7,5. N de perros y gatos con vacuna antirrabica,915
+La Paz,21006,Licoma Pampa,2024,7,5. N de perros y gatos con vacuna antirrabica,50
+Potosí,50203,Llallagua,2024,7,5. N de perros y gatos con vacuna antirrabica,12194
+Potosí,51401,Llica,2024,7,5. N de perros y gatos con vacuna antirrabica,15
+Beni,80601,Loreto,2024,7,5. N de perros y gatos con vacuna antirrabica,15
+La Paz,20901,Luribay,2024,7,5. N de perros y gatos con vacuna antirrabica,72
+Oruro,40702,Machacamarca,2024,7,5. N de perros y gatos con vacuna antirrabica,1267
+Chuquisaca,11003,Machareti,2024,7,5. N de perros y gatos con vacuna antirrabica,2728
+Beni,80801,Magdalena,2024,7,5. N de perros y gatos con vacuna antirrabica,194
+La Paz,20904,Malla,2024,7,5. N de perros y gatos con vacuna antirrabica,20
+La Paz,20607,Mapiri,2024,7,5. N de perros y gatos con vacuna antirrabica,200
+Santa Cruz,71003,Mineros,2024,7,5. N de perros y gatos con vacuna antirrabica,2
+Cochabamba,31301,Mizque,2024,7,5. N de perros y gatos con vacuna antirrabica,1382
+La Paz,20402,Mocomoco,2024,7,5. N de perros y gatos con vacuna antirrabica,247
+Potosí,51002,Mojinete,2024,7,5. N de perros y gatos con vacuna antirrabica,71
+Chuquisaca,10303,Mojocoya,2024,7,5. N de perros y gatos con vacuna antirrabica,2120
+Chuquisaca,10501,Monteagudo,2024,7,5. N de perros y gatos con vacuna antirrabica,9441
+Santa Cruz,71001,Montero,2024,7,5. N de perros y gatos con vacuna antirrabica,326
+Cochabamba,30302,Morochata,2024,7,5. N de perros y gatos con vacuna antirrabica,460
+Pando,90401,Nacebe (santa Rosa Del Abuna),2024,7,5. N de perros y gatos con vacuna antirrabica,284
+Potosí,50404,Ocuri,2024,7,5. N de perros y gatos con vacuna antirrabica,2469
+Cochabamba,30203,Omereque,2024,7,5. N de perros y gatos con vacuna antirrabica,305
+Oruro,40101,Oruro,2024,7,5. N de perros y gatos con vacuna antirrabica,6162
+Tarija,60201,Padcaya,2024,7,5. N de perros y gatos con vacuna antirrabica,6436
+Chuquisaca,10401,Padilla,2024,7,5. N de perros y gatos con vacuna antirrabica,4119
+La Paz,20102,Palca,2024,7,5. N de perros y gatos con vacuna antirrabica,20
+Oruro,40802,Pampa Aullagas,2024,7,5. N de perros y gatos con vacuna antirrabica,500
+Cochabamba,30202,Pasorapa,2024,7,5. N de perros y gatos con vacuna antirrabica,412
+Oruro,40602,Pazña,2024,7,5. N de perros y gatos con vacuna antirrabica,705
+Potosí,50403,Pocoata,2024,7,5. N de perros y gatos con vacuna antirrabica,5475
+Cochabamba,31203,Pocona,2024,7,5. N de perros y gatos con vacuna antirrabica,1110
+Cochabamba,31202,Pojo (cbba),2024,7,5. N de perros y gatos con vacuna antirrabica,567
+Oruro,40601,Poopo,2024,7,5. N de perros y gatos con vacuna antirrabica,2490
+Potosí,51203,Porco,2024,7,5. N de perros y gatos con vacuna antirrabica,1813
+Chuquisaca,10103,Poroma,2024,7,5. N de perros y gatos con vacuna antirrabica,3644
+Pando,90102,Porvenir,2024,7,5. N de perros y gatos con vacuna antirrabica,44
+Potosí,50101,Potosi,2024,7,5. N de perros y gatos con vacuna antirrabica,65128
+Chuquisaca,10302,Presto,2024,7,5. N de perros y gatos con vacuna antirrabica,2900
+La Paz,21201,Pucarani,2024,7,5. N de perros y gatos con vacuna antirrabica,230
+La Paz,20401,Puerto Acosta,2024,7,5. N de perros y gatos con vacuna antirrabica,92
+La Paz,20403,Puerto Carabuco,2024,7,5. N de perros y gatos con vacuna antirrabica,187
+Pando,90301,Puerto Gonzalo Moreno,2024,7,5. N de perros y gatos con vacuna antirrabica,156
+La Paz,21204,Puerto Perez,2024,7,5. N de perros y gatos con vacuna antirrabica,78
+Pando,90201,Puerto Rico,2024,7,5. N de perros y gatos con vacuna antirrabica,1468
+Beni,80703,Puerto Siles,2024,7,5. N de perros y gatos con vacuna antirrabica,149
+Cochabamba,31205,Puerto Villarroel,2024,7,5. N de perros y gatos con vacuna antirrabica,2211
+Potosí,51101,Puna,2024,7,5. N de perros y gatos con vacuna antirrabica,4840
+Cochabamba,31401,Punata,2024,7,5. N de perros y gatos con vacuna antirrabica,2577
+Cochabamba,30901,Quillacollo,2024,7,5. N de perros y gatos con vacuna antirrabica,15372
+La Paz,21002,Quime,2024,7,5. N de perros y gatos con vacuna antirrabica,370
+Cochabamba,31304,Raqaypampa(eta),2024,7,5. N de perros y gatos con vacuna antirrabica,902
+Potosí,50402,Ravelo,2024,7,5. N de perros y gatos con vacuna antirrabica,4207
+Beni,80304,Rurrenabaque,2024,7,5. N de perros y gatos con vacuna antirrabica,288
+Oruro,40901,Sabaya,2024,7,5. N de perros y gatos con vacuna antirrabica,427
+Cochabamba,31001,Sacaba,2024,7,5. N de perros y gatos con vacuna antirrabica,19214
+Cochabamba,30404,Sacabamba,2024,7,5. N de perros y gatos con vacuna antirrabica,12
+Potosí,50701,Sacaca,2024,7,5. N de perros y gatos con vacuna antirrabica,2861
+Oruro,40801,Salinas De Garci Mendoza,2024,7,5. N de perros y gatos con vacuna antirrabica,180
+Potosí,51601,San Agustin,2024,7,5. N de perros y gatos con vacuna antirrabica,217
+Beni,80602,San Andres,2024,7,5. N de perros y gatos con vacuna antirrabica,652
+La Paz,20805,San Andres De Machaca,2024,7,5. N de perros y gatos con vacuna antirrabica,81
+Potosí,51003,San Antonio De Esmoruco,2024,7,5. N de perros y gatos con vacuna antirrabica,153
+Cochabamba,31403,San Benito,2024,7,5. N de perros y gatos con vacuna antirrabica,281
+Beni,80302,San Borja,2024,7,5. N de perros y gatos con vacuna antirrabica,2154
+La Paz,21502,San Buena Ventura,2024,7,5. N de perros y gatos con vacuna antirrabica,55
+Beni,80501,San Ignacio,2024,7,5. N de perros y gatos con vacuna antirrabica,160
+Santa Cruz,70301,San Ignacio De Velasco,2024,7,5. N de perros y gatos con vacuna antirrabica,30
+Beni,80102,San Javier(bni),2024,7,5. N de perros y gatos con vacuna antirrabica,190
+Beni,80701,San Joaquin,2024,7,5. N de perros y gatos con vacuna antirrabica,671
+Pando,90302,San Lorenzo(pnd),2024,7,5. N de perros y gatos con vacuna antirrabica,349
+Tarija,60501,San Lorenzo(tja),2024,7,5. N de perros y gatos con vacuna antirrabica,11105
+Chuquisaca,10702,San Lucas,2024,7,5. N de perros y gatos con vacuna antirrabica,5813
+Santa Cruz,71201,San Matias,2024,7,5. N de perros y gatos con vacuna antirrabica,430
+Potosí,51001,San Pablo De Lipez,2024,7,5. N de perros y gatos con vacuna antirrabica,542
+Santa Cruz,71005,San Pedro,2024,7,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50501,San Pedro De Buena Vista,2024,7,5. N de perros y gatos con vacuna antirrabica,7285
+Potosí,50405,San Pedro De Macha,2024,7,5. N de perros y gatos con vacuna antirrabica,5449
+Potosí,50902,San Pedro De Quemes,2024,7,5. N de perros y gatos con vacuna antirrabica,124
+Beni,80702,San Ramon Beni,2024,7,5. N de perros y gatos con vacuna antirrabica,696
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,5. N de perros y gatos con vacuna antirrabica,312
+Oruro,41401,Santiago De Huari,2024,7,5. N de perros y gatos con vacuna antirrabica,1940
+La Paz,20205,Santiago De Huata,2024,7,5. N de perros y gatos con vacuna antirrabica,44
+La Paz,21901,Santiago De Machaca,2024,7,5. N de perros y gatos con vacuna antirrabica,61
+Cochabamba,30702,Santivañes,2024,7,5. N de perros y gatos con vacuna antirrabica,51
+Oruro,40202,Santuario De Quillacas,2024,7,5. N de perros y gatos con vacuna antirrabica,242
+La Paz,20902,Sapahaqui,2024,7,5. N de perros y gatos con vacuna antirrabica,70
+Cochabamba,31602,Shinaota,2024,7,5. N de perros y gatos con vacuna antirrabica,1084
+Cochabamba,30703,Sicaya,2024,7,5. N de perros y gatos con vacuna antirrabica,90
+Cochabamba,30902,Sipe Sipe,2024,7,5. N de perros y gatos con vacuna antirrabica,972
+Chuquisaca,10403,Sopachuy,2024,7,5. N de perros y gatos con vacuna antirrabica,2186
+Oruro,40104,Soracachi,2024,7,5. N de perros y gatos con vacuna antirrabica,3541
+La Paz,20601,Sorata,2024,7,5. N de perros y gatos con vacuna antirrabica,455
+Chuquisaca,10101,Sucre,2024,7,5. N de perros y gatos con vacuna antirrabica,3793
+Cochabamba,31404,Tacachi,2024,7,5. N de perros y gatos con vacuna antirrabica,128
+La Paz,20603,Tacacoma,2024,7,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50303,Tacobamba,2024,7,5. N de perros y gatos con vacuna antirrabica,2559
+Cochabamba,30602,Tacopaya,2024,7,5. N de perros y gatos con vacuna antirrabica,80
+Potosí,51402,Tahua,2024,7,5. N de perros y gatos con vacuna antirrabica,305
+Cochabamba,31101,Tapacari,2024,7,5. N de perros y gatos con vacuna antirrabica,392
+Chuquisaca,10601,Tarabuco,2024,7,5. N de perros y gatos con vacuna antirrabica,2961
+La Paz,20807,Taraco,2024,7,5. N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30401,Tarata,2024,7,5. N de perros y gatos con vacuna antirrabica,314
+Tarija,60101,Tarija,2024,7,5. N de perros y gatos con vacuna antirrabica,9178
+Chuquisaca,10202,Tarvita,2024,7,5. N de perros y gatos con vacuna antirrabica,3994
+La Paz,20608,Teoponte,2024,7,5. N de perros y gatos con vacuna antirrabica,170
+Potosí,50102,Tinguipaya,2024,7,5. N de perros y gatos con vacuna antirrabica,4754
+Cochabamba,30903,Tiquipaya,2024,7,5. N de perros y gatos con vacuna antirrabica,3412
+Cochabamba,31601,Tiraque (cbba),2024,7,5. N de perros y gatos con vacuna antirrabica,70
+Cochabamba,30802,Toco,2024,7,5. N de perros y gatos con vacuna antirrabica,374
+Oruro,41502,Todos Santos,2024,7,5. N de perros y gatos con vacuna antirrabica,50
+Cochabamba,30803,Tolata,2024,7,5. N de perros y gatos con vacuna antirrabica,296
+Oruro,41001,Toledo,2024,7,5. N de perros y gatos con vacuna antirrabica,850
+Potosí,51202,Tomave,2024,7,5. N de perros y gatos con vacuna antirrabica,1776
+Chuquisaca,10402,Tomina,2024,7,5. N de perros y gatos con vacuna antirrabica,4130
+Potosí,50502,Toro Toro,2024,7,5. N de perros y gatos con vacuna antirrabica,3665
+Cochabamba,31201,Totora(cbba),2024,7,5. N de perros y gatos con vacuna antirrabica,843
+Oruro,41301,Totora(orr),2024,7,5. N de perros y gatos con vacuna antirrabica,1092
+Beni,80101,Trinidad,2024,7,5. N de perros y gatos con vacuna antirrabica,61
+Potosí,50801,Tupiza,2024,7,5. N de perros y gatos con vacuna antirrabica,7582
+Oruro,40402,Turco,2024,7,5. N de perros y gatos con vacuna antirrabica,537
+Potosí,50201,Uncia,2024,7,5. N de perros y gatos con vacuna antirrabica,3261
+Tarija,60401,Uriondo (a. Concepcion),2024,7,5. N de perros y gatos con vacuna antirrabica,4658
+Potosí,51201,Uyuni,2024,7,5. N de perros y gatos con vacuna antirrabica,9215
+Cochabamba,30502,Vacas,2024,7,5. N de perros y gatos con vacuna antirrabica,730
+La Paz,20801,Viacha,2024,7,5. N de perros y gatos con vacuna antirrabica,470
+Cochabamba,31302,Vila Vila,2024,7,5. N de perros y gatos con vacuna antirrabica,445
+Chuquisaca,10704,Villa Charcas,2024,7,5. N de perros y gatos con vacuna antirrabica,2180
+Tarija,60303,Villa Montes,2024,7,5. N de perros y gatos con vacuna antirrabica,11845
+Cochabamba,31402,Villa Rivero,2024,7,5. N de perros y gatos con vacuna antirrabica,386
+Chuquisaca,10801,Villa Serrano,2024,7,5. N de perros y gatos con vacuna antirrabica,3395
+Cochabamba,31003,Villa Tunari,2024,7,5. N de perros y gatos con vacuna antirrabica,3348
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,7,5. N de perros y gatos con vacuna antirrabica,3235
+Potosí,51501,Villazon,2024,7,5. N de perros y gatos con vacuna antirrabica,2741
+Cochabamba,30904,Vinto,2024,7,5. N de perros y gatos con vacuna antirrabica,2082
+Potosí,50602,Vitichi,2024,7,5. N de perros y gatos con vacuna antirrabica,2957
+La Paz,20306,Waldo Ballivian,2024,7,5. N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,70201,Warnes,2024,7,5. N de perros y gatos con vacuna antirrabica,14
+Tarija,60301,Yacuiba,2024,7,5. N de perros y gatos con vacuna antirrabica,7468
+Chuquisaca,10602,Yamparaez,2024,7,5. N de perros y gatos con vacuna antirrabica,1563
+La Paz,21103,Yanacachi,2024,7,5. N de perros y gatos con vacuna antirrabica,100
+Potosí,50103,Yocalla,2024,7,5. N de perros y gatos con vacuna antirrabica,1625
+Chuquisaca,10102,Yotala,2024,7,5. N de perros y gatos con vacuna antirrabica,1793
+Tarija,60402,Yunchara,2024,7,5. N de perros y gatos con vacuna antirrabica,1699
+Oruro,40504,Yunguyo De Litoral,2024,7,5. N de perros y gatos con vacuna antirrabica,40
+Chuquisaca,10301,Zudañez,2024,7,5. N de perros y gatos con vacuna antirrabica,3001
+Potosí,51302,Acacio,2024,8,5. N de perros y gatos con vacuna antirrabica,3
+Cochabamba,30201,Aiquile,2024,8,5. N de perros y gatos con vacuna antirrabica,156
+Cochabamba,30402,Anzaldo,2024,8,5. N de perros y gatos con vacuna antirrabica,8
+Cochabamba,30403,Arbieto,2024,8,5. N de perros y gatos con vacuna antirrabica,74
+Cochabamba,30601,Arque,2024,8,5. N de perros y gatos con vacuna antirrabica,5
+Santa Cruz,71501,Ascencion De Guarayos,2024,8,5. N de perros y gatos con vacuna antirrabica,8087
+Potosí,50802,Atocha,2024,8,5. N de perros y gatos con vacuna antirrabica,461
+Chuquisaca,10201,Azurduy,2024,8,5. N de perros y gatos con vacuna antirrabica,569
+La Paz,21203,Batallas,2024,8,5. N de perros y gatos con vacuna antirrabica,7
+Potosí,50104,Belen De Urmiri,2024,8,5. N de perros y gatos con vacuna antirrabica,21
+Pando,90104,Bella Flor,2024,8,5. N de perros y gatos con vacuna antirrabica,11
+Potosí,50301,Betanzos,2024,8,5. N de perros y gatos con vacuna antirrabica,265
+Santa Cruz,70707,Boyuibe,2024,8,5. N de perros y gatos con vacuna antirrabica,1927
+Santa Cruz,70401,Buena Vista,2024,8,5. N de perros y gatos con vacuna antirrabica,5288
+Santa Cruz,70703,Cabezas,2024,8,5. N de perros y gatos con vacuna antirrabica,8992
+Potosí,51102,"Caiza ""d""",2024,8,5. N de perros y gatos con vacuna antirrabica,74
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,8,5. N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,70706,Camiri,2024,8,5. N de perros y gatos con vacuna antirrabica,10144
+Cochabamba,30701,Capinota,2024,8,5. N de perros y gatos con vacuna antirrabica,189
+La Paz,22001,Caranavi,2024,8,5. N de perros y gatos con vacuna antirrabica,130
+Tarija,60302,Carapari,2024,8,5. N de perros y gatos con vacuna antirrabica,31
+Santa Cruz,71403,Carmen Rivero Torrez,2024,8,5. N de perros y gatos con vacuna antirrabica,1409
+Santa Cruz,70702,Charagua,2024,8,5. N de perros y gatos con vacuna antirrabica,10725
+Potosí,50202,Chayanta,2024,8,5. N de perros y gatos con vacuna antirrabica,244
+La Paz,21101,Chulumani (v. De La Libertad),2024,8,5. N de perros y gatos con vacuna antirrabica,39
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,8,5. N de perros y gatos con vacuna antirrabica,160
+Potosí,51103,Ckochas,2024,8,5. N de perros y gatos con vacuna antirrabica,241
+Cochabamba,30801,Cliza,2024,8,5. N de perros y gatos con vacuna antirrabica,82
+Cochabamba,30303,Cocapata,2024,8,5. N de perros y gatos con vacuna antirrabica,246
+Cochabamba,30101,Cochabamba,2024,8,5. N de perros y gatos con vacuna antirrabica,5651
+Cochabamba,30905,Colcapirhua,2024,8,5. N de perros y gatos con vacuna antirrabica,246
+Potosí,50901,"Colcha ""k""",2024,8,5. N de perros y gatos con vacuna antirrabica,4
+Cochabamba,31002,Colomi,2024,8,5. N de perros y gatos con vacuna antirrabica,85
+Santa Cruz,70603,Colpa Belgica,2024,8,5. N de perros y gatos con vacuna antirrabica,2283
+Potosí,50401,Colquechaca,2024,8,5. N de perros y gatos con vacuna antirrabica,154
+Santa Cruz,71301,Comarapa,2024,8,5. N de perros y gatos con vacuna antirrabica,6340
+La Paz,20605,Combaya,2024,8,5. N de perros y gatos con vacuna antirrabica,18
+Santa Cruz,71101,Concepcion,2024,8,5. N de perros y gatos con vacuna antirrabica,6396
+La Paz,21701,Copacabana,2024,8,5. N de perros y gatos con vacuna antirrabica,22
+La Paz,20301,Coro Coro,2024,8,5. N de perros y gatos con vacuna antirrabica,20
+La Paz,21401,Coroico,2024,8,5. N de perros y gatos con vacuna antirrabica,60
+Potosí,50601,Cotagaita,2024,8,5. N de perros y gatos con vacuna antirrabica,367
+Santa Cruz,70102,Cotoca,2024,8,5. N de perros y gatos con vacuna antirrabica,26580
+Santa Cruz,71106,Cuatro Cañadas,2024,8,5. N de perros y gatos con vacuna antirrabica,9314
+Santa Cruz,70704,Cuevo,2024,8,5. N de perros y gatos con vacuna antirrabica,1861
+La Paz,20804,Desaguadero,2024,8,5. N de perros y gatos con vacuna antirrabica,8
+La Paz,20105,El Alto,2024,8,5. N de perros y gatos con vacuna antirrabica,1401
+Santa Cruz,71503,El Puente(stc),2024,8,5. N de perros y gatos con vacuna antirrabica,4642
+Tarija,60502,El Puente(tja),2024,8,5. N de perros y gatos con vacuna antirrabica,95
+Santa Cruz,70105,El Torno,2024,8,5. N de perros y gatos con vacuna antirrabica,24359
+La Paz,20405,Escoma,2024,8,5. N de perros y gatos con vacuna antirrabica,72
+Santa Cruz,71004,Fernandez Alonso,2024,8,5. N de perros y gatos con vacuna antirrabica,4063
+Santa Cruz,71002,General Saavedra,2024,8,5. N de perros y gatos con vacuna antirrabica,5138
+Santa Cruz,70705,Gutierrez,2024,8,5. N de perros y gatos con vacuna antirrabica,4817
+Chuquisaca,10502,Huacareta,2024,8,5. N de perros y gatos con vacuna antirrabica,361
+Chuquisaca,11002,Huacaya (villa De Huacaya),2024,8,5. N de perros y gatos con vacuna antirrabica,72
+Oruro,40701,Huanuni,2024,8,5. N de perros y gatos con vacuna antirrabica,1585
+Oruro,41601,Huayllamarca,2024,8,5. N de perros y gatos con vacuna antirrabica,200
+La Paz,21005,Ichoca,2024,8,5. N de perros y gatos con vacuna antirrabica,60
+Chuquisaca,10304,Icla,2024,8,5. N de perros y gatos con vacuna antirrabica,128
+La Paz,21001,Inquisivi,2024,8,5. N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,70104,La Guardia,2024,8,5. N de perros y gatos con vacuna antirrabica,38680
+La Paz,20101,La Paz,2024,8,5. N de perros y gatos con vacuna antirrabica,742
+Santa Cruz,70701,Lagunillas,2024,8,5. N de perros y gatos con vacuna antirrabica,2070
+Chuquisaca,10903,Las Carreras,2024,8,5. N de perros y gatos con vacuna antirrabica,45
+Potosí,50203,Llallagua,2024,8,5. N de perros y gatos con vacuna antirrabica,160
+Potosí,51401,Llica,2024,8,5. N de perros y gatos con vacuna antirrabica,5
+La Paz,20901,Luribay,2024,8,5. N de perros y gatos con vacuna antirrabica,32
+Oruro,40702,Machacamarca,2024,8,5. N de perros y gatos con vacuna antirrabica,273
+Chuquisaca,11003,Machareti,2024,8,5. N de perros y gatos con vacuna antirrabica,93
+Beni,80801,Magdalena,2024,8,5. N de perros y gatos con vacuna antirrabica,121
+Santa Cruz,70903,Mairana,2024,8,5. N de perros y gatos con vacuna antirrabica,4119
+Santa Cruz,71003,Mineros,2024,8,5. N de perros y gatos con vacuna antirrabica,9241
+Cochabamba,31301,Mizque,2024,8,5. N de perros y gatos con vacuna antirrabica,38
+La Paz,20402,Mocomoco,2024,8,5. N de perros y gatos con vacuna antirrabica,19
+Chuquisaca,10501,Monteagudo,2024,8,5. N de perros y gatos con vacuna antirrabica,106
+Santa Cruz,71001,Montero,2024,8,5. N de perros y gatos con vacuna antirrabica,46657
+Santa Cruz,70803,Moro Moro,2024,8,5. N de perros y gatos con vacuna antirrabica,1030
+Pando,90401,Nacebe (santa Rosa Del Abuna),2024,8,5. N de perros y gatos con vacuna antirrabica,2
+Potosí,50404,Ocuri,2024,8,5. N de perros y gatos con vacuna antirrabica,460
+Santa Cruz,70202,Okinawa,2024,8,5. N de perros y gatos con vacuna antirrabica,4704
+Oruro,40101,Oruro,2024,8,5. N de perros y gatos con vacuna antirrabica,824
+Tarija,60201,Padcaya,2024,8,5. N de perros y gatos con vacuna antirrabica,569
+Chuquisaca,10401,Padilla,2024,8,5. N de perros y gatos con vacuna antirrabica,36
+Santa Cruz,70502,Pailon,2024,8,5. N de perros y gatos con vacuna antirrabica,11370
+Santa Cruz,70902,Pampa Grande,2024,8,5. N de perros y gatos con vacuna antirrabica,3520
+Cochabamba,30202,Pasorapa,2024,8,5. N de perros y gatos con vacuna antirrabica,43
+Potosí,50403,Pocoata,2024,8,5. N de perros y gatos con vacuna antirrabica,82
+Cochabamba,31203,Pocona,2024,8,5. N de perros y gatos con vacuna antirrabica,164
+Cochabamba,31202,Pojo (cbba),2024,8,5. N de perros y gatos con vacuna antirrabica,103
+Potosí,51203,Porco,2024,8,5. N de perros y gatos con vacuna antirrabica,11
+Chuquisaca,10103,Poroma,2024,8,5. N de perros y gatos con vacuna antirrabica,896
+Santa Cruz,70103,Porongo,2024,8,5. N de perros y gatos con vacuna antirrabica,5930
+Santa Cruz,70601,Portachuelo,2024,8,5. N de perros y gatos con vacuna antirrabica,6503
+Santa Cruz,70804,Postrer Valle,2024,8,5. N de perros y gatos con vacuna antirrabica,1137
+Potosí,50101,Potosi,2024,8,5. N de perros y gatos con vacuna antirrabica,101
+Santa Cruz,70805,Pucara,2024,8,5. N de perros y gatos con vacuna antirrabica,850
+La Paz,20401,Puerto Acosta,2024,8,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,71402,Puerto Quijarro,2024,8,5. N de perros y gatos con vacuna antirrabica,3298
+Santa Cruz,71401,Puerto Suarez,2024,8,5. N de perros y gatos con vacuna antirrabica,3078
+Potosí,51101,Puna,2024,8,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30901,Quillacollo,2024,8,5. N de perros y gatos con vacuna antirrabica,633
+Santa Cruz,70904,Quirusillas,2024,8,5. N de perros y gatos con vacuna antirrabica,612
+Cochabamba,31304,Raqaypampa(eta),2024,8,5. N de perros y gatos con vacuna antirrabica,38
+Potosí,50402,Ravelo,2024,8,5. N de perros y gatos con vacuna antirrabica,106
+Santa Cruz,70503,Robore,2024,8,5. N de perros y gatos con vacuna antirrabica,2725
+Cochabamba,31001,Sacaba,2024,8,5. N de perros y gatos con vacuna antirrabica,654
+Potosí,50701,Sacaca,2024,8,5. N de perros y gatos con vacuna antirrabica,324
+Santa Cruz,71302,Saipina,2024,8,5. N de perros y gatos con vacuna antirrabica,1870
+Santa Cruz,70901,Samaipata,2024,8,5. N de perros y gatos con vacuna antirrabica,3916
+Potosí,51003,San Antonio De Esmoruco,2024,8,5. N de perros y gatos con vacuna antirrabica,21
+Santa Cruz,71105,San Antonio De Lomerio,2024,8,5. N de perros y gatos con vacuna antirrabica,1843
+Beni,80302,San Borja,2024,8,5. N de perros y gatos con vacuna antirrabica,101
+La Paz,21502,San Buena Ventura,2024,8,5. N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,70402,San Carlos,2024,8,5. N de perros y gatos con vacuna antirrabica,7230
+Santa Cruz,70301,San Ignacio De Velasco,2024,8,5. N de perros y gatos con vacuna antirrabica,10743
+Santa Cruz,71102,San Javier(stc),2024,8,5. N de perros y gatos con vacuna antirrabica,3930
+Santa Cruz,70501,San Jose De Chiquitos,2024,8,5. N de perros y gatos con vacuna antirrabica,4321
+Santa Cruz,70404,San Juan De Yapacani,2024,8,5. N de perros y gatos con vacuna antirrabica,2701
+Santa Cruz,71104,San Julian,2024,8,5. N de perros y gatos con vacuna antirrabica,16924
+Tarija,60501,San Lorenzo(tja),2024,8,5. N de perros y gatos con vacuna antirrabica,277
+Chuquisaca,10702,San Lucas,2024,8,5. N de perros y gatos con vacuna antirrabica,654
+Santa Cruz,71201,San Matias,2024,8,5. N de perros y gatos con vacuna antirrabica,120
+Santa Cruz,70302,San Miguel De Velasco,2024,8,5. N de perros y gatos con vacuna antirrabica,2950
+Santa Cruz,71005,San Pedro,2024,8,5. N de perros y gatos con vacuna antirrabica,4109
+Potosí,50501,San Pedro De Buena Vista,2024,8,5. N de perros y gatos con vacuna antirrabica,195
+Potosí,50405,San Pedro De Macha,2024,8,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50902,San Pedro De Quemes,2024,8,5. N de perros y gatos con vacuna antirrabica,7
+Santa Cruz,70303,San Rafael,2024,8,5. N de perros y gatos con vacuna antirrabica,966
+Santa Cruz,71103,San Ramon Scz,2024,8,5. N de perros y gatos con vacuna antirrabica,2006
+Beni,80401,Santa Ana,2024,8,5. N de perros y gatos con vacuna antirrabica,433
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,5. N de perros y gatos con vacuna antirrabica,377829
+Santa Cruz,70602,Santa Rosa Del Sara,2024,8,5. N de perros y gatos con vacuna antirrabica,7196
+Oruro,40202,Santuario De Quillacas,2024,8,5. N de perros y gatos con vacuna antirrabica,19
+Cochabamba,31602,Shinaota,2024,8,5. N de perros y gatos con vacuna antirrabica,5
+Cochabamba,30703,Sicaya,2024,8,5. N de perros y gatos con vacuna antirrabica,26
+Cochabamba,30902,Sipe Sipe,2024,8,5. N de perros y gatos con vacuna antirrabica,332
+Oruro,40104,Soracachi,2024,8,5. N de perros y gatos con vacuna antirrabica,20
+La Paz,20601,Sorata,2024,8,5. N de perros y gatos con vacuna antirrabica,100
+Chuquisaca,10101,Sucre,2024,8,5. N de perros y gatos con vacuna antirrabica,337
+Potosí,50303,Tacobamba,2024,8,5. N de perros y gatos con vacuna antirrabica,192
+Potosí,51402,Tahua,2024,8,5. N de perros y gatos con vacuna antirrabica,14
+Cochabamba,31101,Tapacari,2024,8,5. N de perros y gatos con vacuna antirrabica,30
+Chuquisaca,10601,Tarabuco,2024,8,5. N de perros y gatos con vacuna antirrabica,663
+Cochabamba,30401,Tarata,2024,8,5. N de perros y gatos con vacuna antirrabica,96
+Tarija,60101,Tarija,2024,8,5. N de perros y gatos con vacuna antirrabica,845
+Chuquisaca,10202,Tarvita,2024,8,5. N de perros y gatos con vacuna antirrabica,1172
+Potosí,50102,Tinguipaya,2024,8,5. N de perros y gatos con vacuna antirrabica,315
+Cochabamba,30903,Tiquipaya,2024,8,5. N de perros y gatos con vacuna antirrabica,1078
+Cochabamba,30802,Toco,2024,8,5. N de perros y gatos con vacuna antirrabica,48
+Cochabamba,30803,Tolata,2024,8,5. N de perros y gatos con vacuna antirrabica,108
+Potosí,51202,Tomave,2024,8,5. N de perros y gatos con vacuna antirrabica,13
+Potosí,50502,Toro Toro,2024,8,5. N de perros y gatos con vacuna antirrabica,108
+Cochabamba,31201,Totora(cbba),2024,8,5. N de perros y gatos con vacuna antirrabica,200
+Santa Cruz,70802,Trigal,2024,8,5. N de perros y gatos con vacuna antirrabica,814
+Potosí,50801,Tupiza,2024,8,5. N de perros y gatos con vacuna antirrabica,218
+Potosí,50201,Uncia,2024,8,5. N de perros y gatos con vacuna antirrabica,318
+Tarija,60401,Uriondo (a. Concepcion),2024,8,5. N de perros y gatos con vacuna antirrabica,50
+Santa Cruz,71502,Urubicha,2024,8,5. N de perros y gatos con vacuna antirrabica,1054
+Potosí,51201,Uyuni,2024,8,5. N de perros y gatos con vacuna antirrabica,2097
+Santa Cruz,70801,Vallegrande,2024,8,5. N de perros y gatos con vacuna antirrabica,6541
+Chuquisaca,10704,Villa Charcas,2024,8,5. N de perros y gatos con vacuna antirrabica,80
+Tarija,60303,Villa Montes,2024,8,5. N de perros y gatos con vacuna antirrabica,907
+Cochabamba,31003,Villa Tunari,2024,8,5. N de perros y gatos con vacuna antirrabica,99
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,8,5. N de perros y gatos con vacuna antirrabica,460
+Potosí,51501,Villazon,2024,8,5. N de perros y gatos con vacuna antirrabica,91
+Cochabamba,30904,Vinto,2024,8,5. N de perros y gatos con vacuna antirrabica,25
+Potosí,50602,Vitichi,2024,8,5. N de perros y gatos con vacuna antirrabica,226
+La Paz,20306,Waldo Ballivian,2024,8,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70201,Warnes,2024,8,5. N de perros y gatos con vacuna antirrabica,47581
+Tarija,60301,Yacuiba,2024,8,5. N de perros y gatos con vacuna antirrabica,9280
+Chuquisaca,10602,Yamparaez,2024,8,5. N de perros y gatos con vacuna antirrabica,232
+Santa Cruz,70403,Yapacani,2024,8,5. N de perros y gatos con vacuna antirrabica,17775
+Potosí,50103,Yocalla,2024,8,5. N de perros y gatos con vacuna antirrabica,113
+Chuquisaca,10102,Yotala,2024,8,5. N de perros y gatos con vacuna antirrabica,203
+Tarija,60402,Yunchara,2024,8,5. N de perros y gatos con vacuna antirrabica,250
+Cochabamba,30201,Aiquile,2024,9,5. N de perros y gatos con vacuna antirrabica,56
+Cochabamba,30402,Anzaldo,2024,9,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30403,Arbieto,2024,9,5. N de perros y gatos con vacuna antirrabica,71
+Potosí,50802,Atocha,2024,9,5. N de perros y gatos con vacuna antirrabica,52
+La Paz,21203,Batallas,2024,9,5. N de perros y gatos con vacuna antirrabica,20
+Beni,80802,Baures,2024,9,5. N de perros y gatos con vacuna antirrabica,546
+Potosí,50104,Belen De Urmiri,2024,9,5. N de perros y gatos con vacuna antirrabica,7
+Tarija,60202,Bermejo,2024,9,5. N de perros y gatos con vacuna antirrabica,229
+Santa Cruz,70707,Boyuibe,2024,9,5. N de perros y gatos con vacuna antirrabica,40
+Santa Cruz,70401,Buena Vista,2024,9,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70703,Cabezas,2024,9,5. N de perros y gatos con vacuna antirrabica,481
+Santa Cruz,70706,Camiri,2024,9,5. N de perros y gatos con vacuna antirrabica,47
+Cochabamba,30701,Capinota,2024,9,5. N de perros y gatos con vacuna antirrabica,23
+La Paz,22001,Caranavi,2024,9,5. N de perros y gatos con vacuna antirrabica,90
+Tarija,60302,Carapari,2024,9,5. N de perros y gatos con vacuna antirrabica,18
+Santa Cruz,70702,Charagua,2024,9,5. N de perros y gatos con vacuna antirrabica,608
+Potosí,50202,Chayanta,2024,9,5. N de perros y gatos con vacuna antirrabica,7
+Cochabamba,30801,Cliza,2024,9,5. N de perros y gatos con vacuna antirrabica,134
+Cochabamba,30303,Cocapata,2024,9,5. N de perros y gatos con vacuna antirrabica,58
+Cochabamba,30101,Cochabamba,2024,9,5. N de perros y gatos con vacuna antirrabica,7998
+Cochabamba,30905,Colcapirhua,2024,9,5. N de perros y gatos con vacuna antirrabica,730
+Potosí,50901,"Colcha ""k""",2024,9,5. N de perros y gatos con vacuna antirrabica,22
+Cochabamba,31002,Colomi,2024,9,5. N de perros y gatos con vacuna antirrabica,46
+Santa Cruz,71101,Concepcion,2024,9,5. N de perros y gatos con vacuna antirrabica,274
+La Paz,21401,Coroico,2024,9,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50601,Cotagaita,2024,9,5. N de perros y gatos con vacuna antirrabica,93
+Santa Cruz,71106,Cuatro Cañadas,2024,9,5. N de perros y gatos con vacuna antirrabica,37
+Santa Cruz,70704,Cuevo,2024,9,5. N de perros y gatos con vacuna antirrabica,47
+La Paz,20105,El Alto,2024,9,5. N de perros y gatos con vacuna antirrabica,1943
+Santa Cruz,71503,El Puente(stc),2024,9,5. N de perros y gatos con vacuna antirrabica,120
+Santa Cruz,70105,El Torno,2024,9,5. N de perros y gatos con vacuna antirrabica,155
+Santa Cruz,71004,Fernandez Alonso,2024,9,5. N de perros y gatos con vacuna antirrabica,165
+Santa Cruz,71002,General Saavedra,2024,9,5. N de perros y gatos con vacuna antirrabica,45
+Beni,80202,Guayaramerin,2024,9,5. N de perros y gatos con vacuna antirrabica,2178
+Santa Cruz,70705,Gutierrez,2024,9,5. N de perros y gatos con vacuna antirrabica,129
+Pando,90402,Ingavi (humaita),2024,9,5. N de perros y gatos con vacuna antirrabica,11
+La Paz,21001,Inquisivi,2024,9,5. N de perros y gatos con vacuna antirrabica,40
+La Paz,21102,Irupana (villa De Lanza),2024,9,5. N de perros y gatos con vacuna antirrabica,25
+Santa Cruz,70104,La Guardia,2024,9,5. N de perros y gatos con vacuna antirrabica,224
+La Paz,20101,La Paz,2024,9,5. N de perros y gatos con vacuna antirrabica,185
+Potosí,50203,Llallagua,2024,9,5. N de perros y gatos con vacuna antirrabica,100
+Oruro,40702,Machacamarca,2024,9,5. N de perros y gatos con vacuna antirrabica,60
+Santa Cruz,70903,Mairana,2024,9,5. N de perros y gatos con vacuna antirrabica,141
+La Paz,20103,Mecapaca,2024,9,5. N de perros y gatos con vacuna antirrabica,82
+Santa Cruz,71003,Mineros,2024,9,5. N de perros y gatos con vacuna antirrabica,18
+Cochabamba,31301,Mizque,2024,9,5. N de perros y gatos con vacuna antirrabica,16
+Santa Cruz,71001,Montero,2024,9,5. N de perros y gatos con vacuna antirrabica,232
+Santa Cruz,70803,Moro Moro,2024,9,5. N de perros y gatos con vacuna antirrabica,34
+Potosí,50404,Ocuri,2024,9,5. N de perros y gatos con vacuna antirrabica,76
+Santa Cruz,70202,Okinawa,2024,9,5. N de perros y gatos con vacuna antirrabica,96
+Oruro,40101,Oruro,2024,9,5. N de perros y gatos con vacuna antirrabica,534
+Tarija,60201,Padcaya,2024,9,5. N de perros y gatos con vacuna antirrabica,138
+Santa Cruz,70502,Pailon,2024,9,5. N de perros y gatos con vacuna antirrabica,65
+Cochabamba,30202,Pasorapa,2024,9,5. N de perros y gatos con vacuna antirrabica,146
+Cochabamba,31202,Pojo (cbba),2024,9,5. N de perros y gatos con vacuna antirrabica,34
+Potosí,51203,Porco,2024,9,5. N de perros y gatos con vacuna antirrabica,2
+Chuquisaca,10103,Poroma,2024,9,5. N de perros y gatos con vacuna antirrabica,196
+Santa Cruz,70103,Porongo,2024,9,5. N de perros y gatos con vacuna antirrabica,195
+Potosí,50101,Potosi,2024,9,5. N de perros y gatos con vacuna antirrabica,55
+Santa Cruz,71402,Puerto Quijarro,2024,9,5. N de perros y gatos con vacuna antirrabica,338
+Potosí,51101,Puna,2024,9,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30901,Quillacollo,2024,9,5. N de perros y gatos con vacuna antirrabica,874
+Santa Cruz,70904,Quirusillas,2024,9,5. N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,70503,Robore,2024,9,5. N de perros y gatos con vacuna antirrabica,26
+Cochabamba,31001,Sacaba,2024,9,5. N de perros y gatos con vacuna antirrabica,1007
+Cochabamba,30404,Sacabamba,2024,9,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50701,Sacaca,2024,9,5. N de perros y gatos con vacuna antirrabica,7
+Santa Cruz,71302,Saipina,2024,9,5. N de perros y gatos con vacuna antirrabica,137
+Santa Cruz,70901,Samaipata,2024,9,5. N de perros y gatos con vacuna antirrabica,235
+Santa Cruz,71105,San Antonio De Lomerio,2024,9,5. N de perros y gatos con vacuna antirrabica,47
+Beni,80302,San Borja,2024,9,5. N de perros y gatos con vacuna antirrabica,929
+Santa Cruz,70402,San Carlos,2024,9,5. N de perros y gatos con vacuna antirrabica,2
+Santa Cruz,70301,San Ignacio De Velasco,2024,9,5. N de perros y gatos con vacuna antirrabica,421
+Santa Cruz,70501,San Jose De Chiquitos,2024,9,5. N de perros y gatos con vacuna antirrabica,49
+Santa Cruz,71104,San Julian,2024,9,5. N de perros y gatos con vacuna antirrabica,1142
+Tarija,60501,San Lorenzo(tja),2024,9,5. N de perros y gatos con vacuna antirrabica,495
+Santa Cruz,70302,San Miguel De Velasco,2024,9,5. N de perros y gatos con vacuna antirrabica,23
+Santa Cruz,71005,San Pedro,2024,9,5. N de perros y gatos con vacuna antirrabica,28
+Potosí,50902,San Pedro De Quemes,2024,9,5. N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,70303,San Rafael,2024,9,5. N de perros y gatos con vacuna antirrabica,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,5. N de perros y gatos con vacuna antirrabica,2565
+Cochabamba,31602,Shinaota,2024,9,5. N de perros y gatos con vacuna antirrabica,27
+Cochabamba,30703,Sicaya,2024,9,5. N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30902,Sipe Sipe,2024,9,5. N de perros y gatos con vacuna antirrabica,125
+La Paz,20601,Sorata,2024,9,5. N de perros y gatos con vacuna antirrabica,225
+Chuquisaca,10101,Sucre,2024,9,5. N de perros y gatos con vacuna antirrabica,315
+Cochabamba,30401,Tarata,2024,9,5. N de perros y gatos con vacuna antirrabica,76
+Tarija,60101,Tarija,2024,9,5. N de perros y gatos con vacuna antirrabica,22
+Potosí,50102,Tinguipaya,2024,9,5. N de perros y gatos con vacuna antirrabica,5
+Cochabamba,30903,Tiquipaya,2024,9,5. N de perros y gatos con vacuna antirrabica,750
+Cochabamba,30802,Toco,2024,9,5. N de perros y gatos con vacuna antirrabica,60
+Cochabamba,30803,Tolata,2024,9,5. N de perros y gatos con vacuna antirrabica,36
+Potosí,50502,Toro Toro,2024,9,5. N de perros y gatos con vacuna antirrabica,14
+Cochabamba,31201,Totora(cbba),2024,9,5. N de perros y gatos con vacuna antirrabica,111
+Oruro,41301,Totora(orr),2024,9,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50801,Tupiza,2024,9,5. N de perros y gatos con vacuna antirrabica,36
+Potosí,50201,Uncia,2024,9,5. N de perros y gatos con vacuna antirrabica,30
+Potosí,51201,Uyuni,2024,9,5. N de perros y gatos con vacuna antirrabica,6
+Santa Cruz,70801,Vallegrande,2024,9,5. N de perros y gatos con vacuna antirrabica,192
+Tarija,60303,Villa Montes,2024,9,5. N de perros y gatos con vacuna antirrabica,183
+Cochabamba,31402,Villa Rivero,2024,9,5. N de perros y gatos con vacuna antirrabica,2
+Cochabamba,31003,Villa Tunari,2024,9,5. N de perros y gatos con vacuna antirrabica,36
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,9,5. N de perros y gatos con vacuna antirrabica,8
+Potosí,51501,Villazon,2024,9,5. N de perros y gatos con vacuna antirrabica,61
+Cochabamba,30904,Vinto,2024,9,5. N de perros y gatos con vacuna antirrabica,296
+La Paz,20306,Waldo Ballivian,2024,9,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70201,Warnes,2024,9,5. N de perros y gatos con vacuna antirrabica,104
+Tarija,60301,Yacuiba,2024,9,5. N de perros y gatos con vacuna antirrabica,972
+Chuquisaca,10102,Yotala,2024,9,5. N de perros y gatos con vacuna antirrabica,62
+Tarija,60402,Yunchara,2024,9,5. N de perros y gatos con vacuna antirrabica,127
+Potosí,51302,Acacio,2024,10,5. N de perros y gatos con vacuna antirrabica,8
+Cochabamba,30201,Aiquile,2024,10,5. N de perros y gatos con vacuna antirrabica,33
+Cochabamba,30403,Arbieto,2024,10,5. N de perros y gatos con vacuna antirrabica,86
+Potosí,50802,Atocha,2024,10,5. N de perros y gatos con vacuna antirrabica,5
+La Paz,20503,Aucapata,2024,10,5. N de perros y gatos con vacuna antirrabica,10
+Tarija,60202,Bermejo,2024,10,5. N de perros y gatos con vacuna antirrabica,565
+Santa Cruz,70703,Cabezas,2024,10,5. N de perros y gatos con vacuna antirrabica,77
+Potosí,51102,"Caiza ""d""",2024,10,5. N de perros y gatos con vacuna antirrabica,4
+Cochabamba,30701,Capinota,2024,10,5. N de perros y gatos con vacuna antirrabica,40
+La Paz,22001,Caranavi,2024,10,5. N de perros y gatos con vacuna antirrabica,160
+Tarija,60302,Carapari,2024,10,5. N de perros y gatos con vacuna antirrabica,16
+Santa Cruz,70702,Charagua,2024,10,5. N de perros y gatos con vacuna antirrabica,53
+Cochabamba,30801,Cliza,2024,10,5. N de perros y gatos con vacuna antirrabica,131
+Cochabamba,30303,Cocapata,2024,10,5. N de perros y gatos con vacuna antirrabica,31
+Cochabamba,30101,Cochabamba,2024,10,5. N de perros y gatos con vacuna antirrabica,6208
+Cochabamba,30905,Colcapirhua,2024,10,5. N de perros y gatos con vacuna antirrabica,320
+Cochabamba,31002,Colomi,2024,10,5. N de perros y gatos con vacuna antirrabica,62
+Potosí,50401,Colquechaca,2024,10,5. N de perros y gatos con vacuna antirrabica,7
+Santa Cruz,71301,Comarapa,2024,10,5. N de perros y gatos con vacuna antirrabica,1
+La Paz,21402,Coripata,2024,10,5. N de perros y gatos con vacuna antirrabica,10
+La Paz,21401,Coroico,2024,10,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50601,Cotagaita,2024,10,5. N de perros y gatos con vacuna antirrabica,47
+La Paz,20804,Desaguadero,2024,10,5. N de perros y gatos con vacuna antirrabica,18
+La Paz,20105,El Alto,2024,10,5. N de perros y gatos con vacuna antirrabica,2276
+Santa Cruz,71503,El Puente(stc),2024,10,5. N de perros y gatos con vacuna antirrabica,29
+Santa Cruz,70105,El Torno,2024,10,5. N de perros y gatos con vacuna antirrabica,70
+Santa Cruz,71004,Fernandez Alonso,2024,10,5. N de perros y gatos con vacuna antirrabica,13
+Santa Cruz,71002,General Saavedra,2024,10,5. N de perros y gatos con vacuna antirrabica,22
+Beni,80202,Guayaramerin,2024,10,5. N de perros y gatos con vacuna antirrabica,245
+La Paz,20404,Humanata,2024,10,5. N de perros y gatos con vacuna antirrabica,20
+La Paz,21105,La Asunta,2024,10,5. N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,70104,La Guardia,2024,10,5. N de perros y gatos con vacuna antirrabica,48
+La Paz,20101,La Paz,2024,10,5. N de perros y gatos con vacuna antirrabica,136
+Santa Cruz,70903,Mairana,2024,10,5. N de perros y gatos con vacuna antirrabica,25
+Santa Cruz,71003,Mineros,2024,10,5. N de perros y gatos con vacuna antirrabica,11
+Cochabamba,31301,Mizque,2024,10,5. N de perros y gatos con vacuna antirrabica,12
+Santa Cruz,71001,Montero,2024,10,5. N de perros y gatos con vacuna antirrabica,48
+Santa Cruz,70803,Moro Moro,2024,10,5. N de perros y gatos con vacuna antirrabica,40
+Potosí,50404,Ocuri,2024,10,5. N de perros y gatos con vacuna antirrabica,11
+Oruro,40101,Oruro,2024,10,5. N de perros y gatos con vacuna antirrabica,5225
+Tarija,60201,Padcaya,2024,10,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70502,Pailon,2024,10,5. N de perros y gatos con vacuna antirrabica,51
+Potosí,51203,Porco,2024,10,5. N de perros y gatos con vacuna antirrabica,2
+Chuquisaca,10103,Poroma,2024,10,5. N de perros y gatos con vacuna antirrabica,56
+Santa Cruz,70103,Porongo,2024,10,5. N de perros y gatos con vacuna antirrabica,53
+La Paz,21204,Puerto Perez,2024,10,5. N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,71402,Puerto Quijarro,2024,10,5. N de perros y gatos con vacuna antirrabica,157
+Cochabamba,30901,Quillacollo,2024,10,5. N de perros y gatos con vacuna antirrabica,1167
+Cochabamba,31304,Raqaypampa(eta),2024,10,5. N de perros y gatos con vacuna antirrabica,18
+Potosí,50402,Ravelo,2024,10,5. N de perros y gatos con vacuna antirrabica,17
+Beni,80201,Riberalta,2024,10,5. N de perros y gatos con vacuna antirrabica,4
+Santa Cruz,70503,Robore,2024,10,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,31001,Sacaba,2024,10,5. N de perros y gatos con vacuna antirrabica,1809
+Santa Cruz,70901,Samaipata,2024,10,5. N de perros y gatos con vacuna antirrabica,53
+Santa Cruz,70402,San Carlos,2024,10,5. N de perros y gatos con vacuna antirrabica,32
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,5. N de perros y gatos con vacuna antirrabica,126
+Santa Cruz,71104,San Julian,2024,10,5. N de perros y gatos con vacuna antirrabica,324
+Santa Cruz,71005,San Pedro,2024,10,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50902,San Pedro De Quemes,2024,10,5. N de perros y gatos con vacuna antirrabica,31
+La Paz,21702,San Pedro De Tiquina,2024,10,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,5. N de perros y gatos con vacuna antirrabica,1042
+Santa Cruz,70602,Santa Rosa Del Sara,2024,10,5. N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30902,Sipe Sipe,2024,10,5. N de perros y gatos con vacuna antirrabica,129
+Chuquisaca,10101,Sucre,2024,10,5. N de perros y gatos con vacuna antirrabica,62
+Cochabamba,30401,Tarata,2024,10,5. N de perros y gatos con vacuna antirrabica,30
+Cochabamba,30903,Tiquipaya,2024,10,5. N de perros y gatos con vacuna antirrabica,80
+Cochabamba,30802,Toco,2024,10,5. N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30803,Tolata,2024,10,5. N de perros y gatos con vacuna antirrabica,52
+Cochabamba,31201,Totora(cbba),2024,10,5. N de perros y gatos con vacuna antirrabica,27
+Santa Cruz,70801,Vallegrande,2024,10,5. N de perros y gatos con vacuna antirrabica,116
+Tarija,60303,Villa Montes,2024,10,5. N de perros y gatos con vacuna antirrabica,318
+Cochabamba,31402,Villa Rivero,2024,10,5. N de perros y gatos con vacuna antirrabica,14
+Cochabamba,31003,Villa Tunari,2024,10,5. N de perros y gatos con vacuna antirrabica,14
+Potosí,51501,Villazon,2024,10,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30904,Vinto,2024,10,5. N de perros y gatos con vacuna antirrabica,695
+La Paz,20306,Waldo Ballivian,2024,10,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70201,Warnes,2024,10,5. N de perros y gatos con vacuna antirrabica,83
+Potosí,50103,Yocalla,2024,10,5. N de perros y gatos con vacuna antirrabica,82
+Chuquisaca,10102,Yotala,2024,10,5. N de perros y gatos con vacuna antirrabica,28
+Cochabamba,30201,Aiquile,2024,11,5. N de perros y gatos con vacuna antirrabica,23
+Potosí,51301,Arampampa,2024,11,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30403,Arbieto,2024,11,5. N de perros y gatos con vacuna antirrabica,114
+Santa Cruz,70703,Cabezas,2024,11,5. N de perros y gatos con vacuna antirrabica,5
+Santa Cruz,70706,Camiri,2024,11,5. N de perros y gatos con vacuna antirrabica,1690
+Cochabamba,30701,Capinota,2024,11,5. N de perros y gatos con vacuna antirrabica,30
+Oruro,40102,Caracollo,2024,11,5. N de perros y gatos con vacuna antirrabica,150
+La Paz,22001,Caranavi,2024,11,5. N de perros y gatos con vacuna antirrabica,65
+Tarija,60302,Carapari,2024,11,5. N de perros y gatos con vacuna antirrabica,12
+Santa Cruz,70702,Charagua,2024,11,5. N de perros y gatos con vacuna antirrabica,4
+La Paz,21101,Chulumani (v. De La Libertad),2024,11,5. N de perros y gatos con vacuna antirrabica,20
+Cochabamba,30801,Cliza,2024,11,5. N de perros y gatos con vacuna antirrabica,41
+Cochabamba,30303,Cocapata,2024,11,5. N de perros y gatos con vacuna antirrabica,80
+Cochabamba,30101,Cochabamba,2024,11,5. N de perros y gatos con vacuna antirrabica,47336
+Cochabamba,30905,Colcapirhua,2024,11,5. N de perros y gatos con vacuna antirrabica,550
+Potosí,50901,"Colcha ""k""",2024,11,5. N de perros y gatos con vacuna antirrabica,1
+Cochabamba,31002,Colomi,2024,11,5. N de perros y gatos con vacuna antirrabica,20
+La Paz,21401,Coroico,2024,11,5. N de perros y gatos con vacuna antirrabica,50
+Potosí,50601,Cotagaita,2024,11,5. N de perros y gatos con vacuna antirrabica,58
+Santa Cruz,71106,Cuatro Cañadas,2024,11,5. N de perros y gatos con vacuna antirrabica,10
+La Paz,20105,El Alto,2024,11,5. N de perros y gatos con vacuna antirrabica,5494
+Santa Cruz,71004,Fernandez Alonso,2024,11,5. N de perros y gatos con vacuna antirrabica,14
+Santa Cruz,71002,General Saavedra,2024,11,5. N de perros y gatos con vacuna antirrabica,24
+Santa Cruz,70705,Gutierrez,2024,11,5. N de perros y gatos con vacuna antirrabica,88
+La Paz,20806,Jesus De Machaca,2024,11,5. N de perros y gatos con vacuna antirrabica,10
+La Paz,21105,La Asunta,2024,11,5. N de perros y gatos con vacuna antirrabica,60
+Santa Cruz,70104,La Guardia,2024,11,5. N de perros y gatos con vacuna antirrabica,162
+La Paz,20101,La Paz,2024,11,5. N de perros y gatos con vacuna antirrabica,217
+La Paz,20901,Luribay,2024,11,5. N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,70903,Mairana,2024,11,5. N de perros y gatos con vacuna antirrabica,27
+Santa Cruz,71003,Mineros,2024,11,5. N de perros y gatos con vacuna antirrabica,6
+Cochabamba,31301,Mizque,2024,11,5. N de perros y gatos con vacuna antirrabica,1
+La Paz,20402,Mocomoco,2024,11,5. N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,71001,Montero,2024,11,5. N de perros y gatos con vacuna antirrabica,50
+Cochabamba,30302,Morochata,2024,11,5. N de perros y gatos con vacuna antirrabica,20
+Potosí,50404,Ocuri,2024,11,5. N de perros y gatos con vacuna antirrabica,12
+Oruro,40101,Oruro,2024,11,5. N de perros y gatos con vacuna antirrabica,651
+Tarija,60201,Padcaya,2024,11,5. N de perros y gatos con vacuna antirrabica,107
+Santa Cruz,70502,Pailon,2024,11,5. N de perros y gatos con vacuna antirrabica,28
+Potosí,50101,Potosi,2024,11,5. N de perros y gatos con vacuna antirrabica,116
+La Paz,21204,Puerto Perez,2024,11,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30901,Quillacollo,2024,11,5. N de perros y gatos con vacuna antirrabica,1737
+Santa Cruz,70503,Robore,2024,11,5. N de perros y gatos con vacuna antirrabica,40
+Cochabamba,31001,Sacaba,2024,11,5. N de perros y gatos con vacuna antirrabica,7725
+Santa Cruz,71302,Saipina,2024,11,5. N de perros y gatos con vacuna antirrabica,42
+Santa Cruz,70901,Samaipata,2024,11,5. N de perros y gatos con vacuna antirrabica,3
+Beni,80302,San Borja,2024,11,5. N de perros y gatos con vacuna antirrabica,6
+Santa Cruz,70301,San Ignacio De Velasco,2024,11,5. N de perros y gatos con vacuna antirrabica,623
+Santa Cruz,71104,San Julian,2024,11,5. N de perros y gatos con vacuna antirrabica,184
+Santa Cruz,71005,San Pedro,2024,11,5. N de perros y gatos con vacuna antirrabica,86
+Potosí,50501,San Pedro De Buena Vista,2024,11,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70303,San Rafael,2024,11,5. N de perros y gatos con vacuna antirrabica,270
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,5. N de perros y gatos con vacuna antirrabica,567
+Cochabamba,30902,Sipe Sipe,2024,11,5. N de perros y gatos con vacuna antirrabica,193
+Chuquisaca,10101,Sucre,2024,11,5. N de perros y gatos con vacuna antirrabica,59
+Cochabamba,30401,Tarata,2024,11,5. N de perros y gatos con vacuna antirrabica,102
+Cochabamba,30903,Tiquipaya,2024,11,5. N de perros y gatos con vacuna antirrabica,135
+Cochabamba,30802,Toco,2024,11,5. N de perros y gatos con vacuna antirrabica,70
+Cochabamba,30803,Tolata,2024,11,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,31201,Totora(cbba),2024,11,5. N de perros y gatos con vacuna antirrabica,30
+Santa Cruz,70801,Vallegrande,2024,11,5. N de perros y gatos con vacuna antirrabica,60
+Tarija,60303,Villa Montes,2024,11,5. N de perros y gatos con vacuna antirrabica,11
+Cochabamba,31003,Villa Tunari,2024,11,5. N de perros y gatos con vacuna antirrabica,26
+Cochabamba,30904,Vinto,2024,11,5. N de perros y gatos con vacuna antirrabica,194
+La Paz,20306,Waldo Ballivian,2024,11,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70201,Warnes,2024,11,5. N de perros y gatos con vacuna antirrabica,147
+Tarija,60301,Yacuiba,2024,11,5. N de perros y gatos con vacuna antirrabica,44
+Cochabamba,30201,Aiquile,2024,12,5. N de perros y gatos con vacuna antirrabica,25
+Cochabamba,30402,Anzaldo,2024,12,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30403,Arbieto,2024,12,5. N de perros y gatos con vacuna antirrabica,95
+Tarija,60202,Bermejo,2024,12,5. N de perros y gatos con vacuna antirrabica,11
+Potosí,51102,"Caiza ""d""",2024,12,5. N de perros y gatos con vacuna antirrabica,1
+Cochabamba,30701,Capinota,2024,12,5. N de perros y gatos con vacuna antirrabica,9
+La Paz,22001,Caranavi,2024,12,5. N de perros y gatos con vacuna antirrabica,57
+Tarija,60302,Carapari,2024,12,5. N de perros y gatos con vacuna antirrabica,7
+Potosí,50202,Chayanta,2024,12,5. N de perros y gatos con vacuna antirrabica,42
+Cochabamba,30801,Cliza,2024,12,5. N de perros y gatos con vacuna antirrabica,227
+Cochabamba,30303,Cocapata,2024,12,5. N de perros y gatos con vacuna antirrabica,14
+Cochabamba,30101,Cochabamba,2024,12,5. N de perros y gatos con vacuna antirrabica,2462
+Cochabamba,30905,Colcapirhua,2024,12,5. N de perros y gatos con vacuna antirrabica,192
+Potosí,50901,"Colcha ""k""",2024,12,5. N de perros y gatos con vacuna antirrabica,3
+Cochabamba,31002,Colomi,2024,12,5. N de perros y gatos con vacuna antirrabica,80
+La Paz,21401,Coroico,2024,12,5. N de perros y gatos con vacuna antirrabica,10
+Potosí,50601,Cotagaita,2024,12,5. N de perros y gatos con vacuna antirrabica,82
+La Paz,20105,El Alto,2024,12,5. N de perros y gatos con vacuna antirrabica,721
+Santa Cruz,71503,El Puente(stc),2024,12,5. N de perros y gatos con vacuna antirrabica,14
+Tarija,60502,El Puente(tja),2024,12,5. N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,70105,El Torno,2024,12,5. N de perros y gatos con vacuna antirrabica,28
+Santa Cruz,71004,Fernandez Alonso,2024,12,5. N de perros y gatos con vacuna antirrabica,52
+Santa Cruz,71002,General Saavedra,2024,12,5. N de perros y gatos con vacuna antirrabica,5
+La Paz,21102,Irupana (villa De Lanza),2024,12,5. N de perros y gatos con vacuna antirrabica,30
+La Paz,21501,Ixiamas,2024,12,5. N de perros y gatos con vacuna antirrabica,10
+La Paz,21105,La Asunta,2024,12,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70104,La Guardia,2024,12,5. N de perros y gatos con vacuna antirrabica,20
+La Paz,20101,La Paz,2024,12,5. N de perros y gatos con vacuna antirrabica,462
+La Paz,20904,Malla,2024,12,5. N de perros y gatos con vacuna antirrabica,7
+Santa Cruz,71003,Mineros,2024,12,5. N de perros y gatos con vacuna antirrabica,16
+Cochabamba,31301,Mizque,2024,12,5. N de perros y gatos con vacuna antirrabica,2
+Santa Cruz,71001,Montero,2024,12,5. N de perros y gatos con vacuna antirrabica,78
+Cochabamba,30302,Morochata,2024,12,5. N de perros y gatos con vacuna antirrabica,60
+Potosí,50404,Ocuri,2024,12,5. N de perros y gatos con vacuna antirrabica,10
+Oruro,40101,Oruro,2024,12,5. N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,70502,Pailon,2024,12,5. N de perros y gatos con vacuna antirrabica,4
+Santa Cruz,70103,Porongo,2024,12,5. N de perros y gatos con vacuna antirrabica,97
+Cochabamba,30901,Quillacollo,2024,12,5. N de perros y gatos con vacuna antirrabica,870
+Potosí,50402,Ravelo,2024,12,5. N de perros y gatos con vacuna antirrabica,10
+Santa Cruz,70503,Robore,2024,12,5. N de perros y gatos con vacuna antirrabica,50
+Cochabamba,31001,Sacaba,2024,12,5. N de perros y gatos con vacuna antirrabica,1496
+Cochabamba,30404,Sacabamba,2024,12,5. N de perros y gatos con vacuna antirrabica,40
+Beni,80302,San Borja,2024,12,5. N de perros y gatos con vacuna antirrabica,3
+Santa Cruz,70301,San Ignacio De Velasco,2024,12,5. N de perros y gatos con vacuna antirrabica,460
+Santa Cruz,71104,San Julian,2024,12,5. N de perros y gatos con vacuna antirrabica,73
+Tarija,60501,San Lorenzo(tja),2024,12,5. N de perros y gatos con vacuna antirrabica,295
+Santa Cruz,71005,San Pedro,2024,12,5. N de perros y gatos con vacuna antirrabica,86
+Potosí,50501,San Pedro De Buena Vista,2024,12,5. N de perros y gatos con vacuna antirrabica,34
+La Paz,21702,San Pedro De Tiquina,2024,12,5. N de perros y gatos con vacuna antirrabica,30
+Beni,80702,San Ramon Beni,2024,12,5. N de perros y gatos con vacuna antirrabica,117
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,5. N de perros y gatos con vacuna antirrabica,1370
+Cochabamba,30902,Sipe Sipe,2024,12,5. N de perros y gatos con vacuna antirrabica,43
+Chuquisaca,10101,Sucre,2024,12,5. N de perros y gatos con vacuna antirrabica,793
+Cochabamba,31101,Tapacari,2024,12,5. N de perros y gatos con vacuna antirrabica,40
+La Paz,20807,Taraco,2024,12,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30401,Tarata,2024,12,5. N de perros y gatos con vacuna antirrabica,30
+Potosí,50102,Tinguipaya,2024,12,5. N de perros y gatos con vacuna antirrabica,10
+Cochabamba,30903,Tiquipaya,2024,12,5. N de perros y gatos con vacuna antirrabica,130
+Cochabamba,30802,Toco,2024,12,5. N de perros y gatos con vacuna antirrabica,60
+Cochabamba,30803,Tolata,2024,12,5. N de perros y gatos con vacuna antirrabica,72
+Santa Cruz,70801,Vallegrande,2024,12,5. N de perros y gatos con vacuna antirrabica,28
+Tarija,60303,Villa Montes,2024,12,5. N de perros y gatos con vacuna antirrabica,357
+Cochabamba,31402,Villa Rivero,2024,12,5. N de perros y gatos con vacuna antirrabica,38
+Cochabamba,31003,Villa Tunari,2024,12,5. N de perros y gatos con vacuna antirrabica,83
+Cochabamba,30904,Vinto,2024,12,5. N de perros y gatos con vacuna antirrabica,575
+La Paz,20306,Waldo Ballivian,2024,12,5. N de perros y gatos con vacuna antirrabica,20
+Santa Cruz,70201,Warnes,2024,12,5. N de perros y gatos con vacuna antirrabica,697
+La Paz,20104,Achocalla,2024,1,TOTAL,1
+Cochabamba,30201,Aiquile,2024,1,TOTAL,19
+Cochabamba,30403,Arbieto,2024,1,TOTAL,74
+Potosí,50802,Atocha,2024,1,TOTAL,23
+Potosí,51102,"Caiza ""d""",2024,1,TOTAL,3
+Cochabamba,30701,Capinota,2024,1,TOTAL,47
+Tarija,60302,Carapari,2024,1,TOTAL,7
+La Paz,20203,Chua Cocani,2024,1,TOTAL,5
+La Paz,20501,Chuma,2024,1,TOTAL,17
+Cochabamba,30801,Cliza,2024,1,TOTAL,111
+Pando,90101,Cobija,2024,1,TOTAL,30
+Cochabamba,30303,Cocapata,2024,1,TOTAL,20
+Cochabamba,30101,Cochabamba,2024,1,TOTAL,2480
+Cochabamba,30905,Colcapirhua,2024,1,TOTAL,295
+Cochabamba,31002,Colomi,2024,1,TOTAL,18
+Potosí,50601,Cotagaita,2024,1,TOTAL,26
+La Paz,20105,El Alto,2024,1,TOTAL,238
+Tarija,60601,Entre Rios Trj,2024,1,TOTAL,10
+Santa Cruz,71004,Fernandez Alonso,2024,1,TOTAL,13
+Santa Cruz,71002,General Saavedra,2024,1,TOTAL,7
+La Paz,21105,La Asunta,2024,1,TOTAL,100
+La Paz,20101,La Paz,2024,1,TOTAL,30
+Santa Cruz,71003,Mineros,2024,1,TOTAL,6
+Cochabamba,31301,Mizque,2024,1,TOTAL,15
+La Paz,20402,Mocomoco,2024,1,TOTAL,30
+Santa Cruz,71001,Montero,2024,1,TOTAL,27
+Potosí,50404,Ocuri,2024,1,TOTAL,55
+Oruro,40101,Oruro,2024,1,TOTAL,3
+Santa Cruz,70502,Pailon,2024,1,TOTAL,50
+Potosí,51203,Porco,2024,1,TOTAL,7
+Santa Cruz,70601,Portachuelo,2024,1,TOTAL,28
+La Paz,21201,Pucarani,2024,1,TOTAL,11
+La Paz,20403,Puerto Carabuco,2024,1,TOTAL,50
+Cochabamba,30901,Quillacollo,2024,1,TOTAL,812
+Cochabamba,31001,Sacaba,2024,1,TOTAL,607
+Cochabamba,30404,Sacabamba,2024,1,TOTAL,10
+La Paz,21502,San Buena Ventura,2024,1,TOTAL,9
+Santa Cruz,70402,San Carlos,2024,1,TOTAL,10
+Santa Cruz,70301,San Ignacio De Velasco,2024,1,TOTAL,21
+Santa Cruz,70501,San Jose De Chiquitos,2024,1,TOTAL,214
+Santa Cruz,71005,San Pedro,2024,1,TOTAL,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,1,TOTAL,2044
+Cochabamba,30902,Sipe Sipe,2024,1,TOTAL,7
+Chuquisaca,10101,Sucre,2024,1,TOTAL,59
+Cochabamba,30401,Tarata,2024,1,TOTAL,57
+Cochabamba,30903,Tiquipaya,2024,1,TOTAL,286
+Cochabamba,30802,Toco,2024,1,TOTAL,30
+Cochabamba,30803,Tolata,2024,1,TOTAL,20
+Potosí,51202,Tomave,2024,1,TOTAL,5
+Oruro,41301,Totora(orr),2024,1,TOTAL,10
+Potosí,50801,Tupiza,2024,1,TOTAL,6
+La Paz,20801,Viacha,2024,1,TOTAL,1200
+Tarija,60303,Villa Montes,2024,1,TOTAL,40
+Cochabamba,31003,Villa Tunari,2024,1,TOTAL,107
+Potosí,51501,Villazon,2024,1,TOTAL,13
+Cochabamba,30904,Vinto,2024,1,TOTAL,8
+Santa Cruz,70201,Warnes,2024,1,TOTAL,1280
+Cochabamba,30201,Aiquile,2024,2,TOTAL,10
+Cochabamba,30403,Arbieto,2024,2,TOTAL,46
+Potosí,51102,"Caiza ""d""",2024,2,TOTAL,25
+Cochabamba,30701,Capinota,2024,2,TOTAL,11
+Cochabamba,30801,Cliza,2024,2,TOTAL,154
+Cochabamba,30303,Cocapata,2024,2,TOTAL,10
+Cochabamba,30101,Cochabamba,2024,2,TOTAL,3309
+Cochabamba,30905,Colcapirhua,2024,2,TOTAL,50
+Cochabamba,31002,Colomi,2024,2,TOTAL,10
+Potosí,50601,Cotagaita,2024,2,TOTAL,16
+La Paz,20105,El Alto,2024,2,TOTAL,102
+Santa Cruz,71004,Fernandez Alonso,2024,2,TOTAL,28
+Santa Cruz,71002,General Saavedra,2024,2,TOTAL,8
+La Paz,20101,La Paz,2024,2,TOTAL,44
+Cochabamba,31301,Mizque,2024,2,TOTAL,3
+Santa Cruz,71001,Montero,2024,2,TOTAL,85
+Potosí,50404,Ocuri,2024,2,TOTAL,15
+Oruro,40101,Oruro,2024,2,TOTAL,309
+Santa Cruz,70502,Pailon,2024,2,TOTAL,30
+Santa Cruz,70601,Portachuelo,2024,2,TOTAL,19
+Potosí,50101,Potosi,2024,2,TOTAL,32
+La Paz,21201,Pucarani,2024,2,TOTAL,50
+La Paz,20401,Puerto Acosta,2024,2,TOTAL,10
+La Paz,21204,Puerto Perez,2024,2,TOTAL,10
+Potosí,51101,Puna,2024,2,TOTAL,10
+Cochabamba,30901,Quillacollo,2024,2,TOTAL,946
+Santa Cruz,70503,Robore,2024,2,TOTAL,51
+Cochabamba,31001,Sacaba,2024,2,TOTAL,193
+Beni,80501,San Ignacio,2024,2,TOTAL,80
+Santa Cruz,70301,San Ignacio De Velasco,2024,2,TOTAL,52
+Santa Cruz,70404,San Juan De Yapacani,2024,2,TOTAL,5
+Santa Cruz,70302,San Miguel De Velasco,2024,2,TOTAL,7
+Santa Cruz,71005,San Pedro,2024,2,TOTAL,15
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,2,TOTAL,1126
+Cochabamba,30902,Sipe Sipe,2024,2,TOTAL,97
+Chuquisaca,10101,Sucre,2024,2,TOTAL,10
+Cochabamba,30401,Tarata,2024,2,TOTAL,49
+Cochabamba,30903,Tiquipaya,2024,2,TOTAL,629
+Cochabamba,30802,Toco,2024,2,TOTAL,50
+Cochabamba,30803,Tolata,2024,2,TOTAL,45
+Potosí,51202,Tomave,2024,2,TOTAL,1
+Tarija,60303,Villa Montes,2024,2,TOTAL,208
+Cochabamba,31003,Villa Tunari,2024,2,TOTAL,134
+Potosí,51501,Villazon,2024,2,TOTAL,9
+Cochabamba,30904,Vinto,2024,2,TOTAL,3
+Santa Cruz,70201,Warnes,2024,2,TOTAL,2861
+Cochabamba,30403,Arbieto,2024,3,TOTAL,97
+Potosí,50802,Atocha,2024,3,TOTAL,1
+Potosí,50202,Chayanta,2024,3,TOTAL,110
+La Paz,20501,Chuma,2024,3,TOTAL,4
+Cochabamba,30801,Cliza,2024,3,TOTAL,259
+Cochabamba,30303,Cocapata,2024,3,TOTAL,20
+Cochabamba,30101,Cochabamba,2024,3,TOTAL,1894
+Cochabamba,30905,Colcapirhua,2024,3,TOTAL,130
+La Paz,20304,Comanche,2024,3,TOTAL,18
+La Paz,20301,Coro Coro,2024,3,TOTAL,20
+La Paz,20105,El Alto,2024,3,TOTAL,1138
+Santa Cruz,70105,El Torno,2024,3,TOTAL,611
+La Paz,20405,Escoma,2024,3,TOTAL,10
+Santa Cruz,71004,Fernandez Alonso,2024,3,TOTAL,15
+La Paz,20101,La Paz,2024,3,TOTAL,32
+Santa Cruz,71003,Mineros,2024,3,TOTAL,6
+Cochabamba,31301,Mizque,2024,3,TOTAL,2
+La Paz,20402,Mocomoco,2024,3,TOTAL,10
+Santa Cruz,71001,Montero,2024,3,TOTAL,144
+Potosí,50404,Ocuri,2024,3,TOTAL,6
+Oruro,40101,Oruro,2024,3,TOTAL,20
+Santa Cruz,70601,Portachuelo,2024,3,TOTAL,17
+Potosí,50101,Potosi,2024,3,TOTAL,10
+La Paz,21201,Pucarani,2024,3,TOTAL,20
+Cochabamba,30901,Quillacollo,2024,3,TOTAL,3119
+Cochabamba,31001,Sacaba,2024,3,TOTAL,1693
+Beni,80302,San Borja,2024,3,TOTAL,23
+La Paz,21502,San Buena Ventura,2024,3,TOTAL,30
+Santa Cruz,70301,San Ignacio De Velasco,2024,3,TOTAL,28
+Santa Cruz,71005,San Pedro,2024,3,TOTAL,45
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,3,TOTAL,326
+Cochabamba,30902,Sipe Sipe,2024,3,TOTAL,253
+Chuquisaca,10101,Sucre,2024,3,TOTAL,72
+Cochabamba,30401,Tarata,2024,3,TOTAL,88
+Cochabamba,30903,Tiquipaya,2024,3,TOTAL,144
+Cochabamba,30802,Toco,2024,3,TOTAL,30
+Cochabamba,30803,Tolata,2024,3,TOTAL,119
+Tarija,60303,Villa Montes,2024,3,TOTAL,109
+Cochabamba,31003,Villa Tunari,2024,3,TOTAL,141
+Potosí,51501,Villazon,2024,3,TOTAL,30
+Cochabamba,30904,Vinto,2024,3,TOTAL,90
+Santa Cruz,70201,Warnes,2024,3,TOTAL,79
+Cochabamba,30201,Aiquile,2024,4,TOTAL,6
+Cochabamba,30403,Arbieto,2024,4,TOTAL,50
+La Paz,21203,Batallas,2024,4,TOTAL,100
+Cochabamba,30701,Capinota,2024,4,TOTAL,1
+Tarija,60302,Carapari,2024,4,TOTAL,8
+La Paz,20501,Chuma,2024,4,TOTAL,3
+Cochabamba,30801,Cliza,2024,4,TOTAL,169
+Cochabamba,30101,Cochabamba,2024,4,TOTAL,5616
+Cochabamba,30905,Colcapirhua,2024,4,TOTAL,180
+Potosí,50601,Cotagaita,2024,4,TOTAL,9
+La Paz,20105,El Alto,2024,4,TOTAL,1762
+Santa Cruz,70105,El Torno,2024,4,TOTAL,50
+Santa Cruz,71004,Fernandez Alonso,2024,4,TOTAL,11
+Santa Cruz,71002,General Saavedra,2024,4,TOTAL,12
+La Paz,21501,Ixiamas,2024,4,TOTAL,218
+La Paz,20101,La Paz,2024,4,TOTAL,201
+Santa Cruz,71003,Mineros,2024,4,TOTAL,1
+Cochabamba,31301,Mizque,2024,4,TOTAL,5
+La Paz,20402,Mocomoco,2024,4,TOTAL,10
+Santa Cruz,71001,Montero,2024,4,TOTAL,31
+Santa Cruz,70803,Moro Moro,2024,4,TOTAL,6
+Oruro,40101,Oruro,2024,4,TOTAL,190
+Santa Cruz,70601,Portachuelo,2024,4,TOTAL,14
+Potosí,50101,Potosi,2024,4,TOTAL,2175
+Cochabamba,30901,Quillacollo,2024,4,TOTAL,1068
+Santa Cruz,70503,Robore,2024,4,TOTAL,20
+Cochabamba,31001,Sacaba,2024,4,TOTAL,130
+Beni,80302,San Borja,2024,4,TOTAL,1
+La Paz,21502,San Buena Ventura,2024,4,TOTAL,20
+Santa Cruz,70301,San Ignacio De Velasco,2024,4,TOTAL,14
+Beni,80102,San Javier(bni),2024,4,TOTAL,40
+Santa Cruz,71005,San Pedro,2024,4,TOTAL,46
+Santa Cruz,70303,San Rafael,2024,4,TOTAL,180
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,4,TOTAL,1387
+Cochabamba,30902,Sipe Sipe,2024,4,TOTAL,154
+Chuquisaca,10101,Sucre,2024,4,TOTAL,44
+Cochabamba,30401,Tarata,2024,4,TOTAL,58
+Cochabamba,30903,Tiquipaya,2024,4,TOTAL,161
+Cochabamba,30803,Tolata,2024,4,TOTAL,71
+Cochabamba,31003,Villa Tunari,2024,4,TOTAL,73
+Potosí,51501,Villazon,2024,4,TOTAL,25
+Cochabamba,30904,Vinto,2024,4,TOTAL,50
+Santa Cruz,70201,Warnes,2024,4,TOTAL,51
+Tarija,60301,Yacuiba,2024,4,TOTAL,1
+Cochabamba,30201,Aiquile,2024,5,TOTAL,4
+Cochabamba,30501,Arani,2024,5,TOTAL,200
+Cochabamba,30403,Arbieto,2024,5,TOTAL,67
+La Paz,21203,Batallas,2024,5,TOTAL,40
+Potosí,51102,"Caiza ""d""",2024,5,TOTAL,2
+La Paz,20501,Chuma,2024,5,TOTAL,4
+Cochabamba,30303,Cocapata,2024,5,TOTAL,342
+Cochabamba,30101,Cochabamba,2024,5,TOTAL,3693
+La Paz,20105,El Alto,2024,5,TOTAL,384
+Cochabamba,31206,Entre Rios Cbba,2024,5,TOTAL,270
+Santa Cruz,71004,Fernandez Alonso,2024,5,TOTAL,19
+Santa Cruz,71002,General Saavedra,2024,5,TOTAL,9
+La Paz,21501,Ixiamas,2024,5,TOTAL,142
+La Paz,20101,La Paz,2024,5,TOTAL,28
+La Paz,20402,Mocomoco,2024,5,TOTAL,20
+Santa Cruz,71001,Montero,2024,5,TOTAL,725
+Oruro,40101,Oruro,2024,5,TOTAL,37
+Santa Cruz,70502,Pailon,2024,5,TOTAL,3
+Santa Cruz,70601,Portachuelo,2024,5,TOTAL,15
+La Paz,21204,Puerto Perez,2024,5,TOTAL,20
+Cochabamba,30901,Quillacollo,2024,5,TOTAL,1112
+Beni,80301,Reyes,2024,5,TOTAL,1544
+Cochabamba,31001,Sacaba,2024,5,TOTAL,812
+Beni,80302,San Borja,2024,5,TOTAL,1
+La Paz,21502,San Buena Ventura,2024,5,TOTAL,10
+Santa Cruz,70402,San Carlos,2024,5,TOTAL,8
+Santa Cruz,70301,San Ignacio De Velasco,2024,5,TOTAL,23
+Santa Cruz,71005,San Pedro,2024,5,TOTAL,41
+Beni,80401,Santa Ana,2024,5,TOTAL,17
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,5,TOTAL,685
+Beni,80303,Santa Rosa,2024,5,TOTAL,1015
+Cochabamba,30902,Sipe Sipe,2024,5,TOTAL,509
+Chuquisaca,10101,Sucre,2024,5,TOTAL,40
+Cochabamba,30903,Tiquipaya,2024,5,TOTAL,897
+Cochabamba,30802,Toco,2024,5,TOTAL,30
+Cochabamba,30803,Tolata,2024,5,TOTAL,36
+Tarija,60303,Villa Montes,2024,5,TOTAL,552
+Cochabamba,31003,Villa Tunari,2024,5,TOTAL,20
+Potosí,51501,Villazon,2024,5,TOTAL,13
+Cochabamba,30904,Vinto,2024,5,TOTAL,108
+Santa Cruz,70201,Warnes,2024,5,TOTAL,128
+Tarija,60301,Yacuiba,2024,5,TOTAL,709
+Potosí,51302,Acacio,2024,6,TOTAL,598
+La Paz,20201,Achacachi,2024,6,TOTAL,9028
+La Paz,20104,Achocalla,2024,6,TOTAL,9630
+Cochabamba,30201,Aiquile,2024,6,TOTAL,4919
+Cochabamba,31303,Alalay,2024,6,TOTAL,780
+Chuquisaca,10404,Alcala,2024,6,TOTAL,605
+La Paz,22002,Alto Beni,2024,6,TOTAL,3000
+La Paz,20202,Ancoraimes,2024,6,TOTAL,1849
+Cochabamba,30402,Anzaldo,2024,6,TOTAL,1355
+La Paz,20701,Apolo,2024,6,TOTAL,2797
+Cochabamba,30501,Arani,2024,6,TOTAL,3986
+Cochabamba,30403,Arbieto,2024,6,TOTAL,9539
+Cochabamba,30601,Arque,2024,6,TOTAL,1984
+Potosí,50802,Atocha,2024,6,TOTAL,1715
+La Paz,20503,Aucapata,2024,6,TOTAL,747
+La Paz,20502,Ayata,2024,6,TOTAL,1396
+La Paz,21303,Ayo Ayo,2024,6,TOTAL,2250
+Cochabamba,30301,Ayopaya (v. De Independencia),2024,6,TOTAL,4307
+La Paz,21203,Batallas,2024,6,TOTAL,3932
+Oruro,41202,Belen De Andamarca,2024,6,TOTAL,55
+Potosí,50104,Belen De Urmiri,2024,6,TOTAL,35
+Pando,90104,Bella Flor,2024,6,TOTAL,660
+Tarija,60202,Bermejo,2024,6,TOTAL,12910
+Cochabamba,31501,Bolivar,2024,6,TOTAL,971
+Pando,90103,Bolpebra,2024,6,TOTAL,849
+La Paz,20905,Cairoma,2024,6,TOTAL,1391
+Potosí,51102,"Caiza ""d""",2024,6,TOTAL,1210
+La Paz,21003,Cajuata,2024,6,TOTAL,1610
+La Paz,20303,Calacoto,2024,6,TOTAL,1500
+La Paz,21304,Calamarca,2024,6,TOTAL,2300
+Chuquisaca,10701,Camargo,2024,6,TOTAL,712
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,6,TOTAL,290
+Cochabamba,30701,Capinota,2024,6,TOTAL,4939
+La Paz,20302,Caquiaviri,2024,6,TOTAL,2170
+Oruro,40102,Caracollo,2024,6,TOTAL,3224
+La Paz,22001,Caranavi,2024,6,TOTAL,8977
+Tarija,60302,Carapari,2024,6,TOTAL,7050
+Potosí,50702,Caripuyo,2024,6,TOTAL,1255
+La Paz,21902,Catacora,2024,6,TOTAL,400
+La Paz,21803,Chacarilla,2024,6,TOTAL,510
+Oruro,40201,Challapata,2024,6,TOTAL,4921
+Potosí,50302,Chaqui,2024,6,TOTAL,264
+La Paz,20305,Charaña,2024,6,TOTAL,800
+Potosí,50202,Chayanta,2024,6,TOTAL,1005
+Cochabamba,31204,Chimore,2024,6,TOTAL,4868
+La Paz,20203,Chua Cocani,2024,6,TOTAL,770
+La Paz,21101,Chulumani (v. De La Libertad),2024,6,TOTAL,3860
+La Paz,20501,Chuma,2024,6,TOTAL,1548
+Potosí,51103,Ckochas,2024,6,TOTAL,4
+Cochabamba,30801,Cliza,2024,6,TOTAL,4108
+Pando,90101,Cobija,2024,6,TOTAL,18034
+Cochabamba,30303,Cocapata,2024,6,TOTAL,2419
+Cochabamba,30101,Cochabamba,2024,6,TOTAL,238030
+Cochabamba,30905,Colcapirhua,2024,6,TOTAL,18155
+Potosí,50901,"Colcha ""k""",2024,6,TOTAL,2166
+La Paz,21307,Collana,2024,6,TOTAL,700
+Cochabamba,31002,Colomi,2024,6,TOTAL,7856
+Potosí,50401,Colquechaca,2024,6,TOTAL,452
+La Paz,21306,Colquencha,2024,6,TOTAL,1580
+La Paz,21004,Colquiri,2024,6,TOTAL,4320
+La Paz,20304,Comanche,2024,6,TOTAL,1380
+La Paz,20605,Combaya,2024,6,TOTAL,391
+La Paz,21701,Copacabana,2024,6,TOTAL,3336
+La Paz,21402,Coripata,2024,6,TOTAL,3210
+La Paz,20301,Coro Coro,2024,6,TOTAL,2068
+La Paz,21401,Coroico,2024,6,TOTAL,4120
+Potosí,50601,Cotagaita,2024,6,TOTAL,221
+Santa Cruz,71106,Cuatro Cañadas,2024,6,TOTAL,13
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2024,6,TOTAL,650
+Chuquisaca,10902,Culpina,2024,6,TOTAL,967
+La Paz,21602,Curva,2024,6,TOTAL,515
+La Paz,20804,Desaguadero,2024,6,TOTAL,1799
+La Paz,20105,El Alto,2024,6,TOTAL,316997
+Tarija,60502,El Puente(tja),2024,6,TOTAL,614
+Chuquisaca,10405,El Villar,2024,6,TOTAL,163
+Tarija,60601,Entre Rios Trj,2024,6,TOTAL,6481
+Cochabamba,31206,Entre Rios Cbba,2024,6,TOTAL,8520
+La Paz,20405,Escoma,2024,6,TOTAL,1180
+Pando,90503,Eureka (santos Mercado),2024,6,TOTAL,270
+Santa Cruz,71004,Fernandez Alonso,2024,6,TOTAL,49
+Pando,90203,Filadelfia,2024,6,TOTAL,110
+Santa Cruz,71002,General Saavedra,2024,6,TOTAL,60
+La Paz,21601,Gral. J.j. Perez (charazani),2024,6,TOTAL,1600
+La Paz,20602,Guanay,2024,6,TOTAL,3082
+La Paz,20802,Guaqui,2024,6,TOTAL,1900
+Beni,80803,Huacaraje,2024,6,TOTAL,909
+Oruro,40701,Huanuni,2024,6,TOTAL,3270
+La Paz,20204,Huarina,2024,6,TOTAL,1700
+La Paz,20206,Huatajata,2024,6,TOTAL,600
+La Paz,20404,Humanata,2024,6,TOTAL,375
+La Paz,21005,Ichoca,2024,6,TOTAL,1230
+Pando,90402,Ingavi (humaita),2024,6,TOTAL,100
+La Paz,21001,Inquisivi,2024,6,TOTAL,3160
+La Paz,21102,Irupana (villa De Lanza),2024,6,TOTAL,3145
+La Paz,21501,Ixiamas,2024,6,TOTAL,2551
+La Paz,20806,Jesus De Machaca,2024,6,TOTAL,3176
+La Paz,21105,La Asunta,2024,6,TOTAL,4389
+La Paz,20101,La Paz,2024,6,TOTAL,215207
+La Paz,21202,Laja,2024,6,TOTAL,7370
+La Paz,21006,Licoma Pampa,2024,6,TOTAL,560
+Potosí,51401,Llica,2024,6,TOTAL,970
+Beni,80601,Loreto,2024,6,TOTAL,381
+La Paz,20901,Luribay,2024,6,TOTAL,1558
+Beni,80801,Magdalena,2024,6,TOTAL,699
+La Paz,20904,Malla,2024,6,TOTAL,528
+La Paz,20607,Mapiri,2024,6,TOTAL,3000
+La Paz,20103,Mecapaca,2024,6,TOTAL,2739
+Santa Cruz,71003,Mineros,2024,6,TOTAL,12
+Cochabamba,31301,Mizque,2024,6,TOTAL,4249
+La Paz,20402,Mocomoco,2024,6,TOTAL,2585
+Potosí,51002,Mojinete,2024,6,TOTAL,58
+Santa Cruz,71001,Montero,2024,6,TOTAL,280
+Cochabamba,30302,Morochata,2024,6,TOTAL,1700
+Pando,90401,Nacebe (santa Rosa Del Abuna),2024,6,TOTAL,549
+La Paz,20307,Nazacara De Pacajes,2024,6,TOTAL,150
+Pando,90501,Nuevo Manoa (nueva Esperanza),2024,6,TOTAL,503
+Cochabamba,30203,Omereque,2024,6,TOTAL,1865
+Oruro,40101,Oruro,2024,6,TOTAL,101189
+Tarija,60201,Padcaya,2024,6,TOTAL,552
+Chuquisaca,10401,Padilla,2024,6,TOTAL,2209
+La Paz,20102,Palca,2024,6,TOTAL,4420
+La Paz,21104,Palos Blancos,2024,6,TOTAL,7120
+La Paz,21802,Papel Pampa,2024,6,TOTAL,1480
+Cochabamba,30202,Pasorapa,2024,6,TOTAL,1030
+La Paz,21305,Patacamaya,2024,6,TOTAL,5120
+Oruro,40602,Pazña,2024,6,TOTAL,685
+La Paz,20702,Pelechuco,2024,6,TOTAL,1390
+Cochabamba,31203,Pocona,2024,6,TOTAL,2678
+Cochabamba,31202,Pojo (cbba),2024,6,TOTAL,2454
+Potosí,51203,Porco,2024,6,TOTAL,314
+Chuquisaca,10103,Poroma,2024,6,TOTAL,235
+Pando,90102,Porvenir,2024,6,TOTAL,1397
+La Paz,21201,Pucarani,2024,6,TOTAL,8019
+La Paz,20401,Puerto Acosta,2024,6,TOTAL,2068
+La Paz,20403,Puerto Carabuco,2024,6,TOTAL,2435
+Pando,90301,Puerto Gonzalo Moreno,2024,6,TOTAL,903
+La Paz,21204,Puerto Perez,2024,6,TOTAL,860
+Cochabamba,31205,Puerto Villarroel,2024,6,TOTAL,13989
+Potosí,51101,Puna,2024,6,TOTAL,1249
+Cochabamba,31401,Punata,2024,6,TOTAL,17723
+La Paz,20604,Quiabaya,2024,6,TOTAL,549
+Cochabamba,30901,Quillacollo,2024,6,TOTAL,71860
+La Paz,21002,Quime,2024,6,TOTAL,1660
+Cochabamba,31304,Raqaypampa(eta),2024,6,TOTAL,806
+Potosí,50402,Ravelo,2024,6,TOTAL,282
+Beni,80201,Riberalta,2024,6,TOTAL,11782
+Beni,80304,Rurrenabaque,2024,6,TOTAL,3712
+Cochabamba,31001,Sacaba,2024,6,TOTAL,72194
+Cochabamba,30404,Sacabamba,2024,6,TOTAL,1173
+Potosí,50701,Sacaca,2024,6,TOTAL,20
+Oruro,40801,Salinas De Garci Mendoza,2024,6,TOTAL,1240
+Potosí,51601,San Agustin,2024,6,TOTAL,102
+La Paz,20805,San Andres De Machaca,2024,6,TOTAL,1469
+Cochabamba,31403,San Benito,2024,6,TOTAL,7409
+Beni,80302,San Borja,2024,6,TOTAL,90
+La Paz,21502,San Buena Ventura,2024,6,TOTAL,1332
+Santa Cruz,70402,San Carlos,2024,6,TOTAL,10
+Santa Cruz,70301,San Ignacio De Velasco,2024,6,TOTAL,21
+Beni,80102,San Javier(bni),2024,6,TOTAL,280
+Pando,90302,San Lorenzo(pnd),2024,6,TOTAL,502
+Chuquisaca,10702,San Lucas,2024,6,TOTAL,1305
+Santa Cruz,71005,San Pedro,2024,6,TOTAL,17
+Potosí,50501,San Pedro De Buena Vista,2024,6,TOTAL,50
+La Paz,21801,San Pedro De Curahuara,2024,6,TOTAL,1670
+Potosí,50902,San Pedro De Quemes,2024,6,TOTAL,96
+La Paz,21702,San Pedro De Tiquina,2024,6,TOTAL,1620
+Pando,90202,San Pedro(pnd),2024,6,TOTAL,410
+Beni,80401,Santa Ana,2024,6,TOTAL,3604
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,6,TOTAL,350
+La Paz,20308,Santiago De Callapa,2024,6,TOTAL,1520
+Oruro,41401,Santiago De Huari,2024,6,TOTAL,20
+La Paz,20205,Santiago De Huata,2024,6,TOTAL,1551
+La Paz,21901,Santiago De Machaca,2024,6,TOTAL,779
+Cochabamba,30702,Santivañes,2024,6,TOTAL,3019
+Oruro,40202,Santuario De Quillacas,2024,6,TOTAL,349
+La Paz,20902,Sapahaqui,2024,6,TOTAL,2077
+Pando,90303,Sena,2024,6,TOTAL,1957
+Cochabamba,31602,Shinaota,2024,6,TOTAL,4191
+La Paz,21301,Sica Sica (villa Aroma),2024,6,TOTAL,3660
+Cochabamba,30703,Sicaya,2024,6,TOTAL,720
+Cochabamba,30902,Sipe Sipe,2024,6,TOTAL,20394
+La Paz,20601,Sorata,2024,6,TOTAL,2720
+Chuquisaca,10101,Sucre,2024,6,TOTAL,80680
+Cochabamba,31404,Tacachi,2024,6,TOTAL,472
+La Paz,20603,Tacacoma,2024,6,TOTAL,1830
+Potosí,50303,Tacobamba,2024,6,TOTAL,46
+Cochabamba,30602,Tacopaya,2024,6,TOTAL,1429
+Potosí,51402,Tahua,2024,6,TOTAL,19
+Cochabamba,31101,Tapacari,2024,6,TOTAL,5846
+La Paz,20807,Taraco,2024,6,TOTAL,1810
+Cochabamba,30401,Tarata,2024,6,TOTAL,2854
+Tarija,60101,Tarija,2024,6,TOTAL,63751
+La Paz,20608,Teoponte,2024,6,TOTAL,2330
+La Paz,20803,Tiahuanacu,2024,6,TOTAL,3220
+La Paz,20606,Tipuani,2024,6,TOTAL,2290
+Cochabamba,30903,Tiquipaya,2024,6,TOTAL,25511
+Cochabamba,31601,Tiraque (cbba),2024,6,TOTAL,8330
+La Paz,21703,Tito Yupanqui (parquipujio),2024,6,TOTAL,340
+Cochabamba,30802,Toco,2024,6,TOTAL,2148
+Cochabamba,30803,Tolata,2024,6,TOTAL,3219
+Oruro,41001,Toledo,2024,6,TOTAL,60
+Potosí,51202,Tomave,2024,6,TOTAL,121
+Chuquisaca,10402,Tomina,2024,6,TOTAL,570
+Cochabamba,31201,Totora(cbba),2024,6,TOTAL,3121
+Beni,80101,Trinidad,2024,6,TOTAL,15837
+Potosí,50801,Tupiza,2024,6,TOTAL,6880
+Oruro,40402,Turco,2024,6,TOTAL,60
+La Paz,21302,Umala,2024,6,TOTAL,1640
+Potosí,50201,Uncia,2024,6,TOTAL,2017
+Tarija,60401,Uriondo (a. Concepcion),2024,6,TOTAL,3062
+Cochabamba,30502,Vacas,2024,6,TOTAL,2650
+La Paz,20801,Viacha,2024,6,TOTAL,40080
+Cochabamba,31302,Vila Vila,2024,6,TOTAL,828
+Tarija,60303,Villa Montes,2024,6,TOTAL,896
+Pando,90502,Villa Nueva (loma Alta),2024,6,TOTAL,509
+Cochabamba,31402,Villa Rivero,2024,6,TOTAL,3524
+Chuquisaca,10801,Villa Serrano,2024,6,TOTAL,835
+Cochabamba,31003,Villa Tunari,2024,6,TOTAL,10956
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,6,TOTAL,1698
+Potosí,51501,Villazon,2024,6,TOTAL,12739
+Cochabamba,30904,Vinto,2024,6,TOTAL,23564
+La Paz,20306,Waldo Ballivian,2024,6,TOTAL,650
+Santa Cruz,70201,Warnes,2024,6,TOTAL,79
+La Paz,20903,Yaco,2024,6,TOTAL,1500
+Tarija,60301,Yacuiba,2024,6,TOTAL,130
+Chuquisaca,10602,Yamparaez,2024,6,TOTAL,92
+La Paz,21103,Yanacachi,2024,6,TOTAL,1266
+Potosí,50103,Yocalla,2024,6,TOTAL,530
+Chuquisaca,10102,Yotala,2024,6,TOTAL,40
+Tarija,60402,Yunchara,2024,6,TOTAL,484
+Potosí,51302,Acacio,2024,7,TOTAL,847
+La Paz,20201,Achacachi,2024,7,TOTAL,100
+La Paz,20104,Achocalla,2024,7,TOTAL,190
+Cochabamba,30201,Aiquile,2024,7,TOTAL,4053
+Chuquisaca,10404,Alcala,2024,7,TOTAL,1313
+La Paz,20202,Ancoraimes,2024,7,TOTAL,90
+Oruro,41201,Andamarca,2024,7,TOTAL,670
+Oruro,40603,Antequera,2024,7,TOTAL,720
+Cochabamba,30402,Anzaldo,2024,7,TOTAL,331
+La Paz,20701,Apolo,2024,7,TOTAL,74
+Potosí,51301,Arampampa,2024,7,TOTAL,738
+Cochabamba,30501,Arani,2024,7,TOTAL,195
+Cochabamba,30403,Arbieto,2024,7,TOTAL,975
+Cochabamba,30601,Arque,2024,7,TOTAL,178
+Potosí,50802,Atocha,2024,7,TOTAL,1044
+La Paz,20503,Aucapata,2024,7,TOTAL,94
+La Paz,20502,Ayata,2024,7,TOTAL,14
+Cochabamba,30301,Ayopaya (v. De Independencia),2024,7,TOTAL,1124
+Chuquisaca,10201,Azurduy,2024,7,TOTAL,2627
+La Paz,21203,Batallas,2024,7,TOTAL,831
+Beni,80802,Baures,2024,7,TOTAL,658
+Oruro,41202,Belen De Andamarca,2024,7,TOTAL,85
+Potosí,50104,Belen De Urmiri,2024,7,TOTAL,117
+Pando,90104,Bella Flor,2024,7,TOTAL,394
+Tarija,60202,Bermejo,2024,7,TOTAL,2091
+Potosí,50301,Betanzos,2024,7,TOTAL,8687
+Cochabamba,31501,Bolivar,2024,7,TOTAL,39
+La Paz,20905,Cairoma,2024,7,TOTAL,189
+Potosí,51102,"Caiza ""d""",2024,7,TOTAL,2263
+La Paz,21003,Cajuata,2024,7,TOTAL,180
+La Paz,20303,Calacoto,2024,7,TOTAL,30
+La Paz,21304,Calamarca,2024,7,TOTAL,100
+Chuquisaca,10701,Camargo,2024,7,TOTAL,2103
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,7,TOTAL,691
+Cochabamba,30701,Capinota,2024,7,TOTAL,1570
+La Paz,20302,Caquiaviri,2024,7,TOTAL,40
+Oruro,40102,Caracollo,2024,7,TOTAL,794
+La Paz,22001,Caranavi,2024,7,TOTAL,1415
+Oruro,41503,Carangas,2024,7,TOTAL,60
+Tarija,60302,Carapari,2024,7,TOTAL,1404
+Potosí,50702,Caripuyo,2024,7,TOTAL,478
+Oruro,40201,Challapata,2024,7,TOTAL,3207
+Potosí,50302,Chaqui,2024,7,TOTAL,2423
+Potosí,50202,Chayanta,2024,7,TOTAL,1723
+Cochabamba,31204,Chimore,2024,7,TOTAL,652
+Oruro,40903,Chipaya,2024,7,TOTAL,130
+Oruro,40302,Choque Cota,2024,7,TOTAL,370
+La Paz,21101,Chulumani (v. De La Libertad),2024,7,TOTAL,60
+La Paz,20501,Chuma,2024,7,TOTAL,59
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,7,TOTAL,1659
+Potosí,51103,Ckochas,2024,7,TOTAL,4899
+Cochabamba,30801,Cliza,2024,7,TOTAL,305
+Pando,90101,Cobija,2024,7,TOTAL,63
+Cochabamba,30303,Cocapata,2024,7,TOTAL,1477
+Cochabamba,30101,Cochabamba,2024,7,TOTAL,30943
+Oruro,40902,Coipasa,2024,7,TOTAL,82
+Cochabamba,30905,Colcapirhua,2024,7,TOTAL,5017
+Potosí,50901,"Colcha ""k""",2024,7,TOTAL,164
+La Paz,21307,Collana,2024,7,TOTAL,100
+Cochabamba,31002,Colomi,2024,7,TOTAL,1002
+Potosí,50401,Colquechaca,2024,7,TOTAL,1923
+La Paz,21306,Colquencha,2024,7,TOTAL,50
+La Paz,20304,Comanche,2024,7,TOTAL,70
+La Paz,20605,Combaya,2024,7,TOTAL,8
+La Paz,21701,Copacabana,2024,7,TOTAL,152
+La Paz,21402,Coripata,2024,7,TOTAL,60
+La Paz,20301,Coro Coro,2024,7,TOTAL,150
+La Paz,21401,Coroico,2024,7,TOTAL,170
+Oruro,40301,Corque,2024,7,TOTAL,850
+Potosí,50601,Cotagaita,2024,7,TOTAL,6411
+Oruro,40503,Cruz De Machacamarca,2024,7,TOTAL,50
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2024,7,TOTAL,150
+Chuquisaca,10902,Culpina,2024,7,TOTAL,3471
+Oruro,40401,Curahuara De Carangas,2024,7,TOTAL,570
+La Paz,21602,Curva,2024,7,TOTAL,15
+La Paz,20804,Desaguadero,2024,7,TOTAL,17
+La Paz,20105,El Alto,2024,7,TOTAL,11451
+Oruro,40103,El Choro,2024,7,TOTAL,1650
+Tarija,60502,El Puente(tja),2024,7,TOTAL,3679
+Chuquisaca,10405,El Villar,2024,7,TOTAL,2257
+Tarija,60601,Entre Rios Trj,2024,7,TOTAL,4241
+Cochabamba,31206,Entre Rios Cbba,2024,7,TOTAL,699
+Oruro,40502,Escara,2024,7,TOTAL,50
+La Paz,20405,Escoma,2024,7,TOTAL,508
+Oruro,40505,Esmeralda,2024,7,TOTAL,70
+Oruro,41101,Eucaliptus,2024,7,TOTAL,1150
+Santa Cruz,71004,Fernandez Alonso,2024,7,TOTAL,15
+Pando,90203,Filadelfia,2024,7,TOTAL,1150
+Potosí,51204,Gaioc Jatun Ayllu Yura,2024,7,TOTAL,1287
+Beni,80502,Gia-tim,2024,7,TOTAL,52
+La Paz,20602,Guanay,2024,7,TOTAL,118
+La Paz,20802,Guaqui,2024,7,TOTAL,36
+Chuquisaca,10502,Huacareta,2024,7,TOTAL,1768
+Chuquisaca,11002,Huacaya (villa De Huacaya),2024,7,TOTAL,1082
+Oruro,40501,Huachacalla,2024,7,TOTAL,128
+Oruro,40701,Huanuni,2024,7,TOTAL,3053
+La Paz,20206,Huatajata,2024,7,TOTAL,50
+Oruro,41601,Huayllamarca,2024,7,TOTAL,580
+La Paz,20404,Humanata,2024,7,TOTAL,782
+La Paz,21005,Ichoca,2024,7,TOTAL,80
+Chuquisaca,10304,Icla,2024,7,TOTAL,2540
+Chuquisaca,10703,Incahuasi,2024,7,TOTAL,1970
+Pando,90402,Ingavi (humaita),2024,7,TOTAL,114
+La Paz,21001,Inquisivi,2024,7,TOTAL,130
+La Paz,21102,Irupana (villa De Lanza),2024,7,TOTAL,180
+La Paz,21501,Ixiamas,2024,7,TOTAL,358
+La Paz,20806,Jesus De Machaca,2024,7,TOTAL,534
+La Paz,21105,La Asunta,2024,7,TOTAL,4589
+La Paz,20101,La Paz,2024,7,TOTAL,2803
+Oruro,41501,La Rivera,2024,7,TOTAL,40
+La Paz,21202,Laja,2024,7,TOTAL,30
+Chuquisaca,10903,Las Carreras,2024,7,TOTAL,915
+La Paz,21006,Licoma Pampa,2024,7,TOTAL,50
+Potosí,50203,Llallagua,2024,7,TOTAL,12194
+Potosí,51401,Llica,2024,7,TOTAL,15
+Beni,80601,Loreto,2024,7,TOTAL,15
+La Paz,20901,Luribay,2024,7,TOTAL,72
+Oruro,40702,Machacamarca,2024,7,TOTAL,1267
+Chuquisaca,11003,Machareti,2024,7,TOTAL,2728
+Beni,80801,Magdalena,2024,7,TOTAL,194
+La Paz,20904,Malla,2024,7,TOTAL,20
+La Paz,20607,Mapiri,2024,7,TOTAL,200
+Santa Cruz,71003,Mineros,2024,7,TOTAL,2
+Cochabamba,31301,Mizque,2024,7,TOTAL,1382
+La Paz,20402,Mocomoco,2024,7,TOTAL,247
+Potosí,51002,Mojinete,2024,7,TOTAL,71
+Chuquisaca,10303,Mojocoya,2024,7,TOTAL,2120
+Chuquisaca,10501,Monteagudo,2024,7,TOTAL,9441
+Santa Cruz,71001,Montero,2024,7,TOTAL,326
+Cochabamba,30302,Morochata,2024,7,TOTAL,460
+Pando,90401,Nacebe (santa Rosa Del Abuna),2024,7,TOTAL,284
+Potosí,50404,Ocuri,2024,7,TOTAL,2469
+Cochabamba,30203,Omereque,2024,7,TOTAL,305
+Oruro,40101,Oruro,2024,7,TOTAL,6162
+Tarija,60201,Padcaya,2024,7,TOTAL,6436
+Chuquisaca,10401,Padilla,2024,7,TOTAL,4119
+La Paz,20102,Palca,2024,7,TOTAL,20
+Oruro,40802,Pampa Aullagas,2024,7,TOTAL,500
+Cochabamba,30202,Pasorapa,2024,7,TOTAL,412
+Oruro,40602,Pazña,2024,7,TOTAL,705
+Potosí,50403,Pocoata,2024,7,TOTAL,5475
+Cochabamba,31203,Pocona,2024,7,TOTAL,1110
+Cochabamba,31202,Pojo (cbba),2024,7,TOTAL,567
+Oruro,40601,Poopo,2024,7,TOTAL,2490
+Potosí,51203,Porco,2024,7,TOTAL,1813
+Chuquisaca,10103,Poroma,2024,7,TOTAL,3644
+Pando,90102,Porvenir,2024,7,TOTAL,44
+Potosí,50101,Potosi,2024,7,TOTAL,65128
+Chuquisaca,10302,Presto,2024,7,TOTAL,2900
+La Paz,21201,Pucarani,2024,7,TOTAL,230
+La Paz,20401,Puerto Acosta,2024,7,TOTAL,92
+La Paz,20403,Puerto Carabuco,2024,7,TOTAL,187
+Pando,90301,Puerto Gonzalo Moreno,2024,7,TOTAL,156
+La Paz,21204,Puerto Perez,2024,7,TOTAL,78
+Pando,90201,Puerto Rico,2024,7,TOTAL,1468
+Beni,80703,Puerto Siles,2024,7,TOTAL,149
+Cochabamba,31205,Puerto Villarroel,2024,7,TOTAL,2211
+Potosí,51101,Puna,2024,7,TOTAL,4840
+Cochabamba,31401,Punata,2024,7,TOTAL,2577
+Cochabamba,30901,Quillacollo,2024,7,TOTAL,15372
+La Paz,21002,Quime,2024,7,TOTAL,370
+Cochabamba,31304,Raqaypampa(eta),2024,7,TOTAL,902
+Potosí,50402,Ravelo,2024,7,TOTAL,4207
+Beni,80304,Rurrenabaque,2024,7,TOTAL,288
+Oruro,40901,Sabaya,2024,7,TOTAL,427
+Cochabamba,31001,Sacaba,2024,7,TOTAL,19214
+Cochabamba,30404,Sacabamba,2024,7,TOTAL,12
+Potosí,50701,Sacaca,2024,7,TOTAL,2861
+Oruro,40801,Salinas De Garci Mendoza,2024,7,TOTAL,180
+Potosí,51601,San Agustin,2024,7,TOTAL,217
+Beni,80602,San Andres,2024,7,TOTAL,652
+La Paz,20805,San Andres De Machaca,2024,7,TOTAL,81
+Potosí,51003,San Antonio De Esmoruco,2024,7,TOTAL,153
+Cochabamba,31403,San Benito,2024,7,TOTAL,281
+Beni,80302,San Borja,2024,7,TOTAL,2154
+La Paz,21502,San Buena Ventura,2024,7,TOTAL,55
+Beni,80501,San Ignacio,2024,7,TOTAL,160
+Santa Cruz,70301,San Ignacio De Velasco,2024,7,TOTAL,30
+Beni,80102,San Javier(bni),2024,7,TOTAL,190
+Beni,80701,San Joaquin,2024,7,TOTAL,671
+Pando,90302,San Lorenzo(pnd),2024,7,TOTAL,349
+Tarija,60501,San Lorenzo(tja),2024,7,TOTAL,11105
+Chuquisaca,10702,San Lucas,2024,7,TOTAL,5813
+Santa Cruz,71201,San Matias,2024,7,TOTAL,430
+Potosí,51001,San Pablo De Lipez,2024,7,TOTAL,542
+Santa Cruz,71005,San Pedro,2024,7,TOTAL,10
+Potosí,50501,San Pedro De Buena Vista,2024,7,TOTAL,7285
+Potosí,50405,San Pedro De Macha,2024,7,TOTAL,5449
+Potosí,50902,San Pedro De Quemes,2024,7,TOTAL,124
+Beni,80702,San Ramon Beni,2024,7,TOTAL,696
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,7,TOTAL,312
+Oruro,41401,Santiago De Huari,2024,7,TOTAL,1940
+La Paz,20205,Santiago De Huata,2024,7,TOTAL,44
+La Paz,21901,Santiago De Machaca,2024,7,TOTAL,61
+Cochabamba,30702,Santivañes,2024,7,TOTAL,51
+Oruro,40202,Santuario De Quillacas,2024,7,TOTAL,242
+La Paz,20902,Sapahaqui,2024,7,TOTAL,70
+Cochabamba,31602,Shinaota,2024,7,TOTAL,1084
+Cochabamba,30703,Sicaya,2024,7,TOTAL,90
+Cochabamba,30902,Sipe Sipe,2024,7,TOTAL,972
+Chuquisaca,10403,Sopachuy,2024,7,TOTAL,2186
+Oruro,40104,Soracachi,2024,7,TOTAL,3541
+La Paz,20601,Sorata,2024,7,TOTAL,455
+Chuquisaca,10101,Sucre,2024,7,TOTAL,3793
+Cochabamba,31404,Tacachi,2024,7,TOTAL,128
+La Paz,20603,Tacacoma,2024,7,TOTAL,10
+Potosí,50303,Tacobamba,2024,7,TOTAL,2559
+Cochabamba,30602,Tacopaya,2024,7,TOTAL,80
+Potosí,51402,Tahua,2024,7,TOTAL,305
+Cochabamba,31101,Tapacari,2024,7,TOTAL,392
+Chuquisaca,10601,Tarabuco,2024,7,TOTAL,2961
+La Paz,20807,Taraco,2024,7,TOTAL,20
+Cochabamba,30401,Tarata,2024,7,TOTAL,314
+Tarija,60101,Tarija,2024,7,TOTAL,9178
+Chuquisaca,10202,Tarvita,2024,7,TOTAL,3994
+La Paz,20608,Teoponte,2024,7,TOTAL,170
+Potosí,50102,Tinguipaya,2024,7,TOTAL,4754
+Cochabamba,30903,Tiquipaya,2024,7,TOTAL,3412
+Cochabamba,31601,Tiraque (cbba),2024,7,TOTAL,70
+Cochabamba,30802,Toco,2024,7,TOTAL,374
+Oruro,41502,Todos Santos,2024,7,TOTAL,50
+Cochabamba,30803,Tolata,2024,7,TOTAL,296
+Oruro,41001,Toledo,2024,7,TOTAL,850
+Potosí,51202,Tomave,2024,7,TOTAL,1776
+Chuquisaca,10402,Tomina,2024,7,TOTAL,4130
+Potosí,50502,Toro Toro,2024,7,TOTAL,3665
+Cochabamba,31201,Totora(cbba),2024,7,TOTAL,843
+Oruro,41301,Totora(orr),2024,7,TOTAL,1092
+Beni,80101,Trinidad,2024,7,TOTAL,61
+Potosí,50801,Tupiza,2024,7,TOTAL,7582
+Oruro,40402,Turco,2024,7,TOTAL,537
+Potosí,50201,Uncia,2024,7,TOTAL,3261
+Tarija,60401,Uriondo (a. Concepcion),2024,7,TOTAL,4658
+Potosí,51201,Uyuni,2024,7,TOTAL,9215
+Cochabamba,30502,Vacas,2024,7,TOTAL,730
+La Paz,20801,Viacha,2024,7,TOTAL,470
+Cochabamba,31302,Vila Vila,2024,7,TOTAL,445
+Chuquisaca,10704,Villa Charcas,2024,7,TOTAL,2180
+Tarija,60303,Villa Montes,2024,7,TOTAL,11845
+Cochabamba,31402,Villa Rivero,2024,7,TOTAL,386
+Chuquisaca,10801,Villa Serrano,2024,7,TOTAL,3395
+Cochabamba,31003,Villa Tunari,2024,7,TOTAL,3348
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,7,TOTAL,3235
+Potosí,51501,Villazon,2024,7,TOTAL,2741
+Cochabamba,30904,Vinto,2024,7,TOTAL,2082
+Potosí,50602,Vitichi,2024,7,TOTAL,2957
+La Paz,20306,Waldo Ballivian,2024,7,TOTAL,50
+Santa Cruz,70201,Warnes,2024,7,TOTAL,14
+Tarija,60301,Yacuiba,2024,7,TOTAL,7468
+Chuquisaca,10602,Yamparaez,2024,7,TOTAL,1563
+La Paz,21103,Yanacachi,2024,7,TOTAL,100
+Potosí,50103,Yocalla,2024,7,TOTAL,1625
+Chuquisaca,10102,Yotala,2024,7,TOTAL,1793
+Tarija,60402,Yunchara,2024,7,TOTAL,1699
+Oruro,40504,Yunguyo De Litoral,2024,7,TOTAL,40
+Chuquisaca,10301,Zudañez,2024,7,TOTAL,3001
+Potosí,51302,Acacio,2024,8,TOTAL,3
+Cochabamba,30201,Aiquile,2024,8,TOTAL,156
+Cochabamba,30402,Anzaldo,2024,8,TOTAL,8
+Cochabamba,30403,Arbieto,2024,8,TOTAL,74
+Cochabamba,30601,Arque,2024,8,TOTAL,5
+Santa Cruz,71501,Ascencion De Guarayos,2024,8,TOTAL,8087
+Potosí,50802,Atocha,2024,8,TOTAL,461
+Chuquisaca,10201,Azurduy,2024,8,TOTAL,569
+La Paz,21203,Batallas,2024,8,TOTAL,7
+Potosí,50104,Belen De Urmiri,2024,8,TOTAL,21
+Pando,90104,Bella Flor,2024,8,TOTAL,11
+Potosí,50301,Betanzos,2024,8,TOTAL,265
+Santa Cruz,70707,Boyuibe,2024,8,TOTAL,1927
+Santa Cruz,70401,Buena Vista,2024,8,TOTAL,5288
+Santa Cruz,70703,Cabezas,2024,8,TOTAL,8992
+Potosí,51102,"Caiza ""d""",2024,8,TOTAL,74
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2024,8,TOTAL,3
+Santa Cruz,70706,Camiri,2024,8,TOTAL,10144
+Cochabamba,30701,Capinota,2024,8,TOTAL,189
+La Paz,22001,Caranavi,2024,8,TOTAL,130
+Tarija,60302,Carapari,2024,8,TOTAL,31
+Santa Cruz,71403,Carmen Rivero Torrez,2024,8,TOTAL,1409
+Santa Cruz,70702,Charagua,2024,8,TOTAL,10725
+Potosí,50202,Chayanta,2024,8,TOTAL,244
+La Paz,21101,Chulumani (v. De La Libertad),2024,8,TOTAL,39
+Potosí,50204,Chuquihuta Ayllu Jucumani,2024,8,TOTAL,160
+Potosí,51103,Ckochas,2024,8,TOTAL,241
+Cochabamba,30801,Cliza,2024,8,TOTAL,82
+Cochabamba,30303,Cocapata,2024,8,TOTAL,246
+Cochabamba,30101,Cochabamba,2024,8,TOTAL,5651
+Cochabamba,30905,Colcapirhua,2024,8,TOTAL,246
+Potosí,50901,"Colcha ""k""",2024,8,TOTAL,4
+Cochabamba,31002,Colomi,2024,8,TOTAL,85
+Santa Cruz,70603,Colpa Belgica,2024,8,TOTAL,2283
+Potosí,50401,Colquechaca,2024,8,TOTAL,154
+Santa Cruz,71301,Comarapa,2024,8,TOTAL,6340
+La Paz,20605,Combaya,2024,8,TOTAL,18
+Santa Cruz,71101,Concepcion,2024,8,TOTAL,6396
+La Paz,21701,Copacabana,2024,8,TOTAL,22
+La Paz,20301,Coro Coro,2024,8,TOTAL,20
+La Paz,21401,Coroico,2024,8,TOTAL,60
+Potosí,50601,Cotagaita,2024,8,TOTAL,367
+Santa Cruz,70102,Cotoca,2024,8,TOTAL,26580
+Santa Cruz,71106,Cuatro Cañadas,2024,8,TOTAL,9314
+Santa Cruz,70704,Cuevo,2024,8,TOTAL,1861
+La Paz,20804,Desaguadero,2024,8,TOTAL,8
+La Paz,20105,El Alto,2024,8,TOTAL,1401
+Santa Cruz,71503,El Puente(stc),2024,8,TOTAL,4642
+Tarija,60502,El Puente(tja),2024,8,TOTAL,95
+Santa Cruz,70105,El Torno,2024,8,TOTAL,24359
+La Paz,20405,Escoma,2024,8,TOTAL,72
+Santa Cruz,71004,Fernandez Alonso,2024,8,TOTAL,4063
+Santa Cruz,71002,General Saavedra,2024,8,TOTAL,5138
+Santa Cruz,70705,Gutierrez,2024,8,TOTAL,4817
+Chuquisaca,10502,Huacareta,2024,8,TOTAL,361
+Chuquisaca,11002,Huacaya (villa De Huacaya),2024,8,TOTAL,72
+Oruro,40701,Huanuni,2024,8,TOTAL,1585
+Oruro,41601,Huayllamarca,2024,8,TOTAL,200
+La Paz,21005,Ichoca,2024,8,TOTAL,60
+Chuquisaca,10304,Icla,2024,8,TOTAL,128
+La Paz,21001,Inquisivi,2024,8,TOTAL,20
+Santa Cruz,70104,La Guardia,2024,8,TOTAL,38680
+La Paz,20101,La Paz,2024,8,TOTAL,742
+Santa Cruz,70701,Lagunillas,2024,8,TOTAL,2070
+Chuquisaca,10903,Las Carreras,2024,8,TOTAL,45
+Potosí,50203,Llallagua,2024,8,TOTAL,160
+Potosí,51401,Llica,2024,8,TOTAL,5
+La Paz,20901,Luribay,2024,8,TOTAL,32
+Oruro,40702,Machacamarca,2024,8,TOTAL,273
+Chuquisaca,11003,Machareti,2024,8,TOTAL,93
+Beni,80801,Magdalena,2024,8,TOTAL,121
+Santa Cruz,70903,Mairana,2024,8,TOTAL,4119
+Santa Cruz,71003,Mineros,2024,8,TOTAL,9241
+Cochabamba,31301,Mizque,2024,8,TOTAL,38
+La Paz,20402,Mocomoco,2024,8,TOTAL,19
+Chuquisaca,10501,Monteagudo,2024,8,TOTAL,106
+Santa Cruz,71001,Montero,2024,8,TOTAL,46657
+Santa Cruz,70803,Moro Moro,2024,8,TOTAL,1030
+Pando,90401,Nacebe (santa Rosa Del Abuna),2024,8,TOTAL,2
+Potosí,50404,Ocuri,2024,8,TOTAL,460
+Santa Cruz,70202,Okinawa,2024,8,TOTAL,4704
+Oruro,40101,Oruro,2024,8,TOTAL,824
+Tarija,60201,Padcaya,2024,8,TOTAL,569
+Chuquisaca,10401,Padilla,2024,8,TOTAL,36
+Santa Cruz,70502,Pailon,2024,8,TOTAL,11370
+Santa Cruz,70902,Pampa Grande,2024,8,TOTAL,3520
+Cochabamba,30202,Pasorapa,2024,8,TOTAL,43
+Potosí,50403,Pocoata,2024,8,TOTAL,82
+Cochabamba,31203,Pocona,2024,8,TOTAL,164
+Cochabamba,31202,Pojo (cbba),2024,8,TOTAL,103
+Potosí,51203,Porco,2024,8,TOTAL,11
+Chuquisaca,10103,Poroma,2024,8,TOTAL,896
+Santa Cruz,70103,Porongo,2024,8,TOTAL,5930
+Santa Cruz,70601,Portachuelo,2024,8,TOTAL,6503
+Santa Cruz,70804,Postrer Valle,2024,8,TOTAL,1137
+Potosí,50101,Potosi,2024,8,TOTAL,101
+Santa Cruz,70805,Pucara,2024,8,TOTAL,850
+La Paz,20401,Puerto Acosta,2024,8,TOTAL,10
+Santa Cruz,71402,Puerto Quijarro,2024,8,TOTAL,3298
+Santa Cruz,71401,Puerto Suarez,2024,8,TOTAL,3078
+Potosí,51101,Puna,2024,8,TOTAL,10
+Cochabamba,30901,Quillacollo,2024,8,TOTAL,633
+Santa Cruz,70904,Quirusillas,2024,8,TOTAL,612
+Cochabamba,31304,Raqaypampa(eta),2024,8,TOTAL,38
+Potosí,50402,Ravelo,2024,8,TOTAL,106
+Santa Cruz,70503,Robore,2024,8,TOTAL,2725
+Cochabamba,31001,Sacaba,2024,8,TOTAL,654
+Potosí,50701,Sacaca,2024,8,TOTAL,324
+Santa Cruz,71302,Saipina,2024,8,TOTAL,1870
+Santa Cruz,70901,Samaipata,2024,8,TOTAL,3916
+Potosí,51003,San Antonio De Esmoruco,2024,8,TOTAL,21
+Santa Cruz,71105,San Antonio De Lomerio,2024,8,TOTAL,1843
+Beni,80302,San Borja,2024,8,TOTAL,101
+La Paz,21502,San Buena Ventura,2024,8,TOTAL,20
+Santa Cruz,70402,San Carlos,2024,8,TOTAL,7230
+Santa Cruz,70301,San Ignacio De Velasco,2024,8,TOTAL,10743
+Santa Cruz,71102,San Javier(stc),2024,8,TOTAL,3930
+Santa Cruz,70501,San Jose De Chiquitos,2024,8,TOTAL,4321
+Santa Cruz,70404,San Juan De Yapacani,2024,8,TOTAL,2701
+Santa Cruz,71104,San Julian,2024,8,TOTAL,16924
+Tarija,60501,San Lorenzo(tja),2024,8,TOTAL,277
+Chuquisaca,10702,San Lucas,2024,8,TOTAL,654
+Santa Cruz,71201,San Matias,2024,8,TOTAL,120
+Santa Cruz,70302,San Miguel De Velasco,2024,8,TOTAL,2950
+Santa Cruz,71005,San Pedro,2024,8,TOTAL,4109
+Potosí,50501,San Pedro De Buena Vista,2024,8,TOTAL,195
+Potosí,50405,San Pedro De Macha,2024,8,TOTAL,10
+Potosí,50902,San Pedro De Quemes,2024,8,TOTAL,7
+Santa Cruz,70303,San Rafael,2024,8,TOTAL,966
+Santa Cruz,71103,San Ramon Scz,2024,8,TOTAL,2006
+Beni,80401,Santa Ana,2024,8,TOTAL,433
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,8,TOTAL,377829
+Santa Cruz,70602,Santa Rosa Del Sara,2024,8,TOTAL,7196
+Oruro,40202,Santuario De Quillacas,2024,8,TOTAL,19
+Cochabamba,31602,Shinaota,2024,8,TOTAL,5
+Cochabamba,30703,Sicaya,2024,8,TOTAL,26
+Cochabamba,30902,Sipe Sipe,2024,8,TOTAL,332
+Oruro,40104,Soracachi,2024,8,TOTAL,20
+La Paz,20601,Sorata,2024,8,TOTAL,100
+Chuquisaca,10101,Sucre,2024,8,TOTAL,337
+Potosí,50303,Tacobamba,2024,8,TOTAL,192
+Potosí,51402,Tahua,2024,8,TOTAL,14
+Cochabamba,31101,Tapacari,2024,8,TOTAL,30
+Chuquisaca,10601,Tarabuco,2024,8,TOTAL,663
+Cochabamba,30401,Tarata,2024,8,TOTAL,96
+Tarija,60101,Tarija,2024,8,TOTAL,845
+Chuquisaca,10202,Tarvita,2024,8,TOTAL,1172
+Potosí,50102,Tinguipaya,2024,8,TOTAL,315
+Cochabamba,30903,Tiquipaya,2024,8,TOTAL,1078
+Cochabamba,30802,Toco,2024,8,TOTAL,48
+Cochabamba,30803,Tolata,2024,8,TOTAL,108
+Potosí,51202,Tomave,2024,8,TOTAL,13
+Potosí,50502,Toro Toro,2024,8,TOTAL,108
+Cochabamba,31201,Totora(cbba),2024,8,TOTAL,200
+Santa Cruz,70802,Trigal,2024,8,TOTAL,814
+Potosí,50801,Tupiza,2024,8,TOTAL,218
+Potosí,50201,Uncia,2024,8,TOTAL,318
+Tarija,60401,Uriondo (a. Concepcion),2024,8,TOTAL,50
+Santa Cruz,71502,Urubicha,2024,8,TOTAL,1054
+Potosí,51201,Uyuni,2024,8,TOTAL,2097
+Santa Cruz,70801,Vallegrande,2024,8,TOTAL,6541
+Chuquisaca,10704,Villa Charcas,2024,8,TOTAL,80
+Tarija,60303,Villa Montes,2024,8,TOTAL,907
+Cochabamba,31003,Villa Tunari,2024,8,TOTAL,99
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,8,TOTAL,460
+Potosí,51501,Villazon,2024,8,TOTAL,91
+Cochabamba,30904,Vinto,2024,8,TOTAL,25
+Potosí,50602,Vitichi,2024,8,TOTAL,226
+La Paz,20306,Waldo Ballivian,2024,8,TOTAL,10
+Santa Cruz,70201,Warnes,2024,8,TOTAL,47581
+Tarija,60301,Yacuiba,2024,8,TOTAL,9280
+Chuquisaca,10602,Yamparaez,2024,8,TOTAL,232
+Santa Cruz,70403,Yapacani,2024,8,TOTAL,17775
+Potosí,50103,Yocalla,2024,8,TOTAL,113
+Chuquisaca,10102,Yotala,2024,8,TOTAL,203
+Tarija,60402,Yunchara,2024,8,TOTAL,250
+Cochabamba,30201,Aiquile,2024,9,TOTAL,56
+Cochabamba,30402,Anzaldo,2024,9,TOTAL,10
+Cochabamba,30403,Arbieto,2024,9,TOTAL,71
+Potosí,50802,Atocha,2024,9,TOTAL,52
+La Paz,21203,Batallas,2024,9,TOTAL,20
+Beni,80802,Baures,2024,9,TOTAL,546
+Potosí,50104,Belen De Urmiri,2024,9,TOTAL,7
+Tarija,60202,Bermejo,2024,9,TOTAL,229
+Santa Cruz,70707,Boyuibe,2024,9,TOTAL,40
+Santa Cruz,70401,Buena Vista,2024,9,TOTAL,10
+Santa Cruz,70703,Cabezas,2024,9,TOTAL,481
+Santa Cruz,70706,Camiri,2024,9,TOTAL,47
+Cochabamba,30701,Capinota,2024,9,TOTAL,23
+La Paz,22001,Caranavi,2024,9,TOTAL,90
+Tarija,60302,Carapari,2024,9,TOTAL,18
+Santa Cruz,70702,Charagua,2024,9,TOTAL,608
+Potosí,50202,Chayanta,2024,9,TOTAL,7
+Cochabamba,30801,Cliza,2024,9,TOTAL,134
+Cochabamba,30303,Cocapata,2024,9,TOTAL,58
+Cochabamba,30101,Cochabamba,2024,9,TOTAL,7998
+Cochabamba,30905,Colcapirhua,2024,9,TOTAL,730
+Potosí,50901,"Colcha ""k""",2024,9,TOTAL,22
+Cochabamba,31002,Colomi,2024,9,TOTAL,46
+Santa Cruz,71101,Concepcion,2024,9,TOTAL,274
+La Paz,21401,Coroico,2024,9,TOTAL,10
+Potosí,50601,Cotagaita,2024,9,TOTAL,93
+Santa Cruz,71106,Cuatro Cañadas,2024,9,TOTAL,37
+Santa Cruz,70704,Cuevo,2024,9,TOTAL,47
+La Paz,20105,El Alto,2024,9,TOTAL,1943
+Santa Cruz,71503,El Puente(stc),2024,9,TOTAL,120
+Santa Cruz,70105,El Torno,2024,9,TOTAL,155
+Santa Cruz,71004,Fernandez Alonso,2024,9,TOTAL,165
+Santa Cruz,71002,General Saavedra,2024,9,TOTAL,45
+Beni,80202,Guayaramerin,2024,9,TOTAL,2178
+Santa Cruz,70705,Gutierrez,2024,9,TOTAL,129
+Pando,90402,Ingavi (humaita),2024,9,TOTAL,11
+La Paz,21001,Inquisivi,2024,9,TOTAL,40
+La Paz,21102,Irupana (villa De Lanza),2024,9,TOTAL,25
+Santa Cruz,70104,La Guardia,2024,9,TOTAL,224
+La Paz,20101,La Paz,2024,9,TOTAL,185
+Potosí,50203,Llallagua,2024,9,TOTAL,100
+Oruro,40702,Machacamarca,2024,9,TOTAL,60
+Santa Cruz,70903,Mairana,2024,9,TOTAL,141
+La Paz,20103,Mecapaca,2024,9,TOTAL,82
+Santa Cruz,71003,Mineros,2024,9,TOTAL,18
+Cochabamba,31301,Mizque,2024,9,TOTAL,16
+Santa Cruz,71001,Montero,2024,9,TOTAL,232
+Santa Cruz,70803,Moro Moro,2024,9,TOTAL,34
+Potosí,50404,Ocuri,2024,9,TOTAL,76
+Santa Cruz,70202,Okinawa,2024,9,TOTAL,96
+Oruro,40101,Oruro,2024,9,TOTAL,534
+Tarija,60201,Padcaya,2024,9,TOTAL,138
+Santa Cruz,70502,Pailon,2024,9,TOTAL,65
+Cochabamba,30202,Pasorapa,2024,9,TOTAL,146
+Cochabamba,31202,Pojo (cbba),2024,9,TOTAL,34
+Potosí,51203,Porco,2024,9,TOTAL,2
+Chuquisaca,10103,Poroma,2024,9,TOTAL,196
+Santa Cruz,70103,Porongo,2024,9,TOTAL,195
+Potosí,50101,Potosi,2024,9,TOTAL,55
+Santa Cruz,71402,Puerto Quijarro,2024,9,TOTAL,338
+Potosí,51101,Puna,2024,9,TOTAL,10
+Cochabamba,30901,Quillacollo,2024,9,TOTAL,874
+Santa Cruz,70904,Quirusillas,2024,9,TOTAL,20
+Santa Cruz,70503,Robore,2024,9,TOTAL,26
+Cochabamba,31001,Sacaba,2024,9,TOTAL,1007
+Cochabamba,30404,Sacabamba,2024,9,TOTAL,10
+Potosí,50701,Sacaca,2024,9,TOTAL,7
+Santa Cruz,71302,Saipina,2024,9,TOTAL,137
+Santa Cruz,70901,Samaipata,2024,9,TOTAL,235
+Santa Cruz,71105,San Antonio De Lomerio,2024,9,TOTAL,47
+Beni,80302,San Borja,2024,9,TOTAL,929
+Santa Cruz,70402,San Carlos,2024,9,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2024,9,TOTAL,421
+Santa Cruz,70501,San Jose De Chiquitos,2024,9,TOTAL,49
+Santa Cruz,71104,San Julian,2024,9,TOTAL,1142
+Tarija,60501,San Lorenzo(tja),2024,9,TOTAL,495
+Santa Cruz,70302,San Miguel De Velasco,2024,9,TOTAL,23
+Santa Cruz,71005,San Pedro,2024,9,TOTAL,28
+Potosí,50902,San Pedro De Quemes,2024,9,TOTAL,3
+Santa Cruz,70303,San Rafael,2024,9,TOTAL,4
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,9,TOTAL,2565
+Cochabamba,31602,Shinaota,2024,9,TOTAL,27
+Cochabamba,30703,Sicaya,2024,9,TOTAL,30
+Cochabamba,30902,Sipe Sipe,2024,9,TOTAL,125
+La Paz,20601,Sorata,2024,9,TOTAL,225
+Chuquisaca,10101,Sucre,2024,9,TOTAL,315
+Cochabamba,30401,Tarata,2024,9,TOTAL,76
+Tarija,60101,Tarija,2024,9,TOTAL,22
+Potosí,50102,Tinguipaya,2024,9,TOTAL,5
+Cochabamba,30903,Tiquipaya,2024,9,TOTAL,750
+Cochabamba,30802,Toco,2024,9,TOTAL,60
+Cochabamba,30803,Tolata,2024,9,TOTAL,36
+Potosí,50502,Toro Toro,2024,9,TOTAL,14
+Cochabamba,31201,Totora(cbba),2024,9,TOTAL,111
+Oruro,41301,Totora(orr),2024,9,TOTAL,10
+Potosí,50801,Tupiza,2024,9,TOTAL,36
+Potosí,50201,Uncia,2024,9,TOTAL,30
+Potosí,51201,Uyuni,2024,9,TOTAL,6
+Santa Cruz,70801,Vallegrande,2024,9,TOTAL,192
+Tarija,60303,Villa Montes,2024,9,TOTAL,183
+Cochabamba,31402,Villa Rivero,2024,9,TOTAL,2
+Cochabamba,31003,Villa Tunari,2024,9,TOTAL,36
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2024,9,TOTAL,8
+Potosí,51501,Villazon,2024,9,TOTAL,61
+Cochabamba,30904,Vinto,2024,9,TOTAL,296
+La Paz,20306,Waldo Ballivian,2024,9,TOTAL,10
+Santa Cruz,70201,Warnes,2024,9,TOTAL,104
+Tarija,60301,Yacuiba,2024,9,TOTAL,972
+Chuquisaca,10102,Yotala,2024,9,TOTAL,62
+Tarija,60402,Yunchara,2024,9,TOTAL,127
+Potosí,51302,Acacio,2024,10,TOTAL,8
+Cochabamba,30201,Aiquile,2024,10,TOTAL,33
+Cochabamba,30403,Arbieto,2024,10,TOTAL,86
+Potosí,50802,Atocha,2024,10,TOTAL,5
+La Paz,20503,Aucapata,2024,10,TOTAL,10
+Tarija,60202,Bermejo,2024,10,TOTAL,565
+Santa Cruz,70703,Cabezas,2024,10,TOTAL,77
+Potosí,51102,"Caiza ""d""",2024,10,TOTAL,4
+Cochabamba,30701,Capinota,2024,10,TOTAL,40
+La Paz,22001,Caranavi,2024,10,TOTAL,160
+Tarija,60302,Carapari,2024,10,TOTAL,16
+Santa Cruz,70702,Charagua,2024,10,TOTAL,53
+Cochabamba,30801,Cliza,2024,10,TOTAL,131
+Cochabamba,30303,Cocapata,2024,10,TOTAL,31
+Cochabamba,30101,Cochabamba,2024,10,TOTAL,6208
+Cochabamba,30905,Colcapirhua,2024,10,TOTAL,320
+Cochabamba,31002,Colomi,2024,10,TOTAL,62
+Potosí,50401,Colquechaca,2024,10,TOTAL,7
+Santa Cruz,71301,Comarapa,2024,10,TOTAL,1
+La Paz,21402,Coripata,2024,10,TOTAL,10
+La Paz,21401,Coroico,2024,10,TOTAL,10
+Potosí,50601,Cotagaita,2024,10,TOTAL,47
+La Paz,20804,Desaguadero,2024,10,TOTAL,18
+La Paz,20105,El Alto,2024,10,TOTAL,2276
+Santa Cruz,71503,El Puente(stc),2024,10,TOTAL,29
+Santa Cruz,70105,El Torno,2024,10,TOTAL,70
+Santa Cruz,71004,Fernandez Alonso,2024,10,TOTAL,13
+Santa Cruz,71002,General Saavedra,2024,10,TOTAL,22
+Beni,80202,Guayaramerin,2024,10,TOTAL,245
+La Paz,20404,Humanata,2024,10,TOTAL,20
+La Paz,21105,La Asunta,2024,10,TOTAL,30
+Santa Cruz,70104,La Guardia,2024,10,TOTAL,48
+La Paz,20101,La Paz,2024,10,TOTAL,136
+Santa Cruz,70903,Mairana,2024,10,TOTAL,25
+Santa Cruz,71003,Mineros,2024,10,TOTAL,11
+Cochabamba,31301,Mizque,2024,10,TOTAL,12
+Santa Cruz,71001,Montero,2024,10,TOTAL,48
+Santa Cruz,70803,Moro Moro,2024,10,TOTAL,40
+Potosí,50404,Ocuri,2024,10,TOTAL,11
+Oruro,40101,Oruro,2024,10,TOTAL,5225
+Tarija,60201,Padcaya,2024,10,TOTAL,10
+Santa Cruz,70502,Pailon,2024,10,TOTAL,51
+Potosí,51203,Porco,2024,10,TOTAL,2
+Chuquisaca,10103,Poroma,2024,10,TOTAL,56
+Santa Cruz,70103,Porongo,2024,10,TOTAL,53
+La Paz,21204,Puerto Perez,2024,10,TOTAL,20
+Santa Cruz,71402,Puerto Quijarro,2024,10,TOTAL,157
+Cochabamba,30901,Quillacollo,2024,10,TOTAL,1167
+Cochabamba,31304,Raqaypampa(eta),2024,10,TOTAL,18
+Potosí,50402,Ravelo,2024,10,TOTAL,17
+Beni,80201,Riberalta,2024,10,TOTAL,4
+Santa Cruz,70503,Robore,2024,10,TOTAL,10
+Cochabamba,31001,Sacaba,2024,10,TOTAL,1809
+Santa Cruz,70901,Samaipata,2024,10,TOTAL,53
+Santa Cruz,70402,San Carlos,2024,10,TOTAL,32
+Santa Cruz,70301,San Ignacio De Velasco,2024,10,TOTAL,126
+Santa Cruz,71104,San Julian,2024,10,TOTAL,324
+Santa Cruz,71005,San Pedro,2024,10,TOTAL,10
+Potosí,50902,San Pedro De Quemes,2024,10,TOTAL,31
+La Paz,21702,San Pedro De Tiquina,2024,10,TOTAL,10
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,10,TOTAL,1042
+Santa Cruz,70602,Santa Rosa Del Sara,2024,10,TOTAL,30
+Cochabamba,30902,Sipe Sipe,2024,10,TOTAL,129
+Chuquisaca,10101,Sucre,2024,10,TOTAL,62
+Cochabamba,30401,Tarata,2024,10,TOTAL,30
+Cochabamba,30903,Tiquipaya,2024,10,TOTAL,80
+Cochabamba,30802,Toco,2024,10,TOTAL,20
+Cochabamba,30803,Tolata,2024,10,TOTAL,52
+Cochabamba,31201,Totora(cbba),2024,10,TOTAL,27
+Santa Cruz,70801,Vallegrande,2024,10,TOTAL,116
+Tarija,60303,Villa Montes,2024,10,TOTAL,318
+Cochabamba,31402,Villa Rivero,2024,10,TOTAL,14
+Cochabamba,31003,Villa Tunari,2024,10,TOTAL,14
+Potosí,51501,Villazon,2024,10,TOTAL,10
+Cochabamba,30904,Vinto,2024,10,TOTAL,695
+La Paz,20306,Waldo Ballivian,2024,10,TOTAL,10
+Santa Cruz,70201,Warnes,2024,10,TOTAL,83
+Potosí,50103,Yocalla,2024,10,TOTAL,82
+Chuquisaca,10102,Yotala,2024,10,TOTAL,28
+Cochabamba,30201,Aiquile,2024,11,TOTAL,23
+Potosí,51301,Arampampa,2024,11,TOTAL,10
+Cochabamba,30403,Arbieto,2024,11,TOTAL,114
+Santa Cruz,70703,Cabezas,2024,11,TOTAL,5
+Santa Cruz,70706,Camiri,2024,11,TOTAL,1690
+Cochabamba,30701,Capinota,2024,11,TOTAL,30
+Oruro,40102,Caracollo,2024,11,TOTAL,150
+La Paz,22001,Caranavi,2024,11,TOTAL,65
+Tarija,60302,Carapari,2024,11,TOTAL,12
+Santa Cruz,70702,Charagua,2024,11,TOTAL,4
+La Paz,21101,Chulumani (v. De La Libertad),2024,11,TOTAL,20
+Cochabamba,30801,Cliza,2024,11,TOTAL,41
+Cochabamba,30303,Cocapata,2024,11,TOTAL,80
+Cochabamba,30101,Cochabamba,2024,11,TOTAL,47336
+Cochabamba,30905,Colcapirhua,2024,11,TOTAL,550
+Potosí,50901,"Colcha ""k""",2024,11,TOTAL,1
+Cochabamba,31002,Colomi,2024,11,TOTAL,20
+La Paz,21401,Coroico,2024,11,TOTAL,50
+Potosí,50601,Cotagaita,2024,11,TOTAL,58
+Santa Cruz,71106,Cuatro Cañadas,2024,11,TOTAL,10
+La Paz,20105,El Alto,2024,11,TOTAL,5494
+Santa Cruz,71004,Fernandez Alonso,2024,11,TOTAL,14
+Santa Cruz,71002,General Saavedra,2024,11,TOTAL,24
+Santa Cruz,70705,Gutierrez,2024,11,TOTAL,88
+La Paz,20806,Jesus De Machaca,2024,11,TOTAL,10
+La Paz,21105,La Asunta,2024,11,TOTAL,60
+Santa Cruz,70104,La Guardia,2024,11,TOTAL,162
+La Paz,20101,La Paz,2024,11,TOTAL,217
+La Paz,20901,Luribay,2024,11,TOTAL,30
+Santa Cruz,70903,Mairana,2024,11,TOTAL,27
+Santa Cruz,71003,Mineros,2024,11,TOTAL,6
+Cochabamba,31301,Mizque,2024,11,TOTAL,1
+La Paz,20402,Mocomoco,2024,11,TOTAL,30
+Santa Cruz,71001,Montero,2024,11,TOTAL,50
+Cochabamba,30302,Morochata,2024,11,TOTAL,20
+Potosí,50404,Ocuri,2024,11,TOTAL,12
+Oruro,40101,Oruro,2024,11,TOTAL,651
+Tarija,60201,Padcaya,2024,11,TOTAL,107
+Santa Cruz,70502,Pailon,2024,11,TOTAL,28
+Potosí,50101,Potosi,2024,11,TOTAL,116
+La Paz,21204,Puerto Perez,2024,11,TOTAL,10
+Cochabamba,30901,Quillacollo,2024,11,TOTAL,1737
+Santa Cruz,70503,Robore,2024,11,TOTAL,40
+Cochabamba,31001,Sacaba,2024,11,TOTAL,7725
+Santa Cruz,71302,Saipina,2024,11,TOTAL,42
+Santa Cruz,70901,Samaipata,2024,11,TOTAL,3
+Beni,80302,San Borja,2024,11,TOTAL,6
+Santa Cruz,70301,San Ignacio De Velasco,2024,11,TOTAL,623
+Santa Cruz,71104,San Julian,2024,11,TOTAL,184
+Santa Cruz,71005,San Pedro,2024,11,TOTAL,86
+Potosí,50501,San Pedro De Buena Vista,2024,11,TOTAL,10
+Santa Cruz,70303,San Rafael,2024,11,TOTAL,270
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,11,TOTAL,567
+Cochabamba,30902,Sipe Sipe,2024,11,TOTAL,193
+Chuquisaca,10101,Sucre,2024,11,TOTAL,59
+Cochabamba,30401,Tarata,2024,11,TOTAL,102
+Cochabamba,30903,Tiquipaya,2024,11,TOTAL,135
+Cochabamba,30802,Toco,2024,11,TOTAL,70
+Cochabamba,30803,Tolata,2024,11,TOTAL,10
+Cochabamba,31201,Totora(cbba),2024,11,TOTAL,30
+Santa Cruz,70801,Vallegrande,2024,11,TOTAL,60
+Tarija,60303,Villa Montes,2024,11,TOTAL,11
+Cochabamba,31003,Villa Tunari,2024,11,TOTAL,26
+Cochabamba,30904,Vinto,2024,11,TOTAL,194
+La Paz,20306,Waldo Ballivian,2024,11,TOTAL,10
+Santa Cruz,70201,Warnes,2024,11,TOTAL,147
+Tarija,60301,Yacuiba,2024,11,TOTAL,44
+Cochabamba,30201,Aiquile,2024,12,TOTAL,25
+Cochabamba,30402,Anzaldo,2024,12,TOTAL,10
+Cochabamba,30403,Arbieto,2024,12,TOTAL,95
+Tarija,60202,Bermejo,2024,12,TOTAL,11
+Potosí,51102,"Caiza ""d""",2024,12,TOTAL,1
+Cochabamba,30701,Capinota,2024,12,TOTAL,9
+La Paz,22001,Caranavi,2024,12,TOTAL,57
+Tarija,60302,Carapari,2024,12,TOTAL,7
+Potosí,50202,Chayanta,2024,12,TOTAL,42
+Cochabamba,30801,Cliza,2024,12,TOTAL,227
+Cochabamba,30303,Cocapata,2024,12,TOTAL,14
+Cochabamba,30101,Cochabamba,2024,12,TOTAL,2462
+Cochabamba,30905,Colcapirhua,2024,12,TOTAL,192
+Potosí,50901,"Colcha ""k""",2024,12,TOTAL,3
+Cochabamba,31002,Colomi,2024,12,TOTAL,80
+La Paz,21401,Coroico,2024,12,TOTAL,10
+Potosí,50601,Cotagaita,2024,12,TOTAL,82
+La Paz,20105,El Alto,2024,12,TOTAL,721
+Santa Cruz,71503,El Puente(stc),2024,12,TOTAL,14
+Tarija,60502,El Puente(tja),2024,12,TOTAL,3
+Santa Cruz,70105,El Torno,2024,12,TOTAL,28
+Santa Cruz,71004,Fernandez Alonso,2024,12,TOTAL,52
+Santa Cruz,71002,General Saavedra,2024,12,TOTAL,5
+La Paz,21102,Irupana (villa De Lanza),2024,12,TOTAL,30
+La Paz,21501,Ixiamas,2024,12,TOTAL,10
+La Paz,21105,La Asunta,2024,12,TOTAL,10
+Santa Cruz,70104,La Guardia,2024,12,TOTAL,20
+La Paz,20101,La Paz,2024,12,TOTAL,462
+La Paz,20904,Malla,2024,12,TOTAL,7
+Santa Cruz,71003,Mineros,2024,12,TOTAL,16
+Cochabamba,31301,Mizque,2024,12,TOTAL,2
+Santa Cruz,71001,Montero,2024,12,TOTAL,78
+Cochabamba,30302,Morochata,2024,12,TOTAL,60
+Potosí,50404,Ocuri,2024,12,TOTAL,10
+Oruro,40101,Oruro,2024,12,TOTAL,3
+Santa Cruz,70502,Pailon,2024,12,TOTAL,4
+Santa Cruz,70103,Porongo,2024,12,TOTAL,97
+Cochabamba,30901,Quillacollo,2024,12,TOTAL,870
+Potosí,50402,Ravelo,2024,12,TOTAL,10
+Santa Cruz,70503,Robore,2024,12,TOTAL,50
+Cochabamba,31001,Sacaba,2024,12,TOTAL,1496
+Cochabamba,30404,Sacabamba,2024,12,TOTAL,40
+Beni,80302,San Borja,2024,12,TOTAL,3
+Santa Cruz,70301,San Ignacio De Velasco,2024,12,TOTAL,460
+Santa Cruz,71104,San Julian,2024,12,TOTAL,73
+Tarija,60501,San Lorenzo(tja),2024,12,TOTAL,295
+Santa Cruz,71005,San Pedro,2024,12,TOTAL,86
+Potosí,50501,San Pedro De Buena Vista,2024,12,TOTAL,34
+La Paz,21702,San Pedro De Tiquina,2024,12,TOTAL,30
+Beni,80702,San Ramon Beni,2024,12,TOTAL,117
+Santa Cruz,70101,Santa Cruz De La Sierra,2024,12,TOTAL,1370
+Cochabamba,30902,Sipe Sipe,2024,12,TOTAL,43
+Chuquisaca,10101,Sucre,2024,12,TOTAL,793
+Cochabamba,31101,Tapacari,2024,12,TOTAL,40
+La Paz,20807,Taraco,2024,12,TOTAL,10
+Cochabamba,30401,Tarata,2024,12,TOTAL,30
+Potosí,50102,Tinguipaya,2024,12,TOTAL,10
+Cochabamba,30903,Tiquipaya,2024,12,TOTAL,130
+Cochabamba,30802,Toco,2024,12,TOTAL,60
+Cochabamba,30803,Tolata,2024,12,TOTAL,72
+Santa Cruz,70801,Vallegrande,2024,12,TOTAL,28
+Tarija,60303,Villa Montes,2024,12,TOTAL,357
+Cochabamba,31402,Villa Rivero,2024,12,TOTAL,38
+Cochabamba,31003,Villa Tunari,2024,12,TOTAL,83
+Cochabamba,30904,Vinto,2024,12,TOTAL,575
+La Paz,20306,Waldo Ballivian,2024,12,TOTAL,20
+Santa Cruz,70201,Warnes,2024,12,TOTAL,697

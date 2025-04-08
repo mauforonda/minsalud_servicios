@@ -1,0 +1,497 @@
+department,municipality_id,municipality,year,month,population,value
+Tarija,60302,Carapari,2016,1,RN con malformacion congenita,1
+Potosí,50202,Chayanta,2016,1,RN con malformacion congenita,1
+Chuquisaca,10902,Culpina,2016,1,RN con malformacion congenita,1
+La Paz,20105,El Alto,2016,1,RN con malformacion congenita,4
+Tarija,60601,Entre Rios Trj,2016,1,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,1,RN con malformacion congenita,4
+Potosí,50203,Llallagua,2016,1,RN con malformacion congenita,1
+Oruro,40101,Oruro,2016,1,RN con malformacion congenita,1
+Chuquisaca,10401,Padilla,2016,1,RN con malformacion congenita,1
+Santa Cruz,70601,Portachuelo,2016,1,RN con malformacion congenita,1
+Beni,80201,Riberalta,2016,1,RN con malformacion congenita,6
+Beni,80501,San Ignacio,2016,1,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,RN con malformacion congenita,6
+La Paz,20308,Santiago De Callapa,2016,1,RN con malformacion congenita,3
+Cochabamba,30902,Sipe Sipe,2016,1,RN con malformacion congenita,1
+La Paz,20601,Sorata,2016,1,RN con malformacion congenita,1
+Chuquisaca,10101,Sucre,2016,1,RN con malformacion congenita,1
+Tarija,60101,Tarija,2016,1,RN con malformacion congenita,1
+Tarija,60301,Yacuiba,2016,1,RN con malformacion congenita,1
+Chuquisaca,10602,Yamparaez,2016,1,RN con malformacion congenita,1
+Cochabamba,30201,Aiquile,2016,2,RN con malformacion congenita,1
+Tarija,60202,Bermejo,2016,2,RN con malformacion congenita,1
+Chuquisaca,10701,Camargo,2016,2,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2016,2,RN con malformacion congenita,1
+Cochabamba,30905,Colcapirhua,2016,2,RN con malformacion congenita,1
+La Paz,20105,El Alto,2016,2,RN con malformacion congenita,3
+Santa Cruz,70104,La Guardia,2016,2,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,2,RN con malformacion congenita,70
+Oruro,40101,Oruro,2016,2,RN con malformacion congenita,4
+Cochabamba,31202,Pojo (cbba),2016,2,RN con malformacion congenita,1
+Santa Cruz,71401,Puerto Suarez,2016,2,RN con malformacion congenita,1
+Potosí,50402,Ravelo,2016,2,RN con malformacion congenita,1
+Beni,80201,Riberalta,2016,2,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2016,2,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,RN con malformacion congenita,9
+Cochabamba,30902,Sipe Sipe,2016,2,RN con malformacion congenita,1
+Chuquisaca,10101,Sucre,2016,2,RN con malformacion congenita,2
+Potosí,50502,Toro Toro,2016,2,RN con malformacion congenita,1
+Potosí,51201,Uyuni,2016,2,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2016,2,RN con malformacion congenita,2
+Tarija,60402,Yunchara,2016,2,RN con malformacion congenita,1
+Cochabamba,30201,Aiquile,2016,3,RN con malformacion congenita,1
+Tarija,60202,Bermejo,2016,3,RN con malformacion congenita,1
+La Paz,22001,Caranavi,2016,3,RN con malformacion congenita,1
+Potosí,51103,Ckochas,2016,3,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2016,3,RN con malformacion congenita,4
+Santa Cruz,70105,El Torno,2016,3,RN con malformacion congenita,1
+Chuquisaca,10502,Huacareta,2016,3,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,3,RN con malformacion congenita,4
+Santa Cruz,70903,Mairana,2016,3,RN con malformacion congenita,1
+Cochabamba,31301,Mizque,2016,3,RN con malformacion congenita,1
+Chuquisaca,10401,Padilla,2016,3,RN con malformacion congenita,1
+Cochabamba,31203,Pocona,2016,3,RN con malformacion congenita,1
+Beni,80201,Riberalta,2016,3,RN con malformacion congenita,2
+Chuquisaca,10702,San Lucas,2016,3,RN con malformacion congenita,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,RN con malformacion congenita,8
+Chuquisaca,10101,Sucre,2016,3,RN con malformacion congenita,1
+Tarija,60101,Tarija,2016,3,RN con malformacion congenita,2
+Cochabamba,31003,Villa Tunari,2016,3,RN con malformacion congenita,1
+Tarija,60301,Yacuiba,2016,3,RN con malformacion congenita,1
+Cochabamba,30201,Aiquile,2016,4,RN con malformacion congenita,1
+La Paz,20905,Cairoma,2016,4,RN con malformacion congenita,1
+La Paz,21003,Cajuata,2016,4,RN con malformacion congenita,1
+La Paz,22001,Caranavi,2016,4,RN con malformacion congenita,1
+Santa Cruz,70702,Charagua,2016,4,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2016,4,RN con malformacion congenita,1
+La Paz,20105,El Alto,2016,4,RN con malformacion congenita,5
+La Paz,21105,La Asunta,2016,4,RN con malformacion congenita,1
+Santa Cruz,70104,La Guardia,2016,4,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,4,RN con malformacion congenita,9
+Beni,80801,Magdalena,2016,4,RN con malformacion congenita,15
+Oruro,40101,Oruro,2016,4,RN con malformacion congenita,1
+Beni,80201,Riberalta,2016,4,RN con malformacion congenita,2
+Santa Cruz,70301,San Ignacio De Velasco,2016,4,RN con malformacion congenita,1
+Santa Cruz,71104,San Julian,2016,4,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,RN con malformacion congenita,8
+Chuquisaca,10101,Sucre,2016,4,RN con malformacion congenita,3
+Tarija,60101,Tarija,2016,4,RN con malformacion congenita,2
+La Paz,20608,Teoponte,2016,4,RN con malformacion congenita,4
+Cochabamba,30903,Tiquipaya,2016,4,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2016,4,RN con malformacion congenita,1
+Tarija,60301,Yacuiba,2016,4,RN con malformacion congenita,1
+Tarija,60202,Bermejo,2016,5,RN con malformacion congenita,1
+Santa Cruz,70707,Boyuibe,2016,5,RN con malformacion congenita,1
+Cochabamba,31204,Chimore,2016,5,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2016,5,RN con malformacion congenita,2
+Santa Cruz,71301,Comarapa,2016,5,RN con malformacion congenita,1
+La Paz,20301,Coro Coro,2016,5,RN con malformacion congenita,1
+La Paz,20105,El Alto,2016,5,RN con malformacion congenita,10
+Santa Cruz,71503,El Puente(stc),2016,5,RN con malformacion congenita,5
+Santa Cruz,70105,El Torno,2016,5,RN con malformacion congenita,1
+Oruro,41101,Eucaliptus,2016,5,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,5,RN con malformacion congenita,5
+Santa Cruz,70902,Pampa Grande,2016,5,RN con malformacion congenita,1
+La Paz,21305,Patacamaya,2016,5,RN con malformacion congenita,1
+Beni,80201,Riberalta,2016,5,RN con malformacion congenita,1
+Santa Cruz,70503,Robore,2016,5,RN con malformacion congenita,1
+La Paz,21502,San Buena Ventura,2016,5,RN con malformacion congenita,1
+Beni,80501,San Ignacio,2016,5,RN con malformacion congenita,2
+Chuquisaca,10702,San Lucas,2016,5,RN con malformacion congenita,2
+Beni,80401,Santa Ana,2016,5,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,RN con malformacion congenita,11
+Chuquisaca,10101,Sucre,2016,5,RN con malformacion congenita,1
+Tarija,60101,Tarija,2016,5,RN con malformacion congenita,2
+Cochabamba,31003,Villa Tunari,2016,5,RN con malformacion congenita,1
+La Paz,21103,Yanacachi,2016,5,RN con malformacion congenita,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,6,RN con malformacion congenita,1
+Cochabamba,30801,Cliza,2016,6,RN con malformacion congenita,1
+Pando,90101,Cobija,2016,6,RN con malformacion congenita,91
+Cochabamba,30101,Cochabamba,2016,6,RN con malformacion congenita,1
+La Paz,21004,Colquiri,2016,6,RN con malformacion congenita,1
+La Paz,21401,Coroico,2016,6,RN con malformacion congenita,1
+La Paz,20105,El Alto,2016,6,RN con malformacion congenita,6
+La Paz,21102,Irupana (villa De Lanza),2016,6,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,6,RN con malformacion congenita,2
+Santa Cruz,70903,Mairana,2016,6,RN con malformacion congenita,1
+Cochabamba,31301,Mizque,2016,6,RN con malformacion congenita,1
+Oruro,40101,Oruro,2016,6,RN con malformacion congenita,2
+La Paz,21305,Patacamaya,2016,6,RN con malformacion congenita,1
+Beni,80201,Riberalta,2016,6,RN con malformacion congenita,2
+Beni,80304,Rurrenabaque,2016,6,RN con malformacion congenita,1
+Cochabamba,31001,Sacaba,2016,6,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,RN con malformacion congenita,11
+Chuquisaca,10101,Sucre,2016,6,RN con malformacion congenita,1
+Tarija,60101,Tarija,2016,6,RN con malformacion congenita,2
+Cochabamba,31003,Villa Tunari,2016,6,RN con malformacion congenita,1
+Chuquisaca,10602,Yamparaez,2016,6,RN con malformacion congenita,1
+Cochabamba,30201,Aiquile,2016,7,RN con malformacion congenita,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2016,7,RN con malformacion congenita,1
+Tarija,60202,Bermejo,2016,7,RN con malformacion congenita,1
+La Paz,20501,Chuma,2016,7,RN con malformacion congenita,1
+Cochabamba,30801,Cliza,2016,7,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2016,7,RN con malformacion congenita,4
+La Paz,20105,El Alto,2016,7,RN con malformacion congenita,8
+Santa Cruz,71004,Fernandez Alonso,2016,7,RN con malformacion congenita,1
+Oruro,40501,Huachacalla,2016,7,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,7,RN con malformacion congenita,9
+Santa Cruz,71001,Montero,2016,7,RN con malformacion congenita,1
+Chuquisaca,10401,Padilla,2016,7,RN con malformacion congenita,1
+Chuquisaca,10103,Poroma,2016,7,RN con malformacion congenita,1
+Beni,80201,Riberalta,2016,7,RN con malformacion congenita,2
+Santa Cruz,70301,San Ignacio De Velasco,2016,7,RN con malformacion congenita,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,RN con malformacion congenita,10
+Cochabamba,31602,Shinaota,2016,7,RN con malformacion congenita,1
+Chuquisaca,10101,Sucre,2016,7,RN con malformacion congenita,1
+Tarija,60101,Tarija,2016,7,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2016,7,RN con malformacion congenita,2
+La Paz,20202,Ancoraimes,2016,8,RN con malformacion congenita,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,8,RN con malformacion congenita,1
+Potosí,50301,Betanzos,2016,8,RN con malformacion congenita,1
+Chuquisaca,10701,Camargo,2016,8,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2016,8,RN con malformacion congenita,3
+La Paz,20105,El Alto,2016,8,RN con malformacion congenita,3
+Tarija,60601,Entre Rios Trj,2016,8,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,8,RN con malformacion congenita,5
+La Paz,20607,Mapiri,2016,8,RN con malformacion congenita,1
+Chuquisaca,10302,Presto,2016,8,RN con malformacion congenita,1
+Santa Cruz,70402,San Carlos,2016,8,RN con malformacion congenita,1
+Santa Cruz,70301,San Ignacio De Velasco,2016,8,RN con malformacion congenita,1
+Santa Cruz,71104,San Julian,2016,8,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,8,RN con malformacion congenita,8
+Chuquisaca,10101,Sucre,2016,8,RN con malformacion congenita,6
+Tarija,60101,Tarija,2016,8,RN con malformacion congenita,1
+Potosí,51201,Uyuni,2016,8,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2016,8,RN con malformacion congenita,1
+Cochabamba,30201,Aiquile,2016,9,RN con malformacion congenita,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,9,RN con malformacion congenita,3
+Tarija,60202,Bermejo,2016,9,RN con malformacion congenita,1
+Santa Cruz,70703,Cabezas,2016,9,RN con malformacion congenita,1
+Santa Cruz,70706,Camiri,2016,9,RN con malformacion congenita,1
+La Paz,22001,Caranavi,2016,9,RN con malformacion congenita,1
+Potosí,51103,Ckochas,2016,9,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2016,9,RN con malformacion congenita,2
+Chuquisaca,10902,Culpina,2016,9,RN con malformacion congenita,1
+La Paz,20105,El Alto,2016,9,RN con malformacion congenita,2
+Santa Cruz,70104,La Guardia,2016,9,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,9,RN con malformacion congenita,6
+Santa Cruz,70903,Mairana,2016,9,RN con malformacion congenita,1
+Potosí,50101,Potosi,2016,9,RN con malformacion congenita,1
+Beni,80201,Riberalta,2016,9,RN con malformacion congenita,3
+Oruro,40801,Salinas De Garci Mendoza,2016,9,RN con malformacion congenita,2
+Santa Cruz,70301,San Ignacio De Velasco,2016,9,RN con malformacion congenita,2
+Santa Cruz,71102,San Javier(stc),2016,9,RN con malformacion congenita,1
+Santa Cruz,71104,San Julian,2016,9,RN con malformacion congenita,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,RN con malformacion congenita,21
+Chuquisaca,10101,Sucre,2016,9,RN con malformacion congenita,2
+Tarija,60101,Tarija,2016,9,RN con malformacion congenita,2
+Santa Cruz,70801,Vallegrande,2016,9,RN con malformacion congenita,1
+Cochabamba,31402,Villa Rivero,2016,9,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2016,9,RN con malformacion congenita,1
+La Paz,20201,Achacachi,2016,10,RN con malformacion congenita,2
+Cochabamba,30501,Arani,2016,10,RN con malformacion congenita,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,10,RN con malformacion congenita,1
+Pando,90101,Cobija,2016,10,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2016,10,RN con malformacion congenita,2
+La Paz,20105,El Alto,2016,10,RN con malformacion congenita,49
+Tarija,60502,El Puente(tja),2016,10,RN con malformacion congenita,1
+La Paz,20101,La Paz,2016,10,RN con malformacion congenita,7
+La Paz,21202,Laja,2016,10,RN con malformacion congenita,1
+Chuquisaca,11003,Machareti,2016,10,RN con malformacion congenita,1
+Potosí,50101,Potosi,2016,10,RN con malformacion congenita,1
+Cochabamba,31001,Sacaba,2016,10,RN con malformacion congenita,1
+Beni,80302,San Borja,2016,10,RN con malformacion congenita,1
+Santa Cruz,70402,San Carlos,2016,10,RN con malformacion congenita,1
+Beni,80501,San Ignacio,2016,10,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,RN con malformacion congenita,19
+Tarija,60101,Tarija,2016,10,RN con malformacion congenita,2
+Potosí,51201,Uyuni,2016,10,RN con malformacion congenita,1
+Santa Cruz,70801,Vallegrande,2016,10,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2016,10,RN con malformacion congenita,3
+Tarija,60301,Yacuiba,2016,10,RN con malformacion congenita,1
+Potosí,50301,Betanzos,2016,11,RN con malformacion congenita,1
+Santa Cruz,71403,Carmen Rivero Torrez,2016,11,RN con malformacion congenita,1
+Oruro,40201,Challapata,2016,11,RN con malformacion congenita,3
+Pando,90101,Cobija,2016,11,RN con malformacion congenita,1
+Cochabamba,30101,Cochabamba,2016,11,RN con malformacion congenita,1
+Santa Cruz,71301,Comarapa,2016,11,RN con malformacion congenita,2
+La Paz,20105,El Alto,2016,11,RN con malformacion congenita,6
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,11,RN con malformacion congenita,1
+Santa Cruz,70104,La Guardia,2016,11,RN con malformacion congenita,2
+La Paz,20101,La Paz,2016,11,RN con malformacion congenita,6
+Potosí,50203,Llallagua,2016,11,RN con malformacion congenita,1
+Santa Cruz,70903,Mairana,2016,11,RN con malformacion congenita,1
+La Paz,21802,Papel Pampa,2016,11,RN con malformacion congenita,1
+Potosí,50101,Potosi,2016,11,RN con malformacion congenita,3
+Beni,80201,Riberalta,2016,11,RN con malformacion congenita,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,RN con malformacion congenita,9
+Tarija,60101,Tarija,2016,11,RN con malformacion congenita,3
+Cochabamba,31003,Villa Tunari,2016,11,RN con malformacion congenita,1
+La Paz,20104,Achocalla,2016,12,RN con malformacion congenita,1
+Tarija,60202,Bermejo,2016,12,RN con malformacion congenita,2
+Cochabamba,30101,Cochabamba,2016,12,RN con malformacion congenita,1
+La Paz,20105,El Alto,2016,12,RN con malformacion congenita,3
+Cochabamba,31206,Entre Rios Cbba,2016,12,RN con malformacion congenita,10
+La Paz,20101,La Paz,2016,12,RN con malformacion congenita,8
+Potosí,50203,Llallagua,2016,12,RN con malformacion congenita,2
+Santa Cruz,71001,Montero,2016,12,RN con malformacion congenita,1
+Oruro,40101,Oruro,2016,12,RN con malformacion congenita,1
+Potosí,50101,Potosi,2016,12,RN con malformacion congenita,2
+Santa Cruz,70805,Pucara,2016,12,RN con malformacion congenita,1
+Cochabamba,31205,Puerto Villarroel,2016,12,RN con malformacion congenita,100
+Beni,80201,Riberalta,2016,12,RN con malformacion congenita,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,RN con malformacion congenita,13
+La Paz,21301,Sica Sica (villa Aroma),2016,12,RN con malformacion congenita,1
+Chuquisaca,10601,Tarabuco,2016,12,RN con malformacion congenita,1
+Tarija,60101,Tarija,2016,12,RN con malformacion congenita,3
+Potosí,50102,Tinguipaya,2016,12,RN con malformacion congenita,1
+Cochabamba,31003,Villa Tunari,2016,12,RN con malformacion congenita,2
+Tarija,60302,Carapari,2016,1,TOTAL,1
+Potosí,50202,Chayanta,2016,1,TOTAL,1
+Chuquisaca,10902,Culpina,2016,1,TOTAL,1
+La Paz,20105,El Alto,2016,1,TOTAL,4
+Tarija,60601,Entre Rios Trj,2016,1,TOTAL,1
+La Paz,20101,La Paz,2016,1,TOTAL,4
+Potosí,50203,Llallagua,2016,1,TOTAL,1
+Oruro,40101,Oruro,2016,1,TOTAL,1
+Chuquisaca,10401,Padilla,2016,1,TOTAL,1
+Santa Cruz,70601,Portachuelo,2016,1,TOTAL,1
+Beni,80201,Riberalta,2016,1,TOTAL,6
+Beni,80501,San Ignacio,2016,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,1,TOTAL,6
+La Paz,20308,Santiago De Callapa,2016,1,TOTAL,3
+Cochabamba,30902,Sipe Sipe,2016,1,TOTAL,1
+La Paz,20601,Sorata,2016,1,TOTAL,1
+Chuquisaca,10101,Sucre,2016,1,TOTAL,1
+Tarija,60101,Tarija,2016,1,TOTAL,1
+Tarija,60301,Yacuiba,2016,1,TOTAL,1
+Chuquisaca,10602,Yamparaez,2016,1,TOTAL,1
+Cochabamba,30201,Aiquile,2016,2,TOTAL,1
+Tarija,60202,Bermejo,2016,2,TOTAL,1
+Chuquisaca,10701,Camargo,2016,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,2,TOTAL,1
+Cochabamba,30905,Colcapirhua,2016,2,TOTAL,1
+La Paz,20105,El Alto,2016,2,TOTAL,3
+Santa Cruz,70104,La Guardia,2016,2,TOTAL,1
+La Paz,20101,La Paz,2016,2,TOTAL,70
+Oruro,40101,Oruro,2016,2,TOTAL,4
+Cochabamba,31202,Pojo (cbba),2016,2,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2016,2,TOTAL,1
+Potosí,50402,Ravelo,2016,2,TOTAL,1
+Beni,80201,Riberalta,2016,2,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2016,2,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,2,TOTAL,9
+Cochabamba,30902,Sipe Sipe,2016,2,TOTAL,1
+Chuquisaca,10101,Sucre,2016,2,TOTAL,2
+Potosí,50502,Toro Toro,2016,2,TOTAL,1
+Potosí,51201,Uyuni,2016,2,TOTAL,1
+Cochabamba,31003,Villa Tunari,2016,2,TOTAL,2
+Tarija,60402,Yunchara,2016,2,TOTAL,1
+Cochabamba,30201,Aiquile,2016,3,TOTAL,1
+Tarija,60202,Bermejo,2016,3,TOTAL,1
+La Paz,22001,Caranavi,2016,3,TOTAL,1
+Potosí,51103,Ckochas,2016,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,3,TOTAL,4
+Santa Cruz,70105,El Torno,2016,3,TOTAL,1
+Chuquisaca,10502,Huacareta,2016,3,TOTAL,1
+La Paz,20101,La Paz,2016,3,TOTAL,4
+Santa Cruz,70903,Mairana,2016,3,TOTAL,1
+Cochabamba,31301,Mizque,2016,3,TOTAL,1
+Chuquisaca,10401,Padilla,2016,3,TOTAL,1
+Cochabamba,31203,Pocona,2016,3,TOTAL,1
+Beni,80201,Riberalta,2016,3,TOTAL,2
+Chuquisaca,10702,San Lucas,2016,3,TOTAL,3
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,3,TOTAL,8
+Chuquisaca,10101,Sucre,2016,3,TOTAL,1
+Tarija,60101,Tarija,2016,3,TOTAL,2
+Cochabamba,31003,Villa Tunari,2016,3,TOTAL,1
+Tarija,60301,Yacuiba,2016,3,TOTAL,1
+Cochabamba,30201,Aiquile,2016,4,TOTAL,1
+La Paz,20905,Cairoma,2016,4,TOTAL,1
+La Paz,21003,Cajuata,2016,4,TOTAL,1
+La Paz,22001,Caranavi,2016,4,TOTAL,1
+Santa Cruz,70702,Charagua,2016,4,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,4,TOTAL,1
+La Paz,20105,El Alto,2016,4,TOTAL,5
+La Paz,21105,La Asunta,2016,4,TOTAL,1
+Santa Cruz,70104,La Guardia,2016,4,TOTAL,1
+La Paz,20101,La Paz,2016,4,TOTAL,9
+Beni,80801,Magdalena,2016,4,TOTAL,15
+Oruro,40101,Oruro,2016,4,TOTAL,1
+Beni,80201,Riberalta,2016,4,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2016,4,TOTAL,1
+Santa Cruz,71104,San Julian,2016,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,4,TOTAL,8
+Chuquisaca,10101,Sucre,2016,4,TOTAL,3
+Tarija,60101,Tarija,2016,4,TOTAL,2
+La Paz,20608,Teoponte,2016,4,TOTAL,4
+Cochabamba,30903,Tiquipaya,2016,4,TOTAL,1
+Cochabamba,31003,Villa Tunari,2016,4,TOTAL,1
+Tarija,60301,Yacuiba,2016,4,TOTAL,1
+Tarija,60202,Bermejo,2016,5,TOTAL,1
+Santa Cruz,70707,Boyuibe,2016,5,TOTAL,1
+Cochabamba,31204,Chimore,2016,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,5,TOTAL,2
+Santa Cruz,71301,Comarapa,2016,5,TOTAL,1
+La Paz,20301,Coro Coro,2016,5,TOTAL,1
+La Paz,20105,El Alto,2016,5,TOTAL,10
+Santa Cruz,71503,El Puente(stc),2016,5,TOTAL,5
+Santa Cruz,70105,El Torno,2016,5,TOTAL,1
+Oruro,41101,Eucaliptus,2016,5,TOTAL,1
+La Paz,20101,La Paz,2016,5,TOTAL,5
+Santa Cruz,70902,Pampa Grande,2016,5,TOTAL,1
+La Paz,21305,Patacamaya,2016,5,TOTAL,1
+Beni,80201,Riberalta,2016,5,TOTAL,1
+Santa Cruz,70503,Robore,2016,5,TOTAL,1
+La Paz,21502,San Buena Ventura,2016,5,TOTAL,1
+Beni,80501,San Ignacio,2016,5,TOTAL,2
+Chuquisaca,10702,San Lucas,2016,5,TOTAL,2
+Beni,80401,Santa Ana,2016,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,5,TOTAL,11
+Chuquisaca,10101,Sucre,2016,5,TOTAL,1
+Tarija,60101,Tarija,2016,5,TOTAL,2
+Cochabamba,31003,Villa Tunari,2016,5,TOTAL,1
+La Paz,21103,Yanacachi,2016,5,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,6,TOTAL,1
+Cochabamba,30801,Cliza,2016,6,TOTAL,1
+Pando,90101,Cobija,2016,6,TOTAL,91
+Cochabamba,30101,Cochabamba,2016,6,TOTAL,1
+La Paz,21004,Colquiri,2016,6,TOTAL,1
+La Paz,21401,Coroico,2016,6,TOTAL,1
+La Paz,20105,El Alto,2016,6,TOTAL,6
+La Paz,21102,Irupana (villa De Lanza),2016,6,TOTAL,1
+La Paz,20101,La Paz,2016,6,TOTAL,2
+Santa Cruz,70903,Mairana,2016,6,TOTAL,1
+Cochabamba,31301,Mizque,2016,6,TOTAL,1
+Oruro,40101,Oruro,2016,6,TOTAL,2
+La Paz,21305,Patacamaya,2016,6,TOTAL,1
+Beni,80201,Riberalta,2016,6,TOTAL,2
+Beni,80304,Rurrenabaque,2016,6,TOTAL,1
+Cochabamba,31001,Sacaba,2016,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,6,TOTAL,11
+Chuquisaca,10101,Sucre,2016,6,TOTAL,1
+Tarija,60101,Tarija,2016,6,TOTAL,2
+Cochabamba,31003,Villa Tunari,2016,6,TOTAL,1
+Chuquisaca,10602,Yamparaez,2016,6,TOTAL,1
+Cochabamba,30201,Aiquile,2016,7,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2016,7,TOTAL,1
+Tarija,60202,Bermejo,2016,7,TOTAL,1
+La Paz,20501,Chuma,2016,7,TOTAL,1
+Cochabamba,30801,Cliza,2016,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,7,TOTAL,4
+La Paz,20105,El Alto,2016,7,TOTAL,8
+Santa Cruz,71004,Fernandez Alonso,2016,7,TOTAL,1
+Oruro,40501,Huachacalla,2016,7,TOTAL,1
+La Paz,20101,La Paz,2016,7,TOTAL,9
+Santa Cruz,71001,Montero,2016,7,TOTAL,1
+Chuquisaca,10401,Padilla,2016,7,TOTAL,1
+Chuquisaca,10103,Poroma,2016,7,TOTAL,1
+Beni,80201,Riberalta,2016,7,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2016,7,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,7,TOTAL,10
+Cochabamba,31602,Shinaota,2016,7,TOTAL,1
+Chuquisaca,10101,Sucre,2016,7,TOTAL,1
+Tarija,60101,Tarija,2016,7,TOTAL,1
+Cochabamba,31003,Villa Tunari,2016,7,TOTAL,2
+La Paz,20202,Ancoraimes,2016,8,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,8,TOTAL,1
+Potosí,50301,Betanzos,2016,8,TOTAL,1
+Chuquisaca,10701,Camargo,2016,8,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,8,TOTAL,3
+La Paz,20105,El Alto,2016,8,TOTAL,3
+Tarija,60601,Entre Rios Trj,2016,8,TOTAL,1
+La Paz,20101,La Paz,2016,8,TOTAL,5
+La Paz,20607,Mapiri,2016,8,TOTAL,1
+Chuquisaca,10302,Presto,2016,8,TOTAL,1
+Santa Cruz,70402,San Carlos,2016,8,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2016,8,TOTAL,1
+Santa Cruz,71104,San Julian,2016,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,8,TOTAL,8
+Chuquisaca,10101,Sucre,2016,8,TOTAL,6
+Tarija,60101,Tarija,2016,8,TOTAL,1
+Potosí,51201,Uyuni,2016,8,TOTAL,1
+Cochabamba,31003,Villa Tunari,2016,8,TOTAL,1
+Cochabamba,30201,Aiquile,2016,9,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,9,TOTAL,3
+Tarija,60202,Bermejo,2016,9,TOTAL,1
+Santa Cruz,70703,Cabezas,2016,9,TOTAL,1
+Santa Cruz,70706,Camiri,2016,9,TOTAL,1
+La Paz,22001,Caranavi,2016,9,TOTAL,1
+Potosí,51103,Ckochas,2016,9,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,9,TOTAL,2
+Chuquisaca,10902,Culpina,2016,9,TOTAL,1
+La Paz,20105,El Alto,2016,9,TOTAL,2
+Santa Cruz,70104,La Guardia,2016,9,TOTAL,1
+La Paz,20101,La Paz,2016,9,TOTAL,6
+Santa Cruz,70903,Mairana,2016,9,TOTAL,1
+Potosí,50101,Potosi,2016,9,TOTAL,1
+Beni,80201,Riberalta,2016,9,TOTAL,3
+Oruro,40801,Salinas De Garci Mendoza,2016,9,TOTAL,2
+Santa Cruz,70301,San Ignacio De Velasco,2016,9,TOTAL,2
+Santa Cruz,71102,San Javier(stc),2016,9,TOTAL,1
+Santa Cruz,71104,San Julian,2016,9,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,9,TOTAL,21
+Chuquisaca,10101,Sucre,2016,9,TOTAL,2
+Tarija,60101,Tarija,2016,9,TOTAL,2
+Santa Cruz,70801,Vallegrande,2016,9,TOTAL,1
+Cochabamba,31402,Villa Rivero,2016,9,TOTAL,1
+Cochabamba,31003,Villa Tunari,2016,9,TOTAL,1
+La Paz,20201,Achacachi,2016,10,TOTAL,2
+Cochabamba,30501,Arani,2016,10,TOTAL,1
+Santa Cruz,71501,Ascencion De Guarayos,2016,10,TOTAL,1
+Pando,90101,Cobija,2016,10,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,10,TOTAL,2
+La Paz,20105,El Alto,2016,10,TOTAL,49
+Tarija,60502,El Puente(tja),2016,10,TOTAL,1
+La Paz,20101,La Paz,2016,10,TOTAL,7
+La Paz,21202,Laja,2016,10,TOTAL,1
+Chuquisaca,11003,Machareti,2016,10,TOTAL,1
+Potosí,50101,Potosi,2016,10,TOTAL,1
+Cochabamba,31001,Sacaba,2016,10,TOTAL,1
+Beni,80302,San Borja,2016,10,TOTAL,1
+Santa Cruz,70402,San Carlos,2016,10,TOTAL,1
+Beni,80501,San Ignacio,2016,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,10,TOTAL,19
+Tarija,60101,Tarija,2016,10,TOTAL,2
+Potosí,51201,Uyuni,2016,10,TOTAL,1
+Santa Cruz,70801,Vallegrande,2016,10,TOTAL,1
+Cochabamba,31003,Villa Tunari,2016,10,TOTAL,3
+Tarija,60301,Yacuiba,2016,10,TOTAL,1
+Potosí,50301,Betanzos,2016,11,TOTAL,1
+Santa Cruz,71403,Carmen Rivero Torrez,2016,11,TOTAL,1
+Oruro,40201,Challapata,2016,11,TOTAL,3
+Pando,90101,Cobija,2016,11,TOTAL,1
+Cochabamba,30101,Cochabamba,2016,11,TOTAL,1
+Santa Cruz,71301,Comarapa,2016,11,TOTAL,2
+La Paz,20105,El Alto,2016,11,TOTAL,6
+Chuquisaca,11002,Huacaya (villa De Huacaya),2016,11,TOTAL,1
+Santa Cruz,70104,La Guardia,2016,11,TOTAL,2
+La Paz,20101,La Paz,2016,11,TOTAL,6
+Potosí,50203,Llallagua,2016,11,TOTAL,1
+Santa Cruz,70903,Mairana,2016,11,TOTAL,1
+La Paz,21802,Papel Pampa,2016,11,TOTAL,1
+Potosí,50101,Potosi,2016,11,TOTAL,3
+Beni,80201,Riberalta,2016,11,TOTAL,2
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,11,TOTAL,9
+Tarija,60101,Tarija,2016,11,TOTAL,3
+Cochabamba,31003,Villa Tunari,2016,11,TOTAL,1
+La Paz,20104,Achocalla,2016,12,TOTAL,1
+Tarija,60202,Bermejo,2016,12,TOTAL,2
+Cochabamba,30101,Cochabamba,2016,12,TOTAL,1
+La Paz,20105,El Alto,2016,12,TOTAL,3
+Cochabamba,31206,Entre Rios Cbba,2016,12,TOTAL,10
+La Paz,20101,La Paz,2016,12,TOTAL,8
+Potosí,50203,Llallagua,2016,12,TOTAL,2
+Santa Cruz,71001,Montero,2016,12,TOTAL,1
+Oruro,40101,Oruro,2016,12,TOTAL,1
+Potosí,50101,Potosi,2016,12,TOTAL,2
+Santa Cruz,70805,Pucara,2016,12,TOTAL,1
+Cochabamba,31205,Puerto Villarroel,2016,12,TOTAL,100
+Beni,80201,Riberalta,2016,12,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2016,12,TOTAL,13
+La Paz,21301,Sica Sica (villa Aroma),2016,12,TOTAL,1
+Chuquisaca,10601,Tarabuco,2016,12,TOTAL,1
+Tarija,60101,Tarija,2016,12,TOTAL,3
+Potosí,50102,Tinguipaya,2016,12,TOTAL,1
+Cochabamba,31003,Villa Tunari,2016,12,TOTAL,2

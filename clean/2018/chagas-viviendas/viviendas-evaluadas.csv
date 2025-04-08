@@ -1,0 +1,1615 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,51302,Acacio,2018,1,Viviendas Evaluadas,232
+Cochabamba,30201,Aiquile,2018,1,Viviendas Evaluadas,307
+Cochabamba,30402,Anzaldo,2018,1,Viviendas Evaluadas,376
+Cochabamba,30403,Arbieto,2018,1,Viviendas Evaluadas,246
+Potosí,50301,Betanzos,2018,1,Viviendas Evaluadas,142
+Cochabamba,30701,Capinota,2018,1,Viviendas Evaluadas,531
+Potosí,51103,Ckochas,2018,1,Viviendas Evaluadas,215
+Cochabamba,30801,Cliza,2018,1,Viviendas Evaluadas,283
+Cochabamba,30101,Cochabamba,2018,1,Viviendas Evaluadas,8
+Cochabamba,30905,Colcapirhua,2018,1,Viviendas Evaluadas,154
+Potosí,50401,Colquechaca,2018,1,Viviendas Evaluadas,223
+Potosí,50601,Cotagaita,2018,1,Viviendas Evaluadas,134
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,1,Viviendas Evaluadas,165
+Santa Cruz,70105,El Torno,2018,1,Viviendas Evaluadas,16
+Chuquisaca,10502,Huacareta,2018,1,Viviendas Evaluadas,486
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,1,Viviendas Evaluadas,90
+Chuquisaca,10304,Icla,2018,1,Viviendas Evaluadas,219
+Santa Cruz,70701,Lagunillas,2018,1,Viviendas Evaluadas,15
+Cochabamba,31301,Mizque,2018,1,Viviendas Evaluadas,313
+Cochabamba,30203,Omereque,2018,1,Viviendas Evaluadas,47
+Santa Cruz,70902,Pampa Grande,2018,1,Viviendas Evaluadas,55
+Cochabamba,31202,Pojo (cbba),2018,1,Viviendas Evaluadas,186
+Cochabamba,31401,Punata,2018,1,Viviendas Evaluadas,120
+Cochabamba,30901,Quillacollo,2018,1,Viviendas Evaluadas,676
+Cochabamba,31403,San Benito,2018,1,Viviendas Evaluadas,123
+Cochabamba,30702,Santivañes,2018,1,Viviendas Evaluadas,252
+Cochabamba,30902,Sipe Sipe,2018,1,Viviendas Evaluadas,344
+Cochabamba,31404,Tacachi,2018,1,Viviendas Evaluadas,127
+Cochabamba,31101,Tapacari,2018,1,Viviendas Evaluadas,114
+Cochabamba,30802,Toco,2018,1,Viviendas Evaluadas,300
+Potosí,51202,Tomave,2018,1,Viviendas Evaluadas,141
+Cochabamba,31402,Villa Rivero,2018,1,Viviendas Evaluadas,152
+Cochabamba,30904,Vinto,2018,1,Viviendas Evaluadas,367
+Potosí,50602,Vitichi,2018,1,Viviendas Evaluadas,235
+Cochabamba,30201,Aiquile,2018,2,Viviendas Evaluadas,770
+Cochabamba,30402,Anzaldo,2018,2,Viviendas Evaluadas,218
+Potosí,51301,Arampampa,2018,2,Viviendas Evaluadas,33
+Cochabamba,30403,Arbieto,2018,2,Viviendas Evaluadas,240
+Cochabamba,30601,Arque,2018,2,Viviendas Evaluadas,101
+Potosí,51102,"Caiza ""d""",2018,2,Viviendas Evaluadas,206
+Cochabamba,30701,Capinota,2018,2,Viviendas Evaluadas,549
+Potosí,51103,Ckochas,2018,2,Viviendas Evaluadas,285
+Cochabamba,30801,Cliza,2018,2,Viviendas Evaluadas,108
+Cochabamba,30101,Cochabamba,2018,2,Viviendas Evaluadas,190
+Cochabamba,30905,Colcapirhua,2018,2,Viviendas Evaluadas,126
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,2,Viviendas Evaluadas,110
+Chuquisaca,10902,Culpina,2018,2,Viviendas Evaluadas,265
+Tarija,60502,El Puente(tja),2018,2,Viviendas Evaluadas,115
+Chuquisaca,10304,Icla,2018,2,Viviendas Evaluadas,1
+Santa Cruz,70701,Lagunillas,2018,2,Viviendas Evaluadas,10
+Cochabamba,31301,Mizque,2018,2,Viviendas Evaluadas,311
+Cochabamba,31203,Pocona,2018,2,Viviendas Evaluadas,48
+Cochabamba,31401,Punata,2018,2,Viviendas Evaluadas,70
+Cochabamba,31403,San Benito,2018,2,Viviendas Evaluadas,176
+Santa Cruz,71104,San Julian,2018,2,Viviendas Evaluadas,1
+Tarija,60501,San Lorenzo(tja),2018,2,Viviendas Evaluadas,28
+Cochabamba,30703,Sicaya,2018,2,Viviendas Evaluadas,114
+Cochabamba,30902,Sipe Sipe,2018,2,Viviendas Evaluadas,376
+Cochabamba,31404,Tacachi,2018,2,Viviendas Evaluadas,40
+Cochabamba,31101,Tapacari,2018,2,Viviendas Evaluadas,30
+Cochabamba,30802,Toco,2018,2,Viviendas Evaluadas,99
+Cochabamba,30803,Tolata,2018,2,Viviendas Evaluadas,15
+Potosí,51202,Tomave,2018,2,Viviendas Evaluadas,123
+Potosí,50502,Toro Toro,2018,2,Viviendas Evaluadas,198
+Cochabamba,31201,Totora(cbba),2018,2,Viviendas Evaluadas,25
+Potosí,50801,Tupiza,2018,2,Viviendas Evaluadas,154
+Tarija,60401,Uriondo (a. Concepcion),2018,2,Viviendas Evaluadas,83
+Santa Cruz,70801,Vallegrande,2018,2,Viviendas Evaluadas,220
+Cochabamba,31402,Villa Rivero,2018,2,Viviendas Evaluadas,148
+Cochabamba,30904,Vinto,2018,2,Viviendas Evaluadas,169
+Chuquisaca,10102,Yotala,2018,2,Viviendas Evaluadas,374
+Chuquisaca,10301,Zudañez,2018,2,Viviendas Evaluadas,169
+Potosí,51302,Acacio,2018,3,Viviendas Evaluadas,80
+Cochabamba,30201,Aiquile,2018,3,Viviendas Evaluadas,603
+Cochabamba,30402,Anzaldo,2018,3,Viviendas Evaluadas,406
+Potosí,51301,Arampampa,2018,3,Viviendas Evaluadas,198
+Cochabamba,30501,Arani,2018,3,Viviendas Evaluadas,275
+Cochabamba,30403,Arbieto,2018,3,Viviendas Evaluadas,281
+Cochabamba,30601,Arque,2018,3,Viviendas Evaluadas,44
+Potosí,51102,"Caiza ""d""",2018,3,Viviendas Evaluadas,255
+Cochabamba,30701,Capinota,2018,3,Viviendas Evaluadas,1250
+Potosí,51103,Ckochas,2018,3,Viviendas Evaluadas,331
+Cochabamba,30801,Cliza,2018,3,Viviendas Evaluadas,266
+Cochabamba,30101,Cochabamba,2018,3,Viviendas Evaluadas,371
+Cochabamba,30905,Colcapirhua,2018,3,Viviendas Evaluadas,24
+Potosí,50401,Colquechaca,2018,3,Viviendas Evaluadas,208
+Santa Cruz,71301,Comarapa,2018,3,Viviendas Evaluadas,121
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,3,Viviendas Evaluadas,171
+Tarija,60502,El Puente(tja),2018,3,Viviendas Evaluadas,94
+Santa Cruz,70105,El Torno,2018,3,Viviendas Evaluadas,6
+Santa Cruz,70701,Lagunillas,2018,3,Viviendas Evaluadas,158
+Chuquisaca,10903,Las Carreras,2018,3,Viviendas Evaluadas,363
+Cochabamba,31301,Mizque,2018,3,Viviendas Evaluadas,207
+Cochabamba,30203,Omereque,2018,3,Viviendas Evaluadas,70
+Tarija,60201,Padcaya,2018,3,Viviendas Evaluadas,91
+Cochabamba,30202,Pasorapa,2018,3,Viviendas Evaluadas,161
+Cochabamba,31203,Pocona,2018,3,Viviendas Evaluadas,132
+Cochabamba,31202,Pojo (cbba),2018,3,Viviendas Evaluadas,120
+Santa Cruz,70804,Postrer Valle,2018,3,Viviendas Evaluadas,325
+Chuquisaca,10302,Presto,2018,3,Viviendas Evaluadas,611
+Cochabamba,31401,Punata,2018,3,Viviendas Evaluadas,145
+Potosí,50402,Ravelo,2018,3,Viviendas Evaluadas,192
+Cochabamba,31001,Sacaba,2018,3,Viviendas Evaluadas,631
+Cochabamba,30404,Sacabamba,2018,3,Viviendas Evaluadas,122
+Cochabamba,31403,San Benito,2018,3,Viviendas Evaluadas,182
+Tarija,60501,San Lorenzo(tja),2018,3,Viviendas Evaluadas,148
+Chuquisaca,10702,San Lucas,2018,3,Viviendas Evaluadas,1
+Cochabamba,30702,Santivañes,2018,3,Viviendas Evaluadas,213
+La Paz,20902,Sapahaqui,2018,3,Viviendas Evaluadas,393
+Cochabamba,30703,Sicaya,2018,3,Viviendas Evaluadas,109
+Cochabamba,30902,Sipe Sipe,2018,3,Viviendas Evaluadas,221
+Cochabamba,31404,Tacachi,2018,3,Viviendas Evaluadas,112
+Cochabamba,30602,Tacopaya,2018,3,Viviendas Evaluadas,317
+Cochabamba,31101,Tapacari,2018,3,Viviendas Evaluadas,19
+Cochabamba,30401,Tarata,2018,3,Viviendas Evaluadas,315
+Tarija,60101,Tarija,2018,3,Viviendas Evaluadas,177
+Cochabamba,30802,Toco,2018,3,Viviendas Evaluadas,198
+Cochabamba,30803,Tolata,2018,3,Viviendas Evaluadas,111
+Potosí,51202,Tomave,2018,3,Viviendas Evaluadas,276
+Chuquisaca,10402,Tomina,2018,3,Viviendas Evaluadas,50
+Potosí,50502,Toro Toro,2018,3,Viviendas Evaluadas,238
+Cochabamba,31201,Totora(cbba),2018,3,Viviendas Evaluadas,44
+Potosí,50801,Tupiza,2018,3,Viviendas Evaluadas,702
+Tarija,60401,Uriondo (a. Concepcion),2018,3,Viviendas Evaluadas,63
+Santa Cruz,70801,Vallegrande,2018,3,Viviendas Evaluadas,270
+Tarija,60303,Villa Montes,2018,3,Viviendas Evaluadas,191
+Cochabamba,31402,Villa Rivero,2018,3,Viviendas Evaluadas,168
+Cochabamba,30904,Vinto,2018,3,Viviendas Evaluadas,217
+Potosí,50602,Vitichi,2018,3,Viviendas Evaluadas,170
+Chuquisaca,10102,Yotala,2018,3,Viviendas Evaluadas,357
+Chuquisaca,10301,Zudañez,2018,3,Viviendas Evaluadas,563
+Potosí,51302,Acacio,2018,4,Viviendas Evaluadas,375
+Cochabamba,30201,Aiquile,2018,4,Viviendas Evaluadas,817
+Cochabamba,30402,Anzaldo,2018,4,Viviendas Evaluadas,26
+Potosí,51301,Arampampa,2018,4,Viviendas Evaluadas,179
+Cochabamba,30501,Arani,2018,4,Viviendas Evaluadas,148
+Cochabamba,30403,Arbieto,2018,4,Viviendas Evaluadas,114
+Cochabamba,30601,Arque,2018,4,Viviendas Evaluadas,236
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,4,Viviendas Evaluadas,327
+Potosí,50301,Betanzos,2018,4,Viviendas Evaluadas,90
+Potosí,51102,"Caiza ""d""",2018,4,Viviendas Evaluadas,231
+Chuquisaca,10701,Camargo,2018,4,Viviendas Evaluadas,450
+Cochabamba,30701,Capinota,2018,4,Viviendas Evaluadas,689
+Potosí,51103,Ckochas,2018,4,Viviendas Evaluadas,453
+Cochabamba,30801,Cliza,2018,4,Viviendas Evaluadas,223
+Cochabamba,30303,Cocapata,2018,4,Viviendas Evaluadas,316
+Cochabamba,30101,Cochabamba,2018,4,Viviendas Evaluadas,481
+Cochabamba,30905,Colcapirhua,2018,4,Viviendas Evaluadas,168
+Potosí,50601,Cotagaita,2018,4,Viviendas Evaluadas,352
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,4,Viviendas Evaluadas,137
+Santa Cruz,70704,Cuevo,2018,4,Viviendas Evaluadas,55
+Chuquisaca,10902,Culpina,2018,4,Viviendas Evaluadas,354
+Tarija,60502,El Puente(tja),2018,4,Viviendas Evaluadas,125
+Santa Cruz,70705,Gutierrez,2018,4,Viviendas Evaluadas,184
+Santa Cruz,70701,Lagunillas,2018,4,Viviendas Evaluadas,396
+Chuquisaca,10903,Las Carreras,2018,4,Viviendas Evaluadas,154
+La Paz,20901,Luribay,2018,4,Viviendas Evaluadas,359
+Cochabamba,31301,Mizque,2018,4,Viviendas Evaluadas,756
+Chuquisaca,10303,Mojocoya,2018,4,Viviendas Evaluadas,42
+Chuquisaca,10501,Monteagudo,2018,4,Viviendas Evaluadas,67
+Cochabamba,30302,Morochata,2018,4,Viviendas Evaluadas,151
+Potosí,50404,Ocuri,2018,4,Viviendas Evaluadas,79
+Cochabamba,30203,Omereque,2018,4,Viviendas Evaluadas,159
+Tarija,60201,Padcaya,2018,4,Viviendas Evaluadas,37
+Cochabamba,31203,Pocona,2018,4,Viviendas Evaluadas,154
+Cochabamba,31202,Pojo (cbba),2018,4,Viviendas Evaluadas,22
+Chuquisaca,10103,Poroma,2018,4,Viviendas Evaluadas,227
+Santa Cruz,70804,Postrer Valle,2018,4,Viviendas Evaluadas,20
+Chuquisaca,10302,Presto,2018,4,Viviendas Evaluadas,80
+Potosí,51101,Puna,2018,4,Viviendas Evaluadas,179
+Cochabamba,31401,Punata,2018,4,Viviendas Evaluadas,274
+Cochabamba,30901,Quillacollo,2018,4,Viviendas Evaluadas,1103
+Santa Cruz,70904,Quirusillas,2018,4,Viviendas Evaluadas,14
+Potosí,50402,Ravelo,2018,4,Viviendas Evaluadas,169
+Cochabamba,31001,Sacaba,2018,4,Viviendas Evaluadas,690
+Cochabamba,31403,San Benito,2018,4,Viviendas Evaluadas,131
+Tarija,60501,San Lorenzo(tja),2018,4,Viviendas Evaluadas,110
+Chuquisaca,10702,San Lucas,2018,4,Viviendas Evaluadas,2
+Potosí,50501,San Pedro De Buena Vista,2018,4,Viviendas Evaluadas,606
+Cochabamba,30702,Santivañes,2018,4,Viviendas Evaluadas,236
+La Paz,20902,Sapahaqui,2018,4,Viviendas Evaluadas,506
+Cochabamba,30703,Sicaya,2018,4,Viviendas Evaluadas,87
+Cochabamba,30902,Sipe Sipe,2018,4,Viviendas Evaluadas,412
+Chuquisaca,10403,Sopachuy,2018,4,Viviendas Evaluadas,24
+Chuquisaca,10101,Sucre,2018,4,Viviendas Evaluadas,332
+Cochabamba,31404,Tacachi,2018,4,Viviendas Evaluadas,112
+Cochabamba,30602,Tacopaya,2018,4,Viviendas Evaluadas,553
+Cochabamba,31101,Tapacari,2018,4,Viviendas Evaluadas,180
+Cochabamba,30401,Tarata,2018,4,Viviendas Evaluadas,285
+Tarija,60101,Tarija,2018,4,Viviendas Evaluadas,331
+Cochabamba,30903,Tiquipaya,2018,4,Viviendas Evaluadas,279
+Cochabamba,30802,Toco,2018,4,Viviendas Evaluadas,259
+Cochabamba,30803,Tolata,2018,4,Viviendas Evaluadas,98
+Potosí,51202,Tomave,2018,4,Viviendas Evaluadas,255
+Potosí,50502,Toro Toro,2018,4,Viviendas Evaluadas,246
+Cochabamba,31201,Totora(cbba),2018,4,Viviendas Evaluadas,177
+Potosí,50801,Tupiza,2018,4,Viviendas Evaluadas,703
+Tarija,60401,Uriondo (a. Concepcion),2018,4,Viviendas Evaluadas,209
+Santa Cruz,70801,Vallegrande,2018,4,Viviendas Evaluadas,269
+Cochabamba,31302,Vila Vila,2018,4,Viviendas Evaluadas,83
+Tarija,60303,Villa Montes,2018,4,Viviendas Evaluadas,291
+Cochabamba,31402,Villa Rivero,2018,4,Viviendas Evaluadas,124
+Cochabamba,30904,Vinto,2018,4,Viviendas Evaluadas,211
+Potosí,50602,Vitichi,2018,4,Viviendas Evaluadas,325
+Chuquisaca,10102,Yotala,2018,4,Viviendas Evaluadas,281
+Tarija,60402,Yunchara,2018,4,Viviendas Evaluadas,123
+Chuquisaca,10301,Zudañez,2018,4,Viviendas Evaluadas,901
+Potosí,51302,Acacio,2018,5,Viviendas Evaluadas,300
+Cochabamba,30201,Aiquile,2018,5,Viviendas Evaluadas,976
+Chuquisaca,10404,Alcala,2018,5,Viviendas Evaluadas,281
+Cochabamba,30402,Anzaldo,2018,5,Viviendas Evaluadas,96
+Cochabamba,30501,Arani,2018,5,Viviendas Evaluadas,114
+Cochabamba,30403,Arbieto,2018,5,Viviendas Evaluadas,283
+Cochabamba,30601,Arque,2018,5,Viviendas Evaluadas,302
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,5,Viviendas Evaluadas,1078
+Chuquisaca,10201,Azurduy,2018,5,Viviendas Evaluadas,102
+Potosí,50301,Betanzos,2018,5,Viviendas Evaluadas,465
+Santa Cruz,70707,Boyuibe,2018,5,Viviendas Evaluadas,3
+Potosí,51102,"Caiza ""d""",2018,5,Viviendas Evaluadas,382
+Cochabamba,30701,Capinota,2018,5,Viviendas Evaluadas,681
+Potosí,51103,Ckochas,2018,5,Viviendas Evaluadas,46
+Cochabamba,30801,Cliza,2018,5,Viviendas Evaluadas,187
+Cochabamba,30101,Cochabamba,2018,5,Viviendas Evaluadas,428
+Cochabamba,30905,Colcapirhua,2018,5,Viviendas Evaluadas,294
+Potosí,50601,Cotagaita,2018,5,Viviendas Evaluadas,231
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,5,Viviendas Evaluadas,180
+Chuquisaca,10902,Culpina,2018,5,Viviendas Evaluadas,162
+Tarija,60502,El Puente(tja),2018,5,Viviendas Evaluadas,76
+Santa Cruz,70105,El Torno,2018,5,Viviendas Evaluadas,17
+Tarija,60601,Entre Rios Trj,2018,5,Viviendas Evaluadas,268
+Santa Cruz,70705,Gutierrez,2018,5,Viviendas Evaluadas,417
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,5,Viviendas Evaluadas,68
+Chuquisaca,10304,Icla,2018,5,Viviendas Evaluadas,164
+Santa Cruz,70701,Lagunillas,2018,5,Viviendas Evaluadas,326
+Chuquisaca,10903,Las Carreras,2018,5,Viviendas Evaluadas,113
+La Paz,20901,Luribay,2018,5,Viviendas Evaluadas,475
+Santa Cruz,70903,Mairana,2018,5,Viviendas Evaluadas,34
+Cochabamba,31301,Mizque,2018,5,Viviendas Evaluadas,1313
+Cochabamba,30302,Morochata,2018,5,Viviendas Evaluadas,292
+Cochabamba,30203,Omereque,2018,5,Viviendas Evaluadas,60
+Tarija,60201,Padcaya,2018,5,Viviendas Evaluadas,38
+Chuquisaca,10401,Padilla,2018,5,Viviendas Evaluadas,170
+Santa Cruz,70902,Pampa Grande,2018,5,Viviendas Evaluadas,56
+Potosí,50403,Pocoata,2018,5,Viviendas Evaluadas,389
+Cochabamba,31203,Pocona,2018,5,Viviendas Evaluadas,57
+Cochabamba,31202,Pojo (cbba),2018,5,Viviendas Evaluadas,209
+Santa Cruz,70805,Pucara,2018,5,Viviendas Evaluadas,25
+Potosí,51101,Puna,2018,5,Viviendas Evaluadas,370
+Cochabamba,31401,Punata,2018,5,Viviendas Evaluadas,210
+Cochabamba,30901,Quillacollo,2018,5,Viviendas Evaluadas,1104
+Cochabamba,31001,Sacaba,2018,5,Viviendas Evaluadas,678
+Cochabamba,30404,Sacabamba,2018,5,Viviendas Evaluadas,482
+Santa Cruz,70901,Samaipata,2018,5,Viviendas Evaluadas,28
+Cochabamba,31403,San Benito,2018,5,Viviendas Evaluadas,163
+Tarija,60501,San Lorenzo(tja),2018,5,Viviendas Evaluadas,57
+Chuquisaca,10702,San Lucas,2018,5,Viviendas Evaluadas,482
+Potosí,50501,San Pedro De Buena Vista,2018,5,Viviendas Evaluadas,709
+Cochabamba,30702,Santivañes,2018,5,Viviendas Evaluadas,415
+Cochabamba,30703,Sicaya,2018,5,Viviendas Evaluadas,25
+Cochabamba,30902,Sipe Sipe,2018,5,Viviendas Evaluadas,68
+Chuquisaca,10403,Sopachuy,2018,5,Viviendas Evaluadas,190
+Chuquisaca,10101,Sucre,2018,5,Viviendas Evaluadas,96
+Cochabamba,31404,Tacachi,2018,5,Viviendas Evaluadas,136
+Cochabamba,30602,Tacopaya,2018,5,Viviendas Evaluadas,384
+Cochabamba,31101,Tapacari,2018,5,Viviendas Evaluadas,234
+Cochabamba,30401,Tarata,2018,5,Viviendas Evaluadas,293
+Tarija,60101,Tarija,2018,5,Viviendas Evaluadas,393
+Cochabamba,30903,Tiquipaya,2018,5,Viviendas Evaluadas,310
+Cochabamba,30802,Toco,2018,5,Viviendas Evaluadas,252
+Cochabamba,30803,Tolata,2018,5,Viviendas Evaluadas,85
+Potosí,51202,Tomave,2018,5,Viviendas Evaluadas,265
+Potosí,50502,Toro Toro,2018,5,Viviendas Evaluadas,212
+Cochabamba,31201,Totora(cbba),2018,5,Viviendas Evaluadas,62
+Potosí,50801,Tupiza,2018,5,Viviendas Evaluadas,103
+Tarija,60401,Uriondo (a. Concepcion),2018,5,Viviendas Evaluadas,290
+Santa Cruz,70801,Vallegrande,2018,5,Viviendas Evaluadas,324
+Cochabamba,31302,Vila Vila,2018,5,Viviendas Evaluadas,52
+Tarija,60303,Villa Montes,2018,5,Viviendas Evaluadas,380
+Cochabamba,31402,Villa Rivero,2018,5,Viviendas Evaluadas,145
+Chuquisaca,10801,Villa Serrano,2018,5,Viviendas Evaluadas,208
+Potosí,51501,Villazon,2018,5,Viviendas Evaluadas,153
+Cochabamba,30904,Vinto,2018,5,Viviendas Evaluadas,232
+Potosí,50602,Vitichi,2018,5,Viviendas Evaluadas,396
+Tarija,60301,Yacuiba,2018,5,Viviendas Evaluadas,932
+Chuquisaca,10102,Yotala,2018,5,Viviendas Evaluadas,104
+Tarija,60402,Yunchara,2018,5,Viviendas Evaluadas,106
+Chuquisaca,10301,Zudañez,2018,5,Viviendas Evaluadas,100
+Potosí,51302,Acacio,2018,6,Viviendas Evaluadas,404
+Cochabamba,30201,Aiquile,2018,6,Viviendas Evaluadas,1481
+Chuquisaca,10404,Alcala,2018,6,Viviendas Evaluadas,1260
+Cochabamba,30402,Anzaldo,2018,6,Viviendas Evaluadas,99
+Potosí,51301,Arampampa,2018,6,Viviendas Evaluadas,292
+Cochabamba,30501,Arani,2018,6,Viviendas Evaluadas,547
+Cochabamba,30403,Arbieto,2018,6,Viviendas Evaluadas,239
+Cochabamba,30601,Arque,2018,6,Viviendas Evaluadas,348
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,6,Viviendas Evaluadas,576
+Potosí,50301,Betanzos,2018,6,Viviendas Evaluadas,584
+Santa Cruz,70707,Boyuibe,2018,6,Viviendas Evaluadas,7
+Potosí,51102,"Caiza ""d""",2018,6,Viviendas Evaluadas,315
+La Paz,21003,Cajuata,2018,6,Viviendas Evaluadas,898
+Cochabamba,30701,Capinota,2018,6,Viviendas Evaluadas,252
+Tarija,60302,Carapari,2018,6,Viviendas Evaluadas,146
+Potosí,51103,Ckochas,2018,6,Viviendas Evaluadas,172
+Cochabamba,30801,Cliza,2018,6,Viviendas Evaluadas,245
+Cochabamba,30101,Cochabamba,2018,6,Viviendas Evaluadas,326
+Potosí,50401,Colquechaca,2018,6,Viviendas Evaluadas,170
+Santa Cruz,71301,Comarapa,2018,6,Viviendas Evaluadas,330
+Potosí,50601,Cotagaita,2018,6,Viviendas Evaluadas,671
+Santa Cruz,71106,Cuatro Cañadas,2018,6,Viviendas Evaluadas,106
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,6,Viviendas Evaluadas,181
+Chuquisaca,10902,Culpina,2018,6,Viviendas Evaluadas,89
+Tarija,60502,El Puente(tja),2018,6,Viviendas Evaluadas,204
+Santa Cruz,70105,El Torno,2018,6,Viviendas Evaluadas,15
+Chuquisaca,10405,El Villar,2018,6,Viviendas Evaluadas,1177
+Santa Cruz,70705,Gutierrez,2018,6,Viviendas Evaluadas,272
+Chuquisaca,10502,Huacareta,2018,6,Viviendas Evaluadas,436
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,6,Viviendas Evaluadas,54
+Santa Cruz,70701,Lagunillas,2018,6,Viviendas Evaluadas,456
+La Paz,20901,Luribay,2018,6,Viviendas Evaluadas,342
+Santa Cruz,70903,Mairana,2018,6,Viviendas Evaluadas,13
+Cochabamba,30302,Morochata,2018,6,Viviendas Evaluadas,477
+Cochabamba,30203,Omereque,2018,6,Viviendas Evaluadas,152
+Tarija,60201,Padcaya,2018,6,Viviendas Evaluadas,142
+Chuquisaca,10401,Padilla,2018,6,Viviendas Evaluadas,307
+Cochabamba,30202,Pasorapa,2018,6,Viviendas Evaluadas,135
+Potosí,50403,Pocoata,2018,6,Viviendas Evaluadas,385
+Cochabamba,31202,Pojo (cbba),2018,6,Viviendas Evaluadas,116
+Chuquisaca,10103,Poroma,2018,6,Viviendas Evaluadas,402
+Santa Cruz,70805,Pucara,2018,6,Viviendas Evaluadas,62
+Potosí,51101,Puna,2018,6,Viviendas Evaluadas,185
+Cochabamba,31401,Punata,2018,6,Viviendas Evaluadas,333
+Cochabamba,30901,Quillacollo,2018,6,Viviendas Evaluadas,22
+Potosí,50402,Ravelo,2018,6,Viviendas Evaluadas,201
+Cochabamba,31001,Sacaba,2018,6,Viviendas Evaluadas,949
+Cochabamba,30404,Sacabamba,2018,6,Viviendas Evaluadas,78
+Santa Cruz,70901,Samaipata,2018,6,Viviendas Evaluadas,25
+Cochabamba,31403,San Benito,2018,6,Viviendas Evaluadas,201
+Tarija,60501,San Lorenzo(tja),2018,6,Viviendas Evaluadas,498
+Chuquisaca,10702,San Lucas,2018,6,Viviendas Evaluadas,589
+Cochabamba,30702,Santivañes,2018,6,Viviendas Evaluadas,392
+Cochabamba,30703,Sicaya,2018,6,Viviendas Evaluadas,13
+Cochabamba,30902,Sipe Sipe,2018,6,Viviendas Evaluadas,282
+Chuquisaca,10403,Sopachuy,2018,6,Viviendas Evaluadas,1023
+Chuquisaca,10101,Sucre,2018,6,Viviendas Evaluadas,289
+Cochabamba,31404,Tacachi,2018,6,Viviendas Evaluadas,77
+Potosí,50303,Tacobamba,2018,6,Viviendas Evaluadas,38
+Cochabamba,30602,Tacopaya,2018,6,Viviendas Evaluadas,504
+Cochabamba,31101,Tapacari,2018,6,Viviendas Evaluadas,378
+Cochabamba,30401,Tarata,2018,6,Viviendas Evaluadas,176
+Tarija,60101,Tarija,2018,6,Viviendas Evaluadas,354
+Cochabamba,30903,Tiquipaya,2018,6,Viviendas Evaluadas,310
+Cochabamba,30803,Tolata,2018,6,Viviendas Evaluadas,171
+Potosí,50502,Toro Toro,2018,6,Viviendas Evaluadas,244
+Cochabamba,31201,Totora(cbba),2018,6,Viviendas Evaluadas,283
+Potosí,50801,Tupiza,2018,6,Viviendas Evaluadas,97
+Tarija,60401,Uriondo (a. Concepcion),2018,6,Viviendas Evaluadas,329
+Santa Cruz,70801,Vallegrande,2018,6,Viviendas Evaluadas,270
+Cochabamba,31302,Vila Vila,2018,6,Viviendas Evaluadas,521
+Tarija,60303,Villa Montes,2018,6,Viviendas Evaluadas,453
+Cochabamba,31402,Villa Rivero,2018,6,Viviendas Evaluadas,110
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,6,Viviendas Evaluadas,232
+Potosí,51501,Villazon,2018,6,Viviendas Evaluadas,272
+Potosí,50602,Vitichi,2018,6,Viviendas Evaluadas,262
+Tarija,60301,Yacuiba,2018,6,Viviendas Evaluadas,373
+Chuquisaca,10102,Yotala,2018,6,Viviendas Evaluadas,186
+Tarija,60402,Yunchara,2018,6,Viviendas Evaluadas,94
+Chuquisaca,10301,Zudañez,2018,6,Viviendas Evaluadas,973
+Potosí,51302,Acacio,2018,7,Viviendas Evaluadas,105
+Cochabamba,30201,Aiquile,2018,7,Viviendas Evaluadas,1022
+Cochabamba,30402,Anzaldo,2018,7,Viviendas Evaluadas,196
+Potosí,51301,Arampampa,2018,7,Viviendas Evaluadas,118
+Cochabamba,30501,Arani,2018,7,Viviendas Evaluadas,325
+Cochabamba,30403,Arbieto,2018,7,Viviendas Evaluadas,266
+Cochabamba,30601,Arque,2018,7,Viviendas Evaluadas,92
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,7,Viviendas Evaluadas,225
+Chuquisaca,10201,Azurduy,2018,7,Viviendas Evaluadas,147
+Santa Cruz,70707,Boyuibe,2018,7,Viviendas Evaluadas,21
+La Paz,20905,Cairoma,2018,7,Viviendas Evaluadas,178
+La Paz,21003,Cajuata,2018,7,Viviendas Evaluadas,1588
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,7,Viviendas Evaluadas,103
+Cochabamba,30701,Capinota,2018,7,Viviendas Evaluadas,670
+Tarija,60302,Carapari,2018,7,Viviendas Evaluadas,449
+Potosí,51103,Ckochas,2018,7,Viviendas Evaluadas,190
+Cochabamba,30801,Cliza,2018,7,Viviendas Evaluadas,326
+Cochabamba,30101,Cochabamba,2018,7,Viviendas Evaluadas,1065
+Cochabamba,30905,Colcapirhua,2018,7,Viviendas Evaluadas,336
+Potosí,50401,Colquechaca,2018,7,Viviendas Evaluadas,224
+Potosí,50601,Cotagaita,2018,7,Viviendas Evaluadas,411
+Santa Cruz,71106,Cuatro Cañadas,2018,7,Viviendas Evaluadas,52
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,7,Viviendas Evaluadas,192
+Chuquisaca,10902,Culpina,2018,7,Viviendas Evaluadas,218
+Tarija,60502,El Puente(tja),2018,7,Viviendas Evaluadas,169
+Santa Cruz,70105,El Torno,2018,7,Viviendas Evaluadas,56
+Tarija,60601,Entre Rios Trj,2018,7,Viviendas Evaluadas,48
+Santa Cruz,70705,Gutierrez,2018,7,Viviendas Evaluadas,701
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,7,Viviendas Evaluadas,84
+Chuquisaca,10304,Icla,2018,7,Viviendas Evaluadas,149
+Santa Cruz,70701,Lagunillas,2018,7,Viviendas Evaluadas,111
+Chuquisaca,10903,Las Carreras,2018,7,Viviendas Evaluadas,204
+Cochabamba,31301,Mizque,2018,7,Viviendas Evaluadas,872
+Chuquisaca,10303,Mojocoya,2018,7,Viviendas Evaluadas,34
+Potosí,50404,Ocuri,2018,7,Viviendas Evaluadas,213
+Cochabamba,30203,Omereque,2018,7,Viviendas Evaluadas,551
+Tarija,60201,Padcaya,2018,7,Viviendas Evaluadas,115
+Chuquisaca,10401,Padilla,2018,7,Viviendas Evaluadas,355
+Santa Cruz,70902,Pampa Grande,2018,7,Viviendas Evaluadas,86
+Cochabamba,30202,Pasorapa,2018,7,Viviendas Evaluadas,138
+Cochabamba,31202,Pojo (cbba),2018,7,Viviendas Evaluadas,115
+Chuquisaca,10103,Poroma,2018,7,Viviendas Evaluadas,639
+Chuquisaca,10302,Presto,2018,7,Viviendas Evaluadas,407
+Potosí,51101,Puna,2018,7,Viviendas Evaluadas,186
+Cochabamba,31401,Punata,2018,7,Viviendas Evaluadas,349
+Cochabamba,30901,Quillacollo,2018,7,Viviendas Evaluadas,997
+Potosí,50402,Ravelo,2018,7,Viviendas Evaluadas,205
+Cochabamba,31001,Sacaba,2018,7,Viviendas Evaluadas,1330
+Cochabamba,30404,Sacabamba,2018,7,Viviendas Evaluadas,58
+Santa Cruz,70901,Samaipata,2018,7,Viviendas Evaluadas,32
+Cochabamba,31403,San Benito,2018,7,Viviendas Evaluadas,157
+Tarija,60501,San Lorenzo(tja),2018,7,Viviendas Evaluadas,343
+Chuquisaca,10702,San Lucas,2018,7,Viviendas Evaluadas,427
+Cochabamba,30702,Santivañes,2018,7,Viviendas Evaluadas,137
+Cochabamba,30703,Sicaya,2018,7,Viviendas Evaluadas,128
+Chuquisaca,10403,Sopachuy,2018,7,Viviendas Evaluadas,727
+Cochabamba,31404,Tacachi,2018,7,Viviendas Evaluadas,108
+Potosí,50303,Tacobamba,2018,7,Viviendas Evaluadas,202
+Cochabamba,31101,Tapacari,2018,7,Viviendas Evaluadas,270
+Chuquisaca,10601,Tarabuco,2018,7,Viviendas Evaluadas,493
+Cochabamba,30401,Tarata,2018,7,Viviendas Evaluadas,47
+Tarija,60101,Tarija,2018,7,Viviendas Evaluadas,187
+Cochabamba,30903,Tiquipaya,2018,7,Viviendas Evaluadas,331
+Cochabamba,30803,Tolata,2018,7,Viviendas Evaluadas,143
+Chuquisaca,10402,Tomina,2018,7,Viviendas Evaluadas,667
+Cochabamba,31201,Totora(cbba),2018,7,Viviendas Evaluadas,183
+Potosí,50801,Tupiza,2018,7,Viviendas Evaluadas,127
+Tarija,60401,Uriondo (a. Concepcion),2018,7,Viviendas Evaluadas,302
+Santa Cruz,70801,Vallegrande,2018,7,Viviendas Evaluadas,235
+Cochabamba,31302,Vila Vila,2018,7,Viviendas Evaluadas,327
+Tarija,60303,Villa Montes,2018,7,Viviendas Evaluadas,298
+Cochabamba,31402,Villa Rivero,2018,7,Viviendas Evaluadas,173
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,7,Viviendas Evaluadas,79
+Potosí,51501,Villazon,2018,7,Viviendas Evaluadas,178
+Cochabamba,30904,Vinto,2018,7,Viviendas Evaluadas,313
+Potosí,50602,Vitichi,2018,7,Viviendas Evaluadas,104
+Tarija,60301,Yacuiba,2018,7,Viviendas Evaluadas,617
+Chuquisaca,10102,Yotala,2018,7,Viviendas Evaluadas,213
+Tarija,60402,Yunchara,2018,7,Viviendas Evaluadas,68
+Chuquisaca,10301,Zudañez,2018,7,Viviendas Evaluadas,1178
+Potosí,51302,Acacio,2018,8,Viviendas Evaluadas,420
+Cochabamba,30201,Aiquile,2018,8,Viviendas Evaluadas,183
+Chuquisaca,10404,Alcala,2018,8,Viviendas Evaluadas,4
+Cochabamba,30402,Anzaldo,2018,8,Viviendas Evaluadas,148
+Potosí,51301,Arampampa,2018,8,Viviendas Evaluadas,183
+Cochabamba,30501,Arani,2018,8,Viviendas Evaluadas,429
+Cochabamba,30403,Arbieto,2018,8,Viviendas Evaluadas,195
+Cochabamba,30601,Arque,2018,8,Viviendas Evaluadas,357
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,8,Viviendas Evaluadas,807
+Chuquisaca,10201,Azurduy,2018,8,Viviendas Evaluadas,70
+La Paz,20905,Cairoma,2018,8,Viviendas Evaluadas,312
+Potosí,51102,"Caiza ""d""",2018,8,Viviendas Evaluadas,243
+La Paz,21003,Cajuata,2018,8,Viviendas Evaluadas,1232
+Chuquisaca,10701,Camargo,2018,8,Viviendas Evaluadas,315
+Cochabamba,30701,Capinota,2018,8,Viviendas Evaluadas,537
+Potosí,51103,Ckochas,2018,8,Viviendas Evaluadas,271
+Cochabamba,30801,Cliza,2018,8,Viviendas Evaluadas,197
+Cochabamba,30101,Cochabamba,2018,8,Viviendas Evaluadas,4664
+Cochabamba,30905,Colcapirhua,2018,8,Viviendas Evaluadas,350
+Potosí,50601,Cotagaita,2018,8,Viviendas Evaluadas,353
+Santa Cruz,71106,Cuatro Cañadas,2018,8,Viviendas Evaluadas,154
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,8,Viviendas Evaluadas,77
+Santa Cruz,70704,Cuevo,2018,8,Viviendas Evaluadas,40
+Chuquisaca,10902,Culpina,2018,8,Viviendas Evaluadas,474
+Tarija,60502,El Puente(tja),2018,8,Viviendas Evaluadas,170
+Santa Cruz,70105,El Torno,2018,8,Viviendas Evaluadas,4
+Chuquisaca,10405,El Villar,2018,8,Viviendas Evaluadas,90
+Santa Cruz,70705,Gutierrez,2018,8,Viviendas Evaluadas,486
+Chuquisaca,10502,Huacareta,2018,8,Viviendas Evaluadas,182
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,8,Viviendas Evaluadas,145
+Chuquisaca,10304,Icla,2018,8,Viviendas Evaluadas,266
+Santa Cruz,70701,Lagunillas,2018,8,Viviendas Evaluadas,114
+Chuquisaca,10903,Las Carreras,2018,8,Viviendas Evaluadas,61
+La Paz,21006,Licoma Pampa,2018,8,Viviendas Evaluadas,938
+Cochabamba,31301,Mizque,2018,8,Viviendas Evaluadas,1224
+Cochabamba,30302,Morochata,2018,8,Viviendas Evaluadas,325
+Potosí,50404,Ocuri,2018,8,Viviendas Evaluadas,159
+Cochabamba,30203,Omereque,2018,8,Viviendas Evaluadas,1376
+Tarija,60201,Padcaya,2018,8,Viviendas Evaluadas,276
+Chuquisaca,10401,Padilla,2018,8,Viviendas Evaluadas,293
+Santa Cruz,70902,Pampa Grande,2018,8,Viviendas Evaluadas,50
+Cochabamba,30202,Pasorapa,2018,8,Viviendas Evaluadas,91
+Cochabamba,31202,Pojo (cbba),2018,8,Viviendas Evaluadas,198
+Chuquisaca,10103,Poroma,2018,8,Viviendas Evaluadas,151
+Chuquisaca,10302,Presto,2018,8,Viviendas Evaluadas,207
+Potosí,51101,Puna,2018,8,Viviendas Evaluadas,82
+Cochabamba,31401,Punata,2018,8,Viviendas Evaluadas,250
+Cochabamba,30901,Quillacollo,2018,8,Viviendas Evaluadas,1081
+Santa Cruz,70904,Quirusillas,2018,8,Viviendas Evaluadas,55
+Cochabamba,31304,Raqaypampa(eta),2018,8,Viviendas Evaluadas,622
+Potosí,50402,Ravelo,2018,8,Viviendas Evaluadas,210
+Cochabamba,31001,Sacaba,2018,8,Viviendas Evaluadas,943
+Cochabamba,30404,Sacabamba,2018,8,Viviendas Evaluadas,22
+Cochabamba,31403,San Benito,2018,8,Viviendas Evaluadas,186
+Tarija,60501,San Lorenzo(tja),2018,8,Viviendas Evaluadas,326
+Chuquisaca,10702,San Lucas,2018,8,Viviendas Evaluadas,419
+Cochabamba,30702,Santivañes,2018,8,Viviendas Evaluadas,196
+Cochabamba,30703,Sicaya,2018,8,Viviendas Evaluadas,65
+Cochabamba,30902,Sipe Sipe,2018,8,Viviendas Evaluadas,289
+Chuquisaca,10403,Sopachuy,2018,8,Viviendas Evaluadas,40
+Chuquisaca,10101,Sucre,2018,8,Viviendas Evaluadas,186
+Cochabamba,31404,Tacachi,2018,8,Viviendas Evaluadas,58
+Cochabamba,30602,Tacopaya,2018,8,Viviendas Evaluadas,447
+Chuquisaca,10601,Tarabuco,2018,8,Viviendas Evaluadas,347
+Cochabamba,30401,Tarata,2018,8,Viviendas Evaluadas,252
+Tarija,60101,Tarija,2018,8,Viviendas Evaluadas,383
+Chuquisaca,10202,Tarvita,2018,8,Viviendas Evaluadas,526
+Cochabamba,30903,Tiquipaya,2018,8,Viviendas Evaluadas,300
+Cochabamba,30802,Toco,2018,8,Viviendas Evaluadas,57
+Cochabamba,30803,Tolata,2018,8,Viviendas Evaluadas,1
+Potosí,50502,Toro Toro,2018,8,Viviendas Evaluadas,218
+Cochabamba,31201,Totora(cbba),2018,8,Viviendas Evaluadas,187
+Potosí,50801,Tupiza,2018,8,Viviendas Evaluadas,244
+Tarija,60401,Uriondo (a. Concepcion),2018,8,Viviendas Evaluadas,241
+Santa Cruz,70801,Vallegrande,2018,8,Viviendas Evaluadas,237
+Cochabamba,31302,Vila Vila,2018,8,Viviendas Evaluadas,358
+Chuquisaca,10704,Villa Charcas,2018,8,Viviendas Evaluadas,222
+Tarija,60303,Villa Montes,2018,8,Viviendas Evaluadas,312
+Cochabamba,31402,Villa Rivero,2018,8,Viviendas Evaluadas,247
+Chuquisaca,10801,Villa Serrano,2018,8,Viviendas Evaluadas,584
+Potosí,51501,Villazon,2018,8,Viviendas Evaluadas,166
+Cochabamba,30904,Vinto,2018,8,Viviendas Evaluadas,393
+Potosí,50602,Vitichi,2018,8,Viviendas Evaluadas,436
+Tarija,60301,Yacuiba,2018,8,Viviendas Evaluadas,215
+Chuquisaca,10602,Yamparaez,2018,8,Viviendas Evaluadas,353
+Tarija,60402,Yunchara,2018,8,Viviendas Evaluadas,48
+Potosí,51302,Acacio,2018,9,Viviendas Evaluadas,259
+Cochabamba,30201,Aiquile,2018,9,Viviendas Evaluadas,655
+Cochabamba,30402,Anzaldo,2018,9,Viviendas Evaluadas,215
+Potosí,51301,Arampampa,2018,9,Viviendas Evaluadas,124
+Cochabamba,30501,Arani,2018,9,Viviendas Evaluadas,555
+Cochabamba,30403,Arbieto,2018,9,Viviendas Evaluadas,228
+Cochabamba,30601,Arque,2018,9,Viviendas Evaluadas,49
+La Paz,20503,Aucapata,2018,9,Viviendas Evaluadas,163
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,9,Viviendas Evaluadas,232
+Chuquisaca,10201,Azurduy,2018,9,Viviendas Evaluadas,133
+Potosí,51102,"Caiza ""d""",2018,9,Viviendas Evaluadas,360
+Chuquisaca,10701,Camargo,2018,9,Viviendas Evaluadas,404
+Santa Cruz,70706,Camiri,2018,9,Viviendas Evaluadas,41
+Cochabamba,30701,Capinota,2018,9,Viviendas Evaluadas,586
+Potosí,51103,Ckochas,2018,9,Viviendas Evaluadas,190
+Cochabamba,30801,Cliza,2018,9,Viviendas Evaluadas,213
+Cochabamba,30101,Cochabamba,2018,9,Viviendas Evaluadas,1946
+Potosí,50401,Colquechaca,2018,9,Viviendas Evaluadas,160
+Potosí,50601,Cotagaita,2018,9,Viviendas Evaluadas,829
+Santa Cruz,71106,Cuatro Cañadas,2018,9,Viviendas Evaluadas,124
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,9,Viviendas Evaluadas,138
+Tarija,60502,El Puente(tja),2018,9,Viviendas Evaluadas,149
+Chuquisaca,10405,El Villar,2018,9,Viviendas Evaluadas,36
+Chuquisaca,10502,Huacareta,2018,9,Viviendas Evaluadas,371
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,9,Viviendas Evaluadas,22
+Santa Cruz,70104,La Guardia,2018,9,Viviendas Evaluadas,2
+Chuquisaca,10903,Las Carreras,2018,9,Viviendas Evaluadas,74
+La Paz,20901,Luribay,2018,9,Viviendas Evaluadas,49
+La Paz,20103,Mecapaca,2018,9,Viviendas Evaluadas,459
+Cochabamba,31301,Mizque,2018,9,Viviendas Evaluadas,745
+Chuquisaca,10501,Monteagudo,2018,9,Viviendas Evaluadas,272
+Potosí,50404,Ocuri,2018,9,Viviendas Evaluadas,214
+Cochabamba,30203,Omereque,2018,9,Viviendas Evaluadas,378
+Tarija,60201,Padcaya,2018,9,Viviendas Evaluadas,105
+Chuquisaca,10401,Padilla,2018,9,Viviendas Evaluadas,277
+Santa Cruz,70902,Pampa Grande,2018,9,Viviendas Evaluadas,99
+Cochabamba,30202,Pasorapa,2018,9,Viviendas Evaluadas,95
+Cochabamba,31202,Pojo (cbba),2018,9,Viviendas Evaluadas,134
+Chuquisaca,10103,Poroma,2018,9,Viviendas Evaluadas,903
+Potosí,51101,Puna,2018,9,Viviendas Evaluadas,80
+Cochabamba,31401,Punata,2018,9,Viviendas Evaluadas,969
+Cochabamba,30901,Quillacollo,2018,9,Viviendas Evaluadas,921
+Cochabamba,31001,Sacaba,2018,9,Viviendas Evaluadas,934
+Cochabamba,30404,Sacabamba,2018,9,Viviendas Evaluadas,57
+Santa Cruz,70901,Samaipata,2018,9,Viviendas Evaluadas,55
+Cochabamba,31403,San Benito,2018,9,Viviendas Evaluadas,355
+Tarija,60501,San Lorenzo(tja),2018,9,Viviendas Evaluadas,213
+Chuquisaca,10702,San Lucas,2018,9,Viviendas Evaluadas,458
+Potosí,50501,San Pedro De Buena Vista,2018,9,Viviendas Evaluadas,981
+Cochabamba,30702,Santivañes,2018,9,Viviendas Evaluadas,324
+Cochabamba,30703,Sicaya,2018,9,Viviendas Evaluadas,101
+Cochabamba,30902,Sipe Sipe,2018,9,Viviendas Evaluadas,486
+Chuquisaca,10101,Sucre,2018,9,Viviendas Evaluadas,332
+Cochabamba,31404,Tacachi,2018,9,Viviendas Evaluadas,91
+La Paz,20603,Tacacoma,2018,9,Viviendas Evaluadas,399
+Cochabamba,30602,Tacopaya,2018,9,Viviendas Evaluadas,346
+Cochabamba,30401,Tarata,2018,9,Viviendas Evaluadas,168
+Tarija,60101,Tarija,2018,9,Viviendas Evaluadas,57
+Chuquisaca,10202,Tarvita,2018,9,Viviendas Evaluadas,773
+Cochabamba,30903,Tiquipaya,2018,9,Viviendas Evaluadas,248
+Cochabamba,30802,Toco,2018,9,Viviendas Evaluadas,196
+Cochabamba,30803,Tolata,2018,9,Viviendas Evaluadas,33
+Chuquisaca,10402,Tomina,2018,9,Viviendas Evaluadas,352
+Cochabamba,31201,Totora(cbba),2018,9,Viviendas Evaluadas,179
+Potosí,50801,Tupiza,2018,9,Viviendas Evaluadas,723
+Tarija,60401,Uriondo (a. Concepcion),2018,9,Viviendas Evaluadas,297
+Santa Cruz,70801,Vallegrande,2018,9,Viviendas Evaluadas,370
+Cochabamba,31302,Vila Vila,2018,9,Viviendas Evaluadas,30
+Chuquisaca,10704,Villa Charcas,2018,9,Viviendas Evaluadas,317
+Tarija,60303,Villa Montes,2018,9,Viviendas Evaluadas,99
+Cochabamba,31402,Villa Rivero,2018,9,Viviendas Evaluadas,223
+Chuquisaca,10801,Villa Serrano,2018,9,Viviendas Evaluadas,1307
+Potosí,51501,Villazon,2018,9,Viviendas Evaluadas,200
+Cochabamba,30904,Vinto,2018,9,Viviendas Evaluadas,229
+Potosí,50602,Vitichi,2018,9,Viviendas Evaluadas,316
+Tarija,60301,Yacuiba,2018,9,Viviendas Evaluadas,287
+Chuquisaca,10602,Yamparaez,2018,9,Viviendas Evaluadas,383
+Tarija,60402,Yunchara,2018,9,Viviendas Evaluadas,179
+Chuquisaca,10301,Zudañez,2018,9,Viviendas Evaluadas,22
+Potosí,51302,Acacio,2018,10,Viviendas Evaluadas,185
+Cochabamba,30201,Aiquile,2018,10,Viviendas Evaluadas,413
+Chuquisaca,10404,Alcala,2018,10,Viviendas Evaluadas,8
+Cochabamba,30402,Anzaldo,2018,10,Viviendas Evaluadas,108
+Cochabamba,30501,Arani,2018,10,Viviendas Evaluadas,311
+Cochabamba,30403,Arbieto,2018,10,Viviendas Evaluadas,265
+Cochabamba,30601,Arque,2018,10,Viviendas Evaluadas,41
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,10,Viviendas Evaluadas,263
+Santa Cruz,70707,Boyuibe,2018,10,Viviendas Evaluadas,14
+Cochabamba,30701,Capinota,2018,10,Viviendas Evaluadas,636
+Potosí,51103,Ckochas,2018,10,Viviendas Evaluadas,59
+Cochabamba,30801,Cliza,2018,10,Viviendas Evaluadas,276
+Cochabamba,30101,Cochabamba,2018,10,Viviendas Evaluadas,2307
+Cochabamba,30905,Colcapirhua,2018,10,Viviendas Evaluadas,224
+Potosí,50601,Cotagaita,2018,10,Viviendas Evaluadas,342
+Santa Cruz,71106,Cuatro Cañadas,2018,10,Viviendas Evaluadas,120
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,10,Viviendas Evaluadas,206
+Santa Cruz,70704,Cuevo,2018,10,Viviendas Evaluadas,70
+Chuquisaca,10902,Culpina,2018,10,Viviendas Evaluadas,164
+Santa Cruz,70105,El Torno,2018,10,Viviendas Evaluadas,10
+Tarija,60601,Entre Rios Trj,2018,10,Viviendas Evaluadas,87
+Chuquisaca,10502,Huacareta,2018,10,Viviendas Evaluadas,81
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,10,Viviendas Evaluadas,59
+Chuquisaca,10304,Icla,2018,10,Viviendas Evaluadas,202
+La Paz,20901,Luribay,2018,10,Viviendas Evaluadas,379
+Chuquisaca,10303,Mojocoya,2018,10,Viviendas Evaluadas,25
+Potosí,50404,Ocuri,2018,10,Viviendas Evaluadas,190
+Cochabamba,30203,Omereque,2018,10,Viviendas Evaluadas,250
+Chuquisaca,10401,Padilla,2018,10,Viviendas Evaluadas,161
+Santa Cruz,70902,Pampa Grande,2018,10,Viviendas Evaluadas,44
+Cochabamba,30202,Pasorapa,2018,10,Viviendas Evaluadas,147
+Cochabamba,31202,Pojo (cbba),2018,10,Viviendas Evaluadas,53
+Chuquisaca,10103,Poroma,2018,10,Viviendas Evaluadas,219
+Potosí,51101,Puna,2018,10,Viviendas Evaluadas,216
+Cochabamba,31401,Punata,2018,10,Viviendas Evaluadas,309
+Cochabamba,30901,Quillacollo,2018,10,Viviendas Evaluadas,1108
+Santa Cruz,70904,Quirusillas,2018,10,Viviendas Evaluadas,9
+Potosí,50402,Ravelo,2018,10,Viviendas Evaluadas,92
+Cochabamba,31001,Sacaba,2018,10,Viviendas Evaluadas,1238
+Cochabamba,30404,Sacabamba,2018,10,Viviendas Evaluadas,82
+Cochabamba,31403,San Benito,2018,10,Viviendas Evaluadas,304
+Chuquisaca,10702,San Lucas,2018,10,Viviendas Evaluadas,655
+Potosí,50501,San Pedro De Buena Vista,2018,10,Viviendas Evaluadas,13
+Cochabamba,30703,Sicaya,2018,10,Viviendas Evaluadas,162
+Cochabamba,30902,Sipe Sipe,2018,10,Viviendas Evaluadas,348
+Chuquisaca,10403,Sopachuy,2018,10,Viviendas Evaluadas,77
+Chuquisaca,10101,Sucre,2018,10,Viviendas Evaluadas,561
+Cochabamba,31404,Tacachi,2018,10,Viviendas Evaluadas,80
+Cochabamba,30602,Tacopaya,2018,10,Viviendas Evaluadas,247
+Cochabamba,31101,Tapacari,2018,10,Viviendas Evaluadas,144
+Chuquisaca,10601,Tarabuco,2018,10,Viviendas Evaluadas,343
+Cochabamba,30401,Tarata,2018,10,Viviendas Evaluadas,84
+Tarija,60101,Tarija,2018,10,Viviendas Evaluadas,173
+Cochabamba,30903,Tiquipaya,2018,10,Viviendas Evaluadas,714
+Cochabamba,30802,Toco,2018,10,Viviendas Evaluadas,306
+Cochabamba,30803,Tolata,2018,10,Viviendas Evaluadas,62
+Potosí,51202,Tomave,2018,10,Viviendas Evaluadas,261
+Chuquisaca,10402,Tomina,2018,10,Viviendas Evaluadas,282
+Potosí,50502,Toro Toro,2018,10,Viviendas Evaluadas,30
+Cochabamba,31201,Totora(cbba),2018,10,Viviendas Evaluadas,240
+Potosí,50801,Tupiza,2018,10,Viviendas Evaluadas,3
+Tarija,60401,Uriondo (a. Concepcion),2018,10,Viviendas Evaluadas,240
+Santa Cruz,70801,Vallegrande,2018,10,Viviendas Evaluadas,147
+Cochabamba,31302,Vila Vila,2018,10,Viviendas Evaluadas,153
+Chuquisaca,10704,Villa Charcas,2018,10,Viviendas Evaluadas,358
+Tarija,60303,Villa Montes,2018,10,Viviendas Evaluadas,366
+Cochabamba,31402,Villa Rivero,2018,10,Viviendas Evaluadas,140
+Chuquisaca,10801,Villa Serrano,2018,10,Viviendas Evaluadas,622
+Potosí,50602,Vitichi,2018,10,Viviendas Evaluadas,225
+Tarija,60301,Yacuiba,2018,10,Viviendas Evaluadas,155
+Chuquisaca,10602,Yamparaez,2018,10,Viviendas Evaluadas,546
+Chuquisaca,10301,Zudañez,2018,10,Viviendas Evaluadas,98
+Potosí,51302,Acacio,2018,11,Viviendas Evaluadas,280
+Cochabamba,30201,Aiquile,2018,11,Viviendas Evaluadas,168
+Chuquisaca,10404,Alcala,2018,11,Viviendas Evaluadas,22
+Cochabamba,30402,Anzaldo,2018,11,Viviendas Evaluadas,207
+Cochabamba,30501,Arani,2018,11,Viviendas Evaluadas,483
+Cochabamba,30403,Arbieto,2018,11,Viviendas Evaluadas,280
+Cochabamba,30601,Arque,2018,11,Viviendas Evaluadas,53
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,11,Viviendas Evaluadas,211
+Santa Cruz,70707,Boyuibe,2018,11,Viviendas Evaluadas,51
+Potosí,51102,"Caiza ""d""",2018,11,Viviendas Evaluadas,367
+Cochabamba,30701,Capinota,2018,11,Viviendas Evaluadas,678
+Cochabamba,30801,Cliza,2018,11,Viviendas Evaluadas,256
+Cochabamba,30101,Cochabamba,2018,11,Viviendas Evaluadas,3318
+Cochabamba,30905,Colcapirhua,2018,11,Viviendas Evaluadas,238
+Potosí,50401,Colquechaca,2018,11,Viviendas Evaluadas,121
+Potosí,50601,Cotagaita,2018,11,Viviendas Evaluadas,501
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,11,Viviendas Evaluadas,168
+Chuquisaca,10902,Culpina,2018,11,Viviendas Evaluadas,106
+Tarija,60502,El Puente(tja),2018,11,Viviendas Evaluadas,286
+Santa Cruz,70105,El Torno,2018,11,Viviendas Evaluadas,18
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,11,Viviendas Evaluadas,45
+Chuquisaca,10304,Icla,2018,11,Viviendas Evaluadas,157
+Chuquisaca,11003,Machareti,2018,11,Viviendas Evaluadas,4
+Cochabamba,31301,Mizque,2018,11,Viviendas Evaluadas,1015
+Potosí,50404,Ocuri,2018,11,Viviendas Evaluadas,165
+Cochabamba,30203,Omereque,2018,11,Viviendas Evaluadas,389
+Tarija,60201,Padcaya,2018,11,Viviendas Evaluadas,288
+Cochabamba,30202,Pasorapa,2018,11,Viviendas Evaluadas,106
+Cochabamba,31202,Pojo (cbba),2018,11,Viviendas Evaluadas,52
+Potosí,51101,Puna,2018,11,Viviendas Evaluadas,127
+Cochabamba,31401,Punata,2018,11,Viviendas Evaluadas,143
+Cochabamba,30901,Quillacollo,2018,11,Viviendas Evaluadas,1063
+Santa Cruz,70904,Quirusillas,2018,11,Viviendas Evaluadas,17
+Potosí,50402,Ravelo,2018,11,Viviendas Evaluadas,184
+Cochabamba,31001,Sacaba,2018,11,Viviendas Evaluadas,905
+Cochabamba,30404,Sacabamba,2018,11,Viviendas Evaluadas,62
+Santa Cruz,70901,Samaipata,2018,11,Viviendas Evaluadas,25
+Cochabamba,31403,San Benito,2018,11,Viviendas Evaluadas,339
+Tarija,60501,San Lorenzo(tja),2018,11,Viviendas Evaluadas,370
+Potosí,50501,San Pedro De Buena Vista,2018,11,Viviendas Evaluadas,631
+Cochabamba,30703,Sicaya,2018,11,Viviendas Evaluadas,142
+Cochabamba,30902,Sipe Sipe,2018,11,Viviendas Evaluadas,437
+Chuquisaca,10403,Sopachuy,2018,11,Viviendas Evaluadas,58
+Chuquisaca,10101,Sucre,2018,11,Viviendas Evaluadas,498
+Cochabamba,31404,Tacachi,2018,11,Viviendas Evaluadas,120
+Cochabamba,30602,Tacopaya,2018,11,Viviendas Evaluadas,259
+Cochabamba,31101,Tapacari,2018,11,Viviendas Evaluadas,131
+Chuquisaca,10601,Tarabuco,2018,11,Viviendas Evaluadas,383
+Tarija,60101,Tarija,2018,11,Viviendas Evaluadas,316
+Cochabamba,30903,Tiquipaya,2018,11,Viviendas Evaluadas,620
+Cochabamba,30802,Toco,2018,11,Viviendas Evaluadas,69
+Cochabamba,30803,Tolata,2018,11,Viviendas Evaluadas,336
+Potosí,51202,Tomave,2018,11,Viviendas Evaluadas,232
+Chuquisaca,10402,Tomina,2018,11,Viviendas Evaluadas,15
+Cochabamba,31201,Totora(cbba),2018,11,Viviendas Evaluadas,185
+Potosí,50801,Tupiza,2018,11,Viviendas Evaluadas,190
+Tarija,60401,Uriondo (a. Concepcion),2018,11,Viviendas Evaluadas,443
+Santa Cruz,70801,Vallegrande,2018,11,Viviendas Evaluadas,160
+Cochabamba,31302,Vila Vila,2018,11,Viviendas Evaluadas,175
+Chuquisaca,10704,Villa Charcas,2018,11,Viviendas Evaluadas,148
+Tarija,60303,Villa Montes,2018,11,Viviendas Evaluadas,85
+Cochabamba,31402,Villa Rivero,2018,11,Viviendas Evaluadas,322
+Chuquisaca,10801,Villa Serrano,2018,11,Viviendas Evaluadas,377
+Potosí,51501,Villazon,2018,11,Viviendas Evaluadas,120
+Cochabamba,30904,Vinto,2018,11,Viviendas Evaluadas,414
+Potosí,50602,Vitichi,2018,11,Viviendas Evaluadas,336
+Tarija,60301,Yacuiba,2018,11,Viviendas Evaluadas,779
+Chuquisaca,10102,Yotala,2018,11,Viviendas Evaluadas,983
+Chuquisaca,10301,Zudañez,2018,11,Viviendas Evaluadas,63
+Potosí,51302,Acacio,2018,12,Viviendas Evaluadas,80
+Cochabamba,30201,Aiquile,2018,12,Viviendas Evaluadas,99
+Chuquisaca,10404,Alcala,2018,12,Viviendas Evaluadas,19
+Cochabamba,30402,Anzaldo,2018,12,Viviendas Evaluadas,62
+Cochabamba,30501,Arani,2018,12,Viviendas Evaluadas,528
+Cochabamba,30403,Arbieto,2018,12,Viviendas Evaluadas,243
+Cochabamba,30601,Arque,2018,12,Viviendas Evaluadas,38
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,12,Viviendas Evaluadas,85
+Santa Cruz,70707,Boyuibe,2018,12,Viviendas Evaluadas,9
+Potosí,51102,"Caiza ""d""",2018,12,Viviendas Evaluadas,27
+Cochabamba,30701,Capinota,2018,12,Viviendas Evaluadas,606
+Cochabamba,30801,Cliza,2018,12,Viviendas Evaluadas,288
+Cochabamba,30101,Cochabamba,2018,12,Viviendas Evaluadas,714
+Cochabamba,30905,Colcapirhua,2018,12,Viviendas Evaluadas,204
+Potosí,50401,Colquechaca,2018,12,Viviendas Evaluadas,48
+Potosí,50601,Cotagaita,2018,12,Viviendas Evaluadas,367
+Santa Cruz,71106,Cuatro Cañadas,2018,12,Viviendas Evaluadas,230
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,12,Viviendas Evaluadas,150
+Chuquisaca,10902,Culpina,2018,12,Viviendas Evaluadas,140
+Tarija,60502,El Puente(tja),2018,12,Viviendas Evaluadas,63
+Santa Cruz,70105,El Torno,2018,12,Viviendas Evaluadas,27
+Chuquisaca,10304,Icla,2018,12,Viviendas Evaluadas,75
+Chuquisaca,10903,Las Carreras,2018,12,Viviendas Evaluadas,93
+Cochabamba,31301,Mizque,2018,12,Viviendas Evaluadas,963
+Cochabamba,30203,Omereque,2018,12,Viviendas Evaluadas,417
+Tarija,60201,Padcaya,2018,12,Viviendas Evaluadas,142
+Cochabamba,30202,Pasorapa,2018,12,Viviendas Evaluadas,63
+Chuquisaca,10103,Poroma,2018,12,Viviendas Evaluadas,139
+Cochabamba,31401,Punata,2018,12,Viviendas Evaluadas,185
+Potosí,50402,Ravelo,2018,12,Viviendas Evaluadas,52
+Cochabamba,31001,Sacaba,2018,12,Viviendas Evaluadas,1154
+Santa Cruz,70901,Samaipata,2018,12,Viviendas Evaluadas,73
+Cochabamba,31403,San Benito,2018,12,Viviendas Evaluadas,249
+Tarija,60501,San Lorenzo(tja),2018,12,Viviendas Evaluadas,283
+Potosí,50501,San Pedro De Buena Vista,2018,12,Viviendas Evaluadas,572
+Cochabamba,30702,Santivañes,2018,12,Viviendas Evaluadas,283
+Cochabamba,30703,Sicaya,2018,12,Viviendas Evaluadas,92
+Cochabamba,30902,Sipe Sipe,2018,12,Viviendas Evaluadas,238
+Cochabamba,31404,Tacachi,2018,12,Viviendas Evaluadas,102
+Cochabamba,30602,Tacopaya,2018,12,Viviendas Evaluadas,118
+Chuquisaca,10601,Tarabuco,2018,12,Viviendas Evaluadas,400
+Cochabamba,30903,Tiquipaya,2018,12,Viviendas Evaluadas,286
+Cochabamba,30803,Tolata,2018,12,Viviendas Evaluadas,132
+Potosí,50502,Toro Toro,2018,12,Viviendas Evaluadas,127
+Cochabamba,31201,Totora(cbba),2018,12,Viviendas Evaluadas,179
+Potosí,50801,Tupiza,2018,12,Viviendas Evaluadas,358
+Tarija,60401,Uriondo (a. Concepcion),2018,12,Viviendas Evaluadas,143
+Santa Cruz,70801,Vallegrande,2018,12,Viviendas Evaluadas,108
+Cochabamba,31302,Vila Vila,2018,12,Viviendas Evaluadas,68
+Chuquisaca,10704,Villa Charcas,2018,12,Viviendas Evaluadas,214
+Cochabamba,31402,Villa Rivero,2018,12,Viviendas Evaluadas,310
+Cochabamba,30904,Vinto,2018,12,Viviendas Evaluadas,304
+Potosí,50602,Vitichi,2018,12,Viviendas Evaluadas,196
+Tarija,60301,Yacuiba,2018,12,Viviendas Evaluadas,434
+Potosí,51302,Acacio,2018,1,TOTAL,232
+Cochabamba,30201,Aiquile,2018,1,TOTAL,307
+Cochabamba,30402,Anzaldo,2018,1,TOTAL,376
+Cochabamba,30403,Arbieto,2018,1,TOTAL,246
+Potosí,50301,Betanzos,2018,1,TOTAL,142
+Cochabamba,30701,Capinota,2018,1,TOTAL,531
+Potosí,51103,Ckochas,2018,1,TOTAL,215
+Cochabamba,30801,Cliza,2018,1,TOTAL,283
+Cochabamba,30101,Cochabamba,2018,1,TOTAL,8
+Cochabamba,30905,Colcapirhua,2018,1,TOTAL,154
+Potosí,50401,Colquechaca,2018,1,TOTAL,223
+Potosí,50601,Cotagaita,2018,1,TOTAL,134
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,1,TOTAL,165
+Santa Cruz,70105,El Torno,2018,1,TOTAL,16
+Chuquisaca,10502,Huacareta,2018,1,TOTAL,486
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,1,TOTAL,90
+Chuquisaca,10304,Icla,2018,1,TOTAL,219
+Santa Cruz,70701,Lagunillas,2018,1,TOTAL,15
+Cochabamba,31301,Mizque,2018,1,TOTAL,313
+Cochabamba,30203,Omereque,2018,1,TOTAL,47
+Santa Cruz,70902,Pampa Grande,2018,1,TOTAL,55
+Cochabamba,31202,Pojo (cbba),2018,1,TOTAL,186
+Cochabamba,31401,Punata,2018,1,TOTAL,120
+Cochabamba,30901,Quillacollo,2018,1,TOTAL,676
+Cochabamba,31403,San Benito,2018,1,TOTAL,123
+Cochabamba,30702,Santivañes,2018,1,TOTAL,252
+Cochabamba,30902,Sipe Sipe,2018,1,TOTAL,344
+Cochabamba,31404,Tacachi,2018,1,TOTAL,127
+Cochabamba,31101,Tapacari,2018,1,TOTAL,114
+Cochabamba,30802,Toco,2018,1,TOTAL,300
+Potosí,51202,Tomave,2018,1,TOTAL,141
+Cochabamba,31402,Villa Rivero,2018,1,TOTAL,152
+Cochabamba,30904,Vinto,2018,1,TOTAL,367
+Potosí,50602,Vitichi,2018,1,TOTAL,235
+Cochabamba,30201,Aiquile,2018,2,TOTAL,770
+Cochabamba,30402,Anzaldo,2018,2,TOTAL,218
+Potosí,51301,Arampampa,2018,2,TOTAL,33
+Cochabamba,30403,Arbieto,2018,2,TOTAL,240
+Cochabamba,30601,Arque,2018,2,TOTAL,101
+Potosí,51102,"Caiza ""d""",2018,2,TOTAL,206
+Cochabamba,30701,Capinota,2018,2,TOTAL,549
+Potosí,51103,Ckochas,2018,2,TOTAL,285
+Cochabamba,30801,Cliza,2018,2,TOTAL,108
+Cochabamba,30101,Cochabamba,2018,2,TOTAL,190
+Cochabamba,30905,Colcapirhua,2018,2,TOTAL,126
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,2,TOTAL,110
+Chuquisaca,10902,Culpina,2018,2,TOTAL,265
+Tarija,60502,El Puente(tja),2018,2,TOTAL,115
+Chuquisaca,10304,Icla,2018,2,TOTAL,1
+Santa Cruz,70701,Lagunillas,2018,2,TOTAL,10
+Cochabamba,31301,Mizque,2018,2,TOTAL,311
+Cochabamba,31203,Pocona,2018,2,TOTAL,48
+Cochabamba,31401,Punata,2018,2,TOTAL,70
+Cochabamba,31403,San Benito,2018,2,TOTAL,176
+Santa Cruz,71104,San Julian,2018,2,TOTAL,1
+Tarija,60501,San Lorenzo(tja),2018,2,TOTAL,28
+Cochabamba,30703,Sicaya,2018,2,TOTAL,114
+Cochabamba,30902,Sipe Sipe,2018,2,TOTAL,376
+Cochabamba,31404,Tacachi,2018,2,TOTAL,40
+Cochabamba,31101,Tapacari,2018,2,TOTAL,30
+Cochabamba,30802,Toco,2018,2,TOTAL,99
+Cochabamba,30803,Tolata,2018,2,TOTAL,15
+Potosí,51202,Tomave,2018,2,TOTAL,123
+Potosí,50502,Toro Toro,2018,2,TOTAL,198
+Cochabamba,31201,Totora(cbba),2018,2,TOTAL,25
+Potosí,50801,Tupiza,2018,2,TOTAL,154
+Tarija,60401,Uriondo (a. Concepcion),2018,2,TOTAL,83
+Santa Cruz,70801,Vallegrande,2018,2,TOTAL,220
+Cochabamba,31402,Villa Rivero,2018,2,TOTAL,148
+Cochabamba,30904,Vinto,2018,2,TOTAL,169
+Chuquisaca,10102,Yotala,2018,2,TOTAL,374
+Chuquisaca,10301,Zudañez,2018,2,TOTAL,169
+Potosí,51302,Acacio,2018,3,TOTAL,80
+Cochabamba,30201,Aiquile,2018,3,TOTAL,603
+Cochabamba,30402,Anzaldo,2018,3,TOTAL,406
+Potosí,51301,Arampampa,2018,3,TOTAL,198
+Cochabamba,30501,Arani,2018,3,TOTAL,275
+Cochabamba,30403,Arbieto,2018,3,TOTAL,281
+Cochabamba,30601,Arque,2018,3,TOTAL,44
+Potosí,51102,"Caiza ""d""",2018,3,TOTAL,255
+Cochabamba,30701,Capinota,2018,3,TOTAL,1250
+Potosí,51103,Ckochas,2018,3,TOTAL,331
+Cochabamba,30801,Cliza,2018,3,TOTAL,266
+Cochabamba,30101,Cochabamba,2018,3,TOTAL,371
+Cochabamba,30905,Colcapirhua,2018,3,TOTAL,24
+Potosí,50401,Colquechaca,2018,3,TOTAL,208
+Santa Cruz,71301,Comarapa,2018,3,TOTAL,121
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,3,TOTAL,171
+Tarija,60502,El Puente(tja),2018,3,TOTAL,94
+Santa Cruz,70105,El Torno,2018,3,TOTAL,6
+Santa Cruz,70701,Lagunillas,2018,3,TOTAL,158
+Chuquisaca,10903,Las Carreras,2018,3,TOTAL,363
+Cochabamba,31301,Mizque,2018,3,TOTAL,207
+Cochabamba,30203,Omereque,2018,3,TOTAL,70
+Tarija,60201,Padcaya,2018,3,TOTAL,91
+Cochabamba,30202,Pasorapa,2018,3,TOTAL,161
+Cochabamba,31203,Pocona,2018,3,TOTAL,132
+Cochabamba,31202,Pojo (cbba),2018,3,TOTAL,120
+Santa Cruz,70804,Postrer Valle,2018,3,TOTAL,325
+Chuquisaca,10302,Presto,2018,3,TOTAL,611
+Cochabamba,31401,Punata,2018,3,TOTAL,145
+Potosí,50402,Ravelo,2018,3,TOTAL,192
+Cochabamba,31001,Sacaba,2018,3,TOTAL,631
+Cochabamba,30404,Sacabamba,2018,3,TOTAL,122
+Cochabamba,31403,San Benito,2018,3,TOTAL,182
+Tarija,60501,San Lorenzo(tja),2018,3,TOTAL,148
+Chuquisaca,10702,San Lucas,2018,3,TOTAL,1
+Cochabamba,30702,Santivañes,2018,3,TOTAL,213
+La Paz,20902,Sapahaqui,2018,3,TOTAL,393
+Cochabamba,30703,Sicaya,2018,3,TOTAL,109
+Cochabamba,30902,Sipe Sipe,2018,3,TOTAL,221
+Cochabamba,31404,Tacachi,2018,3,TOTAL,112
+Cochabamba,30602,Tacopaya,2018,3,TOTAL,317
+Cochabamba,31101,Tapacari,2018,3,TOTAL,19
+Cochabamba,30401,Tarata,2018,3,TOTAL,315
+Tarija,60101,Tarija,2018,3,TOTAL,177
+Cochabamba,30802,Toco,2018,3,TOTAL,198
+Cochabamba,30803,Tolata,2018,3,TOTAL,111
+Potosí,51202,Tomave,2018,3,TOTAL,276
+Chuquisaca,10402,Tomina,2018,3,TOTAL,50
+Potosí,50502,Toro Toro,2018,3,TOTAL,238
+Cochabamba,31201,Totora(cbba),2018,3,TOTAL,44
+Potosí,50801,Tupiza,2018,3,TOTAL,702
+Tarija,60401,Uriondo (a. Concepcion),2018,3,TOTAL,63
+Santa Cruz,70801,Vallegrande,2018,3,TOTAL,270
+Tarija,60303,Villa Montes,2018,3,TOTAL,191
+Cochabamba,31402,Villa Rivero,2018,3,TOTAL,168
+Cochabamba,30904,Vinto,2018,3,TOTAL,217
+Potosí,50602,Vitichi,2018,3,TOTAL,170
+Chuquisaca,10102,Yotala,2018,3,TOTAL,357
+Chuquisaca,10301,Zudañez,2018,3,TOTAL,563
+Potosí,51302,Acacio,2018,4,TOTAL,375
+Cochabamba,30201,Aiquile,2018,4,TOTAL,817
+Cochabamba,30402,Anzaldo,2018,4,TOTAL,26
+Potosí,51301,Arampampa,2018,4,TOTAL,179
+Cochabamba,30501,Arani,2018,4,TOTAL,148
+Cochabamba,30403,Arbieto,2018,4,TOTAL,114
+Cochabamba,30601,Arque,2018,4,TOTAL,236
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,4,TOTAL,327
+Potosí,50301,Betanzos,2018,4,TOTAL,90
+Potosí,51102,"Caiza ""d""",2018,4,TOTAL,231
+Chuquisaca,10701,Camargo,2018,4,TOTAL,450
+Cochabamba,30701,Capinota,2018,4,TOTAL,689
+Potosí,51103,Ckochas,2018,4,TOTAL,453
+Cochabamba,30801,Cliza,2018,4,TOTAL,223
+Cochabamba,30303,Cocapata,2018,4,TOTAL,316
+Cochabamba,30101,Cochabamba,2018,4,TOTAL,481
+Cochabamba,30905,Colcapirhua,2018,4,TOTAL,168
+Potosí,50601,Cotagaita,2018,4,TOTAL,352
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,4,TOTAL,137
+Santa Cruz,70704,Cuevo,2018,4,TOTAL,55
+Chuquisaca,10902,Culpina,2018,4,TOTAL,354
+Tarija,60502,El Puente(tja),2018,4,TOTAL,125
+Santa Cruz,70705,Gutierrez,2018,4,TOTAL,184
+Santa Cruz,70701,Lagunillas,2018,4,TOTAL,396
+Chuquisaca,10903,Las Carreras,2018,4,TOTAL,154
+La Paz,20901,Luribay,2018,4,TOTAL,359
+Cochabamba,31301,Mizque,2018,4,TOTAL,756
+Chuquisaca,10303,Mojocoya,2018,4,TOTAL,42
+Chuquisaca,10501,Monteagudo,2018,4,TOTAL,67
+Cochabamba,30302,Morochata,2018,4,TOTAL,151
+Potosí,50404,Ocuri,2018,4,TOTAL,79
+Cochabamba,30203,Omereque,2018,4,TOTAL,159
+Tarija,60201,Padcaya,2018,4,TOTAL,37
+Cochabamba,31203,Pocona,2018,4,TOTAL,154
+Cochabamba,31202,Pojo (cbba),2018,4,TOTAL,22
+Chuquisaca,10103,Poroma,2018,4,TOTAL,227
+Santa Cruz,70804,Postrer Valle,2018,4,TOTAL,20
+Chuquisaca,10302,Presto,2018,4,TOTAL,80
+Potosí,51101,Puna,2018,4,TOTAL,179
+Cochabamba,31401,Punata,2018,4,TOTAL,274
+Cochabamba,30901,Quillacollo,2018,4,TOTAL,1103
+Santa Cruz,70904,Quirusillas,2018,4,TOTAL,14
+Potosí,50402,Ravelo,2018,4,TOTAL,169
+Cochabamba,31001,Sacaba,2018,4,TOTAL,690
+Cochabamba,31403,San Benito,2018,4,TOTAL,131
+Tarija,60501,San Lorenzo(tja),2018,4,TOTAL,110
+Chuquisaca,10702,San Lucas,2018,4,TOTAL,2
+Potosí,50501,San Pedro De Buena Vista,2018,4,TOTAL,606
+Cochabamba,30702,Santivañes,2018,4,TOTAL,236
+La Paz,20902,Sapahaqui,2018,4,TOTAL,506
+Cochabamba,30703,Sicaya,2018,4,TOTAL,87
+Cochabamba,30902,Sipe Sipe,2018,4,TOTAL,412
+Chuquisaca,10403,Sopachuy,2018,4,TOTAL,24
+Chuquisaca,10101,Sucre,2018,4,TOTAL,332
+Cochabamba,31404,Tacachi,2018,4,TOTAL,112
+Cochabamba,30602,Tacopaya,2018,4,TOTAL,553
+Cochabamba,31101,Tapacari,2018,4,TOTAL,180
+Cochabamba,30401,Tarata,2018,4,TOTAL,285
+Tarija,60101,Tarija,2018,4,TOTAL,331
+Cochabamba,30903,Tiquipaya,2018,4,TOTAL,279
+Cochabamba,30802,Toco,2018,4,TOTAL,259
+Cochabamba,30803,Tolata,2018,4,TOTAL,98
+Potosí,51202,Tomave,2018,4,TOTAL,255
+Potosí,50502,Toro Toro,2018,4,TOTAL,246
+Cochabamba,31201,Totora(cbba),2018,4,TOTAL,177
+Potosí,50801,Tupiza,2018,4,TOTAL,703
+Tarija,60401,Uriondo (a. Concepcion),2018,4,TOTAL,209
+Santa Cruz,70801,Vallegrande,2018,4,TOTAL,269
+Cochabamba,31302,Vila Vila,2018,4,TOTAL,83
+Tarija,60303,Villa Montes,2018,4,TOTAL,291
+Cochabamba,31402,Villa Rivero,2018,4,TOTAL,124
+Cochabamba,30904,Vinto,2018,4,TOTAL,211
+Potosí,50602,Vitichi,2018,4,TOTAL,325
+Chuquisaca,10102,Yotala,2018,4,TOTAL,281
+Tarija,60402,Yunchara,2018,4,TOTAL,123
+Chuquisaca,10301,Zudañez,2018,4,TOTAL,901
+Potosí,51302,Acacio,2018,5,TOTAL,300
+Cochabamba,30201,Aiquile,2018,5,TOTAL,976
+Chuquisaca,10404,Alcala,2018,5,TOTAL,281
+Cochabamba,30402,Anzaldo,2018,5,TOTAL,96
+Cochabamba,30501,Arani,2018,5,TOTAL,114
+Cochabamba,30403,Arbieto,2018,5,TOTAL,283
+Cochabamba,30601,Arque,2018,5,TOTAL,302
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,5,TOTAL,1078
+Chuquisaca,10201,Azurduy,2018,5,TOTAL,102
+Potosí,50301,Betanzos,2018,5,TOTAL,465
+Santa Cruz,70707,Boyuibe,2018,5,TOTAL,3
+Potosí,51102,"Caiza ""d""",2018,5,TOTAL,382
+Cochabamba,30701,Capinota,2018,5,TOTAL,681
+Potosí,51103,Ckochas,2018,5,TOTAL,46
+Cochabamba,30801,Cliza,2018,5,TOTAL,187
+Cochabamba,30101,Cochabamba,2018,5,TOTAL,428
+Cochabamba,30905,Colcapirhua,2018,5,TOTAL,294
+Potosí,50601,Cotagaita,2018,5,TOTAL,231
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,5,TOTAL,180
+Chuquisaca,10902,Culpina,2018,5,TOTAL,162
+Tarija,60502,El Puente(tja),2018,5,TOTAL,76
+Santa Cruz,70105,El Torno,2018,5,TOTAL,17
+Tarija,60601,Entre Rios Trj,2018,5,TOTAL,268
+Santa Cruz,70705,Gutierrez,2018,5,TOTAL,417
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,5,TOTAL,68
+Chuquisaca,10304,Icla,2018,5,TOTAL,164
+Santa Cruz,70701,Lagunillas,2018,5,TOTAL,326
+Chuquisaca,10903,Las Carreras,2018,5,TOTAL,113
+La Paz,20901,Luribay,2018,5,TOTAL,475
+Santa Cruz,70903,Mairana,2018,5,TOTAL,34
+Cochabamba,31301,Mizque,2018,5,TOTAL,1313
+Cochabamba,30302,Morochata,2018,5,TOTAL,292
+Cochabamba,30203,Omereque,2018,5,TOTAL,60
+Tarija,60201,Padcaya,2018,5,TOTAL,38
+Chuquisaca,10401,Padilla,2018,5,TOTAL,170
+Santa Cruz,70902,Pampa Grande,2018,5,TOTAL,56
+Potosí,50403,Pocoata,2018,5,TOTAL,389
+Cochabamba,31203,Pocona,2018,5,TOTAL,57
+Cochabamba,31202,Pojo (cbba),2018,5,TOTAL,209
+Santa Cruz,70805,Pucara,2018,5,TOTAL,25
+Potosí,51101,Puna,2018,5,TOTAL,370
+Cochabamba,31401,Punata,2018,5,TOTAL,210
+Cochabamba,30901,Quillacollo,2018,5,TOTAL,1104
+Cochabamba,31001,Sacaba,2018,5,TOTAL,678
+Cochabamba,30404,Sacabamba,2018,5,TOTAL,482
+Santa Cruz,70901,Samaipata,2018,5,TOTAL,28
+Cochabamba,31403,San Benito,2018,5,TOTAL,163
+Tarija,60501,San Lorenzo(tja),2018,5,TOTAL,57
+Chuquisaca,10702,San Lucas,2018,5,TOTAL,482
+Potosí,50501,San Pedro De Buena Vista,2018,5,TOTAL,709
+Cochabamba,30702,Santivañes,2018,5,TOTAL,415
+Cochabamba,30703,Sicaya,2018,5,TOTAL,25
+Cochabamba,30902,Sipe Sipe,2018,5,TOTAL,68
+Chuquisaca,10403,Sopachuy,2018,5,TOTAL,190
+Chuquisaca,10101,Sucre,2018,5,TOTAL,96
+Cochabamba,31404,Tacachi,2018,5,TOTAL,136
+Cochabamba,30602,Tacopaya,2018,5,TOTAL,384
+Cochabamba,31101,Tapacari,2018,5,TOTAL,234
+Cochabamba,30401,Tarata,2018,5,TOTAL,293
+Tarija,60101,Tarija,2018,5,TOTAL,393
+Cochabamba,30903,Tiquipaya,2018,5,TOTAL,310
+Cochabamba,30802,Toco,2018,5,TOTAL,252
+Cochabamba,30803,Tolata,2018,5,TOTAL,85
+Potosí,51202,Tomave,2018,5,TOTAL,265
+Potosí,50502,Toro Toro,2018,5,TOTAL,212
+Cochabamba,31201,Totora(cbba),2018,5,TOTAL,62
+Potosí,50801,Tupiza,2018,5,TOTAL,103
+Tarija,60401,Uriondo (a. Concepcion),2018,5,TOTAL,290
+Santa Cruz,70801,Vallegrande,2018,5,TOTAL,324
+Cochabamba,31302,Vila Vila,2018,5,TOTAL,52
+Tarija,60303,Villa Montes,2018,5,TOTAL,380
+Cochabamba,31402,Villa Rivero,2018,5,TOTAL,145
+Chuquisaca,10801,Villa Serrano,2018,5,TOTAL,208
+Potosí,51501,Villazon,2018,5,TOTAL,153
+Cochabamba,30904,Vinto,2018,5,TOTAL,232
+Potosí,50602,Vitichi,2018,5,TOTAL,396
+Tarija,60301,Yacuiba,2018,5,TOTAL,932
+Chuquisaca,10102,Yotala,2018,5,TOTAL,104
+Tarija,60402,Yunchara,2018,5,TOTAL,106
+Chuquisaca,10301,Zudañez,2018,5,TOTAL,100
+Potosí,51302,Acacio,2018,6,TOTAL,404
+Cochabamba,30201,Aiquile,2018,6,TOTAL,1481
+Chuquisaca,10404,Alcala,2018,6,TOTAL,1260
+Cochabamba,30402,Anzaldo,2018,6,TOTAL,99
+Potosí,51301,Arampampa,2018,6,TOTAL,292
+Cochabamba,30501,Arani,2018,6,TOTAL,547
+Cochabamba,30403,Arbieto,2018,6,TOTAL,239
+Cochabamba,30601,Arque,2018,6,TOTAL,348
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,6,TOTAL,576
+Potosí,50301,Betanzos,2018,6,TOTAL,584
+Santa Cruz,70707,Boyuibe,2018,6,TOTAL,7
+Potosí,51102,"Caiza ""d""",2018,6,TOTAL,315
+La Paz,21003,Cajuata,2018,6,TOTAL,898
+Cochabamba,30701,Capinota,2018,6,TOTAL,252
+Tarija,60302,Carapari,2018,6,TOTAL,146
+Potosí,51103,Ckochas,2018,6,TOTAL,172
+Cochabamba,30801,Cliza,2018,6,TOTAL,245
+Cochabamba,30101,Cochabamba,2018,6,TOTAL,326
+Potosí,50401,Colquechaca,2018,6,TOTAL,170
+Santa Cruz,71301,Comarapa,2018,6,TOTAL,330
+Potosí,50601,Cotagaita,2018,6,TOTAL,671
+Santa Cruz,71106,Cuatro Cañadas,2018,6,TOTAL,106
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,6,TOTAL,181
+Chuquisaca,10902,Culpina,2018,6,TOTAL,89
+Tarija,60502,El Puente(tja),2018,6,TOTAL,204
+Santa Cruz,70105,El Torno,2018,6,TOTAL,15
+Chuquisaca,10405,El Villar,2018,6,TOTAL,1177
+Santa Cruz,70705,Gutierrez,2018,6,TOTAL,272
+Chuquisaca,10502,Huacareta,2018,6,TOTAL,436
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,6,TOTAL,54
+Santa Cruz,70701,Lagunillas,2018,6,TOTAL,456
+La Paz,20901,Luribay,2018,6,TOTAL,342
+Santa Cruz,70903,Mairana,2018,6,TOTAL,13
+Cochabamba,30302,Morochata,2018,6,TOTAL,477
+Cochabamba,30203,Omereque,2018,6,TOTAL,152
+Tarija,60201,Padcaya,2018,6,TOTAL,142
+Chuquisaca,10401,Padilla,2018,6,TOTAL,307
+Cochabamba,30202,Pasorapa,2018,6,TOTAL,135
+Potosí,50403,Pocoata,2018,6,TOTAL,385
+Cochabamba,31202,Pojo (cbba),2018,6,TOTAL,116
+Chuquisaca,10103,Poroma,2018,6,TOTAL,402
+Santa Cruz,70805,Pucara,2018,6,TOTAL,62
+Potosí,51101,Puna,2018,6,TOTAL,185
+Cochabamba,31401,Punata,2018,6,TOTAL,333
+Cochabamba,30901,Quillacollo,2018,6,TOTAL,22
+Potosí,50402,Ravelo,2018,6,TOTAL,201
+Cochabamba,31001,Sacaba,2018,6,TOTAL,949
+Cochabamba,30404,Sacabamba,2018,6,TOTAL,78
+Santa Cruz,70901,Samaipata,2018,6,TOTAL,25
+Cochabamba,31403,San Benito,2018,6,TOTAL,201
+Tarija,60501,San Lorenzo(tja),2018,6,TOTAL,498
+Chuquisaca,10702,San Lucas,2018,6,TOTAL,589
+Cochabamba,30702,Santivañes,2018,6,TOTAL,392
+Cochabamba,30703,Sicaya,2018,6,TOTAL,13
+Cochabamba,30902,Sipe Sipe,2018,6,TOTAL,282
+Chuquisaca,10403,Sopachuy,2018,6,TOTAL,1023
+Chuquisaca,10101,Sucre,2018,6,TOTAL,289
+Cochabamba,31404,Tacachi,2018,6,TOTAL,77
+Potosí,50303,Tacobamba,2018,6,TOTAL,38
+Cochabamba,30602,Tacopaya,2018,6,TOTAL,504
+Cochabamba,31101,Tapacari,2018,6,TOTAL,378
+Cochabamba,30401,Tarata,2018,6,TOTAL,176
+Tarija,60101,Tarija,2018,6,TOTAL,354
+Cochabamba,30903,Tiquipaya,2018,6,TOTAL,310
+Cochabamba,30803,Tolata,2018,6,TOTAL,171
+Potosí,50502,Toro Toro,2018,6,TOTAL,244
+Cochabamba,31201,Totora(cbba),2018,6,TOTAL,283
+Potosí,50801,Tupiza,2018,6,TOTAL,97
+Tarija,60401,Uriondo (a. Concepcion),2018,6,TOTAL,329
+Santa Cruz,70801,Vallegrande,2018,6,TOTAL,270
+Cochabamba,31302,Vila Vila,2018,6,TOTAL,521
+Tarija,60303,Villa Montes,2018,6,TOTAL,453
+Cochabamba,31402,Villa Rivero,2018,6,TOTAL,110
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,6,TOTAL,232
+Potosí,51501,Villazon,2018,6,TOTAL,272
+Potosí,50602,Vitichi,2018,6,TOTAL,262
+Tarija,60301,Yacuiba,2018,6,TOTAL,373
+Chuquisaca,10102,Yotala,2018,6,TOTAL,186
+Tarija,60402,Yunchara,2018,6,TOTAL,94
+Chuquisaca,10301,Zudañez,2018,6,TOTAL,973
+Potosí,51302,Acacio,2018,7,TOTAL,105
+Cochabamba,30201,Aiquile,2018,7,TOTAL,1022
+Cochabamba,30402,Anzaldo,2018,7,TOTAL,196
+Potosí,51301,Arampampa,2018,7,TOTAL,118
+Cochabamba,30501,Arani,2018,7,TOTAL,325
+Cochabamba,30403,Arbieto,2018,7,TOTAL,266
+Cochabamba,30601,Arque,2018,7,TOTAL,92
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,7,TOTAL,225
+Chuquisaca,10201,Azurduy,2018,7,TOTAL,147
+Santa Cruz,70707,Boyuibe,2018,7,TOTAL,21
+La Paz,20905,Cairoma,2018,7,TOTAL,178
+La Paz,21003,Cajuata,2018,7,TOTAL,1588
+Chuquisaca,10901,Camataqui (c. Villa Abecia),2018,7,TOTAL,103
+Cochabamba,30701,Capinota,2018,7,TOTAL,670
+Tarija,60302,Carapari,2018,7,TOTAL,449
+Potosí,51103,Ckochas,2018,7,TOTAL,190
+Cochabamba,30801,Cliza,2018,7,TOTAL,326
+Cochabamba,30101,Cochabamba,2018,7,TOTAL,1065
+Cochabamba,30905,Colcapirhua,2018,7,TOTAL,336
+Potosí,50401,Colquechaca,2018,7,TOTAL,224
+Potosí,50601,Cotagaita,2018,7,TOTAL,411
+Santa Cruz,71106,Cuatro Cañadas,2018,7,TOTAL,52
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,7,TOTAL,192
+Chuquisaca,10902,Culpina,2018,7,TOTAL,218
+Tarija,60502,El Puente(tja),2018,7,TOTAL,169
+Santa Cruz,70105,El Torno,2018,7,TOTAL,56
+Tarija,60601,Entre Rios Trj,2018,7,TOTAL,48
+Santa Cruz,70705,Gutierrez,2018,7,TOTAL,701
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,7,TOTAL,84
+Chuquisaca,10304,Icla,2018,7,TOTAL,149
+Santa Cruz,70701,Lagunillas,2018,7,TOTAL,111
+Chuquisaca,10903,Las Carreras,2018,7,TOTAL,204
+Cochabamba,31301,Mizque,2018,7,TOTAL,872
+Chuquisaca,10303,Mojocoya,2018,7,TOTAL,34
+Potosí,50404,Ocuri,2018,7,TOTAL,213
+Cochabamba,30203,Omereque,2018,7,TOTAL,551
+Tarija,60201,Padcaya,2018,7,TOTAL,115
+Chuquisaca,10401,Padilla,2018,7,TOTAL,355
+Santa Cruz,70902,Pampa Grande,2018,7,TOTAL,86
+Cochabamba,30202,Pasorapa,2018,7,TOTAL,138
+Cochabamba,31202,Pojo (cbba),2018,7,TOTAL,115
+Chuquisaca,10103,Poroma,2018,7,TOTAL,639
+Chuquisaca,10302,Presto,2018,7,TOTAL,407
+Potosí,51101,Puna,2018,7,TOTAL,186
+Cochabamba,31401,Punata,2018,7,TOTAL,349
+Cochabamba,30901,Quillacollo,2018,7,TOTAL,997
+Potosí,50402,Ravelo,2018,7,TOTAL,205
+Cochabamba,31001,Sacaba,2018,7,TOTAL,1330
+Cochabamba,30404,Sacabamba,2018,7,TOTAL,58
+Santa Cruz,70901,Samaipata,2018,7,TOTAL,32
+Cochabamba,31403,San Benito,2018,7,TOTAL,157
+Tarija,60501,San Lorenzo(tja),2018,7,TOTAL,343
+Chuquisaca,10702,San Lucas,2018,7,TOTAL,427
+Cochabamba,30702,Santivañes,2018,7,TOTAL,137
+Cochabamba,30703,Sicaya,2018,7,TOTAL,128
+Chuquisaca,10403,Sopachuy,2018,7,TOTAL,727
+Cochabamba,31404,Tacachi,2018,7,TOTAL,108
+Potosí,50303,Tacobamba,2018,7,TOTAL,202
+Cochabamba,31101,Tapacari,2018,7,TOTAL,270
+Chuquisaca,10601,Tarabuco,2018,7,TOTAL,493
+Cochabamba,30401,Tarata,2018,7,TOTAL,47
+Tarija,60101,Tarija,2018,7,TOTAL,187
+Cochabamba,30903,Tiquipaya,2018,7,TOTAL,331
+Cochabamba,30803,Tolata,2018,7,TOTAL,143
+Chuquisaca,10402,Tomina,2018,7,TOTAL,667
+Cochabamba,31201,Totora(cbba),2018,7,TOTAL,183
+Potosí,50801,Tupiza,2018,7,TOTAL,127
+Tarija,60401,Uriondo (a. Concepcion),2018,7,TOTAL,302
+Santa Cruz,70801,Vallegrande,2018,7,TOTAL,235
+Cochabamba,31302,Vila Vila,2018,7,TOTAL,327
+Tarija,60303,Villa Montes,2018,7,TOTAL,298
+Cochabamba,31402,Villa Rivero,2018,7,TOTAL,173
+Chuquisaca,11001,Villa Vaca Guzman (muyupampa),2018,7,TOTAL,79
+Potosí,51501,Villazon,2018,7,TOTAL,178
+Cochabamba,30904,Vinto,2018,7,TOTAL,313
+Potosí,50602,Vitichi,2018,7,TOTAL,104
+Tarija,60301,Yacuiba,2018,7,TOTAL,617
+Chuquisaca,10102,Yotala,2018,7,TOTAL,213
+Tarija,60402,Yunchara,2018,7,TOTAL,68
+Chuquisaca,10301,Zudañez,2018,7,TOTAL,1178
+Potosí,51302,Acacio,2018,8,TOTAL,420
+Cochabamba,30201,Aiquile,2018,8,TOTAL,183
+Chuquisaca,10404,Alcala,2018,8,TOTAL,4
+Cochabamba,30402,Anzaldo,2018,8,TOTAL,148
+Potosí,51301,Arampampa,2018,8,TOTAL,183
+Cochabamba,30501,Arani,2018,8,TOTAL,429
+Cochabamba,30403,Arbieto,2018,8,TOTAL,195
+Cochabamba,30601,Arque,2018,8,TOTAL,357
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,8,TOTAL,807
+Chuquisaca,10201,Azurduy,2018,8,TOTAL,70
+La Paz,20905,Cairoma,2018,8,TOTAL,312
+Potosí,51102,"Caiza ""d""",2018,8,TOTAL,243
+La Paz,21003,Cajuata,2018,8,TOTAL,1232
+Chuquisaca,10701,Camargo,2018,8,TOTAL,315
+Cochabamba,30701,Capinota,2018,8,TOTAL,537
+Potosí,51103,Ckochas,2018,8,TOTAL,271
+Cochabamba,30801,Cliza,2018,8,TOTAL,197
+Cochabamba,30101,Cochabamba,2018,8,TOTAL,4664
+Cochabamba,30905,Colcapirhua,2018,8,TOTAL,350
+Potosí,50601,Cotagaita,2018,8,TOTAL,353
+Santa Cruz,71106,Cuatro Cañadas,2018,8,TOTAL,154
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,8,TOTAL,77
+Santa Cruz,70704,Cuevo,2018,8,TOTAL,40
+Chuquisaca,10902,Culpina,2018,8,TOTAL,474
+Tarija,60502,El Puente(tja),2018,8,TOTAL,170
+Santa Cruz,70105,El Torno,2018,8,TOTAL,4
+Chuquisaca,10405,El Villar,2018,8,TOTAL,90
+Santa Cruz,70705,Gutierrez,2018,8,TOTAL,486
+Chuquisaca,10502,Huacareta,2018,8,TOTAL,182
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,8,TOTAL,145
+Chuquisaca,10304,Icla,2018,8,TOTAL,266
+Santa Cruz,70701,Lagunillas,2018,8,TOTAL,114
+Chuquisaca,10903,Las Carreras,2018,8,TOTAL,61
+La Paz,21006,Licoma Pampa,2018,8,TOTAL,938
+Cochabamba,31301,Mizque,2018,8,TOTAL,1224
+Cochabamba,30302,Morochata,2018,8,TOTAL,325
+Potosí,50404,Ocuri,2018,8,TOTAL,159
+Cochabamba,30203,Omereque,2018,8,TOTAL,1376
+Tarija,60201,Padcaya,2018,8,TOTAL,276
+Chuquisaca,10401,Padilla,2018,8,TOTAL,293
+Santa Cruz,70902,Pampa Grande,2018,8,TOTAL,50
+Cochabamba,30202,Pasorapa,2018,8,TOTAL,91
+Cochabamba,31202,Pojo (cbba),2018,8,TOTAL,198
+Chuquisaca,10103,Poroma,2018,8,TOTAL,151
+Chuquisaca,10302,Presto,2018,8,TOTAL,207
+Potosí,51101,Puna,2018,8,TOTAL,82
+Cochabamba,31401,Punata,2018,8,TOTAL,250
+Cochabamba,30901,Quillacollo,2018,8,TOTAL,1081
+Santa Cruz,70904,Quirusillas,2018,8,TOTAL,55
+Cochabamba,31304,Raqaypampa(eta),2018,8,TOTAL,622
+Potosí,50402,Ravelo,2018,8,TOTAL,210
+Cochabamba,31001,Sacaba,2018,8,TOTAL,943
+Cochabamba,30404,Sacabamba,2018,8,TOTAL,22
+Cochabamba,31403,San Benito,2018,8,TOTAL,186
+Tarija,60501,San Lorenzo(tja),2018,8,TOTAL,326
+Chuquisaca,10702,San Lucas,2018,8,TOTAL,419
+Cochabamba,30702,Santivañes,2018,8,TOTAL,196
+Cochabamba,30703,Sicaya,2018,8,TOTAL,65
+Cochabamba,30902,Sipe Sipe,2018,8,TOTAL,289
+Chuquisaca,10403,Sopachuy,2018,8,TOTAL,40
+Chuquisaca,10101,Sucre,2018,8,TOTAL,186
+Cochabamba,31404,Tacachi,2018,8,TOTAL,58
+Cochabamba,30602,Tacopaya,2018,8,TOTAL,447
+Chuquisaca,10601,Tarabuco,2018,8,TOTAL,347
+Cochabamba,30401,Tarata,2018,8,TOTAL,252
+Tarija,60101,Tarija,2018,8,TOTAL,383
+Chuquisaca,10202,Tarvita,2018,8,TOTAL,526
+Cochabamba,30903,Tiquipaya,2018,8,TOTAL,300
+Cochabamba,30802,Toco,2018,8,TOTAL,57
+Cochabamba,30803,Tolata,2018,8,TOTAL,1
+Potosí,50502,Toro Toro,2018,8,TOTAL,218
+Cochabamba,31201,Totora(cbba),2018,8,TOTAL,187
+Potosí,50801,Tupiza,2018,8,TOTAL,244
+Tarija,60401,Uriondo (a. Concepcion),2018,8,TOTAL,241
+Santa Cruz,70801,Vallegrande,2018,8,TOTAL,237
+Cochabamba,31302,Vila Vila,2018,8,TOTAL,358
+Chuquisaca,10704,Villa Charcas,2018,8,TOTAL,222
+Tarija,60303,Villa Montes,2018,8,TOTAL,312
+Cochabamba,31402,Villa Rivero,2018,8,TOTAL,247
+Chuquisaca,10801,Villa Serrano,2018,8,TOTAL,584
+Potosí,51501,Villazon,2018,8,TOTAL,166
+Cochabamba,30904,Vinto,2018,8,TOTAL,393
+Potosí,50602,Vitichi,2018,8,TOTAL,436
+Tarija,60301,Yacuiba,2018,8,TOTAL,215
+Chuquisaca,10602,Yamparaez,2018,8,TOTAL,353
+Tarija,60402,Yunchara,2018,8,TOTAL,48
+Potosí,51302,Acacio,2018,9,TOTAL,259
+Cochabamba,30201,Aiquile,2018,9,TOTAL,655
+Cochabamba,30402,Anzaldo,2018,9,TOTAL,215
+Potosí,51301,Arampampa,2018,9,TOTAL,124
+Cochabamba,30501,Arani,2018,9,TOTAL,555
+Cochabamba,30403,Arbieto,2018,9,TOTAL,228
+Cochabamba,30601,Arque,2018,9,TOTAL,49
+La Paz,20503,Aucapata,2018,9,TOTAL,163
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,9,TOTAL,232
+Chuquisaca,10201,Azurduy,2018,9,TOTAL,133
+Potosí,51102,"Caiza ""d""",2018,9,TOTAL,360
+Chuquisaca,10701,Camargo,2018,9,TOTAL,404
+Santa Cruz,70706,Camiri,2018,9,TOTAL,41
+Cochabamba,30701,Capinota,2018,9,TOTAL,586
+Potosí,51103,Ckochas,2018,9,TOTAL,190
+Cochabamba,30801,Cliza,2018,9,TOTAL,213
+Cochabamba,30101,Cochabamba,2018,9,TOTAL,1946
+Potosí,50401,Colquechaca,2018,9,TOTAL,160
+Potosí,50601,Cotagaita,2018,9,TOTAL,829
+Santa Cruz,71106,Cuatro Cañadas,2018,9,TOTAL,124
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,9,TOTAL,138
+Tarija,60502,El Puente(tja),2018,9,TOTAL,149
+Chuquisaca,10405,El Villar,2018,9,TOTAL,36
+Chuquisaca,10502,Huacareta,2018,9,TOTAL,371
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,9,TOTAL,22
+Santa Cruz,70104,La Guardia,2018,9,TOTAL,2
+Chuquisaca,10903,Las Carreras,2018,9,TOTAL,74
+La Paz,20901,Luribay,2018,9,TOTAL,49
+La Paz,20103,Mecapaca,2018,9,TOTAL,459
+Cochabamba,31301,Mizque,2018,9,TOTAL,745
+Chuquisaca,10501,Monteagudo,2018,9,TOTAL,272
+Potosí,50404,Ocuri,2018,9,TOTAL,214
+Cochabamba,30203,Omereque,2018,9,TOTAL,378
+Tarija,60201,Padcaya,2018,9,TOTAL,105
+Chuquisaca,10401,Padilla,2018,9,TOTAL,277
+Santa Cruz,70902,Pampa Grande,2018,9,TOTAL,99
+Cochabamba,30202,Pasorapa,2018,9,TOTAL,95
+Cochabamba,31202,Pojo (cbba),2018,9,TOTAL,134
+Chuquisaca,10103,Poroma,2018,9,TOTAL,903
+Potosí,51101,Puna,2018,9,TOTAL,80
+Cochabamba,31401,Punata,2018,9,TOTAL,969
+Cochabamba,30901,Quillacollo,2018,9,TOTAL,921
+Cochabamba,31001,Sacaba,2018,9,TOTAL,934
+Cochabamba,30404,Sacabamba,2018,9,TOTAL,57
+Santa Cruz,70901,Samaipata,2018,9,TOTAL,55
+Cochabamba,31403,San Benito,2018,9,TOTAL,355
+Tarija,60501,San Lorenzo(tja),2018,9,TOTAL,213
+Chuquisaca,10702,San Lucas,2018,9,TOTAL,458
+Potosí,50501,San Pedro De Buena Vista,2018,9,TOTAL,981
+Cochabamba,30702,Santivañes,2018,9,TOTAL,324
+Cochabamba,30703,Sicaya,2018,9,TOTAL,101
+Cochabamba,30902,Sipe Sipe,2018,9,TOTAL,486
+Chuquisaca,10101,Sucre,2018,9,TOTAL,332
+Cochabamba,31404,Tacachi,2018,9,TOTAL,91
+La Paz,20603,Tacacoma,2018,9,TOTAL,399
+Cochabamba,30602,Tacopaya,2018,9,TOTAL,346
+Cochabamba,30401,Tarata,2018,9,TOTAL,168
+Tarija,60101,Tarija,2018,9,TOTAL,57
+Chuquisaca,10202,Tarvita,2018,9,TOTAL,773
+Cochabamba,30903,Tiquipaya,2018,9,TOTAL,248
+Cochabamba,30802,Toco,2018,9,TOTAL,196
+Cochabamba,30803,Tolata,2018,9,TOTAL,33
+Chuquisaca,10402,Tomina,2018,9,TOTAL,352
+Cochabamba,31201,Totora(cbba),2018,9,TOTAL,179
+Potosí,50801,Tupiza,2018,9,TOTAL,723
+Tarija,60401,Uriondo (a. Concepcion),2018,9,TOTAL,297
+Santa Cruz,70801,Vallegrande,2018,9,TOTAL,370
+Cochabamba,31302,Vila Vila,2018,9,TOTAL,30
+Chuquisaca,10704,Villa Charcas,2018,9,TOTAL,317
+Tarija,60303,Villa Montes,2018,9,TOTAL,99
+Cochabamba,31402,Villa Rivero,2018,9,TOTAL,223
+Chuquisaca,10801,Villa Serrano,2018,9,TOTAL,1307
+Potosí,51501,Villazon,2018,9,TOTAL,200
+Cochabamba,30904,Vinto,2018,9,TOTAL,229
+Potosí,50602,Vitichi,2018,9,TOTAL,316
+Tarija,60301,Yacuiba,2018,9,TOTAL,287
+Chuquisaca,10602,Yamparaez,2018,9,TOTAL,383
+Tarija,60402,Yunchara,2018,9,TOTAL,179
+Chuquisaca,10301,Zudañez,2018,9,TOTAL,22
+Potosí,51302,Acacio,2018,10,TOTAL,185
+Cochabamba,30201,Aiquile,2018,10,TOTAL,413
+Chuquisaca,10404,Alcala,2018,10,TOTAL,8
+Cochabamba,30402,Anzaldo,2018,10,TOTAL,108
+Cochabamba,30501,Arani,2018,10,TOTAL,311
+Cochabamba,30403,Arbieto,2018,10,TOTAL,265
+Cochabamba,30601,Arque,2018,10,TOTAL,41
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,10,TOTAL,263
+Santa Cruz,70707,Boyuibe,2018,10,TOTAL,14
+Cochabamba,30701,Capinota,2018,10,TOTAL,636
+Potosí,51103,Ckochas,2018,10,TOTAL,59
+Cochabamba,30801,Cliza,2018,10,TOTAL,276
+Cochabamba,30101,Cochabamba,2018,10,TOTAL,2307
+Cochabamba,30905,Colcapirhua,2018,10,TOTAL,224
+Potosí,50601,Cotagaita,2018,10,TOTAL,342
+Santa Cruz,71106,Cuatro Cañadas,2018,10,TOTAL,120
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,10,TOTAL,206
+Santa Cruz,70704,Cuevo,2018,10,TOTAL,70
+Chuquisaca,10902,Culpina,2018,10,TOTAL,164
+Santa Cruz,70105,El Torno,2018,10,TOTAL,10
+Tarija,60601,Entre Rios Trj,2018,10,TOTAL,87
+Chuquisaca,10502,Huacareta,2018,10,TOTAL,81
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,10,TOTAL,59
+Chuquisaca,10304,Icla,2018,10,TOTAL,202
+La Paz,20901,Luribay,2018,10,TOTAL,379
+Chuquisaca,10303,Mojocoya,2018,10,TOTAL,25
+Potosí,50404,Ocuri,2018,10,TOTAL,190
+Cochabamba,30203,Omereque,2018,10,TOTAL,250
+Chuquisaca,10401,Padilla,2018,10,TOTAL,161
+Santa Cruz,70902,Pampa Grande,2018,10,TOTAL,44
+Cochabamba,30202,Pasorapa,2018,10,TOTAL,147
+Cochabamba,31202,Pojo (cbba),2018,10,TOTAL,53
+Chuquisaca,10103,Poroma,2018,10,TOTAL,219
+Potosí,51101,Puna,2018,10,TOTAL,216
+Cochabamba,31401,Punata,2018,10,TOTAL,309
+Cochabamba,30901,Quillacollo,2018,10,TOTAL,1108
+Santa Cruz,70904,Quirusillas,2018,10,TOTAL,9
+Potosí,50402,Ravelo,2018,10,TOTAL,92
+Cochabamba,31001,Sacaba,2018,10,TOTAL,1238
+Cochabamba,30404,Sacabamba,2018,10,TOTAL,82
+Cochabamba,31403,San Benito,2018,10,TOTAL,304
+Chuquisaca,10702,San Lucas,2018,10,TOTAL,655
+Potosí,50501,San Pedro De Buena Vista,2018,10,TOTAL,13
+Cochabamba,30703,Sicaya,2018,10,TOTAL,162
+Cochabamba,30902,Sipe Sipe,2018,10,TOTAL,348
+Chuquisaca,10403,Sopachuy,2018,10,TOTAL,77
+Chuquisaca,10101,Sucre,2018,10,TOTAL,561
+Cochabamba,31404,Tacachi,2018,10,TOTAL,80
+Cochabamba,30602,Tacopaya,2018,10,TOTAL,247
+Cochabamba,31101,Tapacari,2018,10,TOTAL,144
+Chuquisaca,10601,Tarabuco,2018,10,TOTAL,343
+Cochabamba,30401,Tarata,2018,10,TOTAL,84
+Tarija,60101,Tarija,2018,10,TOTAL,173
+Cochabamba,30903,Tiquipaya,2018,10,TOTAL,714
+Cochabamba,30802,Toco,2018,10,TOTAL,306
+Cochabamba,30803,Tolata,2018,10,TOTAL,62
+Potosí,51202,Tomave,2018,10,TOTAL,261
+Chuquisaca,10402,Tomina,2018,10,TOTAL,282
+Potosí,50502,Toro Toro,2018,10,TOTAL,30
+Cochabamba,31201,Totora(cbba),2018,10,TOTAL,240
+Potosí,50801,Tupiza,2018,10,TOTAL,3
+Tarija,60401,Uriondo (a. Concepcion),2018,10,TOTAL,240
+Santa Cruz,70801,Vallegrande,2018,10,TOTAL,147
+Cochabamba,31302,Vila Vila,2018,10,TOTAL,153
+Chuquisaca,10704,Villa Charcas,2018,10,TOTAL,358
+Tarija,60303,Villa Montes,2018,10,TOTAL,366
+Cochabamba,31402,Villa Rivero,2018,10,TOTAL,140
+Chuquisaca,10801,Villa Serrano,2018,10,TOTAL,622
+Potosí,50602,Vitichi,2018,10,TOTAL,225
+Tarija,60301,Yacuiba,2018,10,TOTAL,155
+Chuquisaca,10602,Yamparaez,2018,10,TOTAL,546
+Chuquisaca,10301,Zudañez,2018,10,TOTAL,98
+Potosí,51302,Acacio,2018,11,TOTAL,280
+Cochabamba,30201,Aiquile,2018,11,TOTAL,168
+Chuquisaca,10404,Alcala,2018,11,TOTAL,22
+Cochabamba,30402,Anzaldo,2018,11,TOTAL,207
+Cochabamba,30501,Arani,2018,11,TOTAL,483
+Cochabamba,30403,Arbieto,2018,11,TOTAL,280
+Cochabamba,30601,Arque,2018,11,TOTAL,53
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,11,TOTAL,211
+Santa Cruz,70707,Boyuibe,2018,11,TOTAL,51
+Potosí,51102,"Caiza ""d""",2018,11,TOTAL,367
+Cochabamba,30701,Capinota,2018,11,TOTAL,678
+Cochabamba,30801,Cliza,2018,11,TOTAL,256
+Cochabamba,30101,Cochabamba,2018,11,TOTAL,3318
+Cochabamba,30905,Colcapirhua,2018,11,TOTAL,238
+Potosí,50401,Colquechaca,2018,11,TOTAL,121
+Potosí,50601,Cotagaita,2018,11,TOTAL,501
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,11,TOTAL,168
+Chuquisaca,10902,Culpina,2018,11,TOTAL,106
+Tarija,60502,El Puente(tja),2018,11,TOTAL,286
+Santa Cruz,70105,El Torno,2018,11,TOTAL,18
+Chuquisaca,11002,Huacaya (villa De Huacaya),2018,11,TOTAL,45
+Chuquisaca,10304,Icla,2018,11,TOTAL,157
+Chuquisaca,11003,Machareti,2018,11,TOTAL,4
+Cochabamba,31301,Mizque,2018,11,TOTAL,1015
+Potosí,50404,Ocuri,2018,11,TOTAL,165
+Cochabamba,30203,Omereque,2018,11,TOTAL,389
+Tarija,60201,Padcaya,2018,11,TOTAL,288
+Cochabamba,30202,Pasorapa,2018,11,TOTAL,106
+Cochabamba,31202,Pojo (cbba),2018,11,TOTAL,52
+Potosí,51101,Puna,2018,11,TOTAL,127
+Cochabamba,31401,Punata,2018,11,TOTAL,143
+Cochabamba,30901,Quillacollo,2018,11,TOTAL,1063
+Santa Cruz,70904,Quirusillas,2018,11,TOTAL,17
+Potosí,50402,Ravelo,2018,11,TOTAL,184
+Cochabamba,31001,Sacaba,2018,11,TOTAL,905
+Cochabamba,30404,Sacabamba,2018,11,TOTAL,62
+Santa Cruz,70901,Samaipata,2018,11,TOTAL,25
+Cochabamba,31403,San Benito,2018,11,TOTAL,339
+Tarija,60501,San Lorenzo(tja),2018,11,TOTAL,370
+Potosí,50501,San Pedro De Buena Vista,2018,11,TOTAL,631
+Cochabamba,30703,Sicaya,2018,11,TOTAL,142
+Cochabamba,30902,Sipe Sipe,2018,11,TOTAL,437
+Chuquisaca,10403,Sopachuy,2018,11,TOTAL,58
+Chuquisaca,10101,Sucre,2018,11,TOTAL,498
+Cochabamba,31404,Tacachi,2018,11,TOTAL,120
+Cochabamba,30602,Tacopaya,2018,11,TOTAL,259
+Cochabamba,31101,Tapacari,2018,11,TOTAL,131
+Chuquisaca,10601,Tarabuco,2018,11,TOTAL,383
+Tarija,60101,Tarija,2018,11,TOTAL,316
+Cochabamba,30903,Tiquipaya,2018,11,TOTAL,620
+Cochabamba,30802,Toco,2018,11,TOTAL,69
+Cochabamba,30803,Tolata,2018,11,TOTAL,336
+Potosí,51202,Tomave,2018,11,TOTAL,232
+Chuquisaca,10402,Tomina,2018,11,TOTAL,15
+Cochabamba,31201,Totora(cbba),2018,11,TOTAL,185
+Potosí,50801,Tupiza,2018,11,TOTAL,190
+Tarija,60401,Uriondo (a. Concepcion),2018,11,TOTAL,443
+Santa Cruz,70801,Vallegrande,2018,11,TOTAL,160
+Cochabamba,31302,Vila Vila,2018,11,TOTAL,175
+Chuquisaca,10704,Villa Charcas,2018,11,TOTAL,148
+Tarija,60303,Villa Montes,2018,11,TOTAL,85
+Cochabamba,31402,Villa Rivero,2018,11,TOTAL,322
+Chuquisaca,10801,Villa Serrano,2018,11,TOTAL,377
+Potosí,51501,Villazon,2018,11,TOTAL,120
+Cochabamba,30904,Vinto,2018,11,TOTAL,414
+Potosí,50602,Vitichi,2018,11,TOTAL,336
+Tarija,60301,Yacuiba,2018,11,TOTAL,779
+Chuquisaca,10102,Yotala,2018,11,TOTAL,983
+Chuquisaca,10301,Zudañez,2018,11,TOTAL,63
+Potosí,51302,Acacio,2018,12,TOTAL,80
+Cochabamba,30201,Aiquile,2018,12,TOTAL,99
+Chuquisaca,10404,Alcala,2018,12,TOTAL,19
+Cochabamba,30402,Anzaldo,2018,12,TOTAL,62
+Cochabamba,30501,Arani,2018,12,TOTAL,528
+Cochabamba,30403,Arbieto,2018,12,TOTAL,243
+Cochabamba,30601,Arque,2018,12,TOTAL,38
+Cochabamba,30301,Ayopaya (v. De Independencia),2018,12,TOTAL,85
+Santa Cruz,70707,Boyuibe,2018,12,TOTAL,9
+Potosí,51102,"Caiza ""d""",2018,12,TOTAL,27
+Cochabamba,30701,Capinota,2018,12,TOTAL,606
+Cochabamba,30801,Cliza,2018,12,TOTAL,288
+Cochabamba,30101,Cochabamba,2018,12,TOTAL,714
+Cochabamba,30905,Colcapirhua,2018,12,TOTAL,204
+Potosí,50401,Colquechaca,2018,12,TOTAL,48
+Potosí,50601,Cotagaita,2018,12,TOTAL,367
+Santa Cruz,71106,Cuatro Cañadas,2018,12,TOTAL,230
+Cochabamba,31405,Cuchumuela (v. G. Villarroel),2018,12,TOTAL,150
+Chuquisaca,10902,Culpina,2018,12,TOTAL,140
+Tarija,60502,El Puente(tja),2018,12,TOTAL,63
+Santa Cruz,70105,El Torno,2018,12,TOTAL,27
+Chuquisaca,10304,Icla,2018,12,TOTAL,75
+Chuquisaca,10903,Las Carreras,2018,12,TOTAL,93
+Cochabamba,31301,Mizque,2018,12,TOTAL,963
+Cochabamba,30203,Omereque,2018,12,TOTAL,417
+Tarija,60201,Padcaya,2018,12,TOTAL,142
+Cochabamba,30202,Pasorapa,2018,12,TOTAL,63
+Chuquisaca,10103,Poroma,2018,12,TOTAL,139
+Cochabamba,31401,Punata,2018,12,TOTAL,185
+Potosí,50402,Ravelo,2018,12,TOTAL,52
+Cochabamba,31001,Sacaba,2018,12,TOTAL,1154
+Santa Cruz,70901,Samaipata,2018,12,TOTAL,73
+Cochabamba,31403,San Benito,2018,12,TOTAL,249
+Tarija,60501,San Lorenzo(tja),2018,12,TOTAL,283
+Potosí,50501,San Pedro De Buena Vista,2018,12,TOTAL,572
+Cochabamba,30702,Santivañes,2018,12,TOTAL,283
+Cochabamba,30703,Sicaya,2018,12,TOTAL,92
+Cochabamba,30902,Sipe Sipe,2018,12,TOTAL,238
+Cochabamba,31404,Tacachi,2018,12,TOTAL,102
+Cochabamba,30602,Tacopaya,2018,12,TOTAL,118
+Chuquisaca,10601,Tarabuco,2018,12,TOTAL,400
+Cochabamba,30903,Tiquipaya,2018,12,TOTAL,286
+Cochabamba,30803,Tolata,2018,12,TOTAL,132
+Potosí,50502,Toro Toro,2018,12,TOTAL,127
+Cochabamba,31201,Totora(cbba),2018,12,TOTAL,179
+Potosí,50801,Tupiza,2018,12,TOTAL,358
+Tarija,60401,Uriondo (a. Concepcion),2018,12,TOTAL,143
+Santa Cruz,70801,Vallegrande,2018,12,TOTAL,108
+Cochabamba,31302,Vila Vila,2018,12,TOTAL,68
+Chuquisaca,10704,Villa Charcas,2018,12,TOTAL,214
+Cochabamba,31402,Villa Rivero,2018,12,TOTAL,310
+Cochabamba,30904,Vinto,2018,12,TOTAL,304
+Potosí,50602,Vitichi,2018,12,TOTAL,196
+Tarija,60301,Yacuiba,2018,12,TOTAL,434

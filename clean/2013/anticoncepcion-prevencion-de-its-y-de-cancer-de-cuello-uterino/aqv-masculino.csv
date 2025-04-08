@@ -1,0 +1,105 @@
+department,municipality_id,municipality,year,month,population,value
+Cochabamba,30101,Cochabamba,2013,1,AQV masculino,5
+La Paz,20105,El Alto,2013,1,AQV masculino,3
+La Paz,20101,La Paz,2013,1,AQV masculino,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,AQV masculino,2
+Chuquisaca,10101,Sucre,2013,1,AQV masculino,1
+Cochabamba,30101,Cochabamba,2013,2,AQV masculino,3
+La Paz,20105,El Alto,2013,2,AQV masculino,2
+La Paz,20101,La Paz,2013,2,AQV masculino,3
+Chuquisaca,10101,Sucre,2013,2,AQV masculino,1
+Tarija,60301,Yacuiba,2013,2,AQV masculino,1
+Cochabamba,30101,Cochabamba,2013,3,AQV masculino,4
+La Paz,20101,La Paz,2013,3,AQV masculino,4
+Chuquisaca,10101,Sucre,2013,3,AQV masculino,1
+Cochabamba,30101,Cochabamba,2013,4,AQV masculino,4
+La Paz,20105,El Alto,2013,4,AQV masculino,3
+La Paz,20101,La Paz,2013,4,AQV masculino,8
+Potosí,50101,Potosi,2013,4,AQV masculino,2
+Chuquisaca,10101,Sucre,2013,4,AQV masculino,2
+Cochabamba,30101,Cochabamba,2013,5,AQV masculino,7
+La Paz,20105,El Alto,2013,5,AQV masculino,2
+La Paz,20101,La Paz,2013,5,AQV masculino,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,AQV masculino,2
+Chuquisaca,10101,Sucre,2013,5,AQV masculino,1
+Cochabamba,30101,Cochabamba,2013,6,AQV masculino,3
+La Paz,20105,El Alto,2013,6,AQV masculino,1
+La Paz,20101,La Paz,2013,6,AQV masculino,2
+La Paz,20101,La Paz,2013,7,AQV masculino,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,AQV masculino,1
+Tarija,60101,Tarija,2013,7,AQV masculino,1
+Cochabamba,30101,Cochabamba,2013,8,AQV masculino,4
+La Paz,20105,El Alto,2013,8,AQV masculino,1
+La Paz,20101,La Paz,2013,8,AQV masculino,6
+Chuquisaca,10501,Monteagudo,2013,8,AQV masculino,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,8,AQV masculino,2
+Cochabamba,31003,Villa Tunari,2013,8,AQV masculino,1
+La Paz,20105,El Alto,2013,9,AQV masculino,4
+La Paz,20101,La Paz,2013,9,AQV masculino,3
+Potosí,50101,Potosi,2013,9,AQV masculino,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,9,AQV masculino,1
+Chuquisaca,10101,Sucre,2013,9,AQV masculino,1
+Santa Cruz,70801,Vallegrande,2013,9,AQV masculino,4
+Cochabamba,31003,Villa Tunari,2013,9,AQV masculino,0
+Cochabamba,30101,Cochabamba,2013,10,AQV masculino,2
+La Paz,20105,El Alto,2013,10,AQV masculino,2
+La Paz,20101,La Paz,2013,10,AQV masculino,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,AQV masculino,2
+Cochabamba,30101,Cochabamba,2013,11,AQV masculino,2
+La Paz,20105,El Alto,2013,11,AQV masculino,1
+La Paz,20101,La Paz,2013,11,AQV masculino,8
+Chuquisaca,10101,Sucre,2013,11,AQV masculino,1
+La Paz,20105,El Alto,2013,12,AQV masculino,1
+La Paz,20101,La Paz,2013,12,AQV masculino,6
+Cochabamba,30101,Cochabamba,2013,1,TOTAL,5
+La Paz,20105,El Alto,2013,1,TOTAL,3
+La Paz,20101,La Paz,2013,1,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,1,TOTAL,2
+Chuquisaca,10101,Sucre,2013,1,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,2,TOTAL,3
+La Paz,20105,El Alto,2013,2,TOTAL,2
+La Paz,20101,La Paz,2013,2,TOTAL,3
+Chuquisaca,10101,Sucre,2013,2,TOTAL,1
+Tarija,60301,Yacuiba,2013,2,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,3,TOTAL,4
+La Paz,20101,La Paz,2013,3,TOTAL,4
+Chuquisaca,10101,Sucre,2013,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,4,TOTAL,4
+La Paz,20105,El Alto,2013,4,TOTAL,3
+La Paz,20101,La Paz,2013,4,TOTAL,8
+Potosí,50101,Potosi,2013,4,TOTAL,2
+Chuquisaca,10101,Sucre,2013,4,TOTAL,2
+Cochabamba,30101,Cochabamba,2013,5,TOTAL,7
+La Paz,20105,El Alto,2013,5,TOTAL,2
+La Paz,20101,La Paz,2013,5,TOTAL,9
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,5,TOTAL,2
+Chuquisaca,10101,Sucre,2013,5,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,6,TOTAL,3
+La Paz,20105,El Alto,2013,6,TOTAL,1
+La Paz,20101,La Paz,2013,6,TOTAL,2
+La Paz,20101,La Paz,2013,7,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,7,TOTAL,1
+Tarija,60101,Tarija,2013,7,TOTAL,1
+Cochabamba,30101,Cochabamba,2013,8,TOTAL,4
+La Paz,20105,El Alto,2013,8,TOTAL,1
+La Paz,20101,La Paz,2013,8,TOTAL,6
+Chuquisaca,10501,Monteagudo,2013,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,8,TOTAL,2
+Cochabamba,31003,Villa Tunari,2013,8,TOTAL,1
+La Paz,20105,El Alto,2013,9,TOTAL,4
+La Paz,20101,La Paz,2013,9,TOTAL,3
+Potosí,50101,Potosi,2013,9,TOTAL,13
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,9,TOTAL,1
+Chuquisaca,10101,Sucre,2013,9,TOTAL,1
+Santa Cruz,70801,Vallegrande,2013,9,TOTAL,4
+Cochabamba,31003,Villa Tunari,2013,9,TOTAL,0
+Cochabamba,30101,Cochabamba,2013,10,TOTAL,2
+La Paz,20105,El Alto,2013,10,TOTAL,2
+La Paz,20101,La Paz,2013,10,TOTAL,5
+Santa Cruz,70101,Santa Cruz De La Sierra,2013,10,TOTAL,2
+Cochabamba,30101,Cochabamba,2013,11,TOTAL,2
+La Paz,20105,El Alto,2013,11,TOTAL,1
+La Paz,20101,La Paz,2013,11,TOTAL,8
+Chuquisaca,10101,Sucre,2013,11,TOTAL,1
+La Paz,20105,El Alto,2013,12,TOTAL,1
+La Paz,20101,La Paz,2013,12,TOTAL,6

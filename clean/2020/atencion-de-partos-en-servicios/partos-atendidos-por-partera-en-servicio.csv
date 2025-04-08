@@ -1,0 +1,13 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70301,San Ignacio De Velasco,2020,4,Partos atendidos por partera en servicio,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,4,Partos atendidos por partera en servicio,2
+Santa Cruz,70201,Warnes,2020,4,Partos atendidos por partera en servicio,2
+Santa Cruz,70701,Lagunillas,2020,7,Partos atendidos por partera en servicio,1
+Beni,80601,Loreto,2020,7,Partos atendidos por partera en servicio,1
+Santa Cruz,71503,El Puente(stc),2020,11,Partos atendidos por partera en servicio,1
+Santa Cruz,70301,San Ignacio De Velasco,2020,4,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2020,4,TOTAL,2
+Santa Cruz,70201,Warnes,2020,4,TOTAL,2
+Santa Cruz,70701,Lagunillas,2020,7,TOTAL,1
+Beni,80601,Loreto,2020,7,TOTAL,1
+Santa Cruz,71503,El Puente(stc),2020,11,TOTAL,1

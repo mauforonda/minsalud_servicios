@@ -1,0 +1,739 @@
+,group,variable,month,SRP 1RA. DOSIS DENTRO,SRP 1RA. DOSIS DENTRO,SRP 1RA. DOSIS FUERA,SRP 1RA. DOSIS FUERA,TOTALES
+,,,,DENTRO,FUERA,DENTRO,FUERA,TOTAL
+municipality,,,,,,,,
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,3,1,0,0,4
+CHIMORE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,1,0,2
+COBIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,0,0,0,1
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,8,4,3,1,16
+COLCAPIRHUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,1,0,1,3
+COLQUIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,0,1,1
+CONCEPCION,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,7,3,10
+CORO CORO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,0,1
+COTOCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,3,1,0,5
+CUATRO CAÑADAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,2,0,0,3
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,5,7,0,4,16
+GUANAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,0,1
+GUAYARAMERIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,1,0,0,2
+HUANUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,2,2,0,0,4
+LA ASUNTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,1,0,0,2
+LA GUARDIA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,0,0,0,1
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,6,5,0,0,11
+MOJINETE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,1,0,1
+MONTERO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,1,2
+OCURI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,2,0,2
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,4,2,0,0,6
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,0,1,2,4
+PALCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,0,1,1,3
+PORTACHUELO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,0,1
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,1,0,0,2
+PUCARANI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,1,2
+PUERTO SUAREZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,1,0,1
+PUERTO VILLARROEL,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,1,2
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,3,1,2,2,8
+REYES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,0,1,1
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,0,0,1,2
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,0,0,0,1
+SACACA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,0,1,1
+SAN IGNACIO DE VELASCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,0,1
+SAN LORENZO(PND),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,1,0,1
+SAN PEDRO DE MACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,0,1
+SANTA ANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,25,18,1,7,51
+SANTA ROSA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,1,0,2
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,2,1,0,0,3
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,4,5,0,1,10
+TAPACARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,1,0,1
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,1,1,0,3
+TIQUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,0,1
+TOTORA(CBBA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,0,2,2
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,2,1,0,0,3
+UYUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,0,1,0,1
+VIACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,0,0,1,2
+VILLA TUNARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,0,1,0,2
+VILLAZON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,0,1
+VINTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,0,1,0,1,2
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,1,0,0,2
+YOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-01-01,1,2,0,0,3
+ACHACACHI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,3,0,2,1,6
+ACHOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,1,1,1,4
+AIQUILE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,0,1,1
+ATOCHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,3,1,0,0,4
+BAURES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,2,0,0,2
+BERMEJO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,0,1
+BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+CABEZAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,1,0,1
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,2,4,0,1,7
+CHALLAPATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,2,0,0,2
+CHIMORE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,1,0,2
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,2,4,2,2,10
+COLOMI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,1,0,1
+COROICO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,0,1,1
+COTOCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,0,1
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,2,2,3,4,11
+EL TORNO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+GUANAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+GUAQUI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+GUAYARAMERIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,2,0,2,0,4
+INCAHUASI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,2,1,3
+LA ASUNTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,2,0,0,3
+LA GUARDIA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,0,1,1
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,4,10,0,1,15
+LLALLAGUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,1,2
+MAPIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,0,1
+MINEROS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,0,1
+MOJINETE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,1,2
+MONTERO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,2,0,0,3,5
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,2,1,0,0,3
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,18,8,23,17,66
+PALCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+PALOS BLANCOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,0,1
+PORTACHUELO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,1,2
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,2,2,0,0,4
+PUERTO QUIJARRO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,2,3,1,7
+REYES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,1,0,0,2
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,1,2
+SACACA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,3,2,5
+SAN BENITO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,0,1
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,3,1,2,7
+SAN BUENA VENTURA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+SAN IGNACIO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+SAN IGNACIO DE VELASCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,0,1
+SAN JOSE DE CHIQUITOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,2,0,0,0,2
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,2,0,0,2
+SAN PEDRO DE MACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+SANTA ANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,0,0,1
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,15,13,7,7,42
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,1,0,0,2
+TAPACARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,1,0,1
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+VIACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,1,0,0,0,1
+VILLA TUNARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,1,1,0,2
+VILLA VACA GUZMAN (MUYUPAMPA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,1,0,1
+VINTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,0,0,1,0,1
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-02-01,2,0,0,0,2
+ACHACACHI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,1,0,2
+ACHOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,0,0,1
+ARBIETO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,0,0,1
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,2,0,0,2
+CARANAVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,2,0,0,2
+CHARAGUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,0,1,0,1
+CHAYANTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,0,0,1
+CHIMORE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,2,0,0,2
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,4,5,1,0,10
+COLCAPIRHUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,0,0,1
+CONCEPCION,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,0,1,0,1
+COROICO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,0,0,1,1
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,5,7,9,9,30
+GENERAL SAAVEDRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,0,0,1,1
+GUANAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,2,2,0,0,4
+HUANUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,2,0,0,0,2
+LA ASUNTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,1,0,0,2
+LA GUARDIA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,0,0,1
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,5,6,1,0,12
+MACHARETI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,0,0,1
+MINEROS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,1,0,2
+OCURI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,2,1,1,1,5
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,0,0,1
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,0,6,3,9
+PALOS BLANCOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,0,0,1
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,1,0,2
+PUERTO QUIJARRO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,2,0,0,2
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,2,1,0,4
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,1,0,0,2
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,0,0,1
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,0,1,0,1
+SAN JAVIER(STC),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,0,0,1
+SAN PEDRO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,0,0,1
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,1,1,3
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,8,5,17,9,39
+SHINAOTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,2,0,0,2
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,0,0,1
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,2,2,0,0,4
+TARATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,0,1,1,2
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,0,0,1
+TIQUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,0,0,1
+TORO TORO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,0,0,1
+TUPIZA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,2,1,4
+TURCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,0,0,1,1
+VIACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,0,1,2
+VILLA CHARCAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,2,0,0,0,2
+VILLA TUNARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,0,1,0,0,1
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,1,0,2
+YACUIBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-03-01,1,0,0,0,1
+ACHACACHI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,1,0,0,2
+ACHOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,0,0,0,1
+CABEZAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,1,1,2
+CAJUATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,0,1
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,0,0,0,1
+CARACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,1,0,1
+CARANAVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,0,4,4
+CHULUMANI (V. DE LA LIBERTAD),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,1,0,1
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,3,4,0,7
+COLCAPIRHUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,0,0,0,1
+COLQUECHACA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,2,0,0,0,2
+CONCEPCION,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,1,0,1
+COROICO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,1,0,1
+COTOCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,0,0,0,1
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,4,4,5,4,17
+LA GUARDIA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,0,1,1
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,21,26,1,0,48
+MACHACAMARCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,4,4,0,0,8
+MACHARETI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,0,1
+MINEROS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,0,2,2
+MOJINETE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,0,1,1
+MONTERO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,3,1,4
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,2,2,4
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,2,2,4
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,3,0,4,2,9
+PUERTO QUIJARRO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,0,1,1
+PUERTO VILLARROEL,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,1,0,1
+PUNATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,1,2
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,0,0,1,2
+RURRENABAQUE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,0,1
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,1,2
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,2,2,0,3,7
+SAN CARLOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,0,1,1
+SAN JAVIER(STC),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,0,1
+SAN LORENZO(PND),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,0,1
+SAN MATIAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,0,2,2
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,3,3,3,0,9
+SANTA ANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,1,1,2
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,10,15,13,17,55
+SORATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,0,1,1
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,4,2,1,0,7
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,1,0,2
+TIQUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,0,1,1
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,0,1
+UYUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,3,0,0,3
+VIACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,1,0,1,3
+VILLA CHARCAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,0,1
+VILLA TUNARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,0,1,0,2
+VILLAZON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,0,1
+WALDO BALLIVIAN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,0,0,0,1
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,4,2,0,0,6
+YACUIBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,1,2,0,0,3
+YOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,1,0,0,1
+YUNCHARA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-04-01,0,0,1,0,1
+ACHACACHI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+ASCENCION DE GUARAYOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,0,1
+ATOCHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,1,0,1
+BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,3,0,1,0,4
+CAMATAQUI (C. VILLA ABECIA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,3,1,5
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,5,1,7
+CARANAVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,1,2,3
+CHULUMANI (V. DE LA LIBERTAD),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+CHUQUIHUTA AYLLU JUCUMANI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,0,1
+COBIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,0,1,1
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,3,4,0,0,7
+COLOMI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,0,1
+COMBAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,0,1
+CORO CORO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,1,0,1
+COROICO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+COTOCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,1,0,2
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,25,27,26,24,102
+EL PUENTE(STC),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,2,0,0,2
+GUAYARAMERIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,7,4,14,19,44
+LURIBAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,2,0,2
+MACHACAMARCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,3,3,0,0,6
+MINEROS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,1,2
+MONTERO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+OCURI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,2,0,2,1,5
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,3,2,1,1,7
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,7,4,12
+PALCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,0,1,1
+POCOATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,1,1,2
+PORCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,7,7,7,8,29
+PUERTO QUIJARRO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,6,8,14
+PUERTO VILLARROEL,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,0,1,1
+PUNATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,0,1
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,0,1,1
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,12,11,24
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,1,0,0,2
+SACACA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,3,1,5
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,2,0,1,3
+SAN IGNACIO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,0,1
+SAN IGNACIO DE VELASCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,1,1,2
+SAN JULIAN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,7,3,10
+SAN LORENZO(PND),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,0,1
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,1,4,11,17
+SANTA ANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,1,0,2
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,12,7,19,15,53
+SANTA ROSA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,1,3,4
+SENA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,0,1,1
+SHINAOTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,0,1,1
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,3,1,0,4
+SOPACHUY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,1,0,1
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+TINGUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,9,3,12
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+TUPIZA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,3,5,0,0,8
+URUBICHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,1,0,0,0,1
+UYUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,2,1,2,4,9
+VILLA MONTES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,3,1,4
+VILLA SERRANO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,3,3,0,0,6
+VITICHI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,1,2
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,1,0,0,1
+YACUIBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-05-01,0,0,1,1,2
+ACHACACHI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,0,0,1
+APOLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,0,0,1
+ASCENCION DE GUARAYOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,0,0,1
+ATOCHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,2,1,3
+BELEN DE URMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,0,2,2
+BETANZOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,0,0,1
+CABEZAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,0,0,1
+"CAIZA ""D""",vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,0,0,1
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,0,0,1
+CARANAVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,2,2,4
+CHAYANTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,2,0,0,0,2
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,2,0,3
+CORIPATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,1,0,0,2
+COTOCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,1,0,1
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,6,4,7,4,21
+GUAYARAMERIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,2,4,2,8
+HUANUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,1,0,0,2
+INQUISIVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,2,1,0,0,3
+IRUPANA (VILLA DE LANZA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,0,1,1
+IXIAMAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,2,2,4
+LA GUARDIA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,0,0,1
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,14,19,13,10,56
+MACHACAMARCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,2,0,0,3
+MACHARETI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,0,3,3
+MOJINETE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,0,1,1
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,3,2,1,6
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,2,0,0,0,2
+PORTACHUELO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,0,0,1
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,7,7,14,12,40
+PUERTO ACOSTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,1,0,1
+PUERTO CARABUCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,2,2,4
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,0,1,2
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,3,2,176,84,265
+ROBORE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,1,0,1
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,0,0,1
+SACACA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,1,0,0,2
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,9,10,1,4,24
+SAN IGNACIO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,5,3,4,2,14
+SAN IGNACIO DE VELASCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,0,1,2
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,2,0,2
+SANTA ANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,1,0,2
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,10,10,66,64,150
+SANTA ROSA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,0,1,1
+SICA SICA (VILLA AROMA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,2,3,0,0,5
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,1,0,2
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,6,7,0,0,13
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,2,0,1,0,3
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,1,21,14,37
+TUPIZA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,7,8,0,0,15
+UMALA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,1,0,1
+VIACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,0,0,1
+VINTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,0,0,1
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,1,0,3,2,6
+YACO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,0,1,1,2
+YACUIBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,0,1,2
+YOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-06-01,0,1,0,0,1
+ACHACACHI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+AIQUILE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+ALTO BENI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+APOLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,2,0,0,0,2
+BAURES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,3,2,0,0,5
+BERMEJO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+CALAMARCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,2,0,0,0,2
+CAQUIAVIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+CARACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,0,1,1
+CARANAVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,1,1,0,3
+CHARAGUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+CHIMORE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,2,0,5,7,14
+CHUA COCANI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+CHULUMANI (V. DE LA LIBERTAD),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,2,2,3,0,7
+COLCAPIRHUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,3,0,0,3
+CONCEPCION,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,0,1
+COPACABANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,0,1
+COROICO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+COTOCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,1,1,4,7
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,11,12,5,3,31
+ENTRE RIOS TRJ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+ENTRE RIOS CBBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+GUANAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,0,1
+GUAYARAMERIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,1,2
+HUANUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+ICHOCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,1,2
+IRUPANA (VILLA DE LANZA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+LA ASUNTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,20,20,5,6,51
+LORETO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,5,5,10
+LURIBAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,6,3,9
+MAGDALENA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,0,1
+MAPIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,0,2,2
+MOJINETE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,12,4,2,2,20
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,3,3,4,6,16
+PAZÑA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,0,1,1
+POCOATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,1,2
+PORONGO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,2,0,1,3
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,3,0,1,1,5
+PUCARANI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+PUERTO ACOSTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,2,0,2
+PUERTO CARABUCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,13,13,27
+PUERTO VILLARROEL,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,0,1
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,1,2
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,5,2,0,1,8
+SABAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,0,1
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+SACACA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,1,2
+SALINAS DE GARCI MENDOZA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,0,1,1
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,4,3,6,4,17
+SAN IGNACIO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,2,2,5
+SAN JAVIER(BNI),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+SAN JOAQUIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,3,2,0,0,5
+SAN JOSE DE CHIQUITOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,4,4,8
+SAN MATIAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,5,11,5,1,22
+SENA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,5,5,10
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,2,0,0,2
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+TAPACARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,1,0,1
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,2,7,14,9,32
+TINGUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,0,1,1
+TIQUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,3,4,2,1,10
+TUPIZA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,5,6,11
+UYUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,1,0,0,2
+VILLA MONTES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+VILLA TUNARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,0,0,1,1
+VINTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,0,0,1
+YACO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,1,0,2
+YACUIBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,0,1,1,0,2
+YOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-07-01,1,0,0,0,1
+ACHACACHI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,2,0,0,1,3
+BAURES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,2,1,0,0,3
+BERMEJO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,2,0,0,2
+BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,4,3,0,0,7
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,11,5,0,0,16
+CAQUIAVIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,1,0,0,2
+CARANAVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,0,1
+CHARAGUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,3,2,5
+COCAPATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,0,1
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,4,2,2,9
+COLCAPIRHUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+COMARAPA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,0,1
+CORIPATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+CUATRO CAÑADAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,1,2
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,8,2,51,69,130
+EL TORNO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,2,1,0,3
+FERNANDEZ ALONSO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,0,1,1
+GUANAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,2,3
+GUTIERREZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+INQUISIVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,3,4,2,1,10
+IXIAMAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,0,4,4
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,9,6,62,37,114
+LLALLAGUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,1,2
+LURIBAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,4,2,6
+MINEROS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+MONTERO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,1,1,0,3
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,3,0,0,4
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,2,5,8,8,23
+PALCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,0,1,1
+PAMPA GRANDE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,0,0,0,1
+PORTACHUELO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,2,0,0,2
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,4,2,0,1,7
+PUERTO GONZALO MORENO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,3,4
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,2,0,1,0,3
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+ROBORE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,0,0,0,1
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,3,1,0,0,4
+SAN BENITO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,1,0,0,2
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+SAN BUENA VENTURA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,0,1,1
+SAN IGNACIO DE VELASCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+SAN JOAQUIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+SAN JOSE DE CHIQUITOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,4,2,0,0,6
+SAN JULIAN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,0,0,0,1
+SAN LORENZO(PND),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,0,1
+SAN MATIAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+SAN MIGUEL DE VELASCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,0,1
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,1,2
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,20,23,89,63,195
+SANTA ROSA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,2,0,0,0,2
+SANTA ROSA DEL SARA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,1,0,0,2
+SENA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,2,1,0,0,3
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,1,2
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,4,2,8,8,22
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,3,0,0,3
+VIACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,0,1,0,1
+VILLA SERRANO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,2,1,0,0,3
+VINTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,1,3,0,0,4
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,3,6,8,21,38
+YACUIBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-08-01,0,1,0,0,1
+ACHOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,2,1,0,0,3
+APOLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,2,1,0,4
+ATOCHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,1,0,0,1
+AYOPAYA (V. DE INDEPENDENCIA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,2,0,2
+BAURES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,3,3,0,0,6
+CABEZAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,1,0,0,1
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,3,0,8,7,18
+CHARAGUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,2,0,2
+CHIMORE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+CHULUMANI (V. DE LA LIBERTAD),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,0,0,1
+COBIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,1,0,0,1
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,16,13,2,7,38
+COLCAPIRHUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,1,2,5,8
+COLOMI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+CORIPATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,2,1,0,0,3
+CORO CORO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,0,1,1
+COROICO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,0,1,1
+COTOCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,1,3,5
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,19,19,24,24,86
+EL TORNO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,0,0,1
+ENTRE RIOS CBBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,0,0,1
+EXALTACION,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,2,1,0,0,3
+FILADELFIA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+GUANAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,3,2,0,6
+GUAYARAMERIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+HUANUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,2,0,2
+IXIAMAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,2,0,2
+LA ASUNTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,0,0,1
+LA GUARDIA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,1,2,0,3
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,29,32,55,37,153
+LURIBAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,0,0,1
+MINEROS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,2,1,3
+MOJINETE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,0,0,1
+MONTERO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,1,1,2,4
+OKINAWA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,0,1,1
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,6,5,8,20
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,2,5,3,11
+PALOS BLANCOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+PORTACHUELO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,0,5,5
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,7,10,15,13,45
+PUERTO ACOSTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+PUERTO CARABUCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,0,0,1
+PUERTO SUAREZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,11,13,5,13,42
+PUERTO VILLARROEL,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,2,1,1,5
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,5,2,7
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,2,1,4
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,2,2,2,7
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,4,0,1,2,7
+SAN IGNACIO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,1,2
+SAN IGNACIO DE VELASCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,1,0,0,1
+SAN JULIAN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,0,1,2
+SAN LORENZO(PND),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,1,0,0,2
+SAN MATIAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,2,2,3,0,7
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,1,1,3
+SANTA ANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,1,0,0,2
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,30,28,88,68,214
+SANTA ROSA DEL SARA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,2,0,0,3
+SENA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,2,1,3
+SOPACHUY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,4,3,0,0,7
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,3,2,6
+TINGUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+TIQUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,2,0,2
+TIRAQUE (CBBA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,2,2,0,4
+TOLEDO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,0,1,1
+TOMINA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,0,1,1
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,2,4,1,2,9
+UYUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,1,0,0,2
+VIACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,2,0,0,0,2
+VILLA MONTES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,1,2
+VILLA NUEVA (LOMA ALTA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,1,0,1
+VILLA SERRANO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,3,14,0,0,17
+VILLA TUNARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,2,0,0,4,6
+VINTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,0,0,0,1
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,1,5,12,3,21
+YACUIBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,4,1,5
+YAPACANI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-09-01,0,0,2,1,3
+ACACIO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,1,1
+ACHOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,1,0,2
+APOLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+ASCENCION DE GUARAYOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+ATOCHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+BATALLAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+BAURES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,2,0,1,4
+BERMEJO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,1,0,0,2
+CABEZAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,2,1,3
+"CAIZA ""D""",vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+CALACOTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,2,2
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+CHALLAPATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+CHIMORE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,2,2
+CHUA COCANI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+COBIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,4,8,6,4,22
+COLCAPIRHUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,2,3
+COLQUECHACA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+COMANCHE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+CONCEPCION,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+CORIPATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+COROICO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+COTOCA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,5,6
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,25,32,40,42,139
+EL PUENTE(STC),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+EL PUENTE(TJA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+EL TORNO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+ENTRE RIOS CBBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,1,0,1,3
+GENERAL SAAVEDRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,1,1,3
+GUANAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,2,0,2
+GUAYARAMERIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,5,2,7
+HUANUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,1,0,0,2
+HUARACAJE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+INQUISIVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,1,1
+IRUPANA (VILLA DE LANZA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,1,1
+LA ASUNTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,3,0,0,3
+LA GUARDIA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,1,0,2
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,10,7,50,43,110
+LURIBAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,2,1,4
+MAGDALENA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+MAIRANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,1,1
+MOCOMOCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,1,1
+MOJINETE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,1,1
+MONTERO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,2,1,4
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,3,0,4
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,2,2,2,7
+PORTACHUELO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,5,4,10
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,8,2,5,8,23
+PUCARANI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,2,0,2
+PUERTO ACOSTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,1,2
+REYES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,1,1
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,10,10,7,9,36
+RURRENABAQUE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,3,1,1,1,6
+SACACA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,2,2,0,5
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,6,8,2,4,20
+SAN CARLOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+SAN IGNACIO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,4,4,0,0,8
+SAN JAVIER(STC),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,2,0,0,0,2
+SAN JOAQUIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,7,3,0,0,10
+SAN JOSE DE CHIQUITOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,2,1,1,3,7
+SAN JULIAN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+SAN LORENZO(PND),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,7,4,0,0,11
+SAN MATIAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,2,0,2
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,22,30,79,61,192
+SANTA ROSA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+SENA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,1,0,2
+SORATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,1,2
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,2,3
+TARVITA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+TIQUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,0,1
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,5,2,1,5,13
+TUPIZA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+UYUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,1,2
+VILLA MONTES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,0,1,1
+VILLA TUNARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,2,0,3
+VILLAZON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,1,0,0,1
+VINTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,1,0,0,0,1
+WALDO BALLIVIAN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,0,0,1,2,3
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-10-01,5,8,8,6,27
+ANZALDO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,1,0,1
+ATOCHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,1,0,2
+CABEZAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,0,0,0,1
+CAMIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,5,3,0,0,8
+CHIMORE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,0,0,0,1
+CHULUMANI (V. DE LA LIBERTAD),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,0,1,2
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,4,2,2,3,11
+COLCAPIRHUA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,1,0,1
+COLQUECHACA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,0,0,1
+COROICO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,2,0,0,3
+DESAGUADERO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,0,2,2
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,8,9,4,2,23
+EL CHORO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,1,0,0,2
+EL PUENTE(TJA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,0,0,0,1
+EL TORNO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,0,0,1
+ENTRE RIOS CBBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,0,0,1
+GENERAL SAAVEDRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,0,0,1
+GUANAY,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,0,2,2
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,6,4,3,2,15
+MONTERO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,0,0,0,1
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,3,1,1,3,8
+PADCAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,2,0,1,4
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,4,5,9
+POJO (CBBA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,0,0,0,1
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,2,1,2,1,6
+PUERTO CARABUCO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,0,0,0,1
+PUERTO QUIJARRO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,2,0,2
+PUERTO VILLARROEL,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,1,0,2
+PUNATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,0,0,0,1
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,0,1,1
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,1,0,1
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,0,0,1
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,0,1,1,3
+SAN IGNACIO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,2,3,5
+SAN JOSE DE CHIQUITOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,1,2,3
+SAN LORENZO(PND),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,1,1,2
+SAN PEDRO DE BUENA VISTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,1,0,1
+SANTA ANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,0,0,1
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,9,11,1,1,22
+SENA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,1,0,1
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,2,0,0,0,2
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,3,0,0,0,3
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,1,0,2
+TIQUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,0,1,2
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,1,0,0,1
+TUPIZA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,1,0,0,1,2
+UYUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,2,0,0,2
+VIACHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,3,0,0,3
+VILLA TUNARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,2,0,0,2
+VINTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,2,0,2
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,2,0,0,2
+YACUIBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-11-01,0,0,1,1,2
+ACHACACHI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,1,0,0,1
+ATOCHA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,2,0,0,0,2
+BAURES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,2,4,0,0,6
+CABEZAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+"CAIZA ""D""",vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,1,0,0,1
+CAQUIAVIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,3,0,1,0,4
+CARANAVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,1,2
+CHULUMANI (V. DE LA LIBERTAD),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,1,0,1
+COCAPATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,0,1,1
+COCHABAMBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,2,4,1,0,7
+EL ALTO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,2,7,4,6,19
+EL PUENTE(TJA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+EUREKA (SANTOS MERCADO),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,1,0,1
+GUAYARAMERIN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,1,0,1
+HUANUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,2,1,0,4
+INQUISIVI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,3,0,1,7,11
+IXIAMAS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,7,5,12
+LA PAZ,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,10,0,1,12
+MAIRANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,1,0,0,1
+MAPIRI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+MONTEAGUDO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,1,0,0,1
+OCURI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,1,0,1
+ORURO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,3,1,1,5
+PADCAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+PAILON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,2,2,3,2,9
+PATACAMAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+POTOSI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,2,4,31,41,78
+PUERTO VILLARROEL,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,2,0,0,0,2
+PUNATA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,1,0,1
+QUILLACOLLO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,2,0,0,2
+RIBERALTA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,1,2,2,5
+SACABA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,3,0,1,4
+SAN BENITO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+SAN BORJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,5,1,7
+SAN IGNACIO,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,3,0,3
+SAN JOSE DE CHIQUITOS,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,1,0,2
+SAN LORENZO(PND),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,7,3,0,0,10
+SANTA ANA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,1,0,2
+SANTA CRUZ DE LA SIERRA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,18,13,10,6,47
+SIPE SIPE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+SUCRE,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,1,2
+TARIJA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,2,2,4
+TIQUIPAYA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+TRINIDAD,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,3,2,1,0,6
+UYUNI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,2,0,2
+VILLA NUEVA (LOMA ALTA),vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,1,0,1
+VILLA TUNARI,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+VILLAZON,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,1,0,0,1
+WALDO BALLIVIAN,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,1,0,0,0,1
+WARNES,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,2,1,0,0,3
+YACUIBA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,0,1,0,1
+YOCALLA,vacunacion en ninos de 4 anos,srp 1ra. dosis,2021-12-01,0,2,0,0,2

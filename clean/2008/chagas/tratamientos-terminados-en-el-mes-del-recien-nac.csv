@@ -1,0 +1,85 @@
+department,municipality_id,municipality,year,month,population,value
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,"Tratamientos terminados en el mes, del recien nac",0
+Chuquisaca,10301,Zudañez,2008,1,"Tratamientos terminados en el mes, del recien nac",1
+Cochabamba,31003,Villa Tunari,2008,2,"Tratamientos terminados en el mes, del recien nac",3
+Tarija,60202,Bermejo,2008,3,"Tratamientos terminados en el mes, del recien nac",1
+Cochabamba,30101,Cochabamba,2008,3,"Tratamientos terminados en el mes, del recien nac",4
+Chuquisaca,10501,Monteagudo,2008,3,"Tratamientos terminados en el mes, del recien nac",2
+Chuquisaca,10401,Padilla,2008,3,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,"Tratamientos terminados en el mes, del recien nac",0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,"Tratamientos terminados en el mes, del recien nac",0
+Cochabamba,31301,Mizque,2008,5,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,"Tratamientos terminados en el mes, del recien nac",0
+Chuquisaca,10101,Sucre,2008,5,"Tratamientos terminados en el mes, del recien nac",1
+Cochabamba,31601,Tiraque (cbba),2008,5,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,71001,Montero,2008,6,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70201,Warnes,2008,6,"Tratamientos terminados en el mes, del recien nac",3
+Santa Cruz,71001,Montero,2008,7,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,"Tratamientos terminados en el mes, del recien nac",0
+Chuquisaca,10101,Sucre,2008,7,"Tratamientos terminados en el mes, del recien nac",1
+Cochabamba,31601,Tiraque (cbba),2008,7,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70201,Warnes,2008,7,"Tratamientos terminados en el mes, del recien nac",6
+Tarija,60601,Entre Rios,2008,8,"Tratamientos terminados en el mes, del recien nac",2
+Cochabamba,31205,Puerto Villarroel,2008,8,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,"Tratamientos terminados en el mes, del recien nac",0
+Chuquisaca,10101,Sucre,2008,8,"Tratamientos terminados en el mes, del recien nac",1
+Cochabamba,31601,Tiraque (cbba),2008,8,"Tratamientos terminados en el mes, del recien nac",2
+Santa Cruz,70201,Warnes,2008,8,"Tratamientos terminados en el mes, del recien nac",3
+Tarija,60301,Yacuiba,2008,8,"Tratamientos terminados en el mes, del recien nac",1
+Chuquisaca,10701,Camargo,2008,9,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,"Tratamientos terminados en el mes, del recien nac",0
+Santa Cruz,70201,Warnes,2008,9,"Tratamientos terminados en el mes, del recien nac",9
+Tarija,60301,Yacuiba,2008,9,"Tratamientos terminados en el mes, del recien nac",1
+Chuquisaca,10501,Monteagudo,2008,10,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70201,Warnes,2008,10,"Tratamientos terminados en el mes, del recien nac",8
+Cochabamba,31204,Chimore,2008,11,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70201,Warnes,2008,11,"Tratamientos terminados en el mes, del recien nac",3
+Cochabamba,31204,Chimore,2008,12,"Tratamientos terminados en el mes, del recien nac",1
+Cochabamba,30101,Cochabamba,2008,12,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,71001,Montero,2008,12,"Tratamientos terminados en el mes, del recien nac",2
+Cochabamba,30903,Tiquipaya,2008,12,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70201,Warnes,2008,12,"Tratamientos terminados en el mes, del recien nac",1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,1,TOTAL,0
+Chuquisaca,10301,Zudañez,2008,1,TOTAL,1
+Cochabamba,31003,Villa Tunari,2008,2,TOTAL,3
+Tarija,60202,Bermejo,2008,3,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,3,TOTAL,4
+Chuquisaca,10501,Monteagudo,2008,3,TOTAL,2
+Chuquisaca,10401,Padilla,2008,3,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,3,TOTAL,0
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,4,TOTAL,0
+Cochabamba,31301,Mizque,2008,5,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,5,TOTAL,0
+Chuquisaca,10101,Sucre,2008,5,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2008,5,TOTAL,1
+Santa Cruz,71001,Montero,2008,6,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,6,TOTAL,1
+Santa Cruz,70201,Warnes,2008,6,TOTAL,3
+Santa Cruz,71001,Montero,2008,7,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,7,TOTAL,0
+Chuquisaca,10101,Sucre,2008,7,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2008,7,TOTAL,1
+Santa Cruz,70201,Warnes,2008,7,TOTAL,6
+Tarija,60601,Entre Rios,2008,8,TOTAL,2
+Cochabamba,31205,Puerto Villarroel,2008,8,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,8,TOTAL,0
+Chuquisaca,10101,Sucre,2008,8,TOTAL,1
+Cochabamba,31601,Tiraque (cbba),2008,8,TOTAL,2
+Santa Cruz,70201,Warnes,2008,8,TOTAL,3
+Tarija,60301,Yacuiba,2008,8,TOTAL,1
+Chuquisaca,10701,Camargo,2008,9,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,9,TOTAL,0
+Santa Cruz,70201,Warnes,2008,9,TOTAL,9
+Tarija,60301,Yacuiba,2008,9,TOTAL,1
+Chuquisaca,10501,Monteagudo,2008,10,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2008,10,TOTAL,1
+Santa Cruz,70201,Warnes,2008,10,TOTAL,8
+Cochabamba,31204,Chimore,2008,11,TOTAL,1
+Santa Cruz,70201,Warnes,2008,11,TOTAL,3
+Cochabamba,31204,Chimore,2008,12,TOTAL,1
+Cochabamba,30101,Cochabamba,2008,12,TOTAL,1
+Santa Cruz,71001,Montero,2008,12,TOTAL,2
+Cochabamba,30903,Tiquipaya,2008,12,TOTAL,1
+Santa Cruz,70201,Warnes,2008,12,TOTAL,1

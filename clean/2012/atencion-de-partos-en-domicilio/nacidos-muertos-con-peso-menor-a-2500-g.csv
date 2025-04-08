@@ -1,0 +1,69 @@
+department,municipality_id,municipality,year,month,population,value
+Potosí,51103,Ckochas,2012,1,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,50601,Cotagaita,2012,1,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,50404,Ocuri,2012,1,Nacidos muertos con peso menor a 2500 g.,1
+Oruro,40901,Sabaya,2012,1,Nacidos muertos con peso menor a 2500 g.,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,Nacidos muertos con peso menor a 2500 g.,0
+Tarija,60402,Yunchara,2012,1,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,20503,Aucapata,2012,2,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10902,Culpina,2012,2,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,50501,San Pedro De Buena Vista,2012,2,Nacidos muertos con peso menor a 2500 g.,1
+Cochabamba,31101,Tapacari,2012,2,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,20301,Coro Coro,2012,3,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10601,Tarabuco,2012,3,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10202,Tarvita,2012,3,Nacidos muertos con peso menor a 2500 g.,1
+Oruro,40102,Caracollo,2012,4,Nacidos muertos con peso menor a 2500 g.,1
+Beni,80301,Reyes,2012,4,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,21303,Ayo Ayo,2012,5,Nacidos muertos con peso menor a 2500 g.,1
+Tarija,60201,Padcaya,2012,5,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,51101,Puna,2012,5,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,50303,Tacobamba,2012,5,Nacidos muertos con peso menor a 2500 g.,1
+Santa Cruz,70201,Warnes,2012,5,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10302,Presto,2012,6,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,51202,Tomave,2012,6,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,50702,Caripuyo,2012,7,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10304,Icla,2012,7,Nacidos muertos con peso menor a 2500 g.,1
+Cochabamba,30302,Morochata,2012,7,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10302,Presto,2012,7,Nacidos muertos con peso menor a 2500 g.,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2012,9,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,21501,Ixiamas,2012,10,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,50402,Ravelo,2012,10,Nacidos muertos con peso menor a 2500 g.,1
+La Paz,21304,Calamarca,2012,11,Nacidos muertos con peso menor a 2500 g.,1
+Santa Cruz,71401,Puerto Suarez,2012,11,Nacidos muertos con peso menor a 2500 g.,1
+Chuquisaca,10601,Tarabuco,2012,11,Nacidos muertos con peso menor a 2500 g.,1
+Tarija,60402,Yunchara,2012,11,Nacidos muertos con peso menor a 2500 g.,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,12,Nacidos muertos con peso menor a 2500 g.,1
+Potosí,51103,Ckochas,2012,1,TOTAL,1
+Potosí,50601,Cotagaita,2012,1,TOTAL,1
+Potosí,50404,Ocuri,2012,1,TOTAL,1
+Oruro,40901,Sabaya,2012,1,TOTAL,1
+Santa Cruz,70101,Santa Cruz De La Sierra,2012,1,TOTAL,0
+Tarija,60402,Yunchara,2012,1,TOTAL,1
+La Paz,20503,Aucapata,2012,2,TOTAL,1
+Chuquisaca,10902,Culpina,2012,2,TOTAL,1
+Potosí,50501,San Pedro De Buena Vista,2012,2,TOTAL,1
+Cochabamba,31101,Tapacari,2012,2,TOTAL,1
+La Paz,20301,Coro Coro,2012,3,TOTAL,1
+Chuquisaca,10601,Tarabuco,2012,3,TOTAL,1
+Chuquisaca,10202,Tarvita,2012,3,TOTAL,1
+Oruro,40102,Caracollo,2012,4,TOTAL,1
+Beni,80301,Reyes,2012,4,TOTAL,1
+La Paz,21303,Ayo Ayo,2012,5,TOTAL,1
+Tarija,60201,Padcaya,2012,5,TOTAL,1
+Potosí,51101,Puna,2012,5,TOTAL,1
+Potosí,50303,Tacobamba,2012,5,TOTAL,1
+Santa Cruz,70201,Warnes,2012,5,TOTAL,1
+Chuquisaca,10302,Presto,2012,6,TOTAL,1
+Potosí,51202,Tomave,2012,6,TOTAL,1
+Potosí,50702,Caripuyo,2012,7,TOTAL,1
+Chuquisaca,10304,Icla,2012,7,TOTAL,1
+Cochabamba,30302,Morochata,2012,7,TOTAL,1
+Chuquisaca,10302,Presto,2012,7,TOTAL,1
+Cochabamba,30301,Ayopaya (v. De Independencia),2012,9,TOTAL,1
+La Paz,21501,Ixiamas,2012,10,TOTAL,1
+Potosí,50402,Ravelo,2012,10,TOTAL,1
+La Paz,21304,Calamarca,2012,11,TOTAL,1
+Santa Cruz,71401,Puerto Suarez,2012,11,TOTAL,1
+Chuquisaca,10601,Tarabuco,2012,11,TOTAL,1
+Tarija,60402,Yunchara,2012,11,TOTAL,1
+Santa Cruz,70301,San Ignacio De Velasco,2012,12,TOTAL,1
