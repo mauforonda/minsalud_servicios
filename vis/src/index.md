@@ -217,8 +217,21 @@ const defaultPopulation = populations
 const population = selectedPopulation ? selectedPopulation : defaultPopulation;
 ```
 
+<div class="populationBars" style="overflow: scroll">
+    <svg width="850">
+</div>
+
 ```js
 const plotPopulationBars = (populations) => {
+    const labels = Object.fromEntries(
+        populations.map((p) => [
+            p.population,
+            p.population.length > 60
+                ? p.population.slice(0, 70) + "..."
+                : p.population,
+        ])
+    );
+    console.log(labels);
     const top = Math.max(...populations.map((p) => p.value)) * 1.2;
     const barParams = {
         x: "value",
@@ -228,7 +241,7 @@ const plotPopulationBars = (populations) => {
     };
 
     const textParams = {
-        text: (d) => d.population.toLowerCase(),
+        text: (d) => labels[d.population].toLowerCase(),
         x: 0,
         y: "population",
         stroke: "var(theme-background)",
@@ -242,7 +255,6 @@ const plotPopulationBars = (populations) => {
     return Plot.plot({
         width: 450,
         height: populations.length * 50,
-        className: "populationBars",
         x: {
             axis: null,
             domain: [0, top],
@@ -301,6 +313,10 @@ const selectedPopulation = Generators.input(populationBars);
 ```
 
 ```js
+const totalPop = await FileAttachment("pop2024.json").json();
+```
+
+```js
 // Load municipality limits
 const topo = await FileAttachment("bolivia.json").json();
 const bolivia = topojson.feature(topo, topo.objects.data);
@@ -324,10 +340,17 @@ const processGeo = (data) => {
     const features = [];
     bolivia.features.forEach((f) => {
         if (municipalityTotals[f.id]) {
+            const permillion = Object.fromEntries(
+                Object.entries(municipalityTotals[f.id]).map(([k, v]) => [
+                    k + "_permillion",
+                    parseInt((v / totalPop[f.id]) * 1e6),
+                ])
+            );
             features.push({
                 ...f,
                 properties: {
                     ...municipalityTotals[f.id],
+                    ...permillion,
                     centroid: d3.geoCentroid(f),
                 },
             });
@@ -345,7 +368,17 @@ const serviceGeo = processGeo(serviceCSV);
 ```
 
 ```js
+const popTypeSelector = Inputs.radio(["", "_permillion"], {
+    format: (d) =>
+        d == "" ? "número de casos" : "casos por millón de habitantes",
+    value: "",
+});
+const popType = Generators.input(popTypeSelector);
+```
+
+```js
 const makeMap = (population) => {
+    const pop = population + popType;
     const textParams = {
         px: (d) => d.properties.centroid[0],
         py: (d) => d.properties.centroid[1],
@@ -354,9 +387,7 @@ const makeMap = (population) => {
         frameAnchor: "top-right",
         textAnchor: "end",
     };
-    const max = Math.max(
-        ...serviceGeo.features.map((i) => i.properties[population])
-    );
+    const max = Math.max(...serviceGeo.features.map((i) => i.properties[pop]));
     const w = width > 1100 ? width * 0.3 - 0 : width;
     const mapPlot = Plot.plot({
         height: w,
@@ -367,7 +398,6 @@ const makeMap = (population) => {
         marginBottom: 5,
         color: {
             range: [colors.selection_muted, colors.selection],
-            // domain: [0, 1e3]
         },
         projection: {
             type: "mercator",
@@ -382,7 +412,7 @@ const makeMap = (population) => {
                 fill: "var(--theme-background-alt)",
             }),
             Plot.geo(serviceGeo, {
-                fill: (d) => d.properties[population],
+                fill: (d) => d.properties[pop],
                 stroke: colors.stroke,
                 strokeOpacity: 0.2,
             }),
@@ -390,7 +420,6 @@ const makeMap = (population) => {
                 serviceGeo.features,
                 Plot.pointer(
                     Plot.centroid({
-                        fill: (d) => d.properties[population],
                         stroke: "var(--theme-foreground)",
                         strokeWidth: 1,
                     })
@@ -408,8 +437,7 @@ const makeMap = (population) => {
                     fontStyle: "italic",
                     fontWeight: "bold",
                     fontSize: w / 15,
-                    text: (d) =>
-                        `${d3.format(",.0f")(d.properties[population])}`,
+                    text: (d) => `${d3.format(",.0f")(d.properties[pop])}`,
                 })
             ),
             Plot.text(
@@ -669,7 +697,12 @@ const timeline = makeTimeline(serviceTime[population.population]);
 ```
 
 ```js
-function download(value, name = "untitled", label = "Save", title="en formato CSV") {
+function download(
+    value,
+    name = "untitled",
+    label = "Save",
+    title = "en formato CSV"
+) {
     const a = document.createElement("a");
     const b = a.appendChild(document.createElement("button"));
     b.textContent = label;
@@ -704,24 +737,24 @@ function download(value, name = "untitled", label = "Save", title="en formato CS
     return a;
 }
 
-const button = (data, filename="data.csv", label="Save") => {
+const button = (data, filename = "data.csv", label = "Save") => {
     const downloadData = new Blob([d3.csvFormat(data)], { type: "text/csv" });
-    const button = download(
-        downloadData,
-        filename,
-        label
-    );
-    return button
+    const button = download(downloadData, filename, label);
+    return button;
 };
 
-const downloadButton = button(serviceCSV, service.file, `${service.service} en ${service.year}`);
+const downloadButton = button(
+    serviceCSV,
+    service.file,
+    `${service.service} en ${service.year}`
+);
 const downloadAll = htl.html`<a href="https://github.com/mauforonda/minsalud_servicios/releases/latest" target="_blank" title="en formato parquet">
 todos los datos
 </a>`;
 ```
 
 ```js
-const sprout = htl.svg`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="${colors.selection}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sprout-icon lucide-sprout"><path d="M7 20h10"/><path d="M10 20c5.5-2.5.8-6.4 3-10"/><path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5.4-4.8-.3-1.2-.6-2.3-1.9-3-4.2 2.8-.5 4.4 0 5.5.8z"/><path d="M14.1 6a7 7 0 0 0-1.1 4c1.9-.1 3.3-.6 4.3-1.4 1-1 1.6-2.3 1.7-4.6-2.7.1-4 1-4.9 2z"/></svg>`
+const sprout = htl.svg`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="${colors.selection}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sprout-icon lucide-sprout"><path d="M7 20h10"/><path d="M10 20c5.5-2.5.8-6.4 3-10"/><path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5.4-4.8-.3-1.2-.6-2.3-1.9-3-4.2 2.8-.5 4.4 0 5.5.8z"/><path d="M14.1 6a7 7 0 0 0-1.1 4c1.9-.1 3.3-.6 4.3-1.4 1-1 1.6-2.3 1.7-4.6-2.7.1-4 1-4.9 2z"/></svg>`;
 ```
 
 <div class="main">
@@ -751,11 +784,16 @@ const sprout = htl.svg`<svg xmlns="http://www.w3.org/2000/svg" width="24" height
         <div class="header">
             ${serviceButton}
         </div>
+        <div class="popSelection">
+            ${population.population.toLowerCase()}
+        </div>
         <div class="plots">
             <div class="plotSection">
                 <div class="populations">
                     <div class="hint">categorías disponibles</div>
-                    ${populationBars}
+                    <div class="populationBars">
+                        ${populationBars}
+                    </div>
                 </div>
                 <div class="timeline">
                     <div class="hint">en meses</div>
@@ -766,6 +804,9 @@ const sprout = htl.svg`<svg xmlns="http://www.w3.org/2000/svg" width="24" height
                 <div class="map">
                     <div class="hint">en municipios</div>
                     ${mapa}
+                    <div class="popType">
+                        ${popTypeSelector}
+                    </div>
                 </div>
             </div>
         </div>
