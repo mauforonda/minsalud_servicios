@@ -62,7 +62,7 @@
 import {define} from "./_observablehq/client.8122f0ab.js";
 import {registerFile} from "./_observablehq/stdlib.82806664.js";
 
-registerFile("./bolivia.json", {"name":"./bolivia.json","mimeType":"application/json","path":"./_file/bolivia.d00f1421.json","lastModified":1744739384108,"size":544770});
+registerFile("./bolivia.json", {"name":"./bolivia.json","mimeType":"application/json","path":"./_file/bolivia.d00f1421.json","lastModified":1744740432919,"size":544770});
 
 define({id: "efb9f012", outputs: ["colors","github","defaultService","suggestions"], body: () => {
 // Some general definitions
@@ -553,13 +553,13 @@ const serviceTime = processTime(serviceCSV);
 return {serviceTime};
 }});
 
-define({id: "4a82eb23", inputs: ["width","colors","d3","Plot"], outputs: ["makeTimeline"], body: (width,colors,d3,Plot) => {
+define({id: "cca30f53", inputs: ["width","colors","d3","Plot"], outputs: ["makeTimeline"], body: (width,colors,d3,Plot) => {
 const makeTimeline = (population) => {
     const top = Math.max(...population.map((i) => i.value)) * 1.1;
     const w = width > 1100 ? width * 0.5 - 40 : width;
-    const h = width > 1100 ? width * 0.2 + 20 : width * 0.5;
+    const h = width > 1100 ? width * 0.2 + 20 : width * 0.55;
     const maxRadius = w / 30;
-    const marginTop = w > 660 ? w / 12 : 40;
+    const marginTop = w > 660 ? w / 12 : 50;
     const smallFont = w > 660 ? w / 80 : 11;
     const largeFont = w > 660 ? w / 35 : 15;
     const monthFormat = {
@@ -678,7 +678,7 @@ const makeTimeline = (population) => {
                 population,
                 Plot.pointerX({
                     ...textParams,
-                    filter: (d) => d.month < 12,
+                    filter: (d) => d.month < 11,
                     text: "value",
                     dy: -30,
                     fill: colors.selection,
@@ -693,7 +693,7 @@ const makeTimeline = (population) => {
                 population,
                 Plot.pointerX({
                     ...textParams,
-                    filter: (d) => d.month == 12,
+                    filter: (d) => d.month >= 11,
                     text: "value",
                     dy: -30,
                     fill: colors.selection,
@@ -708,7 +708,7 @@ const makeTimeline = (population) => {
                 population,
                 Plot.pointerX({
                     ...textParams,
-                    filter: (d) => d.month < 12,
+                    filter: (d) => d.month < 11,
                     text: (d) => `en ${monthFormat[d.month]}`,
                     dy: -20,
                     fill: colors.stroke,
@@ -722,7 +722,7 @@ const makeTimeline = (population) => {
                 population,
                 Plot.pointerX({
                     ...textParams,
-                    filter: (d) => d.month == 12,
+                    filter: (d) => d.month >= 11,
                     text: (d) => `en ${monthFormat[d.month]}`,
                     dy: -20,
                     fill: colors.stroke,
@@ -876,7 +876,7 @@ sprout
 <body>
 <div id="observablehq-center">
 <main id="observablehq-main" class="observablehq">
-<link rel="stylesheet" href="./_file/style.2f06f3bf.css">
+<link rel="stylesheet" href="./_file/style.ccd9ac3a.css">
 <div class="observablehq observablehq--block"><!--:efb9f012:--></div>
 <div class="observablehq observablehq--block"><!--:402039c4:--></div>
 <div class="observablehq observablehq--block"><!--:daf21412:--></div>
@@ -896,7 +896,7 @@ sprout
 <div class="observablehq observablehq--block"><!--:85635474:--></div>
 <div class="observablehq observablehq--block"><!--:e5a49b4a:--></div>
 <div class="observablehq observablehq--block"><!--:0b76ca27:--></div>
-<div class="observablehq observablehq--block"><!--:4a82eb23:--></div>
+<div class="observablehq observablehq--block"><!--:cca30f53:--></div>
 <div class="observablehq observablehq--block"><!--:1eda4018:--></div>
 <div class="observablehq observablehq--block"><!--:075be78d:--></div>
 <div class="observablehq observablehq--block"><!--:9a6e1fad:--></div>
