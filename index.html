@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="generator" content="Observable Framework v1.13.2">
+<title>Servicios del Ministerio de Salud</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
+<link rel="preload" as="style" href="./_observablehq/theme-air,near-midnight,wide.c63905c0.css">
+<link rel="preload" as="style" href="./_observablehq/stdlib/inputs.ea9fd553.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
+<link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,near-midnight,wide.c63905c0.css">
+<link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.ea9fd553.css">
+<link rel="modulepreload" href="./_observablehq/client.8122f0ab.js">
+<link rel="modulepreload" href="./_observablehq/runtime.e080113b.js">
+<link rel="modulepreload" href="./_observablehq/stdlib.82806664.js">
+<link rel="modulepreload" href="./_npm/d3@7.9.0/e780feca.js">
+<link rel="modulepreload" href="./_npm/htl@0.3.1/72f4716c.js">
+<link rel="modulepreload" href="./_observablehq/stdlib/inputs.6ba3de0b.js">
+<link rel="modulepreload" href="./_npm/@observablehq/plot@0.6.17/d761ef9b.js">
+<link rel="modulepreload" href="./_npm/topojson-client@3.1.0/edd9ee95.js">
+<link rel="modulepreload" href="./_npm/isoformat@0.2.1/18cbf477.js">
+<link rel="modulepreload" href="./_npm/d3-array@3.2.4/e93ca09f.js">
+<link rel="modulepreload" href="./_npm/d3-axis@3.0.0/0f2de24d.js">
+<link rel="modulepreload" href="./_npm/d3-brush@3.0.0/65eb105b.js">
+<link rel="modulepreload" href="./_npm/d3-chord@3.0.1/7ef8fb2e.js">
+<link rel="modulepreload" href="./_npm/d3-color@3.1.0/aeb57b94.js">
+<link rel="modulepreload" href="./_npm/d3-contour@4.0.2/1d2aed74.js">
+<link rel="modulepreload" href="./_npm/d3-delaunay@6.0.4/5ced1d52.js">
+<link rel="modulepreload" href="./_npm/d3-dispatch@3.0.1/9ba9c7f3.js">
+<link rel="modulepreload" href="./_npm/d3-drag@3.0.0/4202580c.js">
+<link rel="modulepreload" href="./_npm/d3-dsv@3.0.1/9cffc2bd.js">
+<link rel="modulepreload" href="./_npm/d3-ease@3.0.1/cdd7e898.js">
+<link rel="modulepreload" href="./_npm/d3-fetch@3.0.1/b4e2ad9a.js">
+<link rel="modulepreload" href="./_npm/d3-force@3.0.0/5e804d15.js">
+<link rel="modulepreload" href="./_npm/d3-format@3.1.0/86074ef6.js">
+<link rel="modulepreload" href="./_npm/d3-geo@3.1.1/40599fb3.js">
+<link rel="modulepreload" href="./_npm/d3-hierarchy@3.1.2/e49e792c.js">
+<link rel="modulepreload" href="./_npm/d3-interpolate@3.0.1/8d1e5425.js">
+<link rel="modulepreload" href="./_npm/d3-path@3.1.0/20d3f133.js">
+<link rel="modulepreload" href="./_npm/d3-polygon@3.0.1/7553081f.js">
+<link rel="modulepreload" href="./_npm/d3-quadtree@3.0.1/0dfd751c.js">
+<link rel="modulepreload" href="./_npm/d3-random@3.0.1/3c90ee06.js">
+<link rel="modulepreload" href="./_npm/d3-scale@4.0.2/843b6a76.js">
+<link rel="modulepreload" href="./_npm/d3-scale-chromatic@3.1.0/ba24c2e7.js">
+<link rel="modulepreload" href="./_npm/d3-selection@3.0.0/4d94e5b7.js">
+<link rel="modulepreload" href="./_npm/d3-shape@3.2.0/6d3a6726.js">
+<link rel="modulepreload" href="./_npm/d3-time@3.1.0/9f03c579.js">
+<link rel="modulepreload" href="./_npm/d3-time-format@4.1.0/07c9626f.js">
+<link rel="modulepreload" href="./_npm/d3-timer@3.0.1/b58a267d.js">
+<link rel="modulepreload" href="./_npm/d3-transition@3.0.1/004da2ac.js">
+<link rel="modulepreload" href="./_npm/d3-zoom@3.0.0/b5786b3f.js">
+<link rel="modulepreload" href="./_npm/interval-tree-1d@1.0.4/53fe8176.js">
+<link rel="modulepreload" href="./_npm/internmap@2.0.3/e08981d9.js">
+<link rel="modulepreload" href="./_npm/delaunator@5.0.1/02d43215.js">
+<link rel="modulepreload" href="./_npm/binary-search-bounds@2.0.5/cbf6ba23.js">
+<link rel="modulepreload" href="./_npm/robust-predicates@3.0.2/aa00730b.js">
+<link rel="icon" href="./_file/favicon.cc2893b5.png" type="image/png">
+<script type="module">
+
+import {define} from "./_observablehq/client.8122f0ab.js";
+import {registerFile} from "./_observablehq/stdlib.82806664.js";
+
+registerFile("./bolivia.json", {"name":"./bolivia.json","mimeType":"application/json","path":"./_file/bolivia.d00f1421.json","lastModified":1744739384108,"size":544770});
+
+define({id: "efb9f012", outputs: ["colors","github","defaultService","suggestions"], body: () => {
+// Some general definitions
+const colors = {
+    selection: "#6b9778",
+    selection_muted: "#6b977826",
+    selection_glow: "#6aae65",
+    stroke: "#67676c",
+};
+const github =
+    "https://raw.githubusercontent.com/mauforonda/minsalud_servicios/main";
+const defaultService = {
+    file: "clean/2024/recien-nacidos-en-servicio-y-domicilio/nacidos-vivos-atendidos-por-partera.csv",
+    service: "nacidos vivos atendidos por partera",
+    service_group: "recien nacidos en servicio y domicilio",
+    year: 2024,
+};
+const suggestions = {
+    consulta: "consulta",
+    internaciones: "internaciones",
+    cirugia: "cirugía",
+    "interrupcion legal del embarazo": "interrupcion legal del embarazo",
+    anticoncepcion: "anticoncepcion",
+    vacunaciones: "vacunaciones",
+    partos: "partos",
+    nacidos: "nacidos",
+    "atencion odontologica": "odontología",
+    comunidad: "actividades con la comunidad",
+    micronutrientes: "micronutrientes",
+    telesalud: "telesalud",
+    dengue: "dengue",
+    malaria: "malaria",
+    vih: "vih",
+    chagas: "chagas",
+    rabia: "rabia",
+    its: "its",
+    "salud mental": "salud mental",
+};
+return {colors,github,defaultService,suggestions};
+}});
+
+define({id: "402039c4", inputs: ["d3","github"], outputs: ["indexCSV"], body: async (d3,github) => {
+// Load index
+const indexCSV = await d3
+    .csv(`${github}/indexes/clean.csv`, d3.autoType)
+    .then((data) =>
+        data
+            .filter((d) => d.values > 0)
+            .map((d) => {
+                return {
+                    ...d,
+                    ...{
+                        x: d.year + (Math.random() - 0.5) * 0.4,
+                    },
+                };
+            })
+    );
+return {indexCSV};
+}});
+
+define({id: "daf21412", inputs: ["Inputs","suggestions","Generators"], outputs: ["suggestionButtons","suggestionSelected"], body: (Inputs,suggestions,Generators) => {
+// Index suggestions
+const suggestionButtons = Inputs.radio(Object.keys(suggestions), {
+    format: (d) => suggestions[d],
+});
+const suggestionSelected = Generators.input(suggestionButtons);
+return {suggestionButtons,suggestionSelected};
+}});
+
+define({id: "9183ab22", inputs: ["Inputs","indexCSV","suggestionSelected","Generators"], outputs: ["indexSearch","indexSearchQuery"], body: (Inputs,indexCSV,suggestionSelected,Generators) => {
+// Index search
+const indexSearch = Inputs.search(indexCSV, {
+    query: suggestionSelected,
+    columns: ["service_group", "service"],
+    required: false,
+    format: (d) => "",
+    placeholder: "busca",
+});
+const indexSearchQuery = Generators.input(indexSearch);
+return {indexSearch,indexSearchQuery};
+}});
+
+define({id: "05d46109", inputs: ["Plot","width","d3","colors","indexSearchQuery","indexCSV","Generators"], outputs: ["plotIndex","indexPlot","hoveredService"], body: (Plot,width,d3,colors,indexSearchQuery,indexCSV,Generators) => {
+// Index plot
+const plotIndex = (index) => {
+    const dotOps = {
+        x: "x",
+        y: "values",
+        stroke: null,
+    };
+    return Plot.plot({
+        width: width,
+        height: 350,
+        marginBottom: 30,
+        marginTop: 45,
+        y: {
+            axis: null,
+            type: "symlog",
+        },
+        x: {
+            tickSize: 0,
+            label: null,
+            axis: "top",
+            tickPadding: 15,
+            tickFormat: (d) => d3.format(".0f")(d),
+        },
+        style: {
+            color: colors.stroke,
+        },
+        marks: [
+            Plot.dot(index, {
+                ...dotOps,
+                r: 1,
+                stroke: null,
+                fill: true,
+                fillOpacity: (d) => (indexSearchQuery.length > 0 ? 0.1 : 0.5),
+            }),
+            Plot.dot(indexSearchQuery, {
+                ...dotOps,
+                r: 1.5,
+                stroke: null,
+                fill: colors.selection,
+                fillOpacity: 1,
+            }),
+            Plot.dot(
+                indexSearchQuery.length > 0 ? indexSearchQuery : index,
+                Plot.pointer({
+                    ...dotOps,
+                    r: 10,
+                    stroke: null,
+                    fill: colors.selection,
+                    fillOpacity: 0.2,
+                })
+            ),
+            Plot.dot(
+                indexSearchQuery.length > 0 ? indexSearchQuery : index,
+                Plot.pointer({
+                    ...dotOps,
+                    r: 2,
+                    stroke: null,
+                    fill: colors.selection_glow,
+                    fillOpacity: 0.9,
+                })
+            ),
+        ],
+    });
+};
+const indexPlot = plotIndex(indexCSV);
+const hoveredService = Generators.input(indexPlot);
+return {plotIndex,indexPlot,hoveredService};
+}});
+
+define({id: "4dc99df9", inputs: ["Inputs","defaultService","Generators"], outputs: ["serviceInput","service"], body: (Inputs,defaultService,Generators) => {
+// A placeholder input for the service to download
+const serviceInput = Inputs.input(defaultService);
+const service = Generators.input(serviceInput);
+return {serviceInput,service};
+}});
+
+define({id: "e3078fb3", inputs: ["Event","htl","hoveredService","service","serviceInput"], outputs: ["set","makeServiceButton","serviceButton"], body: (Event,htl,hoveredService,service,serviceInput) => {
+// The download button
+const set = (input, value) => {
+    input.value = value;
+    input.dispatchEvent(new Event("input", { bubbles: true }));
+};
+
+const makeServiceButton = (s, clickTarget) => {
+    return htl.html`
+    <div class="serviceButton ${
+        clickTarget ? "target" : ""
+    }" title="Descarga y consulta">
+        <div>
+            <span class="buttonService">${s.service}</span>
+            <span class="buttonYear">en ${s.year}</span>
+        </div>
+        <div>
+            <span class="buttonGroup">${s.service_group}</span>
+        </div>
+    </div>`;
+};
+
+const serviceButton = htl.html`${
+    hoveredService
+        ? makeServiceButton(hoveredService, true)
+        : service
+        ? makeServiceButton(service, false)
+        : "..."
+}`;
+
+serviceButton.onclick = () => {
+    set(serviceInput, hoveredService);
+};
+return {set,makeServiceButton,serviceButton};
+}});
+
+define({id: "300bd72b", inputs: ["service","d3","github"], outputs: ["serviceCSV"], body: async (service,d3,github) => {
+// Download service data
+const serviceCSV = (await service.service)
+    ? d3.csv(`${github}/${service.file}`, d3.autoType)
+    : null;
+return {serviceCSV};
+}});
+
+define({id: "2d893436", inputs: ["serviceCSV"], outputs: ["populations"], body: (serviceCSV) => {
+const populations = Object.entries(
+    serviceCSV.reduce((acc, item) => {
+        const { population, value } = item;
+        acc[population] = (acc[population] || 0) + value;
+        return acc;
+    }, {})
+).map(([population, value]) => ({ population, value }));
+return {populations};
+}});
+
+define({id: "33065019", inputs: ["populations"], outputs: ["defaultPopulation"], body: (populations) => {
+// Population input
+const defaultPopulation = populations
+    .filter((population) =>
+        population.population.toLowerCase().includes("total")
+    )
+    .slice(-1)[0];
+return {defaultPopulation};
+}});
+
+define({id: "06fe67ff", inputs: ["selectedPopulation","defaultPopulation"], outputs: ["population"], body: (selectedPopulation,defaultPopulation) => {
+const population = selectedPopulation ? selectedPopulation : defaultPopulation;
+return {population};
+}});
+
+define({id: "8473c1f5", inputs: ["colors","Plot","defaultPopulation","populations","Generators"], outputs: ["plotPopulationBars","populationBars","selectedPopulation"], body: (colors,Plot,defaultPopulation,populations,Generators) => {
+const plotPopulationBars = (populations) => {
+    const top = Math.max(...populations.map((p) => p.value)) * 1.2;
+    const barParams = {
+        x: "value",
+        y: "population",
+        insetTop: 30,
+        r: 2,
+    };
+
+    const textParams = {
+        text: (d) => d.population.toLowerCase(),
+        x: 0,
+        y: "population",
+        stroke: "var(theme-background)",
+        fill: colors.stroke,
+        fontFamily: "Inter",
+        fontSize: 12,
+        dy: -6,
+        textAnchor: "start",
+    };
+
+    return Plot.plot({
+        width: 450,
+        height: populations.length * 50,
+        className: "populationBars",
+        x: {
+            axis: null,
+            domain: [0, top],
+        },
+        y: {
+            axis: null,
+        },
+        style: {
+            color: colors.stroke,
+        },
+        marks: [
+            Plot.barX(populations, {
+                ...barParams,
+                fill: colors.stroke,
+                fillOpacity: (d) =>
+                    d.population == defaultPopulation.population ? 0.5 : 0.2,
+                sort: {
+                    y: "-x",
+                },
+            }),
+            Plot.barX(
+                populations,
+                Plot.pointerY({
+                    ...barParams,
+                    fill: colors.selection,
+                })
+            ),
+            Plot.text(populations, {
+                ...textParams,
+                fillOpacity: (d) =>
+                    d.population == defaultPopulation.population ? 0.9 : 0.7,
+            }),
+            Plot.text(populations, {
+                x: "value",
+                y: "population",
+                text: "value",
+                textAnchor: "start",
+                lineAnchor: "top",
+                dy: 11,
+                dx: 5,
+                fillOpacity: (d) =>
+                    d.population == defaultPopulation.population ? 0.9 : 0.7,
+            }),
+            Plot.text(
+                populations,
+                Plot.pointerY({
+                    ...textParams,
+                    fillOpacity: 0.9,
+                })
+            ),
+        ],
+    });
+};
+const populationBars = plotPopulationBars(populations);
+const selectedPopulation = Generators.input(populationBars);
+return {plotPopulationBars,populationBars,selectedPopulation};
+}});
+
+define({id: "2583e9fe", inputs: ["FileAttachment","topojson"], outputs: ["topo","bolivia"], body: async (FileAttachment,topojson) => {
+// Load municipality limits
+const topo = await FileAttachment("./bolivia.json").json();
+const bolivia = topojson.feature(topo, topo.objects.data);
+return {topo,bolivia};
+}});
+
+define({id: "e1ca1357", inputs: ["bolivia","d3"], outputs: ["processGeo"], body: (bolivia,d3) => {
+const processGeo = (data) => {
+    const municipalityTotals = data.reduce((acc, item) => {
+        const { municipality_id, municipality, population, value } = item;
+
+        if (!acc[municipality_id]) {
+            acc[municipality_id] = {};
+        }
+        acc[municipality_id][population] =
+            (acc[municipality_id][population] || 0) + value;
+        acc[municipality_id].municipality = municipality;
+
+        return acc;
+    }, {});
+
+    const features = [];
+    bolivia.features.forEach((f) => {
+        if (municipalityTotals[f.id]) {
+            features.push({
+                ...f,
+                properties: {
+                    ...municipalityTotals[f.id],
+                    centroid: d3.geoCentroid(f),
+                },
+            });
+        }
+    });
+    return {
+        type: "FeatureCollection",
+        features: features,
+    };
+};
+return {processGeo};
+}});
+
+define({id: "a8b72a0a", inputs: ["processGeo","serviceCSV"], outputs: ["serviceGeo"], body: (processGeo,serviceCSV) => {
+const serviceGeo = processGeo(serviceCSV);
+return {serviceGeo};
+}});
+
+define({id: "0b1a31b6", inputs: ["colors","serviceGeo","width","Plot","bolivia","d3","htl"], outputs: ["makeMap"], body: (colors,serviceGeo,width,Plot,bolivia,d3,htl) => {
+const makeMap = (population) => {
+    const textParams = {
+        px: (d) => d.properties.centroid[0],
+        py: (d) => d.properties.centroid[1],
+        dx: 0,
+        fill: colors.stroke,
+        frameAnchor: "top-right",
+        textAnchor: "end",
+    };
+    const max = Math.max(
+        ...serviceGeo.features.map((i) => i.properties[population])
+    );
+    const w = width > 1100 ? width * 0.3 - 0 : width;
+    const mapPlot = Plot.plot({
+        height: w,
+        width: w,
+        marginLeft: 30,
+        marginRight: 30,
+        marginTop: 30,
+        marginBottom: 5,
+        color: {
+            range: [colors.selection_muted, colors.selection],
+            // domain: [0, 1e3]
+        },
+        projection: {
+            type: "mercator",
+            domain: bolivia,
+        },
+        marks: [
+            Plot.geo(bolivia, {
+                fill: colors.stroke,
+                fillOpacity: 0.15,
+            }),
+            Plot.geo(serviceGeo, {
+                fill: "var(--theme-background-alt)",
+            }),
+            Plot.geo(serviceGeo, {
+                fill: (d) => d.properties[population],
+                stroke: colors.stroke,
+                strokeOpacity: 0.2,
+            }),
+            Plot.geo(
+                serviceGeo.features,
+                Plot.pointer(
+                    Plot.centroid({
+                        fill: (d) => d.properties[population],
+                        stroke: "var(--theme-foreground)",
+                        strokeWidth: 1,
+                    })
+                )
+            ),
+            Plot.text(
+                serviceGeo.features,
+                Plot.pointer({
+                    ...textParams,
+                    dy: w / 40,
+                    lineAnchor: "bottom",
+                    stroke: "var(theme-background)",
+                    fill: colors.selection,
+                    fontFamily: "serif",
+                    fontStyle: "italic",
+                    fontWeight: "bold",
+                    fontSize: w / 15,
+                    text: (d) =>
+                        `${d3.format(",.0f")(d.properties[population])}`,
+                })
+            ),
+            Plot.text(
+                serviceGeo.features,
+                Plot.pointer({
+                    ...textParams,
+                    text: (d) => `en ${d.properties.municipality}`,
+                    dy: w / 40 + 10,
+                    lineAnchor: "top",
+                    fontSize: w / 30,
+                    fontFamily: "serif",
+                    fontStyle: "italic",
+                })
+            ),
+        ],
+    });
+    const mapLegend = Plot.legend({
+        color: {
+            domain: [0, max],
+            range: [colors.selection_muted, colors.selection],
+            type: "linear",
+            ticks: 5,
+        },
+        className: "mapLegend",
+        width: w,
+        height: 50,
+        marginTop: 20,
+        marginLeft: 50,
+        marginRight: 50,
+    });
+    return htl.html`<div class="">${mapPlot}${mapLegend}</div>`;
+};
+return {makeMap};
+}});
+
+define({id: "85635474", inputs: ["makeMap","population"], outputs: ["mapa"], body: (makeMap,population) => {
+const mapa = makeMap(population.population);
+return {mapa};
+}});
+
+define({id: "e5a49b4a", outputs: ["processTime"], body: () => {
+const processTime = (data) => {
+    return data.reduce((acc, item) => {
+        const { population, month, value } = item;
+
+        if (!acc[population]) {
+            acc[population] = Array(12)
+                .fill()
+                .map((_, i) => ({ month: i + 1, value: 0 }));
+        }
+
+        acc[population][month - 1].value += value;
+
+        return acc;
+    }, {});
+};
+return {processTime};
+}});
+
+define({id: "0b76ca27", inputs: ["processTime","serviceCSV"], outputs: ["serviceTime"], body: (processTime,serviceCSV) => {
+const serviceTime = processTime(serviceCSV);
+return {serviceTime};
+}});
+
+define({id: "4a82eb23", inputs: ["width","colors","d3","Plot"], outputs: ["makeTimeline"], body: (width,colors,d3,Plot) => {
+const makeTimeline = (population) => {
+    const top = Math.max(...population.map((i) => i.value)) * 1.1;
+    const w = width > 1100 ? width * 0.5 - 40 : width;
+    const h = width > 1100 ? width * 0.2 + 20 : width * 0.5;
+    const maxRadius = w / 30;
+    const marginTop = w > 660 ? w / 12 : 40;
+    const smallFont = w > 660 ? w / 80 : 11;
+    const largeFont = w > 660 ? w / 35 : 15;
+    const monthFormat = {
+        1: "enero",
+        2: "febrero",
+        3: "marzo",
+        4: "abril",
+        5: "mayo",
+        6: "junio",
+        7: "julio",
+        8: "agosto",
+        9: "septiembre",
+        10: "octubre",
+        11: "noviembre",
+        12: "diciembre",
+    };
+    const lineParams = {
+        x: "month",
+        y: "value",
+        curve: "basis",
+    };
+    const gridParams = {
+        stroke: colors.stroke,
+        strokeDasharray: "1 1",
+        strokeWidth: 0.5,
+        strokeOpacity: 0.5,
+    };
+    const textParams = {
+        x: "month",
+        y: top,
+        stroke: "var(theme-background)",
+        fontFamily: "serif",
+        fontStyle: "italic",
+    };
+    const tickParams = {
+        y: (d) => d,
+        text: (d) => d3.format(",.0f")(d),
+        stroke: "var(theme-background)",
+        fill: colors.stroke,
+        fontFamily: "serif",
+        fontStyle: "italic",
+        frameAnchor: "right",
+        textAnchor: "end",
+        fontSize: smallFont,
+        fillOpacity: 0.5,
+        dx: -10,
+    };
+    return Plot.plot({
+        height: h,
+        width: w,
+        marginLeft: 30,
+        marginRight: 30,
+        marginTop: marginTop,
+        marginBottom: 5,
+        x: {
+            axis: null,
+            domain: [1, 12],
+        },
+        y: {
+            domain: [0, top],
+            axis: null,
+        },
+        style: {
+            color: colors.stroke,
+        },
+        marks: [
+            Plot.gridY({
+                ...gridParams,
+            }),
+            Plot.gridX({
+                ...gridParams,
+            }),
+            Plot.areaY(population, {
+                ...lineParams,
+                fill: colors.selection_muted,
+            }),
+            Plot.line(population, {
+                ...lineParams,
+                stroke: colors.selection,
+                strokeWidth: 4,
+                strokeOpacity: 0.7,
+            }),
+            Plot.dot(population, {
+                ...lineParams,
+                fill: colors.selection,
+                fillOpacity: 0.4,
+                stroke: null,
+                r: 5,
+            }),
+            Plot.ruleX([1, 12], {
+                ...gridParams,
+            }),
+            Plot.ruleY([0, top], {
+                ...gridParams,
+            }),
+            Plot.dot(
+                population,
+                Plot.pointerX({
+                    ...lineParams,
+                    fill: colors.selection,
+                    fillOpacity: 0.2,
+                    stroke: null,
+                    r: 15,
+                })
+            ),
+            Plot.dot(
+                population,
+                Plot.pointerX({
+                    stroke: null,
+                    fill: colors.selection,
+                    ...lineParams,
+                    r: 5,
+                })
+            ),
+            Plot.text(
+                population,
+                Plot.pointerX({
+                    ...textParams,
+                    filter: (d) => d.month < 12,
+                    text: "value",
+                    dy: -30,
+                    fill: colors.selection,
+                    fontWeight: "bold",
+                    fontSize: largeFont,
+                    lineAnchor: "bottom",
+                    textAnchor: "start",
+                    maxRadius: maxRadius,
+                })
+            ),
+            Plot.text(
+                population,
+                Plot.pointerX({
+                    ...textParams,
+                    filter: (d) => d.month == 12,
+                    text: "value",
+                    dy: -30,
+                    fill: colors.selection,
+                    fontWeight: "bold",
+                    fontSize: largeFont,
+                    lineAnchor: "bottom",
+                    textAnchor: "end",
+                    maxRadius: maxRadius,
+                })
+            ),
+            Plot.text(
+                population,
+                Plot.pointerX({
+                    ...textParams,
+                    filter: (d) => d.month < 12,
+                    text: (d) => `en ${monthFormat[d.month]}`,
+                    dy: -20,
+                    fill: colors.stroke,
+                    lineAnchor: "top",
+                    fontSize: smallFont,
+                    textAnchor: "start",
+                    maxRadius: maxRadius,
+                })
+            ),
+            Plot.text(
+                population,
+                Plot.pointerX({
+                    ...textParams,
+                    filter: (d) => d.month == 12,
+                    text: (d) => `en ${monthFormat[d.month]}`,
+                    dy: -20,
+                    fill: colors.stroke,
+                    lineAnchor: "top",
+                    fontSize: smallFont,
+                    textAnchor: "end",
+                    maxRadius: maxRadius,
+                })
+            ),
+            Plot.text([0], {
+                ...tickParams,
+                lineAnchor: "bottom",
+                dy: -10,
+            }),
+            Plot.text([top], {
+                ...tickParams,
+                lineAnchor: "top",
+                dy: 10,
+            }),
+        ],
+    });
+};
+return {makeTimeline};
+}});
+
+define({id: "1eda4018", inputs: ["makeTimeline","serviceTime","population"], outputs: ["timeline"], body: (makeTimeline,serviceTime,population) => {
+const timeline = makeTimeline(serviceTime[population.population]);
+return {timeline};
+}});
+
+define({id: "075be78d", inputs: ["d3","serviceCSV","service","htl"], outputs: ["download","button","downloadButton","downloadAll"], body: (d3,serviceCSV,service,htl) => {
+function download(value, name = "untitled", label = "Save", title="en formato CSV") {
+    const a = document.createElement("a");
+    const b = a.appendChild(document.createElement("button"));
+    b.textContent = label;
+    a.title = title;
+    a.download = name;
+
+    async function reset() {
+        await new Promise(requestAnimationFrame);
+        URL.revokeObjectURL(a.href);
+        a.removeAttribute("href");
+        b.textContent = label;
+        b.disabled = false;
+    }
+
+    a.onclick = async (event) => {
+        b.disabled = true;
+        if (a.href) return reset();
+        b.textContent = "Saving…";
+        try {
+            const object = await (typeof value === "function"
+                ? value()
+                : value);
+            b.textContent = "Download";
+            a.href = URL.createObjectURL(object);
+        } catch (ignore) {
+            b.textContent = label;
+        }
+        if (event.eventPhase) return reset();
+        b.disabled = false;
+    };
+
+    return a;
+}
+
+const button = (data, filename="data.csv", label="Save") => {
+    const downloadData = new Blob([d3.csvFormat(data)], { type: "text/csv" });
+    const button = download(
+        downloadData,
+        filename,
+        label
+    );
+    return button
+};
+
+const downloadButton = button(serviceCSV, service.file, `${service.service} en ${service.year}`);
+const downloadAll = htl.html`<a href="https://github.com/mauforonda/minsalud_servicios/releases/latest" target="_blank" title="en formato parquet">
+todos los datos
+</a>`;
+return {download,button,downloadButton,downloadAll};
+}});
+
+define({id: "9a6e1fad", inputs: ["htl","colors"], outputs: ["sprout"], body: (htl,colors) => {
+const sprout = htl.svg`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="${colors.selection}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sprout-icon lucide-sprout"><path d="M7 20h10"/><path d="M10 20c5.5-2.5.8-6.4 3-10"/><path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5.4-4.8-.3-1.2-.6-2.3-1.9-3-4.2 2.8-.5 4.4 0 5.5.8z"/><path d="M14.1 6a7 7 0 0 0-1.1 4c1.9-.1 3.3-.6 4.3-1.4 1-1 1.6-2.3 1.7-4.6-2.7.1-4 1-4.9 2z"/></svg>`
+return {sprout};
+}});
+
+define({id: "92ff7a49", mode: "inline", inputs: ["indexSearch","display"], body: async (indexSearch,display) => {
+display(await(
+indexSearch
+))
+}});
+
+define({id: "16040019", mode: "inline", inputs: ["suggestionButtons","display"], body: async (suggestionButtons,display) => {
+display(await(
+suggestionButtons
+))
+}});
+
+define({id: "62b12aee", mode: "inline", inputs: ["indexPlot","display"], body: async (indexPlot,display) => {
+display(await(
+indexPlot
+))
+}});
+
+define({id: "69588e6f", mode: "inline", inputs: ["serviceButton","display"], body: async (serviceButton,display) => {
+display(await(
+serviceButton
+))
+}});
+
+define({id: "0a09ec8a", mode: "inline", inputs: ["populationBars","display"], body: async (populationBars,display) => {
+display(await(
+populationBars
+))
+}});
+
+define({id: "94d192b3", mode: "inline", inputs: ["timeline","display"], body: async (timeline,display) => {
+display(await(
+timeline
+))
+}});
+
+define({id: "2738e1f7", mode: "inline", inputs: ["mapa","display"], body: async (mapa,display) => {
+display(await(
+mapa
+))
+}});
+
+define({id: "c83f2e66", mode: "inline", inputs: ["downloadButton","display"], body: async (downloadButton,display) => {
+display(await(
+downloadButton
+))
+}});
+
+define({id: "92b67617", mode: "inline", inputs: ["downloadAll","display"], body: async (downloadAll,display) => {
+display(await(
+downloadAll
+))
+}});
+
+define({id: "7957bdf8", mode: "inline", inputs: ["sprout","display"], body: async (sprout,display) => {
+display(await(
+sprout
+))
+}});
+
+</script>
+</head>
+<body>
+<div id="observablehq-center">
+<main id="observablehq-main" class="observablehq">
+<link rel="stylesheet" href="./_file/style.2f06f3bf.css">
+<div class="observablehq observablehq--block"><!--:efb9f012:--></div>
+<div class="observablehq observablehq--block"><!--:402039c4:--></div>
+<div class="observablehq observablehq--block"><!--:daf21412:--></div>
+<div class="observablehq observablehq--block"><!--:9183ab22:--></div>
+<div class="observablehq observablehq--block"><!--:05d46109:--></div>
+<div class="observablehq observablehq--block"><!--:4dc99df9:--></div>
+<div class="observablehq observablehq--block"><!--:e3078fb3:--></div>
+<div class="observablehq observablehq--block"><!--:300bd72b:--></div>
+<div class="observablehq observablehq--block"><!--:2d893436:--></div>
+<div class="observablehq observablehq--block"><!--:33065019:--></div>
+<div class="observablehq observablehq--block"><!--:06fe67ff:--></div>
+<div class="observablehq observablehq--block"><!--:8473c1f5:--></div>
+<div class="observablehq observablehq--block"><!--:2583e9fe:--></div>
+<div class="observablehq observablehq--block"><!--:e1ca1357:--></div>
+<div class="observablehq observablehq--block"><!--:a8b72a0a:--></div>
+<div class="observablehq observablehq--block"><!--:0b1a31b6:--></div>
+<div class="observablehq observablehq--block"><!--:85635474:--></div>
+<div class="observablehq observablehq--block"><!--:e5a49b4a:--></div>
+<div class="observablehq observablehq--block"><!--:0b76ca27:--></div>
+<div class="observablehq observablehq--block"><!--:4a82eb23:--></div>
+<div class="observablehq observablehq--block"><!--:1eda4018:--></div>
+<div class="observablehq observablehq--block"><!--:075be78d:--></div>
+<div class="observablehq observablehq--block"><!--:9a6e1fad:--></div>
+<div class="main">
+    <div class="topHeader">
+        <div class="title">
+            Servicios de Salud en Bolivia
+        </div>
+        <div class="subtitle">
+            Estadísticas del Formulario 301a de Producción de Servicios del Ministerio de Salud de Bolivia entre 2005 y 2024
+        </div>
+    </div>
+    <div class="section">busca</div>
+    <div class="index">
+        <div class="search">
+            <observablehq-loading></observablehq-loading><!--:92ff7a49:-->
+            <div class="suggestions">
+                <observablehq-loading></observablehq-loading><!--:16040019:-->
+            </div>
+        </div>
+        <div class="focus indexPlot">
+            <div class="hint">datos disponibles</div>
+            <observablehq-loading></observablehq-loading><!--:62b12aee:-->
+        </div>
+    </div>
+    <div class="section">consulta</div>
+    <div class="service">
+        <div class="header">
+            <observablehq-loading></observablehq-loading><!--:69588e6f:-->
+        </div>
+        <div class="plots">
+            <div class="plotSection">
+                <div class="populations">
+                    <div class="hint">categorías disponibles</div>
+                    <observablehq-loading></observablehq-loading><!--:0a09ec8a:-->
+                </div>
+                <div class="timeline">
+                    <div class="hint">en meses</div>
+                    <observablehq-loading></observablehq-loading><!--:94d192b3:-->
+                </div>
+            </div>
+            <div class="plotSection">
+                <div class="map">
+                    <div class="hint">en municipios</div>
+                    <observablehq-loading></observablehq-loading><!--:2738e1f7:-->
+                </div>
+            </div>
+        </div>
+        <div class="plots">
+        </div>
+    </div>
+    <div class="section">descarga</div>
+    <div class="download">
+        <observablehq-loading></observablehq-loading><!--:c83f2e66:-->
+        <observablehq-loading></observablehq-loading><!--:92b67617:-->
+    </div>
+    <div class="section">créditos</div>
+    <div class="credits">
+        Datos publicados en los <a href="https://estadisticas.minsalud.gob.bo/" target="_blank" rel="noopener noreferrer">reportes estadísticos del formulario 301a</a> del Ministerio de Salud y Deportes de Bolivia. <a href="https://github.com/mauforonda/minsalud_servicios/" target="_blank" rel="noopener noreferrer">Código para descargar, procesar y visualizar estos datos</a> por <a href="mailto:mauriforonda@gmail.com" target="_blank" rel="noopener noreferrer">Mauricio Foronda</a>. Errores ortográficos cortesía de trabajadores de salud.
+    </div>
+    <div class="footer">
+        <observablehq-loading></observablehq-loading><!--:7957bdf8:-->
+    </div>
+</div>
+</main>
+</div>
+</body>
+</html>
