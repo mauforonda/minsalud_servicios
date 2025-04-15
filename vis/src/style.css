@@ -1,0 +1,295 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+:root {
+    --selection: #6b9778;
+    --selection_muted: #6b977826;
+    --selection_glow: #6aae65;
+}
+
+.main {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section {
+    max-width: 1500px;
+    font-size: 0.7rem;
+    font-family: sans-serif;
+    opacity: 0.5;
+    width: 100%;
+    border-bottom: 1px dotted var(--theme-foreground-faint);
+    padding-bottom: 3px;
+    margin-top: 10px;
+}
+
+.hint {
+    max-width: 100%;
+    text-align: right;
+    font-size: 0.7rem;
+    font-family: "Inter";
+    color: var(--theme-foreground-fainter);
+    padding: 10px 15px 0 0;
+}
+
+.topHeader {
+    text-align: center;
+    margin-bottom: 10px;
+    .title {
+        font-family: "Playfair Display", serif;
+        font-size: 2.5rem;
+        color: var(--theme-foreground);
+        margin-bottom: 10px;
+    }
+    .subtitle {
+        color: var(--theme-foreground-faint);
+        font-size: .9rem;
+        font-family: "Inter";
+    }
+}
+
+.index {
+    max-width: 1500px;
+    .search {
+        display: flex;
+        gap: 5px;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: start;
+        width: 100%;
+
+        input[type="search"] {
+            border-radius: 5px;
+            border: 1px solid var(--theme-foreground-fainter);
+            background-color: var(--selection_muted);
+            padding: 3px 6px;
+            text-align: center;
+            width: 300px;
+        }
+
+        form {
+            margin: 10px;
+            width: auto !important;
+        }
+
+        output {
+            width: 0 !important;
+        }
+    }
+
+    .suggestions {
+        width: calc(100% - 300px);
+        input {
+            display: none;
+        }
+
+        label {
+            padding: 3px 6px;
+            margin: 2px !important;
+            font-size: 0.8em;
+            opacity: 0.5;
+            border-radius: 3px;
+            border: 1px solid var(--theme-foreground-fainter);
+        }
+
+        label:hover {
+            background-color: var(--theme-background);
+            border-color: var(--theme-foreground-faint);
+            cursor: pointer;
+        }
+
+        form {
+            max-width: 100%;
+        }
+    }
+    .focus {
+        border-radius: 5px;
+        width: 100%;
+    }
+
+    .indexPlot {
+        background-color: var(--theme-background-alt);
+        padding: 0;
+    }
+}
+
+.service {
+    max-width: 1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+
+    .serviceButton {
+        padding: 10px;
+        border-radius: 5px;
+        font-family: "Inter", sans-serif;
+        * {
+            text-align: center;
+        }
+        div:first-child {
+            border-bottom: 1px solid var(--theme-foreground-faintest);
+        }
+        .buttonService {
+            font-size: 1.1rem;
+        }
+        .buttonYear {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+        .buttonGroup {
+            font-size: 0.8rem;
+            opacity: 0.5;
+        }
+    }
+
+    .target {
+        cursor: pointer;
+    }
+
+    .target:hover {
+        background-color: var(--selection_muted);
+    }
+
+    .plots {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .plotSection {
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        gap: 20px;
+    }
+
+    .populations,
+    .timeline,
+    .map {
+        padding: 0;
+        padding: 0 0 20px 0;
+        background-color: var(--theme-background-alt);
+        border-radius: 5px;
+        box-shadow: 0 2px 5px #0000001c;
+    }
+
+    .populations {
+        padding: 0 0 15px 15px;
+        max-width: 400px;
+        border-radius: 5px;
+        border: 1px solid var(--theme-foreground-faintest);
+        background: var(--theme-background);
+    }
+
+    .mapLegend-ramp {
+        line {
+            stroke: var(--theme-background);
+        }
+        text {
+            fill: var(--theme-foreground-faint);
+        }
+    }
+}
+
+.download {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    a {
+        text-decoration: none;
+        background-color: var(--theme-background-alt);
+        color: var(--theme-foreground-faint);
+        padding: 10px;
+        margin: 10px;
+        display: block;
+        border-radius: 5px;
+        font-size: 0.8rem;
+        cursor: pointer;
+        font-family: "Inter";
+        font-weight: bold;
+
+        span {
+            opacity: 0.7;
+            font-size: 0.9em;
+        }
+        .download-service {
+            opacity: 1;
+            font-size: 1em;
+        }
+    }
+    a:hover {
+        background-color: var(--selection_muted);
+        text-decoration: none;
+        color: var(--theme-foreground);
+        button {
+            color: var(--theme-foreground);
+        }
+    }
+
+    button {
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        color: var(--theme-foreground-faint);
+        font-family: "Inter";
+        font-weight: bold;
+    }
+}
+
+.credits {
+    margin: 20px;
+    font-size: .8rem;
+    color: var(--theme-foreground-faint);
+    max-width: 700px;
+    font-family: "Inter";
+
+    a {
+        background-color: var(--theme-background-alt);
+        color: var(--theme-foreground-faint);
+        padding: 0 3px;
+        border-radius: 3px;
+    }
+    a:hover {
+        text-decoration: none;
+        background-color: var(--selection_muted);
+        color: var(--theme-foreground)
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --selection: #80bdbb;
+    }
+}
+
+@media screen and (max-width: 1164px) {
+    .plotSection {
+        align-items: center !important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .search {
+        flex-wrap: wrap;
+        .suggestions {
+            width: 100%;
+            form div {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                flex-wrap: wrap;
+            }
+        }
+    }
+}
