@@ -474,9 +474,9 @@ const serviceTime = processTime(serviceCSV);
 const makeTimeline = (population) => {
     const top = Math.max(...population.map((i) => i.value)) * 1.1;
     const w = width > 1100 ? width * 0.5 - 40 : width;
-    const h = width > 1100 ? width * 0.2 + 20 : width * 0.5;
+    const h = width > 1100 ? width * 0.2 + 20 : width * 0.55;
     const maxRadius = w / 30;
-    const marginTop = w > 660 ? w / 12 : 40;
+    const marginTop = w > 660 ? w / 12 : 50;
     const smallFont = w > 660 ? w / 80 : 11;
     const largeFont = w > 660 ? w / 35 : 15;
     const monthFormat = {
@@ -595,7 +595,7 @@ const makeTimeline = (population) => {
                 population,
                 Plot.pointerX({
                     ...textParams,
-                    filter: (d) => d.month < 12,
+                    filter: (d) => d.month < 11,
                     text: "value",
                     dy: -30,
                     fill: colors.selection,
@@ -610,7 +610,7 @@ const makeTimeline = (population) => {
                 population,
                 Plot.pointerX({
                     ...textParams,
-                    filter: (d) => d.month == 12,
+                    filter: (d) => d.month >= 11,
                     text: "value",
                     dy: -30,
                     fill: colors.selection,
@@ -625,7 +625,7 @@ const makeTimeline = (population) => {
                 population,
                 Plot.pointerX({
                     ...textParams,
-                    filter: (d) => d.month < 12,
+                    filter: (d) => d.month < 11,
                     text: (d) => `en ${monthFormat[d.month]}`,
                     dy: -20,
                     fill: colors.stroke,
@@ -639,7 +639,7 @@ const makeTimeline = (population) => {
                 population,
                 Plot.pointerX({
                     ...textParams,
-                    filter: (d) => d.month == 12,
+                    filter: (d) => d.month >= 11,
                     text: (d) => `en ${monthFormat[d.month]}`,
                     dy: -20,
                     fill: colors.stroke,
