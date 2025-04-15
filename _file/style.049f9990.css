@@ -253,6 +253,7 @@
     color: var(--theme-foreground-faint);
     max-width: 700px;
     font-family: "Inter";
+    text-align: center;
 
     a {
         background-color: var(--theme-background-alt);
