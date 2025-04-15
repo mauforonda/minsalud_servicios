@@ -5,3 +5,5 @@ Datos abiertos de producción de servicios de salud en Bolivia ([formulario 301a
 
 
 El código y la organización de los datos presta casi completamente de [un proyecto previo que recolecta información de reportes epidemiológicos](https://github.com/mauforonda/epidemiological_surveillance_bolivia/).
+
+Puedes explorar visualmente los datos disponbles en [este tablero](https://mauforonda.github.io/minsalud_servicios/).

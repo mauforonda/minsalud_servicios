@@ -217,10 +217,6 @@ const defaultPopulation = populations
 const population = selectedPopulation ? selectedPopulation : defaultPopulation;
 ```
 
-<div class="populationBars" style="overflow: scroll">
-    <svg width="850">
-</div>
-
 ```js
 const plotPopulationBars = (populations) => {
     const labels = Object.fromEntries(
